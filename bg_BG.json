@@ -78,6 +78,15 @@
 	"SET_A_PASS": "сложете ваша парола",
 	"EMAIL_USED_WITH_FB": "Този email е използван с Фейсбук логин.",
 
+	"ADDON_DISCLAIMER": "Използването на add-on-и от трети лица е ваша отговорност.",
+	"ADDON_ACTIVATE": "Активирай този add-on?",
+
+	"WHATS_NEW": "Какво ново?",
+
+	"BUTTON_CONTINUE": "Продължи",
+	"BUTTON_ACTIVATE": "Активирай",
+	"BUTTON_CANCEL": "Отказ",
+
 	"January": "Януари",
 	"February": "Февруари",
 	"March": "Март",

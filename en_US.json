@@ -78,8 +78,16 @@
 	"CLICK_HERE": "click here",
 	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
 	"SET_A_PASS": "set a password",
-	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login."
+	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
 
+	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
+	"ADDON_ACTIVATE": "Activate this add-on?",
+
+	"WHATS_NEW": "What's new",
+
+	"BUTTON_CONTINUE": "Continue",
+	"BUTTON_ACTIVATE": "Activate",
+	"BUTTON_CANCEL": "Cancel"
 
 
 
