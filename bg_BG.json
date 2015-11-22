@@ -22,6 +22,7 @@
 	"REMOVE_FROM_LIB": "Премахни",
 	"TRAILER": "Трейлър",
 	"WATCH_TRAILER": "Трейлър",
+	"WATCH_NOW": "Гледай",
 	"SHOW": "Покажи",
 
 	"IMDB_RATING": "IMDb рейтинг",
@@ -91,6 +92,11 @@
 	"Thursday": "Четвъртък",
 	"Friday": "Петък",
 	"Saturday": "Събота",
-	"Sunday": "Неделя"
+	"Sunday": "Неделя",
+
+	"Action": "Екшън",
+	"Comedy": "Комедия",
+	"War": "Военни",
+	"Family": "Семейни"
 
 }
