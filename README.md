@@ -11,4 +11,4 @@ Top priority translations:
 * fr_FR
 
 
-**The ability to use those translations will be out in Stremio 3.4.0, scheduled Monday or Tuesday**
+**The ability to use those translations will be out in Stremio 3.4.0, scheduled to come out on 23.11.2015**
