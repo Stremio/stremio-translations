@@ -46,7 +46,14 @@
 
 	"DISCOVER_FEATURED": "Featured",
 
-	"SORT_TRENDING": "Trending",
+	"SORT_TRENDING": "trending",
+	"SORT_RECENT": "recent",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "rating",
+	"SORT_WATCHED": "watched",
+	"SORT_YEAR": "year",
+
+	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio add-on active for this type. Showing saved items, nothing here will update.",
 
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "Upgrade to the latest Stremio version",

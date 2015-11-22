@@ -44,7 +44,14 @@
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
 
-	"SORT_TRENDING": "Популярни",
+	"SORT_TRENDING": "популярни",
+	"SORT_RECENT": "последни",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "рейтинг",
+	"SORT_WATCHED": "гледани",
+	"SORT_YEAR": "година",
+
+	"DISCOVER_NOADDON_WARNING": "Внимание: няма активен Stremio add-on за този тип съдържание. Тук виждате запазена информация, тя няма да се обнови.",
 
 	"RELAUNCH": "Стартирай новата версия!",
 	"UPGRADE": "Достъпна е нова версия",
