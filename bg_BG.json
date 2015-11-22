@@ -40,7 +40,14 @@
 	"ENDED": "Прекратено",
 	"DURATION": "Продължителност",
 
-	"NO_STREAM": "Няма достъпен stream",
+	"ADDONS_OFFICIAL": "Официални addon-и",
+	"ADDONS_POPULAR": "Популярни в района ви",
+	"ADDON_FREE": "безплатно",
+	"ADDON_SUBSCRIPTION": "subscription",
+
+	"AVAILABLE_STREAMS": "Достъпни източници",
+
+	"NO_STREAM": "Няма достъпни източници",
 	"STILL_IN_THEATER": "Филмът е все още по кината",
 	"WATCH_IN_CINEMA": "",
 	"CHANNEL_NOT_SCRAPED": "Нямаме информация за този канал все още.<br>Върнете се след няколко минути.",

@@ -40,7 +40,14 @@
 	"ENDED": "Ended",
 	"DURATION": "Duration",
 
-	"NO_STREAM": "No Stream Available",
+	"ADDONS_OFFICIAL": "Official Stremio Addons",
+	"ADDONS_POPULAR": "Popular in your area",
+	"ADDON_FREE": "free",
+	"ADDON_SUBSCRIPTION": "subscription",
+
+	"AVAILABLE_STREAMS": "Available Streams",
+
+	"NO_STREAM": "No streams available",
 	"STILL_IN_THEATER": "Movie still in theater",
 	"WATCH_IN_CINEMA": "watch it in your local cinema",
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
