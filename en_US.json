@@ -1,0 +1,68 @@
+{ 
+	"TYPE_movie": "Movie",
+	"TYPE_series": "Series",
+	"TYPE_tv": "TV channel",
+	"TYPE_channel": "Channel",
+
+	"TYPE_movie_PL": "Movies",
+	"TYPE_series_PL": "Series",
+	"TYPE_tv_PL": "TV channels",
+	"TYPE_channel_PL": "Channels",
+
+	"BACK": "Back",
+
+	"Discover": "Discover",
+	"Board": "Board",
+	"Library": "Library",
+	"Calendar": "Calendar",
+
+	"ADD_TO_LIB": "Add to Library",
+	"REMOVE_FROM_LIB": "Remove from Lib",
+	"TRAILER": "Trailer",
+	"WATCH_TRAILER": "Watch Trailer",
+	"SHOW": "Show",
+
+	"IMDB_RATING": "IMDb Rating",
+	"YEAR": "Year",
+	"DIRECTOR": "Director",
+	"WRITER": "Writer",
+	"LEAD_ACTORS": "Lead Actors",
+	"CAST": "Cast",
+	"AIRED": "Aired",
+	"SEASONS": "Seasons",
+	"GENRE": "Genre", 
+	"SUMMARY": "Summary",
+	"SIMILAR": "Similar",
+	"UPCOMING": "Upcoming",
+	"ENDED": "Ended",
+	"DURATION": "Duration",
+
+	"NO_STREAM": "No Stream Available",
+
+	"SEASON": "Season",
+	"EPISODE": "Episode",
+
+	"DISCOVER_FEATURED": "Featured",
+
+	"SORT_TRENDING": "Trending",
+
+	"RELAUNCH": "Re-launch now!",
+	"UPGRADE": "Upgrade to the latest Stremio version",
+
+	"FB_LOGIN": "Login with Facebook",
+	"OR": "or",
+	"I_ACCEPT": "I accept the",
+	"TOS": "Terms and Conditions",
+	"PASSWORDS_NOMATCH": "Passwords don't match",
+	"SIGN_UP": "Sign up",
+	"LOG_IN": "Log in",
+	"GUEST_LOGIN": "Guest login",
+	"CLICK_HERE": "click here",
+	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
+	"SET_A_PASS": "set a password",
+	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login."
+
+
+
+
+}

@@ -1,0 +1,64 @@
+{ 
+	"TYPE_movie": "Филм",
+	"TYPE_series": "Сериал",
+	"TYPE_tv": "TV канал",
+	"TYPE_channel": "YouTube канал",
+
+	"TYPE_movie_PL": "Филми",
+	"TYPE_series_PL": "Сериали",
+	"TYPE_tv_PL": "TV канали",
+	"TYPE_channel_PL": "YouTube канали",
+
+	"BACK": "Назад",
+
+	"Discover": "Открий",
+	"Board": "Известия",
+	"Library": "Библиотека",
+	"Calendar": "Календар",
+
+	"ADD_TO_LIB": "Добави",
+	"REMOVE_FROM_LIB": "Премахни",
+	"TRAILER": "Трейлър",
+	"WATCH_TRAILER": "Трейлър",
+	"SHOW": "Покажи",
+
+	"IMDB_RATING": "IMDb рейтинг",
+	"YEAR": "Година",
+	"DIRECTOR": "Режисьор",
+	"WRITER": "Автор",
+	"LEAD_ACTORS": "В Главните роли",
+	"CAST": "Състав",
+	"AIRED": "Излъчено",
+	"SEASONS": "Сезони",
+	"GENRE": "Жанр", 
+	"SUMMARY": "Описание",
+	"SIMILAR": "Подобни",
+	"UPCOMING": "Очаквайте",
+	"ENDED": "Прекратено",
+	"DURATION": "Продължителност",
+
+	"NO_STREAM": "Няма достъпен stream",
+
+	"SEASON": "Сезон",
+	"EPISODE": "Епизод",
+
+	"SORT_TRENDING": "Популярни",
+
+	"RELAUNCH": "Стартирай новата версия!",
+	"UPGRADE": "Достъпна е нова версия",
+
+	"FB_LOGIN": "Влизане с Фейсбук",
+	"OR": "или",
+	"I_ACCEPT": "Прочетох и приемам",
+	"TOS": "Общите условия",
+	"PASSWORDS_NOMATCH": "Паролите се разминават",
+	"SIGN_UP": "Регистрирай се",
+	"LOG_IN": "Влез",
+	"GUEST_LOGIN": "Влизане като гост",
+	"CLICK_HERE": "кликнете тук",
+	"WRONG_PASSWORD": "Грешна парола. В случай, че сте я забравили, ",
+	"SET_A_PASS": "сложете ваша парола",
+	"EMAIL_USED_WITH_FB": "Този email е използван с Фейсбук логин."
+
+
+}
