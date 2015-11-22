@@ -142,10 +142,13 @@
 	"SETTINGS_TOS": "Условия за ползване",
 	"SETTINGS_SUPPORT": "Поддръжка",
 
+	"QUIT": "Спиране",
+
 	"CONNETED": "Свързан",
 	"AUTHENTICATE": "оторизация",
 	"CACHING": "Кеширане",
 	"SETTINGS_CACHING_DRIVE": "Изберете диск за кеш",
+	"no caching": "без кеш",
 
 	"January": "Януари",
 	"February": "Февруари",

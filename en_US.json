@@ -143,6 +143,8 @@
 	"SETTINGS_TOS": "Terms of service",
 	"SETTINGS_SUPPORT": "Contact support",
 
+	"QUIT": "Quit",
+
 	"CONNETED": "Connected",
 	"AUTHENTICATE": "Authenticate",
 	"CACHING": "Caching",
