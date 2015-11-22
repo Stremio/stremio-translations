@@ -51,6 +51,9 @@
 	"SORT_WATCHED": "гледани",
 	"SORT_YEAR": "година",
 
+	"DISCOVER_TOP": "Топ",
+	"DISCOVER_OSCAR": "Носители на Оскар",
+
 	"DISCOVER_NOADDON_WARNING": "Внимание: няма активен Stremio add-on за този тип съдържание. Тук виждате запазена информация, тя няма да се обнови.",
 
 	"RELAUNCH": "Стартирай новата версия!",
@@ -67,7 +70,27 @@
 	"CLICK_HERE": "кликнете тук",
 	"WRONG_PASSWORD": "Грешна парола. В случай, че сте я забравили, ",
 	"SET_A_PASS": "сложете ваша парола",
-	"EMAIL_USED_WITH_FB": "Този email е използван с Фейсбук логин."
+	"EMAIL_USED_WITH_FB": "Този email е използван с Фейсбук логин.",
 
+	"January": "Януари",
+	"February": "Февруари",
+	"March": "Март",
+	"April": "Април",
+	"May": "Май",
+	"June": "Юни",
+	"July": "Юли",
+	"August": "Август",
+	"September": "Септември",
+	"October": "Октомври",
+	"November": "Ноември",
+	"December": "Декември",
+
+	"Monday": "Понеделник",
+	"Tuesday": "Вторник",
+	"Wednesday": "Сряда",
+	"Thursday": "Четвъртък",
+	"Friday": "Петък",
+	"Saturday": "Събота",
+	"Sunday": "Неделя"
 
 }
