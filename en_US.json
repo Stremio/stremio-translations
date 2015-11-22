@@ -15,6 +15,8 @@
 	"Board": "Board",
 	"Library": "Library",
 	"Calendar": "Calendar",
+	
+	"SEARCH": "search",
 
 	"ADD_TO_LIB": "Add to Library",
 	"REMOVE_FROM_LIB": "Remove from Lib",
