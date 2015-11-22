@@ -40,6 +40,9 @@
 	"ENDED": "Прекратено",
 	"DURATION": "Продължителност",
 
+	"ADDON": "add-on",
+	"ADDONS": "Add-ons",
+	"OFFICIAL": "официални",
 	"ADDONS_OFFICIAL": "Официални addon-и",
 	"ADDONS_POPULAR": "Популярни в района ви",
 	"ADDON_FREE": "безплатно",
@@ -53,6 +56,8 @@
 	"CHANNEL_NOT_SCRAPED": "Нямаме информация за този канал все още.<br>Върнете се след няколко минути.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
+
+	"STREAMING_FROM": "стриймваме от",
 
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",

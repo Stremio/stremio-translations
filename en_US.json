@@ -40,6 +40,9 @@
 	"ENDED": "Ended",
 	"DURATION": "Duration",
 
+	"ADDON": "add-on",
+	"ADDONS": "Add-ons",
+	"OFFICIAL": "official",
 	"ADDONS_OFFICIAL": "Official Stremio Addons",
 	"ADDONS_POPULAR": "Popular in your area",
 	"ADDON_FREE": "free",
@@ -53,6 +56,8 @@
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
+
+	"STREAMING_FROM": "streaming from",
 
 	"SEASON": "Season",
 	"EPISODE": "Episode",
