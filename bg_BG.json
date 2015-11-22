@@ -57,7 +57,24 @@
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
 
+
 	"STREAMING_FROM": "стриймваме от",
+	"CASTING_TO": "Възпроизвеждаме на",
+	"NETWORK_STATUS": "Мрежа",
+	"STREAM_SPEED": "Скорост:",
+	"STREAM_BUFFERED": "Буфер:",
+	"PEERS_INFO": "Пиърове",
+	"PEERS_ACTIVE": "Активни:",
+	"PEERS_CONNECTED": "Свързани:",
+	"PEERS_WAITING": "Чакащи:",
+
+	"STREAM_LOADING": "зареждане...",
+	"PLAYING_LOCAL": "възпроизвеждане от локален файл",
+	"PLAYING_CACHE": "възпроизвеждане от кеш",
+
+	"WRONG_SUBS": "Грешни субтитри?",
+
+	"CHOOSE_DEVICE": "Изберете устройство",
 
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",

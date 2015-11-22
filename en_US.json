@@ -58,6 +58,24 @@
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
 
 	"STREAMING_FROM": "streaming from",
+	"CASTING_TO": "Casting to",
+	"NETWORK_STATUS": "Network status",
+	"STREAM_SPEED": "Stream speed:",
+	"STREAM_BUFFERED": "Buffered:",
+	"PEERS_INFO": "Peers Information",
+	"PEERS_ACTIVE": "Active:",
+	"PEERS_CONNECTED": "Connected:",
+	"PEERS_WAITING": "Waiting:",
+
+	"STREAM_LOADING": "loading...",
+	"PLAYING_LOCAL": "playing from local file",
+	"PLAYING_CACHE": "playing from cache",
+
+	"WRONG_SUBS": "Wrong subtitles?",
+
+	"CHOOSE_DEVICE": "Choose a device to watch on",
+	
+	"PHONE_TABLET": "Phone / Tablet",
 
 	"SEASON": "Season",
 	"EPISODE": "Episode",
