@@ -41,6 +41,11 @@
 	"DURATION": "Продължителност",
 
 	"NO_STREAM": "Няма достъпен stream",
+	"STILL_IN_THEATER": "Филмът е все още по кината",
+	"WATCH_IN_CINEMA": "",
+	"CHANNEL_NOT_SCRAPED": "Нямаме информация за този канал все още.<br>Върнете се след няколко минути.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
 
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
@@ -97,6 +102,8 @@
 	"Action": "Екшън",
 	"Comedy": "Комедия",
 	"War": "Военни",
-	"Family": "Семейни"
+	"Family": "Семейни",
+	"Adventure": "Приключенски"
+
 
 }
