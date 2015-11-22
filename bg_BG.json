@@ -75,6 +75,11 @@
 	"WRONG_SUBS": "Грешни субтитри?",
 
 	"CHOOSE_DEVICE": "Изберете устройство",
+	
+	"PHONE_TABLET": "Телефон / Таблет",
+
+	"SUBTITLES_CHANGE": "Смени субтитрите на ",
+	"SUBTITLES_CHANGE_NONE": "Няма други субтитри за този език.",
 
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
@@ -100,7 +105,8 @@
 	"TOS": "Общите условия",
 	"PASSWORDS_NOMATCH": "Паролите се разминават",
 	"SIGN_UP": "Регистрирай се",
-	"LOG_IN": "Влез",
+	"LOG_IN": "Вход",
+	"LOG_OUT": "Изход",
 	"GUEST_LOGIN": "Влизане като гост",
 	"CLICK_HERE": "кликнете тук",
 	"WRONG_PASSWORD": "Грешна парола. В случай, че сте я забравили, ",
@@ -126,6 +132,20 @@
 	"IMPORT_FB": "Добавяне от <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Намерете интересни неща в <span>Discover</span>",
 	"IMPORT_DISK": "Сканирайте за филми и сериали от вашия <span>локален диск</span>",
+
+
+	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
+	"SETTINGS_IMPORT_FB": "Import from Facebook",
+	"SETTINGS_IMPORT_DISK": "Import from local disk",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscribe to calendar",
+	"SETTINGS_CHANGE_PASSWORD": "Промяна на парола",
+	"SETTINGS_TOS": "Условия за ползване",
+	"SETTINGS_SUPPORT": "Поддръжка",
+
+	"CONNETED": "Свързан",
+	"AUTHENTICATE": "оторизация",
+	"CACHING": "Кеширане",
+	"SETTINGS_CACHING_DRIVE": "Изберете диск за кеш",
 
 	"January": "Януари",
 	"February": "Февруари",

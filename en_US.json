@@ -77,6 +77,10 @@
 	
 	"PHONE_TABLET": "Phone / Tablet",
 
+	"SUBTITLES_CHANGE": "Change subtitles for ",
+	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
+
+
 	"SEASON": "Season",
 	"EPISODE": "Episode",
 
@@ -104,6 +108,7 @@
 	"PASSWORDS_NOMATCH": "Passwords don't match",
 	"SIGN_UP": "Sign up",
 	"LOG_IN": "Log in",
+	"LOG_OUT": "Log out",
 	"GUEST_LOGIN": "Guest login",
 	"CLICK_HERE": "click here",
 	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
@@ -128,7 +133,21 @@
 	"HOW_START_BOARD": "Here is how you can add series &amp; movies to it:",
 	"IMPORT_FB": "Import things you like from <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
-	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>"
+	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
+	"SETTINGS_IMPORT_FB": "Import from Facebook",
+	"SETTINGS_IMPORT_DISK": "Import from local disk",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscribe to calendar",
+	"SETTINGS_CHANGE_PASSWORD": "Change password",
+	"SETTINGS_TOS": "Terms of service",
+	"SETTINGS_SUPPORT": "Contact support",
+
+	"CONNETED": "Connected",
+	"AUTHENTICATE": "Authenticate",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Select caching drive"
+
 
 
 
