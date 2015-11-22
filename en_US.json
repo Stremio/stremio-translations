@@ -87,7 +87,18 @@
 
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
-	"BUTTON_CANCEL": "Cancel"
+	"BUTTON_CANCEL": "Cancel",
+
+	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
+	"HOW_START": "Here is how you can start:",
+	"LIB_EMPTY_CAL": "Your Calendar shows series in your Library.",
+	"HOW_START_CAL": "Here is how you can add series:",
+	"LIB_EMPTY_BOARD": "Board shows notifications &amp; recommendations related to your Library.",
+	"HOW_START_BOARD_WAIT": "Please, add a few series or channels to your Library give us a few minutes to process :)",
+	"HOW_START_BOARD": "Here is how you can add series &amp; movies to it:",
+	"IMPORT_FB": "Import things you like from <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
+	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>"
 
 
 
