@@ -1,0 +1,19 @@
+{
+  "name": "stremio-translations",
+  "version": "1.0.0",
+  "description": "Translation strings used for Stremio app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stremio/stremio-translations.git"
+  },
+  "author": "Ivo Georgiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stremio/stremio-translations/issues"
+  },
+  "homepage": "https://github.com/Stremio/stremio-translations"
+}
