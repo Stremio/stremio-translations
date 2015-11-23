@@ -6,9 +6,9 @@ Any help with contributing additional translations would be extremely helpful! F
 
 Top priority translations:
 
-* pt_BR
-* pt_PT
-* fr_FR
+* ~~pt-BR~~ - thanks to luanhssa
+* pt-PT
+* fr-FR
 
 
 **The ability to use those translations will be out in Stremio 3.4.0, scheduled to come out by 24.11.2015**
