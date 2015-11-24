@@ -1,0 +1,181 @@
+ {
+"TYPE_movie":"Филм",
+"TYPE_series":"Серија",
+"TYPE_tv":"TV канал",
+"TYPE channel":"YouTube канал",
+ 
+"TYPE_movie_PL":"Филмови",
+"TYPE_series_PL":"Серии",
+"TYPE_tv_PL":"TV канали",
+"TYPE_channel_PL":"YouTube канали",
+ 
+"BACK":"Назад",
+ 
+"Discover":"Најди",
+"Board":"Известија",
+"Library":"Библиотека",
+"Calendar":"Календар",
+ 
+"SEARCH":"бараj",
+ 
+"ADD_TO_LIB":"Додај",
+"REMOVE_FROM_LIB":"Отстрани",
+"TRAILER":"Треjлер",
+ "WATCH_TRAILER":"Треjлер",
+ "WATCH_NOW":"Гледај",
+ "SHOW":"Покажи",
+
+"IMDB_RATING":"IMDb рејтинг",
+"YEAR":"Година",
+"DIRECTOR":"Режија",
+"WRITER":"Автор",
+"LEAD_ACTORS":"Во Главните улоги",
+"CAST":"Глумат",
+"AIRED":"емитувано",
+"SEASONS":"Сезони",
+"GENRE":"Жанр",
+"SUMMARY":"Опис",
+"SIMILAR":"Слични",
+"UPCOMING":"Скоро",
+"ENDED":"Прекинат",
+"DURATION":"Времетраење",
+
+"ADDON":"add-on",
+"ADDONS":"Add-ons",
+"OFFICIAL":"официјални",
+"ADDONS_OFFICIAL":"Официјални addon-и",
+"ADDONS_POPULAR":"Популарни во регионот",
+"ADDON_FREE":"бесплатно",
+"ADDON_SUBSCRIPTION":"subscription",
+ 
+"AVAILABLE_STREAMS":"Достапни извори",
+ 
+"NO_STREAM":"Нема достапни извори",
+"STILL_IN_THEATER":"Филмот е сеуште во кината",
+"WATCH_IN_CINEMA":"",
+"CHANNEL_NOT_SCRAPED":"Сеуште немаме информации за овој канал. <br > Вратете се по неколку минути.",
+"ADD_TO_LIBRARY_TO_GET_NOTIFIED":"Додадете го во библиотеката за да примите известување.",
+"GET_NOTIFIED_WHEN_AVAILABLE":"Ќе примите известување кога ќе излезе.",
+
+
+"STREAMING_FROM":"Стриминг од",
+"CASTING_TO":"Репродукција на",
+"NETWORK_STATUS":"Мрежа",
+"STREAM_SPEED":"Брзина:",
+"STREAM_BUFFERED":"Буфер:",
+"PEERS_INFO":"Корисници",
+"PEERS_ACTIVE":"Активни:",
+"PEERS_CONNECTED":"Поврзани:",
+"PEERS_WAITING":"Чекаат:",
+
+"STREAM_LOADING":"Се вчитува ...",
+"PLAYING_LOCAL":"репродукција од локална датотека",
+"PLAYING_CACHE":"репродукција од кеш",
+
+"WRONG_SUBS":"Грешни преводи?",
+
+"CHOOSE_DEVICE":"Изберете уред",
+
+"PHONE_TABLET":"Телефон / таблет",
+
+"SUBTITLES_CHANGE":"Смени превод на",
+"SUBTITLES_CHANGE_NONE":"Нема други преводи за тој јазик.",
+
+"SEASON":"Сезона",
+"EPISODE":"Епизода",
+
+"SORT_TRENDING":"популарни",
+"SORT_RECENT":"последни",
+"SORT_ALPHABET":"a-z",
+"SORT_RATING":"рејтинг",
+"SORT_WATCHED":"видени",
+"SORT_YEAR":"година",
+ 
+"DISCOVER_TOP":"Топ",
+"DISCOVER_OSCAR":"Добитници на Оскар",
+ 
+"DISCOVER_NOADDON_WARNING":"Внимание: нема активен Stremio add-on за овој тип содржина. Овде гледате зачувана информациjа, таа нема да се обновува.",
+ 
+"RELAUNCH":"Лансирање новата верзија!",
+"UPGRADE":"Достапна е нова верзија",
+
+"FB_LOGIN":"Влегување со Фејсбук",
+"OR":"или",
+"I_ACCEPT":"Ги прочитав и ги прифаќам",
+"TOS":"Општите услови",
+"PASSWORDS_NOMATCH":"Лозинките се разминуваат",
+"SIGN_UP":"Регистрирај се",
+"LOG_IN":"Влез",
+"LOG_OUT":"Излез",
+"GUEST_LOGIN":"Влегување како гостин",
+"CLICK_HERE":"кликнете овде",
+"WRONG_PASSWORD":"погрешна лозинка. Во случај дека сте ја заборавиле",
+"SET_A_PASS":"ставете ваша лозинка",
+"EMAIL_USED_WITH_FB":"Овој email е употребен со Фејсбук најава.",
+
+"ADDON_DISCLAIMER":"Употребата на add-on-и од трети лица е на ваша одговорност.",
+"ADDON_ACTIVATE":"Активирај овој add-on?",
+
+"WHATS_NEW":"Што е ново?",
+
+"BUTTON_CONTINUE":"Продолжи",
+"BUTTON_ACTIVATE":"Активирај",
+"BUTTON_CANCEL":"Откажи",
+
+"LIB_EMPTY":"Библиотеката ви е празна. Откријте колку е корисна :)",
+"HOW_START":"Започнете така:",
+"LIB_EMPTY_CAL":"Календарот покажува епизоди од сериите во вашата Библиотека.",
+"HOW_START_CAL":"Еве како да додадете серии:",
+"LIB_EMPTY_BOARD":"Тука ќе видите известувања и препораки свързани со вашата Библиотеката.",
+"HOW_START_BOARD_WAIT":"Ве молиме додадете неколку канали / серии и ни даjте неколку минути да собереме известувања :)",
+"HOW_START_BOARD":"Еве како да додадете филмови и серии во библиотеката:",
+"IMPORT_FB":"Додавање од <span> Facebook </ span>",
+"IMPORT_DISCOVER":"Најди интересни работи во <span> Discover </ span>",
+"IMPORT_DISK":"Скенирајте за филмови и серии од вашиот <span> локален диск </ span>",
+
+
+"SETTINGS_LAUNCH_STARTUP":"Launch on start-up",
+"SETTINGS_IMPORT_FB":"Import from Facebook",
+"SETTINGS_IMPORT_DISK":"Import from local disk",
+"SETTINGS_SUBSCRIBE_CALENDAR":"Subscribe to calendar",
+"SETTINGS_CHANGE_PASSWORD":"Промена на лозинка",
+"SETTINGS_TOS":"Услови на употреба",
+"SETTINGS_SUPPORT":"Поддршка",
+"SETTING_LANGUAGE":"Јазик",
+ 
+"QUIT":"Стоп",
+ 
+"CONNETED":"Сврзани",
+ "AUTHENTICATE":"овластување",
+"CACHING":"Кешира",
+"SETTINGS_CACHING_DRIVE":"Изберете диск за кеш",
+"no caching":"без кеш",
+ 
+"January":"Jануари",
+"February":"Февруари",
+"March":"Март",
+"April":"Април",
+"May":"Мај",
+"June":"Јуни",
+"July":"Јули",
+"August":"Август",
+"September":"Септември",
+"October":"Октомври",
+"November":"Ноември",
+"December":"Декември",
+ 
+"Monday":"Понеделник",
+"Tuesday":"Вторник",
+"Wednesday":"Среда",
+"Thursday":"Четврток",
+"Friday":"Петок",
+"Saturday":"Сабота",
+"Sunday":"Недела",
+
+"Action":"Акција",
+"Comedy":"Комедија",
+"War":"Воени",
+"Family":"Семејни",
+"Animation":"Анимација",
+"Adventure":"Авантура"
+}
