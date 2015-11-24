@@ -142,15 +142,42 @@
 	"SETTINGS_CHANGE_PASSWORD": "Alterar a senha",
 	"SETTINGS_TOS": "Termos de serviço",
 	"SETTINGS_SUPPORT": "Contate o suporte",
+	"SETTING_LANGUAGE": "Substantivo",
 
 	"QUIT": "Sair",
 
 	"CONNETED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecione o drive para cache"
+	"SETTINGS_CACHING_DRIVE": "Selecione o drive para cache",
 
+	"January": "Janeiro",
+	"February": "Fevereiro",
+	"March": "Março",
+	"April": "Abril",
+	"May": "Maio",
+	"June": "Junho",
+	"July": "Julho",
+	"August": "Agosto",
+	"September": "Setembro",
+	"October": "Outubro",
+	"November": "Novembro",
+	"December": "Dezembro",
 
+	"Monday": "Monday",
+	"Tuesday": "Tuesday",
+	"Wednesday": "Wednesday",
+	"Thursday": "Thursday",
+	"Friday": "Friday",
+	"Saturday": "Saturday",
+	"Sunday": "Sunday",
+
+	"Action": "Action",
+	"Comedy": "Comedy",
+	"War": "War",
+	"Family": "Family",
+	"Animation": "Animation",
+	"Adventure": "Adventure"
 
 
 }
