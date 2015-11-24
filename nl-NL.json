@@ -1,0 +1,183 @@
+{ 
+	"TYPE_movie": "Film",
+	"TYPE_series": "Series",
+	"TYPE_tv": "TV kanalen",
+	"TYPE_channel": "Kanaal",
+
+	"TYPE_movie_PL": "Films",
+	"TYPE_series_PL": "Series",
+	"TYPE_tv_PL": "TV kanalen",
+	"TYPE_channel_PL": "Kanalen",
+
+	"BACK": "Terug",
+
+	"Discover": "Ontdek",
+	"Board": "Boord",
+	"Library": "Bibliotheek",
+	"Calendar": "Agenda",
+	
+	"SEARCH": "zoeken",
+
+	"ADD_TO_LIB": "Toevoegen aan Bibliotheek",
+	"REMOVE_FROM_LIB": "Verwijderen uit Bibliotheek",
+	"TRAILER": "Trailer",
+	"WATCH_TRAILER": "Trailer bekijken",
+	"WATCH_NOW": "Nu Kijken",
+	"SHOW": "Bekijk",
+
+	"IMDB_RATING": "IMDb Beoordeling",
+	"YEAR": "Jaar",
+	"DIRECTOR": "Regisseur",
+	"WRITER": "Schrijver",
+	"LEAD_ACTORS": "Hoofdrolspelers",
+	"CAST": "Rolverdeling",
+	"AIRED": "Uitgezonden",
+	"SEASONS": "Seizoenen",
+	"GENRE": "Genre", 
+	"SUMMARY": "Samenvatting",
+	"SIMILAR": "Vergelijkbaar",
+	"UPCOMING": "Opkomend",
+	"ENDED": "Afgelopen",
+	"DURATION": "Tijdsduur",
+
+	"ADDON": "Add-on",
+	"ADDONS": "Add-ons",
+	"OFFICIAL": "oficieel",
+	"ADDONS_OFFICIAL": "Offici?le Stremio Add-on",
+	"ADDONS_POPULAR": "Populair in uw regio",
+	"ADDON_FREE": "gratis",
+	"ADDON_SUBSCRIPTION": "abonnement",
+
+	"AVAILABLE_STREAMS": "Beschikbare Streams",
+
+	"NO_STREAM": "Geen streams beschikbaar",
+	"STILL_IN_THEATER": "Film draait nog in de bioscoop",
+	"WATCH_IN_CINEMA": "bekijk het in een bioscoop bij U in de buurt",
+	"CHANNEL_NOT_SCRAPED": "Dit kanaal is nog niet geschraapt.<br>Gelieve terug te komen in een paar minuten.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Deze toevoegen aan uw bibliotheek voor een melding zodra deze beschikbaar is.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "U krijgt een melding zodra deze beschikbaar is.",
+
+	"STREAMING_FROM": "streaming vanaf",
+	"CASTING_TO": "Casting naar",
+	"NETWORK_STATUS": "Netwerk status",
+	"STREAM_SPEED": "Stream snelheid:",
+	"STREAM_BUFFERED": "Gebufferd:",
+	"PEERS_INFO": "Peers Informatie",
+	"PEERS_ACTIVE": "Actief:",
+	"PEERS_CONNECTED": "Aangesloten:",
+	"PEERS_WAITING": "Wachten:",
+
+	"STREAM_LOADING": "laden...",
+	"PLAYING_LOCAL": "spelen vanaf een lokaal bestand",
+	"PLAYING_CACHE": "spelen vanaf cache",
+
+	"WRONG_SUBS": "Verkeerde subtitels?",
+
+	"CHOOSE_DEVICE": "Kies een apparaat om op te bekijken",
+	
+	"PHONE_TABLET": "Telefoon / Tablet",
+
+	"SUBTITLES_CHANGE": "Verander subtitels voor",
+	"SUBTITLES_CHANGE_NONE": "Er zijn geen andere subtitels voor deze taal, sorry.",
+
+
+	"SEASON": "Seizoen",
+	"EPISODE": "Aflevering",
+
+	"DISCOVER_FEATURED": "Uitgelicht",
+
+	"SORT_TRENDING": "trending",
+	"SORT_RECENT": "recent",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "beoordeling",
+	"SORT_WATCHED": "gezien",
+	"SORT_YEAR": "jaar",
+
+	"DISCOVER_TOP": "Top",
+	"DISCOVER_OSCAR": "Oscar Winnaars",
+
+	"DISCOVER_NOADDON_WARNING": "Waarschuwing: geen Stremio add-on actief voor dit type. Opgeslagen items worden weergegeven, hier komen geen updates.",
+
+	"RELAUNCH": "Herlanceer Nu!",
+	"UPGRADE": "Upgraden naar de nieuwste versie van Stremio",
+
+	"FB_LOGIN": "Inloggen met Facebook",
+	"OR": "of",
+	"I_ACCEPT": "Ik accepteer de",
+	"TOS": "Termen en Voorwaarden",
+	"PASSWORDS_NOMATCH": "Wachtwoorden komen niet overeen",
+	"SIGN_UP": "Inschrijven",
+	"LOG_IN": "Inloggen",
+	"LOG_OUT": "Uitloggen",
+	"GUEST_LOGIN": "Gast login",
+	"CLICK_HERE": "klik hier",
+	"WRONG_PASSWORD": "Verkeerd wachtwoord. In het geval dat u uw wachtwoord vergeten, ",
+	"SET_A_PASS": "Stel een wachtwoord in",
+	"EMAIL_USED_WITH_FB": "Deze email is gebruikt met een Facebook login.",
+
+	"ADDON_DISCLAIMER": "Het gebruiken van add-ons van derden zal altijd worden onderworpen aan uw verantwoordelijkheid en het recht van het rechtsgebied waar u zich bevindt.",
+	"ADDON_ACTIVATE": "Activeer deze add-on?",
+
+	"WHATS_NEW": "Wat is er nieuw",
+
+	"BUTTON_CONTINUE": "Doorgaan",
+	"BUTTON_ACTIVATE": "Activeer",
+	"BUTTON_CANCEL": "Annuleer",
+
+	"LIB_EMPTY": "Uw bibliotheek ziet er leeg uit. Ontdek hoe nuttig het is :) ",
+	"HOW_START": "Hier is hoe je kunt beginnen:",
+	"LIB_EMPTY_CAL": "Uw agenda toont series in uw Bibliotheek.",
+	"HOW_START_CAL": "Hier is hoe u series kan toevoegen:",
+	"LIB_EMPTY_BOARD": "Boord toont notificaties &amp; aanbevelingen gebaseerd op uw Bibliotheek.",
+	"HOW_START_BOARD_WAIT": "Alsjeblieft, voeg een paar series of kanalen toe aan uw bibliotheek en geef ons een paar minuten verwerktijd :)",
+	"HOW_START_BOARD": "Hier is hoe je series &amp; films kunt toevoegen:",
+	"IMPORT_FB": "Importeer dingen die je leuk vind van <span>Facebook</span>",
+	"IMPORT_DISCOVER": "<span>Ontdek</span> interessante dingen",
+	"IMPORT_DISK": "Importeer films of series vanaf je <span>locale schijf</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Lanceer met Start-up",
+	"SETTINGS_IMPORT_FB": "Importeren van Facebook",
+	"SETTINGS_IMPORT_DISK": "Importeren vanaf locale schijf",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonneer op agenda",
+	"SETTINGS_CHANGE_PASSWORD": "Verander wachtwoord",
+	"SETTINGS_TOS": "Servicevoorwaarden",
+	"SETTINGS_SUPPORT": "Contacteer Onderhoud",
+	"SETTING_LANGUAGE": "Taal",
+
+	"QUIT": "Afsluiten",
+
+	"CONNETED": "Verbonden",
+	"AUTHENTICATE": "Autorisatie",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Selecteer caching schijf"
+
+	"January": "Januari",
+	"February": "Februari",
+	"March": "Maart",
+	"April": "April",
+	"May": "Mei",
+	"June": "Juni",
+	"July": "Juli",
+	"August": "Augustus",
+	"September": "September",
+	"October": "Oktober",
+	"November": "November",
+	"December": "December",
+
+	"Monday": "Maandag",
+	"Tuesday": "Dinsdag",
+	"Wednesday": "Woensdag",
+	"Thursday": "Donderdag",
+	"Friday": "Vrijdag",
+	"Saturday": "Zaterdag",
+	"Sunday": "Zondag",
+
+	"Action": "Actie",
+	"Comedy": "Komedie",
+	"War": "Oorlog",
+	"Family": "Familie",
+	"Animation": "Animatie",
+	"Adventure": "Avontuur"
+
+
+}
