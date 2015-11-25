@@ -36,7 +36,7 @@
 	"GENRE": "זאנר", 
 	"SUMMARY": "תקציר",
 	"SIMILAR": "דומה",
-	"UPCOMING": "Upcoming",
+	"UPCOMING": "בקרוב",
 	"ENDED": "הסתיים",
 	"DURATION": "אורך",
 
@@ -46,16 +46,16 @@
 	"ADDONS_OFFICIAL": "תוספי סטרימיו רשמיים",
 	"ADDONS_POPULAR": "פופולרי באזור שלך",
 	"ADDON_FREE": "חינם",
-	"ADDON_SUBSCRIPTION": "subscription",
+	"ADDON_SUBSCRIPTION": "הרשמה",
 
 	"AVAILABLE_STREAMS": "מקורות זמינים",
 
 	"NO_STREAM": "לא נמצאו מקורות",
 	"STILL_IN_THEATER": "הסרט עדיין בקולנוע",
 	"WATCH_IN_CINEMA": "צפה בו בקנוע הקרוב לביתך",
-	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
-	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
-	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
+	"CHANNEL_NOT_SCRAPED": "ערוץ זה לא מוכן עדיין.<br>אנא חזור בעוד כמה דקות.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "הוסף לסיפריה וקבל התרעה מתי שיהיה מוכן.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "אתה תקבל התרעה שהוא יהיה מוכן.",
 
 	"STREAMING_FROM": "מזרים מ",
 	"CASTING_TO": "משדר ל",
@@ -84,13 +84,13 @@
 	"SEASON": "עונה",
 	"EPISODE": "פרק",
 
-	"DISCOVER_FEATURED": "Featured",
+	"DISCOVER_FEATURED": "מומלץ",
 
-	"SORT_TRENDING": "trending",
-	"SORT_RECENT": "recent",
+	"SORT_TRENDING": "פופולרי",
+	"SORT_RECENT": "חדש",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "דירוג",
-	"SORT_WATCHED": "watched",
+	"SORT_WATCHED": "נצפה",
 	"SORT_YEAR": "שנה",
 
 	"DISCOVER_TOP": "Top",
