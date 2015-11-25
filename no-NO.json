@@ -1,0 +1,202 @@
+{ 
+	"TYPE_movie": "Film",
+	"TYPE_series": "Serie",
+	"TYPE_tv": "TV kanal",
+	"TYPE_channel": "Kanal",
+
+	"TYPE_movie_PL": "Filmer",
+	"TYPE_series_PL": "Serier",
+	"TYPE_tv_PL": "TV kanaler",
+	"TYPE_channel_PL": "Kanaler",
+
+	"BACK": "Tilbake",
+
+	"Discover": "Oppdag",
+	"Board": "Board",
+	"Library": "Bibliotek",
+	"Calendar": "Kalender",
+	
+	"SEARCH": "Søk blant",
+
+	"ADD_TO_LIB": "Legg til i bibliotek",
+	"REMOVE_FROM_LIB": "Fjern fra bibliotek",
+	"TRAILER": "Trailer",
+	"WATCH_TRAILER": "Se Trailer",
+	"WATCH_NOW": "Se Nå",
+	"SHOW": "Vis",
+	"IMDB_RATING": "IMDb Rangering",
+	"YEAR": "År",
+	"DIRECTOR": "Regissør",
+	"WRITER": "Forfatter",
+	"LEAD_ACTORS": "Hovedskuespillere",
+	"CAST": "Skuespillere",
+	"AIRED": "Utgitt",
+	"SEASONS": "Sesonger",
+	"GENRE": "Sjanger", 
+	"SUMMARY": "Sammendrag",
+	"SIMILAR": "Liknende",
+	"UPCOMING": "Kommer",
+	"ENDED": "Endte",
+	"DURATION": "Lengde",
+
+	"ADDON": "Utvidelse",
+	"ADDONS": "Utvidelser",
+	"OFFICIAL": "Offisielle",
+	"ADDONS_OFFICIAL": "Offisielle Stremio Utvidelser",
+	"ADDONS_POPULAR": "Populært i ditt område",
+	"ADDON_FREE": "Gratis",
+	"ADDON_SUBSCRIPTION": "Abonnering",
+
+	"AVAILABLE_STREAMS": "Tiljengelige Streams",
+
+	"NO_STREAM": "Ingen streams tiljengelige",
+	"STILL_IN_THEATER": "Filmen er fortsatt på kino",
+	"WATCH_IN_CINEMA": "se den på din lokale kino",
+	"CHANNEL_NOT_SCRAPED": "Denne kanalen er ikke ferdig enda.<br>Vennligst kom tilbake om noen få minutter.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Legg den til i ditt bibliotek for å bli varslet når den blir tilgjengelig.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "Du vil bli varslet med en gang den er tilgjengelig.",
+
+	"STREAMING_FROM": "Streamer fra",
+	"CASTING_TO": "Caster til",
+	"NETWORK_STATUS": "Nettverks status",
+	"STREAM_SPEED": "Fart på streamen:",
+	"STREAM_BUFFERED": "Buffret:",
+	"PEERS_INFO": "Informasjon om peers",
+	"PEERS_ACTIVE": "Aktiv:",
+	"PEERS_CONNECTED": "Tilkoblet:",
+	"PEERS_WAITING": "Venter:",
+
+	"STREAM_LOADING": "Laster...",
+	"PLAYING_LOCAL": "Spiller fra lokal fil",
+	"PLAYING_CACHE": "Spiller fra cache",
+
+	"WRONG_SUBS": "Feil undertekster?",
+
+	"CHOOSE_DEVICE": "Velg en enhet å streame fra",
+	
+	"PHONE_TABLET": "Telefon / Nettbrett",
+
+	"SUBTITLES_CHANGE": "Endre undertekster for ",
+	"SUBTITLES_CHANGE_NONE": "Det er ingen andre undertekster for dette språket, beklager.",
+
+
+	"SEASON": "Sesong",
+	"EPISODE": "Episode",
+
+	"DISCOVER_FEATURED": "Utvalgt",
+
+	"SORT_TRENDING": "trending",
+	"SORT_RECENT": "nylig",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "rangering",
+	"SORT_WATCHED": "sett",
+	"SORT_YEAR": "år",
+
+	"DISCOVER_TOP": "Topp",
+	"DISCOVER_OSCAR": "Oscar vinnere",
+
+	"DISCOVER_NOADDON_WARNING": "Advarsel: ingen Stremio utvidelse aktiv for denne typen. Viser lagrede elementer, ingenting vil oppdatere.",
+
+	"RELAUNCH": "Start på nytt nå!",
+	"UPGRADE": "Oppdater til den nyeste Stremio versjonen",
+
+	"FB_LOGIN": "Logg inn med Facebook",
+	"OR": "eller",
+	"I_ACCEPT": "Jeg godtar ",
+	"TOS": "Vilkårene og betingelsene",
+	"PASSWORDS_NOMATCH": "Passordene er ikke like",
+	"SIGN_UP": "Registrer",
+	"LOG_IN": "Logg inn",
+	"LOG_OUT": "Logg ut",
+	"GUEST_LOGIN": "Gjeste innlogging",	
+	"CLICK_HERE": "Klikk her",
+	"WRONG_PASSWORD": "Feil passord. I tilfelle du har glemt passordet, ",
+	"SET_A_PASS": "lag et passord",
+	"EMAIL_USED_WITH_FB": "Denne eposten er i bruk av en Facebook innlogging.",
+
+	"ADDON_DISCLAIMER": "Bruk av tredjeparts-utvidelser vil alltid være ditt ansvar med hennsyn til den gjeldene loven der du befinner deg.",
+	"ADDON_ACTIVATE": "Aktivere denne utvidelsen?",
+
+	"WHATS_NEW": "Hva er nytt?",
+
+	"BUTTON_CONTINUE": "Fortsett",
+	"BUTTON_ACTIVATE": "Aktiver",
+	"BUTTON_CANCEL": "Avbryt",
+
+	"LIB_EMPTY": "Biblioteket ditt ser tomt ut. Finn ut hvor nyttig det er :) ",
+	"HOW_START": "Kom i gang:",
+	"LIB_EMPTY_CAL": "Kalanderen din viser serier i biblioteket ditt.",
+	"HOW_START_CAL": "Her er hvodan du kan legge til serier:",
+	"LIB_EMPTY_BOARD": "Board viser varsler &amp; anbefalinger relatert til biblioteket ditt.",
+	"HOW_START_BOARD_WAIT": "Legg til noen serier eller kanaler i biblioteket ditt og gi oss noen minutter til å behandle de :)",
+	"HOW_START_BOARD": "Her er hvodan du kan legge til serier &amp; filmer til det:",
+	"IMPORT_FB": "Importer ting du liker fra <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Finn interessante ting fra <span>Oppdag</span>",
+	"IMPORT_DISK": "Importer filmer eller serier fra din <span>local Harddisk</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Kjør ved oppstart",
+	"SETTINGS_IMPORT_FB": "Importer fra Facebook",
+	"SETTINGS_IMPORT_DISK": "Importer fra lokal disk",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på en kalender",
+	"SETTINGS_CHANGE_PASSWORD": "Endre passord",
+	"SETTINGS_TOS": "Vilkårene for tjenesten",
+	"SETTINGS_SUPPORT": "Kontakt support",
+	"SETTING_LANGUAGE": "Språk",
+
+	"QUIT": "Avslutt",
+
+	"CONNETED": "Tilkoblet",
+	"AUTHENTICATE": "Verifiser",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Velg caching enhet",
+
+
+	"CONNETED": "Tilkoblet",
+	"AUTHENTICATE": "Verifiserer",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Velg caching enhet",
+
+	"January": "Januar",
+	"February": "Februar",
+	"March": "Mars",
+	"April": "April",
+	"May": "Mai",
+	"June": "Juni",
+	"July": "Juli",
+	"August": "August",
+	"September": "September",
+	"October": "Oktober",
+	"November": "November",
+	"December": "Desember",
+
+	"Monday": "Mandag",
+	"Tuesday": "Tirsdag",
+	"Wednesday": "Onsdag",
+	"Thursday": "Torsdag",
+	"Friday": "Fredag",
+	"Saturday": "Lørdag",
+	"Sunday": "Søndag",
+
+	"Action": "Action",
+	"Comedy": "Komedie",
+	"War": "Krig",
+	"Family": "Familie",
+	"Animation": "Animasjon",
+	"Adventure": "Eventyr",
+	"Fantasy": "Fantasy",
+	"Crime": "Krim",
+	"Mystery": "Mysterier",
+	"Romance": "Romantikk",
+	"Drama": "Drama",
+	"Horror": "Grøsser",
+	"Thriller": "Spenning",
+	"Sci-Fi": "Sci-Fi",
+	"Music": "Musikk",
+	"Biography": "Biografi",
+	"Documentary": "Dokumentar",
+	"Sport": "Sport",
+	"Musical": "Musikal",
+	"Western": "Western"
+
+
+}
