@@ -48,28 +48,28 @@
 	"ADDON_FREE": "חינם",
 	"ADDON_SUBSCRIPTION": "subscription",
 
-	"AVAILABLE_STREAMS": "Available Streams",
+	"AVAILABLE_STREAMS": "מקורות זמינים",
 
-	"NO_STREAM": "No streams available",
-	"STILL_IN_THEATER": "Movie still in theater",
-	"WATCH_IN_CINEMA": "watch it in your local cinema",
+	"NO_STREAM": "לא נמצאו מקורות",
+	"STILL_IN_THEATER": "הסרט עדיין בקולנוע",
+	"WATCH_IN_CINEMA": "צפה בו בקנוע הקרוב לביתך",
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
 
-	"STREAMING_FROM": "streaming from",
-	"CASTING_TO": "Casting to",
-	"NETWORK_STATUS": "Network status",
-	"STREAM_SPEED": "Stream speed:",
-	"STREAM_BUFFERED": "Buffered:",
-	"PEERS_INFO": "Peers Information",
-	"PEERS_ACTIVE": "Active:",
-	"PEERS_CONNECTED": "Connected:",
-	"PEERS_WAITING": "Waiting:",
+	"STREAMING_FROM": "מזרים מ",
+	"CASTING_TO": "משדר ל",
+	"NETWORK_STATUS": "מצב הרשת",
+	"STREAM_SPEED": "מהירות זרימה:",
+	"STREAM_BUFFERED": "נאגר:",
+	"PEERS_INFO": "פרטי חיבורים",
+	"PEERS_ACTIVE": "פעילים:",
+	"PEERS_CONNECTED": "מחוברים:",
+	"PEERS_WAITING": "ממתינים:",
 
 	"STREAM_LOADING": "טוען...",
-	"PLAYING_LOCAL": "playing from local file",
-	"PLAYING_CACHE": "playing from cache",
+	"PLAYING_LOCAL": "מנגן מקובץ מקומי",
+	"PLAYING_CACHE": "מנגן ממטמון",
 
 	"WRONG_SUBS": "כתוביות שגויות?",
 
@@ -77,8 +77,8 @@
 	
 	"PHONE_TABLET": "סלולארי / טאבלט",
 
-	"SUBTITLES_CHANGE": "Change subtitles for ",
-	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
+	"SUBTITLES_CHANGE": "שנה כתוביות עבור ",
+	"SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
 
 
 	"SEASON": "עונה",
@@ -111,12 +111,12 @@
 	"LOG_OUT": "התנתקות",
 	"GUEST_LOGIN": "התחברות כאורח",
 	"CLICK_HERE": "לחץ כאן",
-	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
-	"SET_A_PASS": "set a password",
-	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
+	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה, ",
+	"SET_A_PASS": "קבע סיסמה",
+	"EMAIL_USED_WITH_FB": "כתובת דואר אלקטרוני זה שומש בחיבור בעזרת פייסבוק.",
 
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
-	"ADDON_ACTIVATE": "Activate this add-on?",
+	"ADDON_ACTIVATE": "הפעלת תוסף זה?",
 
 	"WHATS_NEW": "מה חדש",
 
@@ -148,8 +148,8 @@
 
 	"CONNETED": "מחובר",
 	"AUTHENTICATE": "אימות",
-	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Select caching drive",
+	"CACHING": "מטמון",
+	"SETTINGS_CACHING_DRIVE": "בחר כונן למטמון",
 
 
 	"CONNETED": "Conectado",
