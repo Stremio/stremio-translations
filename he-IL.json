@@ -23,7 +23,7 @@
 	"TRAILER": "קדימון",
 	"WATCH_TRAILER": "בצפייה בקדימון",
 	"WATCH_NOW": "צפה כעת",
-	"SHOW": "Show",
+	"SHOW": "הצג",
 
 	"IMDB_RATING": "דירוג IMDb",
 	"YEAR": "שנה",
@@ -93,10 +93,10 @@
 	"SORT_WATCHED": "נצפה",
 	"SORT_YEAR": "שנה",
 
-	"DISCOVER_TOP": "Top",
+	"DISCOVER_TOP": "מומלץ",
 	"DISCOVER_OSCAR": "זוכי אוסקר",
 
-	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio add-on active for this type. Showing saved items, nothing here will update.",
+	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
 
 	"RELAUNCH": "הפעל מחדש כעת!",
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
@@ -115,7 +115,7 @@
 	"SET_A_PASS": "קבע סיסמה",
 	"EMAIL_USED_WITH_FB": "כתובת דואר אלקטרוני זה שומש בחיבור בעזרת פייסבוק.",
 
-	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
+	"ADDON_DISCLAIMER": "שימוש בתוספים צד שלישי תמיד יהיו תחת אחריותך ותחת החוק הקיים באזור מגוריך.",
 	"ADDON_ACTIVATE": "הפעלת תוסף זה?",
 
 	"WHATS_NEW": "מה חדש",
