@@ -1,0 +1,189 @@
+{ 
+	"TYPE_movie": "סרט",
+	"TYPE_series": "סדרה",
+	"TYPE_tv": "ערוצי טלץזיה",
+	"TYPE_channel": "ערוץ",
+
+	"TYPE_movie_PL": "סרטים",
+	"TYPE_series_PL": "סדרות",
+	"TYPE_tv_PL": "ערוצי טלויזיה",
+	"TYPE_channel_PL": "ערוצים",
+
+	"BACK": "חזור",
+
+	"Discover": "Discover",
+	"Board": "Board",
+	"Library": "סיפריה",
+	"Calendar": "לוח שנה",
+	
+	"SEARCH": "חיפוש",
+
+	"ADD_TO_LIB": "הוסף לסיפריה",
+	"REMOVE_FROM_LIB": "הסר מהסיפריה",
+	"TRAILER": "קדימון",
+	"WATCH_TRAILER": "בצפייה בקדימון",
+	"WATCH_NOW": "צפה כעת",
+	"SHOW": "Show",
+
+	"IMDB_RATING": "דירוג IMDb",
+	"YEAR": "שנה",
+	"DIRECTOR": "במאי",
+	"WRITER": "כותב",
+	"LEAD_ACTORS": "שחקנים ראשיים",
+	"CAST": "צוות",
+	"AIRED": "תאריך שידור",
+	"SEASONS": "עונות",
+	"GENRE": "זאנר", 
+	"SUMMARY": "Summary",
+	"SIMILAR": "Similar",
+	"UPCOMING": "Upcoming",
+	"ENDED": "הסתיים",
+	"DURATION": "אורך",
+
+	"ADDON": "תוסף",
+	"ADDONS": "תוספים",
+	"OFFICIAL": "רשמי",
+	"ADDONS_OFFICIAL": "תוספי סטרימיו רשמיים",
+	"ADDONS_POPULAR": "פופולרי באזור שלך",
+	"ADDON_FREE": "חינם",
+	"ADDON_SUBSCRIPTION": "subscription",
+
+	"AVAILABLE_STREAMS": "Available Streams",
+
+	"NO_STREAM": "No streams available",
+	"STILL_IN_THEATER": "Movie still in theater",
+	"WATCH_IN_CINEMA": "watch it in your local cinema",
+	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
+
+	"STREAMING_FROM": "streaming from",
+	"CASTING_TO": "Casting to",
+	"NETWORK_STATUS": "Network status",
+	"STREAM_SPEED": "Stream speed:",
+	"STREAM_BUFFERED": "Buffered:",
+	"PEERS_INFO": "Peers Information",
+	"PEERS_ACTIVE": "Active:",
+	"PEERS_CONNECTED": "Connected:",
+	"PEERS_WAITING": "Waiting:",
+
+	"STREAM_LOADING": "loading...",
+	"PLAYING_LOCAL": "playing from local file",
+	"PLAYING_CACHE": "playing from cache",
+
+	"WRONG_SUBS": "Wrong subtitles?",
+
+	"CHOOSE_DEVICE": "Choose a device to watch on",
+	
+	"PHONE_TABLET": "Phone / Tablet",
+
+	"SUBTITLES_CHANGE": "Change subtitles for ",
+	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
+
+
+	"SEASON": "Season",
+	"EPISODE": "Episode",
+
+	"DISCOVER_FEATURED": "Featured",
+
+	"SORT_TRENDING": "trending",
+	"SORT_RECENT": "recent",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "rating",
+	"SORT_WATCHED": "watched",
+	"SORT_YEAR": "year",
+
+	"DISCOVER_TOP": "Top",
+	"DISCOVER_OSCAR": "Oscar Winners",
+
+	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio add-on active for this type. Showing saved items, nothing here will update.",
+
+	"RELAUNCH": "Re-launch now!",
+	"UPGRADE": "Upgrade to the latest Stremio version",
+
+	"FB_LOGIN": "Login with Facebook",
+	"OR": "or",
+	"I_ACCEPT": "I accept the",
+	"TOS": "Terms and Conditions",
+	"PASSWORDS_NOMATCH": "Passwords don't match",
+	"SIGN_UP": "Sign up",
+	"LOG_IN": "Log in",
+	"LOG_OUT": "Log out",
+	"GUEST_LOGIN": "Guest login",
+	"CLICK_HERE": "click here",
+	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
+	"SET_A_PASS": "set a password",
+	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
+
+	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
+	"ADDON_ACTIVATE": "Activate this add-on?",
+
+	"WHATS_NEW": "What's new",
+
+	"BUTTON_CONTINUE": "Continue",
+	"BUTTON_ACTIVATE": "Activate",
+	"BUTTON_CANCEL": "Cancel",
+
+	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
+	"HOW_START": "Here is how you can start:",
+	"LIB_EMPTY_CAL": "Your Calendar shows series in your Library.",
+	"HOW_START_CAL": "Here is how you can add series:",
+	"LIB_EMPTY_BOARD": "Board shows notifications &amp; recommendations related to your Library.",
+	"HOW_START_BOARD_WAIT": "Please, add a few series or channels to your Library give us a few minutes to process :)",
+	"HOW_START_BOARD": "Here is how you can add series &amp; movies to it:",
+	"IMPORT_FB": "Import things you like from <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
+	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
+	"SETTINGS_IMPORT_FB": "Import from Facebook",
+	"SETTINGS_IMPORT_DISK": "Import from local disk",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscribe to calendar",
+	"SETTINGS_CHANGE_PASSWORD": "Change password",
+	"SETTINGS_TOS": "Terms of service",
+	"SETTINGS_SUPPORT": "Contact support",
+	"SETTING_LANGUAGE": "Language",
+
+	"QUIT": "Quit",
+
+	"CONNETED": "Connected",
+	"AUTHENTICATE": "Authenticate",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Select caching drive",
+
+
+	"CONNETED": "Conectado",
+	"AUTHENTICATE": "Autenticar",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Selecione o drive para cache",
+
+	"January": "January",
+	"February": "February",
+	"March": "March",
+	"April": "April",
+	"May": "May",
+	"June": "June",
+	"July": "July",
+	"August": "August",
+	"September": "September",
+	"October": "October",
+	"November": "November",
+	"December": "December",
+
+	"Monday": "Monday",
+	"Tuesday": "Tuesday",
+	"Wednesday": "Wednesday",
+	"Thursday": "Thursday",
+	"Friday": "Friday",
+	"Saturday": "Saturday",
+	"Sunday": "Sunday",
+
+	"Action": "Action",
+	"Comedy": "Comedy",
+	"War": "War",
+	"Family": "Family",
+	"Animation": "Animation",
+	"Adventure": "Adventure"
+
+
+}
