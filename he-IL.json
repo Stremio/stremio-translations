@@ -151,12 +151,6 @@
 	"CACHING": "מטמון",
 	"SETTINGS_CACHING_DRIVE": "בחר כונן למטמון",
 
-
-	"CONNETED": "Conectado",
-	"AUTHENTICATE": "Autenticar",
-	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecione o drive para cache",
-
 	"January": "ינואר",
 	"February": "פברואר",
 	"March": "מרץ",
@@ -183,7 +177,21 @@
 	"War": "מלחמה",
 	"Family": "משפחה",
 	"Animation": "אנימציה",
-	"Adventure": "הרפתקה"
+	"Adventure": "הרפתקה",
+	"Fantasy": "פנטזיה",
+	"Crime": "פשע",
+	"Mystery": "מיסתורי",
+	"Romance": "רומנטיקה",
+	"Drama": "דרמה",
+	"Horror": "אימה",
+	"Thriller": "מותחן",
+	"Sci-Fi": "מדע בדיוני",
+	"Music": "מוזיקה",
+	"Biography": "ביוגרפיה",
+	"Documentary": "תיעודי",
+	"Sport": "ספורט",
+	"Musical": "מוזיקלי",
+	"Western": "מערבונים"
 
 
 }

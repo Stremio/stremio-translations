@@ -24,6 +24,7 @@
 	"WATCH_TRAILER": "Se Trailer",
 	"WATCH_NOW": "Se Nå",
 	"SHOW": "Vis",
+	
 	"IMDB_RATING": "IMDb Rangering",
 	"YEAR": "År",
 	"DIRECTOR": "Regissør",
@@ -147,14 +148,14 @@
 
 	"CONNETED": "Tilkoblet",
 	"AUTHENTICATE": "Verifiser",
-	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Velg caching enhet",
+	"CACHING": "Bufrer",
+	"SETTINGS_CACHING_DRIVE": "Velg bufrings enhet",
 
 
 	"CONNETED": "Tilkoblet",
 	"AUTHENTICATE": "Verifiserer",
-	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Velg caching enhet",
+	"CACHING": "Bufrer",
+	"SETTINGS_CACHING_DRIVE": "Velg bufrings enhet",
 
 	"January": "Januar",
 	"February": "Februar",

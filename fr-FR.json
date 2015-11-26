@@ -1,0 +1,189 @@
+{ 
+	"TYPE_movie": "Film",
+	"TYPE_series": "Série",
+	"TYPE_tv": "Chaînes TV",
+	"TYPE_channel": "Chaîne",
+
+	"TYPE_movie_PL": "Film",
+	"TYPE_series_PL": "Série",
+	"TYPE_tv_PL": "Chaîne TV",
+	"TYPE_channel_PL": "Chaîne",
+
+	"BACK": "Retour",
+
+	"Discover": "Découverte",
+	"Board": "Tableau",
+	"Library": "Librairie",
+	"Calendar": "Calendrier",
+	
+	"SEARCH": "recherche",
+
+	"ADD_TO_LIB": "Ajouter à la librairie",
+	"REMOVE_FROM_LIB": "Retirer de la librairie",
+	"TRAILER": "Bande Annonce",
+	"WATCH_TRAILER": "Regarder la bande annonce",
+	"WATCH_NOW": "Regarder",
+	"SHOW": "Regarder",
+
+	"IMDB_RATING": "Note IMDb",
+	"YEAR": "Année",
+	"DIRECTOR": "Réalisateur",
+	"WRITER": "Scénariste",
+	"LEAD_ACTORS": "Acteurs Principaux",
+	"CAST": "Casting",
+	"AIRED": "Sortie",
+	"SEASONS": "Saisons",
+	"GENRE": "Genre", 
+	"SUMMARY": "Résumé",
+	"SIMILAR": "Similaire",
+	"UPCOMING": "A venir",
+	"ENDED": "Terminé",
+	"DURATION": "Durée",
+
+	"ADDON": "add-on",
+	"ADDONS": "Add-ons",
+	"OFFICIAL": "Officiels",
+	"ADDONS_OFFICIAL": "Addons Stremio Officiels",
+	"ADDONS_POPULAR": "Populaire près de chez vous",
+	"ADDON_FREE": "Gratuit",
+	"ADDON_SUBSCRIPTION": "Abonnement",
+
+	"AVAILABLE_STREAMS": "Streams Disponibles",
+
+	"NO_STREAM": "Aucun Stream Disponible",
+	"STILL_IN_THEATER": "Toujours au cinéma",
+	"WATCH_IN_CINEMA": "Allez le voir dans un cinéma proche de chez vous",
+	"CHANNEL_NOT_SCRAPED": "Cette chaîne n'est pas disponible.<br>Revenez dans quelques minutes.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Ajoutez-y à la librairie pour être notifié une fois sortit.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "Vous serez notifié quand disponible.",
+
+	"STREAMING_FROM": "Streamé depuis",
+	"CASTING_TO": "Transmit à",
+	"NETWORK_STATUS": "Statut réseau",
+	"STREAM_SPEED": "Vitesse du stream:",
+	"STREAM_BUFFERED": "Chargé:",
+	"PEERS_INFO": "Informations sur les peers",
+	"PEERS_ACTIVE": "Actif:",
+	"PEERS_CONNECTED": "Connecté:",
+	"PEERS_WAITING": "En attente:",
+
+	"STREAM_LOADING": "chargement...",
+	"PLAYING_LOCAL": "Lu depuis un fichier local",
+	"PLAYING_CACHE": "Lu depuis le cache",
+
+	"WRONG_SUBS": "Mauvais sous-titres?",
+
+	"CHOOSE_DEVICE": "Choisissez un appareil sur lequel regarder",
+	
+	"PHONE_TABLET": "Téléphone / Tablette",
+
+	"SUBTITLES_CHANGE": "Changez les sous-titres pour ",
+	"SUBTITLES_CHANGE_NONE": "Il n'y a pas d'autres sous-titres pour cette langue, désolé.",
+
+
+	"SEASON": "Saison",
+	"EPISODE": "Episode",
+
+	"DISCOVER_FEATURED": "Têtes d'affiches",
+
+	"SORT_TRENDING": "tendandes",
+	"SORT_RECENT": "récent",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "note",
+	"SORT_WATCHED": "regardé",
+	"SORT_YEAR": "année",
+
+	"DISCOVER_TOP": "Top",
+	"DISCOVER_OSCAR": "Primés Oscars",
+
+	"DISCOVER_NOADDON_WARNING": "Attention: aucun add-on Stremio actif pour ce type. Les fichiers sauvegardé seront montrés, rien ne sera mit à jour.",
+
+	"RELAUNCH": "Redémarrez maintenant !",
+	"UPGRADE": "Passez à la dernière version de Stremio",
+
+	"FB_LOGIN": "Connexion avec Facebook",
+	"OR": "ou",
+	"I_ACCEPT": "J'accepte les",
+	"TOS": "Termes et Conditions",
+	"PASSWORDS_NOMATCH": "Les mots de passes ne coïncident pas",
+	"SIGN_UP": "Inscription",
+	"LOG_IN": "Connexion",
+	"LOG_OUT": "Déconnextion",
+	"GUEST_LOGIN": "Connexion invité",
+	"CLICK_HERE": "cliquez ici",
+	"WRONG_PASSWORD": "Mauvais mot de passe. Si vous avez oubliez votre mot de passe, ",
+	"SET_A_PASS": "choisissez-en un",
+	"EMAIL_USED_WITH_FB": "Cet e-mail a été utilisé avec une connexion Facebook.",
+
+	"ADDON_DISCLAIMER": "Utilisez des add-ons tierce sera toujours sujet à votre responsabilité ainsi qu'aux lois et juridictions de votre lieu de résidence.",
+	"ADDON_ACTIVATE": "Activé cet add-on?",
+
+	"WHATS_NEW": "Nouveautés",
+
+	"BUTTON_CONTINUE": "Continuer",
+	"BUTTON_ACTIVATE": "Activer",
+	"BUTTON_CANCEL": "Annuler",
+
+	"LIB_EMPTY": "Votre librairie est vide. Découvrez à quel point c'est utile :) ",
+	"HOW_START": "Voilà commencer démarrer:",
+	"LIB_EMPTY_CAL": "Votre calendrier affiche les séries qui sont dans votre libraire.",
+	"HOW_START_CAL": "Voici comment ajouter des séries:",
+	"LIB_EMPTY_BOARD": "Le tableau montre les notifications &amp; recommendations liées à votre Librairie.",
+	"HOW_START_BOARD_WAIT": "S'il vous plait, ajoutez quelques séries ou chaînes à votre Librairie et laissez-nous quelques minutes pour procéder :)",
+	"HOW_START_BOARD": "Voici comment y ajouter des séries &amp; des films :",
+	"IMPORT_FB": "Importez des choses que vous aimez depuis <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Trouver des choses intéressantes dans <span>Découverte</span>",
+	"IMPORT_DISK": "Importez des séries ou films que vous avez dans votre <span>disque dur</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Lancer au démarrage",
+	"SETTINGS_IMPORT_FB": "Importer depuis Facebook",
+	"SETTINGS_IMPORT_DISK": "Importer depuis le disque dur",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Inscrire au calendrier",
+	"SETTINGS_CHANGE_PASSWORD": "Changer le mot de passe",
+	"SETTINGS_TOS": "Termes du service",
+	"SETTINGS_SUPPORT": "Contactez le support",
+	"SETTING_LANGUAGE": "Langue",
+
+	"QUIT": "Quitter",
+
+	"CONNETED": "Connecté",
+	"AUTHENTICATE": "Authentifier",
+	"CACHING": "Cache",
+	"SETTINGS_CACHING_DRIVE": "Choisissez le disque pour le cache",
+
+
+	"CONNETED": "Connecté",
+	"AUTHENTICATE": "Autentifier",
+	"CACHING": "Cache",
+	"SETTINGS_CACHING_DRIVE": "Choisissez le disque pour le cache",
+
+	"January": "Janvier",
+	"February": "Février",
+	"March": "Mars",
+	"April": "Avril",
+	"May": "Mai",
+	"June": "Juin",
+	"July": "Juillet",
+	"August": "Août",
+	"September": "Septembre",
+	"October": "Octobre",
+	"November": "Novembre",
+	"December": "Décembre",
+
+	"Monday": "Lundi",
+	"Tuesday": "Mardi",
+	"Wednesday": "Mercredi",
+	"Thursday": "Jeudi",
+	"Friday": "Vendredi",
+	"Saturday": "Samedi",
+	"Sunday": "Dimanche",
+
+	"Action": "Action",
+	"Comedy": "Comédie",
+	"War": "Guerre",
+	"Family": "Famille",
+	"Animation": "Animation",
+	"Adventure": "Aventure"
+
+
+}
