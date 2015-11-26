@@ -147,9 +147,9 @@
 	"QUIT": "Afsluiten",
 
 	"CONNETED": "Verbonden",
-	"AUTHENTICATE": "Autorisatie",
+	"AUTHENTICATE": "Authenticeren",
 	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecteer caching schijf",
+	"SETTINGS_CACHING_DRIVE": "Selecteer de schijf voor caching",
 
 	"January": "Januari",
 	"February": "Februari",
@@ -177,7 +177,21 @@
 	"War": "Oorlog",
 	"Family": "Familie",
 	"Animation": "Animatie",
-	"Adventure": "Avontuur"
+	"Adventure": "Avontuur",
+	"Fantasy": "Fantasie",
+	"Crime": "Misdaad",
+	"Mystery": "Mysterie",
+	"Romance": "Romance",
+	"Drama": "Drama",
+	"Horror": "Horror",
+	"Thriller": "Thriller",
+	"Sci-Fi": "Sci-Fi",
+	"Music": "Muziek",
+	"Biography": "Biografie",
+	"Documentary": "Documentaire",
+	"Sport": "Sport",
+	"Musical": "Musical",
+	"Western": "Western"
 
 
 }

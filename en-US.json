@@ -151,12 +151,6 @@
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Select caching drive",
 
-
-	"CONNETED": "Conectado",
-	"AUTHENTICATE": "Autenticar",
-	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecione o drive para cache",
-
 	"January": "January",
 	"February": "February",
 	"March": "March",
@@ -183,7 +177,21 @@
 	"War": "War",
 	"Family": "Family",
 	"Animation": "Animation",
-	"Adventure": "Adventure"
+	"Adventure": "Adventure",
+	"Fantasy": "Fantasy",
+	"Crime": "Crime",
+	"Mystery": "Mystery",
+	"Romance": "Romance",
+	"Drama": "Drama",
+	"Horror": "Horror",
+	"Thriller": "Thriller",
+	"Sci-Fi": "Sci-Fi",
+	"Music": "Music",
+	"Biography": "Biography",
+	"Documentary": "Documentary",
+	"Sport": "Sport",
+	"Musical": "Musical",
+	"Western": "Western"
 
 
 }
