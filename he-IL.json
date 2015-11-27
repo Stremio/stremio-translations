@@ -1,0 +1,197 @@
+{ 
+	"TYPE_movie": "סרט",
+	"TYPE_series": "סדרה",
+	"TYPE_tv": "ערוץ טלויזיה",
+	"TYPE_channel": "ערוץ",
+
+	"TYPE_movie_PL": "סרטים",
+	"TYPE_series_PL": "סדרות",
+	"TYPE_tv_PL": "ערוצי טלויזיה",
+	"TYPE_channel_PL": "ערוצים",
+
+	"BACK": "חזור",
+
+	"Discover": "גלה",
+	"Board": "לוח",
+	"Library": "ספרייה",
+	"Calendar": "לוח שנה",
+	
+	"SEARCH": "חיפוש",
+
+	"ADD_TO_LIB": "הוסף לספרייה",
+	"REMOVE_FROM_LIB": "הסר מהספרייה",
+	"TRAILER": "קדימון",
+	"WATCH_TRAILER": "בצפייה בקדימון",
+	"WATCH_NOW": "צפה כעת",
+	"SHOW": "הצג",
+
+	"IMDB_RATING": "דירוג IMDb",
+	"YEAR": "שנה",
+	"DIRECTOR": "במאי",
+	"WRITER": "כותב",
+	"LEAD_ACTORS": "שחקנים ראשיים",
+	"CAST": "צוות",
+	"AIRED": "תאריך שידור",
+	"SEASONS": "עונות",
+	"GENRE": "זאנר", 
+	"SUMMARY": "תקציר",
+	"SIMILAR": "דומה",
+	"UPCOMING": "בקרוב",
+	"ENDED": "הסתיים",
+	"DURATION": "אורך",
+
+	"ADDON": "תוסף",
+	"ADDONS": "תוספים",
+	"OFFICIAL": "רשמי",
+	"ADDONS_OFFICIAL": "תוספי סטרימיו רשמיים",
+	"ADDONS_POPULAR": "פופולרי באזור שלך",
+	"ADDON_FREE": "חינם",
+	"ADDON_SUBSCRIPTION": "הרשמה",
+
+	"AVAILABLE_STREAMS": "מקורות זמינים",
+
+	"NO_STREAM": "לא נמצאו מקורות",
+	"STILL_IN_THEATER": "הסרט עדיין בקולנוע",
+	"WATCH_IN_CINEMA": "צפה בו בקנוע הקרוב לביתך",
+	"CHANNEL_NOT_SCRAPED": "ערוץ זה לא מוכן עדיין.<br>אנא חזור בעוד כמה דקות.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "הוסף לסיפריה וקבל התרעה מתי שיהיה מוכן.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "אתה תקבל התרעה שהוא יהיה מוכן.",
+
+	"STREAMING_FROM": "מזרים מ",
+	"CASTING_TO": "משדר ל",
+	"NETWORK_STATUS": "מצב הרשת",
+	"STREAM_SPEED": "מהירות זרימה:",
+	"STREAM_BUFFERED": "נאגר:",
+	"PEERS_INFO": "פרטי חיבורים",
+	"PEERS_ACTIVE": "פעילים:",
+	"PEERS_CONNECTED": "מחוברים:",
+	"PEERS_WAITING": "ממתינים:",
+
+	"STREAM_LOADING": "טוען...",
+	"PLAYING_LOCAL": "מנגן מקובץ מקומי",
+	"PLAYING_CACHE": "מנגן ממטמון",
+
+	"WRONG_SUBS": "כתוביות שגויות?",
+
+	"CHOOSE_DEVICE": "בחר מכשיר לצפות בו",
+	
+	"PHONE_TABLET": "סלולארי / טאבלט",
+
+	"SUBTITLES_CHANGE": "שנה כתוביות עבור ",
+	"SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
+
+
+	"SEASON": "עונה",
+	"EPISODE": "פרק",
+
+	"DISCOVER_FEATURED": "מומלץ",
+
+	"SORT_TRENDING": "פופולרי",
+	"SORT_RECENT": "חדש",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "דירוג",
+	"SORT_WATCHED": "נצפה",
+	"SORT_YEAR": "שנה",
+
+	"DISCOVER_TOP": "מומלץ",
+	"DISCOVER_OSCAR": "זוכי אוסקר",
+
+	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
+
+	"RELAUNCH": "הפעל מחדש כעת!",
+	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
+
+	"FB_LOGIN": "התחבר בעזרת פייסבוק",
+	"OR": "או",
+	"I_ACCEPT": "אני מסכים",
+	"TOS": "תנאי המשימוש",
+	"PASSWORDS_NOMATCH": "סיסמאות לא תואמות",
+	"SIGN_UP": "הרשמה",
+	"LOG_IN": "התחברות",
+	"LOG_OUT": "התנתקות",
+	"GUEST_LOGIN": "התחברות כאורח",
+	"CLICK_HERE": "לחץ כאן",
+	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה, ",
+	"SET_A_PASS": "קבע סיסמה",
+	"EMAIL_USED_WITH_FB": "כתובת דואר אלקטרוני זה שומש בחיבור בעזרת פייסבוק.",
+
+	"ADDON_DISCLAIMER": "שימוש בתוספים צד שלישי תמיד יהיו תחת אחריותך ותחת החוק הקיים באזור מגוריך.",
+	"ADDON_ACTIVATE": "הפעלת תוסף זה?",
+
+	"WHATS_NEW": "מה חדש",
+
+	"BUTTON_CONTINUE": "המשך",
+	"BUTTON_ACTIVATE": "הפעל",
+	"BUTTON_CANCEL": "ביטול",
+
+	"LIB_EMPTY": "הספרייה שלך נראית ריקה. גלו כמה זה שימושי :) ",
+	"HOW_START": "ככה תוכל להתחיל:",
+	"LIB_EMPTY_CAL": "לוח השנה מציג סדרות בספרייה שלך",
+	"HOW_START_CAL": "כך אתה יכול להוסיף סדרות:",
+	"LIB_EMPTY_BOARD": "הלוח מציג התראות והמלצות אשר קשורים לספרייה שלך.",
+	"HOW_START_BOARD_WAIT": "אנא הוסף סדרות וערוצים לספרייה שלך תן לנו כמה דקות לארגן את הכל :)",
+	"HOW_START_BOARD": "ככה אתה יכול להוסיף סדרות וסרטים אליו:",
+	"IMPORT_FB": "יבא דברים שאתה אוהב מ<span>פייסבוק</span>",
+	"IMPORT_DISCOVER": "מצא דברים מעניינים דרך טאב ה<span>גלה</span>",
+	"IMPORT_DISK": "יבא סרטים או סדרות אשר נמצאים ב<span>דיסק המקומי</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "הפעל בעת הפעלת המחשב",
+	"SETTINGS_IMPORT_FB": "יבא מפייסבוק",
+	"SETTINGS_IMPORT_DISK": "יבא מדיסק מקומי",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "הרשמה ללוח שנה",
+	"SETTINGS_CHANGE_PASSWORD": "שנה סיסמה",
+	"SETTINGS_TOS": "תנאי שימוש",
+	"SETTINGS_SUPPORT": "צור קשר עם התמיכה",
+	"SETTING_LANGUAGE": "שפה",
+
+	"QUIT": "יציאה",
+
+	"CONNETED": "מחובר",
+	"AUTHENTICATE": "אימות",
+	"CACHING": "מטמון",
+	"SETTINGS_CACHING_DRIVE": "בחר כונן למטמון",
+
+	"January": "ינואר",
+	"February": "פברואר",
+	"March": "מרץ",
+	"April": "אפריל",
+	"May": "מאי",
+	"June": "יוני",
+	"July": "יולי",
+	"August": "אוגוסט",
+	"September": "ספטמבר",
+	"October": "אוקטובר",
+	"November": "נובמבר",
+	"December": "דצמבר",
+
+	"Monday": "שני",
+	"Tuesday": "שלישי",
+	"Wednesday": "רביעי",
+	"Thursday": "חמישי",
+	"Friday": "שישי",
+	"Saturday": "שבת",
+	"Sunday": "ראשון",
+
+	"Action": "אקשן",
+	"Comedy": "קומדיה",
+	"War": "מלחמה",
+	"Family": "משפחה",
+	"Animation": "אנימציה",
+	"Adventure": "הרפתקה",
+	"Fantasy": "פנטזיה",
+	"Crime": "פשע",
+	"Mystery": "מיסתורי",
+	"Romance": "רומנטיקה",
+	"Drama": "דרמה",
+	"Horror": "אימה",
+	"Thriller": "מותחן",
+	"Sci-Fi": "מדע בדיוני",
+	"Music": "מוזיקה",
+	"Biography": "ביוגרפיה",
+	"Documentary": "תיעודי",
+	"Sport": "ספורט",
+	"Musical": "מוזיקלי",
+	"Western": "מערבונים"
+
+
+}
