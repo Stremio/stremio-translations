@@ -1,8 +1,8 @@
 {
-	"TYPE_movie": "Filmes",
-	"TYPE_series": "Séries",
-	"TYPE_tv": "Canais de TV",
-	"TYPE_channel": "Canais",
+	"TYPE_movie": "Filme",
+	"TYPE_series": "Série",
+	"TYPE_tv": "Canal de TV",
+	"TYPE_channel": "Canal",
 
 	"TYPE_movie_PL": "Filmes",
 	"TYPE_series_PL": "Séries",
@@ -18,7 +18,7 @@
 
 	"SEARCH": "pesquise",
 
-	"ADD_TO_LIB": "Adicionar",
+	"ADD_TO_LIB": "Adicionar à biblioteca",
 	"REMOVE_FROM_LIB": "Remover",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Ver o Trailer",
@@ -48,19 +48,19 @@
 	"ADDON_FREE": "Gratuito",
 	"ADDON_SUBSCRIPTION": "assinatura",
 
-	"AVAILABLE_STREAMS": "Transmissões Disponíveis",
+	"AVAILABLE_STREAMS": "Fontes Disponíveis",
 
-	"NO_STREAM": "Nenhuma transmissão disponível",
+	"NO_STREAM": "Nenhuma fonte disponível",
 	"STILL_IN_THEATER": "Ainda no cinema",
 	"WATCH_IN_CINEMA": "veja-o no cinema mais próximo de si",
-	"CHANNEL_NOT_SCRAPED": "Este canal não foi publicado.<br>Por favor, aguarde uns minutos.",
+	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, aguarde uns minutos.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adicione à biblioteca para receber notificações quando estiver disponível.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Será notificado quando estiver disponível.",
 
 	"STREAMING_FROM": "a transmitir de",
 	"CASTING_TO": "A transmitir para",
 	"NETWORK_STATUS": "Estado da rede",
-	"STREAM_SPEED": "Velocidade da transimssão:",
+	"STREAM_SPEED": "Vel. de receção:",
 	"STREAM_BUFFERED": "Carregado:",
 	"PEERS_INFO": "Informação dos Pares",
 	"PEERS_ACTIVE": "Ativo:",
@@ -68,14 +68,14 @@
 	"PEERS_WAITING": "À espera:",
 
 	"STREAM_LOADING": "a carregar...",
-	"PLAYING_LOCAL": "reproduzir a partir de um ficheiro local",
-	"PLAYING_CACHE": "reproduzir a partir da cache",
+	"PLAYING_LOCAL": "a reproduzir a partir de um ficheiro local",
+	"PLAYING_CACHE": "a reproduzir a partir da cache",
 
 	"WRONG_SUBS": "Legendas erradas?",
 
 	"CHOOSE_DEVICE": "Escolha um dispositivo para transmitir",
 
-	"PHONE_TABLET": "Telemóvel / Tablet",
+	"PHONE_TABLET": "Telem. / Tablet",
 
 	"SUBTITLES_CHANGE": "Alterar legendas para ",
 	"SUBTITLES_CHANGE_NONE": "Desculpe, não há outra legenda para este idioma",
@@ -93,7 +93,7 @@
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "ano",
 
-	"DISCOVER_TOP": "Topo",
+	"DISCOVER_TOP": "Popular",
 	"DISCOVER_OSCAR": "Vencedores de Óscar",
 
 	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma extensão Stremio ativa para este tipo. A exibir ficheiros guardados, nada será atualizado.",
@@ -108,12 +108,12 @@
 	"PASSWORDS_NOMATCH": "Palavras-chave não coincidem",
 	"SIGN_UP": "Registe-se",
 	"LOG_IN": "Ligue-se",
-	"LOG_OUT": "Terminar",
+	"LOG_OUT": "Desligar",
 	"GUEST_LOGIN": "Iniciar como convidado",
 	"CLICK_HERE": "clique aqui",
-	"WRONG_PASSWORD": "Palavra-chave errada. Caso se tenha esquecido da sua palavra-chave, ",
-	"SET_A_PASS": "defina uma nova",
-	"EMAIL_USED_WITH_FB": "Este e-mail foi utilizado com uma sessão do Facebook.",
+	"WRONG_PASSWORD": "Password errada. Caso se tenha esquecido da sua password, ",
+	"SET_A_PASS": "defina uma password nova",
+	"EMAIL_USED_WITH_FB": "Este email foi utilizado com uma sessão do Facebook.",
 
 	"ADDON_DISCLAIMER": "Ao usar uma extensão de terceiros estará sujeito à sua responsabilidade e as leis do governo onde está localizado.",
 	"ADDON_ACTIVATE": "Ativar esta extensão?",
@@ -128,8 +128,8 @@
 	"HOW_START": "Aqui está como pode começar:",
 	"LIB_EMPTY_CAL": "O seu calendário mostra as séries da Biblioteca.",
 	"HOW_START_CAL": "Aqui está como pode adicionar uma série:",
-	"LIB_EMPTY_BOARD": "O Painel mostra notificações &amp; recomendações relacionadas à com a sua Biblioteca.",
-	"HOW_START_BOARD_WAIT": "Por favor, adicione algumas séries ou canais à sua Biblioteca e nos dê uns instantes para processá-las :)",
+	"LIB_EMPTY_BOARD": "O Painel mostra notificações &amp; recomendações relacionadas com a sua Biblioteca.",
+	"HOW_START_BOARD_WAIT": "Por favor, adicione algumas séries ou canais à sua Biblioteca e dê-nos uns instantes para processá-las :)",
 	"HOW_START_BOARD": "Aqui está como pode adicionar séries &amp; filmes:",
 	"IMPORT_FB": "Importe coisas que goste do <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Encontre coisas interessantes no <span>Descubra</span>",
@@ -139,9 +139,9 @@
 	"SETTINGS_IMPORT_FB": "Importar do Facebook",
 	"SETTINGS_IMPORT_DISK": "Importar do disco local",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscrever calendário",
-	"SETTINGS_CHANGE_PASSWORD": "Alterar a palavra-chave",
+	"SETTINGS_CHANGE_PASSWORD": "Alterar password",
 	"SETTINGS_TOS": "Termos de serviço",
-	"SETTINGS_SUPPORT": "Contate o suporte",
+	"SETTINGS_SUPPORT": "Contacte o suporte",
 	"SETTING_LANGUAGE": "Idioma",
 
 	"QUIT": "Sair",
@@ -149,7 +149,7 @@
 	"CONNETED": "Ligado",
 	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecione a localização para a cache",
+	"SETTINGS_CACHING_DRIVE": "Selecione a unidade para a cache",
 
 	"January": "janeiro",
 	"February": "fevereiro",
@@ -177,7 +177,7 @@
 	"War": "Guerra",
 	"Family": "Família",
 	"Animation": "Animação",
-	"Adventure": "Aventura"
+	"Adventure": "Aventura",
 	"Fantasy": "Fantasia",
 	"Crime": "Crime",
 	"Mystery": "Mistério",
