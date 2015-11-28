@@ -184,6 +184,19 @@
 	"Family": "Famille",
 	"Animation": "Animation",
 	"Adventure": "Aventure"
-
+	"Fantasy": "Fantaisie",
+	"Crime": "Crime",
+	"Mystery": "Mystère",
+	"Romance": "Romance",
+	"Drama": "Drame",
+	"Horror": "Horreur",
+	"Thriller": "Thriller",
+	"Sci-Fi": "Science Fiction",
+	"Music": "Musique",
+	"Biography": "Biographie",
+	"Documentary": "Documentaire",
+	"Sport": "Sport",
+	"Musical": "Musical",
+	"Western": "Western"
 
 }
