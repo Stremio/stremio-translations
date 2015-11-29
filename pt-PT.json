@@ -129,10 +129,10 @@
 	"LIB_EMPTY_CAL": "O seu calendário mostra as séries da Biblioteca.",
 	"HOW_START_CAL": "Aqui está como pode adicionar uma série:",
 	"LIB_EMPTY_BOARD": "O Painel mostra notificações &amp; recomendações relacionadas com a sua Biblioteca.",
-	"HOW_START_BOARD_WAIT": "Por favor, adicione algumas séries ou canais à sua Biblioteca e dê-nos uns instantes para processá-las :)",
+	"HOW_START_BOARD_WAIT": "Por favor, adicione algumas séries ou canais à sua Biblioteca e dê-nos uns instantes para as processar :)",
 	"HOW_START_BOARD": "Aqui está como pode adicionar séries &amp; filmes:",
-	"IMPORT_FB": "Importe coisas que goste do <span>Facebook</span>",
-	"IMPORT_DISCOVER": "Encontre coisas interessantes no <span>Descubra</span>",
+	"IMPORT_FB": "Importe coisas de que gosta no <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Encontre coisas interessantes em <span>Explorar</span>",
 	"IMPORT_DISK": "Importe filmes ou espetáculos que tem no <span>disco local</span>",
 
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
