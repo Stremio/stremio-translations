@@ -11,7 +11,7 @@
 
 	"BACK": "Voltar",
 
-	"Discover": "Descubra",
+	"Discover": "Explorar",
 	"Board": "Painel",
 	"Library": "Biblioteca",
 	"Calendar": "Calendário",
@@ -19,19 +19,19 @@
 	"SEARCH": "pesquise",
 
 	"ADD_TO_LIB": "Adicionar à biblioteca",
-	"REMOVE_FROM_LIB": "Remover",
+	"REMOVE_FROM_LIB": "Remover da biblioteca",
 	"TRAILER": "Trailer",
-	"WATCH_TRAILER": "Ver o Trailer",
+	"WATCH_TRAILER": "Ver Trailer",
 	"WATCH_NOW": "Ver Agora",
 	"SHOW": "Mostrar",
 
-	"IMDB_RATING": "IMDb",
+	"IMDB_RATING": "Classificação IMDb",
 	"YEAR": "Ano",
 	"DIRECTOR": "Diretor",
 	"WRITER": "Escritor",
 	"LEAD_ACTORS": "Atores Principais",
 	"CAST": "Elenco",
-	"AIRED": "Esteve no ar em",
+	"AIRED": "Transmissão original",
 	"SEASONS": "Temporadas",
 	"GENRE": "Género",
 	"SUMMARY": "Sinopse",
@@ -53,7 +53,7 @@
 	"NO_STREAM": "Nenhuma fonte disponível",
 	"STILL_IN_THEATER": "Ainda no cinema",
 	"WATCH_IN_CINEMA": "veja-o no cinema mais próximo de si",
-	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, aguarde uns minutos.",
+	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, tente novamente mais tarde.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adicione à biblioteca para receber notificações quando estiver disponível.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Será notificado quando estiver disponível.",
 
@@ -71,14 +71,14 @@
 	"PLAYING_LOCAL": "a reproduzir a partir de um ficheiro local",
 	"PLAYING_CACHE": "a reproduzir a partir da cache",
 
-	"WRONG_SUBS": "Legendas erradas?",
+	"WRONG_SUBS": "Legendas incorretas?",
 
 	"CHOOSE_DEVICE": "Escolha um dispositivo para transmitir",
 
 	"PHONE_TABLET": "Telem. / Tablet",
 
 	"SUBTITLES_CHANGE": "Alterar legendas para ",
-	"SUBTITLES_CHANGE_NONE": "Desculpe, não há outra legenda para este idioma",
+	"SUBTITLES_CHANGE_NONE": "Desculpe, não há mais legendas para este idioma",
 
 
 	"SEASON": "Temporada",
@@ -101,18 +101,18 @@
 	"RELAUNCH": "Reiniciar agora!",
 	"UPGRADE": "Atualize para a versão mais recente do Stremio",
 
-	"FB_LOGIN": "Ligue-se via Facebook",
+	"FB_LOGIN": "Entrar com o Facebook",
 	"OR": "ou",
 	"I_ACCEPT": "Eu aceito os",
 	"TOS": "Termos e Condições",
-	"PASSWORDS_NOMATCH": "Palavras-chave não coincidem",
-	"SIGN_UP": "Registe-se",
-	"LOG_IN": "Ligue-se",
-	"LOG_OUT": "Desligar",
-	"GUEST_LOGIN": "Iniciar como convidado",
+	"PASSWORDS_NOMATCH": "As passwords não coincidem",
+	"SIGN_UP": "Registar",
+	"LOG_IN": "Entrar",
+	"LOG_OUT": "Sair",
+	"GUEST_LOGIN": "Entrar como convidado",
 	"CLICK_HERE": "clique aqui",
-	"WRONG_PASSWORD": "Password errada. Caso se tenha esquecido da sua password, ",
-	"SET_A_PASS": "defina uma password nova",
+	"WRONG_PASSWORD": "Password incorreta. Caso se tenha esquecido da sua password, ",
+	"SET_A_PASS": "defina uma nova password",
 	"EMAIL_USED_WITH_FB": "Este email foi utilizado com uma sessão do Facebook.",
 
 	"ADDON_DISCLAIMER": "Ao usar uma extensão de terceiros estará sujeito à sua responsabilidade e as leis do governo onde está localizado.",
@@ -124,7 +124,7 @@
 	"BUTTON_ACTIVATE": "Ativar",
 	"BUTTON_CANCEL": "Cancelar",
 
-	"LIB_EMPTY": "A sua biblioteca parece vazia. Descubra como ela é útil :) ",
+	"LIB_EMPTY": "A sua biblioteca está vazia. Descubra como ela é útil :) ",
 	"HOW_START": "Aqui está como pode começar:",
 	"LIB_EMPTY_CAL": "O seu calendário mostra as séries da Biblioteca.",
 	"HOW_START_CAL": "Aqui está como pode adicionar uma série:",
