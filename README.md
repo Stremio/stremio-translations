@@ -22,12 +22,12 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 ### Translation credits
 
 * pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
-* pt-PT: @liqen							(Portuguese)
+* pt-PT: @henriquev16 and @liqen		(Portuguese)
 * no-NO: @skanin						(Norwegian)
 * fr-FR: @Nath74k						(French)
 * es-ES: @Decc98 and Federico Erbetta	(Spanish)
 * he-IL: @kornbed						(Hebrew)
-* it-IT: @pippo73						(Italian)
+* it-IT: @pippo73 and @zurdyo			(Italian)
 * mk-MK: Ivan Fonchev					(Macedonian)
 * bg-BG:								(Bulgarian)
 * nl-NL: @Tbizla and @tjorim			(Dutch)
