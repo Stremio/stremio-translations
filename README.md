@@ -31,3 +31,4 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 * mk-MK: Ivan Fonchev					(Macedonian)
 * bg-BG:								(Bulgarian)
 * nl-NL: @Tbizla and @tjorim			(Dutch)
+* da-DK: @Holsted777					(Danish)
