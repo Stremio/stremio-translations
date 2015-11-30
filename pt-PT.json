@@ -1,0 +1,197 @@
+{
+	"TYPE_movie": "Filme",
+	"TYPE_series": "Série",
+	"TYPE_tv": "Canal de TV",
+	"TYPE_channel": "Canal",
+
+	"TYPE_movie_PL": "Filmes",
+	"TYPE_series_PL": "Séries",
+	"TYPE_tv_PL": "Canais de TV",
+	"TYPE_channel_PL": "Canais",
+
+	"BACK": "Voltar",
+
+	"Discover": "Explorar",
+	"Board": "Painel",
+	"Library": "Biblioteca",
+	"Calendar": "Calendário",
+
+	"SEARCH": "pesquise",
+
+	"ADD_TO_LIB": "Adicionar à biblioteca",
+	"REMOVE_FROM_LIB": "Remover da biblioteca",
+	"TRAILER": "Trailer",
+	"WATCH_TRAILER": "Ver Trailer",
+	"WATCH_NOW": "Ver Agora",
+	"SHOW": "Mostrar",
+
+	"IMDB_RATING": "Classificação IMDb",
+	"YEAR": "Ano",
+	"DIRECTOR": "Diretor",
+	"WRITER": "Escritor",
+	"LEAD_ACTORS": "Atores Principais",
+	"CAST": "Elenco",
+	"AIRED": "Transmissão original",
+	"SEASONS": "Temporadas",
+	"GENRE": "Género",
+	"SUMMARY": "Sinopse",
+	"SIMILAR": "Semelhante",
+	"UPCOMING": "Próximos",
+	"ENDED": "Finalizados",
+	"DURATION": "Duração",
+
+	"ADDON": "extensão",
+	"ADDONS": "Extensões",
+	"OFFICIAL": "oficial",
+	"ADDONS_OFFICIAL": "Extensões Oficiais do Stremio",
+	"ADDONS_POPULAR": "Popular na sua área",
+	"ADDON_FREE": "Gratuito",
+	"ADDON_SUBSCRIPTION": "assinatura",
+
+	"AVAILABLE_STREAMS": "Fontes Disponíveis",
+
+	"NO_STREAM": "Nenhuma fonte disponível",
+	"STILL_IN_THEATER": "Ainda no cinema",
+	"WATCH_IN_CINEMA": "veja-o no cinema mais próximo de si",
+	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, tente novamente mais tarde.",
+	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adicione à biblioteca para receber notificações quando estiver disponível.",
+	"GET_NOTIFIED_WHEN_AVAILABLE": "Será notificado quando estiver disponível.",
+
+	"STREAMING_FROM": "a transmitir de",
+	"CASTING_TO": "A transmitir para",
+	"NETWORK_STATUS": "Estado da rede",
+	"STREAM_SPEED": "Vel. de receção:",
+	"STREAM_BUFFERED": "Carregado:",
+	"PEERS_INFO": "Informação dos Pares",
+	"PEERS_ACTIVE": "Ativo:",
+	"PEERS_CONNECTED": "Ligado:",
+	"PEERS_WAITING": "À espera:",
+
+	"STREAM_LOADING": "a carregar...",
+	"PLAYING_LOCAL": "a reproduzir a partir de um ficheiro local",
+	"PLAYING_CACHE": "a reproduzir a partir da cache",
+
+	"WRONG_SUBS": "Legendas incorretas?",
+
+	"CHOOSE_DEVICE": "Escolha um dispositivo para transmitir",
+
+	"PHONE_TABLET": "Telem. / Tablet",
+
+	"SUBTITLES_CHANGE": "Alterar legendas para ",
+	"SUBTITLES_CHANGE_NONE": "Desculpe, não há mais legendas para este idioma",
+
+
+	"SEASON": "Temporada",
+	"EPISODE": "Episódio",
+
+	"DISCOVER_FEATURED": "Destaque",
+
+	"SORT_TRENDING": "tendência",
+	"SORT_RECENT": "recente",
+	"SORT_ALPHABET": "a-z",
+	"SORT_RATING": "classificação",
+	"SORT_WATCHED": "visto",
+	"SORT_YEAR": "ano",
+
+	"DISCOVER_TOP": "Popular",
+	"DISCOVER_OSCAR": "Vencedores de Óscar",
+
+	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma extensão Stremio ativa para este tipo. A exibir ficheiros guardados, nada será atualizado.",
+
+	"RELAUNCH": "Reiniciar agora!",
+	"UPGRADE": "Atualize para a versão mais recente do Stremio",
+
+	"FB_LOGIN": "Entrar com o Facebook",
+	"OR": "ou",
+	"I_ACCEPT": "Eu aceito os",
+	"TOS": "Termos e Condições",
+	"PASSWORDS_NOMATCH": "As passwords não coincidem",
+	"SIGN_UP": "Registar",
+	"LOG_IN": "Entrar",
+	"LOG_OUT": "Sair",
+	"GUEST_LOGIN": "Entrar como convidado",
+	"CLICK_HERE": "clique aqui",
+	"WRONG_PASSWORD": "Password incorreta. Caso se tenha esquecido da sua password, ",
+	"SET_A_PASS": "defina uma nova password",
+	"EMAIL_USED_WITH_FB": "Este email foi utilizado com uma sessão do Facebook.",
+
+	"ADDON_DISCLAIMER": "Ao usar uma extensão de terceiros estará sujeito à sua responsabilidade e as leis do governo onde está localizado.",
+	"ADDON_ACTIVATE": "Ativar esta extensão?",
+
+	"WHATS_NEW": "O que há de novo",
+
+	"BUTTON_CONTINUE": "Continuar",
+	"BUTTON_ACTIVATE": "Ativar",
+	"BUTTON_CANCEL": "Cancelar",
+
+	"LIB_EMPTY": "A sua biblioteca está vazia. Descubra como ela é útil :) ",
+	"HOW_START": "Aqui está como pode começar:",
+	"LIB_EMPTY_CAL": "O seu calendário mostra as séries da Biblioteca.",
+	"HOW_START_CAL": "Aqui está como pode adicionar uma série:",
+	"LIB_EMPTY_BOARD": "O Painel mostra notificações &amp; recomendações relacionadas com a sua Biblioteca.",
+	"HOW_START_BOARD_WAIT": "Por favor, adicione algumas séries ou canais à sua Biblioteca e dê-nos uns instantes para as processar :)",
+	"HOW_START_BOARD": "Aqui está como pode adicionar séries &amp; filmes:",
+	"IMPORT_FB": "Importe coisas de que gosta no <span>Facebook</span>",
+	"IMPORT_DISCOVER": "Encontre coisas interessantes em <span>Explorar</span>",
+	"IMPORT_DISK": "Importe filmes ou espetáculos que tem no <span>disco local</span>",
+
+	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
+	"SETTINGS_IMPORT_FB": "Importar do Facebook",
+	"SETTINGS_IMPORT_DISK": "Importar do disco local",
+	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscrever calendário",
+	"SETTINGS_CHANGE_PASSWORD": "Alterar password",
+	"SETTINGS_TOS": "Termos de serviço",
+	"SETTINGS_SUPPORT": "Contacte o suporte",
+	"SETTING_LANGUAGE": "Idioma",
+
+	"QUIT": "Sair",
+
+	"CONNETED": "Ligado",
+	"AUTHENTICATE": "Autenticar",
+	"CACHING": "Caching",
+	"SETTINGS_CACHING_DRIVE": "Selecione a unidade para a cache",
+
+	"January": "janeiro",
+	"February": "fevereiro",
+	"March": "março",
+	"April": "abril",
+	"May": "maio",
+	"June": "junho",
+	"July": "julho",
+	"August": "agosto",
+	"September": "setembro",
+	"October": "outubro",
+	"November": "novembro",
+	"December": "dezembro",
+
+	"Monday": "segunda-feira",
+	"Tuesday": "terça-feira",
+	"Wednesday": "quarta-feira",
+	"Thursday": "quinta-feira",
+	"Friday": "sexta-feira",
+	"Saturday": "sábado",
+	"Sunday": "domingo",
+
+	"Action": "Ação",
+	"Comedy": "Comédia",
+	"War": "Guerra",
+	"Family": "Família",
+	"Animation": "Animação",
+	"Adventure": "Aventura",
+	"Fantasy": "Fantasia",
+	"Crime": "Crime",
+	"Mystery": "Mistério",
+	"Romance": "Romance",
+	"Drama": "Drama",
+	"Horror": "Terror",
+	"Thriller": "Suspense",
+	"Sci-Fi": "Ficção Científica",
+	"Music": "Música",
+	"Biography": "Biografia",
+	"Documentary": "Documentário",
+	"Sport": "Desporto",
+	"Musical": "Musical",
+	"Western": "Faroeste"
+
+
+}
