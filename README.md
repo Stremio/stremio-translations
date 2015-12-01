@@ -21,14 +21,15 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 
 ### Translation credits
 
-* pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
-* pt-PT: @henriquev16 and @liqen		(Portuguese)
-* no-NO: @skanin						(Norwegian)
-* fr-FR: @Nath74k						(French)
+* bg-BG: @Ivshti						(Bulgarian)
+* da-DK: @Holsted777					(Danish)
 * es-ES: @Decc98 and Federico Erbetta	(Spanish)
+* fr-FR: @Nath74k						(French)
 * he-IL: @kornbed						(Hebrew)
 * it-IT: @pippo73 and @zurdyo			(Italian)
 * mk-MK: Ivan Fonchev					(Macedonian)
-* bg-BG:								(Bulgarian)
 * nl-NL: @Tbizla and @tjorim			(Dutch)
-* da-DK: @Holsted777					(Danish)
+* nn-NO: @skanin						(Norwegian nynorsk)
+* nb-NO: @skanin						(Norwegian bokmål)
+* pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
+* pt-PT: @henriquev16 and @liqen		(Portuguese)
