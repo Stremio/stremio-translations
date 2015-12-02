@@ -25,7 +25,7 @@
 	"WATCH_NOW": "Ver Agora",
 	"SHOW": "Mostrar",
 
-	"IMDB_RATING": "Classificação IMDb",
+	"IMDB_RATING": "Classifi. IMDb",
 	"YEAR": "Ano",
 	"DIRECTOR": "Diretor",
 	"WRITER": "Escritor",
@@ -108,7 +108,7 @@
 	"PASSWORDS_NOMATCH": "As passwords não coincidem",
 	"SIGN_UP": "Registar",
 	"LOG_IN": "Entrar",
-	"LOG_OUT": "Sair",
+	"LOG_OUT": "Desli. Conta",
 	"GUEST_LOGIN": "Entrar como convidado",
 	"CLICK_HERE": "clique aqui",
 	"WRONG_PASSWORD": "Password incorreta. Caso se tenha esquecido da sua password, ",
