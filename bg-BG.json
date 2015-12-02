@@ -57,7 +57,6 @@
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
 
-
 	"STREAMING_FROM": "стриймваме от",
 	"CASTING_TO": "Възпроизвеждаме на",
 	"NETWORK_STATUS": "Мрежа",
@@ -81,8 +80,11 @@
 	"SUBTITLES_CHANGE": "Смени субтитрите на ",
 	"SUBTITLES_CHANGE_NONE": "Няма други субтитри за този език.",
 
+	
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
+
+	"DISCOVER_FEATURED": "Featured",
 
 	"SORT_TRENDING": "популярни",
 	"SORT_RECENT": "последни",
@@ -133,7 +135,6 @@
 	"IMPORT_DISCOVER": "Намерете интересни неща в <span>Discover</span>",
 	"IMPORT_DISK": "Сканирайте за филми и сериали от вашия <span>локален диск</span>",
 
-
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
@@ -149,7 +150,6 @@
 	"AUTHENTICATE": "оторизация",
 	"CACHING": "Кеширане",
 	"SETTINGS_CACHING_DRIVE": "Изберете диск за кеш",
-	"no caching": "без кеш",
 
 	"January": "Януари",
 	"February": "Февруари",
@@ -177,7 +177,21 @@
 	"War": "Военни",
 	"Family": "Семейни",
 	"Animation": "Анимация",
-	"Adventure": "Приключенски"
+	"Adventure": "Приключенски",
+	"Fantasy": "Фентъзи",
+	"Crime": "Криминални",
+	"Mystery": "Мистерия",
+	"Romance": "Романтични",
+	"Drama": "Драма",
+	"Horror": "Ужаси",
+	"Thriller": "Трилъри",
+	"Sci-Fi": "Sci-Fi",
+	"Music": "Музикални",
+	"Biography": "Биографични",
+	"Documentary": "Документални",
+	"Sport": "Спортни",
+	"Musical": "Мюзикъли",
+	"Western": "Уестърн"
 
 
 }

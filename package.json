@@ -1,10 +1,10 @@
 {
   "name": "stremio-translations",
-  "version": "1.1.1",
+  "version": "1.4.0",
   "description": "Translation strings used for Stremio app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape test/*"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Stremio/stremio-translations/issues"
   },
-  "homepage": "https://github.com/Stremio/stremio-translations"
+  "homepage": "https://github.com/Stremio/stremio-translations",
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
 }
