@@ -18,14 +18,14 @@
 	
 	"SEARCH": "Buscar",
 
-	"ADD_TO_LIB": "Agregar a la Biblioteca",
+	"ADD_TO_LIB": "Agregar a Biblioteca",
 	"REMOVE_FROM_LIB": "Eliminar de la Biblioteca",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Ver Trailer",
 	"WATCH_NOW": "Ver ahora",
 	"SHOW": "Mostrar",
 
-	"IMDB_RATING": "Clasificación IMDB",
+	"IMDB_RATING": "Calificación IMDB",
 	"YEAR": "Año",
 	"DIRECTOR": "Director",
 	"WRITER": "Escritor",
@@ -48,11 +48,11 @@
 	"ADDON_FREE": "Gratis",
 	"ADDON_SUBSCRIPTION": "Suscripción",
 
-	"AVAILABLE_STREAMS": "Transmisión disponible",
+	"AVAILABLE_STREAMS": "Transmisiones disponibles",
 
 	"NO_STREAM": "Transmisión no disponible",
-	"STILL_IN_THEATER": "Película en el cine",
-	"WATCH_IN_CINEMA": "Verlo en el cine",
+	"STILL_IN_THEATER": "Película aún en el cine",
+	"WATCH_IN_CINEMA": "Míralo en tu cine más cercano",
 	"CHANNEL_NOT_SCRAPED": "Este canal no está descartado todavía.<br>Por favor, intente nuevamente más tarde.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Añadir a tu Biblioteca para ser notificado una vez que esté disponible.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Serás notificado cuando esté disponible.",
@@ -68,17 +68,17 @@
 	"PEERS_WAITING": "Esperando:",
 
 	"STREAM_LOADING": "Cargando...",
-	"PLAYING_LOCAL": "Reproduciendo desde archivos local",
+	"PLAYING_LOCAL": "Reproduciendo desde archivos locales",
 	"PLAYING_CACHE": "Reproduciendo desde cache",
 
-	"WRONG_SUBS": "¿Subtitulos erroneós?",
+	"WRONG_SUBS": "¿Subtitulos erróneos?",
 
 	"CHOOSE_DEVICE": "Seleccione un dispositivo para ver",
 	
 	"PHONE_TABLET": "Celular / Tablet",
 
 	"SUBTITLES_CHANGE": "Cambiar subtitulos por ",
-	"SUBTITLES_CHANGE_NONE": "No hay otros subtítulos para este idioma, lo sentimos.",
+	"SUBTITLES_CHANGE_NONE": "No hay más subtítulos para este idioma, lo sentimos.",
 
 
 	"SEASON": "Temporada",
@@ -108,7 +108,7 @@
 	"PASSWORDS_NOMATCH": "La contraseña no coincide",
 	"SIGN_UP": "Registrar",
 	"LOG_IN": "Entrar",
-	"LOG_OUT": "Salir",
+	"LOG_OUT": "Cerrar sesión",
 	"GUEST_LOGIN": "Ingresar como invitado",
 	"CLICK_HERE": "Click Aquí",
 	"WRONG_PASSWORD": "Contraseña errónea. En caso de que haya olvidado su contraseña, ",
@@ -118,7 +118,7 @@
 	"ADDON_DISCLAIMER": "El uso de aplicaciones de terceros siempre estará sujeto a su responsabilidad y a la jurisdicción de la ley del gobierno en el país que se encuentra",
 	"ADDON_ACTIVATE": "¿Activar este complemento?",
 
-	"WHATS_NEW": "Qué hay de nuevo",
+	"WHATS_NEW": "Novedades",
 
 	"BUTTON_CONTINUE": "Continuar",
 	"BUTTON_ACTIVATE": "Activar",
@@ -149,7 +149,7 @@
 	"CONNETED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Caching",
-	"SETTINGS_CACHING_DRIVE": "Selecione el disco para el cache",
+	"SETTINGS_CACHING_DRIVE": "Seleccione el disco para el cache",
 
 	"January": "Enero",
 	"February": "Febrero",
