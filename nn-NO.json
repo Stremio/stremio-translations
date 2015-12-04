@@ -1,4 +1,4 @@
-{ 
+{
 	"TYPE_movie": "Film",
 	"TYPE_series": "Serie",
 	"TYPE_tv": "TV kanal",
@@ -24,6 +24,7 @@
 	"WATCH_TRAILER": "Sjå Trailer",
 	"WATCH_NOW": "Sjå No",
 	"SHOW": "Vis",
+	
 	"IMDB_RATING": "IMDb Rangering",
 	"YEAR": "År",
 	"DIRECTOR": "Regissør",
@@ -191,8 +192,9 @@
 	"Sport": "Sport",
 	"Musical": "Musikal",
 	"Western": "Western",
-	"News": "Nyheiter",
-	"History": "Historie",
+    "Film-Noir": "Film-Noir",
+    "News": "Nyheiter",
+    "History": "Historie",
 	"Game-Show": "Gameshow",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -245,7 +247,6 @@
 	"Science Radio": "Vitskapsradio",
 	"Tech Radio": "Teknologiradio",
 	"Science & Technology Vod": "Vitskap -og Teknologi VOD"
-
 
 
 }

@@ -1,4 +1,4 @@
-{ 
+{
 	"TYPE_movie": "Film",
 	"TYPE_series": "Serie",
 	"TYPE_tv": "TV kanal",
@@ -192,8 +192,9 @@
 	"Sport": "Sport",
 	"Musical": "Musikal",
 	"Western": "Western",
-	"News" : "Nyheter",
-	"History": "Historie",
+    "Film-Noir": "Film-Noir",
+    "News": "Nyheter",
+    "History": "Historie",
 	"Game-Show": "Gameshow",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -246,6 +247,6 @@
 	"Science Radio": "Vitenskapsradio",
 	"Tech Radio": "Teknologiradio",
 	"Science & Technology Vod": "Vitenskap -og Teknologi VOD"
-	
+
 
 }
