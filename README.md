@@ -8,6 +8,8 @@ Any help with contributing additional translations would be extremely helpful!
 For contributing, use en_US as a starting point because it's always guaranteed to include all the translation strings.
 Thank you!
 
+***Please, always sync and pull your repository before making any edits.**
+
 ### How to test in the app
 
 Clone this repo, copy en-US.json as a starting point into your language's locale file, following IETF standard. To test in the app, start Stremio like:
@@ -33,3 +35,6 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 * nb-NO: @skanin						(Norwegian bokmål)
 * pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
 * pt-PT: @henriquev16 and @liqen		(Portuguese)
+* ru-RU: @thedp							(Russian)
+
+Feel free to add yourself!

@@ -1,4 +1,4 @@
-{ 
+{
 	"TYPE_movie": "סרט",
 	"TYPE_series": "סדרה",
 	"TYPE_tv": "ערוץ טלויזיה",
@@ -192,8 +192,9 @@
 	"Sport": "ספורט",
 	"Musical": "מוזיקלי",
 	"Western": "מערבונים",
-	"History": "היסטוריה",
-	"News": "חדשות",
+    "Film-Noir": "Film-Noir",
+    "News": "חדשות",
+    "History": "היסטוריה",
 	"Game-Show": "שעשועונים",
 	"Reality-TV": "ריאלטי",
 	"Talk-Show": "טוק שואו",
@@ -246,5 +247,6 @@
 	"Science Radio": "רדיו מדע",
 	"Tech Radio": "רדיו טכנולוגיה",
 	"Science & Technology Vod": "מדע וטכנולוגיה VOD"
+
 	
 }

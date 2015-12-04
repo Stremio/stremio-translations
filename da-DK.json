@@ -1,4 +1,4 @@
-{ 
+{
 	"TYPE_movie": "Film",
 	"TYPE_series": "Serie",
 	"TYPE_tv": "Kanal",
@@ -115,7 +115,7 @@
 	"SET_A_PASS": "vælgkodeord",
 	"EMAIL_USED_WITH_FB": "Denne email er brugt til Facebook log ind.",
 
-"ADDON_DISCLAIMER": "Brug af tredje parts add-ons vil altid være dit ansvar og love og regler kan være forskellige fra land til land.",
+	"ADDON_DISCLAIMER": "Brug af tredje parts add-ons vil altid være dit ansvar og love og regler kan være forskellige fra land til land.",
 	"ADDON_ACTIVATE": "Aktiver dette add-on?",
 
 	"WHATS_NEW": "Hvad er nyt",
@@ -143,7 +143,6 @@
 	"SETTINGS_TOS": "Servicevilkår",
 	"SETTINGS_SUPPORT": "Kontakt support",
 	"SETTING_LANGUAGE": "Sprog",
-
 
 	"QUIT": "Afslut",
 
@@ -193,8 +192,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-	"History": "Historie",
+    "Film-Noir": "Film-Noir",
 	"News": "Nyheder",
+	"History": "Historie",
 	"Game-Show": "Gameshow",
 	"Reality-TV": "Reality TV",
 	"Talk-Show": "Talk-Show",
@@ -247,5 +247,6 @@
 	"Science Radio": "Videnskabs Radio",
 	"Tech Radio": "Teknologi Radio",
 	"Science & Technology Vod": "Videnskab & Teknologi VOD"
-	
+
+
 }
