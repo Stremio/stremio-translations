@@ -1,7 +1,7 @@
 {
 	"TYPE_movie": "Film",
 	"TYPE_series": "Serie",
-	"TYPE_tv": "TVkanal",
+	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
 
 	"TYPE_movie_PL": "Filmer",
@@ -21,23 +21,23 @@
 	"ADD_TO_LIB": "Lägg till i bibliotek",
 	"REMOVE_FROM_LIB": "Ta bort från bibliotek",
 	"TRAILER": "Trailer",
-	"WATCH_TRAILER": "Titta på Trailer",
+	"WATCH_TRAILER": "Se Trailer",
 	"WATCH_NOW": "Titta nu",
 	"SHOW": "Visa",
 
 	"IMDB_RATING": "IMDb Betyg",
 	"YEAR": "År",
 	"DIRECTOR": "Regissör",
-	"WRITER": "Författare",
+	"WRITER": "Manusförfattare",
 	"LEAD_ACTORS": "Huvudskådespelare",
-	"CAST": "Skådespelare",
+	"CAST": "Rollista",
 	"AIRED": "Utgiven",
 	"SEASONS": "Säsonger",
 	"GENRE": "Genre", 
 	"SUMMARY": "Sammanfattning",
 	"SIMILAR": "Liknande",
 	"UPCOMING": "Kommande",
-	"ENDED": "Avslutade",
+	"ENDED": "Avslutad",
 	"DURATION": "Speltid",
 
 	"ADDON": "Tillägg",
@@ -51,8 +51,8 @@
 	"AVAILABLE_STREAMS": "Tillgängliga Strömmar",
 
 	"NO_STREAM": "Inga strömmar tillgängliga",
-	"STILL_IN_THEATER": "Filmen visas fortfarande i biograf",
-	"WATCH_IN_CINEMA": "Se den i din lokala biograf",
+	"STILL_IN_THEATER": "Filmen visas fortfarande på bio",
+	"WATCH_IN_CINEMA": "Se den på din lokala bio",
 	"CHANNEL_NOT_SCRAPED": "Denna kanal är inte skrapad än.<br>Kom tillbaka om några minuter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lägg till den till ditt bibliotek för att bli meddelad när den blir tillgänglig.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du kommer att bli meddelad när den blir tillgänglig.",
@@ -69,7 +69,7 @@
 
 	"STREAM_LOADING": "laddar...",
 	"PLAYING_LOCAL": "spelar från lokal fil",
-	"PLAYING_CACHE": "pspelar från cache",
+	"PLAYING_CACHE": "spelar från cache",
 
 	"WRONG_SUBS": "Felaktiga undertexter?",
 
@@ -88,7 +88,7 @@
 
 	"SORT_TRENDING": "trendar",
 	"SORT_RECENT": "senaste",
-	"SORT_ALPHABET": "a-z",
+	"SORT_ALPHABET": "a-ö",
 	"SORT_RATING": "betyg",
 	"SORT_WATCHED": "sett",
 	"SORT_YEAR": "år",
@@ -113,7 +113,7 @@
 	"CLICK_HERE": "klicka här",
 	"WRONG_PASSWORD": "Fel lösenord. Om du har glömt ditt lösenord, ",
 	"SET_A_PASS": "ange ett lösenord",
-	"EMAIL_USED_WITH_FB": "Denna e-postadress användes med en Facebook inloggning.",
+	"EMAIL_USED_WITH_FB": "Denna e-postadress användes med en Facebook-inloggning.",
 
 	"ADDON_DISCLAIMER": "Användandet av tredjeparts-tillägg kommer alltid att vara ditt eget ansvar och faller under lagstiftningen i det område du befinner dig i.",
 	"ADDON_ACTIVATE": "Aktivera detta tillägg?",
