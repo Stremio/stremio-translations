@@ -33,7 +33,7 @@
 	"CAST": "צוות",
 	"AIRED": "תאריך שידור",
 	"SEASONS": "עונות",
-	"GENRE": "זאנר", 
+	"GENRE": "ז'אנר", 
 	"SUMMARY": "תקציר",
 	"SIMILAR": "דומה",
 	"UPCOMING": "בקרוב",
@@ -52,8 +52,8 @@
 
 	"NO_STREAM": "לא נמצאו מקורות",
 	"STILL_IN_THEATER": "הסרט עדיין בקולנוע",
-	"WATCH_IN_CINEMA": "צפה בו בקנוע הקרוב לביתך",
-	"CHANNEL_NOT_SCRAPED": "ערוץ זה לא מוכן עדיין.<br>אנא חזור בעוד כמה דקות.",
+	"WATCH_IN_CINEMA": "צפה בו בקולנוע",
+	"CHANNEL_NOT_SCRAPED": "ערוץ זה עדיין לא מוכן.<br>אנא חזור בעוד כמה דקות.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "הוסף לסיפריה וקבל התרעה מתי שיהיה מוכן.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "אתה תקבל התרעה שהוא יהיה מוכן.",
 
