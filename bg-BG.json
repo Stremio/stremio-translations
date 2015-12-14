@@ -79,8 +79,8 @@
 
 	"SUBTITLES_CHANGE": "Смени субтитрите на ",
 	"SUBTITLES_CHANGE_NONE": "Няма други субтитри за този език.",
+	"SUBTITLES_CHANGE_ACIVE": "В момента субтитри &#35;{{subtitlesDialog.activeIdx + 1}} са активирани. Кликнете \"Продължи\" за да активирате &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 
-	
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
 

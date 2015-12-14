@@ -79,6 +79,7 @@
 
 	"SUBTITLES_CHANGE": "Change subtitles for ",
 	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 
 
 	"SEASON": "Season",
@@ -135,7 +136,7 @@
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
 	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
 	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
-	
+
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
