@@ -40,7 +40,7 @@
 	"ENDED": "Ended",
 	"DURATION": "Duration",
 
-	"SEARCH_VIDEOS": "Search videos",
+	"SEARCH_VIDEOS": "search videos",
 
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
@@ -257,7 +257,27 @@
 	"new video": "new video",
 	"new episode": "new episode",
 	"new movie": "new movie",
-	"recommended": "recommended"
+	"recommended": "recommended",
+
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_REMOVE_CACHE": "Remove from cache"
+
 
 
 }
