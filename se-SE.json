@@ -3,28 +3,22 @@
 	"TYPE_series": "Serie",
 	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
-
 	"TYPE_movie_PL": "Filmer",
 	"TYPE_series_PL": "Serier",
 	"TYPE_tv_PL": "TV kanaler",
 	"TYPE_channel_PL": "Kanaler",
-
 	"BACK": "Tillbaka",
-
 	"Discover": "Upptäck",
 	"Board": "Vägg",
 	"Library": "Bibliotek",
 	"Calendar": "Kalender",
-	
 	"SEARCH": "sök",
-
 	"ADD_TO_LIB": "Lägg till i bibliotek",
 	"REMOVE_FROM_LIB": "Ta bort från bibliotek",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Se Trailer",
 	"WATCH_NOW": "Titta nu",
 	"SHOW": "Visa",
-
 	"IMDB_RATING": "IMDb Betyg",
 	"YEAR": "År",
 	"DIRECTOR": "Regissör",
@@ -33,13 +27,13 @@
 	"CAST": "Rollista",
 	"AIRED": "Utgiven",
 	"SEASONS": "Säsonger",
-	"GENRE": "Genre", 
+	"GENRE": "Genre",
 	"SUMMARY": "Sammanfattning",
 	"SIMILAR": "Liknande",
 	"UPCOMING": "Kommande",
 	"ENDED": "Avslutad",
 	"DURATION": "Speltid",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "Tillägg",
 	"ADDONS": "Tillägg",
 	"OFFICIAL": "officiella",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Populärt i ditt område",
 	"ADDON_FREE": "gratis",
 	"ADDON_SUBSCRIPTION": "prenumeration",
-
 	"AVAILABLE_STREAMS": "Tillgängliga Strömmar",
-
 	"NO_STREAM": "Inga strömmar tillgängliga",
 	"STILL_IN_THEATER": "Filmen visas fortfarande på bio",
 	"WATCH_IN_CINEMA": "Se den på din lokala bio",
 	"CHANNEL_NOT_SCRAPED": "Denna kanal är inte skrapad än.<br>Kom tillbaka om några minuter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lägg till den till ditt bibliotek för att bli meddelad när den blir tillgänglig.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du kommer att bli meddelad när den blir tillgänglig.",
-
 	"STREAMING_FROM": "strömmar från",
 	"CASTING_TO": "Castar till",
 	"NETWORK_STATUS": "Nätverksstatus",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Aktiv:",
 	"PEERS_CONNECTED": "Ansluten:",
 	"PEERS_WAITING": "Väntar:",
-
 	"STREAM_LOADING": "laddar...",
 	"PLAYING_LOCAL": "spelar från lokal fil",
 	"PLAYING_CACHE": "spelar från cache",
-
 	"WRONG_SUBS": "Felaktiga undertexter?",
-
 	"CHOOSE_DEVICE": "Välj en enhet att titta på",
-	
 	"PHONE_TABLET": "Telefon / Platta",
-
 	"SUBTITLES_CHANGE": "Ändra undertexter för ",
 	"SUBTITLES_CHANGE_NONE": "Det finns inga andra undertexter för detta språk, beklagar.",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Säsong",
 	"EPISODE": "Avsnitt",
-
-	"DISCOVER_FEATURED": "Utvalda",
-
 	"SORT_TRENDING": "trendar",
 	"SORT_RECENT": "senaste",
 	"SORT_ALPHABET": "a-ö",
 	"SORT_RATING": "betyg",
 	"SORT_WATCHED": "sett",
 	"SORT_YEAR": "år",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Utvalda",
 	"DISCOVER_TOP": "Topp",
 	"DISCOVER_OSCAR": "Oscarsvinnare",
-
 	"DISCOVER_NOADDON_WARNING": "Varning: inget Stremio-tillägg aktivt för denna typ. Visar sparade objekt, ingenting kommer att uppdateras.",
-
 	"RELAUNCH": "Starta om nu!",
 	"UPGRADE": "Uppgradera till den senaste versionen av Stremio",
-
 	"FB_LOGIN": "Logga in med Facebook",
 	"OR": "eller",
 	"I_ACCEPT": "Jag accepterar",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "Fel lösenord. Om du har glömt ditt lösenord, ",
 	"SET_A_PASS": "ange ett lösenord",
 	"EMAIL_USED_WITH_FB": "Denna e-postadress användes med en Facebook-inloggning.",
-
 	"ADDON_DISCLAIMER": "Användandet av tredjeparts-tillägg kommer alltid att vara ditt eget ansvar och faller under lagstiftningen i det område du befinner dig i.",
 	"ADDON_ACTIVATE": "Aktivera detta tillägg?",
-
 	"WHATS_NEW": "Nyheter",
-
 	"BUTTON_CONTINUE": "Fortsätt",
 	"BUTTON_ACTIVATE": "Aktivera",
 	"BUTTON_CANCEL": "Avbryt",
-
 	"LIB_EMPTY": "Ditt bibliotek ser tomt ut. Ta reda på hur användbart det kan vara :)",
 	"HOW_START": "Så här kan du börja:",
 	"LIB_EMPTY_CAL": "Din Kalender visar serier från ditt bibliotek.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Importera saker du tycker om från <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Hitta intressanta saker från <span>Upptäck</span>",
 	"IMPORT_DISK": "Importera filmer eller serier som du har på din <span>lokala hårddisk</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Starta vid uppstart",
 	"SETTINGS_IMPORT_FB": "Importera från Facebook",
 	"SETTINGS_IMPORT_DISK": "Importera från lokal hårddisk",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Användarvillkor",
 	"SETTINGS_SUPPORT": "Kontakta supporten",
 	"SETTING_LANGUAGE": "Språk",
-
 	"QUIT": "Avsluta",
-
 	"CONNETED": "Ansluten",
 	"AUTHENTICATE": "Autentisera",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Välj cacheenhet",
-
 	"January": "Januari",
 	"February": "Februari",
 	"March": "Mars",
@@ -163,7 +136,6 @@
 	"October": "Oktober",
 	"November": "November",
 	"December": "December",
-
 	"Monday": "Måndag",
 	"Tuesday": "Tisdag",
 	"Wednesday": "Onsdag",
@@ -171,7 +143,6 @@
 	"Friday": "Fredag",
 	"Saturday": "Lördag",
 	"Sunday": "Söndag",
-
 	"Action": "Action",
 	"Comedy": "Komedi",
 	"War": "Krig",
@@ -192,9 +163,9 @@
 	"Sport": "Sport",
 	"Musical": "Musikal",
 	"Western": "Western",
-    "Film-Noir": "Film-Noir",
-    "News": "Nyheter",
-    "History": "Historia",
+	"Film-Noir": "Film-Noir",
+	"News": "Nyheter",
+	"History": "Historia",
 	"Game-Show": "Gameshow",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -239,14 +210,39 @@
 	"Italian Tv": "Italiensk Tv",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Resor",
-	"Asian Tv": "Asiatisk Tv", 
+	"Asian Tv": "Asiatisk Tv",
 	"Entertainment": "Underhållning",
 	"News Radio": "Nyheter Radio",
 	"Music Radio": "Musik Radio",
 	"Language Learning": "Språkinlärning",
 	"Science Radio": "Vetenskaplig Radio",
 	"Tech Radio": "Teknik Radio",
-	"Science & Technology Vod": "Vetenskap & Teknik Vod"
-
-
+	"Science & Technology Vod": "Vetenskap & Teknik Vod",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

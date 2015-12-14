@@ -3,28 +3,22 @@
 	"TYPE_series": "Серија",
 	"TYPE_tv": "TV канал",
 	"TYPE_channel": "YouTube канал",
-	 
 	"TYPE_movie_PL": "Филмови",
 	"TYPE_series_PL": "Серии",
 	"TYPE_tv_PL": "TV канали",
 	"TYPE_channel_PL": "YouTube канали",
-	 
 	"BACK": "Назад",
-	 
 	"Discover": "Најди",
 	"Board": "Известија",
 	"Library": "Библиотека",
 	"Calendar": "Календар",
-	 
 	"SEARCH": "бараj",
-	 
 	"ADD_TO_LIB": "Додај",
 	"REMOVE_FROM_LIB": "Отстрани",
 	"TRAILER": "Треjлер",
 	"WATCH_TRAILER": "Треjлер",
 	"WATCH_NOW": "Гледај",
 	"SHOW": "Покажи",
-
 	"IMDB_RATING": "IMDb рејтинг",
 	"YEAR": "Година",
 	"DIRECTOR": "Режија",
@@ -39,7 +33,7 @@
 	"UPCOMING": "Скоро",
 	"ENDED": "Прекинат",
 	"DURATION": "Времетраење",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "официјални",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Популарни во регионот",
 	"ADDON_FREE": "бесплатно",
 	"ADDON_SUBSCRIPTION": "subscription",
-	 
 	"AVAILABLE_STREAMS": "Достапни извори",
-	 
 	"NO_STREAM": "Нема достапни извори",
 	"STILL_IN_THEATER": "Филмот е сеуште во кината",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
 	"CHANNEL_NOT_SCRAPED": "Сеуште немаме информации за овој канал. <br > Вратете се по неколку минути.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Додадете го во библиотеката за да примите известување.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ќе примите известување кога ќе излезе.",
-
 	"STREAMING_FROM": "Стриминг од",
 	"CASTING_TO": "Репродукција на",
 	"NETWORK_STATUS": "Мрежа",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Активни:",
 	"PEERS_CONNECTED": "Поврзани:",
 	"PEERS_WAITING": "Чекаат:",
-
 	"STREAM_LOADING": "Се вчитува...",
 	"PLAYING_LOCAL": "репродукција од локална датотека",
 	"PLAYING_CACHE": "репродукција од кеш",
-
 	"WRONG_SUBS": "Грешни преводи?",
-
 	"CHOOSE_DEVICE": "Изберете уред",
-
 	"PHONE_TABLET": "Телефон / таблет",
-
 	"SUBTITLES_CHANGE": "Смени превод на",
 	"SUBTITLES_CHANGE_NONE": "Нема други преводи за тој јазик.",
-	
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Сезона",
 	"EPISODE": "Епизода",
-
-	"DISCOVER_FEATURED": "Featured",
-
 	"SORT_TRENDING": "популарни",
 	"SORT_RECENT": "последни",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "рејтинг",
 	"SORT_WATCHED": "видени",
 	"SORT_YEAR": "година",
-	 
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Featured",
 	"DISCOVER_TOP": "Топ",
 	"DISCOVER_OSCAR": "Добитници на Оскар",
-	 
 	"DISCOVER_NOADDON_WARNING": "Внимание: нема активен Stremio add-on за овој тип содржина. Овде гледате зачувана информациjа, таа нема да се обновува.",
-	 
 	"RELAUNCH": "Лансирање новата верзија!",
 	"UPGRADE": "Достапна е нова верзија",
-
 	"FB_LOGIN": "Влегување со Фејсбук",
 	"OR": "или",
 	"I_ACCEPT": "Ги прочитав и ги прифаќам",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "погрешна лозинка. Во случај дека сте ја заборавиле",
 	"SET_A_PASS": "ставете ваша лозинка",
 	"EMAIL_USED_WITH_FB": "Овој email е употребен со Фејсбук најава.",
-
 	"ADDON_DISCLAIMER": "Употребата на add-on-и од трети лица е на ваша одговорност.",
 	"ADDON_ACTIVATE": "Активирај овој add-on?",
-
 	"WHATS_NEW": "Што е ново?",
-
 	"BUTTON_CONTINUE": "Продолжи",
 	"BUTTON_ACTIVATE": "Активирај",
 	"BUTTON_CANCEL": "Откажи",
-
 	"LIB_EMPTY": "Библиотеката ви е празна. Откријте колку е корисна :)",
 	"HOW_START": "Започнете така:",
 	"LIB_EMPTY_CAL": "Календарот покажува епизоди од сериите во вашата Библиотека.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Додавање од <span> Facebook </ span>",
 	"IMPORT_DISCOVER": "Најди интересни работи во <span> Discover </ span>",
 	"IMPORT_DISK": "Скенирајте за филмови и серии од вашиот <span> локален диск </ span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Услови на употреба",
 	"SETTINGS_SUPPORT": "Поддршка",
 	"SETTING_LANGUAGE": "Јазик",
-	 
 	"QUIT": "Стоп",
-	 
 	"CONNETED": "Сврзани",
 	"AUTHENTICATE": "овластување",
 	"CACHING": "Кешира",
 	"SETTINGS_CACHING_DRIVE": "Изберете диск за кеш",
-	 
 	"January": "Jануари",
 	"February": "Февруари",
 	"March": "Март",
@@ -163,7 +136,6 @@
 	"October": "Октомври",
 	"November": "Ноември",
 	"December": "Декември",
-	 
 	"Monday": "Понеделник",
 	"Tuesday": "Вторник",
 	"Wednesday": "Среда",
@@ -171,7 +143,6 @@
 	"Friday": "Петок",
 	"Saturday": "Сабота",
 	"Sunday": "Недела",
-
 	"Action": "Акција",
 	"Comedy": "Комедија",
 	"War": "Воени",
@@ -192,9 +163,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-    "Film-Noir": "Film-Noir",
-    "News": "News",
-    "History": "History",
+	"Film-Noir": "Film-Noir",
+	"News": "News",
+	"History": "History",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -239,14 +210,39 @@
 	"Italian Tv": "Italian Tv",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Travel",
-	"Asian Tv": "Asian Tv", 
+	"Asian Tv": "Asian Tv",
 	"Entertainment": "Entertainment",
 	"News Radio": "News Radio",
 	"Music Radio": "Music Radio",
 	"Language Learning": "Language Learning",
 	"Science Radio": "Science Radio",
 	"Tech Radio": "Tech Radio",
-	"Science & Technology Vod": "Science & Technology Vod"
-
-
+	"Science & Technology Vod": "Science & Technology Vod",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

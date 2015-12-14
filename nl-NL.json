@@ -3,28 +3,22 @@
 	"TYPE_series": "Series",
 	"TYPE_tv": "TV kanalen",
 	"TYPE_channel": "Kanaal",
-
 	"TYPE_movie_PL": "Films",
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "TV kanalen",
 	"TYPE_channel_PL": "Kanalen",
-
 	"BACK": "Terug",
-
 	"Discover": "Ontdek",
 	"Board": "Boord",
 	"Library": "Bibliotheek",
 	"Calendar": "Agenda",
-	
 	"SEARCH": "zoeken",
-
 	"ADD_TO_LIB": "Toevoegen aan Bibliotheek",
 	"REMOVE_FROM_LIB": "Verwijderen uit Bibliotheek",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Trailer bekijken",
 	"WATCH_NOW": "Nu Kijken",
 	"SHOW": "Bekijk",
-
 	"IMDB_RATING": "IMDb Beoordeling",
 	"YEAR": "Jaar",
 	"DIRECTOR": "Regisseur",
@@ -33,13 +27,13 @@
 	"CAST": "Rolverdeling",
 	"AIRED": "Uitgezonden",
 	"SEASONS": "Seizoenen",
-	"GENRE": "Genre", 
+	"GENRE": "Genre",
 	"SUMMARY": "Samenvatting",
 	"SIMILAR": "Vergelijkbaar",
 	"UPCOMING": "Opkomend",
 	"ENDED": "Afgelopen",
 	"DURATION": "Tijdsduur",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "Add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "Officieel",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Populair in uw regio",
 	"ADDON_FREE": "Gratis",
 	"ADDON_SUBSCRIPTION": "Abonnement",
-
 	"AVAILABLE_STREAMS": "Beschikbare Streams",
-
 	"NO_STREAM": "Geen streams beschikbaar",
 	"STILL_IN_THEATER": "Film draait nog in de bioscoop",
 	"WATCH_IN_CINEMA": "bekijk het in een bioscoop bij U in de buurt",
 	"CHANNEL_NOT_SCRAPED": "Dit kanaal is nog niet geschraapt.<br>Gelieve terug te komen in een paar minuten.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Deze toevoegen aan uw bibliotheek voor een melding zodra deze beschikbaar is.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "U krijgt een melding zodra deze beschikbaar is.",
-
 	"STREAMING_FROM": "Streamen van",
 	"CASTING_TO": "Casten naar",
 	"NETWORK_STATUS": "Netwerkstatus",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Actief:",
 	"PEERS_CONNECTED": "Aangesloten:",
 	"PEERS_WAITING": "Wachten:",
-
 	"STREAM_LOADING": "Laden...",
 	"PLAYING_LOCAL": "spelen vanaf een lokaal bestand",
 	"PLAYING_CACHE": "spelen vanaf cache",
-
 	"WRONG_SUBS": "Verkeerde ondertiteling?",
-
 	"CHOOSE_DEVICE": "Kies een apparaat om op te bekijken",
-	
 	"PHONE_TABLET": "Gsm/Tablet",
-
 	"SUBTITLES_CHANGE": "Verander ondertiteling voor",
 	"SUBTITLES_CHANGE_NONE": "Er zijn geen andere ondertitelingen voor deze taal, sorry.",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Seizoen",
 	"EPISODE": "Aflevering",
-
-	"DISCOVER_FEATURED": "Uitgelicht",
-
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "recent",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "beoordeling",
 	"SORT_WATCHED": "gezien",
 	"SORT_YEAR": "jaar",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Uitgelicht",
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Oscar Winnaars",
-
 	"DISCOVER_NOADDON_WARNING": "Waarschuwing: geen Stremio add-on actief voor dit type. Opgeslagen items worden weergegeven, hier komen geen updates.",
-
 	"RELAUNCH": "Herstart Stremio",
 	"UPGRADE": "Update naar de laatste Stremio versie",
-
 	"FB_LOGIN": "Inloggen met Facebook",
 	"OR": "of",
 	"I_ACCEPT": "Ik accepteer de",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "Verkeerd wachtwoord. In het geval dat u uw wachtwoord vergeten, ",
 	"SET_A_PASS": "Stel een wachtwoord in",
 	"EMAIL_USED_WITH_FB": "Deze email is gebruikt met een Facebook login.",
-
 	"ADDON_DISCLAIMER": "Het gebruiken van add-ons van derden zal altijd worden onderworpen aan uw verantwoordelijkheid en het recht van het rechtsgebied waar u zich bevindt.",
 	"ADDON_ACTIVATE": "Activeer deze add-on?",
-
 	"WHATS_NEW": "Wat is er nieuw?",
-
 	"BUTTON_CONTINUE": "Doorgaan",
 	"BUTTON_ACTIVATE": "Activeer",
 	"BUTTON_CANCEL": "Annuleer",
-
 	"LIB_EMPTY": "Uw bibliotheek ziet er leeg uit. Ontdek hoe nuttig het is :) ",
 	"HOW_START": "Hier is hoe je kunt beginnen:",
 	"LIB_EMPTY_CAL": "Uw agenda toont series in uw Bibliotheek.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Importeer dingen die je leuk vind van <span>Facebook</span>",
 	"IMPORT_DISCOVER": "<span>Ontdek</span> interessante dingen",
 	"IMPORT_DISK": "Importeer films of series vanaf je <span>locale schijf</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Open bij opstarten",
 	"SETTINGS_IMPORT_FB": "Importeer van Facebook",
 	"SETTINGS_IMPORT_DISK": "Importeer van lokale schijf",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Servicevoorwaarden",
 	"SETTINGS_SUPPORT": "Contacteer support",
 	"SETTING_LANGUAGE": "Taal",
-
 	"QUIT": "Afsluiten",
-
 	"CONNETED": "Verbonden",
 	"AUTHENTICATE": "Authenticeren",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Selecteer de schijf voor caching",
-
 	"January": "Januari",
 	"February": "Februari",
 	"March": "Maart",
@@ -163,7 +136,6 @@
 	"October": "Oktober",
 	"November": "November",
 	"December": "December",
-
 	"Monday": "Maandag",
 	"Tuesday": "Dinsdag",
 	"Wednesday": "Woensdag",
@@ -171,7 +143,6 @@
 	"Friday": "Vrijdag",
 	"Saturday": "Zaterdag",
 	"Sunday": "Zondag",
-
 	"Action": "Actie",
 	"Comedy": "Komedie",
 	"War": "Oorlog",
@@ -192,9 +163,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-    "Film-Noir": "Film noir",
-    "News": "Nieuws",
-    "History": "Geschiedenis",
+	"Film-Noir": "Film noir",
+	"News": "Nieuws",
+	"History": "Geschiedenis",
 	"Game-Show": "Spelprogramma",
 	"Reality-TV": "Reality-tv",
 	"Talk-Show": "Talkshow",
@@ -239,14 +210,39 @@
 	"Italian Tv": "Italiaanse Tv",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Reizen",
-	"Asian Tv": "Aziatische Tv", 
+	"Asian Tv": "Aziatische Tv",
 	"Entertainment": "Entertainment",
 	"News Radio": "Nieuws Radio",
 	"Music Radio": "Muziek Radio",
 	"Language Learning": "Taal leren",
 	"Science Radio": "Wetenschap Radio",
 	"Tech Radio": "Technologie Radio",
-	"Science & Technology Vod": "Wetenschap & Technologie Vod"
-
-
+	"Science & Technology Vod": "Wetenschap & Technologie Vod",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

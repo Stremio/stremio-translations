@@ -3,28 +3,22 @@
 	"TYPE_series": "Série",
 	"TYPE_tv": "Canal de TV",
 	"TYPE_channel": "Canal",
-
 	"TYPE_movie_PL": "Filmes",
 	"TYPE_series_PL": "Séries",
 	"TYPE_tv_PL": "Canais de TV",
 	"TYPE_channel_PL": "Canais",
-
 	"BACK": "Voltar",
-
 	"Discover": "Explorar",
 	"Board": "Painel",
 	"Library": "Biblioteca",
 	"Calendar": "Calendário",
-
 	"SEARCH": "pesquise",
-
 	"ADD_TO_LIB": "Adicionar à biblioteca",
 	"REMOVE_FROM_LIB": "Remover da biblioteca",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Ver Trailer",
 	"WATCH_NOW": "Ver Agora",
 	"SHOW": "Mostrar",
-
 	"IMDB_RATING": "Classifi. IMDb",
 	"YEAR": "Ano",
 	"DIRECTOR": "Diretor",
@@ -39,7 +33,7 @@
 	"UPCOMING": "Próximos",
 	"ENDED": "Finalizados",
 	"DURATION": "Duração",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "extensão",
 	"ADDONS": "Extensões",
 	"OFFICIAL": "oficial",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Popular na sua área",
 	"ADDON_FREE": "Gratuito",
 	"ADDON_SUBSCRIPTION": "assinatura",
-
 	"AVAILABLE_STREAMS": "Fontes Disponíveis",
-
 	"NO_STREAM": "Nenhuma fonte disponível",
 	"STILL_IN_THEATER": "Ainda no cinema",
 	"WATCH_IN_CINEMA": "veja-o no cinema mais próximo de si",
 	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, tente novamente mais tarde.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adicione à biblioteca para receber notificações quando estiver disponível.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Será notificado quando estiver disponível.",
-
 	"STREAMING_FROM": "a transmitir de",
 	"CASTING_TO": "A transmitir para",
 	"NETWORK_STATUS": "Estado da rede",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Ativo:",
 	"PEERS_CONNECTED": "Ligado:",
 	"PEERS_WAITING": "À espera:",
-
 	"STREAM_LOADING": "a carregar...",
 	"PLAYING_LOCAL": "a reproduzir a partir de um ficheiro local",
 	"PLAYING_CACHE": "a reproduzir a partir da cache",
-
 	"WRONG_SUBS": "Legendas incorretas?",
-
 	"CHOOSE_DEVICE": "Escolha um dispositivo para transmitir",
-
 	"PHONE_TABLET": "Telem. / Tablet",
-
 	"SUBTITLES_CHANGE": "Alterar legendas para ",
 	"SUBTITLES_CHANGE_NONE": "Desculpe, não há mais legendas para este idioma",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Temporada",
 	"EPISODE": "Episódio",
-
-	"DISCOVER_FEATURED": "Destaque",
-
 	"SORT_TRENDING": "tendência",
 	"SORT_RECENT": "recente",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "classificação",
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "ano",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Destaque",
 	"DISCOVER_TOP": "Popular",
 	"DISCOVER_OSCAR": "Vencedores de Óscar",
-
 	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma extensão Stremio ativa para este tipo. A exibir ficheiros guardados, nada será atualizado.",
-
 	"RELAUNCH": "Reiniciar agora!",
 	"UPGRADE": "Atualize para a versão mais recente do Stremio",
-
 	"FB_LOGIN": "Entrar com o Facebook",
 	"OR": "ou",
 	"I_ACCEPT": "Eu aceito os",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "Password incorreta. Caso se tenha esquecido da sua password, ",
 	"SET_A_PASS": "defina uma nova password",
 	"EMAIL_USED_WITH_FB": "Este email foi utilizado com uma sessão do Facebook.",
-
 	"ADDON_DISCLAIMER": "Ao usar uma extensão de terceiros estará sujeito à sua responsabilidade e as leis do governo onde está localizado.",
 	"ADDON_ACTIVATE": "Ativar esta extensão?",
-
 	"WHATS_NEW": "O que há de novo",
-
 	"BUTTON_CONTINUE": "Continuar",
 	"BUTTON_ACTIVATE": "Ativar",
 	"BUTTON_CANCEL": "Cancelar",
-
 	"LIB_EMPTY": "A sua biblioteca está vazia. Descubra como ela é útil :) ",
 	"HOW_START": "Aqui está como pode começar:",
 	"LIB_EMPTY_CAL": "O seu calendário mostra as séries da Biblioteca.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Importe coisas de que gosta no <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Encontre coisas interessantes em <span>Explorar</span>",
 	"IMPORT_DISK": "Importe filmes ou espetáculos que tem no <span>disco local</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
 	"SETTINGS_IMPORT_FB": "Importar do Facebook",
 	"SETTINGS_IMPORT_DISK": "Importar do disco local",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Termos de serviço",
 	"SETTINGS_SUPPORT": "Contacte o suporte",
 	"SETTING_LANGUAGE": "Idioma",
-
 	"QUIT": "Sair",
-
 	"CONNETED": "Ligado",
 	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Selecione a unidade para a cache",
-
 	"January": "janeiro",
 	"February": "fevereiro",
 	"March": "março",
@@ -163,7 +136,6 @@
 	"October": "outubro",
 	"November": "novembro",
 	"December": "dezembro",
-
 	"Monday": "segunda-feira",
 	"Tuesday": "terça-feira",
 	"Wednesday": "quarta-feira",
@@ -171,7 +143,6 @@
 	"Friday": "sexta-feira",
 	"Saturday": "sábado",
 	"Sunday": "domingo",
-
 	"Action": "Ação",
 	"Comedy": "Comédia",
 	"War": "Guerra",
@@ -192,9 +163,9 @@
 	"Sport": "Desporto",
 	"Musical": "Musical",
 	"Western": "Faroeste",
-    "Film-Noir": "Filme negro",
-    "News": "Atualidade",
-    "History": "História",
+	"Film-Noir": "Filme negro",
+	"News": "Atualidade",
+	"History": "História",
 	"Game-Show": "Concursos",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -210,7 +181,7 @@
 	"How-to & DIY": "Tutoriais",
 	"Tech": "Tecnologia",
 	"Automotive": "Automobilismo",
-	"Causes & Non-profits": "Causas e Associ. sem fins lucrativos ",
+	"Causes & Non-Profits": "Causes & Non-Profits",
 	"Movies": "Filmes",
 	"Uk Live Tv": "Reino Unido",
 	"Fashion": "Moda",
@@ -232,21 +203,46 @@
 	"Middle Eastern Tv": "Médio Oriente",
 	"Celebrity Tv": "Celebridades",
 	"Science Tv": "Ciência",
-	"Bikini Babe": "Biquínis",
+	"Bikini babe": "Bikini babe",
 	"Outdoors": "Ar livre",
 	"German Tv": "Alemanha",
 	"French Tv": "França",
 	"Italian Tv": "Itália",
 	"Gamer Tv": "Vídeo-jogos",
 	"Travel": "Viagens",
-	"Asian Tv": "Ásia", 
+	"Asian Tv": "Ásia",
 	"Entertainment": "Entretenimento",
 	"News Radio": "Notícias(Rádio)",
 	"Music Radio": "Música(Rádio)",
 	"Language Learning": "Aprender idiomas",
 	"Science Radio": "Ciência(Rádio)",
 	"Tech Radio": "Tecnologia(Rádio)",
-	"Science & Technology Vod": "Ciências e Tecnologias(VOD)"
-
-
+	"Science & Technology Vod": "Ciências e Tecnologias(VOD)",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

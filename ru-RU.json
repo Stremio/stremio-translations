@@ -3,28 +3,22 @@
 	"TYPE_series": "Сериалы",
 	"TYPE_tv": "Каналы TV",
 	"TYPE_channel": "Каналы",
-
 	"TYPE_movie_PL": "Кино",
 	"TYPE_series_PL": "Сериалы",
 	"TYPE_tv_PL": "Каналы TV",
 	"TYPE_channel_PL": "Каналы",
-
 	"BACK": "Обратна",
-
 	"Discover": "Открий",
 	"Board": "Доска",
 	"Library": "Библиотека",
 	"Calendar": "Календарь",
-	
 	"SEARCH": "Поиск",
-
 	"ADD_TO_LIB": "Добавит в библиатеку",
 	"REMOVE_FROM_LIB": "Удалить из библиотеки",
 	"TRAILER": "Трейлер",
 	"WATCH_TRAILER": "Смотреть трейлер",
 	"WATCH_NOW": "Смотри",
 	"SHOW": "Показать",
-
 	"IMDB_RATING": "IMDb Рейтинг",
 	"YEAR": "Год",
 	"DIRECTOR": "Режиссер",
@@ -39,7 +33,7 @@
 	"UPCOMING": "Скоро",
 	"ENDED": "Закончилось",
 	"DURATION": "Продолжительность",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "Плагин",
 	"ADDONS": "Плагины",
 	"OFFICIAL": "Официальный",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Популярные в вашем районе",
 	"ADDON_FREE": "Бесплатно",
 	"ADDON_SUBSCRIPTION": "Подписка",
-
 	"AVAILABLE_STREAMS": "Доступные Стримы",
-
 	"NO_STREAM": "Нету Стримов",
 	"STILL_IN_THEATER": "Блядь! Фильм до сих пор в кинотеатре",
 	"WATCH_IN_CINEMA": "Смотрите его в местном кинотеатре",
 	"CHANNEL_NOT_SCRAPED": "Этот канал ещё не просканирован.<br/> Пожалуйста, вернитесь через несколько минут.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавьте в библиотеку, чтобы получить уведомление, как только это возможно.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Вы получите уведомление, как только это возможно.",
-
 	"STREAMING_FROM": "Стрим от",
 	"CASTING_TO": "Кастинг для",
 	"NETWORK_STATUS": "Состояние Сети",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Активный:",
 	"PEERS_CONNECTED": "Подклучонй:",
 	"PEERS_WAITING": "Ждут:",
-
 	"STREAM_LOADING": "Загруска...",
 	"PLAYING_LOCAL": "Из Локалнава фаила",
 	"PLAYING_CACHE": "Из кэша",
-
 	"WRONG_SUBS": "Хринове субтитры?",
-
 	"CHOOSE_DEVICE": "как смотреть",
-	
 	"PHONE_TABLET": "Телефон / Таблет",
-
 	"SUBTITLES_CHANGE": "Изменить субтитры для ",
 	"SUBTITLES_CHANGE_NONE": "Нету других субтитры для этого языка, извините.",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Сезон",
 	"EPISODE": "Эпизод",
-
-	"DISCOVER_FEATURED": "Рекомендуемые",
-
 	"SORT_TRENDING": "тенденция",
 	"SORT_RECENT": "недавний",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "рейтинг",
 	"SORT_WATCHED": "видил",
 	"SORT_YEAR": "год",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Рекомендуемые",
 	"DISCOVER_TOP": "Верхний",
 	"DISCOVER_OSCAR": "Победители Оскара",
-
 	"DISCOVER_NOADDON_WARNING": "Внимание: не было найдено активного дополнения для этого типа. Показаны только сохранённые элементы, обновления не могут быть выполнены.",
-
 	"RELAUNCH": "возобновить сейчас!",
 	"UPGRADE": "Апгред на нобуе версиу",
-
 	"FB_LOGIN": "Войти с Facebook",
 	"OR": "или",
 	"I_ACCEPT": "Я принимаю",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "Неправильный пароль. Если вы забыли свой пароль, ",
 	"SET_A_PASS": "установить пароль",
 	"EMAIL_USED_WITH_FB": "Это меил было использона с логином Facebook.",
-
 	"ADDON_DISCLAIMER": "Использование посторонних дополнений всегда будет предметом вашей личной ответственности и попадает под регулирующее законодательство той юрисдикции в которой вы находитесь.",
 	"ADDON_ACTIVATE": "активировать этот плагин?",
-
 	"WHATS_NEW": "Что нового",
-
 	"BUTTON_CONTINUE": "Продолжать",
 	"BUTTON_ACTIVATE": "Активировать",
 	"BUTTON_CANCEL": "Отмена",
-
 	"LIB_EMPTY": "Ваша библиотека пуста? :) ",
 	"HOW_START": "Как начать:",
 	"LIB_EMPTY_CAL": "Ваше Календарь показывает сериалы в библиотеке.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Импорт интересный материал из <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Найти интересный материал из <span>Открий</span>",
 	"IMPORT_DISK": "Импорт видео из <span>локального диска</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Запуск при старте",
 	"SETTINGS_IMPORT_FB": "Импорт из Facebook",
 	"SETTINGS_IMPORT_DISK": "Импорт из локального диска",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Условия использования",
 	"SETTINGS_SUPPORT": "свяжитесь с поддержкай",
 	"SETTING_LANGUAGE": "Язык",
-
 	"QUIT": "Выход!",
-
 	"CONNETED": "Подклучон",
 	"AUTHENTICATE": "Проверять Подлинность",
 	"CACHING": "Кэширование",
 	"SETTINGS_CACHING_DRIVE": "Выберите диск кэширование",
-
 	"January": "Января",
 	"February": "Февраль",
 	"March": "Март",
@@ -163,7 +136,6 @@
 	"October": "Октября",
 	"November": "Ноября",
 	"December": "Декабрь",
-
 	"Monday": "Понедельник",
 	"Tuesday": "Вторник",
 	"Wednesday": "Среда",
@@ -171,8 +143,7 @@
 	"Friday": "Пятница",
 	"Saturday": "Суббота",
 	"Sunday": "Воскресенье",
-
-    "Action": "Боевик",
+	"Action": "Боевик",
 	"Comedy": "Комедия",
 	"War": "Война",
 	"Family": "Семья",
@@ -192,9 +163,9 @@
 	"Sport": "Спорт",
 	"Musical": "Музикалный",
 	"Western": "Вестерн",
-    "Film-Noir": "Фильм-нуар",
-    "News": "Новости",
-    "History": "История",
+	"Film-Noir": "Фильм-нуар",
+	"News": "Новости",
+	"History": "История",
 	"Game-Show": "Игровое шоу",
 	"Reality-TV": "Реалити TV",
 	"Talk-Show": "Ток-шоу",
@@ -246,6 +217,32 @@
 	"Language Learning": "Изучение языка",
 	"Science Radio": "Наука Радио",
 	"Tech Radio": "Технология Радио",
-	"Science & Technology Vod": "Наука & Технологии VoD"
-
+	"Science & Technology Vod": "Наука & Технологии VoD",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

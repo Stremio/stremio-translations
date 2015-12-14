@@ -3,28 +3,22 @@
 	"TYPE_series": "Sorozat",
 	"TYPE_tv": "TV csatorna",
 	"TYPE_channel": "Csatorna",
-
 	"TYPE_movie_PL": "Filmek",
 	"TYPE_series_PL": "Sorozatok",
 	"TYPE_tv_PL": "TV csatornák",
 	"TYPE_channel_PL": "Csatornák",
-
 	"BACK": "Vissza",
-
 	"Discover": "Felfedezés",
 	"Board": "Ajánlatok",
 	"Library": "Könyvtár",
 	"Calendar": "Naptár",
-	
 	"SEARCH": "keresés",
-
 	"ADD_TO_LIB": "Hozzáadás a könyvtárhoz",
 	"REMOVE_FROM_LIB": "Eltávolítás a könyvtárból",
 	"TRAILER": "Előzetes",
 	"WATCH_TRAILER": "Előzetes megtekintése",
 	"WATCH_NOW": "Indítás",
 	"SHOW": "Tovább",
-
 	"IMDB_RATING": "IMDb értékelés",
 	"YEAR": "Év",
 	"DIRECTOR": "Rendező",
@@ -33,13 +27,13 @@
 	"CAST": "Szereposztás",
 	"AIRED": "Vetítve",
 	"SEASONS": "Évad",
-	"GENRE": "Műfaj", 
+	"GENRE": "Műfaj",
 	"SUMMARY": "Tartalom",
 	"SIMILAR": "Hasonló",
 	"UPCOMING": "Nemsokára",
 	"ENDED": "Vége",
 	"DURATION": "Időtartam",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "bővítmény",
 	"ADDONS": "Bővítmények",
 	"OFFICIAL": "hivatalos",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "Népszerű a környezetedben",
 	"ADDON_FREE": "ingyenes",
 	"ADDON_SUBSCRIPTION": "előfizetés",
-
 	"AVAILABLE_STREAMS": "Elérhető streamek",
-
 	"NO_STREAM": "Nincs elérhető stream",
 	"STILL_IN_THEATER": "A filmet még moziban játsszák",
 	"WATCH_IN_CINEMA": "Elérhető a közeli moziban",
 	"CHANNEL_NOT_SCRAPED": "Ez a csatorna még nincs tárolva.<br>Kérjük, térj vissza pár perc múlva.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add hozzá a könyvtáradhoz és értesítünk, amikor elérhetővé válik.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Értesítünk, amikor elérhetővé válik.",
-
 	"STREAMING_FROM": "lejtászás innen",
 	"CASTING_TO": "Továbbítva",
 	"NETWORK_STATUS": "Kapcsolat állapota",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "Aktív:",
 	"PEERS_CONNECTED": "Kapcsolódva:",
 	"PEERS_WAITING": "Várakoznak:",
-
 	"STREAM_LOADING": "betöltés...",
 	"PLAYING_LOCAL": "lejátszás helyi fájlból",
 	"PLAYING_CACHE": "lejátszás gyorsítótárból",
-
 	"WRONG_SUBS": "Hibás felirat?",
-
 	"CHOOSE_DEVICE": "Válassz egy készüléket a továbbításhoz",
-	
 	"PHONE_TABLET": "Telefon / Táblagép",
-
 	"SUBTITLES_CHANGE": "Másik felirat választása a következő nyelvhez: ",
 	"SUBTITLES_CHANGE_NONE": "Sajnáljuk, nem érhető el másik felirat ehhez a nyelvhez.",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "Évad",
 	"EPISODE": "Epizód",
-
-	"DISCOVER_FEATURED": "Ajánlott",
-
 	"SORT_TRENDING": "Nézettség",
 	"SORT_RECENT": "legújabbak",
 	"SORT_ALPHABET": "A-tól Z-ig",
 	"SORT_RATING": "értékelés",
 	"SORT_WATCHED": "megtekintve",
 	"SORT_YEAR": "év",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "Ajánlott",
 	"DISCOVER_TOP": "Népszerűek",
 	"DISCOVER_OSCAR": "Oscar nyertesek",
-
 	"DISCOVER_NOADDON_WARNING": "Figyelmeztetés: nincs bekapcsolt Stremio bővítmény ehhez a típushoz. Elmentett elemek mutatása, melyek nem fognak frissülni.",
-
 	"RELAUNCH": "Újraindítás most!",
 	"UPGRADE": "Frissítés a legújabb Streamio verzióra",
-
 	"FB_LOGIN": "Bejelentkezés Facebookkal",
 	"OR": "vagy",
 	"I_ACCEPT": "Elfogadom a",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "Rossz jelszó. Ha elfelejtetted a jelszavad, ",
 	"SET_A_PASS": "jelszó beállítása",
 	"EMAIL_USED_WITH_FB": "Ez az email már hozzá van rendelve egy Facebookos regisztrációhoz.",
-
 	"ADDON_DISCLAIMER": "Harmadik féltől származó bővítmények használata mindig a felhasználó felelőssége, a felhasználó tartózkodási területén életben lévő törvényeket tiszteletben tartva.",
 	"ADDON_ACTIVATE": "Bekapcsolod ezt a bővítményt?",
-
 	"WHATS_NEW": "Újdonságok",
-
 	"BUTTON_CONTINUE": "Folytatás",
 	"BUTTON_ACTIVATE": "Bekapcsolás",
 	"BUTTON_CANCEL": "Mégse",
-
 	"LIB_EMPTY": "A könyvtárad üres. Fedezd fel, milyen hasznos ez a funkció :) ",
 	"HOW_START": "Használatához ennyit kell tenned:",
 	"LIB_EMPTY_CAL": "A naptárad a könyvtáradban található sorozatokat mutatja.",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "Importálj általad kedvelt tartalmakat a <span>Facebookról</span>",
 	"IMPORT_DISCOVER": "Keress érdekes tartalmakat a <span>Felfedezés</span> fülről",
 	"IMPORT_DISK": "Importálj filmeket és sorozatokat a <span>helyi lemezedőrl</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Alkalmazás indítása Windows indításakora",
 	"SETTINGS_IMPORT_FB": "Importálás Facebookról",
 	"SETTINGS_IMPORT_DISK": "Importálás helyi lemezről",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "Felhasználói feltételek",
 	"SETTINGS_SUPPORT": "Kapcsolat felvétele",
 	"SETTING_LANGUAGE": "Nyelv",
-
 	"QUIT": "Kilépés",
-
 	"CONNETED": "Kapcsolódva",
 	"AUTHENTICATE": "Bejelentkezés",
 	"CACHING": "Tárolás",
 	"SETTINGS_CACHING_DRIVE": "Válaszd ki a tárolás helyét",
-
 	"January": "Január",
 	"February": "Február",
 	"March": "Március",
@@ -163,7 +136,6 @@
 	"October": "Október",
 	"November": "November",
 	"December": "December",
-
 	"Monday": "Hétfő",
 	"Tuesday": "Kedd",
 	"Wednesday": "Szerda",
@@ -171,7 +143,6 @@
 	"Friday": "Péntek",
 	"Saturday": "Szombat",
 	"Sunday": "Vasárnap",
-
 	"Action": "Akció",
 	"Comedy": "Vígjáték",
 	"War": "Háborús",
@@ -192,9 +163,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Vadnyugati",
-    "Film-Noir": "Noir",
-    "News": "Hírek",
-    "History": "Történelem",
+	"Film-Noir": "Noir",
+	"News": "Hírek",
+	"History": "Történelem",
 	"Game-Show": "Játék show",
 	"Reality-TV": "Reality",
 	"Talk-Show": "Beszélgetős műsor",
@@ -239,14 +210,39 @@
 	"Italian Tv": "Olasz TV",
 	"Gamer Tv": "Játékos TV",
 	"Travel": "Utazás",
-	"Asian Tv": "Ázsiai TV", 
+	"Asian Tv": "Ázsiai TV",
 	"Entertainment": "Szórakoztatás",
 	"News Radio": "Rádiós hírek",
 	"Music Radio": "Zenei rádió",
 	"Language Learning": "Nyelvtanulás",
 	"Science Radio": "Tudományos rádió",
 	"Tech Radio": "Technológiai rádió",
-	"Science & Technology Vod": "Tudomány és technológia"
-
-
+	"Science & Technology Vod": "Tudomány és technológia",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }

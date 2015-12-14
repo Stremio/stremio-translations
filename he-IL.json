@@ -3,28 +3,22 @@
 	"TYPE_series": "סדרה",
 	"TYPE_tv": "ערוץ טלויזיה",
 	"TYPE_channel": "ערוץ",
-
 	"TYPE_movie_PL": "סרטים",
 	"TYPE_series_PL": "סדרות",
 	"TYPE_tv_PL": "ערוצי טלויזיה",
 	"TYPE_channel_PL": "ערוצים",
-
 	"BACK": "חזור",
-
 	"Discover": "גלה",
 	"Board": "לוח",
 	"Library": "ספרייה",
 	"Calendar": "לוח שנה",
-	
 	"SEARCH": "חיפוש",
-
 	"ADD_TO_LIB": "הוסף לספרייה",
 	"REMOVE_FROM_LIB": "הסר מהספרייה",
 	"TRAILER": "קדימון",
 	"WATCH_TRAILER": "צפייה בקדימון",
 	"WATCH_NOW": "צפה כעת",
 	"SHOW": "הצג",
-
 	"IMDB_RATING": "דירוג IMDb",
 	"YEAR": "שנה",
 	"DIRECTOR": "במאי",
@@ -33,13 +27,13 @@
 	"CAST": "צוות",
 	"AIRED": "תאריך שידור",
 	"SEASONS": "עונות",
-	"GENRE": "ז'אנר", 
+	"GENRE": "ז'אנר",
 	"SUMMARY": "תקציר",
 	"SIMILAR": "דומה",
 	"UPCOMING": "בקרוב",
 	"ENDED": "הסתיים",
 	"DURATION": "אורך",
-
+	"SEARCH_VIDEOS": "search videos",
 	"ADDON": "תוסף",
 	"ADDONS": "תוספים",
 	"OFFICIAL": "רשמי",
@@ -47,16 +41,13 @@
 	"ADDONS_POPULAR": "פופולרי באזור שלך",
 	"ADDON_FREE": "חינם",
 	"ADDON_SUBSCRIPTION": "הרשמה",
-
 	"AVAILABLE_STREAMS": "מקורות זמינים",
-
 	"NO_STREAM": "לא נמצאו מקורות",
 	"STILL_IN_THEATER": "הסרט עדיין בקולנוע",
 	"WATCH_IN_CINEMA": "צפה בו בקולנוע",
 	"CHANNEL_NOT_SCRAPED": "ערוץ זה עדיין לא מוכן.<br>אנא חזור בעוד כמה דקות.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "הוסף לסיפריה וקבל התרעה מתי שיהיה מוכן.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "אתה תקבל התרעה שהוא יהיה מוכן.",
-
 	"STREAMING_FROM": "מזרים מ",
 	"CASTING_TO": "משדר ל",
 	"NETWORK_STATUS": "מצב הרשת",
@@ -66,41 +57,30 @@
 	"PEERS_ACTIVE": "פעילים:",
 	"PEERS_CONNECTED": "מחוברים:",
 	"PEERS_WAITING": "ממתינים:",
-
 	"STREAM_LOADING": "טוען...",
 	"PLAYING_LOCAL": "מנגן מקובץ מקומי",
 	"PLAYING_CACHE": "מנגן ממטמון",
-
 	"WRONG_SUBS": "כתוביות שגויות?",
-
 	"CHOOSE_DEVICE": "בחר מכשיר לצפות בו",
-	
 	"PHONE_TABLET": "סלולארי / טאבלט",
-
 	"SUBTITLES_CHANGE": "שנה כתוביות עבור ",
 	"SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
-
-
+	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SEASON": "עונה",
 	"EPISODE": "פרק",
-
-	"DISCOVER_FEATURED": "מומלץ",
-
 	"SORT_TRENDING": "פופולרי",
 	"SORT_RECENT": "חדש",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "דירוג",
 	"SORT_WATCHED": "נצפה",
 	"SORT_YEAR": "שנה",
-
+	"LIBRARY_RESUME": "resume",
+	"DISCOVER_FEATURED": "מומלץ",
 	"DISCOVER_TOP": "מומלץ",
 	"DISCOVER_OSCAR": "זוכי אוסקר",
-
 	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
-
 	"RELAUNCH": "הפעל מחדש כעת!",
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
-
 	"FB_LOGIN": "התחבר בעזרת פייסבוק",
 	"OR": "או",
 	"I_ACCEPT": "אני מסכים",
@@ -114,16 +94,12 @@
 	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה, ",
 	"SET_A_PASS": "קבע סיסמה",
 	"EMAIL_USED_WITH_FB": "כתובת דואר אלקטרוני זה שומש בחיבור בעזרת פייסבוק.",
-
 	"ADDON_DISCLAIMER": "שימוש בתוספים צד שלישי תמיד יהיו תחת אחריותך ותחת החוק הקיים באזור מגוריך.",
 	"ADDON_ACTIVATE": "הפעלת תוסף זה?",
-
 	"WHATS_NEW": "מה חדש",
-
 	"BUTTON_CONTINUE": "המשך",
 	"BUTTON_ACTIVATE": "הפעל",
 	"BUTTON_CANCEL": "ביטול",
-
 	"LIB_EMPTY": "הספרייה שלך נראית ריקה. גלו כמה זה שימושי :) ",
 	"HOW_START": "ככה תוכל להתחיל:",
 	"LIB_EMPTY_CAL": "לוח השנה מציג סדרות בספרייה שלך",
@@ -134,7 +110,7 @@
 	"IMPORT_FB": "יבא דברים שאתה אוהב מ<span>פייסבוק</span>",
 	"IMPORT_DISCOVER": "מצא דברים מעניינים דרך טאב ה<span>גלה</span>",
 	"IMPORT_DISK": "יבא סרטים או סדרות אשר נמצאים ב<span>דיסק המקומי</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "הפעל בעת הפעלת המחשב",
 	"SETTINGS_IMPORT_FB": "יבא מפייסבוק",
 	"SETTINGS_IMPORT_DISK": "יבא מדיסק מקומי",
@@ -143,14 +119,11 @@
 	"SETTINGS_TOS": "תנאי שימוש",
 	"SETTINGS_SUPPORT": "צור קשר עם התמיכה",
 	"SETTING_LANGUAGE": "שפה",
-
 	"QUIT": "יציאה",
-
 	"CONNETED": "מחובר",
 	"AUTHENTICATE": "אימות",
 	"CACHING": "מטמון",
 	"SETTINGS_CACHING_DRIVE": "בחר כונן למטמון",
-
 	"January": "ינואר",
 	"February": "פברואר",
 	"March": "מרץ",
@@ -163,7 +136,6 @@
 	"October": "אוקטובר",
 	"November": "נובמבר",
 	"December": "דצמבר",
-
 	"Monday": "שני",
 	"Tuesday": "שלישי",
 	"Wednesday": "רביעי",
@@ -171,7 +143,6 @@
 	"Friday": "שישי",
 	"Saturday": "שבת",
 	"Sunday": "ראשון",
-
 	"Action": "אקשן",
 	"Comedy": "קומדיה",
 	"War": "מלחמה",
@@ -192,9 +163,9 @@
 	"Sport": "ספורט",
 	"Musical": "מוזיקלי",
 	"Western": "מערבונים",
-    "Film-Noir": "סרט-נואר",
-    "News": "חדשות",
-    "History": "היסטוריה",
+	"Film-Noir": "סרט-נואר",
+	"News": "חדשות",
+	"History": "היסטוריה",
 	"Game-Show": "שעשועונים",
 	"Reality-TV": "ריאלטי",
 	"Talk-Show": "טוק שואו",
@@ -239,14 +210,39 @@
 	"Italian Tv": "טלויזיה איטלקית",
 	"Gamer Tv": "טלויזיית גיימרים",
 	"Travel": "טלויזיית טיולים",
-	"Asian Tv": "טלויזיה אסייתית", 
+	"Asian Tv": "טלויזיה אסייתית",
 	"Entertainment": "בידור",
 	"News Radio": "רדיו חדשות",
 	"Music Radio": "רדיו מוזיקה",
 	"Language Learning": "לימוד שפות",
 	"Science Radio": "רדיו מדע",
 	"Tech Radio": "רדיו טכנולוגיה",
-	"Science & Technology Vod": "מדע וטכנולוגיה VOD"
-
-	
+	"Science & Technology Vod": "מדע וטכנולוגיה VOD",
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended",
+	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_SHARE": "Share",
+	"CTX_COPY_SHARE_LINK": "Copy share link",
+	"CTX_SHOW": "Show",
+	"CTX_WATCH_ON": "Watch on",
+	"CTX_WATCH": "Watch",
+	"CTX_WATCHED": "Watched",
+	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
+	"CTX_REWIND": "Rewind to beginning",
+	"CTX_MARK_WATCHED": "Mark as watched",
+	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
+	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
+	"CTX_REMOVE_CACHE": "Remove from cache",
+	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
+	"CTX_OPEN_CONTAINING": "Open containing folder",
+	"CTX_REMOVE": "Remove from library",
+	"CTX_AVAILABLE_OFFLINE": "Available Offline",
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUES": "Report issue"
 }
