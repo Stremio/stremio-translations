@@ -246,7 +246,12 @@
 	"Language Learning": "Language Learning",
 	"Science Radio": "Science Radio",
 	"Tech Radio": "Tech Radio",
-	"Science & Technology Vod": "Science & Technology Vod"
+	"Science & Technology Vod": "Science & Technology Vod",
+
+	"new video": "new video",
+	"new episode": "new episode",
+	"new movie": "new movie",
+	"recommended": "recommended"
 
 
 }
