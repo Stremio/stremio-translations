@@ -85,14 +85,16 @@
 	"SEASON": "Season",
 	"EPISODE": "Episode",
 
-	"DISCOVER_FEATURED": "Featured",
-
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "recent",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
+
+	"LIBRARY_RESUME": "resume",
+
+	"DISCOVER_FEATURED": "Featured",
 
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Oscar Winners",

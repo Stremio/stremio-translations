@@ -84,14 +84,16 @@
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
 
-	"DISCOVER_FEATURED": "Featured",
-
 	"SORT_TRENDING": "популярни",
 	"SORT_RECENT": "последни",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "рейтинг",
 	"SORT_WATCHED": "гледани",
 	"SORT_YEAR": "година",
+
+	"LIBRARY_RESUME": "продължи",
+
+	"DISCOVER_FEATURED": "Избрано",
 
 	"DISCOVER_TOP": "Топ",
 	"DISCOVER_OSCAR": "Носители на Оскар",
