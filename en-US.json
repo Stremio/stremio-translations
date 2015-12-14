@@ -267,6 +267,7 @@
 	"CTX_WATCH": "Watch",
 	"CTX_WATCHED": "Watched",
 	"CTX_WATCH_BEGINNING": "Watch from the beginning",
+	"CTX_WATCH_MOBILE": "Watch on a mobile device",
 	"CTX_REWIND": "Rewind to beginning",
 	"CTX_MARK_WATCHED": "Mark as watched",
 	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
@@ -280,7 +281,7 @@
 	"CTX_ALWAYS_ON_TOP": "Always on top",
 	"CTX_FULLSCREEN": "Fullscreen",
 	"CTX_WRONG_SUBS": "Wrong subtitles?",
-	"CTX_REPORT_ISSUE": "Report issue"
+	"CTX_REPORT_ISSUES": "Report issue"
 
 
 

@@ -266,6 +266,7 @@
 	"CTX_WATCH": "Гледай",
 	"CTX_WATCHED": "Гледано",
 	"CTX_WATCH_BEGINNING": "Гледай от началото",
+	"CTX_WATCH_MOBILE": "Гледай на мобилно устройство",
 	"CTX_REWIND": "Превърти до началото",
 	"CTX_MARK_WATCHED": "Маркирай като гледано",
 	"CTX_MARK_NON_WATCHED": "Маркирай като не-гледано",
@@ -279,7 +280,7 @@
 	"CTX_ALWAYS_ON_TOP": "Винаги отгоре",
 	"CTX_FULLSCREEN": "Цял екран",
 	"CTX_WRONG_SUBS": "Грешни субтитри?",
-	"CTX_REPORT_ISSUE": "Докладвай проблем"
+	"CTX_REPORT_ISSUES": "Докладвай проблем"
 
 
 }
