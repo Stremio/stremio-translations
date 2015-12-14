@@ -134,6 +134,7 @@
 	"IMPORT_FB": "Добавяне от <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Намерете интересни неща в <span>Discover</span>",
 	"IMPORT_DISK": "Сканирайте за филми и сериали от вашия <span>локален диск</span>",
+	"PLEASE_CREATE_ACC": "Моля <u>създайте акаунт</u> за да използвате Library и Board.",
 
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",

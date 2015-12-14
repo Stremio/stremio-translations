@@ -134,7 +134,8 @@
 	"IMPORT_FB": "Import things you like from <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
 	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
-
+	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
+	
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
