@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 var path = require("path");
+var fs = require("fs");
 
 var en = require("../en-US");
 
@@ -21,7 +22,7 @@ console.log("re-writing to "+p);
 
 if (!missing) return console.log("no missing properties, exiting");
 
-fs.saveFile(p, JSON.stringify(rewritten,null,4), function(err) {
+fs.writeFile(p, JSON.stringify(rewritten,null,"\t"), function(err) {
 	console.log(err || "successfully re-written file");
 	process.exit(err ? 1 : 0);
 })
