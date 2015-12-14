@@ -276,7 +276,11 @@
 	"CTX_OPEN_CONTAINING": "Open containing folder",
 	"CTX_REMOVE": "Remove from library",
 	"CTX_AVAILABLE_OFFLINE": "Available Offline",
-	"CTX_REMOVE_CACHE": "Remove from cache"
+	"CTX_PAUSED": "Paused",
+	"CTX_ALWAYS_ON_TOP": "Always on top",
+	"CTX_FULLSCREEN": "Fullscreen",
+	"CTX_WRONG_SUBS": "Wrong subtitles?",
+	"CTX_REPORT_ISSUE": "Report issue"
 
 
 

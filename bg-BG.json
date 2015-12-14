@@ -256,7 +256,30 @@
 	"new video": "ново видео",
 	"new episode": "нов епизод",
 	"new movie": "нов филм",
-	"recommended": "препоръчано"
+	"recommended": "препоръчано",
+
+	"CTX_DISMISS_NOTIF": "Премахни известия",
+	"CTX_SHARE": "Сподели",
+	"CTX_COPY_SHARE_LINK": "Копирай линк за споделяне",
+	"CTX_SHOW": "Покажи",
+	"CTX_WATCH_ON": "Гледай на",
+	"CTX_WATCH": "Гледай",
+	"CTX_WATCHED": "Гледано",
+	"CTX_WATCH_BEGINNING": "Гледай от началото",
+	"CTX_REWIND": "Превърти до началото",
+	"CTX_MARK_WATCHED": "Маркирай като гледано",
+	"CTX_MARK_NON_WATCHED": "Маркирай като не-гледано",
+	"CTX_RECEIVE_NEW_NOTIF": "Получавай нови известия",
+	"CTX_REMOVE_CACHE": "Премахни от кеш",
+	"CTX_REMOVE_CACHE_EP": "Премахни епизод от кеш",
+	"CTX_OPEN_CONTAINING": "Отвори папка",
+	"CTX_REMOVE": "Премахни от библиотеката",
+	"CTX_AVAILABLE_OFFLINE": "Достъпно офлайн",
+	"CTX_PAUSED": "Пауза",
+	"CTX_ALWAYS_ON_TOP": "Винаги отгоре",
+	"CTX_FULLSCREEN": "Цял екран",
+	"CTX_WRONG_SUBS": "Грешни субтитри?",
+	"CTX_REPORT_ISSUE": "Докладвай проблем"
 
 
 }
