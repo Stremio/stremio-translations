@@ -244,5 +244,8 @@
 	"CTX_ALWAYS_ON_TOP": "Sempre no topo",
 	"CTX_FULLSCREEN": "Ecrã inteiro",
 	"CTX_WRONG_SUBS": "Legendas incorretas?",
-	"CTX_REPORT_ISSUES": "Reportar problema"
+	"CTX_REPORT_ISSUES": "Reportar problema",
+	"CTX_COPY": "Copy",
+	"CTX_PASTE": "Paste",
+	"CTX_CLEAR": "Clear"
 }

@@ -244,5 +244,8 @@
 	"CTX_ALWAYS_ON_TOP": "Always on top",
 	"CTX_FULLSCREEN": "Fullscreen",
 	"CTX_WRONG_SUBS": "Wrong subtitles?",
-	"CTX_REPORT_ISSUES": "Report issue"
+	"CTX_REPORT_ISSUES": "Report issue",
+	"CTX_COPY": "Copy",
+	"CTX_PASTE": "Paste",
+	"CTX_CLEAR": "Clear"
 }
