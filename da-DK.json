@@ -247,5 +247,6 @@
 	"CTX_REPORT_ISSUES": "Report issue",
 	"CTX_COPY": "Copy",
 	"CTX_PASTE": "Paste",
-	"CTX_CLEAR": "Clear"
+	"CTX_CLEAR": "Clear",
+	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches"
 }
