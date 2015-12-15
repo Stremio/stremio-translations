@@ -3,28 +3,22 @@
 	"TYPE_series": "Сериал",
 	"TYPE_tv": "TV канал",
 	"TYPE_channel": "YouTube канал",
-
 	"TYPE_movie_PL": "Филми",
 	"TYPE_series_PL": "Сериали",
 	"TYPE_tv_PL": "TV канали",
 	"TYPE_channel_PL": "YouTube канали",
-
 	"BACK": "Назад",
-
 	"Discover": "Открий",
 	"Board": "Известия",
 	"Library": "Библиотека",
 	"Calendar": "Календар",
-	
 	"SEARCH": "търси",
-
 	"ADD_TO_LIB": "Добави",
 	"REMOVE_FROM_LIB": "Премахни",
 	"TRAILER": "Трейлър",
 	"WATCH_TRAILER": "Трейлър",
 	"WATCH_NOW": "Гледай",
 	"SHOW": "Покажи",
-
 	"IMDB_RATING": "IMDb рейтинг",
 	"YEAR": "Година",
 	"DIRECTOR": "Режисьор",
@@ -33,15 +27,13 @@
 	"CAST": "Състав",
 	"AIRED": "Излъчено",
 	"SEASONS": "Сезони",
-	"GENRE": "Жанр", 
+	"GENRE": "Жанр",
 	"SUMMARY": "Описание",
 	"SIMILAR": "Подобни",
 	"UPCOMING": "Очаквайте",
 	"ENDED": "Прекратено",
 	"DURATION": "Продължителност",
-
 	"SEARCH_VIDEOS": "търси видеа",
-
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "официални",
@@ -49,16 +41,13 @@
 	"ADDONS_POPULAR": "Популярни в района ви",
 	"ADDON_FREE": "безплатно",
 	"ADDON_SUBSCRIPTION": "subscription",
-
 	"AVAILABLE_STREAMS": "Достъпни източници",
-
 	"NO_STREAM": "Няма достъпни източници",
 	"STILL_IN_THEATER": "Филмът е все още по кината",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
 	"CHANNEL_NOT_SCRAPED": "Нямаме информация за този канал все още.<br>Върнете се след няколко минути.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
-
 	"STREAMING_FROM": "стриймваме от",
 	"CASTING_TO": "Възпроизвеждаме на",
 	"NETWORK_STATUS": "Мрежа",
@@ -68,43 +57,30 @@
 	"PEERS_ACTIVE": "Активни:",
 	"PEERS_CONNECTED": "Свързани:",
 	"PEERS_WAITING": "Чакащи:",
-
 	"STREAM_LOADING": "зареждане...",
 	"PLAYING_LOCAL": "възпроизвеждане от локален файл",
 	"PLAYING_CACHE": "възпроизвеждане от кеш",
-
 	"WRONG_SUBS": "Грешни субтитри?",
-
 	"CHOOSE_DEVICE": "Изберете устройство",
-	
 	"PHONE_TABLET": "Телефон / Таблет",
-
 	"SUBTITLES_CHANGE": "Смени субтитрите на ",
 	"SUBTITLES_CHANGE_NONE": "Няма други субтитри за този език.",
 	"SUBTITLES_CHANGE_ACIVE": "В момента субтитри &#35;{{subtitlesDialog.activeIdx + 1}} са активирани. Кликнете \"Продължи\" за да активирате &#35;{{subtitlesDialog.pickedIdx + 1}}.",
-
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
-
 	"SORT_TRENDING": "популярни",
 	"SORT_RECENT": "последни",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "рейтинг",
 	"SORT_WATCHED": "гледани",
 	"SORT_YEAR": "година",
-
 	"LIBRARY_RESUME": "продължи",
-
 	"DISCOVER_FEATURED": "Избрано",
-
 	"DISCOVER_TOP": "Топ",
 	"DISCOVER_OSCAR": "Носители на Оскар",
-
 	"DISCOVER_NOADDON_WARNING": "Внимание: няма активен Stremio add-on за този тип съдържание. Тук виждате запазена информация, тя няма да се обнови.",
-
 	"RELAUNCH": "Стартирай новата версия!",
 	"UPGRADE": "Достъпна е нова версия",
-
 	"FB_LOGIN": "Влизане с Фейсбук",
 	"OR": "или",
 	"I_ACCEPT": "Прочетох и приемам",
@@ -118,16 +94,12 @@
 	"WRONG_PASSWORD": "Грешна парола. В случай, че сте я забравили, ",
 	"SET_A_PASS": "сложете ваша парола",
 	"EMAIL_USED_WITH_FB": "Този email е използван с Фейсбук логин.",
-
 	"ADDON_DISCLAIMER": "Използването на add-on-и от трети лица е ваша отговорност.",
 	"ADDON_ACTIVATE": "Активирай този add-on?",
-
 	"WHATS_NEW": "Какво ново?",
-
 	"BUTTON_CONTINUE": "Продължи",
 	"BUTTON_ACTIVATE": "Активирай",
 	"BUTTON_CANCEL": "Отказ",
-
 	"LIB_EMPTY": "Библиотеката ви е празна. Открийте колко е полезна :) ",
 	"HOW_START": "Започнете така:",
 	"LIB_EMPTY_CAL": "Календарът показва епизоди от сериалите във вашата Библиотека.",
@@ -139,7 +111,6 @@
 	"IMPORT_DISCOVER": "Намерете интересни неща в <span>Discover</span>",
 	"IMPORT_DISK": "Сканирайте за филми и сериали от вашия <span>локален диск</span>",
 	"PLEASE_CREATE_ACC": "Моля <u>създайте акаунт</u> за да използвате Library и Board.",
-
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
@@ -148,14 +119,11 @@
 	"SETTINGS_TOS": "Условия за ползване",
 	"SETTINGS_SUPPORT": "Поддръжка",
 	"SETTING_LANGUAGE": "Език",
-
 	"QUIT": "Спиране",
-
 	"CONNETED": "Свързан",
 	"AUTHENTICATE": "оторизация",
 	"CACHING": "Кеширане",
 	"SETTINGS_CACHING_DRIVE": "Изберете диск за кеш",
-
 	"January": "Януари",
 	"February": "Февруари",
 	"March": "Март",
@@ -168,7 +136,6 @@
 	"October": "Октомври",
 	"November": "Ноември",
 	"December": "Декември",
-
 	"Monday": "Понеделник",
 	"Tuesday": "Вторник",
 	"Wednesday": "Сряда",
@@ -176,7 +143,6 @@
 	"Friday": "Петък",
 	"Saturday": "Събота",
 	"Sunday": "Неделя",
-
 	"Action": "Екшън",
 	"Comedy": "Комедия",
 	"War": "Военни",
@@ -197,9 +163,9 @@
 	"Sport": "Спортни",
 	"Musical": "Мюзикъли",
 	"Western": "Уестърн",
-    "Film-Noir": "Film-Noir",
-    "News": "News",
-    "History": "History",
+	"Film-Noir": "Film-Noir",
+	"News": "News",
+	"History": "History",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -244,7 +210,7 @@
 	"Italian Tv": "Italian Tv",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Travel",
-	"Asian Tv": "Asian Tv", 
+	"Asian Tv": "Asian Tv",
 	"Entertainment": "Entertainment",
 	"News Radio": "News Radio",
 	"Music Radio": "Music Radio",
@@ -252,12 +218,10 @@
 	"Science Radio": "Science Radio",
 	"Tech Radio": "Tech Radio",
 	"Science & Technology Vod": "Science & Technology Vod",
-
 	"new video": "ново видео",
 	"new episode": "нов епизод",
 	"new movie": "нов филм",
 	"recommended": "препоръчано",
-
 	"CTX_DISMISS_NOTIF": "Премахни известия",
 	"CTX_SHARE": "Сподели",
 	"CTX_COPY_SHARE_LINK": "Копирай линк за споделяне",
@@ -280,7 +244,8 @@
 	"CTX_ALWAYS_ON_TOP": "Винаги отгоре",
 	"CTX_FULLSCREEN": "Цял екран",
 	"CTX_WRONG_SUBS": "Грешни субтитри?",
-	"CTX_REPORT_ISSUES": "Докладвай проблем"
-
-
+	"CTX_REPORT_ISSUES": "Докладвай проблем",
+	"CTX_COPY": "Копирай",
+	"CTX_PASTE": "Постави",
+	"CTX_CLEAR": "Изчисти"
 }
