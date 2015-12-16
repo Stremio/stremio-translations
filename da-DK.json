@@ -3,22 +3,28 @@
 	"TYPE_series": "Serie",
 	"TYPE_tv": "Kanal",
 	"TYPE_channel": "Kanal",
+
 	"TYPE_movie_PL": "Film",
 	"TYPE_series_PL": "Serier",
 	"TYPE_tv_PL": "TV",
 	"TYPE_channel_PL": "YouTube",
+
 	"BACK": "Tilbage",
+
 	"Discover": "Opdag",
 	"Board": "Væg",
 	"Library": "Bibliotek",
 	"Calendar": "Kalender",
+
 	"SEARCH": "Søg efter",
+
 	"ADD_TO_LIB": "Tilføj til Bibliotek",
 	"REMOVE_FROM_LIB": "Fjern fra Bibliotek",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Se Trailer",
 	"WATCH_NOW": "Afspil",
 	"SHOW": "Vis",
+
 	"IMDB_RATING": "IMDb Bedømmelse",
 	"YEAR": "År",
 	"DIRECTOR": "Instruktør",
@@ -33,21 +39,26 @@
 	"UPCOMING": "Kommende",
 	"ENDED": "Sluttet",
 	"DURATION": "Længde",
-	"SEARCH_VIDEOS": "search videos",
+	
+	"SEARCH_VIDEOS": "søg videoer",
+	
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "Officielle",
 	"ADDONS_OFFICIAL": "Officielle Stremio Addons",
-	"ADDONS_POPULAR": "Populært nær dig",
+	"ADDONS_POPULAR": "Populære nær dig",
 	"ADDON_FREE": "Gratis",
 	"ADDON_SUBSCRIPTION": "Abonnement",
+	
 	"AVAILABLE_STREAMS": "Tilgængelige Streams",
+	
 	"NO_STREAM": "Ingen tilgængelige streams",
 	"STILL_IN_THEATER": "Film stadig i biografen",
 	"WATCH_IN_CINEMA": "se den i din lokale biograf",
 	"CHANNEL_NOT_SCRAPED": "Denne kanal er ikke indekseret endnu.<br>Kom tilbage om et par minutter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Tilføj til dit bibliotek og bliv notificeret når den er tilgængelig",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du vil blive notificeret når den er tilgængelig",
+	
 	"STREAMING_FROM": "streamer fra",
 	"CASTING_TO": "Afspiller på",
 	"NETWORK_STATUS": "Netværksstatus",
@@ -57,30 +68,41 @@
 	"PEERS_ACTIVE": "Aktive:",
 	"PEERS_CONNECTED": "Forbundet:",
 	"PEERS_WAITING": "Venter:",
+	
 	"STREAM_LOADING": "Henter..",
 	"PLAYING_LOCAL": "afspiller fra lokal fil",
 	"PLAYING_CACHE": "afspiller fra cache",
+	
 	"WRONG_SUBS": "Forkert tekst?",
+
 	"CHOOSE_DEVICE": "Vælg enhed at afspille på",
+	
 	"PHONE_TABLET": "Telefon / Tablet",
 	"SUBTITLES_CHANGE": "Ændre undertekster",
 	"SUBTITLES_CHANGE_NONE": "Der er ikke flere undertekster til dette sprog, desværre.",
-	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
+	"SUBTITLES_CHANGE_ACIVE": "Undertekst &#35;{{subtitlesDialog.activeIdx + 1}} er aktiveret. Klik \"Forsæt\" for at aktivere &#35;{{subtitlesDialog.pickedIdx + 1}}.",
+	
 	"SEASON": "Sæson",
 	"EPISODE": "Episode",
+	
 	"SORT_TRENDING": "tendens",
 	"SORT_RECENT": "seneste",
 	"SORT_ALPHABET": "alfabetisk",
 	"SORT_RATING": "bedømmelser",
 	"SORT_WATCHED": "set",
 	"SORT_YEAR": "år",
+	
 	"LIBRARY_RESUME": "resume",
+	
 	"DISCOVER_FEATURED": "Indhold",
 	"DISCOVER_TOP": "Populære",
+	
 	"DISCOVER_OSCAR": "Oscar Vindere",
 	"DISCOVER_NOADDON_WARNING": "Advarsel: intet Streamio addon aktiveret for denne type. Viser gemte ting, intet vil blive opdateret.",
+	
 	"RELAUNCH": "Genindlæs nu!",
 	"UPGRADE": "Opdater til seneste Stremio version",
+	
 	"FB_LOGIN": "Login med Facebook",
 	"OR": "eller",
 	"I_ACCEPT": "Jeg accepterer",
@@ -92,14 +114,18 @@
 	"GUEST_LOGIN": "Gæste log ind",
 	"CLICK_HERE": "klik her",
 	"WRONG_PASSWORD": "Forkert kodeord. Har du glemt dit kodeord, ",
-	"SET_A_PASS": "vælgkodeord",
+	
+	"SET_A_PASS": "vælg kodeord",
 	"EMAIL_USED_WITH_FB": "Denne email er brugt til Facebook log ind.",
+	
 	"ADDON_DISCLAIMER": "Brug af tredje parts add-ons vil altid være dit ansvar og love og regler kan være forskellige fra land til land.",
 	"ADDON_ACTIVATE": "Aktiver dette add-on?",
+	
 	"WHATS_NEW": "Hvad er nyt",
 	"BUTTON_CONTINUE": "Fortsæt",
 	"BUTTON_ACTIVATE": "Aktiver",
 	"BUTTON_CANCEL": "Annuller",
+	
 	"LIB_EMPTY": "Dit bibliotek er tomt. Find ud af hvor brugbart det er :) ",
 	"HOW_START": "Tilføj indhold til dit bibliotek",
 	"LIB_EMPTY_CAL": "Din kalender viser serier fra dit bibliotek.",
@@ -110,7 +136,8 @@
 	"IMPORT_FB": "Importer ting du kan lide fra <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Find interessante ting fra  <span>Opdag</span>",
 	"IMPORT_DISK": "Importer film og serier fra din <span>computer</span>",
-	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
+	"PLEASE_CREATE_ACC": "Venligst <u>opret en konto</u> for at aktivere Bibliotek &amp; Væg.",
+	
 	"SETTINGS_LAUNCH_STARTUP": "Kør ved opstart",
 	"SETTINGS_IMPORT_FB": "Importer fra Facebook",
 	"SETTINGS_IMPORT_DISK": "Importer fra computer",
@@ -118,11 +145,14 @@
 	"SETTINGS_CHANGE_PASSWORD": "Ændre kodeord",
 	"SETTINGS_TOS": "Servicevilkår",
 	"SETTINGS_SUPPORT": "Kontakt support",
+	
 	"SETTING_LANGUAGE": "Sprog",
+	
 	"QUIT": "Afslut",
 	"CONNETED": "Forbundet",
 	"AUTHENTICATE": "Godkend",
 	"CACHING": "Caching",
+	
 	"SETTINGS_CACHING_DRIVE": "Vælg caching drev",
 	"January": "Januar",
 	"February": "Februar",
@@ -136,6 +166,7 @@
 	"October": "Oktober",
 	"November": "November",
 	"December": "December",
+	
 	"Monday": "Mandag",
 	"Tuesday": "Tirsdag",
 	"Wednesday": "Onsdag",
@@ -143,6 +174,7 @@
 	"Friday": "Fredag",
 	"Saturday": "Lørdag",
 	"Sunday": "Søndag",
+	
 	"Action": "Action",
 	"Comedy": "Komedie",
 	"War": "Krig",
@@ -218,35 +250,37 @@
 	"Science Radio": "Videnskabs Radio",
 	"Tech Radio": "Teknologi Radio",
 	"Science & Technology Vod": "Videnskab & Teknologi VOD",
-	"new video": "new video",
-	"new episode": "new episode",
-	"new movie": "new movie",
-	"recommended": "recommended",
-	"CTX_DISMISS_NOTIF": "Dismiss notifications",
-	"CTX_SHARE": "Share",
-	"CTX_COPY_SHARE_LINK": "Copy share link",
-	"CTX_SHOW": "Show",
-	"CTX_WATCH_ON": "Watch on",
-	"CTX_WATCH": "Watch",
-	"CTX_WATCHED": "Watched",
-	"CTX_WATCH_BEGINNING": "Watch from the beginning",
-	"CTX_WATCH_MOBILE": "Watch on a mobile device",
-	"CTX_REWIND": "Rewind to beginning",
-	"CTX_MARK_WATCHED": "Mark as watched",
-	"CTX_MARK_NON_WATCHED": "Mark as non-watched",
-	"CTX_RECEIVE_NEW_NOTIF": "Receive new notifications",
-	"CTX_REMOVE_CACHE": "Remove from cache",
-	"CTX_REMOVE_CACHE_EP": "Remove episode from cache",
-	"CTX_OPEN_CONTAINING": "Open containing folder",
-	"CTX_REMOVE": "Remove from library",
-	"CTX_AVAILABLE_OFFLINE": "Available Offline",
-	"CTX_PAUSED": "Paused",
-	"CTX_ALWAYS_ON_TOP": "Always on top",
-	"CTX_FULLSCREEN": "Fullscreen",
-	"CTX_WRONG_SUBS": "Wrong subtitles?",
-	"CTX_REPORT_ISSUES": "Report issue",
-	"CTX_COPY": "Copy",
-	"CTX_PASTE": "Paste",
-	"CTX_CLEAR": "Clear",
-	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches"
+	
+	"new video": "ny video",
+	"new episode": "ny episode",
+	"new movie": "ny film",
+	"recommended": "anbefalet",
+
+	"CTX_DISMISS_NOTIF": "Afvis notifikationer",
+	"CTX_SHARE": "Del",
+	"CTX_COPY_SHARE_LINK": "Kopier dele link",
+	"CTX_SHOW": "Vis",
+	"CTX_WATCH_ON": "Se på",
+	"CTX_WATCH": "Se",
+	"CTX_WATCHED": "Set",
+	"CTX_WATCH_BEGINNING": "Se fra begyndelsen",
+	"CTX_WATCH_MOBILE": "Se på en mobil enhed",
+	"CTX_REWIND": "Tilbage til begyndelsen",
+	"CTX_MARK_WATCHED": "Marker som set",
+	"CTX_MARK_NON_WATCHED": "Marker som ikke set",
+	"CTX_RECEIVE_NEW_NOTIF": "Modtag nye notifikationer",
+	"CTX_REMOVE_CACHE": "Fjern cache",
+	"CTX_REMOVE_CACHE_EP": "Fjern episode fra cache",
+	"CTX_OPEN_CONTAINING": "Åben mappe",
+	"CTX_REMOVE": "Fjern fra bibliotek",
+	"CTX_AVAILABLE_OFFLINE": "Tilgængelig Offline",
+	"CTX_PAUSED": "Pause",
+	"CTX_ALWAYS_ON_TOP": "Altid øverst",
+	"CTX_FULLSCREEN": "Fuldskærm",
+	"CTX_WRONG_SUBS": "Forkerte undetekster?",
+	"CTX_REPORT_ISSUES": "Rapporter problem",
+	"CTX_COPY": "Kopier",
+	"CTX_PASTE": "Indsæt",
+	"CTX_CLEAR": "Ryd",
+	"CTX_CLEAR_RECENT_SEARCHES": "Ryd seneste søgninger"
 }
