@@ -245,8 +245,8 @@
 	"CTX_FULLSCREEN": "Ecrã inteiro",
 	"CTX_WRONG_SUBS": "Legendas incorretas?",
 	"CTX_REPORT_ISSUES": "Reportar problema",
-	"CTX_COPY": "Copy",
-	"CTX_PASTE": "Paste",
-	"CTX_CLEAR": "Clear",
-	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches"
+	"CTX_COPY": "Copiar",
+	"CTX_PASTE": "Colar",
+	"CTX_CLEAR": "Limpar",
+	"CTX_CLEAR_RECENT_SEARCHES": "Limpar pesquisas recentes"
 }
