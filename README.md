@@ -35,7 +35,7 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 * nn-NO: @skanin						(Norwegian nynorsk)
 * nb-NO: @skanin						(Norwegian bokmål)
 * pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
-* pt-PT: @henriquev16 and @liqen		(Portuguese)
+* pt-PT: @henriquev16, @liqen and @iretan		(Portuguese)
 * ru-RU: @thedp							(Russian)
 * se-SE: @erikdsjostrom					(Swedish)
 
