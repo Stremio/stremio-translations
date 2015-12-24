@@ -5,6 +5,8 @@ var fs = require("fs");
 
 var en = require("../en-US");
 
+//if (p.match("en-US")) return; 
+
 var p = path.resolve(process.cwd(), process.argv[2]);
 console.log("adding missing props to "+p);
 var other = require(p);

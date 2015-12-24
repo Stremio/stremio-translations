@@ -107,6 +107,7 @@
 	"UPGRADE": "Upgrade to the latest Stremio version",
 
 	"FB_LOGIN": "Login with Facebook",
+	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
 	"OR": "or",
 	"I_ACCEPT": "I accept the",
 	"TOS": "Terms and Conditions",
