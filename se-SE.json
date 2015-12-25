@@ -45,6 +45,7 @@
 	"NO_STREAM": "Inga strömmar tillgängliga",
 	"STILL_IN_THEATER": "Filmen visas fortfarande på bio",
 	"WATCH_IN_CINEMA": "Se den på din lokala bio",
+	"IN_THEATER": "In cinema",
 	"GET_TICKETS": "Get tickets",
 	"CHANNEL_NOT_SCRAPED": "Denna kanal är inte skrapad än.<br>Kom tillbaka om några minuter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lägg till den till ditt bibliotek för att bli meddelad när den blir tillgänglig.",
