@@ -242,7 +242,7 @@
 	"CTX_REMOVE_CACHE_EP": "הסר פרק ממטמון",
 	"CTX_OPEN_CONTAINING": "פתח תיקייה מכילה",
 	"CTX_REMOVE": "הסר מהספריה",
-	"CTX_AVAILABLE_OFFLINE": "זמין ללא אינטרנט",
+	"CTX_AVAILABLE_OFFLINE": "זמין במצב לא מקוון",
 	"CTX_PAUSED": "השהה",
 	"CTX_ALWAYS_ON_TOP": "Always on top",
 	"CTX_FULLSCREEN": "מסך מלא",
