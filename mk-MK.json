@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "погрешна лозинка. Во случај дека сте ја заборавиле",
 	"SET_A_PASS": "ставете ваша лозинка",
 	"EMAIL_USED_WITH_FB": "Овој email е употребен со Фејсбук најава.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "Употребата на add-on-и од трети лица е на ваша одговорност.",
 	"ADDON_ACTIVATE": "Активирај овој add-on?",
 	"WHATS_NEW": "Што е ново?",

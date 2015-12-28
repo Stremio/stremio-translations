@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה, ",
 	"SET_A_PASS": "קבע סיסמה",
 	"EMAIL_USED_WITH_FB": "כתובת דואר אלקטרוני זה שומש בחיבור בעזרת פייסבוק.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "שימוש בתוספים צד שלישי תמיד יהיו תחת אחריותך ותחת החוק הקיים באזור מגוריך.",
 	"ADDON_ACTIVATE": "הפעלת תוסף זה?",
 	"WHATS_NEW": "מה חדש",

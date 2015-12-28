@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "Mauvais mot de passe. Si vous avez oubliez votre mot de passe, ",
 	"SET_A_PASS": "choisissez-en un",
 	"EMAIL_USED_WITH_FB": "Cet e-mail a été utilisé avec une connexion Facebook.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "Utilisez des add-ons tierce sera toujours sujet à votre responsabilité ainsi qu'aux lois et juridictions de votre lieu de résidence.",
 	"ADDON_ACTIVATE": "Activé cet add-on?",
 	"WHATS_NEW": "Nouveautés",

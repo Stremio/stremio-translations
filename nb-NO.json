@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "Feil passord. I tilfelle du har glemt passordet, ",
 	"SET_A_PASS": "lag et passord",
 	"EMAIL_USED_WITH_FB": "Denne eposten er i bruk av en Facebook innlogging.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "Bruk av tredjeparts-utvidelser vil alltid være ditt ansvar med hennsyn til den gjeldene loven der du befinner deg.",
 	"ADDON_ACTIVATE": "Aktivere denne utvidelsen?",
 	"WHATS_NEW": "Hva er nytt?",

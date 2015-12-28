@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "Contraseña errónea. En caso de que haya olvidado su contraseña, ",
 	"SET_A_PASS": "Establecer contraseña",
 	"EMAIL_USED_WITH_FB": "Este correo electrónico fue utilizado con un inicio de sesión de Facebook",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "El uso de aplicaciones de terceros siempre estará sujeto a su responsabilidad y a la jurisdicción de la ley del gobierno en el país que se encuentra",
 	"ADDON_ACTIVATE": "¿Activar este complemento?",
 	"WHATS_NEW": "Novedades",

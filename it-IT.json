@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "Password errata. Nel caso tu abbia dimenticato la password, ",
 	"SET_A_PASS": "imposta una password",
 	"EMAIL_USED_WITH_FB": "Questa email è stata utilizzata con l'accesso Facebook.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "Usare add-on di terze parti sarà sempre soggetto alla tua responsabilità e alle leggi vigenti nella giurisdizione in cui ti trovi.",
 	"ADDON_ACTIVATE": "Attivare questo add-on?",
 	"WHATS_NEW": "Cosa c'è di nuovo",

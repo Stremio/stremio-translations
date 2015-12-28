@@ -97,6 +97,7 @@
 	"WRONG_PASSWORD": "Verkeerd wachtwoord. In het geval dat u uw wachtwoord vergeten, ",
 	"SET_A_PASS": "Stel een wachtwoord in",
 	"EMAIL_USED_WITH_FB": "Deze email is gebruikt met een Facebook login.",
+	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"ADDON_DISCLAIMER": "Het gebruiken van add-ons van derden zal altijd worden onderworpen aan uw verantwoordelijkheid en het recht van het rechtsgebied waar u zich bevindt.",
 	"ADDON_ACTIVATE": "Activeer deze add-on?",
 	"WHATS_NEW": "Wat is er nieuw?",
