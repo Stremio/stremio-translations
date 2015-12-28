@@ -106,6 +106,7 @@
 	"UPGRADE": "Opdater til seneste Stremio version",
 	
 	"FB_LOGIN": "Login med Facebook",
+	"FB_NOTHINGSHARED": "Intet bliver delt uden din tilladelse",
 	"OR": "eller",
 	"I_ACCEPT": "Jeg accepterer",
 	"TOS": "Betingelser",
