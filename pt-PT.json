@@ -97,7 +97,7 @@
 	"WRONG_PASSWORD": "Password incorreta. Caso se tenha esquecido da sua password, ",
 	"SET_A_PASS": "defina uma nova password",
 	"EMAIL_USED_WITH_FB": "Este email foi utilizado com uma sessão do Facebook.",
-	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
+	"CONN_ERR": "Erro de ligação - Por favor, tente mais tarde.\n\nSe o problema persistir, desative ou configure a sua firewall e/ou o seu software anti-virus.",
 	"ADDON_DISCLAIMER": "Ao usar uma extensão de terceiros estará sujeito à sua responsabilidade e as leis do governo onde está localizado.",
 	"ADDON_ACTIVATE": "Ativar esta extensão?",
 	"WHATS_NEW": "O que há de novo",
