@@ -1,5 +1,5 @@
 {
-	"TYPE_movie": "Películas",
+	"TYPE_movie": "Película",
 	"TYPE_series": "Series",
 	"TYPE_tv": "Canales de TV",
 	"TYPE_channel": "Canales",
@@ -33,7 +33,7 @@
 	"UPCOMING": "Próximamente",
 	"ENDED": "Finalizado",
 	"DURATION": "Duración",
-	"SEARCH_VIDEOS": "search videos",
+	"SEARCH_VIDEOS": "Buscar videos",
 	"ADDON": "Complemento",
 	"ADDONS": "Complementos",
 	"OFFICIAL": "Oficial",
