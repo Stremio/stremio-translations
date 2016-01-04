@@ -100,7 +100,7 @@
 	"DISCOVER_TOP": "Populære",
 	
 	"DISCOVER_OSCAR": "Oscar Vindere",
-	"DISCOVER_NOADDON_WARNING": "Advarsel: intet Streamio addon aktiveret for denne type. Viser gemte ting, intet vil blive opdateret.",
+	"DISCOVER_NOADDON_WARNING": "Advarsel: intet Stremio addon aktiveret for denne type. Viser gemte ting, intet vil blive opdateret.",
 	
 	"RELAUNCH": "Genindlæs nu!",
 	"UPGRADE": "Opdater til seneste Stremio version",
@@ -121,7 +121,7 @@
 	"SET_A_PASS": "vælg kodeord",
 	"EMAIL_USED_WITH_FB": "Denne email er brugt til Facebook log ind.",
 
-	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
+	"CONN_ERR": "Forbindelse fejl - Prøv igen senere.\n\nHvis fejl forsætter, deaktiver firewalls/anti-virus software (specielt Bitdefender).",
 
 	"ADDON_DISCLAIMER": "Brug af tredje parts add-ons vil altid være dit ansvar og love og regler kan være forskellige fra land til land.",
 	"ADDON_ACTIVATE": "Aktiver dette add-on?",
@@ -260,7 +260,7 @@
 	"new episode": "ny episode",
 	"new movie": "ny film",
 	"recommended": "anbefalet",
-	"we recommend": "we recommend",
+	"we recommend": "vi anbefaler",
 
 	"CTX_DISMISS_NOTIF": "Afvis notifikationer",
 	"CTX_SHARE": "Del",
@@ -288,12 +288,12 @@
 	"CTX_COPY": "Kopier",
 	"CTX_PASTE": "Indsæt",
 	"CTX_CLEAR": "Ryd",
-
 	"CTX_CLEAR_RECENT_SEARCHES": "Ryd seneste søgninger",
-	"HELLO_THERE": "Hello There",
-	"HOPE_YOU_ENJOY": "We hope you enjoy Stremio and it's one of your favourite apps already!",
-	"WHO_ARE_WE": "Who are we? We are the team behind it - two guys who work hard every day for the last 3 years, with a single goal - to make this product better and better.",
-	"SUPPORT_US": "If you enjoy using Stremio, if Stremio is valuable for you - support us!",
-	"SPREAD_THE_WORD": "Share with your friends now, spread the word about Stremio",
-	"SEND_A_LINK": "Or send a link to our website"
+
+	"HELLO_THERE": "Hej",
+	"HOPE_YOU_ENJOY": "Vi håber du nyder Stremio og at det er et af dine favorit programmer allerede!",
+	"WHO_ARE_WE": "Hvem er vi? Vi er holded bag - to gutter som arbejder hårdt hver dag for de sidste 3 år, med et samlet mål - at gøre dette produkt bedre og bedre.",
+	"SUPPORT_US": "Hvis du kan lide Stremio, hvis Stremio er værdifuldt for dig - støt os!",
+	"SPREAD_THE_WORD": "Del med dine venner nu, spred ordet omkring Stremio",
+	"SEND_A_LINK": "Eller send et link til vores hjemmeside"
 }
