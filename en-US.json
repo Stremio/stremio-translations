@@ -49,7 +49,7 @@
 	"ADDONS_POPULAR": "Popular in your area",
 	"ADDON_FREE": "free",
 	"ADDON_SUBSCRIPTION": "subscription",
-
+	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Available Streams",
 
 	"NO_STREAM": "No streams available",

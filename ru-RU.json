@@ -41,6 +41,7 @@
 	"ADDONS_POPULAR": "Популярные в вашем районе",
 	"ADDON_FREE": "Бесплатно",
 	"ADDON_SUBSCRIPTION": "Подписка",
+	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Доступные Стримы",
 	"NO_STREAM": "Нету Стримов",
 	"STILL_IN_THEATER": "Блядь! Фильм до сих пор в кинотеатре",

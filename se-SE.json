@@ -41,6 +41,7 @@
 	"ADDONS_POPULAR": "Populärt i ditt område",
 	"ADDON_FREE": "gratis",
 	"ADDON_SUBSCRIPTION": "prenumeration",
+	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Tillgängliga Strömmar",
 	"NO_STREAM": "Inga strömmar tillgängliga",
 	"STILL_IN_THEATER": "Filmen visas fortfarande på bio",

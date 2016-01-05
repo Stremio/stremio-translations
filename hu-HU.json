@@ -41,6 +41,7 @@
 	"ADDONS_POPULAR": "Népszerű a környezetedben",
 	"ADDON_FREE": "ingyenes",
 	"ADDON_SUBSCRIPTION": "előfizetés",
+	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Elérhető streamek",
 	"NO_STREAM": "Nincs elérhető stream",
 	"STILL_IN_THEATER": "A filmet még moziban játsszák",

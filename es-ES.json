@@ -41,6 +41,7 @@
 	"ADDONS_POPULAR": "Popular en tu región",
 	"ADDON_FREE": "Gratis",
 	"ADDON_SUBSCRIPTION": "Suscripción",
+	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Streams disponíbles",
 	"NO_STREAM": "Stream no disponíble",
 	"STILL_IN_THEATER": "Película aún en el cine",
