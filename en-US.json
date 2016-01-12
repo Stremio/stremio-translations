@@ -131,6 +131,7 @@
 
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
+        "BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
