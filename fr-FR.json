@@ -104,7 +104,7 @@
 	"WHATS_NEW": "Nouveautés",
 	"BUTTON_CONTINUE": "Continuer",
 	"BUTTON_ACTIVATE": "Activer",
-	"BUTTON_ACTIVATED": "Activated",
+	"BUTTON_ACTIVATED": "Activé",
 	"BUTTON_CANCEL": "Annuler",
 	"LIB_EMPTY": "Votre librairie est vide. Découvrez à quel point c'est utile :) ",
 	"HOW_START": "Voilà commencer démarrer:",
@@ -261,6 +261,6 @@
 	"WHO_ARE_WE": "Qui sommes-nous ? L'équipe derrière ça, deux mecs travaillant très dur dans un seul but : rendre ce logiciel encore meilleur.",
 	"SUPPORT_US": "Si vous aimez Stremio - aidez-nous !",
 	"SPREAD_THE_WORD": "Parlez-en à vos amis, partagez l'application",
-	"MORE_PEOPLE": "The more people use Stremio, the better it will get!",
+	"MORE_PEOPLE": "Plus de personnes utiliseront Stremio, mieux l'application sera !",
 	"SEND_A_LINK": "ou envoyez un lien vers notre site !"
 }
