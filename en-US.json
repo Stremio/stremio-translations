@@ -51,8 +51,9 @@
 	"ADDON_SUBSCRIPTION": "subscription",
 	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Available Streams",
-
 	"NO_STREAM": "No streams available",
+	"ADDON_CATALOGUE": "Show all add-ons &raquo;",
+
 	"STILL_IN_THEATER": "Movie still in theater",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
         "IN_THEATER": "In cinema",

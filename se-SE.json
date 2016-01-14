@@ -44,6 +44,7 @@
 	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Tillgängliga Strömmar",
 	"NO_STREAM": "Inga strömmar tillgängliga",
+	"ADDON_CATALOGUE": "Show all add-ons &raquo;",
 	"STILL_IN_THEATER": "Filmen visas fortfarande på bio",
 	"WATCH_IN_CINEMA": "Se den på din lokala bio",
 	"IN_THEATER": "In cinema",

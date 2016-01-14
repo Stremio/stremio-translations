@@ -44,6 +44,7 @@
 	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
 	"AVAILABLE_STREAMS": "Stream Disponibili",
 	"NO_STREAM": "Nessuno stream disponibile",
+	"ADDON_CATALOGUE": "Show all add-ons &raquo;",
 	"STILL_IN_THEATER": "Film ancora al cinema",
 	"WATCH_IN_CINEMA": "Guardalo in un cinema vicino a te",
 	"IN_THEATER": "In cinema",
