@@ -29,7 +29,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - bg-BG: @Ivshti				(Bulgarian)
 - da-DK: @Holsted777				(Danish)
 - es-ES: @Decc98 and Federico Erbetta		(Spanish)
-- fr-FR: @Nath74k				(French)
+- fr-FR: @Nath74k and @greg0ire			(French)
 - he-IL: @kornbed and @yishaiguedj1		(Hebrew)
 - hu-HU: @pterdi				(Hungarian)
 - it-IT: @pippo73 and @zurdyo			(Italian)
