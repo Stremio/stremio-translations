@@ -248,7 +248,7 @@
 	"CTX_OPEN_CONTAINING": "Ouvrir le fichier cible",
 	"CTX_REMOVE": "Retirer de la bibliothèque",
 	"CTX_AVAILABLE_OFFLINE": "Disponible hors-ligne",
-	"CTX_PAUSED": "Pausé",
+	"CTX_PAUSED": "Mis en pause",
 	"CTX_ALWAYS_ON_TOP": "Toujours en haut",
 	"CTX_FULLSCREEN": "Plein écran",
 	"CTX_WRONG_SUBS": "Mauvais sous-titres ?",
