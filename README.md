@@ -23,20 +23,20 @@ Clone this repo, copy en-US.json as a starting point into your language's locale
 
 ### Translation credits
 
-- bg-BG: @Ivshti						(Bulgarian)
-- da-DK: @Holsted777					(Danish)
-- es-ES: @Decc98 and Federico Erbetta	(Spanish)
-- fr-FR: @Nath74k						(French)
+- bg-BG: @Ivshti				(Bulgarian)
+- da-DK: @Holsted777				(Danish)
+- es-ES: @Decc98 and Federico Erbetta		(Spanish)
+- fr-FR: @Nath74k				(French)
 - he-IL: @kornbed and @yishaiguedj1		(Hebrew)
-- hu-HU: @pterdi						(Hungarian)
+- hu-HU: @pterdi				(Hungarian)
 - it-IT: @pippo73 and @zurdyo			(Italian)
-- mk-MK: Ivan Fonchev					(Macedonian)
-- nl-NL: @Rubenoo, @Tbizla and @tjorim	(Dutch)
-- nn-NO: @skanin						(Norwegian nynorsk)
-- nb-NO: @skanin						(Norwegian bokmål)
+- mk-MK: Ivan Fonchev				(Macedonian)
+- nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
+- nn-NO: @skanin				(Norwegian nynorsk)
+- nb-NO: @skanin				(Norwegian bokmål)
 - pt-BR: @loopbackbr and @luanhssa		(Brazilian Portuguese)
-- pt-PT: @henriquev16, @liqen and @iretan		(Portuguese)
-- ru-RU: @thedp							(Russian)
-- se-SE: @erikdsjostrom					(Swedish)
+- pt-PT: @henriquev16, @liqen and @iretan	(Portuguese)
+- ru-RU: @thedp					(Russian)
+- se-SE: @erikdsjostrom				(Swedish)
 
 Feel free to add yourself!
