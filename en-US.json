@@ -88,6 +88,7 @@
 	"SUBTITLES_OR": "Alternatively,",
 	"SUBTITLES_ADJUST_DELAY": "Adjust subtitle delay:",
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "Or use <span>G</span> / <span>H</span> keys while playing to adjust.",
+	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: you can use <span>G</span> / <span>H</span> keys while playing to adjust.",
 
 	"SEASON": "Season",
 	"EPISODE": "Episode",
