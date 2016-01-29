@@ -1,1 +1,6 @@
 /* add styles to converting the UI to RTL here */
+body, html {
+ direction: rtl;
+}
+
+
