@@ -71,6 +71,7 @@
 	"PEERS_ACTIVE": "Active:",
 	"PEERS_CONNECTED": "Connected:",
 	"PEERS_WAITING": "Waiting:",
+	"TRANSCODING_WARNING": "Warning: transcoding video.",
 
 	"STREAM_LOADING": "loading...",
 	"PLAYING_LOCAL": "playing from local file",
