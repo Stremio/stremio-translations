@@ -275,5 +275,11 @@
 	"SUPPORT_US": "Eğer Stremio'yu beğendiyseniz ve o sizin için değerliyse - duyurun!",
 	"SPREAD_THE_WORD": "Arkadaşınızla paylaşın, Stremio'yu duyurun",
 	"MORE_PEOPLE": "Stremio'yu ne kadar çok kişi kullanırsa, o kadar iyi olacaktır!",
-	"SEND_A_LINK": "Veya bizim websitemize bir link gönderin"
+	"SEND_A_LINK": "Veya bizim websitemize bir link gönderin",
+	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
+	"ADDON_TOP_CONTENT": "Best from this Add-on",
+	"ADDON_PROVIDES": "provides",
+	"ADDON_WATCH": "Watch #{types} now!",
+	"ADDON_WATCH_FREE": "Watch #{types} for FREE now!",
+	"ADDON_ADDON": "Add-on"
 }

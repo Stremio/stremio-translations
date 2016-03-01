@@ -275,5 +275,11 @@
 	"SUPPORT_US": "Se gosta de usar Stremio, se Stremio é importante para si - divulgue!",
 	"SPREAD_THE_WORD": "Partilhe com os seus amigos, divulge Stremio",
 	"MORE_PEOPLE": "Quanto mais pessoas usarem Stremio, melhor ele se tornará!",
-	"SEND_A_LINK": "Ou envie um link para o nosso website"
+	"SEND_A_LINK": "Ou envie um link para o nosso website",
+	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
+	"ADDON_TOP_CONTENT": "Best from this Add-on",
+	"ADDON_PROVIDES": "provides",
+	"ADDON_WATCH": "Watch #{types} now!",
+	"ADDON_WATCH_FREE": "Watch #{types} for FREE now!",
+	"ADDON_ADDON": "Add-on"
 }

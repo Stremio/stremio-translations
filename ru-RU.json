@@ -275,5 +275,11 @@
 	"SUPPORT_US": "Если вам нравится Streamio, он ценен для вас - поддержите нас!",
 	"SPREAD_THE_WORD": "Поделитесь с друзьями прямо сейчас, расскажите им пару слов о Streamio",
 	"MORE_PEOPLE": "Чем больше людей пользуются Streamio, тем лучше он становится",
-	"SEND_A_LINK": "Или отправьте ссылку на наш сайт"
+	"SEND_A_LINK": "Или отправьте ссылку на наш сайт",
+	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
+	"ADDON_TOP_CONTENT": "Best from this Add-on",
+	"ADDON_PROVIDES": "provides",
+	"ADDON_WATCH": "Watch #{types} now!",
+	"ADDON_WATCH_FREE": "Watch #{types} for FREE now!",
+	"ADDON_ADDON": "Add-on"
 }
