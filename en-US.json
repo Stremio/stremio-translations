@@ -311,5 +311,7 @@
 	"SUPPORT_US": "If you enjoy using Stremio, if Stremio is valuable for you - spread the word!",
 	"SPREAD_THE_WORD": "Share with your friends now, spread the word about Stremio",
 	"MORE_PEOPLE": "The more people use Stremio, the better it will get!",
-	"SEND_A_LINK": "Or send a link to our website"
+	"SEND_A_LINK": "Or send a link to our website",
+	
+	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio"
 }
