@@ -285,5 +285,7 @@
 	"ADDON_PROVIDES_DISCOVER": "Mais #{types} em Explorar",
 	"ADDON_PROVIDES_STREAMS": "Ver #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Ver #{types} GRATUITAMENTE",
-	"ADDON_PROVIDES_SUBTITLES": "Legendas para #{types}"
+	"ADDON_PROVIDES_SUBTITLES": "Legendas para #{types}",
+	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
+	"BOARD_CONTINUE_WATCHING": "Continue watching"
 }

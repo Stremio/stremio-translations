@@ -285,5 +285,7 @@
 	"ADDON_PROVIDES_DISCOVER": "More #{types} in Discover",
 	"ADDON_PROVIDES_STREAMS": "Watch #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
-	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}"
+	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
+	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
+	"BOARD_CONTINUE_WATCHING": "Continue watching"
 }
