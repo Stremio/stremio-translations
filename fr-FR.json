@@ -128,6 +128,7 @@
 	"PLEASE_CREATE_ACC": "S'il vous plait <u>créez un compte</u> pour activer la Bibliothèque sync &amp; et le Tableau.",
 	"SETTINGS_LAUNCH_STARTUP": "Lancer au démarrage",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
+	"SETTINGS_BINGE": "Auto-play next episode",
 	"SETTINGS_IMPORT_FB": "Importer depuis Facebook",
 	"SETTINGS_IMPORT_DISK": "Importer depuis le disque dur",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Inscrire au calendrier",

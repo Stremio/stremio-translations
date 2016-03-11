@@ -128,6 +128,7 @@
 	"PLEASE_CREATE_ACC": "Vänligen <u> skapa ett konto </u> för att aktivera synkronisering av Biblioteket &amp; Vägg.",
 	"SETTINGS_LAUNCH_STARTUP": "Starta vid uppstart",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
+	"SETTINGS_BINGE": "Auto-play next episode",
 	"SETTINGS_IMPORT_FB": "Importera från Facebook",
 	"SETTINGS_IMPORT_DISK": "Importera från lokal hårddisk",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Prenumerera på kalender",

@@ -128,6 +128,7 @@
 	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
 	"SETTINGS_LAUNCH_STARTUP": "Запуск при старте",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
+	"SETTINGS_BINGE": "Auto-play next episode",
 	"SETTINGS_IMPORT_FB": "Импорт из Facebook",
 	"SETTINGS_IMPORT_DISK": "Импорт из локального диска",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Подписаться на календарь",
