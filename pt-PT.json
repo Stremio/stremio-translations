@@ -40,7 +40,7 @@
 	"ADDONS_OFFICIAL": "Extensões Oficiais do Stremio",
 	"ADDONS_POPULAR": "Popular na sua área",
 	"ADDON_FREE": "Gratuito",
-	"ADDON_PEERED": "peered",
+	"ADDON_PEERED": "partilhado",
 	"ADDON_SUBSCRIPTION": "assinatura",
 	"ADDON_STREAM_GEORESTRICTED": "não disponível na sua área",
 	"AVAILABLE_STREAMS": "Fontes Disponíveis",
@@ -128,7 +128,7 @@
 	"PLEASE_CREATE_ACC": "Por favor, <u>crie uma conta</u> para ativar a sincronização da Biblioteca &amp; do Painel.",
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
 	"SETTINGS_VLC_DEFAULT": "Reproduzir com o VLC",
-	"SETTINGS_BINGE": "Auto-play next episode",
+	"SETTINGS_BINGE": "Reproduzir automaticamente o próximo episodio",
 	"SETTINGS_IMPORT_FB": "Importar do Facebook",
 	"SETTINGS_IMPORT_DISK": "Importar do disco local",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscrever calendário",
@@ -242,7 +242,7 @@
 	"we recommend": "nós recomendamos",
 	"offer of the day": "oferta do dia",
 	"news": "notícias",
-	"music video": "music video",
+	"music video": "vídeo musical",
 	"CTX_DISMISS_NOTIF": "Descartar notificações",
 	"CTX_SHARE": "Partilhar",
 	"CTX_COPY_SHARE_LINK": "Copiar link de partilha",
@@ -287,6 +287,6 @@
 	"ADDON_PROVIDES_STREAMS": "Ver #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Ver #{types} GRATUITAMENTE",
 	"ADDON_PROVIDES_SUBTITLES": "Legendas para #{types}",
-	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
-	"BOARD_CONTINUE_WATCHING": "Continue watching"
+	"ADDON_CANTDETECT": "Não foi possível encontrar o Stremio em execução, por isso não é possível determinar os add-ons que tem instalados.",
+	"BOARD_CONTINUE_WATCHING": "Continuar a ver"
 }
