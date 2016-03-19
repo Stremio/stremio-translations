@@ -338,5 +338,17 @@
 	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
 	
-	"BOARD_CONTINUE_WATCHING": "Continue watching"
+	"BOARD_CONTINUE_WATCHING": "Continue watching",
+
+	"WEBSITE_SLOGAN_WATCH": "Watch Instantly",
+	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
+	"WEBSITE_DOWNLOAD": "Download Now",
+	"WEBSITE_PAGE_HOME": "Home",
+	"WEBSITE_PAGE_FEATURES": "Features",
+	"WEBSITE_PAGE_ADDONS": "Addons",
+	"WEBSITE_PAGE_TECH": "Technology",
+	"WEBSITE_PAGE_CREATE_ADDON": "Create Addon",
+	"WEBSITE_PAGE_CONTACTS": "Contacts",
+	"WEBSITE_PAGE_BLOG": "Blog"
+
 }
