@@ -370,7 +370,39 @@
 	"WEBSITE_LIB": "Enjoy Your Personal Library Synced on All Your Devices",
 	"WEBSITE_LIB_COLLECT": "Collect from Stremio",
 	"WEBSITE_LIB_IMPORT": "Import from Facebook",
-	"WEBSITE_LIB_LOCAL": "Add from your local drive"
+	"WEBSITE_LIB_LOCAL": "Add from your local drive",
+
+	"WEBSITE_BOARD": "The Board - Your one-stop place for Notifications and Recommendations",
+	"WEBSITE_BOARD_RECOMMEND": "Recommended TV Show",
+	"WEBSITE_BOARD_TRENDING": "Trending Movie",
+	"WEBSITE_BOARD_NEW": "New Video",
+	"WEBSITE_BOARD_EPISODE": "New Episode",
+
+	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
+	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
+
+	"WEBSITE_ADDONS": "Content Add-ons",
+
+	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
+
+	"WEBSITE_CREATE_ADDON_DETAIL": "Do you have a service providing video content? We'll help you benefit from Stremio's features by creating your Add-on.",
+	"WEBSITE_CREATE_ADDON_BENEFITS": "Benefits of Creating an Add-on for Stremio",
+	"WEBSITE_P2P_BEAUTY": "The Beauty of Peer-to-Peer Streaming",
+	"WEBSITE_P2P_1": "Reliable and affordable full HD / 4K video on demand or live streaming",
+	"WEBSITE_P2P_2": "Distribution platform providing great user experience",
+	"WEBSITE_P2P_3": "We will create an add-on meeting your exact needs",
+	"WEBSITE_P2P_CONTACT": "Interested? You are welcome to <a href='mailto:office@strem.io'>contact us</a>.",
+	"WEBSITE_P2P_CONTACT_EXTRA": "We will be happy to help you integrate your content with Stremio!",
+	"WEBSITE_P2P": "Once in a while, there comes a technology that changes the name of the game. We invested tons of time and effort in building our Peer-to-Peer (P2P) video streaming engine that provides great performance and versatility to adapt with any use case.\nContact us for DRM-enabled P2P video on demand or live streaming.",
 
 
+	"WEBSITE_THOUGHTS": "Thoughts we share:",
+	"WEBSITE_SPREAD": "Spread the word about Stremio:",
+	"WEBSITE_CONTACT": "If you are looking to contact us, go ahead at",
+	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
+
+	"WEBSITE_BITCOIN": "Donate bitcoin:",
+	"WEBSITE_FAQ": "Frequently asked questions",
+	"WEBSITE_TOS": "Terms of use",
+	"WEBSITE_LEGAL": "Legal"
 }
