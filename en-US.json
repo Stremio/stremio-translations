@@ -384,7 +384,15 @@
 	"WEBSITE_ADDONS": "Content Add-ons",
 
 	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
+	"WEBSITE_TECH_WCJS": "WebChimera.js allows Stremio to play any video format with good performance.",
+	"WEBSITE_TECH_WCJS_EXTRA": "We are core project contributors",
+	"WEBSITE_TECH_ELECTRON": "Electron provides an innovative platform to build Stremio with.",
+	"WEBSITE_TECH_ELECTRON_EXTRA": "We are project contributors",
+	"WEBSITE_TECH_LINVODB": "A database technology that ensures your data is organized and available anywhere you login.",
+	"WEBSITE_TECH_LINVODB_EXTRA": "In-house technology",
 
+
+	"WEBSITE_CREATE_ADDON": "Create your addon",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Do you have a service providing video content? We'll help you benefit from Stremio's features by creating your Add-on.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Benefits of Creating an Add-on for Stremio",
 	"WEBSITE_P2P_BEAUTY": "The Beauty of Peer-to-Peer Streaming",
