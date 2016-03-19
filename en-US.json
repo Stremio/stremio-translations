@@ -349,6 +349,28 @@
 	"WEBSITE_PAGE_TECH": "Technology",
 	"WEBSITE_PAGE_CREATE_ADDON": "Create Addon",
 	"WEBSITE_PAGE_CONTACTS": "Contacts",
-	"WEBSITE_PAGE_BLOG": "Blog"
+	"WEBSITE_PAGE_BLOG": "Blog",
+
+	"WEBSITE_TYPE_movie": "Movies",
+	"WEBSITE_TYPE_series_PL": "Series",
+	"WEBSITE_TYPE_tv": "Live TV",
+	"WEBSITE_TYPE_channel": "Channels",
+
+	"WEBSITE_STREMIO_WHAT_IS": "Stremio is an app that helps you organize and instantly watch your favorite videos, movies, TV series and TV channels.",
+
+	"WEBSITE_FEATURES_WATCH": "Watch Instantly in HD",
+	"WEBSITE_FEATURES_WATCH_DETAIL": "Click and play your favourite movies, TV Shows, videos and TV channels.",
+
+	"WEBSITE_FEATURES_SUBS": "Automatic Subtitles",
+	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatically picks synced subtitles for your language.",
+
+	"WEBSITE_FEATURES_CAST": "Play on TV & mobile devices",
+	"WEBSITE_FEATURES_CAST_DETAIL": "Cast to AppleTV, Chromecast, Smart TV (DLNA/UPnP) and mobile devices.",
+
+	"WEBSITE_LIB": "Enjoy Your Personal Library Synced on All Your Devices",
+	"WEBSITE_LIB_COLLECT": "Collect from Stremio",
+	"WEBSITE_LIB_IMPORT": "Import from Facebook",
+	"WEBSITE_LIB_LOCAL": "Add from your local drive"
+
 
 }
