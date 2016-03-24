@@ -321,6 +321,7 @@
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Click and play your favourite movies, TV Shows, videos and TV channels.",
 	"WEBSITE_FEATURES_SUBS": "Automatic Subtitles",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatically picks synced subtitles for your language.",
+	"WEBSITE_FEATURES_SUBS_LABEL": "Your move, chief.",
 	"WEBSITE_FEATURES_CAST": "Play on TV & mobile devices",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Cast to AppleTV, Chromecast, Smart TV (DLNA/UPnP) and mobile devices.",
 	"WEBSITE_LIB": "Enjoy Your Personal Library Synced on All Your Devices",
