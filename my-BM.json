@@ -44,7 +44,7 @@
 
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
-	"OFFICIAL": "official",
+	"OFFICIAL": "rasmi",
 	"ADDONS_OFFICIAL": "Addons Stremio Rasmi",
 	"ADDONS_POPULAR": "Mahsyur di kawasan anda",
 	"ADDON_FREE": "Percuma",
@@ -66,9 +66,9 @@
 	"PLAYER_ERROR": "Alamak, ralat pemain",
 	"PLAYER_ERROR_LOOKSLIKE": "Nampaknya seperti",
 	
-	"STREAMING_FROM": "streaming from",
-	"CASTING_TO": "Casting to",
-	"NETWORK_STATUS": "Network status",
+	"STREAMING_FROM": "streaming dari",
+	"CASTING_TO": "Tayangkan ke",
+	"NETWORK_STATUS": "Status capaian",
 	"STREAM_SPEED": "Kelajuan stream:",
 	"STREAM_BUFFERED": "Buffered:",
 	"PEERS_INFO": "Maklumat peers",
@@ -106,7 +106,7 @@
 	"SORT_WATCHED": "ditonton",
 	"SORT_YEAR": "year",
 
-	"LIBRARY_RESUME": "resume",
+	"LIBRARY_RESUME": "sambung",
 
 	"DISCOVER_FEATURED": "Featured",
 
@@ -123,15 +123,15 @@
 	"OR": "atau",
 	"I_ACCEPT": "Saya akur",
 	"TOS": "Terma dan Syarat",
-	"PASSWORDS_NOMATCH": "Passwords don't match",
+	"PASSWORDS_NOMATCH": "Kata laluan tak sama",
 	"SIGN_UP": "Daftar",
 	"LOG_IN": "Masuk",
 	"LOG_OUT": "Keluar",
 	"GUEST_LOGIN": "Guest login",
 	"CLICK_HERE": "click here",
-	"WRONG_PASSWORD": "Wrong password. In case you have forgotten your password, ",
-	"SET_A_PASS": "set a password",
-	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
+	"WRONG_PASSWORD": "Katalaluan salah. Sekiranya terlupa, ",
+	"SET_A_PASS": "tetapkan satu kata laluan",
+	"EMAIL_USED_WITH_FB": "Emel ini telah diguna This email was used with a Facebook login.",
 	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"IMPORT_FROM_GUEST": "Import Library from your guest account",
 	
