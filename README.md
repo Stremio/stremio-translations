@@ -34,6 +34,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - hu-HU: @pterdi				(Hungarian)
 - it-IT: @pippo73 and @zurdyo			(Italian)
 - mk-MK: Ivan Fonchev				(Macedonian)
+- my-BM: Abdul Muhaimin Che Sohor (Melayu)
 - nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
 - nn-NO: @skanin				(Norwegian nynorsk)
 - nb-NO: @skanin				(Norwegian bokmål)
