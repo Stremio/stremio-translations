@@ -131,6 +131,8 @@
 	"SETTINGS_LAUNCH_STARTUP": "Køyr ved oppstart",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
+	"SETTINGS_RESIZE": "Auto-resize window before playing",
+	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "Importer frå Facebook",
 	"SETTINGS_IMPORT_DISK": "Importer frå lokal disk",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på ein kalender",

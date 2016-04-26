@@ -3,28 +3,22 @@
 	"TYPE_series": "Siri",
 	"TYPE_tv": "Saluran TV",
 	"TYPE_channel": "Saluran",
-
 	"TYPE_movie_PL": "Wayang",
 	"TYPE_series_PL": "Siri",
 	"TYPE_tv_PL": "Saluran TV",
 	"TYPE_channel_PL": "Saluran",
-
 	"BACK": "Kembali",
-
 	"Discover": "Teroka",
 	"Board": "Papan",
 	"Library": "Pustaka",
 	"Calendar": "Takwim",
-	
 	"SEARCH": "cari",
-
 	"ADD_TO_LIB": "Tambah dalam Pustaka",
 	"REMOVE_FROM_LIB": "Keluarkan dari Pustaka",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Watch Trailer",
 	"WATCH_NOW": "Tonton Sekarang",
 	"SHOW": "Tayang",
-
 	"IMDB_RATING": "IMDb",
 	"YEAR": "Tahun",
 	"DIRECTOR": "Pengarah",
@@ -33,15 +27,13 @@
 	"CAST": "Pelakon",
 	"AIRED": "Ke Udara",
 	"SEASONS": "Musim",
-	"GENRE": "Genre", 
+	"GENRE": "Genre",
 	"SUMMARY": "Ringkasan",
 	"SIMILAR": "Yang Serupa",
 	"UPCOMING": "Akan Datang",
 	"ENDED": "Tamat",
 	"DURATION": "Tempoh",
-
 	"SEARCH_VIDEOS": "cari video",
-
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "rasmi",
@@ -54,18 +46,15 @@
 	"AVAILABLE_STREAMS": "Streams yang sedia ada",
 	"NO_STREAM": "Tiada streams buat masa ini",
 	"ADDON_CATALOGUE": "Tunjukkan semua add-ons &raquo;",
-
 	"STILL_IN_THEATER": "Tayangan masih dalam teater",
 	"WATCH_IN_CINEMA": "Tonton di wayang berdekatan anda",
-        "IN_THEATER": "Dalam tayangan",
+	"IN_THEATER": "Dalam tayangan",
 	"GET_TICKETS": "Dapatkan Tiket",
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
-
 	"PLAYER_ERROR": "Alamak, ralat pemain",
 	"PLAYER_ERROR_LOOKSLIKE": "Nampaknya seperti",
-	
 	"STREAMING_FROM": "streaming dari",
 	"CASTING_TO": "Tayangkan ke",
 	"NETWORK_STATUS": "Status capaian",
@@ -76,17 +65,12 @@
 	"PEERS_CONNECTED": "Sambungan:",
 	"PEERS_WAITING": "Menunggu:",
 	"TRANSCODING_WARNING": "Amaran: video transkoding.",
-
 	"STREAM_LOADING": "Memuatkan...",
 	"PLAYING_LOCAL": "main dari fail tempatan",
 	"PLAYING_CACHE": "playing from cache",
-
 	"WRONG_SUBS": "Wrong subtitles?",
-
 	"CHOOSE_DEVICE": "Pilih peranti untuk tayang",
-	
 	"PHONE_TABLET": "Bimbit / Tablet",
-
 	"SUBTITLES_CHANGE": "Tukar sari kata untuk ",
 	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
 	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
@@ -95,29 +79,21 @@
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "Or use <span>G</span> / <span>H</span> keys while playing to adjust.",
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: you can use <span>G</span> / <span>H</span> keys while playing to adjust.",
 	"SUBTITLES_DELAY": "Sari kata lewat:",
-
 	"SEASON": "Musim",
 	"EPISODE": "Episod",
-
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "baru",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "ditonton",
 	"SORT_YEAR": "year",
-
 	"LIBRARY_RESUME": "sambung",
-
 	"DISCOVER_FEATURED": "Featured",
-
 	"DISCOVER_TOP": "Mahsyur",
 	"DISCOVER_OSCAR": "Pemenang Oscar",
-
 	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio add-on active for this type. Showing saved items, nothing here will update.",
-
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "New version is available! Upgrade to the latest Stremio version",
-
 	"FB_LOGIN": "Masuk guna Facebook",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
 	"OR": "atau",
@@ -134,17 +110,13 @@
 	"EMAIL_USED_WITH_FB": "Emel ini telah diguna This email was used with a Facebook login.",
 	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"IMPORT_FROM_GUEST": "Import Library from your guest account",
-	
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Aktifkan tambahan ini?",
-
 	"WHATS_NEW": "Apa yang terbaru",
-
 	"BUTTON_CONTINUE": "Teruskan",
 	"BUTTON_ACTIVATE": "Aktifkan",
-        "BUTTON_ACTIVATED": "Aktif",
+	"BUTTON_ACTIVATED": "Aktif",
 	"BUTTON_CANCEL": "Batal",
-
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Cara bagaimana untuk mula:",
 	"LIB_EMPTY_CAL": "Your Calendar shows series in your Library.",
@@ -156,10 +128,11 @@
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
 	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
 	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
-
 	"SETTINGS_LAUNCH_STARTUP": "Lancarkan bila mula",
 	"SETTINGS_VLC_DEFAULT": "Main guna VLC",
 	"SETTINGS_BINGE": "Terus main episod seterusnya",
+	"SETTINGS_RESIZE": "Auto-resize window before playing",
+	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "Import dari Facebook",
 	"SETTINGS_IMPORT_DISK": "Import dari local disk",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Masukkan ke kalendar",
@@ -168,14 +141,11 @@
 	"SETTINGS_SUPPORT": "Contact support",
 	"SETTING_LANGUAGE": "Bahasa",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",
-
 	"QUIT": "Keluar",
-
 	"CONNETED": "Connected",
 	"AUTHENTICATE": "Pengesahan",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Select caching drive",
-
 	"January": "Januari",
 	"February": "Februari",
 	"March": "Mac",
@@ -188,7 +158,6 @@
 	"October": "Oktober",
 	"November": "November",
 	"December": "Disember",
-
 	"Monday": "Isnin",
 	"Tuesday": "Selasa",
 	"Wednesday": "Rabu",
@@ -196,7 +165,6 @@
 	"Friday": "Jumaat",
 	"Saturday": "Sabtu",
 	"Sunday": "Ahad",
-
 	"Action": "Aksi",
 	"Comedy": "Komedi",
 	"War": "Perang",
@@ -217,9 +185,9 @@
 	"Sport": "Sukan",
 	"Musical": "Muzikal",
 	"Western": "Barat",
-    "Film-Noir": "Film-Noir",
-    "News": "Berita",
-    "History": "Sejarah",
+	"Film-Noir": "Film-Noir",
+	"News": "Berita",
+	"History": "Sejarah",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -264,7 +232,7 @@
 	"Italian Tv": "Tv Itali",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Travel",
-	"Asian Tv": "Asian Tv", 
+	"Asian Tv": "Asian Tv",
 	"Entertainment": "Entertainment",
 	"News Radio": "Radio Akhbar",
 	"Music Radio": "Radio Muzik",
@@ -272,7 +240,6 @@
 	"Science Radio": "Radio Sains",
 	"Tech Radio": "Radio Tek",
 	"Science & Technology Vod": "Vod Sains & Teknologi",
-
 	"new video": "new video",
 	"new episode": "new episode",
 	"new movie": "new movie",
@@ -281,7 +248,6 @@
 	"offer of the day": "offer of the day",
 	"news": "berita",
 	"music video": "video muzik",
-	
 	"CTX_DISMISS_NOTIF": "Dismiss notifications",
 	"CTX_SHARE": "Share",
 	"CTX_COPY_SHARE_LINK": "Copy share link",
@@ -309,7 +275,6 @@
 	"CTX_PASTE": "Paste",
 	"CTX_CLEAR": "Padam",
 	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches",
-
 	"HELLO_THERE": "Damai Sana",
 	"HOPE_YOU_ENJOY": "Kami harap anda terhibur dengan Stremio dan menjadi salah satu apps kegemaran anda",
 	"WHO_ARE_WE": "Who are we? We are the team behind it - two guys who work hard every day for the last 3 years to make this product better and better.",
@@ -317,9 +282,7 @@
 	"SPREAD_THE_WORD": "Share with your friends now, spread the word about Stremio",
 	"MORE_PEOPLE": "The more people use Stremio, the better it will get!",
 	"SEND_A_LINK": "Or send a link to our website",
-	
 	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
-	
 	"ADDON_MY": "My Add-ons",
 	"ADDON_COMMUNITY": "Community Add-ons",
 	"ADDON_OFFICIAL": "Official Add-ons",
@@ -338,9 +301,7 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
 	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
-	
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
-
 	"WEBSITE_SLOGAN_WATCH": "Watch Instantly",
 	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
 	"WEBSITE_DOWNLOAD": "Muat Turun Sekarang",
@@ -354,40 +315,30 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Create Addon",
 	"WEBSITE_PAGE_CONTACTS": "Contacts",
 	"WEBSITE_PAGE_BLOG": "Blog",
-
 	"WEBSITE_TYPE_movie": "Movies",
 	"WEBSITE_TYPE_series_PL": "Series",
 	"WEBSITE_TYPE_tv": "Live TV",
 	"WEBSITE_TYPE_channel": "Saluran",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio is an app that helps you organize and instantly watch your favorite videos, movies, TV series and TV channels.",
-
 	"WEBSITE_FEATURES_WATCH": "Watch Instantly in HD",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Click and play your favourite movies, TV Shows, videos and TV channels.",
-
 	"WEBSITE_FEATURES_SUBS": "Automatic Subtitles",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatically picks synced subtitles for your language.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Your move, chief.",
-
 	"WEBSITE_FEATURES_CAST": "Play on TV & mobile devices",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Cast to AppleTV, Chromecast, Smart TV (DLNA/UPnP) and mobile devices.",
-
 	"WEBSITE_LIB": "Enjoy Your Personal Library Synced on All Your Devices",
 	"WEBSITE_LIB_COLLECT": "Collect from Stremio",
 	"WEBSITE_LIB_IMPORT": "Import from Facebook",
 	"WEBSITE_LIB_LOCAL": "Add from your local drive",
-
 	"WEBSITE_BOARD": "The Board - Your one-stop place for Notifications and Recommendations",
 	"WEBSITE_BOARD_RECOMMEND": "Rancangan TV yang disarankan",
 	"WEBSITE_BOARD_TRENDING": "Trending Movie",
 	"WEBSITE_BOARD_NEW": "Video Baharu",
 	"WEBSITE_BOARD_EPISODE": "Episod Baharu",
-
 	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
 	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
-
 	"WEBSITE_ADDONS": "Content Add-ons",
-
 	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js allows Stremio to play any video format with good performance.",
 	"WEBSITE_TECH_WCJS_EXTRA": "We are core project contributors",
@@ -395,8 +346,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "We are project contributors",
 	"WEBSITE_TECH_LINVODB": "A database technology that ensures your data is organized and available anywhere you login.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "In-house technology",
-
-
 	"WEBSITE_CREATE_ADDON": "Create your addon",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Do you have a service providing video content? We'll help you benefit from Stremio's features by creating your Add-on.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Benefits of Creating an Add-on for Stremio",
@@ -407,13 +356,10 @@
 	"WEBSITE_P2P_CONTACT": "Interested? You are welcome to <a href='mailto:office@strem.io'>contact us</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "We will be happy to help you integrate your content with Stremio!",
 	"WEBSITE_P2P": "Once in a while, there comes a technology that changes the name of the game. We invested tons of time and effort in building our Peer-to-Peer (P2P) video streaming engine that provides great performance and versatility to adapt with any use case.\nContact us for DRM-enabled P2P video on demand or live streaming.",
-
-
 	"WEBSITE_THOUGHTS": "Thoughts we share:",
 	"WEBSITE_SPREAD": "Spread the word about Stremio:",
 	"WEBSITE_CONTACT": "If you are looking to contact us, go ahead at",
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
-
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_TOS": "Terms of use",

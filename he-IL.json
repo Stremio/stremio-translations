@@ -131,6 +131,8 @@
 	"SETTINGS_LAUNCH_STARTUP": "הפעל בעת הפעלת המחשב",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
+	"SETTINGS_RESIZE": "Auto-resize window before playing",
+	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "יבא מפייסבוק",
 	"SETTINGS_IMPORT_DISK": "יבא מדיסק מקומי",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "הרשמה ללוח שנה",

@@ -131,6 +131,8 @@
 	"SETTINGS_LAUNCH_STARTUP": "Starta vid uppstart",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
+	"SETTINGS_RESIZE": "Auto-resize window before playing",
+	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "Importera från Facebook",
 	"SETTINGS_IMPORT_DISK": "Importera från lokal hårddisk",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Prenumerera på kalender",

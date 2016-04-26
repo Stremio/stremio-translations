@@ -131,6 +131,8 @@
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
+	"SETTINGS_RESIZE": "Auto-resize window before playing",
+	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "Importar do Facebook",
 	"SETTINGS_IMPORT_DISK": "Importar do disco local",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Inscrever-se para calendário",
