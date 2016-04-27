@@ -18,6 +18,7 @@ module.exports = function() {
 		"pt-PT": require("./pt-PT.json"),
 		"ru-RU": require("./ru-RU.json"),
 		"se-SE": require("./se-SE.json"),
+		"sr-RS": require("./sr-RS.json"),
 		"tr-TR": require("./tr-TR.json"),
 	}
 };
@@ -40,5 +41,6 @@ module.exports.all = [
 	"pt-PT",
 	"ru-RU",
 	"se-SE",
+	"sr-RS",
 	"tr-TR",
 ];
