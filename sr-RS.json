@@ -4,10 +4,10 @@
 	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
 
-	"TYPE_movie_PL": "Filmovi",
+	"TYPE_movie_PL": "Filmove",
 	"TYPE_series_PL": "Serije",
 	"TYPE_tv_PL": "TV kanali",
-	"TYPE_channel_PL": "Kanali",
+	"TYPE_channel_PL": "Kalnali",
 
 	"BACK": "Nazad",
 
@@ -16,7 +16,7 @@
 	"Library": "Biblioteka",
 	"Calendar": "Kalendar",
 
-	"SEARCH": "pretraživanje",
+	"SEARCH": "pretraži",
 
 	"ADD_TO_LIB": "Dodaj u Biblioteku",
 	"REMOVE_FROM_LIB": "Ukloni iz Biblioteke",
@@ -46,11 +46,11 @@
 	"ADDONS": "Dodaci",
 	"OFFICIAL": "službeni",
 	"ADDONS_OFFICIAL": "Službeni Stremio Dodaci",
-	"ADDONS_POPULAR": "Popularno u tvom području",
+	"ADDONS_POPULAR": "Popularno u vašem području",
 	"ADDON_FREE": "besplatno",
 	"ADDON_PEERED": "peered",
 	"ADDON_SUBSCRIPTION": "pretplata",
-	"ADDON_STREAM_GEORESTRICTED": "nije dostupno u tvom području",
+	"ADDON_STREAM_GEORESTRICTED": "nije dostupno u vašem području",
 	"AVAILABLE_STREAMS": "Dostpuni strimovi",
 	"NO_STREAM": "Nema dostupnih strimova",
 	"ADDON_CATALOGUE": "Prikaži sve dodatke &raquo;",
@@ -145,14 +145,14 @@
         "BUTTON_ACTIVATED": "Aktivirano",
 	"BUTTON_CANCEL": "Prekini",
 
-	"LIB_EMPTY": "Tvoja biblioteka izlgeda prazno. Saznaj koliko je zapravo korisna :) ",
-	"HOW_START": "Ovo je kako možeš početi:",
+	"LIB_EMPTY": "Vaša biblioteka izlgeda prazno. Saznajte koliko je zapravo korisna :) ",
+	"HOW_START": "Ovo je kako možete početi:",
 	"LIB_EMPTY_CAL": "Tvoj Kalendar prikazuje serije iz tvoje Biblioteke.",
 	"HOW_START_CAL": "Ovako možeš dodati serije:",
 	"LIB_EMPTY_BOARD": "Tabla prikayuje notifikacije &amp; preporuke slične tvojoj biblioteci.",
 	"HOW_START_BOARD_WAIT": "Molimo, dodajte par serija ili kanala u vašu Biblioteku i dozvolite nam par minuta da procesuiramo :)",
 	"HOW_START_BOARD": "Evo kako možete da dodate serije &amp; flmove na nju:",
-	"IMPORT_FB": "Uvoz stvari koje vam se sviđaju sa <span>Facebooka</span>",
+	"IMPORT_FB": "Uvoz stvari koje vam se sviđaju na <span>Facebook</span>",
 	"IMPORT_DISCOVER": "Nađi zanimljive stvari u <span>Otkrij</span>",
 	"IMPORT_DISK": "Uvoz filmova ili serija koje imate na vašem <span>lokalnom disku</span>",
 	"PLEASE_CREATE_ACC": "Molimo vas <u>kreirajte račun</u> da omogućite sinhronizaciju Biblioteke &amp; Table.",
@@ -174,7 +174,7 @@
 	"QUIT": "Izađi",
 
 	"CONNETED": "Konektovano",
-	"AUTHENTICATE": "Potvrđivanje",
+	"AUTHENTICATE": "Prijavi se",
 	"CACHING": "Keširanje",
 	"SETTINGS_CACHING_DRIVE": "Izaberi disk za keširanje",
 
@@ -375,20 +375,20 @@
 	"WEBSITE_FEATURES_CAST_DETAIL": "Emitovanje na AppleTV, Chromecast, Smart TV (DLNA/UPnP) i mobilne uređaje.",
 
 	"WEBSITE_LIB": "Uživajte u Svojoj Ličnoj Biblioteci Sinhronizovanoj na Sve Vaše Uređaje",
-	"WEBSITE_LIB_COLLECT": "Prikupi sa Stremio",
-	"WEBSITE_LIB_IMPORT": "Uvezi sa Facebook",
+	"WEBSITE_LIB_COLLECT": "Prikupite sa Stremio",
+	"WEBSITE_LIB_IMPORT": "Uvezite sa Facebook-a",
 	"WEBSITE_LIB_LOCAL": "Dodajte sa vašeg lokalnog diska",
 
-	"WEBSITE_BOARD": "The Board - Your one-stop place for Notifications and Recommendations",
-	"WEBSITE_BOARD_RECOMMEND": "Recommended TV Show",
-	"WEBSITE_BOARD_TRENDING": "Trending Movie",
+	"WEBSITE_BOARD": "Tabla - Vaše one-stop mesto za obaveštenja i preporuke",
+	"WEBSITE_BOARD_RECOMMEND": "Preporučena TV Emisija",
+	"WEBSITE_BOARD_TRENDING": "Traženi Film",
 	"WEBSITE_BOARD_NEW": "Novi Video",
 	"WEBSITE_BOARD_EPISODE": "Nova Epizoda",
 
-	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
-	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
+	"WEBSITE_BOARD_1": "Tražite nešto interesantno da gledate? Dobijajte preporuke na osnovu vašeg ukusa!",
+	"WEBSITE_BOARD_2": "Primite obaveštenja kada nova epizoda vaš omiljene TV emisije ili YouTube kanala izadje!",
 
-	"WEBSITE_ADDONS": "Content Add-ons",
+	"WEBSITE_ADDONS": "Dodaci za sadržaj",
 
 	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js allows Stremio to play any video format with good performance.",
@@ -411,7 +411,7 @@
 	"WEBSITE_P2P": "Once in a while, there comes a technology that changes the name of the game. We invested tons of time and effort in building our Peer-to-Peer (P2P) video streaming engine that provides great performance and versatility to adapt with any use case.\nContact us for DRM-enabled P2P video on demand or live streaming.",
 
 
-	"WEBSITE_THOUGHTS": "Thoughts we share:",
+	"WEBSITE_THOUGHTS": "Misljenja koja delimo:",
 	"WEBSITE_SPREAD": "Spread the word about Stremio:",
 	"WEBSITE_CONTACT": "If you are looking to contact us, go ahead at",
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
