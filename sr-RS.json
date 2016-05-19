@@ -3,28 +3,22 @@
 	"TYPE_series": "Serije",
 	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
-
 	"TYPE_movie_PL": "Filmove",
 	"TYPE_series_PL": "Serije",
 	"TYPE_tv_PL": "TV kanali",
 	"TYPE_channel_PL": "Kalnali",
-
 	"BACK": "Nazad",
-
 	"Discover": "Otkrij",
 	"Board": "Tabla",
 	"Library": "Biblioteka",
 	"Calendar": "Kalendar",
-
 	"SEARCH": "pretraži",
-
 	"ADD_TO_LIB": "Dodaj u Biblioteku",
 	"REMOVE_FROM_LIB": "Ukloni iz Biblioteke",
 	"TRAILER": "Najava",
 	"WATCH_TRAILER": "Pogledajte najavu",
 	"WATCH_NOW": "Gledaj sada",
 	"SHOW": "Prikaži",
-
 	"IMDB_RATING": "IMDb Ocena",
 	"YEAR": "Godina",
 	"DIRECTOR": "Direktor",
@@ -39,9 +33,7 @@
 	"UPCOMING": "Nadolazeće",
 	"ENDED": "Završeno",
 	"DURATION": "Trajanje",
-
 	"SEARCH_VIDEOS": "pretraži video",
-
 	"ADDON": "dodatak",
 	"ADDONS": "Dodaci",
 	"OFFICIAL": "službeni",
@@ -54,18 +46,15 @@
 	"AVAILABLE_STREAMS": "Dostpuni strimovi",
 	"NO_STREAM": "Nema dostupnih strimova",
 	"ADDON_CATALOGUE": "Prikaži sve dodatke &raquo;",
-
 	"STILL_IN_THEATER": "Film je idalje u bioskopu",
 	"WATCH_IN_CINEMA": "Pogledaj ga u lokalnom bioskopu",
-        "IN_THEATER": "U Bioskopu",
+	"IN_THEATER": "U Bioskopu",
 	"GET_TICKETS": "Nabavi karte",
 	"CHANNEL_NOT_SCRAPED": "Ovaj kanal još nije sačuvan.<br>Molimo vas pokušajte za par minuta.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Dodajte u svoju biblioteku da budete obešteni kada bude dostupno.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Bićete obavešteni kada bude dostupno.",
-
 	"PLAYER_ERROR": "Ups, greška plejera",
 	"PLAYER_ERROR_LOOKSLIKE": "Izgleda kao",
-
 	"STREAMING_FROM": "puštanje iz",
 	"CASTING_TO": "Prikazivanje na",
 	"NETWORK_STATUS": "Mrežni status",
@@ -76,17 +65,12 @@
 	"PEERS_CONNECTED": "Konektovano:",
 	"PEERS_WAITING": "Čekanje:",
 	"TRANSCODING_WARNING": "Upozorenje: konvertovanje videa.",
-
 	"STREAM_LOADING": "učitavanje...",
 	"PLAYING_LOCAL": "puštanje iz lokale datoteke",
 	"PLAYING_CACHE": "puštanje iz privremenog skladišta",
-
 	"WRONG_SUBS": "Pogrešan prevod?",
-
 	"CHOOSE_DEVICE": "Izaberi uređaj za gledanje",
-
 	"PHONE_TABLET": "Telefon / Tablet",
-
 	"SUBTITLES_CHANGE": "Promeni prevod za ",
 	"SUBTITLES_CHANGE_NONE": "Nema drugih prevoda za ovaj jezik, izvini.",
 	"SUBTITLES_CHANGE_ACIVE": "Trenutno &#35;{{subtitlesDialog.activeIdx + 1}} prevod je aktivan. Klikni \"Nastavi\" da aktiviraš prevod &#35;{{subtitlesDialog.pickedIdx + 1}}.",
@@ -95,29 +79,21 @@
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "Ili koristi <span>G</span> / <span>H</span> dugmad dok puštate da podesite prevod.",
 	"SUBTITLES_ADJUST_DELAY_TIP": "Savet: možete koristiti <span>G</span> / <span>H</span> dugmad dok puštate da podesite prevod.",
 	"SUBTITLES_DELAY": "Odlaganje prevoda:",
-
 	"SEASON": "Sezona",
 	"EPISODE": "Epizoda",
-
 	"SORT_TRENDING": "popularno",
 	"SORT_RECENT": "nedavno",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "ocena",
 	"SORT_WATCHED": "gledano",
 	"SORT_YEAR": "godina",
-
 	"LIBRARY_RESUME": "nastavi",
-
 	"DISCOVER_FEATURED": "Istaktnut",
-
 	"DISCOVER_TOP": "Najbolji",
 	"DISCOVER_OSCAR": "Dobitnici Oskara",
-
 	"DISCOVER_NOADDON_WARNING": "Upozorenje: nema Stremio dodatka aktivinog za ovaj tip. Prikazujemo sačuvane stvari, ništa se neće nadograditi.",
-
 	"RELAUNCH": "Ponovo pokreni sada!",
 	"UPGRADE": "Nova verzija je dostupna! Nadogradi se na poslednju Stremio verziju",
-
 	"FB_LOGIN": "Prijavi se sa Facebook",
 	"FB_NOTHINGSHARED": "Ništa se ne deli bez vaše dozvole",
 	"OR": "ili",
@@ -134,17 +110,13 @@
 	"EMAIL_USED_WITH_FB": "Ovaj email je korišten sa Facebook prijavom.",
 	"CONN_ERR": "Greška u povezivanju - molimo vas pokušajte kasnije.\n\nAko se ovo nastavi, onemogućite zaštitni zid/antivirus (naročito Bitdefender).",
 	"IMPORT_FROM_GUEST": "Uvezi Biblioteku iz tvog gost naloga",
-
 	"ADDON_DISCLAIMER": "Korištenje trećih dodataka uvek će biti predmet lične odgovornosti i zakonom zemlje u kojoj se nalazite.",
 	"ADDON_ACTIVATE": "Aktiviraj ovaj dodatak?",
-
 	"WHATS_NEW": "Šta je novo",
-
 	"BUTTON_CONTINUE": "Nastavi",
 	"BUTTON_ACTIVATE": "Aktiviraj",
-        "BUTTON_ACTIVATED": "Aktivirano",
+	"BUTTON_ACTIVATED": "Aktivirano",
 	"BUTTON_CANCEL": "Prekini",
-
 	"LIB_EMPTY": "Vaša biblioteka izlgeda prazno. Saznajte koliko je zapravo korisna :) ",
 	"HOW_START": "Ovo je kako možete početi:",
 	"LIB_EMPTY_CAL": "Tvoj Kalendar prikazuje serije iz tvoje Biblioteke.",
@@ -156,12 +128,11 @@
 	"IMPORT_DISCOVER": "Nađi zanimljive stvari u <span>Otkrij</span>",
 	"IMPORT_DISK": "Uvoz filmova ili serija koje imate na vašem <span>lokalnom disku</span>",
 	"PLEASE_CREATE_ACC": "Molimo vas <u>kreirajte račun</u> da omogućite sinhronizaciju Biblioteke &amp; Table.",
-
 	"SETTINGS_LAUNCH_STARTUP": "Pokreni na pokretanju",
 	"SETTINGS_VLC_DEFAULT": "Pusti sa VLC",
 	"SETTINGS_BINGE": "Automatski pusti iduću epizodu",
 	"SETTINGS_RESIZE": "Automatski promeni veličinu prozora pre puštanja",
- 	"SETTINGS_USE_BETA": "Uvek koristi najnoviju BETA",
+	"SETTINGS_USE_BETA": "Uvek koristi najnoviju BETA",
 	"SETTINGS_IMPORT_FB": "Uvezi sa Facebooka",
 	"SETTINGS_IMPORT_DISK": "Uvezi sa lokalnog diska",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Pretplati se na kalendar",
@@ -170,14 +141,11 @@
 	"SETTINGS_SUPPORT": "Kontaktiraj podršku",
 	"SETTING_LANGUAGE": "Jezik",
 	"SETTINGS_TRAKT_LOGOUT": "Odjavi se sa Trakt.tv",
-
 	"QUIT": "Izađi",
-
 	"CONNETED": "Konektovano",
 	"AUTHENTICATE": "Prijavi se",
 	"CACHING": "Keširanje",
 	"SETTINGS_CACHING_DRIVE": "Izaberi disk za keširanje",
-
 	"January": "Januar",
 	"February": "Februar",
 	"March": "Mart",
@@ -190,7 +158,6 @@
 	"October": "Oktobar",
 	"November": "Novembar",
 	"December": "Decembar",
-
 	"Monday": "Ponedeljak",
 	"Tuesday": "Utorak",
 	"Wednesday": "Sreda",
@@ -198,7 +165,6 @@
 	"Friday": "Petak",
 	"Saturday": "Subota",
 	"Sunday": "Nedelja",
-
 	"Action": "Akcija",
 	"Comedy": "Komedija",
 	"War": "War",
@@ -219,9 +185,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-    "Film-Noir": "Film-Noir",
-    "News": "News",
-    "History": "History",
+	"Film-Noir": "Film-Noir",
+	"News": "News",
+	"History": "History",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -274,7 +240,6 @@
 	"Science Radio": "Science Radio",
 	"Tech Radio": "Tech Radio",
 	"Science & Technology Vod": "Science & Technology Vod",
-
 	"new video": "novi video",
 	"new episode": "nova epizoda",
 	"new movie": "novi film",
@@ -283,7 +248,6 @@
 	"offer of the day": "ponuada dana",
 	"news": "vesti",
 	"music video": "muzički video",
-
 	"CTX_DISMISS_NOTIF": "Odbaci obaveštenja",
 	"CTX_SHARE": "Podeli",
 	"CTX_COPY_SHARE_LINK": "Kopiraj link za deljenje",
@@ -311,7 +275,6 @@
 	"CTX_PASTE": "Zalepi",
 	"CTX_CLEAR": "Očisti",
 	"CTX_CLEAR_RECENT_SEARCHES": "Obriši skorašnje pretrage",
-
 	"HELLO_THERE": "Hej zdravo",
 	"HOPE_YOU_ENJOY": "Nadamo se da uživate uz Stremio i da je već jedna od vaših omiljenih aplikacija !",
 	"WHO_ARE_WE": "Ko smo mi? Mi smo tim iza njega - dva momka koja rade teško svaki dan već skoro 3 godine da bih napravili ovaj proizvod sve boljim i boljim.",
@@ -319,9 +282,7 @@
 	"SPREAD_THE_WORD": "Podelite sa svojim prijateljima sada, širite reči u vezi Stremio",
 	"MORE_PEOPLE": "Što više ljudi koristi Stremio, to će bolji biti !",
 	"SEND_A_LINK": "Ili pošaljite link ka našem sajtu",
-
 	"TIP_LOCALFILES": "Savet: možeš prevući i ubaciti lokalne video datoteke u Stremio",
-
 	"ADDON_MY": "Moji Dodaci",
 	"ADDON_COMMUNITY": "Dodaci zajednice",
 	"ADDON_OFFICIAL": "Službeni dodaci",
@@ -340,9 +301,10 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Gledaj #{types} BESPLATNO",
 	"ADDON_PROVIDES_SUBTITLES": "Prevodi za #{types}",
 	"ADDON_CANTDETECT": "Nismo uspeli pronaći pokrenuti Stremio, tako da nismo uspeli detektovati koje dodatke imate instaliarne.",
-
 	"BOARD_CONTINUE_WATCHING": "Nastavi gledanje",
-
+	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
+	"BOARD_EXPLANATION_EPISODES": "New episodes of your favorite Series come here.<br />Add series you follow to your Library.",
+	"BOARD_EXPLANATION_VIDEOS": "New episodes of your favorite Channels come here.<br />Add YouTube channels you follow to your Library.",
 	"WEBSITE_SLOGAN_WATCH": "Gledaj Odma",
 	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
 	"WEBSITE_DOWNLOAD": "Skini sada",
@@ -356,40 +318,30 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Kreiraj dodatak",
 	"WEBSITE_PAGE_CONTACTS": "Kontakti",
 	"WEBSITE_PAGE_BLOG": "Blog",
-
 	"WEBSITE_TYPE_movie": "Filmovi",
 	"WEBSITE_TYPE_series_PL": "Serije",
 	"WEBSITE_TYPE_tv": "Uživo TV",
 	"WEBSITE_TYPE_channel": "Kanali",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio je aplikacija koja vam pomaže da organizujete i odmah gledate vaše omiljene video, filmove, TV serije i TV kanale.",
-
 	"WEBSITE_FEATURES_WATCH": "Gledaj odmah u HD",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Kliknite i pustite svoje omiljene filmove, TV Emisije, video i TV kanale.",
-
 	"WEBSITE_FEATURES_SUBS": "Automatski Prevodi",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatski odabire sinhronizovane prevode za vaš jezik.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Tvoj potez, šefe.",
-
 	"WEBSITE_FEATURES_CAST": "Pusti na TV & mobilnim uređajima",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Emitovanje na AppleTV, Chromecast, Smart TV (DLNA/UPnP) i mobilne uređaje.",
-
 	"WEBSITE_LIB": "Uživajte u Svojoj Ličnoj Biblioteci Sinhronizovanoj na Sve Vaše Uređaje",
 	"WEBSITE_LIB_COLLECT": "Prikupite sa Stremio",
 	"WEBSITE_LIB_IMPORT": "Uvezite sa Facebook-a",
 	"WEBSITE_LIB_LOCAL": "Dodajte sa vašeg lokalnog diska",
-
 	"WEBSITE_BOARD": "Tabla - Vaše one-stop mesto za obaveštenja i preporuke",
 	"WEBSITE_BOARD_RECOMMEND": "Preporučena TV Emisija",
 	"WEBSITE_BOARD_TRENDING": "Traženi Film",
 	"WEBSITE_BOARD_NEW": "Novi Video",
 	"WEBSITE_BOARD_EPISODE": "Nova Epizoda",
-
 	"WEBSITE_BOARD_1": "Tražite nešto interesantno da gledate? Dobijajte preporuke na osnovu vašeg ukusa!",
 	"WEBSITE_BOARD_2": "Primite obaveštenja kada nova epizoda vaš omiljene TV emisije ili YouTube kanala izadje!",
-
 	"WEBSITE_ADDONS": "Dodaci za sadržaj",
-
 	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js allows Stremio to play any video format with good performance.",
 	"WEBSITE_TECH_WCJS_EXTRA": "We are core project contributors",
@@ -397,8 +349,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "We are project contributors",
 	"WEBSITE_TECH_LINVODB": "A database technology that ensures your data is organized and available anywhere you login.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "In-house technology",
-
-
 	"WEBSITE_CREATE_ADDON": "Kreiraj svoj dodatak",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Do you have a service providing video content? We'll help you benefit from Stremio's features by creating your Add-on.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Benefits of Creating an Add-on for Stremio",
@@ -409,13 +359,10 @@
 	"WEBSITE_P2P_CONTACT": "Zainteresovani? Dobrodošli ste da nas <a href='mailto:office@strem.io'>kontaktirate</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "We will be happy to help you integrate your content with Stremio!",
 	"WEBSITE_P2P": "Once in a while, there comes a technology that changes the name of the game. We invested tons of time and effort in building our Peer-to-Peer (P2P) video streaming engine that provides great performance and versatility to adapt with any use case.\nContact us for DRM-enabled P2P video on demand or live streaming.",
-
-
 	"WEBSITE_THOUGHTS": "Misljenja koja delimo:",
 	"WEBSITE_SPREAD": "Spread the word about Stremio:",
 	"WEBSITE_CONTACT": "If you are looking to contact us, go ahead at",
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
-
 	"WEBSITE_BITCOIN": "Doniraj bitcoin:",
 	"WEBSITE_FAQ": "Često postavljena pitanja",
 	"WEBSITE_TOS": "Terms of use",
