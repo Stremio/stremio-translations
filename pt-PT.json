@@ -88,6 +88,7 @@
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "ano",
 	"LIBRARY_RESUME": "retomar",
+	"LIBRARY_RESUME_DISMISS": "dismiss",
 	"DISCOVER_FEATURED": "Destaque",
 	"DISCOVER_TOP": "Popular",
 	"DISCOVER_OSCAR": "Vencedores de Óscar",
