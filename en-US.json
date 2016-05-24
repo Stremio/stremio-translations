@@ -106,8 +106,8 @@
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
 
-	"LIBRARY_RESUME": "resume",
-	"LIBRARY_RESUME_DISMISS": "dismiss",
+	"LIBRARY_RESUME": "Resume",
+	"LIBRARY_RESUME_DISMISS": "Dismiss",
 
 	"DISCOVER_FEATURED": "Featured",
 
