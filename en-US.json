@@ -392,6 +392,11 @@
 
 	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
 	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
+	
+	"WEBSITE_BOARD_YOUTUBE": "New videos of YouTube channels",
+	"WEBSITE_BOARD_EPISODES": "New episodes of series you follow",
+	"WEBSITE_BOARD_RECOMMEND": "Movies picked specially for you",
+	
 
 	"WEBSITE_ADDONS": "Content Add-ons",
 
