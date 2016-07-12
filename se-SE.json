@@ -369,6 +369,7 @@
 	"WEBSITE_OPENSOURCE": "För våra projekt med öppen källod, går till vår",
 	"WEBSITE_BITCOIN": "Donera bitcoin:",
 	"WEBSITE_FAQ": "Frekvent ställda frågor",
+	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_TOS": "Användningsvillkor",
 	"WEBSITE_LEGAL": "Lagligt"
 }

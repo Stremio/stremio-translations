@@ -369,6 +369,7 @@
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
+	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
 }

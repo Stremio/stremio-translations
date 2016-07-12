@@ -369,6 +369,7 @@
 	"WEBSITE_OPENSOURCE": "Pour nos projets open source, rendez-vous sur notre",
 	"WEBSITE_BITCOIN": "Faites nous une donation de Bitcoin:",
 	"WEBSITE_FAQ": "Questions fréquemment posées",
+	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_TOS": "Conditions d'utilisation",
 	"WEBSITE_LEGAL": "Juridique"
 }
