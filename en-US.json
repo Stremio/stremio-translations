@@ -17,6 +17,10 @@
 	"Calendar": "Calendar",
 	
 	"SEARCH": "search",
+	"SEARCH_NO_RESULTS": "No results were found",
+	"SEARCH_EXPLANATION_CONTENT": "Search for movies, series, YouTube and TV channels",
+	"SEARCH_EXPLANATION_PEOPLE": "Search for actors, directors and writers",
+	"SEARCH_PASTE_LINKS": "Paste HTTP and Magnet links",
 
 	"ADD_TO_LIB": "Add to Library",
 	"REMOVE_FROM_LIB": "Remove from Lib",
