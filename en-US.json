@@ -62,7 +62,7 @@
 
 	"STILL_IN_THEATER": "Movie still in theater",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
-        "IN_THEATER": "In cinema",
+	"IN_THEATER": "In cinema",
 	"GET_TICKETS": "Get tickets",
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
