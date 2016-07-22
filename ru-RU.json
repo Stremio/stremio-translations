@@ -110,6 +110,8 @@
 	"LOG_IN": "Вход",
 	"LOG_OUT": "Выйти",
 	"GUEST_LOGIN": "Войти как гость",
+	"GUEST_LOGIN_NOTICE": "Guest Login is not recommended. Using a regular login allows Stremio to sync your Library, receive notifications for favourite series/channels. Are you sure you want to proceed?",
+	"GUEST_LOGIN_NOTICE_2": "Guest Login is not recommended - you won't have synced Library and Board notifications, which are vital Stremio features. Are you sure you want to proceed?",
 	"CLICK_HERE": "кликните здесь",
 	"WRONG_PASSWORD": "Неправильный пароль. Если вы забыли свой пароль, ",
 	"SET_A_PASS": "установить пароль",

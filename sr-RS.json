@@ -110,6 +110,8 @@
 	"LOG_IN": "Prijavi se",
 	"LOG_OUT": "Odjavi se",
 	"GUEST_LOGIN": "Prijavi se kao gost",
+	"GUEST_LOGIN_NOTICE": "Guest Login is not recommended. Using a regular login allows Stremio to sync your Library, receive notifications for favourite series/channels. Are you sure you want to proceed?",
+	"GUEST_LOGIN_NOTICE_2": "Guest Login is not recommended - you won't have synced Library and Board notifications, which are vital Stremio features. Are you sure you want to proceed?",
 	"CLICK_HERE": "klikni ovde",
 	"WRONG_PASSWORD": "Pogrešna lozinka. U slučaju da ste zaboravili lozinku, ",
 	"SET_A_PASS": "postavite lozinku",
