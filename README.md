@@ -31,7 +31,6 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - es-ES: @Decc98, @FernandoUY and Federico Erbetta		(Spanish)
 - fr-FR: @Nath74k and @greg0ire			(French)
 - he-IL: @kornbed and @yishaiguedj1		(Hebrew)
-- hr-HR: @boljsa (Croatian)
 - hu-HU: @pterdi				(Hungarian)
 - it-IT: @pippo73 and @zurdyo			(Italian)
 - mk-MK: Ivan Fonchev				(Macedonian)
