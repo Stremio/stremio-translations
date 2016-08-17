@@ -165,6 +165,8 @@
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
 	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
 	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
+	"IMPORT_DISCOVER_SIGNUP": "Sign up and find interesting stuff from <span>Discover</span>",
+	"IMPORT_DISK_SIGNUP": "Sigm up and import movies or shows you have on your <span>local disk</span>",
 
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
