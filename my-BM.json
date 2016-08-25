@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Alamak, ralat pemain",
 	"PLAYER_ERROR_LOOKSLIKE": "Nampaknya seperti",
 	"STREAMING_FROM": "streaming dari",

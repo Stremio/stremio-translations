@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "Este canal ainda não foi publicado.<br>Por favor, tente novamente mais tarde.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adicione à biblioteca para receber notificações quando estiver disponível.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Será notificado quando estiver disponível.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Ups, Erro do player",
 	"PLAYER_ERROR_LOOKSLIKE": "Isto parece ser",
 	"STREAMING_FROM": "a transmitir de",

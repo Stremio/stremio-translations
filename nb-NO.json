@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "Denne kanalen er ikke ferdig enda.<br>Vennligst kom tilbake om noen få minutter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Legg den til i ditt bibliotek for å bli varslet når den blir tilgjengelig.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du vil bli varslet med en gang den er tilgjengelig.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Oops, spiller feil",
 	"PLAYER_ERROR_LOOKSLIKE": "Det ser ut som",
 	"STREAMING_FROM": "Streamer fra",

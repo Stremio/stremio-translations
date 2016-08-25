@@ -3,38 +3,33 @@
 	"TYPE_series": "Serije",
 	"TYPE_tv": "TV kanali",
 	"TYPE_channel": "Kanali",
-
 	"TYPE_movie_PL": "Filmovi",
 	"TYPE_series_PL": "Serije",
 	"TYPE_tv_PL": "TV kanali",
 	"TYPE_channel_PL": "Kanali",
-
 	"BACK": "Povratak",
-
 	"Discover": "Otkri",
 	"Board": "Ploča",
 	"Library": "Biblioteka",
 	"Calendar": "Kalendar",
-
 	"SEARCH": "pretraži",
 	"SEARCH_NO_RESULTS": "Nema rezultata pretrage",
 	"SEARCH_EXPLANATION_CONTENT": "Pretražuj filmove, serije, YouTube i TV kanale",
 	"SEARCH_EXPLANATION_PEOPLE": "Pretražuj glumce, redatelje i pisce",
 	"SEARCH_PASTE_LINKS": "Kopiraj HTTP i Magnet linkove",
-
 	"ADD_TO_LIB": "Dodaj u biblioteku",
 	"REMOVE_FROM_LIB": "Remove from Lib",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Watch Trailer",
 	"WATCH_NOW": "Watch Now",
 	"SHOW": "Show",
-
 	"IMDB_RATING": "IMDb Rating",
 	"YEAR": "Year",
 	"DIRECTOR": "Director",
 	"WRITER": "Writer",
 	"LEAD_ACTORS": "Lead Actors",
 	"CAST": "Cast",
+	"SHOW_MORE_CAST": "Show more &raquo;",
 	"AIRED": "Aired",
 	"SEASONS": "Seasons",
 	"GENRE": "Genre",
@@ -43,9 +38,7 @@
 	"UPCOMING": "Upcoming",
 	"ENDED": "Ended",
 	"DURATION": "Duration",
-
 	"SEARCH_VIDEOS": "search videos",
-
 	"ADDON": "add-on",
 	"ADDONS": "Add-ons",
 	"OFFICIAL": "official",
@@ -59,7 +52,6 @@
 	"NO_STREAM": "No streams available",
 	"ADDON_CATALOGUE": "Show all add-ons &raquo;",
 	"ADDON_CATALOGUE_MORE": "More add-ons &raquo;",
-
 	"STILL_IN_THEATER": "Movie still in theater",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
 	"IN_THEATER": "In cinema",
@@ -67,10 +59,9 @@
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
-
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
-
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
 	"NETWORK_STATUS": "Network status",
@@ -81,17 +72,12 @@
 	"PEERS_CONNECTED": "Connected:",
 	"PEERS_WAITING": "Waiting:",
 	"TRANSCODING_WARNING": "Warning: transcoding video.",
-
 	"STREAM_LOADING": "loading...",
 	"PLAYING_LOCAL": "playing from local file",
 	"PLAYING_CACHE": "playing from cache",
-
 	"WRONG_SUBS": "Wrong subtitles?",
-
 	"CHOOSE_DEVICE": "Choose a device to watch on",
-
 	"PHONE_TABLET": "Phone / Tablet",
-
 	"SUBTITLES_CHANGE": "Change subtitles for ",
 	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
 	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
@@ -100,30 +86,22 @@
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "Or use <span>G</span> / <span>H</span> keys while playing to adjust.",
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: you can use <span>G</span> / <span>H</span> keys while playing to adjust.",
 	"SUBTITLES_DELAY": "Subtitles delay:",
-
 	"SEASON": "Season",
 	"EPISODE": "Episode",
-
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "recent",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
-
 	"LIBRARY_RESUME": "Resume",
 	"LIBRARY_RESUME_DISMISS": "Dismiss",
-
 	"DISCOVER_FEATURED": "Featured",
-
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Oscar Winners",
-
 	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio add-on active for this type. Showing saved items, nothing here will update.",
-
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "New version is available! Upgrade to the latest Stremio version",
-
 	"FB_LOGIN": "Login with Facebook",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
 	"OR": "or",
@@ -142,17 +120,14 @@
 	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
 	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"IMPORT_FROM_GUEST": "Import Library from your guest account",
-
+	"RECEIVE_UPDATES_EMAIL": "Receive updates to your email from Stremio",
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
-
 	"WHATS_NEW": "What's new",
-
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
-        "BUTTON_ACTIVATED": "Activated",
+	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
-
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
 	"LIB_EMPTY_CAL": "Your Calendar shows series in your Library.",
@@ -164,7 +139,8 @@
 	"IMPORT_DISCOVER": "Find interesting stuff from <span>Discover</span>",
 	"IMPORT_DISK": "Import movies or shows you have on your <span>local disk</span>",
 	"PLEASE_CREATE_ACC": "Please <u>create an account</u> to enable Library sync &amp; Board.",
-
+	"IMPORT_DISCOVER_SIGNUP": "Sign up and find interesting stuff from <span>Discover</span>",
+	"IMPORT_DISK_SIGNUP": "Sigm up and import movies or shows you have on your <span>local disk</span>",
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
@@ -178,14 +154,11 @@
 	"SETTINGS_SUPPORT": "Contact support",
 	"SETTING_LANGUAGE": "Language",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",
-
 	"QUIT": "Quit",
-
 	"CONNETED": "Connected",
 	"AUTHENTICATE": "Authenticate",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Caching drive",
-
 	"January": "January",
 	"February": "February",
 	"March": "March",
@@ -198,7 +171,6 @@
 	"October": "October",
 	"November": "November",
 	"December": "December",
-
 	"Monday": "Monday",
 	"Tuesday": "Tuesday",
 	"Wednesday": "Wednesday",
@@ -206,7 +178,6 @@
 	"Friday": "Friday",
 	"Saturday": "Saturday",
 	"Sunday": "Sunday",
-
 	"Action": "Action",
 	"Comedy": "Comedy",
 	"War": "War",
@@ -227,9 +198,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-    "Film-Noir": "Film-Noir",
-    "News": "News",
-    "History": "History",
+	"Film-Noir": "Film-Noir",
+	"News": "News",
+	"History": "History",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -282,7 +253,6 @@
 	"Science Radio": "Science Radio",
 	"Tech Radio": "Tech Radio",
 	"Science & Technology Vod": "Science & Technology Vod",
-
 	"new video": "new video",
 	"new episode": "new episode",
 	"new movie": "new movie",
@@ -291,7 +261,6 @@
 	"offer of the day": "offer of the day",
 	"news": "news",
 	"music video": "music video",
-
 	"CTX_DISMISS_NOTIF": "Dismiss notifications",
 	"CTX_SHARE": "Share",
 	"CTX_COPY_SHARE_LINK": "Copy share link",
@@ -319,7 +288,6 @@
 	"CTX_PASTE": "Paste",
 	"CTX_CLEAR": "Clear",
 	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches",
-
 	"HELLO_THERE": "Hello There",
 	"HOPE_YOU_ENJOY": "We hope you enjoy Stremio and it's one of your favourite apps already!",
 	"WHO_ARE_WE": "Who are we? We are the team behind it - two guys who work hard every day for the last 3 years to make this product better and better.",
@@ -327,9 +295,7 @@
 	"SPREAD_THE_WORD": "Share with your friends now, spread the word about Stremio",
 	"MORE_PEOPLE": "The more people use Stremio, the better it will get!",
 	"SEND_A_LINK": "Or send a link to our website",
-
 	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
-
 	"ADDON_MY": "My Add-ons",
 	"ADDON_COMMUNITY": "Community Add-ons",
 	"ADDON_OFFICIAL": "Official Add-ons",
@@ -348,12 +314,10 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
 	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
-
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
 	"BOARD_EXPLANATION_EPISODES": "New episodes of your favorite Series come here.<br />Add series you follow to your Library.",
 	"BOARD_EXPLANATION_VIDEOS": "New episodes of your favorite Channels come here.<br />Add YouTube channels you follow to your Library.",
-
 	"WEBSITE_SLOGAN_WATCH": "Watch Instantly",
 	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
 	"WEBSITE_DOWNLOAD": "Download Now",
@@ -367,45 +331,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Create Addon",
 	"WEBSITE_PAGE_CONTACTS": "Contacts",
 	"WEBSITE_PAGE_BLOG": "Blog",
-
 	"WEBSITE_TYPE_movie": "Movies",
 	"WEBSITE_TYPE_series_PL": "Series",
 	"WEBSITE_TYPE_tv": "Live TV",
 	"WEBSITE_TYPE_channel": "Channels",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio is an app that helps you organize and instantly watch your favorite videos, movies, TV series and TV channels.",
-
 	"WEBSITE_FEATURES_WATCH": "Watch Instantly in HD",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Click and play your favourite movies, TV Shows, videos and TV channels.",
-
 	"WEBSITE_FEATURES_SUBS": "Automatic Subtitles",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatically picks synced subtitles for your language.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Your move, chief.",
-
 	"WEBSITE_FEATURES_CAST": "Play on TV & mobile devices",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Cast to AppleTV, Chromecast, Smart TV (DLNA/UPnP) and mobile devices.",
-
 	"WEBSITE_LIB": "Enjoy Your Personal Library Synced on All Your Devices",
 	"WEBSITE_LIB_COLLECT": "Collect from Stremio",
 	"WEBSITE_LIB_IMPORT": "Import from Facebook",
 	"WEBSITE_LIB_LOCAL": "Add from your local drive",
-
 	"WEBSITE_BOARD": "The Board - Your one-stop place for Notifications and Recommendations",
-	"WEBSITE_BOARD_RECOMMEND": "Recommended TV Show",
+	"WEBSITE_BOARD_RECOMMEND": "Movies picked specially for you",
 	"WEBSITE_BOARD_TRENDING": "Trending Movie",
 	"WEBSITE_BOARD_NEW": "New Video",
 	"WEBSITE_BOARD_EPISODE": "New Episode",
-
 	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
 	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
-
 	"WEBSITE_BOARD_YOUTUBE": "New videos of YouTube channels",
 	"WEBSITE_BOARD_EPISODES": "New episodes of series you follow",
-	"WEBSITE_BOARD_RECOMMEND": "Movies picked specially for you",
-
-
 	"WEBSITE_ADDONS": "Content Add-ons",
-
 	"WEBSITE_TECH_DETAIL": "We love technology, we love mad science!\nStremio is using the following open source technologies:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js allows Stremio to play any video format with good performance.",
 	"WEBSITE_TECH_WCJS_EXTRA": "We are core project contributors",
@@ -413,8 +364,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "We are project contributors",
 	"WEBSITE_TECH_LINVODB": "A database technology that ensures your data is organized and available anywhere you login.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "In-house technology",
-
-
 	"WEBSITE_CREATE_ADDON": "Create your addon",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Do you have a service providing video content? We'll help you benefit from Stremio's features by creating your Add-on.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Benefits of Creating an Add-on for Stremio",
@@ -425,13 +374,10 @@
 	"WEBSITE_P2P_CONTACT": "Interested? You are welcome to <a href='mailto:office@strem.io'>contact us</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "We will be happy to help you integrate your content with Stremio!",
 	"WEBSITE_P2P": "Once in a while, there comes a technology that changes the name of the game. We invested tons of time and effort in building our Peer-to-Peer (P2P) video streaming engine that provides great performance and versatility to adapt with any use case.\nContact us for DRM-enabled P2P video on demand or live streaming.",
-
-
 	"WEBSITE_THOUGHTS": "Thoughts we share:",
 	"WEBSITE_SPREAD": "Spread the word about Stremio:",
 	"WEBSITE_CONTACT": "Contact us, we'll be happy to hear from you!",
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
-
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_FAQ_SHORT": "FAQ",

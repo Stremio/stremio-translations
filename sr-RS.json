@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "Ovaj kanal još nije sačuvan.<br>Molimo vas pokušajte za par minuta.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Dodajte u svoju biblioteku da budete obešteni kada bude dostupno.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Bićete obavešteni kada bude dostupno.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Ups, greška plejera",
 	"PLAYER_ERROR_LOOKSLIKE": "Izgleda kao",
 	"STREAMING_FROM": "puštanje iz",

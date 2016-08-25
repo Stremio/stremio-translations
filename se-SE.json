@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "Den här kanalen är inte skrapad än.<br>Kom tillbaka om några minuter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lägg till den till ditt bibliotek för att bli meddelad när den blir tillgänglig.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du kommer att bli meddelad när den blir tillgänglig.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Hoppsan, fel på spelaren",
 	"PLAYER_ERROR_LOOKSLIKE": "Det tycks vara ett fel på spelaren",
 	"STREAMING_FROM": "Strömmar från",

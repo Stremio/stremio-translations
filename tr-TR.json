@@ -59,6 +59,7 @@
 	"CHANNEL_NOT_SCRAPED": "Bu kanal henüz uygun değil.<br>Lütfen birkaç dakika içinde tekrar deneyin.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Uygun olduğunda bildirilmesi için kütüphaneye ekleyin.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Uygun olduğunda bildirim alacaksınız.",
+	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
 	"STREAMING_FROM": "şuradan yayınlanıyor",
