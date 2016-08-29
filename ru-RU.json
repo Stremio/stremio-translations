@@ -48,6 +48,8 @@
 	"ADDON_PEERED": "peered",
 	"ADDON_SUBSCRIPTION": "Подписка",
 	"ADDON_STREAM_GEORESTRICTED": "недоступно в вашей зоне",
+	"ADDON_STREAM_OFFLINECACHE": "Offline Cache",
+	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Доступные стримы",
 	"NO_STREAM": "Нет стримов",
 	"ADDON_CATALOGUE": "Show all add-ons &raquo;",

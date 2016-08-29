@@ -48,6 +48,8 @@
 	"ADDON_PEERED": "peered",
 	"ADDON_SUBSCRIPTION": "abonelik",
 	"ADDON_STREAM_GEORESTRICTED": "bölgenizde mevcut değil",
+	"ADDON_STREAM_OFFLINECACHE": "Offline Cache",
+	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Uygun yayınlar",
 	"NO_STREAM": "Uygun yayın yok",
 	"ADDON_CATALOGUE": "Tüm eklentileri göster &raquo;",

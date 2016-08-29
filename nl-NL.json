@@ -48,6 +48,8 @@
 	"ADDON_PEERED": "peered",
 	"ADDON_SUBSCRIPTION": "Abonnement",
 	"ADDON_STREAM_GEORESTRICTED": "Niet beschikbaar in uw regio",
+	"ADDON_STREAM_OFFLINECACHE": "Offline Cache",
+	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Beschikbare streams",
 	"NO_STREAM": "Geen streams beschikbaar",
 	"ADDON_CATALOGUE": "Toon alle add-ons &raquo;",

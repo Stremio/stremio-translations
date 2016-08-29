@@ -48,6 +48,8 @@
 	"ADDON_PEERED": "partilhado",
 	"ADDON_SUBSCRIPTION": "assinatura",
 	"ADDON_STREAM_GEORESTRICTED": "não disponível na sua área",
+	"ADDON_STREAM_OFFLINECACHE": "Offline Cache",
+	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Fontes Disponíveis",
 	"NO_STREAM": "Nenhuma fonte disponível",
 	"ADDON_CATALOGUE": "Mostrar todos os Add-Ons &raquo;",

@@ -48,6 +48,8 @@
 	"ADDON_PEERED": "peered",
 	"ADDON_SUBSCRIPTION": "Prenumeration på tillägg",
 	"ADDON_STREAM_GEORESTRICTED": "not available in your area",
+	"ADDON_STREAM_OFFLINECACHE": "Offline Cache",
+	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Tillgängliga strömmar",
 	"NO_STREAM": "Ingen ström",
 	"ADDON_CATALOGUE": "Katalog för tillägg",
