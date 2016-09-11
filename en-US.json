@@ -148,6 +148,7 @@
 	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
 	"IMPORT_FROM_GUEST": "Import Library from your guest account",
 	"RECEIVE_UPDATES_EMAIL": "Receive updates to your email from Stremio",
+	"LOGIN_FAILED": "Login failed.",
 
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
