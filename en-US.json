@@ -129,6 +129,9 @@
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "New version is available! Upgrade to the latest Stremio version",
 
+	"DONT_HAVE_ACC": "Don't have an account?",
+	"PASSWORD": "Password",
+	"EMAIL": "E-mail",
 	"FB_LOGIN": "Login with Facebook",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
 	"OR": "or",
