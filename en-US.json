@@ -301,6 +301,7 @@
 	"music video": "music video",
 	
 	"CTX_DISMISS_NOTIF": "Dismiss notifications",
+	"CTX_DISMISS_ALL": "Dismiss all",
 	"CTX_SHARE": "Share",
 	"CTX_COPY_SHARE_LINK": "Copy share link",
 	"CTX_SHOW": "Show",
