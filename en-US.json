@@ -366,7 +366,9 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
 	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
-	
+
+	"ERR_NO_META": "No information found about this ",
+
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
 	"BOARD_EXPLANATION_EPISODES": "New episodes of your favorite Series come here.<br />Add series you follow to your Library.",
