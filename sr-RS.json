@@ -295,7 +295,7 @@
 	"WHO_ARE_WE": "Ko smo mi? Mi smo tim iza njega - dva momka koja rade teško svaki dan već skoro 3 godine da bih napravili ovaj proizvod sve boljim i boljim.",
 	"SUPPORT_US": "Ako uživate koristeći Stremio, ako je Stremio vredan za vas - širite reč !",
 	"SPREAD_THE_WORD": "Podelite sa svojim prijateljima sada, širite reči u vezi Stremio",
-	"MORE_PEOPLE": "Što više ljudi koristi Stremio, to će bolji biti !",
+	"MORE_PEOPLE": "Što više ljudi koristi Stremio, to će biti bolji !",
 	"SEND_A_LINK": "Ili pošaljite link ka našem sajtu",
 	"TIP_LOCALFILES": "Savet: možeš prevući i ubaciti lokalne video datoteke u Stremio",
 	"ADDON_MY": "Moji Dodaci",
@@ -317,10 +317,10 @@
 	"ADDON_PROVIDES_SUBTITLES": "Prevodi za #{types}",
 	"ADDON_CANTDETECT": "Nismo uspeli pronaći pokrenuti Stremio, tako da nismo uspeli detektovati koje dodatke imate instaliarne.",
 	"BOARD_CONTINUE_WATCHING": "Nastavi gledanje",
-	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
+	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmovi izabrani iskljucivo za vas.<br />This movie is a sample recommendation.",
 	"BOARD_EXPLANATION_EPISODES": "New episodes of your favorite Series come here.<br />Add series you follow to your Library.",
 	"BOARD_EXPLANATION_VIDEOS": "New episodes of your favorite Channels come here.<br />Add YouTube channels you follow to your Library.",
-	"WEBSITE_SLOGAN_WATCH": "Gledaj Odma",
+	"WEBSITE_SLOGAN_WATCH": "Gledaj Odmah",
 	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
 	"WEBSITE_DOWNLOAD": "Skini sada",
 	"WEBSITE_DOWNLOAD_FOR": "Skini sada za",
@@ -382,7 +382,7 @@
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
 	"WEBSITE_BITCOIN": "Doniraj bitcoin:",
 	"WEBSITE_FAQ": "Često postavljena pitanja",
-	"WEBSITE_FAQ_SHORT": "FAQ",
-	"WEBSITE_TOS": "Terms of use",
-	"WEBSITE_LEGAL": "Legal"
+	"WEBSITE_FAQ_SHORT": "ČPP",
+	"WEBSITE_TOS": "Uslovi korišćenja",
+	"WEBSITE_LEGAL": "Zakoni"
 }
