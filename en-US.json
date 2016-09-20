@@ -191,6 +191,7 @@
 	"SETTINGS_TOS": "Terms of service",
 	"SETTINGS_SUPPORT": "Contact support",
 	"SETTING_LANGUAGE": "Language",
+	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",
 	"SETTINGS_SCAN_FOR_REMOTE": "Scan QR code to open remote",
 
