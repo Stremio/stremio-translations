@@ -186,6 +186,7 @@
 	"SETTINGS_USE_BETA": "Always use latest Beta",
 	"SETTINGS_IMPORT_FB": "Import from Facebook",
 	"SETTINGS_IMPORT_DISK": "Import from local disk",
+	"SETTINGS_IMPORT_TRAKT": "Import from Trakt",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscribe to calendar",
 	"SETTINGS_CHANGE_PASSWORD": "Change password",
 	"SETTINGS_TOS": "Terms of service",
