@@ -9,6 +9,7 @@ module.exports = function() {
 		"fr-FR": require("./fr-FR.json"),
 		"he-IL": require("./he-IL.json"),
 		"hu-HU": require("./hu-HU.json"),
+		"hr-HR": require("./hr-HR.json"),
 		"it-IT": require("./it-IT.json"),
 		"mk-MK": require("./mk-MK.json"),
 		"nb-NO": require("./nb-NO.json"),
