@@ -33,7 +33,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - he-IL: @kornbed and @yishaiguedj1		(Hebrew)
 - hu-HU: @pterdi				(Hungarian)
 - hr-HR: @boljsa (Croatian)
-- it-IT: @pippo73 and @zurdyo			(Italian)
+- it-IT: @pippo73, @zurdyo and @archetipo95			(Italian)
 - mk-MK: Ivan Fonchev				(Macedonian)
 - my-BM: Abdul Muhaimin Che Sohor (Melayu)
 - nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
