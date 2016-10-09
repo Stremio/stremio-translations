@@ -8,6 +8,9 @@
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "TV channels",
 	"TYPE_channel_PL": "Channels",
+	
+	"EPISODE": "Episode",
+	"VIDEO": "Video",
 
 	"BACK": "Back",
 	"MORE": "More",
@@ -29,6 +32,7 @@
 	"WATCH_TRAILER": "Watch Trailer",
 	"WATCH_NOW": "Watch Now",
 	"SHOW": "Show",
+	"WATCH_RANDOM": "Watch Random",
 
 	"IMDB_RATING": "IMDb Rating",
 	"YEAR": "Year",
