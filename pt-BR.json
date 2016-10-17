@@ -331,7 +331,7 @@
 	"ADDON_PROVIDES_DISCOVER": "Mais #{types} em Descubra",
 	"ADDON_PROVIDES_STREAMS": "Assista a #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Assista a #{types} de GRAÇA",
-	"ADDON_PROVIDES_SUBTITLES": "Legendas parar #{types}",
+	"ADDON_PROVIDES_SUBTITLES": "Legendas para #{types}",
 	"ADDON_CANTDETECT": "Nós não pudemos detectar o Stremio sendo executado, Então não pudemos detectar quais add-ons você tem instalado.",
 	"ERR_NO_META": "Nenhuma informação encontrada sobre isso ",
 	"BOARD_CONTINUE_WATCHING": "Continue assistindo",
