@@ -122,6 +122,11 @@
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
 
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
+
 	"LIBRARY_RESUME": "Resume",
 	"LIBRARY_RESUME_DISMISS": "Dismiss",
 
