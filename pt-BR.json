@@ -86,7 +86,7 @@
 	"CHOOSE_DEVICE": "Escolha um dispositivo para assistir",
 	"PHONE_TABLET": "Celular / Tablet",
 	"SUBTITLES_CHANGE": "Modificar legendas para ",
-	"SUBTITLES_CHANGE_NONE": "Não há outra legenda para esta linguagem, desculpe.",
+	"SUBTITLES_CHANGE_NONE": "Não há outra legenda para este idioma, desculpe.",
 	"SUBTITLES_CHANGE_ACIVE": "A legenda &#35;{{subtitlesDialog.activeIdx + 1}} está ativada. Clique \"Continuar\" para ativar a legenda &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SUBTITLES_OR": "Alternativamente,",
 	"SUBTITLES_ADJUST_DELAY": "Ajustar atraso da legenda:",
