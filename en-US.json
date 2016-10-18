@@ -28,6 +28,8 @@
 
 	"ADD_TO_LIB": "Add to Library",
 	"REMOVE_FROM_LIB": "Remove from Lib",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Watch Trailer",
 	"WATCH_NOW": "Watch Now",
