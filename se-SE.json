@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Paste HTTP and Magnet links",
 	"ADD_TO_LIB": "Lägg till i biblioteket",
 	"REMOVE_FROM_LIB": "Ta bort från biblioteket",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Titta på trailer",
 	"WATCH_NOW": "Titta nu",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "betyg",
 	"SORT_WATCHED": "sett",
 	"SORT_YEAR": "År",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "Återuppta",
 	"LIBRARY_RESUME_DISMISS": "dismiss",
 	"DISCOVER_FEATURED": "Utvalda",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Donera bitcoin:",
 	"WEBSITE_FAQ": "Frekvent ställda frågor",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Användningsvillkor",
 	"WEBSITE_LEGAL": "Lagligt"
 }

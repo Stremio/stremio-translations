@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Paste HTTP and Magnet links",
 	"ADD_TO_LIB": "Додај",
 	"REMOVE_FROM_LIB": "Отстрани",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Треjлер",
 	"WATCH_TRAILER": "Треjлер",
 	"WATCH_NOW": "Гледај",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "рејтинг",
 	"SORT_WATCHED": "видени",
 	"SORT_YEAR": "година",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "resume",
 	"LIBRARY_RESUME_DISMISS": "dismiss",
 	"DISCOVER_FEATURED": "Featured",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
 }

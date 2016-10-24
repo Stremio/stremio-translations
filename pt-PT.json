@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Colar links HTTP e Magnet",
 	"ADD_TO_LIB": "Ad. à biblioteca",
 	"REMOVE_FROM_LIB": "Rem. da biblioteca",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Ver Trailer",
 	"WATCH_NOW": "Ver Agora",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "classificação",
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "ano",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "retomar",
 	"LIBRARY_RESUME_DISMISS": "dispensar",
 	"DISCOVER_FEATURED": "Destaque",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Doar bitcoin:",
 	"WEBSITE_FAQ": "Perguntas frequentes",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Termos de utilização",
 	"WEBSITE_LEGAL": "Legal"
 }

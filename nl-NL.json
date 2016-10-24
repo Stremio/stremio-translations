@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Paste HTTP and Magnet links",
 	"ADD_TO_LIB": "Toevoegen aan bibliotheek",
 	"REMOVE_FROM_LIB": "Verwijderen uit bibliotheek",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Trailer bekijken",
 	"WATCH_NOW": "Nu kijken",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "beoordeling",
 	"SORT_WATCHED": "gezien",
 	"SORT_YEAR": "jaar",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "hervat",
 	"LIBRARY_RESUME_DISMISS": "dismiss",
 	"DISCOVER_FEATURED": "Uitgelicht",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
 }

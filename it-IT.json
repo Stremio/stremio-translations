@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Incolla HTTP e Magnet link",
 	"ADD_TO_LIB": "Aggiungi alla libreria",
 	"REMOVE_FROM_LIB": "Rimuovi dalla libreria",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Guarda Trailer",
 	"WATCH_NOW": "Guarda ora",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "voto",
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "anno",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "riprendi",
 	"LIBRARY_RESUME_DISMISS": "dismiss",
 	"DISCOVER_FEATURED": "In primo piano",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Dona bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
 }

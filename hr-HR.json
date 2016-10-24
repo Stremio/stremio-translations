@@ -22,6 +22,8 @@
 	"SEARCH_PASTE_LINKS": "Kopiraj HTTP i Magnet linkove",
 	"ADD_TO_LIB": "Dodaj u biblioteku",
 	"REMOVE_FROM_LIB": "Ukloni iz biblioteke",
+	"ADDED_TO_LIB": "Added to Library",
+	"REMOVED_FROM_LIB": "Removed from Library",
 	"TRAILER": "Trailer",
 	"WATCH_TRAILER": "Pogledaj Trailer",
 	"WATCH_NOW": "Gledaj sada",
@@ -100,6 +102,10 @@
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
+	"New for You": "New for You",
+	"New Episodes": "New Episodes",
+	"New Videos": "New Videos",
+	"Recommendations": "Recommendations",
 	"LIBRARY_RESUME": "Resume",
 	"LIBRARY_RESUME_DISMISS": "Dismiss",
 	"DISCOVER_FEATURED": "Featured",
@@ -401,6 +407,7 @@
 	"WEBSITE_BITCOIN": "Donate bitcoin:",
 	"WEBSITE_FAQ": "Frequently asked questions",
 	"WEBSITE_FAQ_SHORT": "FAQ",
+	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
 }
