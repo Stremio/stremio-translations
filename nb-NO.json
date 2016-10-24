@@ -71,6 +71,7 @@
 	"WARNING_STREAMING_SERVER": "Advarsel: lokal strømmeserver ble ikke funnet. Det vil ikke være tilgjengelig å strømme fra YouTube og BitTorrent.",
 	"PLAYER_ERROR": "Oops, spiller feil",
 	"PLAYER_ERROR_LOOKSLIKE": "Det ser ut som",
+	"PLAYER_LIVE": "Live",
 	"STREAMING_FROM": "Strømmer fra",
 	"CASTING_TO": "Caster til",
 	"NETWORK_STATUS": "Nettverksstatus",

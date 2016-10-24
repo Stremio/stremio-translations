@@ -71,6 +71,7 @@
 	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
 	"PLAYER_ERROR": "Oops, Errore del Player",
 	"PLAYER_ERROR_LOOKSLIKE": "Sembra che",
+	"PLAYER_LIVE": "Live",
 	"STREAMING_FROM": "In streaming da",
 	"CASTING_TO": "Trasmesso su",
 	"NETWORK_STATUS": "Stato della rete",

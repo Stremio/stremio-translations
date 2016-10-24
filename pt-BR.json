@@ -71,6 +71,7 @@
 	"WARNING_STREAMING_SERVER": "Atenção: servidor local de transmissão não encontrado. Transmissões do YouTube e BitTorrent não estarão disponíveis.",
 	"PLAYER_ERROR": "Oops, ocorreu um erro no reprodutor de mídia",
 	"PLAYER_ERROR_LOOKSLIKE": "Parece que",
+	"PLAYER_LIVE": "Live",
 	"STREAMING_FROM": "transmitindo de",
 	"CASTING_TO": "Transmitindo para",
 	"NETWORK_STATUS": "Estado da rede",
