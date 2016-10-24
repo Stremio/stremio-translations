@@ -84,6 +84,8 @@
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
 	
+	"PLAYER_LIVE": "Live",
+
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
 	"NETWORK_STATUS": "Network status",
