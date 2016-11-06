@@ -169,6 +169,11 @@
 	"RECEIVE_UPDATES_EMAIL": "Receive updates to your email from Stremio",
 	"LOGIN_FAILED": "Login failed.",
 
+	"INTRO_TASTE": "Tell us about what you like",
+	"INTRO_TASTE_LONG": "Tell us about what you'd like to watch",
+	"INTRO_TASTE_PICK": "Pick {{interestsRemaining}} interests",
+	"INTRO_TASTE_PICK_MORE": "Pick {{interestsRemaining}} more interests",
+	
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
 
@@ -176,7 +181,7 @@
 
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
-        "BUTTON_ACTIVATED": "Activated",
+    "BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
