@@ -391,6 +391,7 @@
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what add-ons you have installed.",
 
 	"ERR_NO_META": "No information found about this ",
+	"ERR_GETTING_META": "Error retrieving information about this.",
 
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
