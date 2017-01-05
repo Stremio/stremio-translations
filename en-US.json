@@ -162,6 +162,7 @@
 	"CLICK_HERE": "click here",
 	"WRONG_PASSWORD": "Wrong email or password. In case you have forgotten your password, ",
 	"SET_A_PASS": "set a password",
+	"RESET_PASSWORD": "Reset password",
 	"FORGOT_PASSWORD": "Forgot password?",
 	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
 	"CONN_ERR": "Connection error - please try again later.\n\nIf this persists, disable firewalls/anti-virus software (especially Bitdefender).",
