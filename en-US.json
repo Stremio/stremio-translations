@@ -176,6 +176,7 @@
 	"INTRO_TASTE_PICK": "Pick {{interestsRemaining}} interests",
 	"INTRO_TASTE_PICK_MORE": "Pick {{interestsRemaining}} more interests",
 	
+	"ADDON_NOT_SUPPORTED": "Selected addon is not supported on this platform.",
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
 
