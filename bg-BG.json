@@ -69,7 +69,7 @@
 	"CHANNEL_NOT_SCRAPED": "Нямаме информация за този канал все още.<br>Върнете се след няколко минути.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Добавете го в библиотеката за да получите известие.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Ще получите известие като излезе.",
-	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from YouTube and BitTorrent will not be available.",
+	"WARNING_STREAMING_SERVER": "Предупреждение: локалния streaming server не е свързан. Не е възможно стриймване от YouTube и BitTorrent.",
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "Изглежда като",
 	"PLAYER_LIVE": "Live",
