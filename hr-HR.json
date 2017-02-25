@@ -60,6 +60,7 @@
 	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Dostupni Stream-ovi",
 	"NO_STREAM": "Nema dostupnih stream-ova",
+	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Prikaži sve dodatke &raquo;",
 	"ADDON_CATALOGUE_MORE": "Više dodataka &raquo;",
 	"STILL_IN_THEATER": "Movie still in theater",

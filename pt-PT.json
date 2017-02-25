@@ -60,6 +60,7 @@
 	"ADDON_STREAM_LOCALFILE": "Ficheiro local",
 	"AVAILABLE_STREAMS": "Fontes Disponíveis",
 	"NO_STREAM": "Nenhuma fonte disponível",
+	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Mostrar todos os Add-Ons &raquo;",
 	"ADDON_CATALOGUE_MORE": "Mais Add-ons &raquo;",
 	"STILL_IN_THEATER": "Ainda no cinema",

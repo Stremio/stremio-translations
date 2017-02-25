@@ -60,6 +60,7 @@
 	"ADDON_STREAM_LOCALFILE": "Arquivo Local",
 	"AVAILABLE_STREAMS": "Transmissões Disponíveis",
 	"NO_STREAM": "Nenhuma transmissão disponível",
+	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Mostrar todas as extensões &raquo;",
 	"ADDON_CATALOGUE_MORE": "Mais extensões &raquo;",
 	"STILL_IN_THEATER": "Filme ainda em exibição",

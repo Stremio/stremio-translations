@@ -60,6 +60,7 @@
 	"ADDON_STREAM_LOCALFILE": "Local File",
 	"AVAILABLE_STREAMS": "Beschikbare streams",
 	"NO_STREAM": "Geen streams beschikbaar",
+	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Toon alle add-ons &raquo;",
 	"ADDON_CATALOGUE_MORE": "More add-ons &raquo;",
 	"STILL_IN_THEATER": "Film draait nog in de bioscoop",
