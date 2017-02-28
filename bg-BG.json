@@ -128,7 +128,7 @@
 	"PASSWORDS_NOMATCH": "Паролите се разминават",
 	"SIGN_UP": "Регистрирай се",
 	"LOG_IN": "Вход",
-	"LOG_OUT": "Изход",
+	"LOG_OUT": "Отписване",
 	"GUEST_LOGIN": "Влизане като гост",
 	"GUEST_LOGIN_NOTICE": "Guest Login is not recommended. Using a regular login allows Stremio to sync your Library, receive notifications for favourite series/channels. Are you sure you want to proceed?",
 	"GUEST_LOGIN_NOTICE_2": "Guest Login is not recommended - you won't have synced Library and Board notifications, which are vital Stremio features. Are you sure you want to proceed?",
