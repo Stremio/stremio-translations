@@ -450,5 +450,8 @@
 	"SEARCH_CATEGORIES": "Movies, Series, YouTube & TV",
 	"SEARCH_PERSONS": "Actors, Directors & Writers",
 	"SEARCH_PROTOCOLS": "HTTP & Magnet Links",
-	"SEARCH_TYPES": "IMDB / TVDB links"
+	"SEARCH_TYPES": "IMDB / TVDB links",
+	"WATCHED": "Watched",
+	"SHOW_LESS": "Show less",
+	"LAST_SEARCHES": "Last searches"
 }
