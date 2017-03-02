@@ -453,5 +453,6 @@
 	"SEARCH_TYPES": "IMDB / TVDB links",
 	"WATCHED": "Watched",
 	"SHOW_LESS": "Show less",
-	"LAST_SEARCHES": "Last searches"
+	"LAST_SEARCHES": "Last searches",
+	"CHOOSE_SOME": "CHOOSE SOME OF THIS:"
 }
