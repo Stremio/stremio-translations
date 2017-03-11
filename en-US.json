@@ -8,7 +8,7 @@
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "TV channels",
 	"TYPE_channel_PL": "Channels",
-	
+
 	"EPISODE": "Episode",
 	"VIDEO": "Video",
 
@@ -20,7 +20,7 @@
 	"Board": "Board",
 	"Library": "Library",
 	"Calendar": "Calendar",
-	
+
 	"SEARCH": "search",
 	"SEARCH_NO_RESULTS": "No results were found",
 	"SEARCH_EXPLANATION_CONTENT": "Search for movies, series, YouTube and TV channels",
@@ -46,7 +46,7 @@
 	"SHOW_MORE_CAST": "Show more &raquo;",
 	"AIRED": "Aired",
 	"SEASONS": "Seasons",
-	"GENRE": "Genre", 
+	"GENRE": "Genre",
 	"SUMMARY": "Summary",
 	"SIMILAR": "Similar",
 	"UPCOMING": "Upcoming",
@@ -80,12 +80,12 @@
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "You will get notified once it is available.",
-	
+
 	"WARNING_STREAMING_SERVER": "Warning: local streaming server not found. Streaming from local files, YouTube and BitTorrent will not be available.",
 
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
-	
+
 	"PLAYER_LIVE": "Live",
 
 	"STREAMING_FROM": "streaming from",
@@ -106,7 +106,7 @@
 	"WRONG_SUBS": "Wrong subtitles?",
 
 	"CHOOSE_DEVICE": "Choose a device to watch on",
-	
+
 	"PHONE_TABLET": "Phone / Tablet",
 
 	"SUBTITLES_CHANGE": "Change subtitles for ",
@@ -176,7 +176,7 @@
 	"INTRO_TASTE_LONG": "Tell us about what you'd like to watch",
 	"INTRO_TASTE_PICK": "Pick {{interestsRemaining}} interests",
 	"INTRO_TASTE_PICK_MORE": "Pick {{interestsRemaining}} more interests",
-	
+
 	"ADDON_NOT_SUPPORTED": "Selected addon is not supported on this platform.",
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
@@ -185,7 +185,7 @@
 
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
-    "BUTTON_ACTIVATED": "Activated",
+	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
@@ -268,9 +268,9 @@
 	"Sport": "Sport",
 	"Musical": "Musical",
 	"Western": "Western",
-    "Film-Noir": "Film-Noir",
-    "News": "News",
-    "History": "History",
+	"Film-Noir": "Film-Noir",
+	"News": "News",
+	"History": "History",
 	"Game-Show": "Game-Show",
 	"Reality-TV": "Reality-TV",
 	"Talk-Show": "Talk-Show",
@@ -315,7 +315,7 @@
 	"Italian Tv": "Italian Tv",
 	"Gamer Tv": "Gamer Tv",
 	"Travel": "Travel",
-	"Asian Tv": "Asian Tv", 
+	"Asian Tv": "Asian Tv",
 	"Entertainment": "Entertainment",
 	"News Radio": "News Radio",
 	"Music Radio": "Music Radio",
@@ -332,7 +332,7 @@
 	"offer of the day": "offer of the day",
 	"news": "news",
 	"music video": "music video",
-	
+
 	"CTX_DISMISS_NOTIF": "Dismiss notifications",
 	"CTX_DISMISS_ALL": "Dismiss all",
 	"CTX_SHARE": "Share",
@@ -364,7 +364,7 @@
 	"CTX_PASTE": "Paste",
 	"CTX_CLEAR": "Clear",
 	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches",
-	
+
 	"HELLO_THERE": "Hello There",
 	"HOPE_YOU_ENJOY": "We hope you enjoy Stremio and it's one of your favourite apps already!",
 	"WHO_ARE_WE": "Who are we? We are the team behind it - two guys who work hard every day for the last 3 years to make this product better and better.",
@@ -372,9 +372,9 @@
 	"SPREAD_THE_WORD": "Share with your friends now, spread the word about Stremio",
 	"MORE_PEOPLE": "The more people use Stremio, the better it will get!",
 	"SEND_A_LINK": "Or send a link to our website",
-	
+
 	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
-	
+
 	"ADDON_MY": "My Add-ons",
 	"ADDON_COMMUNITY": "Community Add-ons",
 	"ADDON_OFFICIAL": "Official Add-ons",
@@ -449,11 +449,11 @@
 
 	"WEBSITE_BOARD_1": "Looking for something interesting to watch? Get recommendations based on your taste!",
 	"WEBSITE_BOARD_2": "Get notified when a new episode of your favourite TV show or YouTube channel is out!",
-	
+
 	"WEBSITE_BOARD_YOUTUBE": "New videos of YouTube channels",
 	"WEBSITE_BOARD_EPISODES": "New episodes of series you follow",
 	"WEBSITE_BOARD_RECOMMEND": "Movies picked specially for you",
-	
+
 
 	"WEBSITE_ADDONS": "Content Add-ons",
 
@@ -488,5 +488,39 @@
 	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_QUESTIONS": "Questions",
 	"WEBSITE_TOS": "Terms of use",
-	"WEBSITE_LEGAL": "Legal"
+	"WEBSITE_LEGAL": "Legal",
+
+	"HELP_LEARN_MORE": "Help us learn more about you.",
+	"LIFESTYLE" : "Lifestyle",
+	"SPORTS": "Sports",
+	"FOOD_HEALTH" : "Food & health",
+	"BEAUTY_FASHION" : "Beauty & Fashion",
+	"NEWS" : "News",
+	"GAMING" : "Gaming",
+	"SCIENCE_EDUCATION" : "Science & education",
+	"MUSIC" : "Music",
+	"TRAVEL" : "Travel",
+	"LATE_NIGHT": "Late Night",
+	"REALITY": "Reality",
+	"COMEDY": "Comedy",
+	"DIY" : "How to DIY",
+	"TECH" : "Tech",
+	"CINEMA" : "Cinema",
+	"CONTINUE" : "Continue",
+	"SLOW_LOADING" : "SLOW LOADING?",
+	"I_GIVE_UP" : "I GIVE UP",
+	"LEARN_MORE" : "Learn more",
+	"POOR_SOURCE": "This source is poorly available or your internet connection is not fast enough",
+	"PICK_CATEGORIES_ERR" : "You have to pick at least 3 categories",
+	"ADJUST_TIMING" : "Adjust timing with&nbsp;",
+	"ADJUST_SIZE" : "Adjust size with&nbsp;",
+	"SEARCH_ANYTHING" : "You Can Search Anything...",
+	"SEARCH_CATEGORIES" : "Movies, Series, YouTube & TV",
+	"SEARCH_PERSONS" : "Actors, Directors & Writers",
+	"SEARCH_PROTOCOLS" : "HTTP & Magnet Links",
+	"SEARCH_TYPES" : "IMDB / TVDB links",
+	"WATCHED": "Watched",
+	"SHOW_LESS" : "Show less",
+	"LAST_SEARCHES" : "Last searches",
+	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:"
 }
