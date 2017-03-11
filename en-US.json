@@ -383,6 +383,7 @@
 	"ADDON_UNINSTALL": "Uninstall",
 	"ADDON_INSTALLED": "Installed",
 	"ADDON_APP_MISSING": "the app for this source is not installed. Do you want to install it now?",
+	"ADDON_APP_INSTALL": "Install Now",
 	"ADDON_PAGE": "Add-on Page",
 	"ADDON_TOP_CONTENT": "Best from this Add-on",
 	"ADDON_PROVIDES": "This add-on will give you:",
