@@ -232,7 +232,7 @@
 
 	"QUIT": "Quit",
 
-	"CONNETED": "Connected",
+	"CONNECTED": "Connected",
 	"AUTHENTICATE": "Authenticate",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Caching drive",
