@@ -151,6 +151,7 @@
 	"EMAIL": "E-mail",
 	"FB_LOGIN": "Login with Facebook",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
+	"FB_NOPOST": "We won’t post anything on your behalf",
 	"OR": "or",
 	"I_ACCEPT": "I accept the",
 	"TOS": "Terms and Conditions",
@@ -209,7 +210,7 @@
 	"LIB_EMPTY_PERSONAL": "Personal",
 	"LIB_EMPTY_PERSONAL_DESC": "Get personal recommendations",
 	"LIB_EMPTY_CALENDAR_DESC": "Schedule your personal watching calendar",
-	"LIB_EMPTY_ALL": "Sign up to get all of these",
+	"LIB_EMPTY_ALL": "Sign up to get all of these:",
 	"LIB_EMPTY_BEST": "Sign up to get best of Stremio",
 	"LIB_EMPTY_OTHER": "Sign up to enable Calendar & other cool features",
 
