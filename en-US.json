@@ -390,6 +390,7 @@
 	"ADDON_MY": "My Add-ons",
 	"ADDON_COMMUNITY": "Community Add-ons",
 	"ADDON_OFFICIAL": "Official Add-ons",
+	"ADDON_REPOS": "Add-on repositories",
 	"ADDON_SEARCH": "Search add-ons",
 	"ADDON_INSTALL": "Install",
 	"ADDON_UNINSTALL": "Uninstall",
