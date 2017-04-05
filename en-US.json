@@ -157,6 +157,7 @@
 	"TOS": "Terms and Conditions",
 	"PASSWORDS_NOMATCH": "Passwords don't match",
 	"SIGN_UP": "Sign up",
+	"SIGN_UP_EMAIL": "Sign up with email",
 	"LOG_IN": "Log in",
 	"LOG_OUT": "Log out",
 	"GUEST_LOGIN": "Guest login",
@@ -200,6 +201,7 @@
 	"ADDON_NOT_SUPPORTED": "Selected addon is not supported on this platform.",
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
+	"ADDON_REPO_ADD": "Addon repository url",	
 
 	"WHATS_NEW": "What's new",
 
