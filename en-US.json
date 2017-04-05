@@ -145,6 +145,7 @@
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "New version is available! Upgrade to the latest Stremio version",
 
+	"ANONYMOUS_USER": "Anonymous user",
 	"DONT_HAVE_ACC": "Don't have an account?",
 	"PASSWORD": "Password",
 	"EMAIL": "E-mail",
