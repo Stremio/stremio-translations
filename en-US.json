@@ -174,7 +174,7 @@
 	"IMPORT_FROM_GUEST": "Import Library from your guest account",
 	"RECEIVE_UPDATES_EMAIL": "Receive updates to your email from Stremio",
 	"LOGIN_FAILED": "Login failed.",
-	"EMAIL_USED", "This email is already in use.",
+	"EMAIL_USED": "This email is already in use.",
 
 	"INTRO_TASTE": "Tell us about what you like",
 	"INTRO_TASTE_LONG": "Tell us about what you'd like to watch",
