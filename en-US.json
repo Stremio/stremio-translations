@@ -71,7 +71,6 @@
 	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Show all add-ons &raquo;",
 	"ADDON_CATALOGUE_MORE": "More add-ons &raquo;",
-	"ADDON_INSTALLED": "Addon installed",
 	"REPO_ADDED": "Repository added",
 	"ADDON_REPO_EXIST_ERR": "This addons repository already exist",
 	"ADDON_REPO_ERR": "Error occurred while adding repository",
@@ -500,7 +499,6 @@
 
 	"WEBSITE_BOARD_YOUTUBE": "New videos of YouTube channels",
 	"WEBSITE_BOARD_EPISODES": "New episodes of series you follow",
-	"WEBSITE_BOARD_RECOMMEND": "Movies picked specially for you",
 
 
 	"WEBSITE_ADDONS": "Content Add-ons",
