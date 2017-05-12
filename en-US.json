@@ -241,6 +241,7 @@
 	"LIB_EMPTY_BEST": "Sign up to get best of Stremio",
 	"LIB_EMPTY_OTHER": "Sign up to enable Calendar & other cool features",
 
+	"SETTINGS_LABEL": "Settings",
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
 	"SETTINGS_BINGE": "Auto-play next episode",
