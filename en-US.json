@@ -569,5 +569,7 @@
 	"WATCHED": "Watched",
 	"SHOW_LESS" : "Show less",
 	"LAST_SEARCHES" : "Last searches",
-	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:"
+	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:",
+
+	"NO_WEB_REMOTE": "Web Remote could not be loaded"
 }
