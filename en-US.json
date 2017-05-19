@@ -573,5 +573,6 @@
 	"LAST_SEARCHES" : "Last searches",
 	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:",
 
-	"NO_WEB_REMOTE": "Web Remote could not be loaded"
+	"NO_WEB_REMOTE": "Web Remote could not be loaded",
+	"STREMIO_OFFLINE": "Stremio is offline"
 }
