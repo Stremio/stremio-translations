@@ -160,6 +160,7 @@
 	"FB_NOPOST": "We won’t post anything on your behalf",
 	"OR": "or",
 	"I_ACCEPT": "I accept the",
+	"I_ACCEPT_BY_CLICKING": "By clicking the above button I testify that I accept the ",
 	"TOS": "Terms and Conditions",
 	"PASSWORDS_NOMATCH": "Passwords don't match",
 	"SIGN_UP": "Sign up",
