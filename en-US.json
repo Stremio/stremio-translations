@@ -269,6 +269,7 @@
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Caching drive",
 	"DATA_CACHING": "Data Caching",
+	"MAGNET_PARSING": "Parsing a magnet link",
 
 	"January": "January",
 	"February": "February",
