@@ -89,6 +89,8 @@
 
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
+	"PLAYER_ORIENTATION_LANDSCAPED": "Player orientation locked at landscape",
+	"PLAYER_ORIENTATION_SENSOR": "Player orientation automatic (sensor)",
 
 	"PLAYER_LIVE": "Live",
 
