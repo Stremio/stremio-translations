@@ -589,6 +589,7 @@
 	"WEBSITE_WHY_P3":"You can use our service on any device and at any time, making Stremio the only video entertainment hub you’ll ever need.",
 	"WEBSITE_TEAM": "TEAM",
 	"WEBSITE_TEAM_P": "The Stremio team is small but powerful: between the ten of us, we code in X languages, and share expertise in software development, UI and UX design, marketing and advertising, and business and startups.",
+	
 	"WEBSITE_FEATURES": "Features",
 	"WEBSITE_FEATURES_P1": "!!! TODO !!!",
 	"WEBSITE_FEATURES_DISCOVER": "Discover new content with ease",
@@ -604,6 +605,7 @@
 	"WEBSITE_FEATURES_SOURCES": "Watch video from many different sources",
 	"WEBSITE_FEATURES_SOURCES_P": "Install official and community add-ons to enjoy video sourced from many different providers - all in one sleek, easy to use app.",
 	"WEBSITE_CREATE_AN_ADDON": "Create an add-on",
+	
 	"WEBSITE_ADD_ONS":"Add-ons",
 	"WEBSITE_ADD_ONS_P1":"All of the video content Stremio provides get sourced through an add-on system - no content or content provider has been built into the app.",
 	"WEBSITE_ADD_ONS_P2":"There are two groups of add-ons available: official and community add-ons.",
@@ -621,6 +623,14 @@
 	"WEBSITE_ADDONS_CREATE":"Create an add-on",
 	"WEBSITE_ADDONS_CREATE_P1":"If you wish, you can develop your own add-on. This way, you can give yourself and our community access to new video content, and reach a new, targeted audience of millions of users around the world.",
 	"WEBSITE_ADDONS_START_CREATE":"To get started, visit the Stremio add-on GitHub:",
+
+	"WEBSITE_DOWNLOADS":"Downloads",
+	"WEBSITE_DOWNLOADS_P1":"For optimal performance, we recommend that you use the latest available version of the Stremio apps. If for some reason, however, you would like to use an older version, you can download it here.",
+	"WEBSITE_DOWNLOADS_FOR_WIN":"Stremio for Windows",
+	"WEBSITE_DOWNLOADS_FOR_MAC":"Stremio for macOS",
+	"WEBSITE_DOWNLOADS_FOR_LINUX":"Stremio for Lnux",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID":"Stremio for Android",
+	"WEBSITE_DOWNLOADS_FOR_IOS":"Stremio for iOS",
 
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE" : "Lifestyle",
