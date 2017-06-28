@@ -591,7 +591,7 @@
 	"WEBSITE_TEAM_P": "The Stremio team is small but powerful: between the ten of us, we code in X languages, and share expertise in software development, UI and UX design, marketing and advertising, and business and startups.",
 	
 	"WEBSITE_FEATURES": "Features",
-	"WEBSITE_FEATURES_P1": "!!! TODO !!!",
+	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Discover new content with ease",
 	"WEBSITE_FEATURES_DISCOVER_P": "Easily discover new movies, TV shows, series and channels to watch. Browse by category, genre, rating, recency, etc. or simply type a name to find. Stremio makes finding new video content a piece of cake.",
 	"WEBSITE_FEATURES_ALL_CONTENT": "All of your video content on one screen",
@@ -648,7 +648,7 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Are you eager to get started?",
 	"WEBSITE_TRANSALTE_STREMIO": "Translate Stremio",
 
-	"WEBSITE_COMMUNITY_P1": "!!!TODO!!!",
+	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Official communities",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Become a part of the growing Stremio community. Follow us on social media and don’t be shy to say hello - we love hearing from our fans! ",
 	"WEBSITE_COMMUNITY_UNOFFICIALS": "Unofficial",
@@ -701,6 +701,8 @@
 
 	"WEBSITE_404_OH_NO": "Uh-oh! The page you’re looking for is not here...",
 	"WEBSITE_GO_HOME": "Go home",
+	"WEBSITE_LINK_OTHER_DOWNLOADS": "Other downloads",
+	"WEBSITE_FAQ_ABR": "FAQ",
 	
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE" : "Lifestyle",
