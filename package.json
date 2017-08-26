@@ -1,6 +1,6 @@
 {
   "name": "stremio-translations",
-  "version": "1.40.15",
+  "version": "1.40.16",
   "description": "Translation strings used for Stremio app",
   "main": "index.js",
   "scripts": {
