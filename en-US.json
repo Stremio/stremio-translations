@@ -42,6 +42,7 @@
 	"WRITER": "Writer",
 	"LEAD_ACTORS": "Lead Actors",
 	"CAST": "Cast",
+	"CREW": "Crew",
 	"SHOW_MORE_CAST": "Show more &raquo;",
 	"AIRED": "Aired",
 	"SEASONS": "Seasons",
@@ -115,6 +116,7 @@
 
 	"PHONE_TABLET": "Phone / Tablet",
 
+    "SUBTITLES": "Subtitles",
 	"SUBTITLES_CHANGE": "Change subtitles for ",
 	"SUBTITLES_CHANGE_NONE": "There are no other subtitles for this language, sorry.",
 	"SUBTITLES_CHANGE_ACIVE": "Currently subtitles &#35;{{subtitlesDialog.activeIdx + 1}} are activated. Click \"Continue\" to activate subtitles &#35;{{subtitlesDialog.pickedIdx + 1}}.",
@@ -223,6 +225,7 @@
 	"BUTTON_ACTIVATE": "Activate",
 	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
+	"BUTTON_DISMISS_ALL": "Dismiss All",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
@@ -248,6 +251,9 @@
 	"LIB_EMPTY_ALL": "Sign up to get all of these:",
 	"LIB_EMPTY_BEST": "Sign up to get best of Stremio",
 	"LIB_EMPTY_OTHER": "Sign up to enable Calendar & other cool features",
+
+	"CALENDAR_ADDED": "The Stremio calendar has been added to your default desktop calendar.",
+	"CALENDAR_ADDED_MSG": "If this does not work, please add this URL to your calendar application manually",
 
 	"SETTINGS_LABEL": "Settings",
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
@@ -743,5 +749,32 @@
 	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:",
 
 	"NO_WEB_REMOTE": "Web Remote could not be loaded",
-	"STREMIO_OFFLINE": "Stremio is offline"
+	"STREMIO_OFFLINE": "Stremio is offline",
+
+	"MORE_INFO": "More Info ...",
+
+	"STREMIO_TV_STREMIO": "Stremio",
+	"STREMIO_TV_LOADING": "Loading ...",
+	"STREMIO_TV_BACK_TO_LANGUAGES": "Back to languages",
+	"STREMIO_TV_REMOTE": "Remote",
+	"STREMIO_TV_GO_TO": "Go to:",
+	"STREMIO_TV_OR_SCAN": "or scan:",
+	"STREMIO_TV_ADDON_INSTRUCTIONS": "Please follow the instructions in order to install your preferred add-ons.",
+	"STREMIO_TV_LIVE_TV": "Live TV",
+	"STREMIO_TV_RESUME_WATCHING": "Resume Watching",
+	"STREMIO_TV_LOADING_BACKGROUND": "Loading Background",
+	"STREMIO_TV_CHECKING_AUTHENTICATION": "Checking Authentication",
+	"STREMIO_TV_LOADING_BOARD": "Loading Board",
+	"STREMIO_TV_LOGIN_HEADER_LINE_1": "We want our users to have the best possible personalized experience with our software.",
+	"STREMIO_TV_LOGIN_HEADER_LINE_2": "It is for this reason that we kindly ask you to make and/or login to your account.",
+	"STREMIO_TV_LOGIN_FOOTER_LINE_1": "Thank you for understanding,",
+	"STREMIO_TV_LOGIN_FOOTER_LINE_2": "The Stremio Team",
+	"STREMIO_TV_REMOTE_INSTRUCTIONS": "In order to use the Web Remote with your Smartphone / Tablet / Desktop:",
+	"STREMIO_TV_WIFI_SETUP": "Wi-Fi Setup",
+	"STREMIO_TV_WIFI_HEADER_LINE_1": "Stremio Circle did not detect a internet connection.",
+	"STREMIO_TV_WIFI_DETAILS_1": "Connect to:",
+	"STREMIO_TV_WIFI_DETAILS_2": "stremio-circle",
+	"STREMIO_TV_WIFI_DETAILS_3": "Use password:",
+	"STREMIO_TV_WIFI_DETAILS_4": "stremiocircle",
+	"STREMIO_TV_WIFI_DETAILS_5": "Open a web browser with the link:"
 }
