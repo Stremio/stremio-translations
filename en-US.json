@@ -225,6 +225,7 @@
 	"BUTTON_ACTIVATE": "Activate",
 	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
+	"BUTTON_DISMISS_ALL": "Dismiss All",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
