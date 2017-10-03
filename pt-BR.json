@@ -161,6 +161,7 @@
 	"LOGIN_FAILED": "Login falhou.",
 	"SIGNUP_FAILED": "Cadastro falhou.",
 	"EMAIL_USED": "Este email já está em uso.",
+	"WAITING_FB_LOGIN": "Logging in with Facebook...",
 	"INTRO_TASTE": "Conte-nos do que gosta",
 	"INTRO_TASTE_LONG": "Conte-nos sobre o que gosta de ver",
 	"INTRO_TASTE_PICK": "Escolha {{interestsRemaining}} interesses",
