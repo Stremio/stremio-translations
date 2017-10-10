@@ -189,6 +189,7 @@
 	"ADDON_DISCLAIMER": "Utiliser des extensions tierces sera toujours sujet à votre responsabilité ainsi qu'aux lois et juridictions de votre lieu de résidence.",
 	"ADDON_ACTIVATE": "Activer cette extension?",
 	"ADDON_REPO_ADD": "Addon repository url",
+	"ADDON_ADD": "Add",
 	"WHATS_NEW": "Nouveautés",
 	"BUTTON_CONTINUE": "Continuer",
 	"BUTTON_ACTIVATE": "Activer",

@@ -189,6 +189,7 @@
 	"ADDON_DISCLAIMER": "Harmadik féltől származó bővítmények használata mindig a felhasználó felelőssége, a felhasználó tartózkodási területén életben lévő törvényeket tiszteletben tartva.",
 	"ADDON_ACTIVATE": "Bekapcsolod ezt a bővítményt?",
 	"ADDON_REPO_ADD": "Addon repository url",
+	"ADDON_ADD": "Add",
 	"WHATS_NEW": "Újdonságok",
 	"BUTTON_CONTINUE": "Folytatás",
 	"BUTTON_ACTIVATE": "Bekapcsolás",

@@ -189,6 +189,7 @@
 	"ADDON_DISCLAIMER": "Användandet av tredjeparts-tillägg kommer alltid att vara ditt eget ansvar och faller under lagstiftningen i det område du befinner dig i.",
 	"ADDON_ACTIVATE": "Aktivera detta tillägg?",
 	"ADDON_REPO_ADD": "Addon repository url",
+	"ADDON_ADD": "Add",
 	"WHATS_NEW": "Nyheter",
 	"BUTTON_CONTINUE": "Fortsätt",
 	"BUTTON_ACTIVATE": "Aktivera",

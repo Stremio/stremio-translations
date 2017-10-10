@@ -189,6 +189,7 @@
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
 	"ADDON_REPO_ADD": "Addon repository url",
+	"ADDON_ADD": "Add",
 	"WHATS_NEW": "What's new",
 	"BUTTON_CONTINUE": "Continue",
 	"BUTTON_ACTIVATE": "Activate",
