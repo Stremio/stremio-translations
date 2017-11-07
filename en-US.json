@@ -752,6 +752,7 @@
 
 	"NO_WEB_REMOTE": "Web Remote could not be loaded",
 	"STREMIO_OFFLINE": "Stremio is offline",
+	"STREMIO_EXPENSIVE_CONNECTION": "Network connection is expensive",
 
 	"MORE_INFO": "More Info ...",
 
