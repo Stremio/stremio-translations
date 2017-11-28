@@ -562,7 +562,7 @@
 	"WEBSITE_ADDONS_NETFLIX": "Assista filmes e web séries Netflix ",
 	"WEBSITE_ADDONS_CREATE": "Crie uma extensão.",
 	"WEBSITE_ADDONS_CREATE_P1": "Se desejar, você pode desenvolver sua própria extensão. Desta forma, você pode proporcianar a você e a nossa comunidade acesso a novos conteúdos de vídeo, e alcançar um novo público-alvo de milhões de usuários em todo o mundo.",
-	"WEBSITE_ADDONS_START_CREATE": "Para começar, visite o Stremio extensões (add-on) no GitHub",
+	"WEBSITE_ADDONS_START_CREATE": "To get started, visit the Stremio Add-on SDK page:",
 	"WEBSITE_DOWNLOADS": "Baixe",
 	"WEBSITE_DOWNLOADS_P1": "Para um desempenho ideal, recomendamos que você use a versão mais recente disponível das aplicações Stremio. Se por algum motivo, no entanto, você gostaria de usar uma versão mais antiga, você pode baixá-la aqui.",
 	"WEBSITE_DOWNLOADS_FOR_WIN": "Stremio para Windows",
