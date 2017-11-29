@@ -3,29 +3,23 @@
 	"TYPE_series": "Dizi",
 	"TYPE_tv": "TV kanalı",
 	"TYPE_channel": "Kanal",
-	
 	"TYPE_movie_PL": "Filmler",
 	"TYPE_series_PL": "Diziler",
 	"TYPE_tv_PL": "TV kanalları",
 	"TYPE_channel_PL": "Kanallar",
-	
 	"VIDEO": "Video",
-	
 	"BACK": "Geri",
 	"MORE": "Daha Fazla",
 	"DONE": "Tamamlandı",
-	
 	"Discover": "Keşfet",
 	"Board": "Pano",
 	"Library": "Kütüphane",
 	"Calendar": "Takvim",
-	
 	"SEARCH": "arama:",
 	"SEARCH_NO_RESULTS": "Sonuç bulunamadı",
 	"SEARCH_EXPLANATION_CONTENT": "Filmler, diziler, YouTube ve TV kanalları için ara",
-	"SEARCH_EXPLANATION_PEOPLE": "Aktörler, yönetmenler, senaritler için ara",
+	"SEARCH_EXPLANATION_PEOPLE": "Aktörler, yönetmenler, yazarlar için ara",
 	"SEARCH_PASTE_LINKS": "HTTP ya da magnet bağlantısını yapıştır",
-	
 	"ADD_TO_LIB": "Kütüphaneye Ekle",
 	"REMOVE_FROM_LIB": "Kütüphaneden Kaldır",
 	"ADDED_TO_LIB": "Kütüphaneye Eklendi",
@@ -35,7 +29,6 @@
 	"WATCH_NOW": "Şimdi İzle",
 	"SHOW": "Göster",
 	"WATCH_RANDOM": "Restgele İzle",
-	
 	"IMDB_RATING": "IMDb Puanı",
 	"YEAR": "Yıl",
 	"DIRECTOR": "Yönetmen",
@@ -53,9 +46,7 @@
 	"ENDED": "Biten",
 	"DURATION": "Süre",
 	"FEATURED": "Öne çıkanlar",
-	
 	"SEARCH_VIDEOS": "video ara",
-	
 	"ADDON": "eklenti",
 	"ADDONS": "Eklentiler",
 	"OFFICIAL": "resmi",
@@ -76,7 +67,6 @@
 	"ADDON_REPO_EXIST_ERR": "Bu eklenti deposu zaten var",
 	"ADDON_REPO_ERR": "Depo eklenirken hata oluştu",
 	"ADDON_ADD_ERR": "Eklenti eklenirken hata oluştu",
-	
 	"STILL_IN_THEATER": "Film hala gösterimde",
 	"WATCH_IN_CINEMA": "Yakındaki bir sinemada izleyin",
 	"IN_THEATER": "Sinemada",
@@ -84,17 +74,13 @@
 	"CHANNEL_NOT_SCRAPED": "Bu kanal henüz uygun değil.<br>Lütfen birkaç dakika içinde tekrar deneyin.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Uygun olduğunda bildirilmesi için kütüphaneye ekleyin.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Uygun olduğunda bildirim alacaksınız.",
-	
 	"WARNING_STREAMING_SERVER": "Uyarı: yerel akış sunucusu bulunamadı. YouTube ve BitTorrent'den akış gerçekleşmeyecek.",
 	"DECODER_WARNING": "Uyarı: Bu video donanımınız tarafından desteklenmiyor olabilir. Oynatma işlemi yavaş olabilir, unutmayın.",
-	
 	"PLAYER_ERROR": "Hay aksi, Oynatıcı Hatası",
 	"PLAYER_ERROR_LOOKSLIKE": "Benziyor",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Oynatıcı yönü yatay olarak kilitli",
 	"PLAYER_ORIENTATION_SENSOR": "Oynatıcı yönü otomatik (sensör)",
-	
 	"PLAYER_LIVE": "Canlı",
-	
 	"STREAMING_FROM": "şuradan yayınlanıyor",
 	"CASTING_TO": "Döküm",
 	"NETWORK_STATUS": "Bağlantı durumu",
@@ -105,18 +91,13 @@
 	"PEERS_CONNECTED": "Bağlandı:",
 	"PEERS_WAITING": "Bekleniyor:",
 	"TRANSCODING_WARNING": "Uyarı: video kod dönüştürme.",
-	
 	"STREAM_LOADING": "yükleniyor...",
 	"PLAYING_LOCAL": "yerel dosyadan oynatılıyor",
 	"PLAYING_CACHE": "önbellekten oynatılıyor",
-	
 	"WRONG_SUBS": "Altyazı yanlış mı?",
-	
 	"CHOOSE_DEVICE": "İzlemek için bir cihaz seçin",
-	
 	"PHONE_TABLET": "Telefon / Tablet",
-	
-   "SUBTITLES": "Altyazılar",
+        "SUBTITLES": "Altyazılar",
 	"SUBTITLES_CHANGE": "Altyazıyı şunun için değiştir: ",
 	"SUBTITLES_CHANGE_NONE": "Bu dil için başka altyazı yok, üzgünüm.",
 	"SUBTITLES_CHANGE_ACIVE": "Şu anda &#35;{{subtitlesDialog.activeIdx + 1}} altyazı etkinleştirildi. Altyazıları &#35;{{subtitlesDialog.pickedIdx + 1}} etkileştirmek için \"Devam\" düğmesine tıklayın.",	
@@ -126,35 +107,26 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "İPUCU: <span>G</span> / <span>H</span> tuşlarını kullanarak oynatırken ayarlayabilirsiniz.",
 	"SUBTITLES_DELAY": "Altyazı gecikmesi:",
 	"SUBTITLES_LOADING": "Altyazılar yükleniyor...",
-	
 	"SEASON": "Sezon",
 	"EPISODE": "Bölüm",
-	
 	"SORT_TRENDING": "popüler",
 	"SORT_RECENT": "en son",
 	"SORT_ALPHABET": "a-z",
 	"SORT_RATING": "puan",
 	"SORT_WATCHED": "izlendi",
 	"SORT_YEAR": "yıl",
-	
 	"New for You": "Senin için yeni",
 	"New Episodes": "Yeni Bölümler",
 	"New Videos": "Yeni Videolar",
 	"Recommendations": "Önerilenler",
-	
 	"LIBRARY_RESUME": "Devam et",
 	"LIBRARY_RESUME_DISMISS": "Bırak",
-	
 	"DISCOVER_FEATURED": "Seçilenler",
-	
 	"DISCOVER_TOP": "En iyiler",
-	"DISCOVER_OSCAR": "Oscar Kazananlar",
-	
+	"DISCOVER_OSCAR": "Oskar Kazananlar",
 	"DISCOVER_NOADDON_WARNING": "Uyarı: Böyle bir aktif Stremio eklentisi yoktur. Kaydedilen ögeler gösteriliyor, güncellenmeyecek.",
-	
 	"RELAUNCH": "Şimdi yeniden başlat!",
 	"UPGRADE": "Yeni sürüm mevcut! Güncel Stremio sürümüne yükseltin.",
-	
 	"ANONYMOUS_USER": "Anonim kullanıcı",
 	"DONT_HAVE_ACC": "Bir hesabın yok mu?",
 	"PASSWORD": "Şifre",
@@ -189,8 +161,7 @@
 	"LOGIN_FAILED": "Giriş başarısız.",
 	"SIGNUP_FAILED": "Kayıt başarısız.",
 	"EMAIL_USED": "Bu e-posta zaten kullanılıyor.",
-	"WAITING_FB_LOGIN": "Facebook ile oturum aç...",
-	
+	"WAITING_FB_LOGIN": "Facebook ile oturum aç...",	
 	"INTRO_TASTE": "Bize nelerden hoşlandığınızı söyleyin",
 	"INTRO_TASTE_LONG": "Neleri izlemek istediğiniz hakkında bize bilgi verin",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} ilgi alanlarınızı seçin",
@@ -214,21 +185,17 @@
 	"INTRO_TASTE_DIY": "Nasıl Yapılır",
 	"INTRO_TASTE_TECH": "Teknoloji",
 	"INTRO_TASTE_CINEMA": "Sinema",
-	
 	"ADDON_NOT_SUPPORTED": "Seçilen eklenti bu platformda desteklenmiyor.",
 	"ADDON_DISCLAIMER": "Üçüncü taraf eklentilerini kullanmak sizin sorumluluğunuza ve bulunduğunuz ülkenin yürürlükteki yasalarına tabidir.",
 	"ADDON_ACTIVATE": "Bu eklenti aktifleştirilsin mi?",
 	"ADDON_REPO_ADD": "Eklenti depo URL'si",
 	"ADDON_ADD": "Ekle",
-	
 	"WHATS_NEW": "Yeni neler var",
-	
 	"BUTTON_CONTINUE": "Devam",
 	"BUTTON_ACTIVATE": "Etkin",
 	"BUTTON_ACTIVATED": "Etkinleştirildi",
 	"BUTTON_CANCEL": "İptal",
 	"BUTTON_DISMISS_ALL": "Hepsini Reddet",
-	
 	"LIB_EMPTY": "Kütüphaneniz boş görünüyor. Ne kadar yararlı öğrenin :) ",
 	"HOW_START": "Nasıl başlayabileceğinizle ilgili bilgiler burada:",
 	"LIB_EMPTY_CAL": "Takviminiz kütüphanenizdeki sezonları gösterir.",
@@ -253,10 +220,8 @@
 	"LIB_EMPTY_ALL": "Bunların hepsini almak için üye olunuz:",
 	"LIB_EMPTY_BEST": "Stremio'dan en iyi şekilde yararlanmak için üye ol",
 	"LIB_EMPTY_OTHER": "Takvim ve diğer harika özellikleri etkinleştirmek için üye olun",
-	
 	"CALENDAR_ADDED": "Stremio takvimi varsayılan masaüstü takviminize eklendi.",
 	"CALENDAR_ADDED_MSG": "Bu işe yaramazsa, lütfen bu URL'yi takvim uygulamanıza elle ekleyin",
-	
 	"SETTINGS_LABEL": "Ayarlar",
 	"SETTINGS_LAUNCH_STARTUP": "Başlangıçta çalıştır",
 	"SETTINGS_VLC_DEFAULT": "VLC ile oynat",
@@ -275,16 +240,13 @@
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv oturumunu kapat",
 	"SETTINGS_SCAN_FOR_REMOTE": "Uzaktan kumandayı açmak için QR kodunu tara",
-	
 	"QUIT": "Çıkış",
-	
 	"CONNECTED": "Bağlandı",
 	"AUTHENTICATE": "Kimlik doğrulaması",
 	"CACHING": "Önbelleğe alma",
 	"SETTINGS_CACHING_DRIVE": "Önbellek sürücüsünü seçin",
 	"DATA_CACHING": "Veri Önbelleği",
 	"MAGNET_PARSING": "Magnet bağlantısını ayrıştırma",
-	
 	"January": "Ocak",
 	"February": "Şubat",
 	"March": "Mart",
@@ -297,7 +259,6 @@
 	"October": "Ekim",
 	"November": "Kasım",
 	"December": "Aralık",
-	
 	"Monday": "Pazartesi",
 	"Tuesday": "Salı",
 	"Wednesday": "Çarşamba",
@@ -305,7 +266,6 @@
 	"Friday": "Cuma",
 	"Saturday": "Cumartesi",
 	"Sunday": "Pazar",
-	
 	"Action": "Aksiyon",
 	"Comedy": "Komedi",
 	"War": "Savaş",
@@ -420,7 +380,6 @@
 	"CTX_PASTE": "Yapıştır",
 	"CTX_CLEAR": "Temizle",
 	"CTX_CLEAR_RECENT_SEARCHES": "Son arananları temizle",
-	
 	"HELLO_THERE": "Merhaba",
 	"HOPE_YOU_ENJOY": "Stremio'dan keyif aldığınızı ya da en favori uygulamalarınızdan biri olduğunu umuyoruz!",
 	"WHO_ARE_WE": "Biz kimiz? Biz bunun arkasındaki takımız - son 3 yıldır bu ürünü daha iyi, daha iyi yapmak için her gün çalışan iki adam.",
@@ -428,9 +387,7 @@
 	"SPREAD_THE_WORD": "Arkadaşınızla paylaşın, Stremio'yu duyurun",
 	"MORE_PEOPLE": "Stremio'yu ne kadar çok kişi kullanırsa, o kadar iyi olacaktır!",
 	"SEND_A_LINK": "Veya bizim sitemize bir bağlantı gönderin",
-	
 	"TIP_LOCALFILES": "İpucu: yerel video dosyalarınızı Stremio'ya sürükleyip bırakabilirsiniz",
-	
 	"ADDON_MY": "Eklentilerim",
 	"ADDON_COMMUNITY": "Topluluk Eklentileri",
 	"ADDON_OFFICIAL": "Resmi Eklentiler",
