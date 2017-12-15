@@ -581,7 +581,7 @@
 	"WEBSITE_LINK_BLOG": "Blog",
 	"WEBSITE_MORE_MORE": "... & More",
 	"WEBSITE_LINK_HELP": "Help center",
-	"WEBSITE_LINK_CONTACTS": "Contacts us",
+	"WEBSITE_LINK_CONTACTS": "Business inquiries",
 	"WEBSITE_LINK_TOS": "Terms & conditions",
 	"WEBSITE_LINK_PRAVACY": "Privacy policy",
 	"WEBSITE_SUBSCRIBE": "Sibscribe",
@@ -714,6 +714,7 @@
 	"WEBSITE_SUPPORT": "Support",
 	"WEBSITE_DOWNLOAD_4_0_BETA": "Download Now Stremio 4 beta",
 	"WEBSITE_GET_FOR_DESKTOP": "Get for desktop",
+	"WEBSITE_LINK_ADDON_SDK": "Addon SDK",
 	
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE" : "Lifestyle",
