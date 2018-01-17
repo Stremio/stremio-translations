@@ -240,6 +240,7 @@
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Salir de Trakt.tv",
 	"SETTINGS_SCAN_FOR_REMOTE": "Escanear código QR para abrir el control remoto",
+	"SETTINGS_DESKTOP_NOTIFICATIONS": "Notificaciones de escritorio",
 	"QUIT": "Salir",
 	"CONNECTED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
