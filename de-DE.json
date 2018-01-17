@@ -240,6 +240,7 @@
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Von Trakt.tv abmelden",
 	"SETTINGS_SCAN_FOR_REMOTE": "QR-Code zum Öffnen der Fernbedienung scannen",
+	"SETTINGS_DESKTOP_NOTIFICATIONS": "Desktop notifications",
 	"QUIT": "Beenden",
 	"CONNECTED": "Verbunden",
 	"AUTHENTICATE": "Authentifizieren",

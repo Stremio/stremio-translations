@@ -240,6 +240,7 @@
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Logg ut av Trakt.tv",
 	"SETTINGS_SCAN_FOR_REMOTE": "Scan QR koden for å åpne eksternt",
+	"SETTINGS_DESKTOP_NOTIFICATIONS": "Desktop notifications",
 	"QUIT": "Avslutt",
 	"CONNECTED": "Connected",
 	"AUTHENTICATE": "Verifiser",
