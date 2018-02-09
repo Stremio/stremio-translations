@@ -401,6 +401,7 @@
 	"ADDON_INSTALLED_MSG": "Eklenti yüklendi!",
 	"ADDON_UNKNOWN": "Bilinmeyen",
 	"ADDON_ERR": "Eklenti yükleme hatası!",
+	"ADDON_DISCONNECTED": "Disconnected",
 	"ADDON_APP_MISSING": "bu kaynak için uygulama yüklü değil. Şimdi yüklemek istiyor musunuz?",
 	"ADDON_APP_INSTALL": "Şimdi Yükle",
 	"ADDON_PAGE": "Eklenti Sayfası",

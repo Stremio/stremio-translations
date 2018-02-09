@@ -401,6 +401,7 @@
 	"ADDON_INSTALLED_MSG": "Add-on instalado!",
 	"ADDON_UNKNOWN": "Desconhecido",
 	"ADDON_ERR": "Erro ao instalar Add-on!",
+	"ADDON_DISCONNECTED": "Disconnected",
 	"ADDON_APP_MISSING": "a aplicação para suportar esta fonte não está instalada. Deseja instalar agora?",
 	"ADDON_APP_INSTALL": "Instalar agora",
 	"ADDON_PAGE": "Página de Extensões",

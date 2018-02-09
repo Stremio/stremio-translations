@@ -401,6 +401,7 @@
 	"ADDON_INSTALLED_MSG": "¡Complemento instalado!",
 	"ADDON_UNKNOWN": "Desconocido",
 	"ADDON_ERR": "¡Error instalando complemento!",
+	"ADDON_DISCONNECTED": "Disconnected",
 	"ADDON_APP_MISSING": "la aplicación para este recurso no esta instalada. ¿Quieres instalarla ahora?",
 	"ADDON_APP_INSTALL": "Instalar ahora",
 	"ADDON_PAGE": "Página del complemento",

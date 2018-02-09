@@ -446,6 +446,7 @@
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UNKNOWN": "Unknown",
 	"ADDON_ERR": "Add-on install error!",
+	"ADDON_DISCONNECTED": "Disconnected",
 	"ADDON_APP_MISSING": "the app for this source is not installed. Do you want to install it now?",
 	"ADDON_APP_INSTALL": "Install Now",
 	"ADDON_PAGE": "Add-on Page",
