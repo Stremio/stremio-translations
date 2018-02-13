@@ -158,6 +158,7 @@
 
 	"ANONYMOUS_USER": "Anonymous user",
 	"DONT_HAVE_ACC": "Don't have an account?",
+	"HAVE_ACC": "Already have an account?",
 	"PASSWORD": "Password",
 	"EMAIL": "E-mail",
 	"FB_LOGIN": "Login with Facebook",
