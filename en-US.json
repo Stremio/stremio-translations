@@ -160,6 +160,7 @@
 	"DONT_HAVE_ACC": "Don't have an account?",
 	"HAVE_ACC": "Already have an account?",
 	"PASSWORD": "Password",
+	"PASSWORD_CONFIRM": "Confirm password",
 	"EMAIL": "E-mail",
 	"FB_LOGIN": "Login with Facebook",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
