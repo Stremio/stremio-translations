@@ -283,7 +283,9 @@
 	"SETTINGS_SCAN_FOR_REMOTE": "Scan QR code to open remote",
 	"SETTINGS_DESKTOP_NOTIFICATIONS": "Desktop notifications",
 	"SETTINGS_DATA_SAVER": "Data saver",
-
+	"SETTINGS_LANGUAGE_INTERFACE": "interface",
+	"SETTINGS_LANGUAGE_SUBS": "default subtitles",
+	
 	"QUIT": "Quit",
 
 	"CONNECTED": "Connected",
