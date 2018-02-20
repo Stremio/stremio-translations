@@ -250,6 +250,8 @@
 	"SETTINGS_DATA_SAVER": "Data saver",
 	"SETTINGS_LANGUAGE_INTERFACE": "interface",
 	"SETTINGS_LANGUAGE_SUBS": "default subtitles",
+	"SETTINGS_ACCOUNT": "account",
+	"SETTINGS_VERSION": "version",
 	"QUIT": "Beenden",
 	"CONNECTED": "Verbunden",
 	"AUTHENTICATE": "Authentifizieren",
