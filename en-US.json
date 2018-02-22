@@ -196,6 +196,7 @@
 	"RECEIVE_UPDATES_EMAIL": "Receive updates to your email from Stremio",
 	"LOGIN_FAILED": "Login failed.",
 	"SIGNUP_FAILED": "Signup failed.",
+	"SEARCH_FAILED": "Search failed",
 	"EMAIL_USED": "This email is already in use.",
 	"WAITING_FB_LOGIN": "Logging in with Facebook...",
 
