@@ -118,6 +118,8 @@
 	"PLAYING_CACHE": "playing from cache",
 
 	"WRONG_SUBS": "Wrong subtitles?",
+	"ERR_SUBS_LOADING_TITLE": "Error loading subtitles",
+	"ERR_SUBS_LOADING": "Failed loading subtitles: this could be an issue with the add-on you are using, or with your network connection", 
 
 	"CHOOSE_DEVICE": "Choose a device to watch on",
 
