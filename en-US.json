@@ -139,6 +139,8 @@
 	"SEASON": "Season",
 	"EPISODE": "Episode",
 
+	"SORT": "sort",
+	"FILTER": "filter",
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "recent",
 	"SORT_ALPHABET": "a-z",
