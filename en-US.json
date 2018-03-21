@@ -183,6 +183,7 @@
 	"PASSWORDS_NOMATCH": "Passwords don't match",
 	"SIGN_UP": "Sign up",
 	"SIGN_UP_EMAIL": "Sign up with email",
+	"CLICK_TO_SIGN_UP": "Click here to sign up.",
 	"LOG_IN": "Log in",
 	"LOG_OUT": "Log out",
 	"GUEST_LOGIN": "Guest login",
@@ -487,6 +488,7 @@
 	"ERR_NO_TORRENT": "No torrent returned",
 	"ERR_NO_SUPPORTERD_FILES": "No supported files found",
 	"ERR_INVALID_LINK": "Invalid link",
+	"ERR_REGISTERED_ONLY": "This option is available for registred users only.",
 
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
