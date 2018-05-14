@@ -13,7 +13,7 @@
 
 	"BACK": "Voltar",
 	"MORE": "Mais",
-	"DONE": "Feito",
+	"DONE": "Concluído",
 
 	"Discover": "Descubra",
 	"Board": "Painel",
@@ -54,7 +54,7 @@
 	"ENDED": "Finalizados",
 	"DURATION": "Duração",
 	"FEATURED": "Destaque",
-	"METADATA": "Metadata",
+	"METADATA": "Dados de Descrição",
 	"CATEGORY": "categoria",
 	
 	"SEARCH_VIDEOS": "pesquisar vídeos",
@@ -176,7 +176,7 @@
 	"EMAIL": "E-mail",
 	"FB_LOGIN": "Conectar-se via Facebook",
 	"FB_NOTHINGSHARED": "Nada é compartilhado sem sua permissão",
-	"FB_NOPOST": "Não iremos postar nada na sua cronologia",
+	"FB_NOPOST": "Não iremos postar nada na sua linha do tempo",
 	"OR": "ou",
 	"I_ACCEPT": "Eu aceito os",
 	"I_ACCEPT_BY_CLICKING": "Ao clicar no botão acima, concordo que aceito o ",
@@ -188,7 +188,7 @@
 	"CLICK_TO_SIGN_UP": "Clique aqui para se registrar",
 	"LOG_IN": "Conectar",
 	"LOG_OUT": "Desconectar",
-	"GUEST_LOGIN": "Login de convidado",
+	"GUEST_LOGIN": "Logar como convidado",
 	"GUEST_LOGIN_NOTICE": "Entrar como convidado não é recomendado. Usar um conta padrão permite que o Stremio sincronize sua Biblioteca, receba notificações de séries/canais. Você tem certeza que deseja prosseguir ?",
 	"GUEST_LOGIN_NOTICE_2": "Entrar como convidado não é recomendado. Você não terá uma Biblioteca sincronizada e um painel de notificações que são características vitais do Stremio. Você tem certeza que deseja prosseguir ?",
 	"CLICK_HERE": "clique aqui",
