@@ -821,18 +821,18 @@
 	"FAQ_001_P2": "Stremio cataloga o conteúdo e apresenta pra você de seu disco local e de nosso sistema de extensões.",
 	"FAQ_001_P3": "Também irá notificá-lo quando novos episódios/videos/filmes que você estiver interessado sair, e mostrará recomendações de filmes para você.",
 	
-	"FAQ_02_H1": "How does Stremio compare to Kodi and Plex?",
-	"FAQ_02_P1": "We are inspired by those two pieces of software. But we have different goals - Stremio is specifically targeted towards entertainment video, and strives to become the mainstream solution for that by being very easy to use.",
-	"FAQ_02_P2": "Stremio will never be as customizable and feature-rich as Kodi and Plex, but it is significantly easier to use. Just ${1} get it and see ${2} :)",
-
-	"FAQ_03_H1": "How does Stremio compare to Netflix?",
-	"FAQ_03_P1": "Again, Netflix is one of our inspirations. We strive to achieve the user experience of Netflix, plus a lot of added goodies. But most importantly, we're giving you the freedom to manage your own library and add new content sources with our add-on system.",
-	"FAQ_03_P2": "That makes Stremio infinitely extendable, so when you use Stremio, you're never limited to the content Netflix decides to license. For example, through Stremio you can watch content from ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} and even ${9}Netflix${10} itself!",
-
-	"FAQ_04_H1": "How does Stremio compare to Flipboard?",
-	"FAQ_04_P1": "We don’t get that question that often, except when talking to start-up people :)",
-	"FAQ_04_P2": "Stremio is by design a content aggregator, which essentially makes it Flipboard for video. This is very apparent in our Board section, which gives you catalogues and new episode/new video notifications for what you follow, just like Flipboard.",
-
+	"FAQ_02_H1": "Como Stremio se compara ao Kodi e Plex?",
+	"FAQ_02_P1": "Nós nos inspiramos nos dois programas, mas temos diferentes objetivos - Stremio é especificamente voltado para vídeo entretenimento. Batalhamos para sermos a solução padrão para isso e, com foco na facilidade de uso.",
+	"FAQ_02_P2": "Stremio nunca será customuzável e com ricos recursos como Kodi e Plex, porém sendo fácil de usar. Simplesmente ${1} pegue isso e veja ${2} :)",
+	
+	"FAQ_03_H1": "Como Stremio se compara ao Netflix?",
+	"FAQ_03_P1": "Novamente, Netflix é uma de nossas inspirações. Trabalharemos arduamente para atingir a experiência de uso proporcionada pelo Netflix, e mais um porção de melhorias. No entanto, o mais importante, nós estamos dando a você a liberdade de gerenciar sua própria biblioteca e adicionar novas fontes de conteúdos com o nosso sistema de extensões.",
+	"FAQ_03_P2": "Isso faz do Stremio infinitamente extensível, e então quando você usá-lo, você nunca ficará limitado ao conteúdo que o Netflix decida licenciar. Por exemplo, através do Stremio você pode assistir conteúdo de ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} e mesmo ${9}Netflix${10}!",
+	
+	"FAQ_04_H1": "Como Stremio se compara ao Flipboard?",
+	"FAQ_04_P1": "Raramente recebemos esta questão, exceto quando falamos com pessoas iniciantes :)",
+	"FAQ_04_P2": "Stremio é desenhado como um agregador de conteúdo, ao qual essencialmente Flipboard o faz para vídeo. Isso é muito parecido em nosso painel, ao qual da a você catálogos e notificações de novos episódios/novos vídeos que você segue, tal qual Flipboard.",
+	
 	"FAQ_05_H1": "How does Stremio compare to Popcorn Time?",
 	"FAQ_05_P1": "Stremio and Popcorn Time are similar in user interface, because there aren’t many ways to do video entertainment catalogues right :)",
 	"FAQ_05_P2": "But while Popcorn Time is focused on streaming torrents from specific sources, Stremio is unrestricted and is merely a content aggregator - it’s not locked into a specific content source.",
