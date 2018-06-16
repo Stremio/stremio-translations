@@ -833,25 +833,25 @@
 	"FAQ_04_P1": "Raramente recebemos esta questão, exceto quando falamos com pessoas iniciantes :)",
 	"FAQ_04_P2": "Stremio é desenhado como um agregador de conteúdo, ao qual essencialmente Flipboard o faz para vídeo. Isso é muito parecido em nosso painel, ao qual da a você catálogos e notificações de novos episódios/novos vídeos que você segue, tal qual Flipboard.",
 	
-	"FAQ_05_H1": "How does Stremio compare to Popcorn Time?",
-	"FAQ_05_P1": "Stremio and Popcorn Time are similar in user interface, because there aren’t many ways to do video entertainment catalogues right :)",
-	"FAQ_05_P2": "But while Popcorn Time is focused on streaming torrents from specific sources, Stremio is unrestricted and is merely a content aggregator - it’s not locked into a specific content source.",
-	"FAQ_05_P3": "Furthermore, we do not provide any torrent add-ons by default, so Stremio does not cover the Popcorn Time use-case with official functionality.",
-	"FAQ_05_P4": "Another notable difference is that Popcorn Time is completely open source, while Stremio is ${1} partially open source${2}.",
-
-	"FAQ_06_H1": "Will you add this movie/series?",
-	"FAQ_06_P1": "No, sorry :(",
-	"FAQ_06_P2": "As is mentioned in most of the other questions, Stremio does not provide any content by itself - everything is added through the add-ons system. In case you have a content request, you can use the “Report” button in the Player, which will send an email to the author of the add-on you’re currently using.",
-
+	"FAQ_05_H1": "Como Stremio se compara ao Popcorn Time?",
+	"FAQ_05_P1": "Stremio e Popcorn Time são similares em interface de uso, porque não há muitas maneiras de fazer catálogo de vídeo entretenimento, certo? :)",
+	"FAQ_05_P2": "Embora Popcorn Time tem o foco em entrega de torrents de fontes específicas, Stremio não possui restrição e é meramente um agregador de conteúdo - não é travado em uma fonte de conteúdo específica.",
+	"FAQ_05_P3": "Além disso, nós não provemos nenhuma extensão para torrent por padrão, então Stremio não cobre o caso de uso do Popcorn Time na sua funcionalidade oficial.",
+	"FAQ_05_P4": "Uma outra diferença notável é que o Popcorn Time é completamente de código aberto, enquanto Stremio é ${1} parcialmente de código aberto ${2}.",
+	
+	"FAQ_06_H1": "Vocês que adicionam estes filmes/séries?",
+	"FAQ_06_P1": "Não, desculpe :(",
+	"FAQ_06_P2": "Como já mencionamos em muitas outras questões, Stremio não provê nenhum conteúdo por si próprio - tudo é adicionado diretamente pelo sistema de extensões. Caso queira solicitar algum conteúdo, você pode usar o botão “Reporte” no reprodutor, ao qual irá enviar um email para o autor da extensão ao qual está usando.",
+	
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
-	"FAQ_08_H1": "Will you create add-on for X?",
-	"FAQ_08_P1": "It's entirely possible.",
-	"FAQ_08_P2": "If you have an idea for an add-on, drop us a line at ${1}office@stremio.com${2}, but please make sure your add-on idea will not infringe on any copyrights or terms of use.",
-	"FAQ_08_P3": "At the moment, the next things on our roadmap are add-ons for FandangoNOW, Filmon.tv video on demand and Crunchyroll.",
-
+	
+	"FAQ_08_H1": "Criarão uma extensão para o X?",
+	"FAQ_08_P1": "Isso é inteiramente possível.",
+	"FAQ_08_P2": "Se você tem uma idéia para uma extensão, escreva para ${1}office@stremio.com${2}, mas por favor, tenha certeza de que a idéia dessa extensão não irá infringir nenhum direito de propriedade intelectual ou termos de uso.",
+	"FAQ_08_P3": "No momento, os próximos movimentos em nosso projeto são extensões para FandangoNOW, vídeo sob demanda no Filmon.tv e Crunchyroll.",
+	
 	"FAQ_09_H1": "Does Stremio use BitTorrent?",
 	"FAQ_09_P1": "Yes, Stremio supports BitTorrent as a streaming protocol. You can use that either with a torrent add-on, or by drag-and-dropping a .torrent file into Stremio, or by pasting a magnet link into the Search Bar.",
 	"FAQ_09_P2": "Please note that the only official add-on using BitTorrent is ${1}Vodo${2}, which provides indie content, all permitted to be distributed with BitTorrent.",
