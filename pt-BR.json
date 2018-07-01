@@ -890,17 +890,17 @@
 	"FAQ_15_P1": "No momento não, mas em breve !",
 	"FAQ_15_P2": "Se você está curioso para ver uma versão Alpha, você pode acessar aqui: ${1}alpha4.strem.io${2}. Tenha em mente que o streaming está disabilitado. Damos suporte para Chrome, Firefox, Opera e Edge.",
 	
-	"FAQ_16_H1": "Casting to TV doesn't work / subtitles don't work",
-	"FAQ_16_P1": "Casting to TV uses the DLNA technology which is very inconsistent between different TV brands and models. For that reason, we do not have the ability to test it in every case, so it's far from perfect. Despite this, we're working on improving it constantly but we cannot give you a time estimate on when DLNA will start working properly with your TV.",
-	"FAQ_16_P2": "If you don't even see your TV in the casting menu, please try disabling your network connection and re-enabling it (on Windows, right click the Network and use Enable/Disable), as well as restarting your router, TV and PC.",
-	"FAQ_16_P3": "If you are still encountering issues, you can help us by sending your TV brand and model information at ${1}office@stremio.com${2}.",
-	"FAQ_16_P4": "In the meantime, we recommend Chromecast, which we support very well, or simply plugging in your TV to your PC with an HDMI cable.",
+	"FAQ_16_H1": "Transmissão para a TV não funciona / legendas não funcionam",
+	"FAQ_16_P1": "Transmissão para a TV usa a tecnologia DLNA que é muito inconsistente entre modelos de fabricantes diferentes. Por esta razão que nós não temos a habilidade de testar em cada caso. Estamos longe da perfeição. Embora estejamos melhorando constantemente, nós não podemos lhe dar uma estimativa de tempo de quando a tecnologia DLNA funcionará corretamente em sua TV.",
+	"FAQ_16_P2": "Se você ainda não vê sua TV no menu de transmissão, por favor tente desabilitar sua conexão de rede e habilite novamente (no Windows, click com botão direito em Rede e click em Habilitar/Desabilitar), também reinicie seu roteador, TV e PC.",
+	"FAQ_16_P3": "Se você ainda está encontrando problemas, você pode nos ajudar enviando as informação de seu modelo de TV e fabricante para ${1}office@stremio.com${2}.",
+	"FAQ_16_P4": "Em breve nós recomendaremos Chromecast, ao qual suportamos muito bem, ou simplesmente plugando sua TV no seu PC com um cabo HDMI.",
 
-	"FAQ_17_H1": "Stremio freezes and/or crashes, what can I do?",
-	"FAQ_17_P1": "First of all, if you're using Windows 7 with AVG anti-virus: we have a problem with that combination. The problem is in AVG itself, and there's no reasonable way to resolve it on our end. Unfortunately, exceptions or disabling the anti-virus won't work. The only solution is to replace AVG with something else.",
-	"FAQ_17_P2": "If that's not the issue, but you're still using Windows, please update to the latest service pack and update/re-install your GPU drivers, then try again.",
-	"FAQ_17_P3": "If you're problem is still not resolved, or you're using a Mac or Linux, please write us reporting the exact details of the problem at ${1}our Facebook group${2}.",
-
+	"FAQ_17_H1": "Stremio congela ou trava, o que posso fazer?",
+	"FAQ_17_P1": "Primeiro de tudo, se você está usando Windows 7 com o antivirus AVG: nós temos problema com essa combinação. O problema é o próprio AVG, e não há uma solução definitiva para corrigirmos isso. Infelizmente, exceções ou desabilitar o antivirus não funciona. A única maneira é trocar seu antivirus.",
+	"FAQ_17_P2": "Se isso não é o problema, mas você ainda usa Windows, por favor atualize seu o sistema incluindo os drivers da GPU, e tente novamente.",
+	"FAQ_17_P3": "Se o seu problema continua sem solução, ou utiliza Mac ou Linux, por favor nos escreva reportando em detalhes o problema em ${1}nosso grupo no Facebook${2}.",
+	
 	"FAQ_18_H1": "How can I make an add-on?",
 	"FAQ_18_P1": "For starters, we recommend you check our ${1}add-ons system module${2} on GitHub.",
 	"FAQ_18_P2": "Afterwards, you can follow the ${1}Hello World tutorial${2}.",
