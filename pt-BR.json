@@ -901,14 +901,14 @@
 	"FAQ_17_P2": "Se isso não é o problema, mas você ainda usa Windows, por favor atualize seu o sistema incluindo os drivers da GPU, e tente novamente.",
 	"FAQ_17_P3": "Se o seu problema continua sem solução, ou utiliza Mac ou Linux, por favor nos escreva reportando em detalhes o problema em ${1}nosso grupo no Facebook${2}.",
 	
-	"FAQ_18_H1": "How can I make an add-on?",
-	"FAQ_18_P1": "For starters, we recommend you check our ${1}add-ons system module${2} on GitHub.",
-	"FAQ_18_P2": "Afterwards, you can follow the ${1}Hello World tutorial${2}.",
-	"FAQ_18_P3": "If you don't have any programming skills, please post your idea on ${1}the Reddit community${2} and contact us with your add-on idea on ${3}office@stremio.com${4}.",
+	"FAQ_18_H1": "Como posso fazer uma extensão?",
+	"FAQ_18_P1": "Para iniciantes nós recomendamos que veja nosso ${1}módulo de sistema de extensão${2} no GitHub.",
+	"FAQ_18_P2": "No entanto, você pode seguir pelo nosso ${1}tutorial Olá Mundo!${2}.",
+	"FAQ_18_P3": "Se você não tem nenhuma habilidade em programação, por favor, poste sua idéia na ${1}comunidade do Reddit${2} e nos contate com sua idéia de extensão em ${3}office@stremio.com${4}.",
 
-	"FAQ_19_H1": "Why is Stremio taking disk space?",
-	"FAQ_19_P1": "Stremio has a <b>local cache</b> to temporarily keep the video files you stream.",
-	"FAQ_19_P2": "This has two benefits: first, it allows Stremio to pre-buffer the video ahead so as to ensure smoother streaming. Second, it keeps the videos in the local cache so you can continue watching them offline.",
+	"FAQ_19_H1": "Por que o Stremio está reduzindo o espaço em disco?",
+	"FAQ_19_P1": "Stremio tem um <b>cache local</b> para temporariamente deixar os arquivos de vídeo descarregados.",
+	"FAQ_19_P2": "Isso tem dois benefícios: primeiro, permite ao Stremio pré carregar o vídeo para garantir um download suave. Segundo, isso deixa os vídeos no cache local para assistí-los off-line.",
 	"FAQ_19_P3": "How much Stremio keeps depends on the <b>Cache</b> setting in the Settings panel. Stremio may keep up to the set amount (e.g. 2GB) on your disk, unless the currently streamed video is larger than that, in which case it has to allocate enough storage to keep it until you're streaming it.",
 
 	"FAQ_20_H1": "Where is the cache folder?",
