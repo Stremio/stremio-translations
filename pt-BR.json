@@ -909,12 +909,12 @@
 	"FAQ_19_H1": "Por que o Stremio está reduzindo o espaço em disco?",
 	"FAQ_19_P1": "Stremio tem um <b>cache local</b> para temporariamente deixar os arquivos de vídeo descarregados.",
 	"FAQ_19_P2": "Isso tem dois benefícios: primeiro, permite ao Stremio pré carregar o vídeo para garantir um download suave. Segundo, isso deixa os vídeos no cache local para assistí-los off-line.",
-	"FAQ_19_P3": "How much Stremio keeps depends on the <b>Cache</b> setting in the Settings panel. Stremio may keep up to the set amount (e.g. 2GB) on your disk, unless the currently streamed video is larger than that, in which case it has to allocate enough storage to keep it until you're streaming it.",
+	"FAQ_19_P3": "Quanto Stremio fica dependente da configuração do <b>Cache</b> no painel de Configurações. Stremio pode manter uma quantidade (exemplo 2GB) no seu disco, a menos que o video descarregado seja maior que isso, no qual de have espaço suficiente para mantê-lo enquanto o descarrega.",
 
-	"FAQ_20_H1": "Where is the cache folder?",
-	"FAQ_20_P1": "On Windows, it's stremio-cache in the drive you picked in Settings (e.g. \"E:\\stremio-cache\")",
-	"FAQ_20_P2": "On MacOS, it's \"~/Library/Application Support/Stremio/stremio-cache\"",
-	"FAQ_20_P3": "On Linux, it's \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
+	"FAQ_20_H1": "Onde está a pasta do cache?",
+	"FAQ_20_P1": "No Windows, o cache do Stremio fica no drive ao qual você selecionou nas configuraçãoes (exemplo \"E:\\stremio-cache\")",
+	"FAQ_20_P2": "No MacOS, fica localizado em \"~/Library/Application Support/Stremio/stremio-cache\"",
+	"FAQ_20_P3": "No Linux, fica localizado em \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
 	
 	"FAQ_21_H1": "I get \"Streaming server is not found\" error, what can I do?",
 	"FAQ_21_P1": "If you get this error, it means one of few things:",
