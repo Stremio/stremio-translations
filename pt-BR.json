@@ -912,7 +912,7 @@
 	"FAQ_19_P3": "Quanto Stremio fica dependente da configuração do <b>Cache</b> no painel de Configurações. Stremio pode manter uma quantidade (exemplo 2GB) no seu disco, a menos que o video descarregado seja maior que isso, no qual de have espaço suficiente para mantê-lo enquanto o descarrega.",
 
 	"FAQ_20_H1": "Onde está a pasta do cache?",
-	"FAQ_20_P1": "No Windows, o cache do Stremio fica no drive ao qual você selecionou nas configuraçãoes (exemplo \"E:\\stremio-cache\")",
+	"FAQ_20_P1": "No Windows, o cache do Stremio fica no drive ao qual você selecionou nas configurações (exemplo \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "No MacOS, fica localizado em \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "No Linux, fica localizado em \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
 	
