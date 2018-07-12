@@ -916,13 +916,12 @@
 	"FAQ_20_P2": "No MacOS, fica localizado em \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "No Linux, fica localizado em \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
 	
-	"FAQ_21_H1": "I get \"Streaming server is not found\" error, what can I do?",
-	"FAQ_21_P1": "If you get this error, it means one of few things:",
-	"FAQ_21_P2": "1) You are trying to use an add-on backed by YouTube/BitTorrent source, through our ${1}web version${2}. In this case, you should install our desktop version from ${3}our website${4}.",
-	"FAQ_21_P3": "2) Something is wrong with your Stremio installation. In this case, try re-installing our latest desktop version from ${1}the website${2}. If this does not help, try disabling anti-virus programs and firewalls, restarting your PC and trying again. If this does not work too, please write us at our ${3}our Facebook group${4}.",
+	"FAQ_21_H1": "Eu recebi a mensagem de erro \"Servidor de streming não encontrado\", o que posso fazer?",
+	"FAQ_21_P1": "Se você recebeu esta mensagem, isso implica em uma das possibilidades:",
+	"FAQ_21_P2": "1) Você está tentando usar uma extensão suportada pelo código do YouTube/BitTorrent, através de nossa ${1}versão web${2}. Nesse caso, você pode instalar nossa versão para desktop de ${3}nosso website${4}.",
+	"FAQ_21_P3": "2) Há lago de errado com a instalação do Stremio. Neste caso tente reinstalar nossa versão mais recente ${1}do website${2}. Se isso nao ajudar, tente desabilitar o programa de antivirus e firewal, reinicie seu PC e tente novamente. Se isso não funcionar, por favor nos contate pelo ${3}nosso grupo do Facebook${4}.",
 
-	"FAQ_22_H1": "I cannot see/use most add-ons on iOS",
-	"FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of add-ons.",
-	"FAQ_22_P2": "But rest assured - there will be more add-ons for iOS in the future, and we may also add an integration that will allow you to use all Stremio add-ons thanks to connecting the iOS app to the Stremio Streaming Server."
-	
+	"FAQ_22_H1": "Eu não posso ver/usar a maioria das extensões no iOS",
+	"FAQ_22_P1": "Devido a restrições nos termos e condições da loja da Apple, nós temos restringido somente aplicativos iOS de um grupo particular de extensões.",
+	"FAQ_22_P2": "Mas esteja avisado - haverão mais extensões para iOS no futuro, e nós poderemos também adicionar uma integração que permitirá o uso de todas extensões do Stremio graças a conexão do aplicativo iOS com o servidor de Streaming do Stremio."	
 }
