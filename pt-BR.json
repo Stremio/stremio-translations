@@ -285,6 +285,8 @@
 	"SETTINGS_IMPORT_TRAKT": "Importar do Trakt",
 	"SETTINGS_HWDEC": "Decodificação acelerada por Hardware",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Inscrever-se no calendário",
+	"SETTINGS_REQ_EXPORT": "Exportar dados",
+	"SETTINGS_ACC_DELETE": "Requisitar exclusão de conta",
 	"SETTINGS_CHANGE_PASSWORD": "Alterar a senha",
 	"SETTINGS_TOS": "Termos de serviço",
 	"SETTINGS_SUPPORT": "Contate o suporte",
