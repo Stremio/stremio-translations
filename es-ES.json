@@ -242,6 +242,8 @@
 	"LIB_EMPTY_OTHER": "Regístrate para habilitar el Calendario y otras excelentes características",
 	"CALENDAR_ADDED": "El calendario de Stremio ha sido agregado a su calendario de escritorio por defecto.",
 	"CALENDAR_ADDED_MSG": "Si esto no funciona, por favor agregue esta URL manualmente a su aplicación de calendario",
+	"TRAKT_REQUIRES_LOGIN": "Trakt error",
+	"TRAKT_REQUIRES_LOGIN_MSG": "You need to login",
 	"SETTINGS_LABEL": "Configuración",
 	"SETTINGS_LAUNCH_STARTUP": "Abrir cuando arranque el equipo",
 	"SETTINGS_VLC_DEFAULT": "Reproducir en VLC",

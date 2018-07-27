@@ -242,6 +242,8 @@
 	"LIB_EMPTY_OTHER": "Takvim ve diğer harika özellikleri etkinleştirmek için üye olun",
 	"CALENDAR_ADDED": "Stremio takvimi varsayılan masaüstü takviminize eklendi.",
 	"CALENDAR_ADDED_MSG": "Bu işe yaramazsa, lütfen bu URL'yi takvim uygulamanıza elle ekleyin",
+	"TRAKT_REQUIRES_LOGIN": "Trakt error",
+	"TRAKT_REQUIRES_LOGIN_MSG": "You need to login",
 	"SETTINGS_LABEL": "Ayarlar",
 	"SETTINGS_LAUNCH_STARTUP": "Başlangıçta çalıştır",
 	"SETTINGS_VLC_DEFAULT": "VLC ile oynat",
