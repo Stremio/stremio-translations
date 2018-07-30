@@ -243,6 +243,8 @@
 	"LIB_EMPTY_OTHER": "Sign up to enable Calendar & other cool features",
 	"CALENDAR_ADDED": "The Stremio calendar has been added to your default desktop calendar.",
 	"CALENDAR_ADDED_MSG": "If this does not work, please add this URL to your calendar application manually",
+	"TRAKT_REQUIRES_LOGIN": "Trakt error",
+	"TRAKT_REQUIRES_LOGIN_MSG": "You need to login",
 	"SETTINGS_LABEL": "Settings",
 	"SETTINGS_LAUNCH_STARTUP": "Kør ved opstart",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",
