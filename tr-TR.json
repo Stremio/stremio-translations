@@ -252,6 +252,7 @@
 	"LIB_EMPTY_OTHER": "Takvim ve diğer harika özellikleri etkinleştirmek için üye olun",
 	"CALENDAR_ADDED": "Stremio takvimi varsayılan masaüstü takviminize eklendi.",
 	"CALENDAR_ADDED_MSG": "Bu işe yaramazsa, lütfen bu URL'yi takvim uygulamanıza elle ekleyin",
+	"TRAKT_EXPIRED": "Trakt authentication expired, please go to Settings and re-authenticate",
 	"TRAKT_REQUIRES_LOGIN": "Trakt error",
 	"TRAKT_REQUIRES_LOGIN_MSG": "You need to login",
 	"SETTINGS_LABEL": "Ayarlar",
