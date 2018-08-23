@@ -281,6 +281,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "default subtitles",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "version",
+	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
 	"QUIT": "Avslutt",
 	"CONNECTED": "Connected",
 	"AUTHENTICATE": "Verifiser",

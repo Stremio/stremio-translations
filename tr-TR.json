@@ -281,6 +281,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "varsayılan altyazılar",
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_VERSION": "sürüm",
+	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
 	"QUIT": "Çıkış",
 	"CONNECTED": "Bağlandı",
 	"AUTHENTICATE": "Kimlik doğrulaması",
