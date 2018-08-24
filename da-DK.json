@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Populære",
 	"DISCOVER_OSCAR": "Oscar Vindere",
 	"DISCOVER_NOADDON_WARNING": "Advarsel: intet Stremio add-on aktiveret for denne type. Viser gemte ting, intet vil blive opdateret.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Genindlæs nu!",
 	"UPGRADE": "Opdater til seneste Stremio version",
 	"ANONYMOUS_USER": "Anonymous user",

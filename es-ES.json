@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Ganadores del Oscar",
 	"DISCOVER_NOADDON_WARNING": "Advertencia: Ningún complemento activo de este tipo. Mostrando artículos guardados, nada de aquí se actualizará.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "¡Relanzar ahora!",
 	"UPGRADE": "¡Una nueva versión está disponible! Actualiza a la versión más reciente de Stremio",
 	"ANONYMOUS_USER": "Usuario anónimo",

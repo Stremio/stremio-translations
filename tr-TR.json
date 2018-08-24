@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "En iyiler",
 	"DISCOVER_OSCAR": "Ödül Kazananlar",
 	"DISCOVER_NOADDON_WARNING": "Uyarı: Böyle bir aktif Stremio eklentisi yoktur. Kaydedilen ögeler gösteriliyor, güncellenmeyecek.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Şimdi yeniden başlat!",
 	"UPGRADE": "Yeni sürüm mevcut! Güncel Stremio sürümüne yükseltin.",
 	"ANONYMOUS_USER": "Anonim kullanıcı",

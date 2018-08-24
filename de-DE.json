@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Oscar-Gewinner",
 	"DISCOVER_NOADDON_WARNING": "Warnung: Für diesen Typ ist kein Stremio-Add-on aktiv. Gespeicherte Elemente werden angezeigt, nichts wird hier aktualisiert.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Jetzt neu starten!",
 	"UPGRADE": "Neue Version ist verfügbar! Aktualisieren Sie auf die neueste Stremio-Version",
 	"ANONYMOUS_USER": "Anonymer Benutzer",

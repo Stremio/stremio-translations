@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Топ",
 	"DISCOVER_OSCAR": "Носители на Оскар",
 	"DISCOVER_NOADDON_WARNING": "Внимание: няма активен Stremio add-on за този тип съдържание. Тук виждате запазена информация, тя няма да се обнови.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Стартирай новата версия!",
 	"UPGRADE": "Достъпна е нова версия",
 	"ANONYMOUS_USER": "Anonymous user",

@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Topp",
 	"DISCOVER_OSCAR": "Oscar vinnarar",
 	"DISCOVER_NOADDON_WARNING": "Åtvaring: ingen Stremio utviding aktiv for denne typen. Visar lagra element, ingenting vil oppdatere.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Start på nytt no!",
 	"UPGRADE": "Oppdater til den nyaste Stremio versjonen",
 	"ANONYMOUS_USER": "Anonymous user",

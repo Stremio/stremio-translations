@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Topp",
 	"DISCOVER_OSCAR": "Oscarsvinnare",
 	"DISCOVER_NOADDON_WARNING": "Varning: inget Stremio-tillägg aktivt för denna typ. Visar sparade objekt, ingenting kommer att uppdateras.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Starta om nu!",
 	"UPGRADE": "Uppgradera till den senaste versionen av Stremio",
 	"ANONYMOUS_USER": "Anonymous user",

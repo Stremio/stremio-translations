@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Topo",
 	"DISCOVER_OSCAR": "Vencedores do Oscar",
 	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma extensão do Stremio ativa para este tipo. Mostrando itens salvos, nada aqui será atualizado.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Reinicie agora!",
 	"UPGRADE": "Atualize para a versão mais recente do Stremio",
 	"ANONYMOUS_USER": "Usuário anônimo",

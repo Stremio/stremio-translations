@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Populair",
 	"DISCOVER_OSCAR": "Oscars",
 	"DISCOVER_NOADDON_WARNING": "Waarschuwing: geen Stremio add-on actief voor dit type. Opgeslagen items worden weergegeven, hier komen geen updates.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Herstart Stremio",
 	"UPGRADE": "Updaten naar de laatste Stremio versie",
 	"ANONYMOUS_USER": "Anonymous user",

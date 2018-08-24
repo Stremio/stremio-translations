@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Primés Oscars",
 	"DISCOVER_NOADDON_WARNING": "Attention: aucune extension Stremio active pour ce type. Les fichiers sauvegardés seront montrés, rien ne sera mis à jour.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Redémarrez maintenant!",
 	"UPGRADE": "Passez à la dernière version de Stremio",
 	"ANONYMOUS_USER": "Anonymous user",

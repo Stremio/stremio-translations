@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "מומלץ",
 	"DISCOVER_OSCAR": "זוכי אוסקר",
 	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "הפעל מחדש כעת!",
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
 	"ANONYMOUS_USER": "Anonymous user",

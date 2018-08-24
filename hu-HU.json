@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Népszerűek",
 	"DISCOVER_OSCAR": "Oscar nyertesek",
 	"DISCOVER_NOADDON_WARNING": "Figyelmeztetés: nincs bekapcsolt Stremio bővítmény ehhez a típushoz. Elmentett elemek mutatása, melyek nem fognak frissülni.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Újraindítás most!",
 	"UPGRADE": "Frissítés a legújabb Streamio verzióra",
 	"ANONYMOUS_USER": "Anonymous user",

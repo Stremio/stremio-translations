@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Топ",
 	"DISCOVER_OSCAR": "Победители Оскара",
 	"DISCOVER_NOADDON_WARNING": "Внимание: не было найдено активного дополнения для этого типа. Показаны только сохранённые элементы, обновления не могут быть выполнены.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "возобновить",
 	"UPGRADE": "Апгред на новую версию",
 	"ANONYMOUS_USER": "Anonymous user",

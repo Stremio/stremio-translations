@@ -151,6 +151,7 @@
 	"DISCOVER_TOP": "Najbolji",
 	"DISCOVER_OSCAR": "Dobitnici Oskara",
 	"DISCOVER_NOADDON_WARNING": "Upozorenje: nema Stremio dodatka aktivinog za ovaj tip. Prikazujemo sačuvane stvari, ništa se neće nadograditi.",
+	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
 	"RELAUNCH": "Ponovo pokreni sada!",
 	"UPGRADE": "Nova verzija je dostupna! Nadogradi se na poslednju Stremio verziju",
 	"ANONYMOUS_USER": "Anonimni korisnik",
