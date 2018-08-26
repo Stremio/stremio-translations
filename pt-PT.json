@@ -152,6 +152,8 @@
 	"DISCOVER_OSCAR": "Vencedores de Óscar",
 	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma Extensão Stremio ativo para este tipo. A exibir ficheiros guardados, nada será atualizado.",
 	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
+	"DETAIL_RECEIVE_NOTIF_SERIES": "Receive notifications for new episodes",
+	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receive notifications for new videos",
 	"RELAUNCH": "Reiniciar agora!",
 	"UPGRADE": "Está disponível uma nova versão! Atualize para a versão mais recente do Stremio",
 	"ANONYMOUS_USER": "Utilizador anónimo",

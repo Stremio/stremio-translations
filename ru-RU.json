@@ -152,6 +152,8 @@
 	"DISCOVER_OSCAR": "Победители Оскара",
 	"DISCOVER_NOADDON_WARNING": "Внимание: не было найдено активного дополнения для этого типа. Показаны только сохранённые элементы, обновления не могут быть выполнены.",
 	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
+	"DETAIL_RECEIVE_NOTIF_SERIES": "Receive notifications for new episodes",
+	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receive notifications for new videos",
 	"RELAUNCH": "возобновить",
 	"UPGRADE": "Апгред на новую версию",
 	"ANONYMOUS_USER": "Anonymous user",

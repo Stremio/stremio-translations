@@ -152,6 +152,8 @@
 	"DISCOVER_OSCAR": "Oscars",
 	"DISCOVER_NOADDON_WARNING": "Waarschuwing: geen Stremio add-on actief voor dit type. Opgeslagen items worden weergegeven, hier komen geen updates.",
 	"DISCOVER_LOAD_ERR": "Discover: failed to load catalog from add-on",
+	"DETAIL_RECEIVE_NOTIF_SERIES": "Receive notifications for new episodes",
+	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receive notifications for new videos",
 	"RELAUNCH": "Herstart Stremio",
 	"UPGRADE": "Updaten naar de laatste Stremio versie",
 	"ANONYMOUS_USER": "Anonymous user",
