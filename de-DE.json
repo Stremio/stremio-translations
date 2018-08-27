@@ -20,6 +20,8 @@
 	"NOTIFICATION_ONLINE": "You are now online",
 	"NOTIFICATION_OFFLINE": "You are currently offline",
 	"INTERNET_CONNECTION": "Network connection",
+	"STORAGE_FULL_TITLE": "Warning: Storage full!",
+	"STORAGE_FULL_TEXT": "Stremio will not be able to save your settings, preferences or login information. Consider re-starting or re-installing Stremio.",
 	"SEARCH": "Suche",
 	"SEARCH_NO_RESULTS": "Es wurden keine Ergebnisse gefunden",
 	"SEARCH_EXPLANATION_CONTENT": "Suche nach Filmen, Serien, YouTube- und Fernsehkanälen",
