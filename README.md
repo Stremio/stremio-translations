@@ -39,6 +39,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
 - nn-NO: @skanin				(Norwegian nynorsk)
 - nb-NO: @skanin				(Norwegian bokmål)
+- pl-PL: @yknomeh				(Polish)
 - pt-BR: @loopbackbr, @luanhssa, @leonardosnt, @John-Luke, @kelvins, @davidsonsns and @fabianosantosnet		(Brazilian Portuguese)
 - pt-PT: @henriquev16, @liqen and @iretan	(Portuguese)
 - ru-RU: @thedp					(Russian)
