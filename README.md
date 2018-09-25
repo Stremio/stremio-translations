@@ -46,6 +46,6 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - se-SE: @erikdsjostrom				(Swedish)
 - sr-RS: @m0k1      (Serbian)
 - tr-TR: @ali-demirtas @rozehan				(Turkish)
-
+- el-GR: @pentakalos					(Greek)
 
 Feel free to add yourself!
