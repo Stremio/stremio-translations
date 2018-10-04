@@ -80,6 +80,7 @@
 	"ADDON_REPO_ERR": "Błąd pojawił się podczas dodawania repozytorium",
 	"ADDON_ADD_ERR": "Błąd pojawił się podczas dodawania add-ona",
 	"ERR_ADDON_PROTECTED": "Nie można odinstalować add-ona, ponieważ jest chroniony",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
 	"ERR_NOT_COLLECTION_URL": "Not a collection URL",
 	"ERR_NOT_ADDON_URL": "Nie prawidłowy add-on URL",
 	"ERR_DETECTFROMURL": "Nie można znaleźć addon/collection from this URL",

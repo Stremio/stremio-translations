@@ -80,6 +80,7 @@
 	"ADDON_REPO_ERR": "Si è verificato un errore durante l'aggiunta della repository",
 	"ADDON_ADD_ERR": "Si è verificato un errore durante l'aggiunta dell'add-on",
 	"ERR_ADDON_PROTECTED": "Add-on protetto",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
 	"ERR_NOT_COLLECTION_URL": "Non è un url di una collezione",
 	"ERR_NOT_ADDON_URL": "Non è un url di un add-on",
 	"ERR_DETECTFROMURL": "Non posso rillevarlo dall'url",

@@ -80,6 +80,7 @@
 	"ADDON_REPO_ERR": "Ocorreu um erro ao adicionar o repositório",
 	"ADDON_ADD_ERR": "Ocorreu um erro ao adicionar a extensão",
 	"ERR_ADDON_PROTECTED": "Não é possível desinstalar o add-on, ele para estar protegido",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
 	"ERR_NOT_COLLECTION_URL": "Não é uma URL de coleção",
 	"ERR_NOT_ADDON_URL": "Não é uma URL de add-on válida",
 	"ERR_DETECTFROMURL": "Não foi possível encontrar um addon/coleção para essa URL",

@@ -80,6 +80,7 @@
 	"ADDON_REPO_ERR": "Error ocurrido mientras agregaba repositorio",
 	"ADDON_ADD_ERR": "Error agregado mientras agregaba complemento",
 	"ERR_ADDON_PROTECTED": "Complemento protegido",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
 	"ERR_NOT_COLLECTION_URL": "No es una URL de colección",
 	"ERR_NOT_ADDON_URL": "No es una URL de complemento",
 	"ERR_DETECTFROMURL": "No se puede detectar desde la URL",
