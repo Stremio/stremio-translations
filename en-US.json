@@ -91,6 +91,7 @@
 	"ADDON_REPO_ERR": "Error occurred while adding repository",
 	"ADDON_ADD_ERR": "Error occurred while adding add-on",
 	"ERR_ADDON_PROTECTED" : "Cannot uninstall add-on, it is protected",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
 	"ERR_NOT_COLLECTION_URL" : "Not a collection URL",
 	"ERR_NOT_ADDON_URL" : "Not a valid add-on URL",
 	"ERR_DETECTFROMURL" : "Cannot find addon/collection from this URL",
