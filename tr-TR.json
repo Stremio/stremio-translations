@@ -80,7 +80,7 @@
 	"ADDON_REPO_ERR": "Depo eklenirken hata oluştu",
 	"ADDON_ADD_ERR": "Eklenti eklenirken hata oluştu",
 	"ERR_ADDON_PROTECTED": "Korumalı eklenti",
-	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Something went wrong - authentication may have failed",
+	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Bir şeyler ters gitti - kimlik doğrulaması başarısız olabilir",
 	"ERR_NOT_COLLECTION_URL": "Bir koleksiyon bağlantısı değil",
 	"ERR_NOT_ADDON_URL": "Eklenti bağlantısı değil",
 	"ERR_DETECTFROMURL": "Bağlantıdan tespit edilemiyor",
