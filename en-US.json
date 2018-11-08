@@ -138,7 +138,7 @@
 
 	"WRONG_SUBS": "Wrong subtitles?",
 	"ERR_SUBS_LOADING_TITLE": "Error loading subtitles",
-	"ERR_SUBS_LOADING": "Failed loading subtitles: this could be an issue with the add-on you are using, or with your network connection", 
+	"ERR_SUBS_LOADING": "Failed loading subtitles: this could be an issue with the add-on you are using, or with your network connection",
 	"ERR_CASTING_UPDATE_TITLE" : "Could not update casting device info: streaming server might be offline",
 
 	"CHOOSE_DEVICE": "Choose a device to watch on",
@@ -258,7 +258,7 @@
 	"ADDON_NOT_SUPPORTED": "Selected add-on is not supported on this platform.",
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
-	"ADDON_REPO_ADD": "Add-on repository url",	
+	"ADDON_REPO_ADD": "Add-on repository url",
 	"ADDON_ADD": "Add",
 
 	"WHATS_NEW": "What's new",
@@ -328,7 +328,7 @@
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "version",
 	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
-	
+
 	"QUIT": "Quit",
 
 	"CONNECTED": "Connected",
@@ -654,7 +654,7 @@
 	"WEBSITE_WHY_P3":"You can use our service on any device and at any time, making Stremio the only video entertainment hub you’ll ever need.",
 	"WEBSITE_TEAM": "TEAM",
 	"WEBSITE_TEAM_P": "The Stremio team is small but powerful: between the ten of us, we code in X languages, and share expertise in software development, UI and UX design, marketing and advertising, and business and startups.",
-	
+
 	"WEBSITE_FEATURES": "Features",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Discover new content with ease",
@@ -670,7 +670,7 @@
 	"WEBSITE_FEATURES_SOURCES": "Watch video from many different sources",
 	"WEBSITE_FEATURES_SOURCES_P": "Install official and community add-ons to enjoy video sourced from many different providers - all in one sleek, easy to use app.",
 	"WEBSITE_CREATE_AN_ADDON": "Create an add-on",
-	
+
 	"WEBSITE_ADD_ONS": "Add-ons",
 	"WEBSITE_ADD_ONS_P1": "All of the video content Stremio provides get sourced through an add-on system - no content or content provider has been built into the app.",
 	"WEBSITE_ADD_ONS_P2": "There are two groups of add-ons available: official and community add-ons.",
@@ -746,7 +746,7 @@
 	"WEBSITE_CONTACT_US_Q_1": "How to install?",
 	"WEBSITE_CONTACT_US_Q_2": "How to uninstall?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) How to make lasagna?",
-	"WEBSITE_CONTACT_US_Q_4": "Addd-ons",
+	"WEBSITE_CONTACT_US_Q_4": "Add-ons",
 	"WEBSITE_CONTACT_US_OS_1": "Windows",
 	"WEBSITE_CONTACT_US_OS_2": "macOS",
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
@@ -775,7 +775,7 @@
 	"WEBSITE_DOWNLOAD_4_0_BETA": "Download Now Stremio 4 beta",
 	"WEBSITE_GET_FOR_DESKTOP": "Get for desktop",
 	"WEBSITE_LINK_ADDON_SDK": "Add-on SDK",
-	
+
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE" : "Lifestyle",
 	"SPORTS": "Sports",
@@ -950,7 +950,7 @@
 	"FAQ_20_P1": "On Windows, it's stremio-cache in the drive you picked in Settings (e.g. \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "On MacOS, it's \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "On Linux, it's \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
-	
+
 	"FAQ_21_H1": "I get \"Streaming server is not found\" error, what can I do?",
 	"FAQ_21_P1": "If you get this error, it means one of few things:",
 	"FAQ_21_P2": "1) You are trying to use an add-on backed by YouTube/BitTorrent source, through our ${1}web version${2}. In this case, you should install our desktop version from ${3}our website${4}.",
@@ -959,5 +959,5 @@
 	"FAQ_22_H1": "I cannot see/use most add-ons on iOS",
 	"FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of add-ons.",
 	"FAQ_22_P2": "But rest assured - there will be more add-ons for iOS in the future, and we may also add an integration that will allow you to use all Stremio add-ons thanks to connecting the iOS app to the Stremio Streaming Server."
-	
+
 }
