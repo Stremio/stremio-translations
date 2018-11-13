@@ -29,7 +29,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - bg-BG: @Ivshti				(Bulgarian)
 - da-DK: @Holsted777				(Danish)
 - es-ES: @Decc98, @FernandoUY and Federico Erbetta		(Spanish)
-- fr-FR: @Nath74k and @greg0ire			(French)
+- fr-FR: @Nath74k, @greg0ire and @tymmesyde			(French)
 - he-IL: @kornbed and @yishaiguedj1		(Hebrew)
 - hu-HU: @pterdi				(Hungarian)
 - hr-HR: @boljsa (Croatian)
@@ -39,12 +39,13 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 - nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
 - nn-NO: @skanin				(Norwegian nynorsk)
 - nb-NO: @skanin				(Norwegian bokmål)
+- pl-PL: @yknomeh				(Polish)
 - pt-BR: @loopbackbr, @luanhssa, @leonardosnt, @John-Luke, @kelvins, @davidsonsns and @fabianosantosnet		(Brazilian Portuguese)
 - pt-PT: @henriquev16, @liqen and @iretan	(Portuguese)
 - ru-RU: @thedp					(Russian)
 - se-SE: @erikdsjostrom				(Swedish)
 - sr-RS: @m0k1      (Serbian)
 - tr-TR: @ali-demirtas @rozehan				(Turkish)
-
+- el-GR: @pentakalos					(Greek)
 
 Feel free to add yourself!
