@@ -360,7 +360,6 @@
 	"Sunday": "Sunday",
 
 	"Action": "Action",
-	"Comedy": "Comedy",
 	"War": "War",
 	"Family": "Family",
 	"Animation": "Animation",
@@ -373,7 +372,6 @@
 	"Horror": "Horror",
 	"Thriller": "Thriller",
 	"Sci-Fi": "Sci-Fi",
-	"Music": "Music",
 	"Biography": "Biography",
 	"Documentary": "Documentary",
 	"Sport": "Sport",
@@ -392,7 +390,6 @@
 	"Science & Education": "Science & Education",
 	"Cooking & Health": "Cooking & Health",
 	"Beauty & Fashion": "Beauty & Fashion",
-	"Sports": "Sports",
 	"News & Politics": "News & Politics",
 	"How-to & DIY": "How-to & DIY",
 	"Tech": "Tech",
@@ -441,7 +438,6 @@
 	"recommended": "recommended",
 	"we recommend": "we recommend",
 	"offer of the day": "offer of the day",
-	"news": "news",
 	"music video": "music video",
 
 	"CTX_DISMISS_NOTIF": "Dismiss notifications",
@@ -774,7 +770,6 @@
 	"WEBSITE_SUPPORT": "Support",
 	"WEBSITE_DOWNLOAD_4_0_BETA": "Download Now Stremio 4 beta",
 	"WEBSITE_GET_FOR_DESKTOP": "Get for desktop",
-	"WEBSITE_LINK_ADDON_SDK": "Add-on SDK",
 
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE" : "Lifestyle",
