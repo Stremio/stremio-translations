@@ -26,28 +26,28 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 
 ### Translation credits
 
-| Culture   | Name                    | Contributors                                                                                                        |
-|-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------|
-| bg-BG     | Bulgarian               | @Ivshti				                                                                                                |
-| da-DK     | Danish                  | @Holsted777				                                                                                            |
-| es-ES     | Spanish                 | @Decc98, @FernandoUY, @cosmoscalibur and Federico Erbetta		                                                    |
-| fr-FR     | French                  | @Nath74k, @greg0ire and @tymmesyde			                                                                        |
-| he-IL     | Hebrew                  | @kornbed and @yishaiguedj1		                                                                                    |
-| hu-HU     | Hungarian               | @pterdi				                                                                                                |
-| hr-HR     | Croatian                | @boljsa                                                                                                             |
-| it-IT     | Italian                 | @pippo73, @zurdyo and @archetipo95			                                                                        |
-| mk-MK     | Macedonian              | Ivan Fonchev				                                                                                        |
-| my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                            |
-| nl-NL     | Dutch                   | @Rubenoo, @Tbizla and @tjorim		                                                                                |
-| nn-NO     | Norwegian, Nynorsk      | @skanin				                                                                                                |
-| nb-NO     | Norwegian, Bokmål       | @skanin				                                                                                                |
-| pl-PL     | Polish                  | @yknomeh				                                                                                            |
-| pt-BR     | Brazilian Portuguese    | @loopbackbr, @luanhssa, @leonardosnt, @John-Luke, @kelvins, @davidsonsns and @fabianosantosnet                  	|
-| pt-PT     | Portuguese              | @henriquev16, @liqen and @iretan	                                                                                |
-| ru-RU     | Russian                 | @thedp					                                                                                            |
-| se-SE     | Swedish                 | @erikdsjostrom				                                                                                        |
-| sr-RS     | Serbian                 | @m0k1                                                                                                               |
-| tr-TR     | Turkish                 | @ali-demirtas @rozehan				                                                                                |
-| el-GR     | Greek                   | @pentakalos					                                                                                        |
+| Culture   | Name                    | Contributors                                                                                                                                                |
+|-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------                                        |
+| bg-BG     | Bulgarian               | [@Ivshti](https://github.com/Ivshti)                                                                                                                        |
+| da-DK     | Danish                  | [@Holsted777](https://github.com/Holsted777)				                                                                                                |
+| es-ES     | Spanish                 | [@Decc98](https://github.com/Decc98), [@FernandoUY](https://github.com/FernandoUY), [@cosmoscalibur](https://github.com/cosmoscalibur) and Federico Erbetta |
+| fr-FR     | French                  | [@Nath74k](https://github.com/Nath74k), [@greg0ire](https://github.com/greg0ire) and [@tymmesyde](https://github.com/tymmesyde)			                    |
+| he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed) and [@yishaiguedj1](https://github.com/yishaiguedj1)		                                                            |
+| hu-HU     | Hungarian               | [@pterdi](https://github.com/pterdi)				                                                                                                        |
+| hr-HR     | Croatian                | [@boljsa](https://github.com/boljsa)                                                                                                                        |
+| it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo) and [@archetipo95](https://github.com/archetipo95)			                    |
+| mk-MK     | Macedonian              | Ivan Fonchev				                                                                                                                                |
+| my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                                                                    |
+| nl-NL     | Dutch                   | [@Rubenoo](https://github.com/Rubenoo), [@Tbizla](https://github.com/Tbizla) and [@tjorim](https://github.com/tjorim)		                                |
+| nn-NO     | Norwegian, Nynorsk      | [@skanin](https://github.com/skanin)				                                                                                                        |
+| nb-NO     | Norwegian, Bokmål       | [@skanin](https://github.com/skanin)				                                                                                                        |
+| pl-PL     | Polish                  | [@yknomeh](https://github.com/yknomeh)				                                                                                                        |
+| pt-BR     | Brazilian Portuguese    | [@loopbackbr](https://github.com/loopbackbr), [@luanhssa](https://github.com/luanhssa), [@leonardosnt](https://github.com/leonardosnt),                                                                                 [@John-Luke](https://github.com/John-Luke), [@kelvins](https://github.com/kelvins), [@davidsonsns](https://github.com/davidsonsns) and                                                                                  [@fabianosantosnet](https://github.com/fabianosantosnet)                                                                                                    |
+| pt-PT     | Portuguese              | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen) and [@iretan](https://github.com/iretan)	                                |
+| ru-RU     | Russian                 | [@thedp](https://github.com/thedp)					                                                                                                        |
+| se-SE     | Swedish                 | [@erikdsjostrom](https://github.com/erikdsjostrom)				                                                                                            |
+| sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1)                                                                                                                            |
+| tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)				                                                        |
+| el-GR     | Greek                   | [@pentakalos](https://github.com/pentakalos)					                                                                                            |
 
 Feel free to add yourself!
