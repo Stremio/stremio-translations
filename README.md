@@ -26,26 +26,28 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 
 ### Translation credits
 
-- bg-BG: @Ivshti				(Bulgarian)
-- da-DK: @Holsted777				(Danish)
-- es-ES: @Decc98, @FernandoUY, @cosmoscalibur and Federico Erbetta		(Spanish)
-- fr-FR: @Nath74k, @greg0ire and @tymmesyde			(French)
-- he-IL: @kornbed and @yishaiguedj1		(Hebrew)
-- hu-HU: @pterdi				(Hungarian)
-- hr-HR: @boljsa (Croatian)
-- it-IT: @pippo73, @zurdyo and @archetipo95			(Italian)
-- mk-MK: Ivan Fonchev				(Macedonian)
-- my-BM: Abdul Muhaimin Che Sohor (Melayu)
-- nl-NL: @Rubenoo, @Tbizla and @tjorim		(Dutch)
-- nn-NO: @skanin				(Norwegian nynorsk)
-- nb-NO: @skanin				(Norwegian bokmål)
-- pl-PL: @yknomeh				(Polish)
-- pt-BR: @loopbackbr, @luanhssa, @leonardosnt, @John-Luke, @kelvins, @davidsonsns and @fabianosantosnet		(Brazilian Portuguese)
-- pt-PT: @henriquev16, @liqen and @iretan	(Portuguese)
-- ru-RU: @thedp					(Russian)
-- se-SE: @erikdsjostrom				(Swedish)
-- sr-RS: @m0k1      (Serbian)
-- tr-TR: @ali-demirtas @rozehan				(Turkish)
-- el-GR: @pentakalos					(Greek)
+| Culture   | Name                    | Contributors                                                                                                        |
+|-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------|
+| bg-BG     | Bulgarian               | @Ivshti				                                                                                                |
+| da-DK     | Danish                  | @Holsted777				                                                                                            |
+| es-ES     | Spanish                 | @Decc98, @FernandoUY, @cosmoscalibur and Federico Erbetta		                                                    |
+| fr-FR     | French                  | @Nath74k, @greg0ire and @tymmesyde			                                                                        |
+| he-IL     | Hebrew                  | @kornbed and @yishaiguedj1		                                                                                    |
+| hu-HU     | Hungarian               | @pterdi				                                                                                                |
+| hr-HR     | Croatian                | @boljsa                                                                                                             |
+| it-IT     | Italian                 | @pippo73, @zurdyo and @archetipo95			                                                                        |
+| mk-MK     | Macedonian              | Ivan Fonchev				                                                                                        |
+| my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                            |
+| nl-NL     | Dutch                   | @Rubenoo, @Tbizla and @tjorim		                                                                                |
+| nn-NO     | Norwegian, Nynorsk      | @skanin				                                                                                                |
+| nb-NO     | Norwegian, Bokmål       | @skanin				                                                                                                |
+| pl-PL     | Polish                  | @yknomeh				                                                                                            |
+| pt-BR     | Brazilian Portuguese    | @loopbackbr, @luanhssa, @leonardosnt, @John-Luke, @kelvins, @davidsonsns and @fabianosantosnet                  	|
+| pt-PT     | Portuguese              | @henriquev16, @liqen and @iretan	                                                                                |
+| ru-RU     | Russian                 | @thedp					                                                                                            |
+| se-SE     | Swedish                 | @erikdsjostrom				                                                                                        |
+| sr-RS     | Serbian                 | @m0k1                                                                                                               |
+| tr-TR     | Turkish                 | @ali-demirtas @rozehan				                                                                                |
+| el-GR     | Greek                   | @pentakalos					                                                                                        |
 
 Feel free to add yourself!
