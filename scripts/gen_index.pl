@@ -25,7 +25,7 @@ module.exports = function() {
 	return {
 START
 
-$index .= "        ";
+$index .= "\t\t";
 $index .= join(",\n\t\t", map {"\"$_\": require(\"./$langs{$_}\")"} @slangs);
 $index .= "\n\t}\n};\n\n";
 

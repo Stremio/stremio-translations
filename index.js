@@ -2,7 +2,7 @@
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\": require(\"./$line\"),\n"; done
 module.exports = function() {
 	return {
-        "bg-BG": require("./bg-BG.json"),
+		"bg-BG": require("./bg-BG.json"),
 		"da-DK": require("./da-DK.json"),
 		"de-DE": require("./de-DE.json"),
 		"el-GR": require("./el-GR.json"),
