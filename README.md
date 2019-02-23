@@ -30,6 +30,8 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 |-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------                                        |
 | bg-BG     | Bulgarian               | [@Ivshti](https://github.com/Ivshti)                                                                                                                        |
 | da-DK     | Danish                  | [@Holsted777](https://github.com/Holsted777)				                                                                                                |
+| de-DE     | German                  | [@Atalanttore](https://github.com/Atalanttore)				                                                                                                |
+| el-GR     | Greek                   | [@pentakalos](https://github.com/pentakalos)					                                                                                            |
 | es-ES     | Spanish                 | [@Decc98](https://github.com/Decc98), [@FernandoUY](https://github.com/FernandoUY), [@cosmoscalibur](https://github.com/cosmoscalibur), [@robertlluberes](https://github.com/robertlluberes) and Federico Erbetta |
 | fr-FR     | French                  | [@Nath74k](https://github.com/Nath74k), [@greg0ire](https://github.com/greg0ire) and [@tymmesyde](https://github.com/tymmesyde)			                    |
 | he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed) and [@yishaiguedj1](https://github.com/yishaiguedj1)		                                                            |
@@ -48,6 +50,5 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | se-SE     | Swedish                 | [@erikdsjostrom](https://github.com/erikdsjostrom)				                                                                                            |
 | sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1)                                                                                                                            |
 | tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)				                                                        |
-| el-GR     | Greek                   | [@pentakalos](https://github.com/pentakalos)					                                                                                            |
 
 Feel free to add yourself!
