@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Search add-ons",
 	"ADDON_INSTALL": "התקן",
 	"ADDON_UNINSTALL": "הסר התקנה",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "מותקן",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

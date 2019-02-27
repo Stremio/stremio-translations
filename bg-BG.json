@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Търси add-ons",
 	"ADDON_INSTALL": "Инсталирай",
 	"ADDON_UNINSTALL": "Де-инсталирай",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Инсталирано",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

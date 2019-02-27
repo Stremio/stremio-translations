@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Искать плагины",
 	"ADDON_INSTALL": "Установить",
 	"ADDON_UNINSTALL": "Удалить",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Установлено",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

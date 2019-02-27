@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Πρόσθετα αναζήτησης",
 	"ADDON_INSTALL": "Εγκατάσταση",
 	"ADDON_UNINSTALL": "Κατάργηση εγκατάστασης",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Εγκατεστημένο",
 	"ADDON_INSTALLED_MSG": "Το πρόσθετο εγκαταστάθηκε!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Rechercher des add-ons",
 	"ADDON_INSTALL": "Installer",
 	"ADDON_UNINSTALL": "Déinstaller",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installé",
 	"ADDON_INSTALLED_MSG": "Add-on installé !",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

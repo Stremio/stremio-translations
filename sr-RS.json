@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Pretraži dodatke",
 	"ADDON_INSTALL": "Instaliraj",
 	"ADDON_UNINSTALL": "Deinstaliraj",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Instalirano",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

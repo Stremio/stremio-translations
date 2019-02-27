@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Sök efter tillägg",
 	"ADDON_INSTALL": "Installera",
 	"ADDON_UNINSTALL": "Avinstallera",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installerad",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",

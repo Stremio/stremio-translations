@@ -444,6 +444,7 @@
 	"ADDON_SEARCH": "Eklenti ara",
 	"ADDON_INSTALL": "Yükle",
 	"ADDON_UNINSTALL": "Kaldır",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Yüklendi",
 	"ADDON_INSTALLED_MSG": "Eklenti yüklendi!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
