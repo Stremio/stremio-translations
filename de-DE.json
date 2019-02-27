@@ -446,6 +446,7 @@
 	"ADDON_UNINSTALL": "Deinstallieren",
 	"ADDON_INSTALLED": "Installiert",
 	"ADDON_INSTALLED_MSG": "Add-on installiert!",
+	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
 	"ADDON_UNKNOWN": "Unbekannt",
 	"ADDON_ERR": "Add-on-Installationsfehler!",
 	"ADDON_DISCONNECTED": "Getrennt",

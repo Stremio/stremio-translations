@@ -446,6 +446,7 @@
 	"ADDON_UNINSTALL": "De-installeren",
 	"ADDON_INSTALLED": "Geïnstalleerd",
 	"ADDON_INSTALLED_MSG": "Add-on ge:installeerd!",
+	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
 	"ADDON_UNKNOWN": "Onbekend",
 	"ADDON_ERR": "Add-on installatie fout!",
 	"ADDON_DISCONNECTED": "Verbinding verbroken",

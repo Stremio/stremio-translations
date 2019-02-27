@@ -446,6 +446,7 @@
 	"ADDON_UNINSTALL": "Κατάργηση εγκατάστασης",
 	"ADDON_INSTALLED": "Εγκατεστημένο",
 	"ADDON_INSTALLED_MSG": "Το πρόσθετο εγκαταστάθηκε!",
+	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
 	"ADDON_UNKNOWN": "Άγνωστο",
 	"ADDON_ERR": "Σφάλμα εγκατάστασης πρόσθετου!",
 	"ADDON_DISCONNECTED": "Αποσυνδεδεμένος",

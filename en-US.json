@@ -495,6 +495,7 @@
 	"ADDON_UNINSTALL": "Uninstall",
 	"ADDON_INSTALLED": "Installed",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
+	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
 	"ADDON_UNKNOWN": "Unknown",
 	"ADDON_ERR": "Add-on install error!",
 	"ADDON_DISCONNECTED": "Disconnected",
