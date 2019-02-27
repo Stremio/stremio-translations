@@ -493,6 +493,7 @@
 	"ADDON_SEARCH": "Search add-ons",
 	"ADDON_INSTALL": "Install",
 	"ADDON_UNINSTALL": "Uninstall",
+	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installed",
 	"ADDON_INSTALLED_MSG": "Add-on installed!",
 	"ADDON_UPGRADED_MSG": "Add-on upgraded!",
