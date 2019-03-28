@@ -3,6 +3,7 @@
 	"TYPE_series": "Sorozat",
 	"TYPE_tv": "TV csatorna",
 	"TYPE_channel": "Csatorna",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Filmek",
 	"TYPE_series_PL": "Sorozatok",
 	"TYPE_tv_PL": "TV csatornák",

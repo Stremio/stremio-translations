@@ -3,6 +3,7 @@
 	"TYPE_series": "Serie",
 	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Filmer",
 	"TYPE_series_PL": "Serier",
 	"TYPE_tv_PL": "TV kanaler",

@@ -3,6 +3,7 @@
 	"TYPE_series": "Dizi",
 	"TYPE_tv": "TV kanalı",
 	"TYPE_channel": "Kanal",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Filmler",
 	"TYPE_series_PL": "Diziler",
 	"TYPE_tv_PL": "TV kanalları",

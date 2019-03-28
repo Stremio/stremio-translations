@@ -3,6 +3,7 @@
 	"TYPE_series": "Series",
 	"TYPE_tv": "TV",
 	"TYPE_channel": "Youtube",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Películas",
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "TV",

@@ -3,6 +3,7 @@
 	"TYPE_series": "Serie",
 	"TYPE_tv": "Canali TV",
 	"TYPE_channel": "Canali",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Film",
 	"TYPE_series_PL": "Serie",
 	"TYPE_tv_PL": "Canali TV",
