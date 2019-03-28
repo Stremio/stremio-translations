@@ -3,6 +3,7 @@
 	"TYPE_series": "Siri",
 	"TYPE_tv": "Saluran TV",
 	"TYPE_channel": "Saluran",
+	"TYPE_other": "Other",
 	"TYPE_movie_PL": "Wayang",
 	"TYPE_series_PL": "Siri",
 	"TYPE_tv_PL": "Saluran TV",
