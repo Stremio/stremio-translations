@@ -83,7 +83,7 @@
 	"ADDON_STREAM_LOCALFILE": "Local File",
 	"SHARE_ADDON": "Share add-on",
 	"AVAILABLE_STREAMS": "Available Streams",
-	"NO_STREAM": "No streams available",
+	"NO_STREAM": "No streams were found",
 	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Show all add-ons »",
 	"ADDON_CATALOGUE_MORE": "More add-ons »",
