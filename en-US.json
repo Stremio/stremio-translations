@@ -87,7 +87,7 @@
 	"INSTALL_MORE_ADDONS": "For more streams, please install more add-ons",
 	"STREAM_NOT_SUPPORTED": "Selected stream is not supported on this platform.",
 	"ADDON_CATALOGUE": "Show all add-ons »",
-	"ADDON_CATALOGUE_MORE": "More add-ons »",
+	"ADDON_CATALOGUE_MORE": "Install add-ons",
 	"REPO_ADDED": "Repository added",
 	"ADDON_REPO_EXIST_ERR": "This add-ons collection already exist",
 	"ADDON_REPO_ERR": "Error occurred while adding collection",
