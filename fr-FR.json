@@ -84,6 +84,7 @@
 	"SHARE_ADDON": "Partager une extension",
 	"AVAILABLE_STREAMS": "Flux Disponibles",
 	"NO_STREAM": "Aucun flux Disponible",
+	"INSTALL_MORE_ADDONS": "For more streams, please install more add-ons",
 	"STREAM_NOT_SUPPORTED": "Le flux sélectionné n'est pas supporté par la plateforme",
 	"ADDON_CATALOGUE": "Afficher toutes les extensions »",
 	"ADDON_CATALOGUE_MORE": "Plus d'extensions' »",
