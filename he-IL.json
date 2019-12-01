@@ -73,6 +73,7 @@
 	"SHARE_ADDON": "שתף את ההרחבות",
 	"AVAILABLE_STREAMS": "מקורות זמינים",
 	"NO_STREAM": "לא נמצאו מקורות",
+	"INSTALL_MORE_ADDONS": "לעוד אפשרויות הזרמה, אנא התקינו תוספים נוספים",
 	"STREAM_NOT_SUPPORTED": "ההזרמה שנבחרה אינה נתמכת בפלטפורמה זו.",
 	"ADDON_CATALOGUE": "כל התוספים »",
 	"ADDON_CATALOGUE_MORE": "עוד תוספים »",
@@ -126,7 +127,7 @@
 	"CHOOSE_DEVICE": "בחר מכשיר לצפות בו",
 	"PHONE_TABLET": "סלולארי / טאבלט",
 	"SUBTITLES": "כתוביות",
-	"SUBTITLES_CHANGE": "שנה כתוביות עבור ",
+	"SUBTITLES_CHANGE": "שנה כתוביות עבור",
 	"SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
 	"SUBTITLES_CHANGE_ACIVE": "כרגע כתוביות  &#35;{{subtitlesDialog.activeIdx + 1}} מופעלות. לחץ \"המשך\" להפעלת הכתוביות &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SUBTITLES_OR": "לחילופין,",
@@ -185,7 +186,7 @@
 	"GUEST_LOGIN_NOTICE": "התחברות כאורח אינה מומלצת. התחברות רגילה מאפשרת לStremio לסנכרן את הספריות שלך, לקבל התראות על סדרות ווידאו האהובים עליך. האם אתה בטוח שתרצה להמשיך?",
 	"GUEST_LOGIN_NOTICE_2": "התחברות כאורח אינה מומלצת - לא יסונכרנו התראות בספריה או הלוח שלך, שאלו תכונות של Stremio. האם אתה בטוח שברצונך להמשיך?",
 	"CLICK_HERE": "לחץ כאן",
-	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה, ",
+	"WRONG_PASSWORD": "סיסמה שגויה, במקרה ששכחת את הסיסמה,",
 	"SET_A_PASS": "קבע סיסמה",
 	"RESET_PASSWORD": "איפוס סיסמה",
 	"FORGOT_PASSWORD": "שכחת סיסמה?",
@@ -699,6 +700,7 @@
 	"WEBSITE_SUPPORT": "תמיכה",
 	"WEBSITE_DOWNLOAD_4_0_BETA": "הורדת Stremio 4 beta",
 	"WEBSITE_GET_FOR_DESKTOP": "הורדה לשולחן העבודה",
+	"WEBSITE_LINK_ADDON_SDK": "SDK תוספים",
 	"WEBSITE_MY_ACCOUNT": "חשבון שלי",
 	"HELP_LEARN_MORE": "עזרו לנו ללמוד עליכם יותר.",
 	"LIFESTYLE": "Lifestyle",
@@ -857,4 +859,5 @@
 	"FAQ_22_H1": "I cannot see/use most add-ons on iOS",
 	"FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of add-ons.",
 	"FAQ_22_P2": "But rest assured - there will be more add-ons for iOS in the future, and we may also add an integration that will allow you to use all Stremio add-ons thanks to connecting the iOS app to the Stremio Streaming Server."
+
 }
