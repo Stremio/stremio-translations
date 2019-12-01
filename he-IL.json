@@ -128,7 +128,7 @@
 	"SUBTITLES": "כתוביות",
 	"SUBTITLES_CHANGE": "שנה כתוביות עבור ",
 	"SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
-	"SUBTITLES_CHANGE_ACIVE": "כרגע כתוביות &#35;{{subtitlesDialog.activeIdx + 1}} מופעלות. לחץ \"המשך\" להפעלת הכתוביות &#35;{{subtitlesDialog.pickedIdx + 1}}.",
+	"SUBTITLES_CHANGE_ACIVE": "כרגע כתוביות  &#35;{{subtitlesDialog.activeIdx + 1}} מופעלות. לחץ \"המשך\" להפעלת הכתוביות &#35;{{subtitlesDialog.pickedIdx + 1}}.",
 	"SUBTITLES_OR": "לחילופין,",
 	"SUBTITLES_ADJUST_DELAY": "שנה השהיית כתוביות:",
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "או להשתמש במקשים <span>G</span> / <span>H</span> בזמן ניגון לשינוי.",
