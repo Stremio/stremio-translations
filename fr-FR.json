@@ -921,7 +921,7 @@
 	"FAQ_13_P3" : "Si vous n'avez pas de compétences en programmation, veuillez poster votre idée sur ${1}the Reddit community${2} et nous contacter avec votre idée d'add-on sur ${3}office@stremio.com${4}.", "FAQ_13_P3" : "Vous pouvez ensuite suivre le tutoriel ${1}Hello World${2},
 	
 	"FAQ_14_H1" : "Comment les add-ons sont-ils publiés ?",
-	"FAQ_14_P1" : "Lorsque vous créez un add-on et un hôte, et que vous mettez un champ <b>endpoint</b> dans votre manifeste, qui pointe vers une adresse d'add-on fonctionnelle, l'add-on se publiera automatiquement dans notre catalogue ${1}Add-on${2}.", "FAQ_14_H1" : "Comment les add-ons sont-ils publiés ?
+	"FAQ_14_P1" : "Lorsque vous créez un add-on et un hôte, et que vous mettez un champ <b>endpoint</b> dans votre manifeste, qui pointe vers une adresse d'add-on fonctionnelle, l'add-on se publiera automatiquement dans notre catalogue ${1}Add-on${2}.",
 	"FAQ_14_P2" : "Cela se produit parce que la partie serveur du module stremio-addons fait automatiquement un appel à notre API pour annoncer l'add-on. Lorsque notre API valide votre <b>endpoint</b> comme add-on valide, il commencera à apparaître dans le catalogue",
 	
 	"FAQ_15_H1" : "Puis-je exécuter Stremio dans mon navigateur ?",
