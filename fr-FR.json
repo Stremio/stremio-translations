@@ -870,7 +870,7 @@
 	
 	"FAQ_04_H1" : "Comment Stremio se compare-t-il à Flipboard ?",
 	"FAQ_04_P1" : "On ne nous pose pas souvent cette question, sauf quand on parle à des gens de la start-up :)",
-	"FAQ_04_P2" : "Stremio est par conception un agrégateur de contenu, ce qui en fait essentiellement un Flipboard pour la vidéo. Cela est très visible dans notre section "Board", qui vous donne des catalogues et des notifications de nouveaux épisodes/nouvelles vidéos pour ce que vous suivez, tout comme Flipboard",
+	"FAQ_04_P2" : "Stremio est par conception un agrégateur de contenu, ce qui en fait essentiellement un Flipboard pour la vidéo. Cela est très visible dans notre section \"Board\", qui vous donne des catalogues et des notifications de nouveaux épisodes/nouvelles vidéos pour ce que vous suivez, tout comme Flipboard",
 	
 	"FAQ_05_H1" : "Comment Stremio se compare-t-il au Popcorn Time ?",
 	"FAQ_05_P1" : "Stremio et Popcorn Time sont similaires dans leur interface utilisateur, car il n'y a pas beaucoup de façons de bien faire les catalogues de divertissement vidéo :)",
@@ -880,7 +880,7 @@
 	
 	"FAQ_06_H1" : "Ajouterez-vous ce film/série ?",
 	"FAQ_06_P1" : "Non, désolé :(",
-	"FAQ_06_P2" : "Comme il est mentionné dans la plupart des autres questions, Stremio ne fournit aucun contenu en lui-même - tout est ajouté par le biais du système de modules complémentaires. Si vous avez une demande de contenu, vous pouvez utiliser le bouton "Report" dans le lecteur, qui enverra un courriel à l'auteur de l'add-on que vous utilisez actuellement",
+	"FAQ_06_P2" : "Comme il est mentionné dans la plupart des autres questions, Stremio ne fournit aucun contenu en lui-même - tout est ajouté par le biais du système de modules complémentaires. Si vous avez une demande de contenu, vous pouvez utiliser le bouton \"Report\" dans le lecteur, qui enverra un courriel à l'auteur de l'add-on que vous utilisez actuellement",
 	
 	"FAQ_07_H1" : "",
 	"FAQ_07_P1" : "",
@@ -951,11 +951,11 @@
 	"FAQ_19_P3" : "La quantité que Stremio conserve dépend du paramètre <b>Cache</b> dans le panneau Paramètres. Stremio peut conserver jusqu'à la quantité fixée (par exemple 2 Go) sur votre disque, sauf si la vidéo actuellement diffusée en continu est plus grande que cela, auquel cas il doit allouer suffisamment de mémoire pour la conserver jusqu'à ce que vous la diffusiez en continu",
 	
 	"FAQ_20_H1" : "Où se trouve le dossier de cache ?",
-	"FAQ_20_P1" : "Sous Windows, il s'agit de stremio-cache dans le lecteur que vous avez choisi dans les paramètres (par exemple : "E:\\\\stremio-cache\")",
+	"FAQ_20_P1" : "Sous Windows, il s'agit de stremio-cache dans le lecteur que vous avez choisi dans les paramètres (par exemple : \"E:\\\\stremio-cache\")",
 	"FAQ_20_P2" : "Sous MacOS, c'est \"~/Bibliothèque/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3" : "Sous Linux, c'est \"~/.stremio/stremio-cache\" ou \"~/stremio-cache\"",
 	
-	"FAQ_21_H1" : "J'obtiens l'erreur "Le serveur de streaming n'est pas trouvé", que puis-je faire ?
+	"FAQ_21_H1" : "J'obtiens l'erreur \"Le serveur de streaming n'est pas trouvé\", que puis-je faire ?
 	"FAQ_21_P1" : "Si vous obtenez cette erreur, cela signifie une des rares choses suivantes :",
 	"FAQ_21_P2" : "1) Vous essayez d'utiliser un add-on supporté par la source YouTube/BitTorrent, par le biais de notre version web ${1}${2}. Dans ce cas, vous devez installer notre version de bureau à partir de ${3}notre site web${4}",
 	"FAQ_21_P3" : "2) Quelque chose ne va pas avec votre installation de Stremio. Dans ce cas, essayez de réinstaller notre dernière version de bureau à partir de ${1}le site web${2}. Si cela ne vous aide pas, essayez de désactiver les programmes anti-virus et les pare-feu, de redémarrer votre PC et d'essayer à nouveau. Si cela ne marche pas non plus, écrivez-nous à notre groupe Facebook ${3}",
