@@ -693,6 +693,8 @@
 	"WEBSITE_TECHNOLOGY_P_RN": "Το React Native σάς επιτρέπει να δημιουργείτε εφαρμογές για κινητά χρησιμοποιώντας μόνο JavaScript.",
 	"WEBSITE_TECHNOLOGY_P_VLC": "Το Media framework είναι ενσωματωμένο στην εφαρμογή για λήψη πολυμέσων.",
 	"WEBSITE_TECHNOLOGY_P_REALM": "Το Realm είναι μια φορητή πλατφόρμα και αντικαθιστά το SQLite & Core Data.",
+	"WEBSITE_TECHNOLOGY_P_NODEJS": "Node.js is an open-source, cross-platform, JavaScript runtime environment.",
+	"WEBSITE_TECHNOLOGY_P_RUST": "Rust is a multi-paradigm system programming language focused on safety, especially safe concurrency.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE": "Συμβολή στο έργο",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P1": "Υπάρχουν δύο τρόποι με τους οποίους μπορείτε να συμβάλλετε στο Stremio και να μας βοηθήσετε να κάνουμε το προϊόν ακόμα καλύτερο.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_TRANSALTE": "Μπορείτε να δώσετε τις πολύτιμες γλωσσικές δεξιότητές σας με τη μετάφραση της πλατφόρμας ...",

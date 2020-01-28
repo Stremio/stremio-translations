@@ -693,6 +693,8 @@
 	"WEBSITE_TECHNOLOGY_P_RN": "React Native vous permet de créer des applications mobiles en utilisant uniquement JavaScript.",
 	"WEBSITE_TECHNOLOGY_P_VLC": "Media framework intégré à l'application pour obtenir du multimédia.",
 	"WEBSITE_TECHNOLOGY_P_REALM": "Realm est une plateforme mobile qui remplace SQLite & Core Data.",
+	"WEBSITE_TECHNOLOGY_P_NODEJS": "Node.js is an open-source, cross-platform, JavaScript runtime environment.",
+	"WEBSITE_TECHNOLOGY_P_RUST": "Rust is a multi-paradigm system programming language focused on safety, especially safe concurrency.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE": "Contribuer au projet",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P1": "Il y a deux façons de contribuer à Stremio et de nous aider à rendre le produit encore mieux.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_TRANSALTE": "Vous pouvez faire don de vos précieuses compétences linguistiques en traduisant la plateforme ...",

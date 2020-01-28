@@ -693,6 +693,8 @@
 	"WEBSITE_TECHNOLOGY_P_RN": "React Native, yalnızca JavaScript kullanarak mobil uygulamalar oluşturmanızı sağlar.",
 	"WEBSITE_TECHNOLOGY_P_VLC": "Multimedya almak için uygulamaya gömülü medya çerçevesi.",
 	"WEBSITE_TECHNOLOGY_P_REALM": "Realm bir mobil platform ve SQLite & Core Data'nın yerini alıyor.",
+	"WEBSITE_TECHNOLOGY_P_NODEJS": "Node.js is an open-source, cross-platform, JavaScript runtime environment.",
+	"WEBSITE_TECHNOLOGY_P_RUST": "Rust is a multi-paradigm system programming language focused on safety, especially safe concurrency.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE": "Projeye katkıda bulunun",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P1": "Stremio'ya katkıda bulunmanın ve ürünün daha da iyi olmasına yardımcı olmanın iki yolu vardır.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_TRANSALTE": "Platformu tercüme ederek değerli dil becerilerini bağışlayabilirsin...",
