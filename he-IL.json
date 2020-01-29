@@ -156,8 +156,12 @@
 	"DISCOVER_FEATURED": "מומלץ",
 	"DISCOVER_TOP": "מומלץ",
 	"DISCOVER_OSCAR": "זוכי אוסקר",
+	"DISCOVER_WARNING_TITLE": "Oops!",
+	"DISCOVER_EMPTY_CATALOG": "This add-on returned empty content.",
+	"DISCOVER_ADULT_WARNING": "The content is visible only for adults. Are you 18+?",
 	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
 	"DISCOVER_LOAD_ERR": "גילוי: טעינת קטלוג נכשלה",
+	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "קבלת התראות עבור פרקים חדשים",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "קבלת התראות עבור סרטים חדשים",
 	"RELAUNCH": "הפעל מחדש כעת!",
@@ -567,7 +571,7 @@
 	"WEBSITE_LINK_DOWNLOADS": "Downloads",
 	"WEBSITE_MORE": "עוד",
 	"WEBSITE_LINK_ADDONS": "Add-ons",
-	"WEBSITE_LINK_ADDON_SDK": "Add-on SDK",
+	"WEBSITE_LINK_ADDON_SDK": "SDK תוספים",
 	"WEBSITE_LINK_CONTRIBUTE": "Contribute",
 	"WEBSITE_LINK_COMMUNITY": "Community",
 	"WEBSITE_LINK_BLOG": "Blog",
@@ -700,7 +704,6 @@
 	"WEBSITE_SUPPORT": "תמיכה",
 	"WEBSITE_DOWNLOAD_4_0_BETA": "הורדת Stremio 4 beta",
 	"WEBSITE_GET_FOR_DESKTOP": "הורדה לשולחן העבודה",
-	"WEBSITE_LINK_ADDON_SDK": "SDK תוספים",
 	"WEBSITE_MY_ACCOUNT": "חשבון שלי",
 	"HELP_LEARN_MORE": "עזרו לנו ללמוד עליכם יותר.",
 	"LIFESTYLE": "Lifestyle",
@@ -859,5 +862,4 @@
 	"FAQ_22_H1": "I cannot see/use most add-ons on iOS",
 	"FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of add-ons.",
 	"FAQ_22_P2": "But rest assured - there will be more add-ons for iOS in the future, and we may also add an integration that will allow you to use all Stremio add-ons thanks to connecting the iOS app to the Stremio Streaming Server."
-
 }
