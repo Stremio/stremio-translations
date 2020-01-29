@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "אזהרה: אין תוסף סטרימיו פעיל עבור סוג זה. מציג פריטים שמורים, כלום לא ישמר כאן.",
 	"DISCOVER_LOAD_ERR": "גילוי: טעינת קטלוג נכשלה",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "קבלת התראות עבור פרקים חדשים",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "קבלת התראות עבור סרטים חדשים",
 	"RELAUNCH": "הפעל מחדש כעת!",

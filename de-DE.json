@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Warnung: Für diesen Typ ist kein Stremio-Add-on aktiv. Gespeicherte Elemente werden angezeigt, nichts wird hier aktualisiert.",
 	"DISCOVER_LOAD_ERR": "The content did not load, error occured.",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Benachrichtigungen über neue Episoden erhalten",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Benachrichtigungen über neue Videos erhalten",
 	"RELAUNCH": "Jetzt neu starten!",

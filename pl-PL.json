@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Ostrzeżenie: żaden Stremio add-on nie jest aktywny dla tego typu. Pokazywanie zapisanych rzeczy, nic nie zostanie zaktualizowane",
 	"DISCOVER_LOAD_ERR": "Odkrywaj: nie udało sie załadować katalogu z add-onas",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Otrzymuj powiadomienia o nowych odcinkach",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Otrzymuj powiadomienia o nowych filmach",
 	"RELAUNCH": "Uruchom ponownie teraz!",

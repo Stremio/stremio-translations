@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Внимание: нема активен Stremio add-on за овој тип содржина. Овде гледате зачувана информациjа, таа нема да се обновува.",
 	"DISCOVER_LOAD_ERR": "The content did not load, error occured.",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Receive notifications for new episodes",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receive notifications for new videos",
 	"RELAUNCH": "Лансирање новата верзија!",

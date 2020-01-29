@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Uyarı: Böyle bir aktif Stremio eklentisi yoktur. Kaydedilen ögeler gösteriliyor, güncellenmeyecek.",
 	"DISCOVER_LOAD_ERR": "Keşfet: eklentiden katalog yüklenemedi",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Yeni bölümler için bildirim alın",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Yeni videolar için bildirim alın",
 	"RELAUNCH": "Şimdi yeniden başlat!",

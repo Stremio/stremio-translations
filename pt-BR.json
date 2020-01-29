@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Atenção: nenhuma extensão do Stremio ativa para este tipo. Mostrando itens salvos, nada aqui será atualizado.",
 	"DISCOVER_LOAD_ERR": "Descubra: falha ao carregar o catálogo pela extensão",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Receber notificações de novos episódios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receber notificações de novos vídeos",
 	"RELAUNCH": "Reinicie agora!",

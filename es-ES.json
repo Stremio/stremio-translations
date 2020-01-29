@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Advertencia: Ningún complemento activo de este tipo. Mostrando artículos guardados, nada de aquí se actualizará.",
 	"DISCOVER_LOAD_ERR": "Descubrir: error al cargar el catálogo desde el complemento",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recibir notificaciones de nuevos episodios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recibir notificaciones de nuevos videos",
 	"RELAUNCH": "¡Relanzar ahora!",

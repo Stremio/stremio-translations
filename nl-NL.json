@@ -162,6 +162,7 @@
 	"DISCOVER_NOADDON_WARNING": "Waarschuwing: geen Stremio add-on actief voor dit type. Opgeslagen items worden weergegeven, hier komen geen updates.",
 	"DISCOVER_LOAD_ERR": "The content did not load, error occured.",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the add-on.",
+	"UNINSTALL_THIS_ADDON": "Uninstall this add-on",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ontvang notificaties bij nieuwe afleveringen",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ontvang notificaties bij nieuwe video's",
 	"RELAUNCH": "Herstart Stremio",
