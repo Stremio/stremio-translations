@@ -623,6 +623,7 @@
 	"WEBSITE_FEATURES_CHROMECAST_P1": "Enjoy your video content on a bigger screen or just cast whatever you are watching to another device.",
 	"WEBSITE_FEATURES_KEEP_TRACK": "Keep track of your favorite TV shows and Web channels",
 	"WEBSITE_FEATURES_KEEP_TRACK_P1": "Get a calendar visualization and notifications for new episodes of your favorite series and web channels.",
+	"WEBSITE_FEATURES_POWER_USER": "Power user features",
 	"WEBSITE_FEATURES_POWER_USER_P1": "Play in external player",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Play from a torrent file or magnet link",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Import to your library from Facebook likes or local disk",
