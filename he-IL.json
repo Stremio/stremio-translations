@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "מקורות תוספים",
 	"ADDON_SEARCH": "חיפוש תוספים",
 	"ADDON_INSTALL": "התקן",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "הסר התקנה",
 	"ADDON_UPGRADE": "שדרוג",
 	"ADDON_INSTALLED": "מותקן",

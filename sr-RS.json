@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Addon repositories",
 	"ADDON_SEARCH": "Pretraži dodatke",
 	"ADDON_INSTALL": "Instaliraj",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Deinstaliraj",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Instalirano",

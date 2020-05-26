@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Репозитории плагинов",
 	"ADDON_SEARCH": "Искать плагины",
 	"ADDON_INSTALL": "Установить",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Удалить",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Установлено",

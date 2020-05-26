@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Repositórios da Extensões",
 	"ADDON_SEARCH": "Buscar extensões",
 	"ADDON_INSTALL": "Instalar",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Desinstalar",
 	"ADDON_UPGRADE": "Atualizar",
 	"ADDON_INSTALLED": "Instalado",

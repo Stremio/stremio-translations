@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Repositorios de complementos",
 	"ADDON_SEARCH": "Buscar Complementos",
 	"ADDON_INSTALL": "Instalar",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Desinstalar",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Instalado",

@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Addon repositories",
 	"ADDON_SEARCH": "Search addons",
 	"ADDON_INSTALL": "Install",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Uninstall",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installed",
