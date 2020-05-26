@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Addon repositories",
 	"ADDON_SEARCH": "Sök efter tillägg",
 	"ADDON_INSTALL": "Installera",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Avinstallera",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installerad",

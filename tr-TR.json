@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Eklenti depoları",
 	"ADDON_SEARCH": "Eklenti ara",
 	"ADDON_INSTALL": "Yükle",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Kaldır",
 	"ADDON_UPGRADE": "Yükselt",
 	"ADDON_INSTALLED": "Yüklendi",

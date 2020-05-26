@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Αποθετήρια πρόσθετων",
 	"ADDON_SEARCH": "Πρόσθετα αναζήτησης",
 	"ADDON_INSTALL": "Εγκατάσταση",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Κατάργηση εγκατάστασης",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Εγκατεστημένο",

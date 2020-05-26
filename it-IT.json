@@ -450,6 +450,7 @@
 	"ADDON_REPOS": "Cartelle Addon",
 	"ADDON_SEARCH": "Cerca addon",
 	"ADDON_INSTALL": "Installa",
+	"ADDON_CONFIGURE": "Configure",
 	"ADDON_UNINSTALL": "Disinstalla",
 	"ADDON_UPGRADE": "Upgrade",
 	"ADDON_INSTALLED": "Installato",
