@@ -136,6 +136,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Съвет: може да ползвате <span>G</span> / <span>H</span>, за да настроите субтитрите.",
 	"SUBTITLES_DELAY": "Subtitles delay:",
 	"SUBTITLES_LOADING": "Loading subtitles...",
+	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Сезон",
 	"EPISODE": "Епизод",
 	"SORT": "sort",

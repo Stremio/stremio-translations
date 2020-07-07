@@ -136,6 +136,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Savet: možete koristiti <span>G</span> / <span>H</span> dugmad dok puštate da podesite titlove.",
 	"SUBTITLES_DELAY": "Odlaganje titlova:",
 	"SUBTITLES_LOADING": "Učitavanje titlova...",
+	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Sezona",
 	"EPISODE": "Epizoda",
 	"SORT": "sort",

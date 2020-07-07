@@ -136,6 +136,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Dica: Pode usar as teclas <span>G</span> / <span>H</span> durante a reprodução para ajustar.",
 	"SUBTITLES_DELAY": "Atraso de legendas:",
 	"SUBTITLES_LOADING": "A carregar legendas...",
+	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Temporada",
 	"EPISODE": "Episódio",
 	"SORT": "Ordenar",
