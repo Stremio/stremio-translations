@@ -280,6 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Импорт из локального диска",
 	"SETTINGS_IMPORT_TRAKT": "Импорт из Trakt",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
+	"SETTINGS_BACKGROUND": "Play in the background",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Подписаться на календарь",
 	"SETTINGS_REQ_EXPORT": "Request data export",
 	"SETTINGS_ACC_DELETE": "Request account deletion",

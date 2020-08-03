@@ -280,6 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Importuj z lokalnego dysku",
 	"SETTINGS_IMPORT_TRAKT": "Importuj z Trakt",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
+	"SETTINGS_BACKGROUND": "Odtwarzaj w tle",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subskrybuj kalendarz",
 	"SETTINGS_REQ_EXPORT": "Zażądaj exportu danych",
 	"SETTINGS_ACC_DELETE": "Zażądaj usunięcia konta",
