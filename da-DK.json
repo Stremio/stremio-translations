@@ -280,7 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Importer fra computer",
 	"SETTINGS_IMPORT_TRAKT": "Import from Trakt",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
-	"SETTINGS_BACKGROUND": "Play in the background",
+	"SETTINGS_BACKGROUND": "Background playback",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på kalender",
 	"SETTINGS_REQ_EXPORT": "Request data export",
 	"SETTINGS_ACC_DELETE": "Request account deletion",
