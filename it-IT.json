@@ -280,6 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Importa da disco locale",
 	"SETTINGS_IMPORT_TRAKT": "Importa da Trakt",
 	"SETTINGS_HWDEC": "Decodifica con accelerazione hardware",
+	"SETTINGS_BACKGROUND": "Play in the background",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Sottoscrivi nel calendario",
 	"SETTINGS_REQ_EXPORT": "Richiedi estrazione dei dati",
 	"SETTINGS_ACC_DELETE": "Richiedi cancellazione account",

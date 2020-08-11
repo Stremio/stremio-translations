@@ -280,6 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Uvezi sa lokalnog diska",
 	"SETTINGS_IMPORT_TRAKT": "Import from Trakt",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
+	"SETTINGS_BACKGROUND": "Play in the background",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Pretplati se na kalendar",
 	"SETTINGS_REQ_EXPORT": "Request data export",
 	"SETTINGS_ACC_DELETE": "Request account deletion",

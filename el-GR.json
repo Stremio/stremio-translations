@@ -280,6 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Εισαγωγή από τον τοπικό δίσκο",
 	"SETTINGS_IMPORT_TRAKT": "Εισαγωγή από το Trakt",
 	"SETTINGS_HWDEC": "αποκωδικοποίηση με επιτάχυνση υλικού hardware",
+	"SETTINGS_BACKGROUND": "Play in the background",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Εγγραφείτε στο ημερολόγιο",
 	"SETTINGS_REQ_EXPORT": "Ζητήστε εξαγωγή δεδομένων",
 	"SETTINGS_ACC_DELETE": "Ζητήστε τη διαγραφή λογαριασμού",
