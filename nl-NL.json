@@ -280,7 +280,7 @@
 	"SETTINGS_IMPORT_DISK": "Importeren van lokale schijf",
 	"SETTINGS_IMPORT_TRAKT": "Importeren van Trakt",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
-	"SETTINGS_BACKGROUND": "Play in the background",
+	"SETTINGS_BACKGROUND": "Background playback",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonneer op agenda",
 	"SETTINGS_REQ_EXPORT": "Request data export",
 	"SETTINGS_ACC_DELETE": "Request account deletion",
