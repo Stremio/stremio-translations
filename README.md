@@ -48,7 +48,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | pt-PT     | Portuguese              | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen) and [@iretan](https://github.com/iretan)	                                |
 | ru-RU     | Russian                 | [@thedp](https://github.com/thedp)					                                                                                                        |
 | se-SE     | Swedish                 | [@erikdsjostrom](https://github.com/erikdsjostrom)				                                                                                            |
-| sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1)                                                                                                                            |
+| sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1), [@RyanLinford](https://github.com/RyanLinford)                                                                      |
 | tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)				                                                        |
 
 Feel free to add yourself!
