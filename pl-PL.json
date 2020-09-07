@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Przewiń do początku",
 	"CTX_MARK_WATCHED": "Oznacz jako obejrzane",
 	"CTX_MARK_NON_WATCHED": "Oznacz jako nieobejrzane",
+	"CTX_MARK_REST": "Oznacz reszte jako obejrzane",
+	"CTX_UNMARK_REST": "Oznacz reszte jako nieobejrzane",
 	"CTX_RECEIVE_NEW_NOTIF": "Otrzymuj nowe powiadomienia",
 	"CTX_REMOVE_CACHE": "Usuń z cache",
 	"CTX_REMOVE_CACHE_EP": "Usuń odcinek z cache",

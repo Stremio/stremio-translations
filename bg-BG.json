@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Превърти до началото",
 	"CTX_MARK_WATCHED": "Маркирай като гледано",
 	"CTX_MARK_NON_WATCHED": "Маркирай като негледано",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Получавай нови известия",
 	"CTX_REMOVE_CACHE": "Премахни от кеш",
 	"CTX_REMOVE_CACHE_EP": "Премахни епизод от кеш",

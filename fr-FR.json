@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Redémarrer",
 	"CTX_MARK_WATCHED": "Marquer comme vu",
 	"CTX_MARK_NON_WATCHED": "Marquer comme non-vu",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Recevoir les nouvelles notifications",
 	"CTX_REMOVE_CACHE": "Supprimer du cache",
 	"CTX_REMOVE_CACHE_EP": "Supprimer l'épisode du cache",

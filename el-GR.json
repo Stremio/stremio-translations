@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Επανάληψη από την αρχή",
 	"CTX_MARK_WATCHED": "Μαρκάρισμα ως προβεβλημένο",
 	"CTX_MARK_NON_WATCHED": "Επισημάνετε ως μη προβεβλημένο",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Λήψη νέων ειδοποιήσεων",
 	"CTX_REMOVE_CACHE": "Κατάργηση από την προσωρινή μνήμη",
 	"CTX_REMOVE_CACHE_EP": "Κατάργηση επεισοδίου από την προσωρινή μνήμη",
