@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Spol til start",
 	"CTX_MARK_WATCHED": "Merk som sett",
 	"CTX_MARK_NON_WATCHED": "Merk som ikke sett",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Få nye varsler",
 	"CTX_REMOVE_CACHE": "Fjern fra bruffren",
 	"CTX_REMOVE_CACHE_EP": "Fjern episode fra buffren",

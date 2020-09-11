@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Tilbage til begyndelsen",
 	"CTX_MARK_WATCHED": "Marker som set",
 	"CTX_MARK_NON_WATCHED": "Marker som ikke set",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Modtag nye notifikationer",
 	"CTX_REMOVE_CACHE": "Fjern cache",
 	"CTX_REMOVE_CACHE_EP": "Fjern episode fra cache",

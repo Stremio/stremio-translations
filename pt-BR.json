@@ -423,6 +423,8 @@
 	"CTX_REWIND": "Voltar para o início",
 	"CTX_MARK_WATCHED": "Marcar como assistido",
 	"CTX_MARK_NON_WATCHED": "Marcar como não assistido",
+	"CTX_MARK_REST": "Mark rest as watched",
+	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Receber novas notificações",
 	"CTX_REMOVE_CACHE": "Remover do cache",
 	"CTX_REMOVE_CACHE_EP": "Remover episodio do cache",
