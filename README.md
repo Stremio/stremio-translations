@@ -37,7 +37,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed), [@yishaiguedj1](https://github.com/yishaiguedj1), [@icecore2](https://github.com/icecore2)		                                                            |
 | hu-HU     | Hungarian               | [@pterdi](https://github.com/pterdi)				                                                                                                        |
 | hr-HR     | Croatian                | [@boljsa](https://github.com/boljsa)                                                                                                                        |
-| it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo) and [@archetipo95](https://github.com/archetipo95)			                    |
+| it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95),                                                               [@penguinFSS](https://github.com/penguinFSS) |
 | mk-MK     | Macedonian              | Ivan Fonchev				                                                                                                                                |
 | my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                                                                    |
 | nl-NL     | Dutch                   | [@Rubenoo](https://github.com/Rubenoo), [@Tbizla](https://github.com/Tbizla) and [@tjorim](https://github.com/tjorim)		                                |
