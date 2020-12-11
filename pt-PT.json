@@ -804,7 +804,7 @@
 	"CHOOSE_SOME": "ESCOLHA ALGUNS DESTES:",
 	"NO_WEB_REMOTE": "O controlo remoto via web não pode ser carregado",
 	"STREMIO_OFFLINE": "Stremio is offline",
-	"STREMIO_EXPENSIVE_CONNECTION": "Network connection is expensive",
+	"STREMIO_EXPENSIVE_CONNECTION": "We've detected that you are using a mobile data connection, do you want to continue?",
 	"USE_DATA": "Use data",
 	"WARNING": "Warning",
 	"MORE_INFO": "More Info ...",
