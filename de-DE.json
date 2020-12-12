@@ -804,7 +804,7 @@
 	"CHOOSE_SOME": "WÄHLEN SIE VON DIESEN AUS:",
 	"NO_WEB_REMOTE": "Web-Fernbedienung konnte nicht geladen werden",
 	"STREMIO_OFFLINE": "Stremio ist offline",
-	"STREMIO_EXPENSIVE_CONNECTION": "Network connection is expensive",
+	"STREMIO_EXPENSIVE_CONNECTION": "We've detected that you are using a mobile data connection, do you want to continue?",
 	"USE_DATA": "Use data",
 	"WARNING": "Warnung",
 	"MORE_INFO": "Weitere Informationen ...",

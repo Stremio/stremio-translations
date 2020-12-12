@@ -804,7 +804,7 @@
 	"CHOOSE_SOME": "CHOOSE SOME OF THIS:",
 	"NO_WEB_REMOTE": "Web Remote could not be loaded",
 	"STREMIO_OFFLINE": "Stremio is offline",
-	"STREMIO_EXPENSIVE_CONNECTION": "Network connection is expensive",
+	"STREMIO_EXPENSIVE_CONNECTION": "Wykryliśmy, że korzystasz z połączenia mobilnego, zalecamy oglądać filmy przy użyciu sieci WIFI, chcesz kontynuować?",
 	"USE_DATA": "Use data",
 	"WARNING": "Warning",
 	"MORE_INFO": "More Info ...",
