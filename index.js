@@ -3,6 +3,7 @@
 module.exports = function() {
 	return {
 		"bg-BG": require("./bg-BG.json"),
+		"ca-CA": require("./ca-CA.json"),
 		"da-DK": require("./da-DK.json"),
 		"de-DE": require("./de-DE.json"),
 		"el-GR": require("./el-GR.json"),
@@ -31,6 +32,7 @@ module.exports = function() {
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
 module.exports.all = [
 	"bg-BG",
+	"ca-CA",
 	"da-DK",
 	"de-DE",
 	"el-GR",
