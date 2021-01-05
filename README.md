@@ -33,6 +33,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | da-DK     | Danish                  | [@Holsted777](https://github.com/Holsted777)				                                                                                                |
 | de-DE     | German                  | [@Atalanttore](https://github.com/Atalanttore)				                                                                                                |
 | el-GR     | Greek                   | [@pentakalos](https://github.com/pentakalos)					                                                                                            |
+| en-US     | English (US)            | Original Stremio team and [@TheSparrowLenz](https://github.com/TheSparrowLenz)			                                                                                            |
 | es-ES     | Spanish                 | [@Decc98](https://github.com/Decc98), [@FernandoUY](https://github.com/FernandoUY), [@cosmoscalibur](https://github.com/cosmoscalibur), [@robertlluberes](https://github.com/robertlluberes) and Federico Erbetta |
 | fr-FR     | French                  | [@Nath74k](https://github.com/Nath74k), [@greg0ire](https://github.com/greg0ire) and [@tymmesyde](https://github.com/tymmesyde)			                    |
 | he-IL     | Hebrew                  | [@kornbed](https://github.com/kornbed), [@yishaiguedj1](https://github.com/yishaiguedj1), [@icecore2](https://github.com/icecore2)		                                                            |
@@ -41,7 +42,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | it-IT     | Italian                 | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95),                                                               [@penguinFSS](https://github.com/penguinFSS) |
 | mk-MK     | Macedonian              | Ivan Fonchev				                                                                                                                                |
 | my-BM     | Melayu                  | Abdul Muhaimin Che Sohor                                                                                                                                    |
-| nl-NL     | Dutch                   | [@Rubenoo](https://github.com/Rubenoo), [@Tbizla](https://github.com/Tbizla) and [@tjorim](https://github.com/tjorim)		                                |
+| nl-NL     | Dutch                   | [@Rubenoo](https://github.com/Rubenoo), [@Tbizla](https://github.com/Tbizla), [@tjorim](https://github.com/tjorim) and [@TheSparrowLenz](https://github.com/TheSparrowLenz)     	                                |
 | nn-NO     | Norwegian, Nynorsk      | [@skanin](https://github.com/skanin)				                                                                                                        |
 | nb-NO     | Norwegian, Bokmål       | [@skanin](https://github.com/skanin)				                                                                                                        |
 | pl-PL     | Polish                  | [@yknomeh](https://github.com/yknomeh)				                                                                                                        |
