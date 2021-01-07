@@ -47,10 +47,10 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | nb-NO     | Norwegian, Bokmål       | [@skanin](https://github.com/skanin)				                                                                                                        |
 | pl-PL     | Polish                  | [@yknomeh](https://github.com/yknomeh)				                                                                                                        |
 | pt-BR     | Brazilian Portuguese    | [@loopbackbr](https://github.com/loopbackbr), [@luanhssa](https://github.com/luanhssa), [@leonardosnt](https://github.com/leonardosnt),                                                                                 [@John-Luke](https://github.com/John-Luke), [@kelvins](https://github.com/kelvins), [@davidsonsns](https://github.com/davidsonsns),  [@fabianosantosnet](https://github.com/fabianosantosnet), [@andrerafaiel](https://github.com/andrerafaiel), [@brunohgv](https://github.com/brunohgv)                                                                                                    |
-| pt-PT     | Portuguese              | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen),[@iretan](https://github.com/iretan)	                                |
+| pt-PT     | Portuguese              | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen), [@iretan](https://github.com/iretan)	                                |
 | ru-RU     | Russian                 | [@thedp](https://github.com/thedp)					                                                                                                        |
 | se-SE     | Swedish                 | [@erikdsjostrom](https://github.com/erikdsjostrom)				                                                                                            |
 | sr-RS     | Serbian                 | [@m0k1](https://github.com/m0k1), [@RyanLinford](https://github.com/RyanLinford)                                                                      |
-| tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas),[@rozehan](https://github.com/rozehan)				                                                        |
+| tr-TR     | Turkish                 | [@ali-demirtas](https://github.com/ali-demirtas), [@rozehan](https://github.com/rozehan)				                                                        |
 
 Feel free to add yourself!
