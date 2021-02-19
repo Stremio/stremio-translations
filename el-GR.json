@@ -4,38 +4,30 @@
 	"TYPE_tv": "Κανάλι TV",
 	"TYPE_channel": "Κανάλι",
 	"TYPE_other": "Άλλο",
-
 	"TYPE_movie_PL": "Ταινίες",
 	"TYPE_series_PL": "Σειρές",
 	"TYPE_tv_PL": "Κανάλια TV",
 	"TYPE_channel_PL": "Κανάλια",
 	"TYPE_other_PL": "Άλλα",
-	
 	"VIDEO": "Βίντεο",
-	
 	"BACK": "Πίσω",
 	"MORE": "Περισότερα",
 	"DONE": "Έγινε",
-	
 	"Discover": "Ανακαλύψτε",
 	"Board": "Πίνακας",
 	"Library": "Βιβλιοθήκη",
 	"My Library": "Η Βιβλιοθήκη μου",
 	"Calendar": "Ημερολόγιο",
-	
 	"NOTIFICATION_ONLINE": "Συνδεδεμένο",
 	"NOTIFICATION_OFFLINE": "Αποσυνδεδεμένο",
 	"INTERNET_CONNECTION": "Σύνδεση Δικτύου",
-
 	"STORAGE_FULL_TITLE": "Προειδοποίηση: Πλήρης Δίσκος!",
 	"STORAGE_FULL_TEXT": "Δεν μπορείτε να αποθηκεύσετε τις ρυθμίσεις, τις προτιμήσεις ή τις πληροφορίες σύνδεσης. Δοκιμάστε εκ νέου την έναρξη ή την επανεγκατάσταση του Stremio.",
-	
 	"SEARCH": "Αναζήτηση",
 	"SEARCH_NO_RESULTS": "Δεν βρέθηκαν αποτελέσματα",
 	"SEARCH_EXPLANATION_CONTENT": "Αναζήτηση για ταινίες, σειρές, YouTube και κανάλια TV",
 	"SEARCH_EXPLANATION_PEOPLE": "Αναζήτηση για ηθοποιούς, σκηνοθέτες και συγγραφείς",
 	"SEARCH_PASTE_LINKS": "Επικόλληση HTTP ή Magnet συνδέσμου",
-	
 	"ADD_TO_LIB": "Προσθήκη στην βιβλιοθήκη",
 	"REMOVE_FROM_LIB": "Αφαίρεση από βιβλιοθήκη",
 	"ADDED_TO_LIB": "Προστέθηκε",
@@ -45,7 +37,6 @@
 	"WATCH_NOW": "Προβολή τώρα",
 	"SHOW": "Προβολή",
 	"WATCH_RANDOM": "Τυχαία προβολή",
-
 	"IMDB_RATING": "Βαθμολογία IMDb",
 	"YEAR": "Χρονιά",
 	"DIRECTOR": "Σκηνοθέτης",
@@ -66,10 +57,8 @@
 	"FEATURED": "Προτεινόμενα",
 	"METADATA": "Μεταδεδομένα",
 	"CATEGORY": "Κατηγορία",
-
 	"SEARCH_VIDEOS": "αναζήτηση βίντεο",
 	"SEARCH_PLACEHOLDER": "Αναζήτηση ή επικόλληση συνδέσμου",
-
 	"ADDON": "Πρόσθετο",
 	"ADDONS": "Πρόσθετα",
 	"OFFICIAL": "Επίσημα",
@@ -101,7 +90,6 @@
 	"ADDON_COLLECTION_SET_FAILED": "Ο συγχρονισμός των εγκατεστημένων πρόσθετων στο λογαριασμό σας απέτυχε",
 	"SETTINGS_DATA_EXPORT": "Εξαγωγή δεδομένων χρήστη",
 	"ADDON_PULL_FAILED": "Ο συγχρονισμός των εγκατεστημένων πρόσθετων από το λογαριασμό σας απέτυχε",
-	
 	"STILL_IN_THEATER": "Παίζετε ακόμα στους κινηματογράφους",
 	"WATCH_IN_CINEMA": "Παρακολουθήστε το στον τοπικό κινηματογράφο σας",
 	"IN_THEATER": "Στον κινηματογράφο",
@@ -109,10 +97,8 @@
 	"CHANNEL_NOT_SCRAPED": "Αυτό το κανάλι δεν έχει αποκομιστεί ακόμα. <br> Επιστρέψτε σε λίγα λεπτά.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Προσθέστε το στη βιβλιοθήκη σας για να ενημερωθείτε όταν είναι διαθέσιμο.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Θα λάβετε ειδοποίηση μόλις είναι διαθέσιμο.",
-	
 	"WARNING_STREAMING_SERVER": "Προειδοποίηση: δεν βρέθηκε τοπικός διακομιστής συνεχούς ροής. Η ροή από τοπικά αρχεία, το YouTube και το BitTorrent δεν θα είναι διαθέσιμα.",
 	"DECODER_WARNING": "Προειδοποίηση: αυτό το βίντεο ενδέχεται να μην υποστηρίζεται από το υλικό σας. Λάβετε υπόψη ότι η αναπαραγωγή μπορεί να είναι αργή.",
-	
 	"PLAYER_ERROR": "Ωχ, σφάλμα προγράμματος αναπαραγωγής",
 	"PLAYER_ERROR_LOOKSLIKE": "Μοιάζει",
 	"PLAYER_ORIENTATION": "Ο προσανατολισμός του προγράμματος αναπαραγωγής",
@@ -120,9 +106,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "αισθητήρας",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Ο προσανατολισμός του προγράμματος αναπαραγωγής κλείδωσε στο τοπίο",
 	"PLAYER_ORIENTATION_SENSOR": "Αυτόματος προσανατολισμός προγράμματος αναπαραγωγής (αισθητήρας)",
-	
 	"PLAYER_LIVE": "ζωντανά",
-	
 	"STREAMING_FROM": "Ροή από",
 	"CASTING_TO": "Προβολή σε",
 	"NETWORK_STATUS": "Κατάσταση δικτύου",
@@ -133,20 +117,15 @@
 	"PEERS_CONNECTED": "Συνδεδεμένοι:",
 	"PEERS_WAITING": "Αναμονή:",
 	"TRANSCODING_WARNING": "Προειδοποίηση: κωδικοποίηση βίντεο.",
-	
 	"STREAM_LOADING": "φόρτωση...",
 	"PLAYING_LOCAL": "αναπαραγωγή από τοπικό αρχείο",
 	"PLAYING_CACHE": "αναπαραγωγή από την κρυφή μνήμη",
-	
 	"WRONG_SUBS": "Λάθος υπότιτλοι;",
 	"ERR_SUBS_LOADING_TITLE": "Σφάλμα κατά τη φόρτωση υποτίτλων",
 	"ERR_SUBS_LOADING": "Αποτυχία φόρτωσης υπότιτλων: αυτό θα μπορούσε να είναι ένα ζήτημα με το πρόσθετο που χρησιμοποιείτε ή με τη σύνδεση δικτύου",
 	"ERR_CASTING_UPDATE_TITLE": "Δεν ήταν δυνατή η ενημέρωση των πληροφοριών της συσκευής μετάδοσης: ο διακομιστής συνεχούς ροής ενδέχεται να είναι εκτός σύνδεσης",
-	
 	"CHOOSE_DEVICE": "Επιλέξτε μια συσκευή για την παρακολούθηση",
-	
 	"PHONE_TABLET": "Τηλέφωνο / Tablet",
-	
 	"SUBTITLES": "Υπότιτλοι",
 	"SUBTITLES_CHANGE": "Αλλάξτε τους υπότιτλους για ",
 	"SUBTITLES_CHANGE_NONE": "Δεν υπάρχουν άλλοι υπότιτλοι γι 'αυτή τη γλώσσα, συγγνώμη.",
@@ -158,10 +137,8 @@
 	"SUBTITLES_DELAY": "Καθυστέρηση υποτίτλων:",
 	"SUBTITLES_LOADING": "Φόρτωση υποτίτλων...",
 	"SUBTITLES_DISABLED": "Απενεργοποιημένη",
-	
 	"SEASON": "Σεζόν",
 	"EPISODE": "Επεισόδιο",
-	
 	"SORT": "Ταξινόμηση",
 	"FILTER": "Φίλτρο",
 	"SORT_TRENDING": "Τάσεις",
@@ -170,36 +147,27 @@
 	"SORT_RATING": "Βαθμολογία",
 	"SORT_WATCHED": "Προβληθέντα",
 	"SORT_YEAR": "Χρονιά",
-	
 	"New for You": "Νέο για σας",
 	"New Episodes": "Νέα επεισόδια",
 	"New Videos": "Νέα βίντεο",
 	"Recommendations": "Προτεινόμενα",
-	
 	"LIBRARY_RESUME": "Περίληψη",
 	"LIBRARY_DETAILS": "Λεπτομέριες",
 	"LIBRARY_RESUME_DISMISS": "Απόρριψη",
-	
 	"DISCOVER_FEATURED": "Προτεινόμενα",
-	
 	"DISCOVER_TOP": "Κορυφαία",
 	"DISCOVER_OSCAR": "Νικητές Oscar",
-	
 	"DISCOVER_WARNING_TITLE": "Ωχ!",
-	
 	"DISCOVER_EMPTY_CATALOG": "Αυτό το πρόσθετο επέστρεψε κενό περιεχόμενο.",
 	"DISCOVER_ADULT_WARNING": "Αυτό το περιεχόμενο είναι μονό για ενήλικες. Είσαι πάνω απο 18;",
 	"DISCOVER_NOADDON_WARNING": "Προειδοποίηση: Δεν υπάρχει ενεργό πρόσθετο Stremio για αυτόν τον τύπο. Εμφάνιση αποθηκευμένων στοιχείων, τίποτα δεν θα ενημερωθεί.",
 	"DISCOVER_LOAD_ERR": "Discover: δεν ήταν δυνατή η φόρτωση του καταλόγου από το πρόσθετο",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the addon.",
 	"UNINSTALL_THIS_ADDON": "Απεγκατάσταση του πρόσθετου",
-	
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Λήψη ειδοποιήσεων για νέα επεισόδια",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Λήψη ειδοποιήσεων για νέα βίντεο",
-	
 	"RELAUNCH": "Επανεκκινήστε τώρα!",
 	"UPGRADE": "Νέα έκδοση είναι διαθέσιμη! Αναβαθμίστε την τελευταία έκδοση του Stremio",
-	
 	"ANONYMOUS_USER": "Ανώνυμος χρήστης",
 	"DONT_HAVE_ACC": "Δεν έχετε λογαριασμό;",
 	"HAVE_ACC": "Έχετε ήδη λογαριασμό;",
@@ -239,7 +207,6 @@
 	"SEARCH_FAILED": "Η αναζήτηση απέτυχε",
 	"EMAIL_USED": "Αυτό το email χρησιμοποιείται ήδη.",
 	"WAITING_FB_LOGIN": "Σύνδεση με Facebook...",
-	
 	"INTRO_TASTE": "Πείτε μας για το τι σας αρέσει",
 	"INTRO_TASTE_LONG": "Πείτε μας για το τι θέλετε να παρακολουθήσετε",
 	"INTRO_TASTE_PICK": "Επιλέξτε {{interestsRemaining}} ενδιαφέροντα",
@@ -263,15 +230,12 @@
 	"INTRO_TASTE_DIY": "Κατασκευές, μαστορέματα",
 	"INTRO_TASTE_TECH": "Τεχνολογία",
 	"INTRO_TASTE_CINEMA": "Σινεμά",
-	
 	"ADDON_NOT_SUPPORTED": "Το επιλεγμένο πρόσθετο δεν υποστηρίζεται σε αυτήν την πλατφόρμα.",
 	"ADDON_DISCLAIMER": "Η χρήση πρόσθετων από τρίτους θα εξαρτάται πάντοτε από την ευθύνη σας και από το εφαρμοστέο δίκαιο της Χώρας που βρίσκεστε.",
 	"ADDON_ACTIVATE": "Ενεργοποίηση αυτού του πρόσθετου;",
 	"ADDON_REPO_ADD": "Διεύθυνση url αποθετηρίου προσθέτων",
 	"ADDON_ADD": "Προσθήκη",
-	
 	"WHATS_NEW": "Τι νέα",
-	
 	"BUTTON_CONTINUE": "Συνεχίστε",
 	"BUTTON_ACTIVATE": "Ενεργοποιήστε",
 	"BUTTON_ACTIVATED": "Ενεργοποιήθηκε",
@@ -724,6 +688,7 @@
 	"STREMIO_COMMUNITY_USA": "Stremio Αμερική",
 	"STREMIO_COMMUNITY_MEXICO": "Stremio Μεξικό",
 	"STREMIO_COMMUNITY_ADDONS": "Stremio Addons",
+	"STREMIO_COMMUNITY_AWESOME": "Awesome Stremio",
 	"WEBSITE_COMMUNITY_PARTNERS": "Partners and supporters",
 	"WEBSITE_COMMUNITY_GOODIES": "Καλούδια Stremio",
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Ταπετσαρίες",
