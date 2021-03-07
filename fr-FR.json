@@ -531,7 +531,7 @@
 	"WEBSITE_BOARD_YOUTUBE": "Nouvelles vidéos des chaînes YouTube",
 	"WEBSITE_BOARD_EPISODES": "Nouveaux épisodes des séries que vous suivez",
 	"WEBSITE_ADDONS": "Extensions de contenu",
-	"WEBSITE_TECH_DETAIL": "Nous aimons les nouvelles technologies et les expérientations!\nStremio utilise les technologies open source suivantes:",
+	"WEBSITE_TECH_DETAIL": "Nous aimons les nouvelles technologies et les expérimentations!\nStremio utilise les technologies open source suivantes&nbsp;:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js permet à Stremio de lire n'importe quel format vidéo avec de bonnes performances.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Nous sommes des contributeurs principaux du projet.",
 	"WEBSITE_TECH_ELECTRON": "Electron fournit une plateforme innovante sur laquelle bâtir Stremio.",
