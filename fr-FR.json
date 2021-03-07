@@ -108,7 +108,7 @@
 	"PLAYER_ORIENTATION_SENSOR": "Orientation automatique du lecteur (capteur)",
 	"PLAYER_LIVE": "Live",
 	"STREAMING_FROM": "diffusé à partir de",
-	"CASTING_TO": "Transmit à",
+	"CASTING_TO": "Transmis à",
 	"NETWORK_STATUS": "Statut du réseau",
 	"STREAM_SPEED": "Vitesse du stream:",
 	"STREAM_BUFFERED": "Mis en cache:",
