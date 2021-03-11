@@ -198,6 +198,11 @@
 
 	"RELAUNCH": "Re-launch now!",
 	"UPGRADE": "New version is available! Upgrade to the latest Stremio version",
+	"Update your Stremio version": "Update your Stremio version",
+	"You are running an outdated version of Stremio which is highly unrecommended.": "You are running an outdated version of Stremio which is highly unrecommended.",
+	"Please update as soon as possible.": "Please update as soon as possible.",
+	"BUTTON_UPDATE_LATTER": "Not now",
+	"BUTTON_UPDATE_NOW": "Update",
 
 	"ANONYMOUS_USER": "Anonymous user",
 	"DONT_HAVE_ACC": "Don't have an account?",
@@ -276,6 +281,7 @@
 	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
 	"BUTTON_DISMISS_ALL": "Dismiss All",
+	"BUTTON_VIEW_ALL": "view all",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
