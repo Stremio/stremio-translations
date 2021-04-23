@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "字幕错误？",
 	"ERR_SUBS_LOADING_TITLE": "加载字幕时出错",
 	"ERR_SUBS_LOADING": "加载字幕失败：这可能是您正在使用的插件或网络连接的问题",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "无法更新投射设备信息：流服务器可能脱机",
 	"CHOOSE_DEVICE": "选择在哪个设备上播放",
 	"PHONE_TABLET": "手机/平板电脑",

@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "כתוביות שגויות?",
 	"ERR_SUBS_LOADING_TITLE": "שגיאה בטעינת כתוביות",
 	"ERR_SUBS_LOADING": "טעינת כתוביות נכשלה: זאת יכולה להיות בעיה של תוסף, או חיבור לאינטרנט",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "לא ניתן לעדכן מידע של מכשיר המשודר: שרת שידור ככל הנראה כבוי",
 	"CHOOSE_DEVICE": "בחר מכשיר לצפות בו",
 	"PHONE_TABLET": "סלולארי / טאבלט",

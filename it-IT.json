@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Sottotitolo sbagliato?",
 	"ERR_SUBS_LOADING_TITLE": "Errore caricamento sottotitoli",
 	"ERR_SUBS_LOADING": "Caricamento sottotitoli fallito: potrebbe essere un problema dell'addon che stai usando, oppure della connessione di rete",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Non è stato possibile aggiornare le info del dispositivo di riproduzione: il server di streaming potrebbe essere offline",
 	"CHOOSE_DEVICE": "Scegli un dispositivo su cui guardarlo",
 	"PHONE_TABLET": "Telefono / Tablet",

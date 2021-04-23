@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Altyazı hatalı mı?",
 	"ERR_SUBS_LOADING_TITLE": "Altyazı yüklenirken hata oluştu",
 	"ERR_SUBS_LOADING": "Altyazı yüklemesi başarısız: bu kullandığınız eklenti ya da ağ bağlantınızdaki bir sorun ile ilgili olabilir",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Yayınlama aygıtı bilgisi güncellenemedi: Akış sunucusu çevrimdışı olabilir",
 	"CHOOSE_DEVICE": "İzlemek için bir cihaz seçin",
 	"PHONE_TABLET": "Telefon / Tablet",
