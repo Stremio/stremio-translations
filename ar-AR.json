@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "ترجمة خاطئة ؟",
 	"ERR_SUBS_LOADING_TITLE": "حدث خطأ أثناء تحميل الترجمة",
 	"ERR_SUBS_LOADING": "فشل تحميل الترجمة: قد يكون هذا مشكلة في الملحق الذي تستخدمه أو في اتصال الشبكة",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "تعذر تحديث معلومات جهاز الإرسال: قد يكون خادم البث غير متصل بالإنترنت",
 	"CHOOSE_DEVICE": "اختر جهازًا للمشاهدة عليه",
 	"PHONE_TABLET": "موبايل / تابلت",

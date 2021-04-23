@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Feil undertekster?",
 	"ERR_SUBS_LOADING_TITLE": "Error loading subtitles",
 	"ERR_SUBS_LOADING": "Failed loading subtitles: this could be an issue with the addon you are using, or with your network connection",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Could not update casting device info: streaming server might be offline",
 	"CHOOSE_DEVICE": "Velg en enhet å strømme fra",
 	"PHONE_TABLET": "Telefon / Nettbrett",

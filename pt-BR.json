@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Legendas erradas?",
 	"ERR_SUBS_LOADING_TITLE": "Erro ao carregar a legenda",
 	"ERR_SUBS_LOADING": "Falha ao carregar as legendas: Isso pode ser um problema com sua extensão ou sua conexão de rede",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Não foi possível atualizar as informações do dispositivo de transmissão: o servidor de transmissão pode estar offline",
 	"CHOOSE_DEVICE": "Escolha um dispositivo para assistir",
 	"PHONE_TABLET": "Smartphone / Tablet",

@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Verkeerde ondertiteling?",
 	"ERR_SUBS_LOADING_TITLE": "Fout tijdens laden ondertiteling",
 	"ERR_SUBS_LOADING": "Ondertiteling laden mislukt: Dit kan liggen aan de gebruikte addon, of uw internetverbinding",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Kon streamingsapparaat info niet vernieuwen: streamingserver is mogelijks offline",
 	"CHOOSE_DEVICE": "Kies een apparaat om op te kijken",
 	"PHONE_TABLET": "Mobiel/Tablet",

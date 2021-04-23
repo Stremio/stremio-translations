@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "Pogrešan prijevod?",
 	"ERR_SUBS_LOADING_TITLE": "Greška pri učitavanju podnapisa",
 	"ERR_SUBS_LOADING": "Greška pri učitavanju podnapisa: može biti do dodatka kojeg koristite, ili do internet povezanosti",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "Nemoguće ažurirati info o djeljenje ekrana: server možda nije spojen",
 	"CHOOSE_DEVICE": "Izaberi uređaj za gledanje",
 	"PHONE_TABLET": "Telefon / Tablet",

@@ -123,6 +123,7 @@
 	"WRONG_SUBS": "¿Subtítulos erróneos?",
 	"ERR_SUBS_LOADING_TITLE": "Error cargando subtítulos",
 	"ERR_SUBS_LOADING": "Falla cargando subtítulos: esto podría ser un problema con la extensión que está usando o con su conexión de internet",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
 	"ERR_CASTING_UPDATE_TITLE": "No se pudo actualizar la información del dispositivo de transmisión: el servidor de transmisión puede estar fuera de línea",
 	"CHOOSE_DEVICE": "Elija un dispositivo para ver",
 	"PHONE_TABLET": "Móvil / Tableta",
