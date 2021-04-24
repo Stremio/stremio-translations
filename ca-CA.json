@@ -123,7 +123,7 @@
 	"WRONG_SUBS": "Subtítols incorrectes?",
 	"ERR_SUBS_LOADING_TITLE": "Error en carregar els subtítols",
 	"ERR_SUBS_LOADING": "Ha fallat la càrrega de subtítols: això podria ser un problema amb el complement que utilitzeu o amb la vostra connexió de xarxa",
-	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "The following subtitle addons failed",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Els següents complements de subtítols han fallat",
 	"ERR_CASTING_UPDATE_TITLE": "No s'ha pogut actualitzar la informació del dispositiu d'emissió: el servidor d'streaming podria estar fora de línia",
 	"CHOOSE_DEVICE": "Trieu un dispositiu on mirar-lo",
 	"PHONE_TABLET": "Telèfon / Tauleta",
