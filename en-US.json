@@ -245,6 +245,11 @@
 	"EMAIL_USED": "This email is already in use.",
 	"WAITING_FB_LOGIN": "Logging in with Facebook...",
 
+	"EXTERNAL_PLAYER_TITLE": "Play in external player",
+	"EXTERNAL_REMEMBER_PLAYER": "Do you always want to remember your choice",
+	"EXTERNAL_ALWAYS_PLAY": "Yes",
+	"EXTERNAL_ONLY_ONCE": "No",
+
 	"INTRO_TASTE": "Tell us about what you like",
 	"INTRO_TASTE_LONG": "Tell us about what you'd like to watch",
 	"INTRO_TASTE_PICK": "Pick {{interestsRemaining}} interests",
@@ -344,6 +349,7 @@
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "version",
 	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
+	"SETTINGS_PLAY_IN_EXTERNAL": "Awlays start video in external player",
 
 	"QUIT": "Quit",
 
