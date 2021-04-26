@@ -309,7 +309,7 @@
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_VERSION": "sürüm",
 	"SETTINGS_MPV_WINDOW": "Oynatıcıyı ayrı bir pencerede başlat (gelişmiş)",
-	"SETTINGS_PLAY_IN_EXTERNAL": "Awlays start video in external player",
+	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
 	"QUIT": "Çıkış",
 	"CONNECTED": "Bağlandı",
 	"AUTHENTICATE": "Kimlik doğrulaması",

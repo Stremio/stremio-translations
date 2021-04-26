@@ -309,7 +309,7 @@
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "versie",
 	"SETTINGS_MPV_WINDOW": "Start videospeler in apart scherm (geadvanceerd)",
-	"SETTINGS_PLAY_IN_EXTERNAL": "Awlays start video in external player",
+	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
 	"QUIT": "Afsluiten",
 	"CONNECTED": "Verbonden",
 	"AUTHENTICATE": "Authenticeren",

@@ -309,7 +309,7 @@
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_VERSION": "wersja",
 	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
-	"SETTINGS_PLAY_IN_EXTERNAL": "Awlays start video in external player",
+	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
 	"QUIT": "Zamknij",
 	"CONNECTED": "Połączony",
 	"AUTHENTICATE": "Authenticate",
