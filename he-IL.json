@@ -428,6 +428,8 @@
 	"CTX_DISMISS_ALL": "התעלמות מהכל",
 	"CTX_SHARE": "שתף",
 	"CTX_COPY_SHARE_LINK": "העתק ושתף קישור",
+	"CTX_COPY_MAGNET_LINK": "Copy magnet link",
+	"CTX_DOWNLOAD_VIDEO": "Download this video",
 	"CTX_SHOW": "הצג",
 	"CTX_PLAY": "הפעלה",
 	"CTX_PLAY_IN": "הפעלה בתוך",

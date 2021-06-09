@@ -428,6 +428,8 @@
 	"CTX_DISMISS_ALL": "Hepsini reddet",
 	"CTX_SHARE": "Paylaş",
 	"CTX_COPY_SHARE_LINK": "Paylaşma bağlantısını kopyala",
+	"CTX_COPY_MAGNET_LINK": "Copy magnet link",
+	"CTX_DOWNLOAD_VIDEO": "Download this video",
 	"CTX_SHOW": "Göster",
 	"CTX_PLAY": "Oynat",
 	"CTX_PLAY_IN": "Oynat",

@@ -428,6 +428,8 @@
 	"CTX_DISMISS_ALL": "Descarta-ho tot",
 	"CTX_SHARE": "Comparteix",
 	"CTX_COPY_SHARE_LINK": "Copia l'enllaç per compartir",
+	"CTX_COPY_MAGNET_LINK": "Copy magnet link",
+	"CTX_DOWNLOAD_VIDEO": "Download this video",
 	"CTX_SHOW": "Mostra",
 	"CTX_PLAY": "Reproduir",
 	"CTX_PLAY_IN": "Reprodueix aquí",

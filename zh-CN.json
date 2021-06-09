@@ -428,6 +428,8 @@
 	"CTX_DISMISS_ALL": "全部清除",
 	"CTX_SHARE": "分享",
 	"CTX_COPY_SHARE_LINK": "复制分享链接",
+	"CTX_COPY_MAGNET_LINK": "Copy magnet link",
+	"CTX_DOWNLOAD_VIDEO": "Download this video",
 	"CTX_SHOW": "显示",
 	"CTX_PLAY": "播放",
 	"CTX_PLAY_IN": "播放",
