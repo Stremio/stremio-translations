@@ -122,6 +122,9 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Sensor",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Player orientation locked at landscape",
 	"PLAYER_ORIENTATION_SENSOR": "Player orientation automatic (sensor)",
+	"PLAYER_PLAYBACK_ERROR": "Playback error, please try again",
+	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Unknown error",
+	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Sorry, this video cannot be played by {{productName}}.",
 
 	"PLAYER_LIVE": "Live",
 
@@ -147,6 +150,9 @@
 	"ERR_CASTING_UPDATE_TITLE" : "Could not update casting device info: streaming server might be offline",
 
 	"CHOOSE_DEVICE": "Choose a device to watch on",
+	"NO_CAST_DEVICES": "No casting devices available.",
+
+	"NO_SETTINGS": "No settings available.",
 
 	"PHONE_TABLET": "Phone / Tablet",
 
