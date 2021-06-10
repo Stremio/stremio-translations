@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Kijk #{types} nu!",
 	"ADDON_WATCH_FREE": "Kijk #{types} nu GRATIS!",
 	"ADDON_ADDON": "Addon",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Meer #{types} in Ontdekken",
 	"ADDON_PROVIDES_STREAMS": "Kijk #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Kijk #{types} GRATIS",

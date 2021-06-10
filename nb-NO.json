@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Se #{types} nå!",
 	"ADDON_WATCH_FREE": "Se #{types} GRATIS nå!",
 	"ADDON_ADDON": "Utvidelse",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Mer #{types} i oppdag",
 	"ADDON_PROVIDES_STREAMS": "Se #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Se #{types} GRATIS",

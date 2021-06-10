@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Şimdi #{types} izle!",
 	"ADDON_WATCH_FREE": "Şimdi #{types} ücretsiz izle!",
 	"ADDON_ADDON": "Eklenti",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "#{types} daha fazlasını keşfet",
 	"ADDON_PROVIDES_STREAMS": "#{types} İzle",
 	"ADDON_PROVIDES_STREAMS_FREE": "#{types} ÜCRETSİZ İzle",

@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Assista a #{types} agora!",
 	"ADDON_WATCH_FREE": "Assista a #{types} de GRAÇA agora!",
 	"ADDON_ADDON": "Extensão",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Mais #{types} em Descubra",
 	"ADDON_PROVIDES_STREAMS": "Assista a #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Assista a #{types} de GRAÇA",

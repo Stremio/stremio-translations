@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Παρακολουθήστε # {types} τώρα!",
 	"ADDON_WATCH_FREE": "Παρακολουθήστε # {τύποι} ΔΩΡΕΑΝ τώρα!",
 	"ADDON_ADDON": "Πρόσθετο",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Περισσότερα # {types} στην Ανακάλυψη",
 	"ADDON_PROVIDES_STREAMS": "Παρακολουθήστε # {types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Παρακολουθήστε # {types} ΔΩΡΕΑΝ",

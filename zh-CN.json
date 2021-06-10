@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "立即观看#{types}！",
 	"ADDON_WATCH_FREE": "立即免费观看#{types}！",
 	"ADDON_ADDON": "插件",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "发现中的更多#{types}",
 	"ADDON_PROVIDES_STREAMS": "观看#{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "免费观看#{types}",

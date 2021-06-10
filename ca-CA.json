@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Mireu #{types} ara!",
 	"ADDON_WATCH_FREE": "Mireu #{types} GRATIS ara!",
 	"ADDON_ADDON": "Complement",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Més #{types} a Descobreix",
 	"ADDON_PROVIDES_STREAMS": "Mira #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Mireu #{types} GRATIS",

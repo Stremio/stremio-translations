@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "צפיה ב-#{types} כעט!",
 	"ADDON_WATCH_FREE": "צפה עכשיו ב-#{types} בחינם כעט!",
 	"ADDON_ADDON": "תוסף",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "עוד #{types} בגילוי",
 	"ADDON_PROVIDES_STREAMS": "צפיה ב-#{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "צפיה ב-#{types} בחינם",

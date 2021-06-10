@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Гледай #{types} сега!",
 	"ADDON_WATCH_FREE": "Гледай #{types} БЕЗПЛАТНО сега!",
 	"ADDON_ADDON": "Addon",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Повече #{types} в Discover",
 	"ADDON_PROVIDES_STREAMS": "Гледай #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Гледай #{types} БЕЗПЛАТНО",

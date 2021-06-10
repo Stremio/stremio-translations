@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Ver #{types} agora!",
 	"ADDON_WATCH_FREE": "Ver #{types} GRATUITAMENTE agora!",
 	"ADDON_ADDON": "Extensão",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Mais #{types} em Explorar",
 	"ADDON_PROVIDES_STREAMS": "Ver #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Ver #{types} GRATUITAMENTE",

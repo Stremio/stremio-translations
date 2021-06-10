@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "شاهد #{types} الان!",
 	"ADDON_WATCH_FREE": "شاهد #{types} مجانا الان !",
 	"ADDON_ADDON": "أضافة",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "المزيد #{types} في الاكتشاف",
 	"ADDON_PROVIDES_STREAMS": "شاهد #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "شاهد #{types} مجانا",

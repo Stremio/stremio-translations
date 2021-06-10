@@ -490,6 +490,8 @@
 	"ADDON_WATCH": "Pogledaj #{types} sada!",
 	"ADDON_WATCH_FREE": "Pogledaj #{types} BESPLATNO sada !",
 	"ADDON_ADDON": "Dodatak",
+	"ADDON_SUPPORTED_TYPES": "Supported types",
+	"ADDON_SUPPORTED_CATALOGS": "Supported catalogs",
 	"ADDON_PROVIDES_DISCOVER": "Više #{types} u Otkrivanju",
 	"ADDON_PROVIDES_STREAMS": "Gledaj #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Gledaj #{types} BESPLATNO",
