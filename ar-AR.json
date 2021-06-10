@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "لم يتم تحميل المحتوى ، حدث خطأ.",
 	"DISCOVER_ADDON_UNINSTALLED": "لم يعد هذا المحتوى متاحًا ، ربما تكون قد قمت بإلغاء تثبيت الأضافة.",
 	"UNINSTALL_THIS_ADDON": "الغاء تثبيت الأضافة",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "تلقي أشعار في حال وجود حلقات جديدة",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "تلقي أشعار في حال وجود فيديوهات جديدة",
 	"RELAUNCH": "أعاد التشغل الأن !",

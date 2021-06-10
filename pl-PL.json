@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Odkrywaj: nie udało sie załadować katalogu z addonas",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the addon.",
 	"UNINSTALL_THIS_ADDON": "Uninstall this addon",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Otrzymuj powiadomienia o nowych odcinkach",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Otrzymuj powiadomienia o nowych filmach",
 	"RELAUNCH": "Uruchom ponownie teraz!",

@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Sadržaj nije pokrenut, greška.",
 	"DISCOVER_ADDON_UNINSTALLED": "Sadržaj više nije dostupan. Moguće da ste izbriali dodatak.",
 	"UNINSTALL_THIS_ADDON": "Deinstaliraj dodatak",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primaj obavijesti novim epizodama",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primaj obavijesti o novim videima",
 	"RELAUNCH": "Ponovo pokreni sada!",

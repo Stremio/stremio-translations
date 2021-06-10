@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Scopri: caricamento del catalogo dall'addon fallito",
 	"DISCOVER_ADDON_UNINSTALLED": "Questo contenuto non è più disponibile, potresti aver disinstallato l'addon.",
 	"UNINSTALL_THIS_ADDON": "Addon disinstallato",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ricevi notifiche per i nuovi episodi",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ricevi notifiche per i nuovi video",
 	"RELAUNCH": "Riavvia ora!",

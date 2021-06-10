@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "El contingut no s'ha carregat, s'ha produït un error.",
 	"DISCOVER_ADDON_UNINSTALLED": "Aquest contingut ja no està disponible, és possible que hàgiu desinstal·lat el complement.",
 	"UNINSTALL_THIS_ADDON": "Desinstal·la aquest complement",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Rep notificacions d'episodis nous",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Rep notificacions de vídeos nous",
 	"RELAUNCH": "Rellançar ara!",

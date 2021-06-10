@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Keşfet: eklentiden katalog yüklenemedi",
 	"DISCOVER_ADDON_UNINSTALLED": "Bu içerik artık mevcut değil, eklentiyi kaldırmış olabilirsiniz.",
 	"UNINSTALL_THIS_ADDON": "Bu eklentiyi kaldır",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Yeni bölümler için bildirim alın",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Yeni videolar için bildirim alın",
 	"RELAUNCH": "Şimdi yeniden başlat!",

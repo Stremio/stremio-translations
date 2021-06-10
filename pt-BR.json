@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "O conteúdo não foi carregado, ocorreu um erro.",
 	"DISCOVER_ADDON_UNINSTALLED": "Este conteúdo não está mais disponível, você deve ter desinstalado o addon.",
 	"UNINSTALL_THIS_ADDON": "Remover este addon",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Receber notificações de novos episódios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receber notificações de novos vídeos",
 	"RELAUNCH": "Reinicie agora!",

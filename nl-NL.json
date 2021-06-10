@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "De inhoud werd niet geladen, er deed zich een fout voor.",
 	"DISCOVER_ADDON_UNINSTALLED": "Deze inhoud is niet meer beschikbaar, Het is mogelijk dat de addon is gedeinstalleerd.",
 	"UNINSTALL_THIS_ADDON": "Deinstalleer deze addon",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ontvang notificaties bij nieuwe afleveringen",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ontvang notificaties bij nieuwe video's",
 	"RELAUNCH": "Herstart Stremio",

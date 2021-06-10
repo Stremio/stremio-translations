@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "The content did not load, error occured.",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the addon.",
 	"UNINSTALL_THIS_ADDON": "Deinstaliraj dodatak",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Dobijaj obaveštenja o novim epizodama",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Dobijaj obaveštenja o novim videima",
 	"RELAUNCH": "Ponovo pokreni sada!",

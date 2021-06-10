@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Discover: n'a pas réussi à charger le catalogue à partir de l'addon",
 	"DISCOVER_ADDON_UNINSTALLED": "Ce contenu n'est plus disponible, vous avez peut-être désinstallé l'addon.",
 	"UNINSTALL_THIS_ADDON": "Désinstallez cet addon",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recevoir des notifications pour les nouveaux épisodes",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recevoir des notifications pour les nouvelles vidéos",
 	"RELAUNCH": "Redémarrez maintenant!",

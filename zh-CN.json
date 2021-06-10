@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "内容未加载，发生错误。",
 	"DISCOVER_ADDON_UNINSTALLED": "此内容不再可用，您可能已卸载插件。",
 	"UNINSTALL_THIS_ADDON": "卸载此插件",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "接受新剧集的通知",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "接受新视频的通知",
 	"RELAUNCH": "立即重新启动！",

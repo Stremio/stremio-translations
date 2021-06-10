@@ -168,6 +168,7 @@
 	"DISCOVER_LOAD_ERR": "Descubrir: error al cargar el catálogo desde el complemento",
 	"DISCOVER_ADDON_UNINSTALLED": "Este contenido no está más disponible, puede que hayas desinstalado la extensión.",
 	"UNINSTALL_THIS_ADDON": "Desinstalar esta extensión",
+	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recibir notificaciones de nuevos episodios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recibir notificaciones de nuevos videos",
 	"RELAUNCH": "¡Relanzar ahora!",
