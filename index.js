@@ -2,6 +2,7 @@
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\": require(\"./$line\"),\n"; done
 module.exports = function() {
 	return {
+		"ar-AR": require("./ar-AR.json"),
 		"bg-BG": require("./bg-BG.json"),
 		"ca-CA": require("./ca-CA.json"),
 		"da-DK": require("./da-DK.json"),
@@ -32,6 +33,7 @@ module.exports = function() {
 
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
 module.exports.all = [
+	"ar-AR",
 	"bg-BG",
 	"ca-CA",
 	"da-DK",
