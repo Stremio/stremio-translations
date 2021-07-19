@@ -466,6 +466,7 @@
 	"CTX_SHARE": "Comparteix",
 	"CTX_COPY_SHARE_LINK": "Copia l'enllaç per compartir",
 	"CTX_COPY_MAGNET_LINK": "Copia enllaç magnètic",
+	"CTX_COPY_STREAM_LINK": "Copy stream link",
 	"CTX_DOWNLOAD_VIDEO": "Descarregueu aquest vídeo",
 	"CTX_SHOW": "Mostra",
 	"CTX_PLAY": "Reproduir",
