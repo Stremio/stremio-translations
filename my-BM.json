@@ -466,6 +466,7 @@
 	"CTX_SHARE": "Share",
 	"CTX_COPY_SHARE_LINK": "Copy share link",
 	"CTX_COPY_MAGNET_LINK": "Copy magnet link",
+	"CTX_COPY_STREAM_LINK": "Copy stream link",
 	"CTX_DOWNLOAD_VIDEO": "Download this video",
 	"CTX_SHOW": "Tayang",
 	"CTX_PLAY": "Play",
