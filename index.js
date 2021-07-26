@@ -24,7 +24,8 @@ module.exports = function() {
 		"ru-RU": require("./ru-RU.json"),
 		"se-SE": require("./se-SE.json"),
 		"sr-RS": require("./sr-RS.json"),
-		"tr-TR": require("./tr-TR.json")
+		"tr-TR": require("./tr-TR.json"), 
+                "sl-SL" :require("./sl-SL.json")
 	}
 };
 
@@ -52,5 +53,6 @@ module.exports.all = [
 	"ru-RU",
 	"se-SE",
 	"sr-RS",
-	"tr-TR"
+	"tr-TR",
+        "sl-SL" 
 ];
