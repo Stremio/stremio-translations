@@ -28,7 +28,8 @@ module.exports = function() {
 		"sr-RS": require("./sr-RS.json"),
 		"tr-TR": require("./tr-TR.json"),
 		"zh-CN": require("./zh-CN.json"),
-		"sl-SL": require("./sl-SL.json")
+		"sl-SL": require("./sl-SL.json"),
+		"cs-CZ": require("./cs-CZ.json")
 	}
 };
 
@@ -60,5 +61,6 @@ module.exports.all = [
 	"sr-RS",
 	"tr-TR",
 	"zh-CN",
-	"sl-SL"
+	"sl-SL",
+	"cs-CZ"
 ];
