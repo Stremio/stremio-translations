@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Data saver",
 	"SETTINGS_LANGUAGE_INTERFACE": "interfaccia",
 	"SETTINGS_LANGUAGE_SUBS": "sottotitoli di default",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "versione",
 	"SETTINGS_MPV_WINDOW": "Avvia il player in una finestra separata (avvanzato)",

@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Oszczędzanie energi",
 	"SETTINGS_LANGUAGE_INTERFACE": "interface",
 	"SETTINGS_LANGUAGE_SUBS": "domyślne napisy",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_VERSION": "wersja",
 	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",

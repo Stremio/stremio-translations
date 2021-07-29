@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "חיסכון משאבים",
 	"SETTINGS_LANGUAGE_INTERFACE": "מראה",
 	"SETTINGS_LANGUAGE_SUBS": "כתוביות ברירת מחדל",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "חשבון",
 	"SETTINGS_VERSION": "גרסה",
 	"SETTINGS_MPV_WINDOW": "הפעלת נגן בחלון חיצוני (מתקדם)",

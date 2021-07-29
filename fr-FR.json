@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Économiseur de données",
 	"SETTINGS_LANGUAGE_INTERFACE": "interface",
 	"SETTINGS_LANGUAGE_SUBS": "sous-titres par défaut",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "compte",
 	"SETTINGS_VERSION": "version",
 	"SETTINGS_MPV_WINDOW": "Lancer le lecteur dans une fenêtre séparée (avancé)",
