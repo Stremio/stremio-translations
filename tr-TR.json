@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Veri tasarrufu",
 	"SETTINGS_LANGUAGE_INTERFACE": "arayüz",
 	"SETTINGS_LANGUAGE_SUBS": "varsayılan altyazılar",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_VERSION": "sürüm",
 	"SETTINGS_MPV_WINDOW": "Oynatıcıyı ayrı bir pencerede başlat (gelişmiş)",

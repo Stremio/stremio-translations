@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Estalviador de dades",
 	"SETTINGS_LANGUAGE_INTERFACE": "interfície",
 	"SETTINGS_LANGUAGE_SUBS": "subtítols per defecte",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "compte",
 	"SETTINGS_VERSION": "versió",
 	"SETTINGS_MPV_WINDOW": "Inicia el reproductor en una finestra separada (avançat)",

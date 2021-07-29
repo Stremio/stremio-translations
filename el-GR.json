@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Εξοικονόμηση δεδομένων",
 	"SETTINGS_LANGUAGE_INTERFACE": "Περιβάλον",
 	"SETTINGS_LANGUAGE_SUBS": "Προεπιλεγμένοι υπότιτλοι",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "Λογαριασμός",
 	"SETTINGS_VERSION": "Έκδοση",
 	"SETTINGS_MPV_WINDOW": "Ξεκινήστε την αναπαραγωγή σε ξεχωριστό παράθυρο (Για προχωρημένους)",

@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "Data saver",
 	"SETTINGS_LANGUAGE_INTERFACE": "interface",
 	"SETTINGS_LANGUAGE_SUBS": "podrazumevani titlovi",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "version",
 	"SETTINGS_MPV_WINDOW": "Pokreni u zasebnom prozoru (napredno)",

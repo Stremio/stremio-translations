@@ -350,6 +350,8 @@
 	"SETTINGS_DATA_SAVER": "المحافظة على البيانات",
 	"SETTINGS_LANGUAGE_INTERFACE": "واجهة المستخدم",
 	"SETTINGS_LANGUAGE_SUBS": "الترجمة الافتراضية",
+	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
+	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "الحساب",
 	"SETTINGS_VERSION": "النسخة",
 	"SETTINGS_MPV_WINDOW": "بدء المشغل في صفحة جديدة (متقدم)",
