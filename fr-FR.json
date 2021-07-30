@@ -109,6 +109,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Capteur",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Orientation du lecteur verrouillé en paysage",
 	"PLAYER_ORIENTATION_SENSOR": "Orientation automatique du lecteur (capteur)",
+	"PLAYER_PLAYBACK_SPEED": "Playback Speed",
 	"PLAYER_PLAYBACK_ERROR": "Erreur de lecture, veuillez réessayer",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Erreur inconnue",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Désolé, cette vidéo ne peut pas être lue par {{productName}}.",

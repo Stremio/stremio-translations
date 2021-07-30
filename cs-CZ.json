@@ -109,6 +109,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Senzor",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Orientace přehrávače uzamčená na šířku",
 	"PLAYER_ORIENTATION_SENSOR": "Automatická orientace hráče (senzor)",
+	"PLAYER_PLAYBACK_SPEED": "Playback Speed",
 	"PLAYER_PLAYBACK_ERROR": "Chyba přehrávání, zkuste to prosím znovu",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Neznámá chyba",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Je nám líto, ale toto video nelze přehrát pomocí {{productName}}.",

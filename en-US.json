@@ -123,6 +123,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Sensor",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Player orientation locked at landscape",
 	"PLAYER_ORIENTATION_SENSOR": "Player orientation automatic (sensor)",
+	"PLAYER_PLAYBACK_SPEED": "Playback Speed",
 	"PLAYER_PLAYBACK_ERROR": "Playback error, please try again",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Unknown error",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Sorry, this video cannot be played by {{productName}}.",

@@ -109,6 +109,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Sensor",
 	"PLAYER_ORIENTATION_LANDSCAPE": "L'orientació del reproductor bloquejada en horitzontal",
 	"PLAYER_ORIENTATION_SENSOR": "Orientació del reproductor automàtica (sensor)",
+	"PLAYER_PLAYBACK_SPEED": "Playback Speed",
 	"PLAYER_PLAYBACK_ERROR": "Error de reproducció, torneu-ho a provar",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Error desconegut",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Ho sentim, aquest vídeo no pot ser reproduït per {{productName}}.",
