@@ -109,6 +109,7 @@
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Sensör",
 	"PLAYER_ORIENTATION_LANDSCAPE": "Oynatıcı yönü yatay olarak kilitli",
 	"PLAYER_ORIENTATION_SENSOR": "Oynatıcı yönü otomatik (sensör)",
+	"PLAYER_PLAYBACK_SPEED": "Playback Speed",
 	"PLAYER_PLAYBACK_ERROR": "Playback error, please try again",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Unknown error",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Sorry, this video cannot be played by {{productName}}.",
