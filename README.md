@@ -28,6 +28,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 
 | Culture   | Name                    | Contributors                                                                                                                                                |
 |-----------|-------------------------|---------------------------------------------------------------------------------------------------------------------                                        |
+| ar-AR     | Arabic               | [@nalabdou](https://github.com/nalabdou)    
 | bg-BG     | Bulgarian               | [@Ivshti](https://github.com/Ivshti)                                                                                                                        |
 | ca-CA     | Catalan                 | [@xeanhort](https://github.com/xeanhort)                                                                                                                        |
 | da-DK     | Danish                  | [@Holsted777](https://github.com/Holsted777)				                                                                                                |
