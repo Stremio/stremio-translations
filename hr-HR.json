@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primaj obavijesti novim epizodama",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primaj obavijesti o novim videima",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "Ponovo pokreni sada!",
 	"UPGRADE": "Nova verzija je dostupna! Nadogradi se na poslednju Stremio verziju",
 	"RELOAD_UI": "Reload the user interface",

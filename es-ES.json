@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Este complemento no está instalado. ¿Instalar ahora?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recibir notificaciones de nuevos episodios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recibir notificaciones de nuevos videos",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "¡Relanzar ahora!",
 	"UPGRADE": "¡Una nueva versión está disponible! Actualiza a la versión más reciente de Stremio",
 	"RELOAD_UI": "Reload the user interface",

@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ontvang notificaties bij nieuwe afleveringen",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ontvang notificaties bij nieuwe video's",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "Herstart Stremio",
 	"UPGRADE": "Updaten naar de laatste Stremio versie",
 	"RELOAD_UI": "Reload the user interface",

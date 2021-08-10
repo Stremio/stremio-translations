@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "未安装此插件，立即安装？",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "接受新剧集的通知",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "接受新视频的通知",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "立即重新启动！",
 	"UPGRADE": "新版本可用！升级至Stremio的最新版本",
 	"RELOAD_UI": "重新加载用户界面",
