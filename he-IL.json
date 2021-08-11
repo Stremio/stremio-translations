@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "קבלת התראות עבור פרקים חדשים",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "קבלת התראות עבור סרטים חדשים",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "הפעל מחדש כעת!",
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
 	"RELOAD_UI": "Reload the user interface",

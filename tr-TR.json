@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Yeni bölümler için bildirim alın",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Yeni videolar için bildirim alın",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "Şimdi yeniden başlat!",
 	"UPGRADE": "Yeni sürüm mevcut! Güncel Stremio sürümüne yükseltin.",
 	"RELOAD_UI": "Reload the user interface",
