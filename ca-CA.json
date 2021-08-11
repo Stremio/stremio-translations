@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Aquest complement no està instal·lat. Instal·lar-lo ara?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Rep notificacions d'episodis nous",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Rep notificacions de vídeos nous",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "Rellançar ara!",
 	"UPGRADE": "Hi ha disponible una nova versió. Actualitzeu a la darrera versió de Stremio",
 	"RELOAD_UI": "Recarregar la interfície d'usuari",

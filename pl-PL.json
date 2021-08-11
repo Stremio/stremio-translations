@@ -185,6 +185,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Otrzymuj powiadomienia o nowych odcinkach",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Otrzymuj powiadomienia o nowych filmach",
+	"SIDEBAR_SHOW_STREAMS": "Show Streams",
 	"RELAUNCH": "Uruchom ponownie teraz!",
 	"UPGRADE": "Nowa wersja jest dostępna! Zaktualizuj do najnowszej wersji",
 	"RELOAD_UI": "Reload the user interface",
