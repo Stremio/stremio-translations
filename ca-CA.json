@@ -481,6 +481,7 @@
 	"CTX_COPY_MAGNET_LINK": "Copia enllaç magnètic",
 	"CTX_COPY_STREAM_LINK": "Copia enllaç de l'stream",
 	"CTX_DOWNLOAD_VIDEO": "Descarregueu aquest vídeo",
+	"CTX_DOWNLOAD_SUBS": "Download subtitles",
 	"CTX_VIEW_ON_YOUTUBE": "View on YouTube",
 	"CTX_SHOW": "Mostra",
 	"CTX_PLAY": "Reproduir",
