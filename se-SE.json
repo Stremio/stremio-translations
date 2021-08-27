@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIPS: du kan använda tangenterna <span>G</span> / <span>H</span> när du tittar för att justera.",
 	"SUBTITLES_DELAY": "Fördröjning av undertexter:",
 	"SUBTITLES_LOADING": "Loading subtitles...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Säsong",
 	"EPISODE": "Avsnitt",

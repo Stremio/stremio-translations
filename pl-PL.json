@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: możesz używać <span>G</span> / <span>H</span> przyciski podczas odtwarzania aby dopasować.",
 	"SUBTITLES_DELAY": "Opóźnienie napisów:",
 	"SUBTITLES_LOADING": "Ładowanie napisów...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Zablokowane",
 	"SEASON": "Sezon",
 	"EPISODE": "Odcinek",

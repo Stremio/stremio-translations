@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Совет: вы можете использовать клавиши <span>G</span> / <span>H</span> во время вопроизведения для настройки.",
 	"SUBTITLES_DELAY": "Задержка субтитров:",
 	"SUBTITLES_LOADING": "Loading subtitles...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Сезон",
 	"EPISODE": "Эпизод",

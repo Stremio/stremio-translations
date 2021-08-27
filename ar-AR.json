@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "نصيحة: يمكنك استخدام مفاتيح <span>G</span> / <span>H</span> أثناء التشغيل للضبط.",
 	"SUBTITLES_DELAY": "تأخير الترجمة:",
 	"SUBTITLES_LOADING": "جارٍ تحميل الترجمات ...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "معطل",
 	"SEASON": "موسم",
 	"EPISODE": "حلقة",

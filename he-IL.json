@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "טיפ: באפשרותך להשתמש במקשים <span>G</span> / <span>H</span> בזמן ניגון לשינוי.",
 	"SUBTITLES_DELAY": "השהיית כתוביות:",
 	"SUBTITLES_LOADING": "טוען כתוביות...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "עונה",
 	"EPISODE": "פרק",
