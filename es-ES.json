@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Nota: Puede usar las teclas <span>G</span> / <span>H</span> durante la reproducción para ajustar.",
 	"SUBTITLES_DELAY": "Retraso de subtítulos:",
 	"SUBTITLES_LOADING": "Cargando subtítulos...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Temporada",
 	"EPISODE": "Episodio",

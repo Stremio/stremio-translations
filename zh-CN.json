@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "提示：您可以在播放时使用<span>G</span> / <span>H</span>键进行调整。",
 	"SUBTITLES_DELAY": "字幕延迟：",
 	"SUBTITLES_LOADING": "加载字幕...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "关闭",
 	"SEASON": "季",
 	"EPISODE": "集",
