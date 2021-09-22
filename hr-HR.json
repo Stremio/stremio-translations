@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "Savjet: možete koristiti <span>G</span> / <span>H</span> gumb dok puštate da popravite podnapise.",
 	"SUBTITLES_DELAY": "Odlaganje podnapisa:",
 	"SUBTITLES_LOADING": "Učitavanje podnapisa...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Isključeno",
 	"SEASON": "Sezona",
 	"EPISODE": "Epizoda",

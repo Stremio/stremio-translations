@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: při hraní můžete použít klávesy <span>G</span> / <span>H</span> pro nastavení.",
 	"SUBTITLES_DELAY": "Zpoždění titulků:",
 	"SUBTITLES_LOADING": "Načítání titulků...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Vypnuto",
 	"SEASON": "Období",
 	"EPISODE": "Epizody",

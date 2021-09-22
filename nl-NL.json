@@ -153,6 +153,7 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: je kan de toetsen <span>G</span> / <span>H</span> gebruiken tijdens het afspelen om aan te passen.",
 	"SUBTITLES_DELAY": "Ondertitelvertraging:",
 	"SUBTITLES_LOADING": "Ondertiteling laden...",
+	"SUBTITLES_UNAVAILABLE": "No external subtitles available",
 	"SUBTITLES_DISABLED": "Disabled",
 	"SEASON": "Seizoen",
 	"EPISODE": "Aflevering",
