@@ -362,6 +362,8 @@
 	"SETTINGS_VERSION": "sürüm",
 	"SETTINGS_MPV_WINDOW": "Oynatıcıyı ayrı bir pencerede başlat (gelişmiş)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
+	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
+	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "Çıkış",
 	"CONNECTED": "Bağlandı",
 	"AUTHENTICATE": "Kimlik doğrulaması",

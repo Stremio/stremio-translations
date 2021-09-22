@@ -362,6 +362,8 @@
 	"SETTINGS_VERSION": "verze",
 	"SETTINGS_MPV_WINDOW": "Spuštění přehrávače v samostatném okně (pokročilé)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Vždy spustit video v externím přehrávači",
+	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
+	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "Odejít",
 	"CONNECTED": "Připojeno",
 	"AUTHENTICATE": "Ověřit",

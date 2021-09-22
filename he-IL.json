@@ -362,6 +362,8 @@
 	"SETTINGS_VERSION": "גרסה",
 	"SETTINGS_MPV_WINDOW": "הפעלת נגן בחלון חיצוני (מתקדם)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
+	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
+	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "יציאה",
 	"CONNECTED": "מחובר",
 	"AUTHENTICATE": "אימות",

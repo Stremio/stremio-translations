@@ -362,6 +362,8 @@
 	"SETTINGS_VERSION": "versión",
 	"SETTINGS_MPV_WINDOW": "Lanzar reproductor en una ventana separada (avanzado)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Iniciar siempre el video en un reproductor externo",
+	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
+	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "Salir",
 	"CONNECTED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
