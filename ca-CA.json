@@ -363,6 +363,7 @@
 	"SETTINGS_VERSION": "versió",
 	"SETTINGS_MPV_WINDOW": "Inicia el reproductor en una finestra separada (avançat)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Inicieu sempre el vídeo en un reproductor extern",
+	"SETTINGS_STORAGE_BUTTON": "Clear Local Storage",
 	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
 	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "Sortir",

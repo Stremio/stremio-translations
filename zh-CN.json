@@ -363,6 +363,7 @@
 	"SETTINGS_VERSION": "版本",
 	"SETTINGS_MPV_WINDOW": "在单独窗口中启动播放器（高级）",
 	"SETTINGS_PLAY_IN_EXTERNAL": "总是在外部播放器中打开视频",
+	"SETTINGS_STORAGE_BUTTON": "Clear Local Storage",
 	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
 	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "退出",

@@ -363,6 +363,7 @@
 	"SETTINGS_VERSION": "versie",
 	"SETTINGS_MPV_WINDOW": "Start videospeler in apart scherm (geadvanceerd)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
+	"SETTINGS_STORAGE_BUTTON": "Clear Local Storage",
 	"SETTINGS_STORAGE_MODAL_TITLE": "Are you sure ?",
 	"SETTINGS_STORAGE_MODAL_MESSAGE": "This will clear the local storage and log you out.",
 	"QUIT": "Afsluiten",
