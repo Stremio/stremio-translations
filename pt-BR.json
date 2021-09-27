@@ -93,6 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "Falha ao sincronizar seus addons instalados com sua conta",
 	"SETTINGS_DATA_EXPORT": "Exportar dados",
 	"ADDON_PULL_FAILED": "Falha ao sincronizar addons instalados de sua conta",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "Filme ainda em exibição",
 	"WATCH_IN_CINEMA": "Assista no cinema mais próximo",
 	"IN_THEATER": "No cinema",

@@ -93,6 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "فشلت مزامنة الإضافات المثبتة إلى حسابك",
 	"SETTINGS_DATA_EXPORT": "تصدير بيانات المستخدم",
 	"ADDON_PULL_FAILED": "فشلت مزامنة الإضافات المثبتة إلى حسابك",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "متواجد في دور العرض",
 	"WATCH_IN_CINEMA": "شاهده في دار العرض القريبة منك",
 	"IN_THEATER": "حاليا في دور العرض",

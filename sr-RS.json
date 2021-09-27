@@ -93,6 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "Addon collection set failed",
 	"SETTINGS_DATA_EXPORT": "Export data",
 	"ADDON_PULL_FAILED": "Addon pulling failed",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "Film je i dalje u bioskopu",
 	"WATCH_IN_CINEMA": "Pogledaj ga u lokalnom bioskopu",
 	"IN_THEATER": "U Bioskopu",
