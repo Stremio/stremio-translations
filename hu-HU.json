@@ -93,7 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "Addon collection set failed",
 	"SETTINGS_DATA_EXPORT": "Export data",
 	"ADDON_PULL_FAILED": "Addon pulling failed",
-	"REFRESH_ON_TAP": "Click to retry",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "A filmet még moziban játsszák",
 	"WATCH_IN_CINEMA": "Elérhető a közeli moziban",
 	"IN_THEATER": "In cinema",

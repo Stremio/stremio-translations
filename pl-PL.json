@@ -93,7 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "Synchronizacja zainstalowanych addonów do twojego konta nie powiodła się",
 	"SETTINGS_DATA_EXPORT": "Wyeksportuj dane użytkownika",
 	"ADDON_PULL_FAILED": "Synchronizacja zainstalowanych addonów z twojego konta nie powiodła się",
-	"REFRESH_ON_TAP": "Click to retry",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "Film w kinach",
 	"WATCH_IN_CINEMA": "Objerzyj film w kinie",
 	"IN_THEATER": "W kinie",

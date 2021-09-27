@@ -93,7 +93,7 @@
 	"ADDON_COLLECTION_SET_FAILED": "将已安装的插件同步到您的账户失败",
 	"SETTINGS_DATA_EXPORT": "导出用户数据",
 	"ADDON_PULL_FAILED": "从您的帐户同步已安装的插件失败",
-	"REFRESH_ON_TAP": "Click to retry",
+	"REFRESH_ON_CLICK": "Click to retry",
 	"STILL_IN_THEATER": "电影还在影院上映",
 	"WATCH_IN_CINEMA": "请到您本地的影院观看",
 	"IN_THEATER": "在影院上映",
