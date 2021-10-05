@@ -192,7 +192,7 @@
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
 	"RELOAD_UI": "טעינה מחדש של ממשק המשתמש",
 	"MANUAL_UPDATE_TITLE": "עדכון גרסת Stremio",
-	"MANUAL_UPDATE_LINE1": "גרסה זו של Streamio אינה עדכנית והשימוש בה אינו מומלץ.",
+	"MANUAL_UPDATE_LINE1": "גרסה זו של Stremio אינה עדכנית והשימוש בה אינו מומלץ.",
 	"MANUAL_UPDATE_LINE2": "נא לעדכן בהקדם האפשרי.",
 	"BUTTON_UPDATE_LATTER": "לא כעת",
 	"BUTTON_UPDATE_NOW": "עדכון",
