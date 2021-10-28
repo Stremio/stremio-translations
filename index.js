@@ -10,6 +10,7 @@ module.exports = function() {
 		"el-GR": require("./el-GR.json"),
 		"en-US": require("./en-US.json"),
 		"es-ES": require("./es-ES.json"),
+		"eu-ES": require("./eu-ES.json"),
 		"fr-FR": require("./fr-FR.json"),
 		"he-IL": require("./he-IL.json"),
 		"hr-HR": require("./hr-HR.json"),
@@ -29,7 +30,8 @@ module.exports = function() {
 		"tr-TR": require("./tr-TR.json"),
 		"zh-CN": require("./zh-CN.json"),
 		"sl-SL": require("./sl-SL.json"),
-		"cs-CZ": require("./cs-CZ.json")
+		"cs-CZ": require("./cs-CZ.json"),
+		"te-IN": require("./te-IN.json")
 	}
 };
 
@@ -43,6 +45,7 @@ module.exports.all = [
 	"el-GR",
 	"en-US",
 	"es-ES",
+	"eu-ES",
 	"fr-FR",
 	"he-IL",
 	"hr-HR",
@@ -62,5 +65,6 @@ module.exports.all = [
 	"tr-TR",
 	"zh-CN",
 	"sl-SL",
-	"cs-CZ"
+	"cs-CZ",
+	"te-IN"
 ];
