@@ -3,6 +3,7 @@
 module.exports = function() {
 	return {
 		"ar-AR": require("./ar-AR.json"),
+		"id-ID": require("./id-ID.json"),
 		"bg-BG": require("./bg-BG.json"),
 		"ca-CA": require("./ca-CA.json"),
 		"da-DK": require("./da-DK.json"),
@@ -16,7 +17,6 @@ module.exports = function() {
 		"he-IL": require("./he-IL.json"),
 		"hr-HR": require("./hr-HR.json"),
 		"hu-HU": require("./hu-HU.json"),
-		"id-ID": require("./id-ID.json"),
 		"it-IT": require("./it-IT.json"),
 		"mk-MK": require("./mk-MK.json"),
 		"my-BM": require("./my-BM.json"),
@@ -31,16 +31,17 @@ module.exports = function() {
 		"sr-RS": require("./sr-RS.json"),
 		"tr-TR": require("./tr-TR.json"),
 		"zh-CN": require("./zh-CN.json"),
+		"zh-HK": require("./zh-HK.json"),
 		"sl-SL": require("./sl-SL.json"),
 		"cs-CZ": require("./cs-CZ.json"),
-		"te-IN": require("./te-IN.json"),
-		"zh-HK": require("./zh-HK.json")
+		"te-IN": require("./te-IN.json")
 	}
 };
 
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
 module.exports.all = [
 	"ar-AR",
+	"id-ID",
 	"bg-BG",
 	"ca-CA",
 	"da-DK",
@@ -54,7 +55,6 @@ module.exports.all = [
 	"he-IL",
 	"hr-HR",
 	"hu-HU",
-	"id-ID",
 	"it-IT",
 	"mk-MK",
 	"my-BM",
@@ -69,8 +69,8 @@ module.exports.all = [
 	"sr-RS",
 	"tr-TR",
 	"zh-CN",
+	"zh-HK",
 	"sl-SL",
 	"cs-CZ",
-	"te-IN",
-	"zh-HK"
+	"te-IN"
 ];
