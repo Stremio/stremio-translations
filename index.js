@@ -11,10 +11,12 @@ module.exports = function() {
 		"en-US": require("./en-US.json"),
 		"es-ES": require("./es-ES.json"),
 		"eu-ES": require("./eu-ES.json"),
+		"fa-IR": require("./fa-IR.json"),
 		"fr-FR": require("./fr-FR.json"),
 		"he-IL": require("./he-IL.json"),
 		"hr-HR": require("./hr-HR.json"),
 		"hu-HU": require("./hu-HU.json"),
+		"id-ID": require("./id-ID.json"),
 		"it-IT": require("./it-IT.json"),
 		"mk-MK": require("./mk-MK.json"),
 		"my-BM": require("./my-BM.json"),
@@ -31,7 +33,8 @@ module.exports = function() {
 		"zh-CN": require("./zh-CN.json"),
 		"sl-SL": require("./sl-SL.json"),
 		"cs-CZ": require("./cs-CZ.json"),
-		"te-IN": require("./te-IN.json")
+		"te-IN": require("./te-IN.json"),
+		"zh-HK": require("./zh-HK.json")
 	}
 };
 
@@ -46,10 +49,12 @@ module.exports.all = [
 	"en-US",
 	"es-ES",
 	"eu-ES",
+	"fa-IR",
 	"fr-FR",
 	"he-IL",
 	"hr-HR",
 	"hu-HU",
+	"id-ID",
 	"it-IT",
 	"mk-MK",
 	"my-BM",
@@ -66,5 +71,6 @@ module.exports.all = [
 	"zh-CN",
 	"sl-SL",
 	"cs-CZ",
-	"te-IN"
+	"te-IN",
+	"zh-HK"
 ];
