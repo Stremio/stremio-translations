@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@NVTTeam 
-Stremio
-/
-stremio-translations
-Public
-Code
-Issues
-10
-Pull requests
-9
-Actions
-Projects
-Wiki
-Security
-Insights
-stremio-translations/en-US.json
-@TRtomasz
-TRtomasz add hw dec related settings
-Latest commit 4b6719b 9 days ago
- History
- 17 contributors
-@Ivshti@nklhtv@IvoPaunov@jaruba@tymmesyde@core1024@swetlasg@TRtomasz@NESSMTR@Ivansek@alesinka@tjorim
-1147 lines (1019 sloc)  63 KB
-   
 {
 	"TYPE_movie": "Filmi",
 	"TYPE_series": "Serije",
@@ -1176,16 +1145,3 @@ Latest commit 4b6719b 9 days ago
 	"FAQ_22_P2": "But rest assured - there will be more addons for iOS in the future, and we may also add an integration that will allow you to use all Stremio addons thanks to connecting the iOS app to the Stremio Streaming Server."
 
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
