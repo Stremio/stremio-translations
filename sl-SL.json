@@ -16,7 +16,7 @@
 	"Library": "Knjižnica",
 	"Calendar": "Kolendar",
 
-	"SEARCH": "išči",
+	"SEARCH": "Išči",
 	"SEARCH_NO_RESULTS": "Ni rezultatov iskanja",
 	"SEARCH_EXPLANATION_CONTENT": "Išči filme, serije, YouTube in TV kanale",
 	"SEARCH_EXPLANATION_PEOPLE": "Išči igralce, režiserje in avtorje",
@@ -44,9 +44,9 @@
 	"ENDED": "Končano",
 	"DURATION": "Trajanje",
 
-	"SEARCH_VIDEOS": "išči video",
+	"SEARCH_VIDEOS": "Išči video",
 
-	"ADDON": "dodatek",
+	"ADDON": "Dodatek",
 	"ADDONS": "Dodatki",
 	"OFFICIAL": "Glavni",
 	"ADDONS_OFFICIAL": "Glavni Stremio Dodatki",
@@ -57,12 +57,12 @@
 	"ADDON_STREAM_GEORESTRICTED": "ni dostopno v vašem področju",
 	"AVAILABLE_STREAMS": "Dostopni Stream-i",
 	"NO_STREAM": "Ni dostopnih stream-ov",
-	"ADDON_CATALOGUE": "Prikaži vse dodatke &raquo;",
-	"ADDON_CATALOGUE_MORE": "Več dodatkov &raquo;",
+	"ADDON_CATALOGUE": "Prikaži vse dodatke",
+	"ADDON_CATALOGUE_MORE": "Več dodatkov",
 
 	"STILL_IN_THEATER": "Movie still in theater",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
-	"IN_THEATER": "In cinema",
+	"IN_THEATER": "V kinematografih",
 	"GET_TICKETS": "Get tickets",
 	"CHANNEL_NOT_SCRAPED": "This channel is not scraped yet.<br>Please come back in a few minutes.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add it to your library to get notified once it is available.",
@@ -101,8 +101,8 @@
 	"SUBTITLES_ADJUST_DELAY_TIP": "TIP: you can use <span>G</span> / <span>H</span> keys while playing to adjust.",
 	"SUBTITLES_DELAY": "Subtitles delay:",
 
-	"SEASON": "Season",
-	"EPISODE": "Episode",
+	"SEASON": "Sezone",
+	"EPISODE": "Nanizanke",
 
 	"SORT_TRENDING": "trending",
 	"SORT_RECENT": "recent",
@@ -111,8 +111,8 @@
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
 
-	"LIBRARY_RESUME": "Resume",
-	"LIBRARY_RESUME_DISMISS": "Dismiss",
+	"LIBRARY_RESUME": "Nadaljuj",
+	"LIBRARY_RESUME_DISMISS": "Opusti",
 
 	"DISCOVER_FEATURED": "Featured",
 
@@ -146,12 +146,12 @@
 	"ADDON_DISCLAIMER": "Using third-party add-ons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this add-on?",
 
-	"WHATS_NEW": "What's new",
+	"WHATS_NEW": "Kaj je novega",
 
-	"BUTTON_CONTINUE": "Continue",
-	"BUTTON_ACTIVATE": "Activate",
-        "BUTTON_ACTIVATED": "Activated",
-	"BUTTON_CANCEL": "Cancel",
+	"BUTTON_CONTINUE": "Nadaljuj",
+	"BUTTON_ACTIVATE": "Aktiviraj",
+        "BUTTON_ACTIVATED": "Aktivirano",
+	"BUTTON_CANCEL": "Prekliči",
 
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
@@ -176,10 +176,10 @@
 	"SETTINGS_CHANGE_PASSWORD": "Change password",
 	"SETTINGS_TOS": "Terms of service",
 	"SETTINGS_SUPPORT": "Contact support",
-	"SETTING_LANGUAGE": "Language",
+	"SETTING_LANGUAGE": "Jezik",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",
 
-	"QUIT": "Quit",
+	"QUIT": "Prenehaj",
 
 	"CONNETED": "Connected",
 	"AUTHENTICATE": "Authenticate",
@@ -330,19 +330,19 @@
 
 	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
 
-	"ADDON_MY": "My Add-ons",
+	"ADDON_MY": "Moji dodatki",
 	"ADDON_COMMUNITY": "Community Add-ons",
 	"ADDON_OFFICIAL": "Official Add-ons",
-	"ADDON_SEARCH": "Search add-ons",
+	"ADDON_SEARCH": "iskanje dodatkov",
 	"ADDON_INSTALL": "Naloži",
 	"ADDON_UNINSTALL": "Odstrani",
 	"ADDON_INSTALLED": "Naloženo",
-	"ADDON_PAGE": "Add-on Page",
+	"ADDON_PAGE": "Stran z dodatki",
 	"ADDON_TOP_CONTENT": "Best from this Add-on",
 	"ADDON_PROVIDES": "This add-on will give you:",
 	"ADDON_WATCH": "Watch #{types} now!",
 	"ADDON_WATCH_FREE": "Watch #{types} for FREE now!",
-	"ADDON_ADDON": "Add-on",
+	"ADDON_ADDON": "Dodatki",
 	"ADDON_PROVIDES_DISCOVER": "More #{types} in Discover",
 	"ADDON_PROVIDES_STREAMS": "Watch #{types}",
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
@@ -432,8 +432,8 @@
 	"WEBSITE_CONTACT": "Contact us, we'll be happy to hear from you!",
 	"WEBSITE_OPENSOURCE": "For our open source projects, go to our",
 
-	"WEBSITE_BITCOIN": "Donate bitcoin:",
-	"WEBSITE_FAQ": "Frequently asked questions",
+	"WEBSITE_BITCOIN": "Doniraj bitcoin:",
+	"WEBSITE_FAQ": "Pogosta vprašanja",
 	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal"
