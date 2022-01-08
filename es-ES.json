@@ -309,7 +309,7 @@
 	"SETTINGS_ACCOUNT": "cuenta",
 	"SETTINGS_VERSION": "versión",
 	"SETTINGS_MPV_WINDOW": "Lanzar reproductor en una ventana separada (avanzado)",
-	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
+	"SETTINGS_PLAY_IN_EXTERNAL": "Reproducir video siempre en reproductor externo",
 	"QUIT": "Salir",
 	"CONNECTED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
