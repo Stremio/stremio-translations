@@ -643,7 +643,7 @@
 	"WEBSITE_IS_DESKTOP": "Stremio is a desktop application, open this page on your PC and download it",
 	"WEBSITE_DESKTOP_DEMO_VID": "Desktop demo",
 	"WEBSITE_PAGE_HOME": "Home",
-	"WEBSITE_PAGE_FEATURES": "Features",
+	"WEBSITE_PAGE_FEATURES": "Características",
 	"WEBSITE_PAGE_ADDONS": "Addons",
 	"WEBSITE_PAGE_TECH": "Technology",
 	"WEBSITE_PAGE_CREATE_ADDON": "Create Addon",
@@ -720,7 +720,6 @@
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal",
 
-	"WEBSITE_PAGE_FEATUTES": "Features",
 	"WEBSITE_PAGE_ABOUT": "About",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Become a partner",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Freedom To Watch\nEverything You Want.",
