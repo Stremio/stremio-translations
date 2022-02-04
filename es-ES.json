@@ -372,6 +372,7 @@
 	"SETTINGS_HW_DISABLED": "Deshabilitada",
 	"SETTINGS_HW_ACCELERATED": "Decodificación Acelerada",
 	"SETTINGS_HW_FULL": "Aceleración Completa",
+	"SETTINGS_HW_LEGACY": "Legacy",
 	"QUIT": "Salir",
 	"CONNECTED": "Conectado",
 	"AUTHENTICATE": "Autenticar",

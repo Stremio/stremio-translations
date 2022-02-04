@@ -372,6 +372,7 @@
 	"SETTINGS_HW_DISABLED": "Disabled",
 	"SETTINGS_HW_ACCELERATED": "Decoding acceleration",
 	"SETTINGS_HW_FULL": "Full acceleration",
+	"SETTINGS_HW_LEGACY": "Legacy",
 	"QUIT": "退出",
 	"CONNECTED": "已連接",
 	"AUTHENTICATE": "驗證",
