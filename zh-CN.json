@@ -372,6 +372,7 @@
 	"SETTINGS_HW_DISABLED": "关闭",
 	"SETTINGS_HW_ACCELERATED": "解码加速",
 	"SETTINGS_HW_FULL": "全加速",
+	"SETTINGS_HW_LEGACY": "Legacy",
 	"QUIT": "退出",
 	"CONNECTED": "已连接",
 	"AUTHENTICATE": "验证",

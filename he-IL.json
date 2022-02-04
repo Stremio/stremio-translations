@@ -372,6 +372,7 @@
 	"SETTINGS_HW_DISABLED": "מבוטל",
 	"SETTINGS_HW_ACCELERATED": "האצת קידוד",
 	"SETTINGS_HW_FULL": "האצה מלאה",
+	"SETTINGS_HW_LEGACY": "Legacy",
 	"QUIT": "יציאה",
 	"CONNECTED": "מחובר",
 	"AUTHENTICATE": "אימות",
