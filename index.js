@@ -35,7 +35,8 @@ module.exports = function() {
 		"zh-HK": require("./zh-HK.json"),
 		"sl-SL": require("./sl-SL.json"),
 		"cs-CZ": require("./cs-CZ.json"),
-		"te-IN": require("./te-IN.json")
+		"te-IN": require("./te-IN.json"),
+		"zh-TW": require("./zh-TW.json"),
 	}
 };
 
@@ -74,5 +75,6 @@ module.exports.all = [
 	"zh-HK",
 	"sl-SL",
 	"cs-CZ",
-	"te-IN"
+	"te-IN",
+	"zh-TW"
 ];
