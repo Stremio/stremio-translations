@@ -282,6 +282,14 @@
 	"EXTERNAL_ALWAYS_PLAY": "Yes",
 	"EXTERNAL_ONLY_ONCE": "No",
 
+	"BEST_FIT": "Best Fit",
+	"FIT_SCREEN": "Fit Screen",
+	"FILL": "Fill",
+	"16:9": "16:9",
+	"4:3": "4:3",
+	"Original": "Original",
+
+
 	"INTRO_TASTE": "Tell us about what you like",
 	"INTRO_TASTE_LONG": "Tell us about what you'd like to watch",
 	"INTRO_TASTE_PICK": "Pick {{interestsRemaining}} interests",
@@ -415,6 +423,7 @@
 	"SETTINGS_HW_DISABLED": "Disabled",
 	"SETTINGS_HW_ACCELERATED": "Decoding acceleration",
 	"SETTINGS_HW_FULL": "Full acceleration",
+	"SETTINGS_HW_LEGACY": "Legacy",
 
 	"QUIT": "Quit",
 
@@ -720,7 +729,6 @@
 	"WEBSITE_TOS": "Terms of use",
 	"WEBSITE_LEGAL": "Legal",
 
-	"WEBSITE_PAGE_FEATUTES": "Features",
 	"WEBSITE_PAGE_ABOUT": "Pri",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Become a partner",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Freedom To Watch\nEverything You Want.",
@@ -759,6 +767,8 @@
 	"WEBSITE_NEWSLETTER": "Join Our Newsletter for amazing stuff",
 	"WEBSITE_PLACEHOLDER_EMAIL": "Via Retpoŝto",
 	"WEBSITE_COMMUNITY": "Komunumo",
+	"WEBSITE_COMMUNITY_ART": "Community Art Gallery",
+	"WEBSITE_LINK_ART": "Community art gallery",
 	"WEBSITE_LINK_PRAVACY_LEGAL": "Privacy & legal",
 	"WEBSITE_WHY": "Why we do it",
 	"WEBSITE_WHY_P1": "At Stremio, we come to work every day because we want to solve an important problem for the video-on-demand industry. There’s so much new content published every minute that it’s virtually impossible to find your way around it.",
