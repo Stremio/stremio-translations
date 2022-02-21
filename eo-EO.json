@@ -29,7 +29,7 @@
 	"INTERNET_CONNECTION": "Reta Konekto",
 
 	"STORAGE_FULL_TITLE": "Atentu: Via datumstoro estas plena!",
-	"STORAGE_FULL_TEXT": "Stremio will not be able to save your settings, preferences or login information. Consider re-starting or re-installing Stremio.",
+	"STORAGE_FULL_TEXT": "Stremio ne kapablos savi viajn agordojn, preferojn aŭ ensalut-informacio. Konsideru re-ŝalti aŭ re-instali Stremio-n.",
 
 	"SEARCH": "serĉi",
 	"SEARCH_NO_RESULTS": "Neniuj rezultoj trovitaj",
@@ -150,7 +150,7 @@
 	"PEERS_WAITING": "Waiting:",
 	"TRANSCODING_WARNING": "Warning: transcoding video.",
 
-	"STREAM_LOADING": "loading...",
+	"STREAM_LOADING": "ŝargante...",
 	"PLAYING_LOCAL": "playing from local file",
 	"PLAYING_CACHE": "playing from cache",
 
@@ -211,7 +211,7 @@
 	"DISCOVER_EMPTY_CATALOG": "This addon returned empty content.",
 	"DISCOVER_ADULT_WARNING": "The content is visible only for adults. Are you 18+?",
 	"DISCOVER_NOADDON_WARNING": "Warning: no Stremio addon active for this type. Showing saved items, nothing here will update.",
-	"DISCOVER_LOAD_ERR": "The content did not load, error occured.",
+	"DISCOVER_LOAD_ERR": "La enhavo ne ŝargis, eraro okazis.",
 	"DISCOVER_ADDON_UNINSTALLED": "This content is no longer available, you may have un-installed the addon.",
 	"UNINSTALL_THIS_ADDON": "Malinstali ĉi tiun aldonaĵon",
 	"ERR_ADDON_NOT_INSTALLED": "This addon is not installed. Install now?",
