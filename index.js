@@ -73,9 +73,9 @@ module.exports.all = [
 	"se-SE",
 	"sr-RS",
 	"tr-TR",
+  "sl-SL",
 	"zh-CN",
 	"zh-HK",
-	"sl-SL",
 	"cs-CZ",
 	"te-IN",
 	"zh-TW"

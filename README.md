@@ -58,7 +58,7 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | uk-UA   | Ukrainian            | [@landiadeto](https://github.com/landiadeto)
 | zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)    
 | ar-AR   | Arabic              | [@firassziedan](https://github.com/firassziedan)
-
+| sl-SL    | Slovenian                | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
 
 
 Feel free to add yourself!
