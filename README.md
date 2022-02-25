@@ -56,6 +56,9 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | sr-RS   | Serbian              | [@m0k1](https://github.com/m0k1), [@RyanLinford](https://github.com/RyanLinford)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | tr-TR   | Turkish              | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)                                                      
 | uk-UA   | Ukrainian            | [@landiadeto](https://github.com/landiadeto)
-| zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)    
+| ar-AR   | Arabic              | [@firassziedan](https://github.com/firassziedan)
+
+
 
 Feel free to add yourself!
