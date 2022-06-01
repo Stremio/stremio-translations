@@ -7,27 +7,33 @@ fs.mkdirSync(path.join(process.cwd(), 'build'), { recursive: true });
 
 var defaultLang = 'en-rUS';
 
-function startsWithNumber(str) {
-  return /^\d/.test(str);
+function str2xml(str) {
+
+	var textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
+	var newLines = ['<\\/?br ?\\/?>'];
+	var replacers = {
+		' \\& ': ' &amp; ', // replace "&" with html entity
+		'\\.\\.\\.': '&#8230;', // replace "..." with html entity
+		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
+		'\\&raquo\\;': '»', // replace "&raquo;" with »
+		"\\'": "\\\\\\'", // escape quotes
+		'\\"': '\\\\\\"', // escape quotes
+		'\\?': '\\\\\\?', // escape question marks
+		'<[^>]*>?': '', // strip html elements
+	}
+
+	textVars.forEach(el => { str = str.replace(new RegExp(el, 'gm'), '%s') })
+	newLines.forEach(el => { str = str.replace(new RegExp(el, 'gm'), '\n') })
+	Object.keys(replacers).forEach(key => { str = str.replace(new RegExp(key, 'gm'), replacers[key]) })
+	return str;
 }
 
-function str2xml(str) {
-	// replace string vars
-	str = str.replace(/{{[^}]+}}/gm, '%s');
-	str = str.replace(/\$ ?{[\d]+}/gm, '%s');
-	str = str.replace(/\#{[^}]+}/gm, '%s');
-	// replace new lines
-	str = str.replace(/<\/?br ?\/?>/gm, '\n');
-	// replace "&" with html entity
-	str = str.replace(/ \& /gm, ' &amp; ');
-	str = str.replace(/\.\.\./gm, '&#8230;');
-	// no "&nbsp;"
-	str = str.split('&nbsp;').join(' ');
-	// escape quotes
-	str = str.replace(/\'/gm, '\\\'');
-	// strip html elements
-	str = str.replace(/<[^>]*>?/gm, '');
-	return str;
+function startsWithNumber(str) {
+	return /^\d/.test(str);
+}
+
+function noColons(str) {
+	return /\:/.test(str);
 }
 
 function slug(str) {
@@ -49,7 +55,7 @@ files.forEach(function(file) {
 		var xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
 		var dedup = {}
-		Object.keys(translations).filter(key => !startsWithNumber(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
+		Object.keys(translations).filter(key => !startsWithNumber(key) && !noColons(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
 		Object.keys(dedup).forEach(key => {
 			xml += '  <string name="'+key+'">'+str2xml(dedup[key])+'</string>\n';
 		})
