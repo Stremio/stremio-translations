@@ -20,7 +20,7 @@ function str2xml(str) {
 	str = str.replace(/<\/?br ?\/?>/gm, '\n');
 	// replace "&" with html entity
 	str = str.replace(/ \& /gm, ' &amp; ');
-	str = str.replace(/.../gm, '&#8230;');
+	str = str.replace(/\.\.\./gm, '&#8230;');
 	// escape quotes
 	str = str.replace(/\'/gm, '\\\'');
 	// strip html elements
