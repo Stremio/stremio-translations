@@ -10,16 +10,23 @@ var defaultLang = 'en-rUS';
 function str2xml(str) {
 	// replace string vars
 	str = str.replace(/{{[^}]+}}/gm, '%s');
+	str = str.replace(/\$ ?{[\d]+}/gm, '%s');
+	str = str.replace(/\#{[^}]+}/gm, '%s');
 	// replace new lines
-	str = str.replace(/<br ?\/?>/gm, '\n');
+	str = str.replace(/<\/?br ?\/?>/gm, '\n');
 	// replace "&" with html entity
 	str = str.replace(/ \& /gm, ' &amp; ');
+	// escape quotes
+	str = str.replace(/\'/gm, '\\\'');
+	// strip html elements
+	str = str.replace(/<[^>]*>?/gm, '');
 	return str;
 }
 
 function slug(str) {
 	str = str.split(' ').join('_');
 	str = str.split('&').join('_');
+	str = str.split('-').join('_');
 	str = str.replace(/__+/g, '_');
 	return str;
 }
@@ -32,10 +39,12 @@ files.forEach(function(file) {
 		var translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
 		var langFolder = 'values' + (langTag !== defaultLang ? '-' + langTag : '');
 		fs.mkdirSync(path.join(process.cwd(), 'build', langFolder), { recursive: true });
-		let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
+		var xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
-		Object.keys(translations).forEach(key => {
-			xml += '  <string name="'+slug(key.toLowerCase())+'">'+str2xml(translations[key])+'</string>\n';
+		var dedup = {}
+		Object.keys(translations).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
+		Object.keys(dedup).forEach(key => {
+			xml += '  <string name="'+key+'">'+str2xml(dedup[key])+'</string>\n';
 		})
 		xml += '</resources>';
 		fs.writeFileSync(path.join(process.cwd(), 'build', langFolder, 'strings.xml'), xml);
