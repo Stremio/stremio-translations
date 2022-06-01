@@ -16,9 +16,8 @@ function str2xml(str) {
 		'\\.\\.\\.': '&#8230;', // replace "..." with html entity
 		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
 		'\\&raquo\\;': '»', // replace "&raquo;" with »
-		"\\'": "\\\\\\'", // escape quotes
-		'\\"': '\\\\\\"', // escape quotes
-		'\\?': '\\\\\\?', // escape question marks
+		"\\'": "\\\'", // escape quotes
+		'\\?': '\\\?', // escape question marks
 		'<[^>]*>?': '', // strip html elements
 	};
 
