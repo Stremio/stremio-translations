@@ -7,6 +7,10 @@ fs.mkdirSync(path.join(process.cwd(), 'build'), { recursive: true });
 
 var defaultLang = 'en-rUS';
 
+function startsWithNumber(str) {
+  return /^\d/.test(str);
+}
+
 function str2xml(str) {
 	// replace string vars
 	str = str.replace(/{{[^}]+}}/gm, '%s');
@@ -16,6 +20,7 @@ function str2xml(str) {
 	str = str.replace(/<\/?br ?\/?>/gm, '\n');
 	// replace "&" with html entity
 	str = str.replace(/ \& /gm, ' &amp; ');
+	str = str.replace(/.../gm, '&#8230;');
 	// escape quotes
 	str = str.replace(/\'/gm, '\\\'');
 	// strip html elements
@@ -28,7 +33,7 @@ function slug(str) {
 	str = str.split('&').join('_');
 	str = str.split('-').join('_');
 	str = str.replace(/__+/g, '_');
-	return str;
+	return 'label_'+str;
 }
 
 files.forEach(function(file) {
@@ -42,7 +47,7 @@ files.forEach(function(file) {
 		var xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
 		var dedup = {}
-		Object.keys(translations).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
+		Object.keys(translations).filter(key => !startsWithNumber(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
 		Object.keys(dedup).forEach(key => {
 			xml += '  <string name="'+key+'">'+str2xml(dedup[key])+'</string>\n';
 		})
