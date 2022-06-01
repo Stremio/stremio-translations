@@ -21,6 +21,8 @@ function str2xml(str) {
 	// replace "&" with html entity
 	str = str.replace(/ \& /gm, ' &amp; ');
 	str = str.replace(/\.\.\./gm, '&#8230;');
+	// no "&nbsp;"
+	str = str.split('&nbsp;').join(' ');
 	// escape quotes
 	str = str.replace(/\'/gm, '\\\'');
 	// strip html elements
