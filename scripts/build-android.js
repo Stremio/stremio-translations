@@ -28,15 +28,11 @@ function str2xml(str) {
 	return str;
 }
 
-function startsWithNumber(str) {
-	return /^\d/.test(str);
-}
-
-function noColons(str) {
-	return /\:/.test(str);
-}
-
 function slug(str) {
+	// can't start with number
+	if (/^\d/.test(str)) return false;
+	// can't include colons
+	if (/\:/.test(str)) return false;
 	str = str.split(' ').join('_');
 	str = str.split('&').join('_');
 	str = str.split('-').join('_');
@@ -55,7 +51,7 @@ files.forEach(function(file) {
 		var xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
 		var dedup = {}
-		Object.keys(translations).filter(key => !startsWithNumber(key) && !noColons(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
+		Object.keys(translations).filter(key => slug(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
 		Object.keys(dedup).forEach(key => {
 			xml += '  <string name="'+key+'">'+str2xml(dedup[key])+'</string>\n';
 		})
