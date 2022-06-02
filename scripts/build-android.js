@@ -1,17 +1,17 @@
-var path = require('path');
-var fs = require('fs');
+const path = require('path');
+const fs = require('fs');
 
-var files = fs.readdirSync(process.cwd());
+const files = fs.readdirSync(process.cwd())
 
 fs.mkdirSync(path.join(process.cwd(), 'build'), { recursive: true });
 
-var defaultLang = 'en-rUS';
+const defaultLang = 'en-rUS';
 
-function escapeXmlString(str) {
+const escapeXmlString = str => {
 
-	var textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
-	var newLines = ['<\\/?br ?\\/?>'];
-	var replacers = {
+	const textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
+	const newLines = ['<\\/?br ?\\/?>'];
+	const replacers = {
 		' \\& ': ' &amp; ', // replace "&" with html entity
 		'\\.\\.\\.': '&#8230;', // replace "..." with html entity
 		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
@@ -27,32 +27,31 @@ function escapeXmlString(str) {
 	return str;
 }
 
-function slug(str) {
+const slug = str => {
 	// can't start with number
 	if (/^\d/.test(str)) return false;
 	// can't include colons
 	if (/\:/.test(str)) return false;
 	str = str.replace(/[ &-]+/g, '_')
 	str = str.replace(/__+/g, '_');
-	return 'label_'+str;
+	return `label_${str}`;
 }
 
-files.forEach(function(file) {
-	if (/[a-z][a-z]-[A-Z][A-Z]\.json$/g.test(file)) {
-		var lang = file.split('-')[0];
-		var region = file.split('-')[1].replace('.json', '');
-		var langTag = lang + '-r' + region;
-		var translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
-		var langFolder = 'values' + (langTag !== defaultLang ? '-' + langTag : '');
+files
+	.filter(file => /[a-z]{2}-[A-Z]{2}\.json$/g.test(file))
+	.forEach(file => {
+		const langTag = file.replace(/(\w\w-)(\w\w)\.json/,'$1r$2');
+		const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
+		let langFolder = 'values';
+		if (langTag !== defaultLang) langFolder += `-${langTag}`;
 		fs.mkdirSync(path.join(process.cwd(), 'build', langFolder), { recursive: true });
-		var xml = '<?xml version="1.0" encoding="utf-8"?>\n';
+		let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
-		var dedup = {};
+		const dedup = {};
 		Object.keys(translations).filter(key => slug(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
 		Object.keys(dedup).forEach(key => {
-			xml += '  <string name="'+key+'">'+escapeXmlString(dedup[key])+'</string>\n';
+			xml += `  <string name="${key}">${escapeXmlString(dedup[key])}</string>\n`;
 		});
 		xml += '</resources>';
 		fs.writeFileSync(path.join(process.cwd(), 'build', langFolder, 'strings.xml'), xml);
-	}
-})
+	})
