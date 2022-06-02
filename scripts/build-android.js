@@ -7,7 +7,7 @@ fs.mkdirSync(path.join(process.cwd(), 'build'), { recursive: true });
 
 var defaultLang = 'en-rUS';
 
-function str2xml(str) {
+function escapeXmlString(str) {
 
 	var textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
 	var newLines = ['<\\/?br ?\\/?>'];
@@ -32,9 +32,7 @@ function slug(str) {
 	if (/^\d/.test(str)) return false;
 	// can't include colons
 	if (/\:/.test(str)) return false;
-	str = str.split(' ').join('_');
-	str = str.split('&').join('_');
-	str = str.split('-').join('_');
+	str = str.replace(/[ &-]+/g, '_')
 	str = str.replace(/__+/g, '_');
 	return 'label_'+str;
 }
@@ -52,7 +50,7 @@ files.forEach(function(file) {
 		var dedup = {};
 		Object.keys(translations).filter(key => slug(key)).forEach(key => dedup[slug(key.toLowerCase())] = translations[key]);
 		Object.keys(dedup).forEach(key => {
-			xml += '  <string name="'+key+'">'+str2xml(dedup[key])+'</string>\n';
+			xml += '  <string name="'+key+'">'+escapeXmlString(dedup[key])+'</string>\n';
 		});
 		xml += '</resources>';
 		fs.writeFileSync(path.join(process.cwd(), 'build', langFolder, 'strings.xml'), xml);
