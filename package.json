@@ -4,7 +4,8 @@
   "description": "Translation strings used for Stremio app",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/*"
+    "test": "tape test/*",
+    "build:android": "node ./scripts/build-android.js"
   },
   "repository": {
     "type": "git",
