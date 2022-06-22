@@ -442,6 +442,7 @@
 	"CACHING": "Mise en cache",
 	"SETTINGS_CACHING_DRIVE": "Emplacement du cache",
 	"ENABLE_LOCAL_FILES_ADDON": "Activer l'addon pour les fichiers locaux (nécessite un redémarrage)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Activer les connexions HTTPS à distance",
 	"TORRENT_PROFILE": "Profil du client Torrent",
 	"DATA_CACHING": "Mise en cache des données",

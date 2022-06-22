@@ -442,6 +442,7 @@
 	"CACHING": "Προσωρινή αποθήκευση",
 	"SETTINGS_CACHING_DRIVE": "Δίσκος προσωρινής μνήμης",
 	"ENABLE_LOCAL_FILES_ADDON": "Ενεργοποίηση προσθέτου τοπικών αρχείων (απαιτεί επανεκκίνηση)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Ενεργοποίηση απομακρυσμένων συνδέσεων HTTPS",
 	"TORRENT_PROFILE": "Προφίλ torrent",
 	"DATA_CACHING": "Προσωρινή αποθήκευση δεδομένων",

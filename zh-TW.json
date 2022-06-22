@@ -442,6 +442,7 @@
 	"CACHING": "快取",
 	"SETTINGS_CACHING_DRIVE": "快取磁碟",
 	"ENABLE_LOCAL_FILES_ADDON": "啟用本地檔案外掛（需要重新啟動）",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "啟用遠端HTTPS連線",
 	"TORRENT_PROFILE": "Torrent配置",
 	"DATA_CACHING": "資料快取",

@@ -442,6 +442,7 @@
 	"CACHING": "缓存",
 	"SETTINGS_CACHING_DRIVE": "缓存磁盘",
 	"ENABLE_LOCAL_FILES_ADDON": "启用本地文件插件（需要重新启动）",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "启用远程HTTPS连接",
 	"TORRENT_PROFILE": "Torrent配置",
 	"DATA_CACHING": "数据缓存",

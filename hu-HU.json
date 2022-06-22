@@ -442,6 +442,7 @@
 	"CACHING": "Tárolás",
 	"SETTINGS_CACHING_DRIVE": "Válaszd ki a tárolás helyét",
 	"ENABLE_LOCAL_FILES_ADDON": "Enable the local files addon (requires restart)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Enable remote HTTPS connections",
 	"TORRENT_PROFILE": "Torrent Profile",
 	"DATA_CACHING": "Data Caching",

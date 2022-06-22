@@ -442,6 +442,7 @@
 	"CACHING": "Кешування",
 	"SETTINGS_CACHING_DRIVE": "Кешуючий диск",
 	"ENABLE_LOCAL_FILES_ADDON": "Увімкнути доповнення локальних файлів (потрібно перезавантажити)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Увімкнути віддалені з’єднання HTTPS",
 	"TORRENT_PROFILE": "Торрент профіль",
 	"DATA_CACHING": "Кешування даних",

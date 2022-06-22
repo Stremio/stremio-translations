@@ -442,6 +442,7 @@
 	"CACHING": "Mezipaměť",
 	"SETTINGS_CACHING_DRIVE": "Jednotka mezipaměti",
 	"ENABLE_LOCAL_FILES_ADDON": "Povolení doplňku pro místní soubory (vyžaduje restart)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Povolení vzdálených připojení HTTPS",
 	"TORRENT_PROFILE": "Profil Torrent",
 	"DATA_CACHING": "Ukládání dat do mezipaměti",
