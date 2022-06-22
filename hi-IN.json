@@ -442,6 +442,7 @@
 	"CACHING": "कैशिंग",
 	"SETTINGS_CACHING_DRIVE": "कैशिंग ड्राइव",
 	"ENABLE_LOCAL_FILES_ADDON": "स्थानीय फ़ाइलें Addon सक्षम करें (पुनरारंभ की आवश्यकता है)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "रिमोट एचटीटीपीएस कनेक्शन सक्षम करें",
 	"TORRENT_PROFILE": "टोरेंट प्रोफाइल",
 	"DATA_CACHING": "डेटा कैशिंग",

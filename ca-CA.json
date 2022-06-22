@@ -442,6 +442,7 @@
 	"CACHING": "Memòria cau",
 	"SETTINGS_CACHING_DRIVE": "Disc de memòria cau",
 	"ENABLE_LOCAL_FILES_ADDON": "Activa el complement de fitxers locals (requereix un reinici)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Activeu les connexions HTTPS remotes",
 	"TORRENT_PROFILE": "Perfil del torrent",
 	"DATA_CACHING": "Memòria cau emmagatzemada",

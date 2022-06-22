@@ -442,6 +442,7 @@
 	"CACHING": "מטמון",
 	"SETTINGS_CACHING_DRIVE": "בחר כונן למטמון",
 	"ENABLE_LOCAL_FILES_ADDON": "הפעלת תוסף גישה לקבצים מקומיים (נדרשת הפעלה מחדש)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "הפעלת חיבורי HTTPS מרוחקים",
 	"TORRENT_PROFILE": "Torrent Profile",
 	"DATA_CACHING": "מידע זמני",

@@ -442,6 +442,7 @@
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Seleciona a unidade para cache",
 	"ENABLE_LOCAL_FILES_ADDON": "Ativa o addon de ficheiros locais (requer reinicialização)",
+	"LOCAL_ADDON_NOT_ENABLED": "Local addon is not enabled. Click here to go to the settings and enable it",
 	"ENABLE_REMOTE_HTTPS_CONN": "Ativar conexões HTTPS remotas",
 	"TORRENT_PROFILE": "Perfis de Torrents",
 	"DATA_CACHING": "Caching de dados",
