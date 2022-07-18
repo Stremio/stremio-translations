@@ -18,6 +18,7 @@ const escapeXmlString = str => {
 		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
 		'\\&raquo\\;': '»', // replace "&raquo;" with »
 		"\\'": "\\\'", // escape quotes
+		"\\%(?!s|\\d*d|[\\.\\d]*f)": "%%", // escape percentage sign
 		'\\?': '\\\?', // escape question marks
 		'<[^>]*>?': '', // strip html elements
 	};
