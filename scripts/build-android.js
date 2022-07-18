@@ -13,7 +13,7 @@ const escapeXmlString = str => {
 	const textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
 	const newLines = ['<\\/?br ?\\/?>'];
 	const replacers = {
-		' \\& ': ' &amp; ', // replace "&" with html entity
+		'\\&(?![#\\w]+;)': '&amp;', // replace "&" with html entity
 		'\\.\\.\\.': '&#8230;', // replace "..." with html entity
 		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
 		'\\&raquo\\;': '»', // replace "&raquo;" with »
