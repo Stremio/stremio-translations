@@ -1,9 +1,10 @@
 const path = require('path');
 const fs = require('fs');
 
+const rootPath = 'android/src/main/res'
 const files = fs.readdirSync(process.cwd())
 
-fs.mkdirSync(path.join(process.cwd(), 'build'), { recursive: true });
+fs.mkdirSync(path.join(process.cwd(), rootPath), { recursive: true });
 
 const defaultLang = 'en-rUS';
 
@@ -44,7 +45,7 @@ files
 		const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
 		let langFolder = 'values';
 		if (langTag !== defaultLang) langFolder += `-${langTag}`;
-		fs.mkdirSync(path.join(process.cwd(), 'build', langFolder), { recursive: true });
+		fs.mkdirSync(path.join(process.cwd(), rootPath, langFolder), { recursive: true });
 		let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
 		const dedup = {};
@@ -53,5 +54,5 @@ files
 			xml += `  <string name="${key}">${escapeXmlString(dedup[key])}</string>\n`;
 		});
 		xml += '</resources>';
-		fs.writeFileSync(path.join(process.cwd(), 'build', langFolder, 'strings.xml'), xml);
+		fs.writeFileSync(path.join(process.cwd(), rootPath, langFolder, 'strings.xml'), xml);
 	})
