@@ -811,6 +811,7 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "मैकोज़ के लिए स्ट्रेमियो",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "लिनक्स के लिए STREMIO",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "एंड्रॉइड के लिए स्ट्रेमियो",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "आईओएस के लिए स्ट्रेमियो (सीमित संस्करण)",
 	"WEBSITE_CONTRIBUTE": "योगदान",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio प्लेटफ़ॉर्म ओपन सोर्स है और आप आसानी से उस सामग्री के लिए एक एडन बना सकते हैं जो वर्तमान में सोर्स नहीं है।",

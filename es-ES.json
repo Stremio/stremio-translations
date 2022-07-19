@@ -811,6 +811,7 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "Stremio para macOS",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio para Linux",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio para Android",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio para iOS",
 	"WEBSITE_CONTRIBUTE": "Contribuye",
 	"WEBSITE_CONTRIBUTE_P1": "La plataforma Stremio es código abierto y puedes crear fácilmente un complemento para contenido que actualmente no posee fuente.",

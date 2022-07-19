@@ -811,6 +811,7 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "Stremio pour macOS",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio pour Linux",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio pour Android",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio pour iOS (version limitée)",
 	"WEBSITE_CONTRIBUTE": "Contribuer",
 	"WEBSITE_CONTRIBUTE_P1": "La plateforme Stremio est open source et vous pouvez facilement créer un addon pour du contenu qui n'est actuellement pas sourcé.",

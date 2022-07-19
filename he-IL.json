@@ -811,6 +811,7 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "Stremio עבור macOS",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio עבור Linux",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio עבור Android",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio עבור iOS",
 	"WEBSITE_CONTRIBUTE": "Contribute",
 	"WEBSITE_CONTRIBUTE_P1": "The Stremio platform is open source and you can easily create an addon for content that is currently not sourced.",

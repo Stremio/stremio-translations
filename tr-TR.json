@@ -811,6 +811,7 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "macOS için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Linux için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Android için Stremio",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS için Stremio",
 	"WEBSITE_CONTRIBUTE": "Katkıda Bulunun",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio platformu, açık kaynak kodludur ve şu anda kaynağı olmayan içerik için kolayca bir eklenti oluşturabilirsiniz.",
