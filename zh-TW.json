@@ -812,6 +812,7 @@
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio for Linux",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio for Android",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio for Android Mobile",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio for iOS（限制版本）",
 	"WEBSITE_CONTRIBUTE": "貢獻",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio平臺是開源的，您可以輕鬆地為當前沒有來源的內容建立一個外掛。",
