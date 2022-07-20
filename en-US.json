@@ -781,6 +781,7 @@
 	"WEBSITE_SLOGAN_WATCH": "Watch Instantly",
 	"WEBSITE_SLOGAN_ALL": "All the Video Content You Enjoy in One Place",
 	"WEBSITE_SLOGAN_NEW": "All You Can Watch",
+	"WEBSITE_SLOGAN_NEW_NEW": "Freedom to Stream",
 	"WEBSITE_WATCH_FROM": "Watch from",
 	"WEBSITE_DOWNLOAD": "Download Now",
 	"WEBSITE_DOWNLOAD_FOR": "Download Now For",
@@ -966,6 +967,8 @@
 	"WEBSITE_DOWNLOADS_FOR_MAC": "Stremio for macOS",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio for Linux",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio for Android",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
+	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio for Android Mobile",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio for iOS (limited version)",
 
 	"WEBSITE_CONTRIBUTE": "Contribute",
