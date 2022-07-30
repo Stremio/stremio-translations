@@ -1,7 +1,6 @@
 # stremio-translations
 
-**This is the repository the [Stremio media center](http://www.strem.io) uses
-for all translation strings.**
+**This is the repository the [Stremio media center](https://www.stremio.com/) uses for all translation strings.**
 
 ### How to contribute
 
@@ -18,10 +17,10 @@ Clone this repo, copy en-US.json as a starting point into your language's
 locale file, following IETF standard. To test in the app, start Stremio like:
 
 ```
-# for windows
+# for Windows
 %LOCALAPPDATA%\Programs\LNV\Stremio\Stremio.exe . --translation=PATH_TO_JSON
 
-# for mac
+# for macOS
 /Applications/Stremio.app/Contents/MacOS/Electron . --translation=PATH_TO_JSON
 ```
 
@@ -51,14 +50,14 @@ locale file, following IETF standard. To test in the app, start Stremio like:
 | pl-PL   | Polish               | [@yknomeh](https://github.com/yknomeh)                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | pt-BR   | Brazilian Portuguese | [@loopbackbr](https://github.com/loopbackbr), [@luanhssa](https://github.com/luanhssa), [@leonardosnt](https://github.com/leonardosnt), [@John-Luke](https://github.com/John-Luke), [@kelvins](https://github.com/kelvins), [@davidsonsns](https://github.com/davidsonsns), [@fabianosantosnet](https://github.com/fabianosantosnet), [@andrerafaiel](https://github.com/andrerafaiel), [@brunohgv](https://github.com/brunohgv), [@poorlydefinedbehaviour](https://github.com/poorlydefinedbehaviour), [@di3goCS](https://github.com/di3goCS) and [@rohlacanna](https://github.com/rohlacanna)
 | pt-PT   | Portuguese           | [@henriquev16](https://github.com/henriquev16), [@liqen](https://github.com/liqen), [@iretan](https://github.com/iretan), [@croquete1](https://github.com/croquete1) and [@SalvadorD18](https://github.com/SalvadorD18)                                                                                                                                                                                                                                                                                  |
-| ru-RU   | Russian              | [@thedp](https://github.com/thedp), [ViktorOn](https://github.com/viktoron)                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ru-RU   | Russian              | [@thedp](https://github.com/thedp), [@ViktorOn](https://github.com/viktoron)                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | sv-SE   | Swedish              | [@erikdsjostrom](https://github.com/erikdsjostrom)                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | sr-RS   | Serbian              | [@m0k1](https://github.com/m0k1), [@RyanLinford](https://github.com/RyanLinford)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | tr-TR   | Turkish              | [@ali-demirtas](https://github.com/ali-demirtas) [@rozehan](https://github.com/rozehan)                                                      
 | uk-UA   | Ukrainian            | [@landiadeto](https://github.com/landiadeto)
 | zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)    
-| ar-AR   | Arabic              | [@firassziedan](https://github.com/firassziedan)
-| sl-SL    | Slovenian                | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
+| ar-AR   | Arabic               | [@firassziedan](https://github.com/firassziedan)
+| sl-SL   | Slovenian            | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
 
 
 Feel free to add yourself!
