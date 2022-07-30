@@ -1215,13 +1215,17 @@
 	"EDIT_URL": "Edit URL",
 	"NONE": "None",
 	"EMBEDDED": "Embedded",
-
 	"REMOTE_SWITCH_DEVICES": "Switch Devices",
 	"REMOTE_VIDEOS": "Videos",
 	"REMOTE_ADJUST_TIMING": "Adjust timing",
 	"REMOTE_ADJUST_SIZE": "Adjust size",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web Remote could not be loaded",
 	"REMOTE_RETRY": "Retry",
+
+	"TORRENT_PROFILE_DEFAULT": "Default",
+	"TORRENT_PROFILE_SOFT": "Soft",
+	"TORRENT_PROFILE_FAST": "Fast",
+	"TORRENT_PROFILE_ULTRA_FAST": "Ultra Fast",
 
 	"FAQ_001_H1": "What is Stremio?",
 	"FAQ_001_P1": "Stremio is a media center software designed for video entertainment with ease of use in mind. Stremio allows you to organize &amp; watch your own collection of movies, series, channels and live TV.",
