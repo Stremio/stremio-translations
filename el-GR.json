@@ -1008,7 +1008,7 @@
 	"STREMIO_TV_STREAMS_STILL_LOADING": "Το ${1} ακόμα φορτώνει ...",
 	"STREMIO_TV_PLAYER_SETTINGS": "Ρυθμίσεις προγράμματος αναπαραγωγής",
 	"STREMIO_TV_PLAYER_SUBTITLES_DELAY": "Καθυστέρηση υποτίτλων",
-	"STREMIO_TV_PLAYER_AUDIO_DELAY": "Καθυστέρηση ήχου,
+	"STREMIO_TV_PLAYER_AUDIO_DELAY": "Καθυστέρηση ήχου",
 	"STREMIO_TV_PLAYER_VIDEO_SCALING": "Κλιμάκωση βίντεο",
 	"STREMIO_TV_PLAYER_UNSUPPORTED_STREAM": "Μη υποστηριζόμενη πηγή ροής",
 	"STREMIO_TV_PLAYER_FAILED_EXTERNAL_LINK": "Αποτυχία ανοίγματος εξωτερικού συνδέσμου",
