@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Gegevensbesparing",
 	"SETTINGS_LANGUAGE_INTERFACE": "interface",
 	"SETTINGS_LANGUAGE_SUBS": "standaard ondertiteling",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
 	"SETTINGS_ACCOUNT": "account",

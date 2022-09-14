@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Ahorrador de datos",
 	"SETTINGS_LANGUAGE_INTERFACE": "interfaz",
 	"SETTINGS_LANGUAGE_SUBS": "Subtítulos por defecto",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoseleccionar Pista de Audio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista de Audio por defecto",
 	"SETTINGS_ACCOUNT": "cuenta",

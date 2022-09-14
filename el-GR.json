@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Εξοικονόμηση δεδομένων",
 	"SETTINGS_LANGUAGE_INTERFACE": "περιβάλλον χρήστη",
 	"SETTINGS_LANGUAGE_SUBS": "προεπιλεγμένοι υπότιτλοι",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Αυτόματη επιλογή κομματιού ήχου",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Προεπιλεγμένο κομμάτι ήχου",
 	"SETTINGS_ACCOUNT": "λογαριασμός",

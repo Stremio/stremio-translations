@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Economizador de Dados",
 	"SETTINGS_LANGUAGE_INTERFACE": "Interface",
 	"SETTINGS_LANGUAGE_SUBS": "Legenda padrão",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Trilha de áudio padrão",
 	"SETTINGS_ACCOUNT": "Conta",
