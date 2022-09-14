@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Экономия трафика",
 	"SETTINGS_LANGUAGE_INTERFACE": "интерфейс",
 	"SETTINGS_LANGUAGE_SUBS": "субтитры по умолчанию",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Автовыбор аудиодорожки",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аудиодорожка по умолчанию",
 	"SETTINGS_ACCOUNT": "аккаунт",

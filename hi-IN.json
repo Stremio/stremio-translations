@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "आंकड़ा बचतकर्ता",
 	"SETTINGS_LANGUAGE_INTERFACE": "इंटरफेस",
 	"SETTINGS_LANGUAGE_SUBS": "डिफ़ॉल्ट उपशीर्षक",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "ऑटोसेल ऑडियो ट्रैक",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "डिफ़ॉल्ट ऑडियो ट्रैक",
 	"SETTINGS_ACCOUNT": "कारण",

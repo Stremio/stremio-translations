@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Estalviador de dades",
 	"SETTINGS_LANGUAGE_INTERFACE": "interfície",
 	"SETTINGS_LANGUAGE_SUBS": "subtítols per defecte",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Seleccionar Automàticament la Pista d'Àudio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista d'Àudio Predeterminada",
 	"SETTINGS_ACCOUNT": "compte",

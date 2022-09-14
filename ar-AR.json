@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "المحافظة على البيانات",
 	"SETTINGS_LANGUAGE_INTERFACE": "واجهة المستخدم",
 	"SETTINGS_LANGUAGE_SUBS": "الترجمة الافتراضية",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "اختيار مسار الصوت تلقائيا",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "مسار الصوت المبدئي",
 	"SETTINGS_ACCOUNT": "الحساب",

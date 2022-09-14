@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Datu aurrezlea",
 	"SETTINGS_LANGUAGE_INTERFACE": "interfazea",
 	"SETTINGS_LANGUAGE_SUBS": "azpititulu lehenetsiak",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Aukeratu automatikoki Audio pista",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Audio pista lehenetsia",
 	"SETTINGS_ACCOUNT": "kontua",

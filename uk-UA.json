@@ -388,6 +388,7 @@
 	"SETTINGS_DATA_SAVER": "Заощадження даних",
 	"SETTINGS_LANGUAGE_INTERFACE": "інтерфейс",
 	"SETTINGS_LANGUAGE_SUBS": "субтитри за замовчуванням",
+	"SETTINGS_ENABLE_AUDIO_VOLUME_BOOST": "Maximum volume amplification (advanced)",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Автоматичний вибір звукової доріжки",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аудіодоріжка за замовчуванням",
 	"SETTINGS_ACCOUNT": "обліковий запис",
