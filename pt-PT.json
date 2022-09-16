@@ -816,6 +816,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Stremio para Android",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Stremio for Android TV",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio for Android Mobile",
+	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio for Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio para iOS (versão limitada)",
 	"WEBSITE_CONTRIBUTE": "Colaborar",
 	"WEBSITE_CONTRIBUTE_P1": "A plataforma Stremio é de código aberto e podes criar facilmente um addon para o conteúdo que não é atualmente fornecido.",
