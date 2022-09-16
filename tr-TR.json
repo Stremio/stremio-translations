@@ -816,6 +816,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID": "Android için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_TV": "Android TV için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobil için Stremio",
+	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio for Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS için Stremio",
 	"WEBSITE_CONTRIBUTE": "Katkıda Bulunun",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio platformu, açık kaynak kodludur ve şu anda kaynağı olmayan içerik için kolayca bir eklenti oluşturabilirsiniz.",
