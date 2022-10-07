@@ -2,14 +2,21 @@
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\": require(\"./$line\"),\n"; done
 module.exports = function() {
 	return {
+		"ar-AR": require("./ar-AR.json"),
+		"id-ID": require("./id-ID.json"),
 		"bg-BG": require("./bg-BG.json"),
+		"ca-CA": require("./ca-CA.json"),
 		"da-DK": require("./da-DK.json"),
 		"de-DE": require("./de-DE.json"),
 		"el-GR": require("./el-GR.json"),
 		"en-US": require("./en-US.json"),
+		"eo-EO": require("./eo-EO.json"),
 		"es-ES": require("./es-ES.json"),
+		"eu-ES": require("./eu-ES.json"),
+		"fa-IR": require("./fa-IR.json"),
 		"fr-FR": require("./fr-FR.json"),
 		"he-IL": require("./he-IL.json"),
+		"hi-IN": require("./hi-IN.json"),
 		"hr-HR": require("./hr-HR.json"),
 		"hu-HU": require("./hu-HU.json"),
 		"it-IT": require("./it-IT.json"),
@@ -22,22 +29,35 @@ module.exports = function() {
 		"pt-BR": require("./pt-BR.json"),
 		"pt-PT": require("./pt-PT.json"),
 		"ru-RU": require("./ru-RU.json"),
-		"se-SE": require("./se-SE.json"),
+		"sv-SE": require("./sv-SE.json"),
 		"sr-RS": require("./sr-RS.json"),
-		"tr-TR": require("./tr-TR.json")
+		"tr-TR": require("./tr-TR.json"),
+		"zh-CN": require("./zh-CN.json"),
+		"zh-HK": require("./zh-HK.json"),
+		"sl-SL": require("./sl-SL.json"),
+		"cs-CZ": require("./cs-CZ.json"),
+		"te-IN": require("./te-IN.json"),
+		"zh-TW": require("./zh-TW.json"),
 	}
 };
 
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
 module.exports.all = [
+	"ar-AR",
+	"id-ID",
 	"bg-BG",
+	"ca-CA",
 	"da-DK",
 	"de-DE",
 	"el-GR",
 	"en-US",
+	"eo-EO",
 	"es-ES",
+	"eu-ES",
+	"fa-IR",
 	"fr-FR",
 	"he-IL",
+	"hi-IN",
 	"hr-HR",
 	"hu-HU",
 	"it-IT",
@@ -50,7 +70,13 @@ module.exports.all = [
 	"pt-BR",
 	"pt-PT",
 	"ru-RU",
-	"se-SE",
+	"sv-SE",
 	"sr-RS",
-	"tr-TR"
+	"tr-TR",
+	"zh-CN",
+	"zh-HK",
+	"sl-SL",
+	"cs-CZ",
+	"te-IN",
+	"zh-TW"
 ];
