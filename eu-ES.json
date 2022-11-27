@@ -4,39 +4,31 @@
 	"TYPE_tv": "Telebista katea",
 	"TYPE_channel": "Kanala",
 	"TYPE_other": "Beste batzuk",
-
 	"TYPE_movie_PL": "Filmak",
 	"TYPE_series_PL": "Telesaila",
 	"TYPE_tv_PL": "Telebista kateak",
 	"TYPE_channel_PL": "Kanalak",
 	"TYPE_other_PL": "Beste batzuk",
-
 	"VIDEO": "Bideoa",
-
 	"BACK": "Atzera",
 	"MORE": "Gehiago",
 	"DONE": "Eginda",
 	"COPY": "Kopiatu",
-
 	"Discover": "Ezagutu",
 	"Board": "Arbela",
 	"Library": "Liburutegia",
 	"My Library": "Nire Liburutegia",
 	"Calendar": "Egutegia",
-
 	"NOTIFICATION_ONLINE": "Linean zaude orain",
 	"NOTIFICATION_OFFLINE": "Une honetan lineaz kanpo zaude",
 	"INTERNET_CONNECTION": "Sareko konexioa",
-
 	"STORAGE_FULL_TITLE": "Abisua: biltegiratzea beteta!",
 	"STORAGE_FULL_TEXT": "Stremio-k ezin izango ditu zure ezarpenak, lehentasunak edo saio-hasierako informazioa gorde. Baloratu Stremio berriro abiaraztea edo berriro instalatzea.",
-
 	"SEARCH": "bilatu",
 	"SEARCH_NO_RESULTS": "Ez da emaitzarik aurkitu",
 	"SEARCH_EXPLANATION_CONTENT": "Bilatu filmak, serieak, YouTube eta telebista kateak",
 	"SEARCH_EXPLANATION_PEOPLE": "Aktore, zuzendari eta idazleak bilatu",
 	"SEARCH_PASTE_LINKS": "Itsatsi HTTP eta Magnet estekak",
-
 	"ADD_TO_LIB": "Gehitu liburutegian",
 	"REMOVE_FROM_LIB": "Kendu liburutegitik",
 	"ADDED_TO_LIB": "Liburutegian gehitu da",
@@ -47,7 +39,6 @@
 	"SHOW": "Ikuskizuna",
 	"SHOW_MOVIE": "Erakutsi filma",
 	"WATCH_RANDOM": "Ikusi ausaz",
-
 	"IMDB_RATING": "IMDb balorazioa",
 	"YEAR": "Urtea",
 	"DIRECTOR": "Zuzendaria",
@@ -69,10 +60,8 @@
 	"FEATURED": "Nabarmenduak",
 	"METADATA": "Metadatuak",
 	"CATEGORY": "kategoria",
-
 	"SEARCH_VIDEOS": "bilatu bideoak",
 	"SEARCH_PLACEHOLDER": "bilatu edo itsatsi URLa",
-
 	"ADDON": "gehigarria",
 	"ADDONS": "Gehigarriak",
 	"OFFICIAL": "ofiziala",
@@ -105,7 +94,6 @@
 	"SETTINGS_DATA_EXPORT": "Esportatu erabiltzaileen datuak",
 	"ADDON_PULL_FAILED": "Instalatutako gehigarriak zure kontutik sinkronizatzeak huts egin du",
 	"REFRESH_ON_CLICK": "Egin klik berriro saiatzeko",
-
 	"STILL_IN_THEATER": "Filma oraindik zinema aretoetan",
 	"WATCH_IN_CINEMA": "Ikusi zure tokiko zineman",
 	"IN_THEATER": "Zineman",
@@ -117,10 +105,8 @@
 	"CHANNEL_NOT_SCRAPED": "Kanal hau ez dago oraindik zatituta.<br>Itzuli minutu batzuen buruan.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Gehitu liburutegian erabilgarri dagoenean jakinarazpenak jasotzeko.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Erabilgarri dagoenean jakinaraziko zaizu.",
-
 	"WARNING_STREAMING_SERVER": "Abisua: ez da aurkitu streaming lokaleko zerbitzaria. Tokiko fitxategietatik, YouTube-tik eta BitTorrent-etik erreproduzitzea ez da erabilgarri egongo.",
 	"DECODER_WARNING": "Oharra: baliteke bideo hau zure hardwareak ez onartzea. Gogoan izan, erreprodukzioa motela izan daitekela.",
-
 	"PLAYER_ERROR": "Erreproduktorearen akatsa",
 	"PLAYER_ERROR_LOOKSLIKE": "Badirudi",
 	"PLAYER_ORIENTATION": "Erreproduktorearen orientazioa",
@@ -132,13 +118,10 @@
 	"PLAYER_PLAYBACK_ERROR": "Erreprodukzioaren errorea. Saiatu berriro",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "Errore ezezaguna",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "Barkatu, bideo hau ezin du {{productName}} erabiltzaileak erreproduzitu.",
-
 	"PLAYER_LIVE": "Zuzenean",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "Bueltan dator",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Baztertu",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Ikusi orain",
-
 	"STREAMING_FROM": "streaming jatorria",
 	"CASTING_TO": "(e)ra igortzen",
 	"NETWORK_STATUS": "Sarearen egoera",
@@ -149,24 +132,18 @@
 	"PEERS_CONNECTED": "Konektatuta:",
 	"PEERS_WAITING": "Itxaroten:",
 	"TRANSCODING_WARNING": "Abisua: bideoa transkodetzen.",
-
 	"STREAM_LOADING": "kargatzen...",
 	"PLAYING_LOCAL": "fitxategi lokaletik erreproduzitzen",
 	"PLAYING_CACHE": "cachetik erreproduzitzen",
-
 	"WRONG_SUBS": "Azpititulu okerrak?",
 	"ERR_SUBS_LOADING_TITLE": "Errorea azpitituluak kargatzean",
 	"ERR_SUBS_LOADING": "Ezin izan dira azpitituluak kargatu: arazoa izan daiteke erabiltzen ari zaren gehigarrian edo sareko konexioan",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Azpitituluen gehigarri hauek huts egin dute",
 	"ERR_CASTING_UPDATE_TITLE": "Ezin izan da eguneratu gailuaren informazioa: streaming zerbitzaria konexiorik gabe egon liteke",
-
 	"CHOOSE_DEVICE": "Aukeratu ikusi nahi duzun gailua",
 	"NO_CAST_DEVICES": "Ez dago galdaketa gailurik erabilgarri.",
-
 	"NO_SETTINGS": "Ez dago ezarpenik erabilgarri.",
-
 	"PHONE_TABLET": "Telefonoa / Tableta",
-
 	"SUBTITLES": "Azpitituluak",
 	"SUBTITLES_CHANGE": "Aldatu azpitituluak",
 	"SUBTITLES_CHANGE_NONE": "Ez dago hizkuntza honen azpititulurik, barkatu.",
@@ -179,16 +156,12 @@
 	"SUBTITLES_LOADING": "Azpitituluak kargatzen ...",
 	"SUBTITLES_UNAVAILABLE": "Ez dago kanpoko azpititulurik erabilgarri",
 	"SUBTITLES_DISABLED": "Desgaituta",
-
 	"AUDIO": "Audioa",
-
 	"DEFAULT_LANGUAGE": "Defektuzko hizkuntza",
 	"DEFAULT_SECONDARY_LANGUAGE": "Defektuzko Bigarren Hizkuntza",
-
 	"SEASON": "Denboraldia",
 	"EPISODE": "Atala",
 	"SPECIAL": "Berezia",
-
 	"SORT": "ordenatu",
 	"SORT_BY": "Ordenatu",
 	"FILTER": "iragazkia",
@@ -198,21 +171,17 @@
 	"SORT_RATING": "balorazioa",
 	"SORT_WATCHED": "ikusita",
 	"SORT_YEAR": "urtea",
-
 	"New for You": "Zuretzako berria",
 	"New Episodes": "Atal berriak",
 	"New Videos": "Bideo berriak",
 	"Recommendations": "Gomendioak",
-
 	"LIBRARY_RESUME": "Jarraitu",
 	"LIBRARY_DETAILS": "Xehetasunak",
 	"LIBRARY_RESUME_DISMISS": "Baztertu",
-
+	"LIBRARY_CLEAR_PROGRESS": "Clear Progress",
 	"DISCOVER_FEATURED": "Nabarmenduak",
-
 	"DISCOVER_TOP": "Gora",
 	"DISCOVER_OSCAR": "Oscar saridunak",
-
 	"DISCOVER_WARNING_TITLE": "Glubs!",
 	"DISCOVER_EMPTY_CATALOG": "Gehigarri honek eduki hutsa itzuli du.",
 	"DISCOVER_ADULT_WARNING": "Edukia helduentzat soilik dago ikusgai. 18 urte baino gehiago al dituzu?",
@@ -221,12 +190,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Eduki hau jada ez dago erabilgarri, baliteke gehigarria instalatuta ez izatea.",
 	"UNINSTALL_THIS_ADDON": "Desinstalatu gehigarri hau",
 	"ERR_ADDON_NOT_INSTALLED": "Gehigarri hau ez dago instalatuta. Orain instalatu nahi duzu?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Jaso atal berrien jakinarazpenak",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Jaso bideo berrien jakinarazpenak",
-
 	"SIDEBAR_SHOW_STREAMS": "Erakutsi stream-ak",
-
 	"RELAUNCH": "Berrabiarazi orain!",
 	"UPGRADE": "Bertsio berria eskuragarri dago! Bertsio berritu Stremio azken bertsiora",
 	"RELOAD_UI": "Erabiltzailearen interfazea berriro kargatu",
@@ -235,7 +201,6 @@
 	"MANUAL_UPDATE_LINE2": "Mesedez, eguneratu lehenbailehen.",
 	"BUTTON_UPDATE_LATTER": "Orain ez",
 	"BUTTON_UPDATE_NOW": "Eguneratu",
-
 	"ANONYMOUS_USER": "Erabiltzaile anonimoa",
 	"DONT_HAVE_ACC": "Ez duzu konturik?",
 	"HAVE_ACC": "Baduzu kontua?",
@@ -284,20 +249,16 @@
 	"SEARCH_FAILED": "Bilaketak huts egin du",
 	"EMAIL_USED": "Mezu elektronikoa dagoeneko erabiltzen ari da.",
 	"WAITING_FB_LOGIN": "Facebook-ekin saioa hasten...",
-
 	"EXTERNAL_PLAYER_TITLE": "Erreproduzitu kanpoko erreproduzitzailean",
 	"EXTERNAL_REMEMBER_PLAYER": "Zure aukera gogoratu nahi al duzu?",
 	"EXTERNAL_ALWAYS_PLAY": "Bai",
 	"EXTERNAL_ONLY_ONCE": "Ez",
-
 	"BEST_FIT": "Best Fit",
 	"FIT_SCREEN": "Fit Screen",
 	"FILL": "Fill",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Original",
-
-
 	"INTRO_TASTE": "Konta iezaguzu zer gustatzen zaizun",
 	"INTRO_TASTE_LONG": "Kontatu zer ikusi nahiko zenukeen",
 	"INTRO_TASTE_PICK": "Aukeratu {{interestRemaining}} interesak",
@@ -321,15 +282,12 @@
 	"INTRO_TASTE_DIY": "Nola egin zerorrek",
 	"INTRO_TASTE_TECH": "Teknologia",
 	"INTRO_TASTE_CINEMA": "Zinema",
-
 	"ADDON_NOT_SUPPORTED": "Aukeratutako gehigarria ez da plataforma honetan onartzen.",
 	"ADDON_DISCLAIMER": "Hirugarrenen gehigarriak erabiltzea beti egongo da zure erantzukizunaren eta kokatzen zaren jurisdikzioaren lege arauaren menpe.",
 	"ADDON_ACTIVATE": "Gehigarri hau aktibatu nahi duzu?",
 	"ADDON_REPO_ADD": "Gehigarrien bildumaren URLa",
 	"ADDON_ADD": "Gehitu",
-
 	"WHATS_NEW": "Berriak",
-
 	"BUTTON_CONTINUE": "Jarraitu",
 	"BUTTON_ACTIVATE": "Aktibatu",
 	"BUTTON_ACTIVATED": "Aktibatuta",
@@ -337,7 +295,6 @@
 	"BUTTON_SUBMIT": "Submit",
 	"BUTTON_DISMISS_ALL": "Baztertu guztiak",
 	"BUTTON_VIEW_ALL": "ikusi guztiak",
-
 	"LIB_EMPTY": "Liburutegia hutsik dago. Deskubritu zeinen erabilgarria den :)",
 	"HOW_START": "Hona hemen nola hasi:",
 	"LIB_EMPTY_CAL": "Zure Egutegian liburutegiko telesailak agertzen dira.",
@@ -362,14 +319,11 @@
 	"LIB_EMPTY_ALL": "Izena eman hauek guztiak lortzeko:",
 	"LIB_EMPTY_BEST": "Eman izena Stremioren onena lortzeko",
 	"LIB_EMPTY_OTHER": "Eman izena Egutegia eta beste funtzio interesgarri batzuk gaitzeko",
-
 	"CALENDAR_ADDED": "Stremio egutegia zure mahaigaineko egutegi lehenetsian gehitu da.",
 	"CALENDAR_ADDED_MSG": "Honek funtzionatzen ez badu, gehitu URL hau zure egutegiko aplikazioan eskuz",
-
 	"TRAKT_EXPIRED": "Trakt autentifikazioa iraungita dago, joan Ezarpenak atalera eta berriro autentifikatu",
 	"TRAKT_REQUIRES_LOGIN": "Trakt errorea",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Saioa hasi behar duzu",
-
 	"SETTINGS_LABEL": "Ezarpenak",
 	"SETTINGS_NAV_GENERAL": "Orokorra",
 	"SETTINGS_NAV_PLAYER": "Erreproduktorea",
@@ -453,7 +407,6 @@
 	"SETTINGS_HW_ACCELERATED": "Decoding acceleration",
 	"SETTINGS_HW_FULL": "Full acceleration",
 	"SETTINGS_HW_LEGACY": "Legacy",
-
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Addons Subtitles",
 	"SUBSPICKER_BLACK_BACKGROUND": "Use black background color",
@@ -461,7 +414,6 @@
 	"SUBSPICKER_SIZE": "Size",
 	"SUBSPICKER_DELAY": "Delay",
 	"SUBSPICKER_EMBEDDED_SUBS": "Embedded Subtitles",
-
 	"MOBILE_PRIVACY_POLICY": "Privacy Policy",
 	"MOBILE_CRASH_REPORTING": "Crash Reporting",
 	"MOBILE_ZOOM_TO_FILL": "Zoom To Fill Screen",
@@ -489,16 +441,10 @@
 	"MOBILE_DISCONNECT": "Disconnect",
 	"MOBILE_LOOKING_FOR_DEVICES": "Looking for devices...",
 	"MOBILE_CAST_TO": "Cast to",
-
 	"NAVIGATION_ON": "On",
 	"NAVIGATION_OFF": "Off",
-
 	"MARKETING_AGREE": "I agree to receive marketing communications from Stremio",
-
-
-
 	"QUIT": "Irten",
-
 	"CONNECTED": "Konektatuta",
 	"AUTHENTICATE": "Autentifikatu",
 	"CACHING": "Cachea",
@@ -509,7 +455,6 @@
 	"TORRENT_PROFILE": "Torrent profila",
 	"DATA_CACHING": "Datuen cache-a",
 	"MAGNET_PARSING": "Magnet parseoa",
-
 	"January": "Urtarrila",
 	"February": "Otsaila",
 	"March": "Martxoa",
@@ -522,7 +467,6 @@
 	"October": "Urria",
 	"November": "Azaroa",
 	"December": "Abendua",
-
 	"Monday": "Astelehena",
 	"Tuesday": "Asteartea",
 	"Wednesday": "Asteazkena",
@@ -530,7 +474,6 @@
 	"Friday": "Ostirala",
 	"Saturday": "Larunbata",
 	"Sunday": "Igandea",
-
 	"Action": "Akzioa",
 	"Comedy": "Komedia",
 	"War": "Gerra",
@@ -606,7 +549,6 @@
 	"Science Radio": "Zientzia Irratia",
 	"Tech Radio": "Tech Radio",
 	"Science & Technology Vod": "Zientzia eta Teknologia Vod",
-
 	"new video": "bideo berria",
 	"new episode": "atal berria",
 	"new movie": "film berria",
@@ -615,7 +557,6 @@
 	"offer of the day": "eguneko eskaintza",
 	"news": "berriak",
 	"music video": "bideoklipa",
-
 	"CTX_SHOW_HOTKEYS": "Show hotkeys",
 	"CTX_DISMISS_NOTIF": "Baztertu jakinarazpenak",
 	"CTX_DISMISS_ALL": "Baztertu guztiak",
@@ -656,7 +597,6 @@
 	"CTX_PASTE": "Itsatsi",
 	"CTX_CLEAR": "Garbi",
 	"CTX_CLEAR_RECENT_SEARCHES": "Garbitu azken bilaketak",
-
 	"HELLO_THERE": "Kaixo",
 	"HOPE_YOU_ENJOY": "Stremio gustatuko zaizula espero dugu eta laster zure aplikazio gogokoenetako bat izango da!",
 	"WHO_ARE_WE": "Nor gara gu? Atzean dagoen taldea gara. Azken 3 urteetan egunero gogor lan egiten duten bi mutil produktu hau gero eta hobea izan dadin.",
@@ -664,9 +604,7 @@
 	"SPREAD_THE_WORD": "Partekatu orain zure lagunekin, zabaldu Stremioren berri",
 	"MORE_PEOPLE": "Zenbat eta jende gehiagok erabili Stremio, orduan eta hobeto lortuko du!",
 	"SEND_A_LINK": "Edo bidali esteka gure webgunera",
-
 	"TIP_LOCALFILES": "Aholkua: bideo fitxategi lokalak arrastatu eta askatu ditzakezu Stremiora",
-
 	"ADDON_MY": "Nire gehigarriak",
 	"ADDON_COMMUNITY": "Komunitateko gehigarriak",
 	"ADDON_OFFICIAL": "Addon ofizialak",
@@ -697,7 +635,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Ikusi DOAKO #{types}",
 	"ADDON_PROVIDES_SUBTITLES": "#{types}(r)en azpitituluak",
 	"ADDON_CANTDETECT": "Ezin izan dugu Stremio exekutatzen ari den detektatu, beraz, ezin dugu detektatu zer gehigarri instalatu dituzun.",
-
 	"ERR_NO_META": "Ez da honi buruzko informaziorik aurkitu",
 	"ERR_GETTING_META": "Errorea honi buruzko informazioa eskuratzean.",
 	"ERR_CANT_PARSE_MAGNET": "Ezin da magnet parseatu",
@@ -711,12 +648,10 @@
 	"ERR_CLIPBOARD": "Ezin da arbeletik erreproduzitu",
 	"ERR_CLIPBOARD_READ": "Ezin da plataforma honetako arbela irakurri",
 	"ERR_CLIPBOARD_GENERIC": "Ez da arbelean erreproduzitzeko URLrik aurkitu. Kopiatu URL bat (adibidez, magnet esteka) bideo batera.",
-
 	"BOARD_CONTINUE_WATCHING": "Jarraitu ikusten",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Zuretzat bereziki aukeratutako filmak. <br /> Film hau gomendio lagin bat da.",
 	"BOARD_EXPLANATION_EPISODES": "Zure telesail gogokoen atal berriak datoz hona. <br /> Gehitu jarraitzen dituzun serieak liburutegian.",
 	"BOARD_EXPLANATION_VIDEOS": "Zure kanal gogokoen atal berriak etorriko dira. <br /> Gehitu jarraitzen dituzun YouTube kanalak Liburutegian.",
-
 	"WEBSITE_SLOGAN_WATCH": "Ikusi berehala",
 	"WEBSITE_SLOGAN_ALL": "Leku bakarrean gozatzen duzun bideo eduki guztia",
 	"WEBSITE_SLOGAN_NEW": "Ikus dezakezun guztia",
@@ -733,44 +668,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Sortu gehigarria",
 	"WEBSITE_PAGE_CONTACTS": "Kontaktuak",
 	"WEBSITE_PAGE_BLOG": "Bloga",
-
 	"WEBSITE_TYPE_movie": "Filmak",
 	"WEBSITE_TYPE_series_PL": "Telesaila",
 	"WEBSITE_TYPE_tv": "Zuzeneko telebista",
 	"WEBSITE_TYPE_channel": "Kanalak",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio zure gogoko bideoak, filmak, telesailak eta telebista kateak antolatzen eta berehala ikusten laguntzen duen aplikazioa da.",
-
 	"WEBSITE_FEATURES_WATCH": "Ikusi berehala HD formatuan",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Egin klik eta erreproduzitu gogoko dituzun filmak, telesailak, bideoak eta telebista kateak.",
-
 	"WEBSITE_FEATURES_SUBS": "Azpititulu automatikoak",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio-k zure hizkuntzarako azpitituluak automatikoki hautatzen ditu.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Zure mugimendua, buruzagi.",
-
 	"WEBSITE_FEATURES_CAST": "Erreproduzitu telebistan eta gailu mugikorretan",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Igorri AppleTV, Chromecast, Smart TV (DLNA/UPnP) eta gailu mugikorretara.",
-
 	"WEBSITE_LIB": "Gozatu zure gailu guztietan sinkronizatutako liburutegi pertsonalarekin",
 	"WEBSITE_LIB_COLLECT": "Bildu Stremiotik",
 	"WEBSITE_LIB_IMPORT": "Inportatu Facebooketik",
 	"WEBSITE_LIB_LOCAL": "Gehitu zure disko lokaletik",
-
 	"WEBSITE_BOARD": "Taula - Jakinarazpen eta gomendioetarako lekua",
 	"WEBSITE_BOARD_RECOMMEND": "Gomendatutako telesaila",
 	"WEBSITE_BOARD_TRENDING": "Modako filma",
 	"WEBSITE_BOARD_NEW": "Bideo berria",
 	"WEBSITE_BOARD_EPISODE": "Atal berria",
-
 	"WEBSITE_BOARD_1": "Ikusteko zerbait interesgarria bilatzen al duzu? Jaso gomendioak zure gustuaren arabera!",
 	"WEBSITE_BOARD_2": "Jaso jakinarazpen zure gogoko telesaio edo YouTube kanaleko atal berri bat ateratzen denean!",
-
 	"WEBSITE_BOARD_YOUTUBE": "YouTube kanalen bideo berriak",
 	"WEBSITE_BOARD_EPISODES": "Jarraitzen dituzun telesailen atal berriak",
-
-
 	"WEBSITE_ADDONS": "Edukien gehigarriak",
-
 	"WEBSITE_TECH_DETAIL": "Teknologia maite dugu, zientzia eroa maite dugu!\nStremio kode irekiko teknologia hauek erabiltzen ari da:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js-k Stremio-k edozein bideo formatu erreproduzitzeko aukera ematen du errendimendu onarekin.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Proiektuaren laguntzaileak gara",
@@ -778,8 +701,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Proiektuaren laguntzaileak gara",
 	"WEBSITE_TECH_LINVODB": "Zure datuak saioa hasten zaren edozein lekutan antolatuta eta eskuragarri daudela bermatzen duen datu basearen teknologia.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Barne teknologia",
-
-
 	"WEBSITE_CREATE_ADDON": "Sortu zure gehigarria",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Ba al duzu bideo edukia eskaintzen duen zerbitzurik? Stremioren ezaugarriez baliatzen lagunduko dizugu zure gehigarria sortuz.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Stremiorako gehigarria sortzearen abantailak",
@@ -790,20 +711,16 @@
 	"WEBSITE_P2P_CONTACT": "Interesatuta? <a href='mailto:office@stremio.com'>Jarri gurekin harremanetan</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "Pozik lagunduko dizugu zure edukia Stremio-rekin integratzen!",
 	"WEBSITE_P2P": "Noizean behin, jokoaren izena aldatzen duen teknologia bat dator. Denbora eta ahalegin ugari inbertitu dugu Peer-to-Peer (P2P) bideo bidezko erreprodukzio motorra eraikitzen, edozein erabilera kasutan egokitzeko errendimendu eta aldakortasun bikaina eskaintzen duena.\nJarri gurekin harremanetan DRM gaitutako P2P bideoa eskatuta edo zuzenean igortzeko.",
-
-
 	"WEBSITE_THOUGHTS": "Partekatzen ditugun pentsamenduak:",
 	"WEBSITE_SPREAD": "Zabaldu Stremiori buruz:",
 	"WEBSITE_CONTACT": "Jar zaitez gurekin harremanetan, pozik jasoko dugu zure berri!",
 	"WEBSITE_OPENSOURCE": "Gure kode irekiko proiektuak ikusteko, joan gure webgunera",
-
 	"WEBSITE_BITCOIN": "Eman bitcoinak:",
 	"WEBSITE_FAQ": "Ohiko galderak",
 	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_QUESTIONS": "Galderak",
 	"WEBSITE_TOS": "Erabilera baldintzak",
 	"WEBSITE_LEGAL": "Legezkoa",
-
 	"WEBSITE_PAGE_ABOUT": "Buruz",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Egin bazkide",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Zuk nahi duzuna\nIkusteko askatasuna.",
@@ -822,7 +739,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "Bideo katalogo luzagarria infinituki;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Ezaugarri bikainak zure komunikabideak antolatzeko;",
 	"WEBSITE_AS_SEEN_ON": "Ikusitakoan",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "Guri buruz",
 	"WEBSITE_LINK_TECHNOLOGY": "Teknologia",
@@ -850,7 +766,6 @@
 	"WEBSITE_WHY_P3": "Gure zerbitzua edozein gailutan eta noiznahi erabil dezakezu, Stremio inoiz beharko duzun bideo entretenimendu zentro bakarra bihurtuz.",
 	"WEBSITE_TEAM": "TALDEA",
 	"WEBSITE_TEAM_P": "Stremio taldea txikia baina indartsua da: gutako hamar artean X hizkuntzatan kodetzen dugu eta softwarearen garapenean, UI eta UX diseinuan, marketinean eta publizitatean eta negozioetan eta startupetan espezializazioa partekatzen dugu.",
-
 	"WEBSITE_FEATURES": "Ezaugarriak",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Ezagutu eduki berriak erraz",
@@ -866,7 +781,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Ikusi bideoa iturri askotatik",
 	"WEBSITE_FEATURES_SOURCES_P": "Instalatu gehigarri ofizialak eta komunitarioak hornitzaile desberdinetatik ateratako bideoaz gozatzeko - aplikazio dotore eta erraz batean.",
 	"WEBSITE_CREATE_AN_ADDON": "Sortu gehigarri bat",
-
 	"WEBSITE_FEATURES_SYNC": "Sinkronizatu liburutegia gailu desberdinetan eta hasi berriro erreprodukzioa",
 	"WEBSITE_FEATURES_SYNC_P1": "Hasi saioa zure kontuarekin gailu guztietan eta gozatu liburutegia, gehigarriak, erreprodukzioa eta egutegia sinkronizatuta.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Gehigarrien bideo katalogo luzagarria",
@@ -881,7 +795,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Erreproduzitu kanpoko erreproduzitzailean",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Erreproduzitu torrent fitxategi edo iman esteka batetik",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Inportatu liburutegira Facebook atsegin dut edo disko lokaletik",
-
 	"WEBSITE_ADD_ONS": "Gehigarriak",
 	"WEBSITE_ADD_ONS_P1": "Stremio-k eskaintzen duen bideo guztia gehigarri sistema baten bidez lortzen da - aplikazioan ez da eduki edo eduki hornitzailerik sartu.",
 	"WEBSITE_ADD_ONS_P2": "Gehigarrien bi talde daude eskuragarri: gehigarri ofizialak eta komunitarioak.",
@@ -899,7 +812,6 @@
 	"WEBSITE_ADDONS_CREATE": "Sortu gehigarri bat",
 	"WEBSITE_ADDONS_CREATE_P1": "Nahi izanez gero, zure gehigarria garatu dezakezu. Horrela, zure buruari eta gure komunitateari bideo eduki berrietarako sarbidea eman ahal izango diezu eta mundu osoko milioika erabiltzaileri zuzendutako ikusle berri batengana heldu.",
 	"WEBSITE_ADDONS_START_CREATE": "Hasteko, bisitatu Stremio Addon SDK orria:",
-
 	"WEBSITE_DOWNLOADS": "Deskargak",
 	"WEBSITE_DOWNLOADS_P1": "Errendimendu optimoa lortzeko, Stremio aplikazioen eskuragarri dagoen azken bertsioa erabiltzea gomendatzen dugu. Arrazoiren batengatik, ordea, bertsio zaharragoa erabili nahi baduzu, hemen deskarga dezakezu.",
 	"WEBSITE_DOWNLOADS_FOR_WIN": "Windows-erako Stremio",
@@ -910,7 +822,6 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio for Android Mobile",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio for Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "IOS Stremio (bertsio mugatua)",
-
 	"WEBSITE_CONTRIBUTE": "Lagundu",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio plataforma kode irekia da eta gaur egun iturri gabeko edukirako gehigarri bat sor dezakezu.",
 	"WEBSITE_CONTRIBUTE_WHY": "Zergatik sortu behar zenuke gehigarri bat?",
@@ -928,7 +839,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Stremio aplikazioak hizkuntza desberdinetan gozatu nahi badituzu, itzultzaile boluntarioen komunitatean sar zaitezke. Stremioren bertsioak hizkuntza desberdinetan gehitzen laguntzen digute.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Hasteko gogoz zaude?",
 	"WEBSITE_TRANSALTE_STREMIO": "Itzuli Stremio",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Komunitate ofizialak",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Bihur zaitez hazten ari den Stremio komunitatearen parte. Jarrai iezaguzu sare sozialetan eta ez izan lotsarik agurtzeko: maite dugu gure zaleengandik entzutea!",
@@ -950,7 +860,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Atzeko irudiak",
 	"WEBSITE_COMMUNITY_ART": "Community Art Gallery",
 	"WEBSITE_LINK_ART": "Community art gallery",
-
 	"WEBSITE_CONTACT_US": "Jarri gurekin harremanetan",
 	"WEBSITE_CONTACT_US_P1": "Galderarik, iruzkinik edo iradokizunik baduzu, jar zaitez gurekin harremanetan beheko harremanetarako formularioaren bidez.",
 	"WEBSITE_CONTACT_US_P2": "Gogoan izan Bulgarian gaudela, beraz, zure kontsultari erantzuteko denbora atzeratu daiteke ordu-zona desberdintasunengatik.",
@@ -961,7 +870,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "Zure emaila",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Mezua",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "BIDALI",
-
 	"WEBSITE_CONTACT_US_Q_1": "Nola instalatu?",
 	"WEBSITE_CONTACT_US_Q_2": "Nola desinstalatu?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) Nola egin lasagna?",
@@ -971,7 +879,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "Teknologia",
 	"WEBSITE_TECHNOLOGY_P1": "Teknologia eta zientzia eroa maite ditugu. </br> Hona hemen zerk bultzatzen duen Stremio (kode irekikoa da guztia).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Plataforma anitzeko softwarearen garapena onenean.",
@@ -987,7 +894,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "edo",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... zure kodeketa gaitasunak erabil ditzakezu komunitatearen gehigarriak sortzeko.",
 	"WEBSITE_TRANSLATE_STREMIO": "Itzuli Stremio",
-
 	"WEBSITE_404_OH_NO": "Ui ui ui! Bilatzen ari zaren orria ez dago hemen ...",
 	"WEBSITE_GO_HOME": "Hasierara",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Beste deskarga batzuk",
@@ -998,56 +904,40 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Addon lehiaketa",
 	"WEBSITE_LINK_ART_CONTEST": "Arte lehiaketa",
 	"WEBSITE_MY_ACCOUNT": "Nire kontua",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Zer da Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio nahi duzun guztia ikusteko askatasuna ematen duen media zentro modernoa da.",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "Nola dabil?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Stremio gailuan instalatu eta kontu bat sortu ondoren, egin behar duzun guztia gehigarrien katalogoa bisitatzea eta nahi duzun gehigarria instalatzea da, eta listo!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "Horren ondoren, Ezagutu edo Taula ataletara joan zaitezke edukia aztertzen hasteko.",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "Zer ikusi dezaket hemen?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Asko: filmak, telebista saioak, web kateak, kirola, telebista kateak, podcastak eta beste. Gure gehigarri sistemari esker, hainbat eduki sar dezakezu.",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio kode irekia al da?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Bai, lotura hauek ikus ditzakezu: ${1}mahaigaineko aplikazioa${2} eta ${3}GitHub erakundea${4}.",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio segurua al da?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Bai: kode irekiko softwarea denez, kodea publikoki ikuskatzen da eta zuk zeuk berrikus dezakezu.",
-
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Zer moduz nire pribatutasuna?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Erabiltzaileen pribatutasuna errespetatzen dugu eta ez dugu zure kontua sortzeko eta sinkronizatzeko ezinbesteko gutxieneko datu pertsonalik biltzen.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Erregistratzerakoan ${1}Gonbidatu modua${2} ere badago, inolako daturik behar ez duena: modu honetan, ez da deirik egiten gure backendera. Hala ere, funtzio erabilgarrien kaltetan dator, hala nola liburutegia gailuetan sinkronizatu ahal izatea.",
-
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "Telebistara bota al dezaket?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Bai, Chromecast-a onartzen dugu eta mahaigaineko zein mugikorreko aplikazioetatik (Android) bota ditzakezu.",
-
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Zenbat gehigarri ditu Stremiok?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "2019 amaieran, 50 urte baino gehiago. Informazio gehiagorako, begiratu gure gehigarrien katalogoa.",
-
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Stremio gehigarrien katalogoan dagoenaz haratago al daiteke?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Bai, hauek egiaztatu beharko zenituzke: ${1}PimpMyStremio${2}, ${3}Reddit komunitateak${4}, ${5}Stremio Downloader${6}, etab.",
-
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Zer gailu onartzen ditu Stremiok?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac eta Linuxerako mahaigaineko aplikazioak ditugu. Mugikorretarako, Android eta iOS onartzen ditugu, baina kontuan izan iOS funtzionalitate mugatua duela (ez ditu gehigarri gehien onartzen).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Android-en oinarritutako gailu ugari daude Stremio exekutatu ahal izateko, adibidez NVIDIA Shield eta Amazon Fire Stick, baina ez ditugu ofizialki onartzen.",
-
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremioren zenbait eduki gehi al ditzakezu?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Barkatu, guk ez dugu edukirik eskaintzen, baina zenbat eta Stremio gehigarri gehiago instalatu, orduan eta eduki gehiago aurkituko duzu.",
-
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio-k magnet estekak erreproduzitu al ditzake?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Bai, eta HTTP esteka normalak eta torrent fitxategiak erreproduzi ditzake (arrastatu eta jaregin).",
-
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "Bideo bat deskargatu eta konexiorik gabe ikusi al dezaket?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Lineaz kanpoko erabilgarritasuna laster datorren eginbidea da, baina Stremio gailuan gordetzeko baimena ematen baduzu (ezarpenen paneletik) bideoak geroago ikusi ahal izango dituzu konexiorik gabe.",
-
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Ezerk ez du funtzionatzen, lagundu iezadazu!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Ziur zaude gehigarriak instalatu dituzula? Bai bada, begiratu ${2} laguntza zentroarekin ${2}.",
-
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Nola eusten dio Stremiok bere garapen eragiketei?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Intrusiboak ez diren iragarkiak argitaratzen ditugu ${1}AdEx${2} bidez, hau da, sortzaile talde beraren konpainia, pribatutasuna babesteko eta iragarki gardenak ardatz dituena.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Galdera gehiagorako, joan ${1}laguntza-zentrora${2}.",
-
 	"HELP_LEARN_MORE": "Lagundu iezaguzu zure inguruan gehiago jakiten.",
 	"LIFESTYLE": "Bizimodua",
 	"SPORTS": "Kirolak",
@@ -1083,15 +973,12 @@
 	"LAST_SEARCHES": "Azken bilaketak",
 	"CLEAR_HISTORY": "Garbitu historia",
 	"CHOOSE_SOME": "AUKERATU HEMENDIK BATZUK:",
-
 	"NO_WEB_REMOTE": "Urruneko Web-a  ezin izan da kargatu",
 	"STREMIO_OFFLINE": "Stremio lineaz kanpo dago",
 	"STREMIO_EXPENSIVE_CONNECTION": "Mugikorreko datu konexioa erabiltzen ari zarela antzeman dugu, jarraitu nahi al duzu?",
 	"USE_DATA": "Erabili datuak",
 	"WARNING": "Abisua",
-
 	"MORE_INFO": "Informazio gehiago ...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Kargatzen ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Itzuli hizkuntzetara",
@@ -1117,7 +1004,6 @@
 	"STREMIO_TV_WIFI_DETAILS_4": "estremiocircle",
 	"STREMIO_TV_WIFI_DETAILS_5": "Ireki web arakatzailea estekarekin:",
 	"STREMIO_TV_DISCOVER_GENRE_DEFAULT": "Default",
-	"STREMIO_TV_LIBRARY_MY": "My",
 	"STREMIO_TV_LIBRARY_SORT_LAST_WATCHED": "By Last Watched",
 	"STREMIO_TV_LIBRARY_SORT_NAME": "By Name",
 	"STREMIO_TV_LIBRARY_TIMES_WATCHED": "By Times Watched",
@@ -1142,6 +1028,8 @@
 	"STREMIO_TV_CATALOG_LOADING": "Catalog still loading...",
 	"STREMIO_TV_SETTINGS_LANGUAGE_UPDATED": "Interface language updated",
 	"STREMIO_TV_SETTINGS_THEME_UPDATED": "Theme updated",
+	"STREMIO_TV_SETTINGS_DEFAULT_PLAYER": "Default Player",
+	"STREMIO_TV_SETTINGS_EXTERNAL_PLAYER": "External Player",
 	"STREMIO_TV_SETTINGS_PREFERRED_LANGUAGE": "Preferred Language",
 	"STREMIO_TV_SETTINGS_SECONDARY_PREFERRED_LANGUAGE": "Secondary Preferred Language",
 	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK": "Tunnelled Playback",
@@ -1161,7 +1049,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_MODAL_EDIT_DESCRIPTION": "Enter a streaming server url",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "To read Stremio's Privacy Policy, visit:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "To read Stremio's Terms and Conditions, visit:",
-
 	"STREMIO_TV_NAV_SEARCH": "Bilatu",
 	"STREMIO_TV_NAV_HOME": "Hasiera",
 	"STREMIO_TV_NAV_DISCOVER": "Deskubritu",
@@ -1172,14 +1059,12 @@
 	"STREMIO_TV_NAV_TV": "Zuzeneko Telebista",
 	"STREMIO_TV_NAV_SETTINGS": "Ezarpenak",
 	"STREMIO_TV_NAV_ADDONS": "Addon-ak",
-
 	"STREMIO_TV_LOGIN_TITLE": "Link Account",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Scan QR Code above or go to",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Log in to your Stremio account",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Request a new link",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Login code refreshed",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Idatzi zerbait",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "No addons were requested for catalogs!",
 	"STREMIO_TV_SEARCH_BUTTON": "Bilatu",
@@ -1189,9 +1074,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Bilatu historialean",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Izenburu, aktore, kanal eta gehiagoren arabera bilatu dezakezu",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Garbitu bilaketa historiala",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Choose from one of the filters below",
-
 	"FILTERS": "Iragazkiak",
 	"SETTINGS": "Ezarpenak",
 	"ACCOUNT": "Kontua",
@@ -1236,53 +1119,42 @@
 	"REMOTE_ADJUST_SIZE": "Doitu neurria",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web urrunekoa ezin izan da kargatu",
 	"REMOTE_RETRY": "Saiatu berriro",
-
 	"TORRENT_PROFILE_DEFAULT": "Defektuzkoa",
 	"TORRENT_PROFILE_SOFT": "Leuna",
 	"TORRENT_PROFILE_FAST": "Azkarra",
 	"TORRENT_PROFILE_ULTRA_FAST": "Ultra Azkarra",
-
 	"FAQ_001_H1": "Zer da Stremio?",
 	"FAQ_001_P1": "Stremio bideo entretenimendurako diseinatutako multimedia zentroen softwarea da, erabiltzeko erraztasunak kontuan hartuta. Stremio-k & amp; ikusi zure film, serie, kanal eta zuzeneko telebista bilduma.",
 	"FAQ_001_P2": "Stremio-k zure disko lokaletik eta gure gehigarri sistematik erakusten duen edukia bildu.",
 	"FAQ_001_P3": "Era berean, interesatzen zaizkizun atal/bideo/film berriak ateratzen direnean jakinaraziko zaizu eta filmen gomendioak emango dizkizu.",
-
 	"FAQ_02_H1": "Nola alderatzen da Stremio Kodi eta Plexekin?",
 	"FAQ_02_P1": "Bi softwareak inspiratzen gaitu. Baina helburu desberdinak ditugu - Stremio entretenimendu bideoetara bideratuta dago bereziki, eta horretarako oso konponbide nagusia bilakatzen ahalegintzen da erabiltzeko oso erraza izanik.",
 	"FAQ_02_P2": "Stremio ez da inoiz Kodi eta Plex bezain pertsonalizagarria eta aberatsa izango, baina errazagoa da erabiltzea. ${1}eskuratu eta ikusi${2} :)",
-
 	"FAQ_03_H1": "Nola alderatzen da Stremio Netflix-ekin?",
 	"FAQ_03_P1": "Berriro ere, Netflix da gure inspirazioetako bat. Netflix-en erabiltzailearen esperientzia lortzen ahalegintzen gara, eta gehitutako opari asko. Baina garrantzitsuena, zure liburutegia kudeatzeko eta eduki gehigarri berriak gehitzeko askatasuna ematen dizugu gure addon sistemarekin.",
 	"FAQ_03_P2": "Horrek Stremio ezin du luzatu, beraz, Stremio erabiltzen duzunean ez zara inoiz Netflix-ek lizentzia ematea erabakitzen duen edukira mugatzen. Adibidez, Stremioren bidez ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} edukia ikusi dezakezu. eta baita ${9}Netflix${10} bera ere!",
-
 	"FAQ_04_H1": "Nola alderatzen da Stremio Flipboard-ekin?",
 	"FAQ_04_P1": "Galdera hori ez dugu hain maiz jasotzen, hasierako jendearekin hitz egitean izan ezik :)",
 	"FAQ_04_P2": "Stremio edukien agregatzailea diseinatzean datza, eta horrek bideoetarako Flipboard bihurtzen du. Hori oso agerikoa da gure Batzordearen atalean, katalogoak eta atal berrien / bideo berrien jakinarazpenak eskaintzen dizkizu, Flipboard-ek bezala.",
-
 	"FAQ_05_H1": "Nola alderatzen da Stremio krispeten denborarekin?",
 	"FAQ_05_P1": "Stremio eta Popcorn Time erabiltzailearen interfazean antzekoak dira, bideo entretenimendu katalogoak ondo egiteko modu asko ez dagoelako :)",
 	"FAQ_05_P2": "Popcorn Time iturri zehatzetatik torrent-ekin erreproduzitzera bideratuta dagoen arren, Stremio mugarik gabe dago eta eduki-agregatzailea besterik ez da, ez dago eduki-iturri zehatz batean blokeatuta.",
 	"FAQ_05_P3": "Gainera, ez dugu torrent gehigarririk ematen lehenespenez, beraz, Stremiok ez du krispeten denboraren erabilera-kasua funtzionalitate ofizialarekin estaltzen.",
 	"FAQ_05_P4": "Beste desberdintasun aipagarri bat Popcorn Time erabat irekia dela da, Stremio ${1}partzialki irekita${2} dela.",
-
 	"FAQ_06_H1": "Gehituko al duzu film/telesail hau?",
 	"FAQ_06_P1": "Ez, barkatu :(",
 	"FAQ_06_P2": "Beste galdera gehienetan aipatzen den bezala, Stremiok ez du berez edukirik eskaintzen - dena gehigarrien sistemaren bidez gehitzen da. Eduki eskaera izanez gero, erreproduzitzailean dagoen \"Salatu\" botoia erabil dezakezu, mezu elektroniko bat bidaliko dio unean erabiltzen ari zaren gehigarriaren egileari.",
-
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
 	"FAQ_08_H1": "X-rako gehigarria sortuko al duzu?",
 	"FAQ_08_P1": "Erabat posible da.",
 	"FAQ_08_P2": "Gehigarri bat egiteko ideia baduzu, idatzi ${1}office@stremio.com${2} helbidera, baina ziurtatu gehigarrien ideiak ez dituela inolako copyright edo erabilera baldintzak urratuko.",
 	"FAQ_08_P3": "Momentuz, gure bide orriko hurrengo gauzak FandangoNOW, Filmon.tv bideoaren eskaera eta Crunchyroll-en gehigarriak dira.",
-
 	"FAQ_09_H1": "Stremiok BitTorrent erabiltzen al du?",
 	"FAQ_09_P1": "Bai, Stremiok BitTorrent onartzen du streaming protokolo gisa. Hori erabil dezakezu torrent gehigarri batekin edo .torrent fitxategi bat Stremiora arrastatuz eta jareginez edo Bilaketa barran iman esteka itsatsita.",
 	"FAQ_09_P2": "Kontuan izan BitTorrent erabiltzen duen gehigarri ofizial bakarra ${1} Vodo ${2} dela, indie edukia eskaintzen duena, guztia BitTorrent-ekin banatzeko baimendua.",
 	"FAQ_09_P3": "Ez dugu onartzen copyright-urraketa egin dezaketen hirugarrenen gehigarririk erabiltzea.",
-
 	"FAQ_10_H1": "Zer ikusi dezaket Stremion gehigarri ofizialekin?",
 	"FAQ_10_P1": "Berez, Filmon.tv, YouTube eta Vodo edukiak Stremio beraren barruan ikus ditzakezu, kapsulatutako erreproduzitzailearekin. Gainera, Twitch.tv-rako gehigarria dugu eta beste batzuk.",
 	"FAQ_10_P2": "Konbinatu honek aukera hauek eskaintzen ditu:",
@@ -1291,64 +1163,51 @@
 	"FAQ_10_L3": "Film indiarrak Vodorekin",
 	"FAQ_10_L4": "Lineako jokoen emisioak Twitch.tv-rekin",
 	"FAQ_10_P3": "Gainera, gida-kutxa eta Netflix gehigarriekin hornitutako eduki iturri ugari daude, <b> ez </b> Stremio barruan guztiz erreproduzitzen direnak, baina emandako zerbitzura birbideratuko lirateke. Adibidez, Guidebox gehigarriak AEBetan doan erreproduzi ditzakezun filmen aukeraketa emango dizu TubiTV eta Crackle bezalako zerbitzuetatik.",
-
 	"FAQ_11_H1": "Stremiok ez du instalatuko, zer egin behar dut?",
 	"FAQ_11_P1": "Windows-en bazaude, probatu ${1} ${2} instalatzaile alternatibo hau.",
 	"FAQ_11_P2": "Mac OS X erabiltzen baduzu, kontuan izan ez dugula OS X Mavericks (10.9) baino zaharragoak onartzen.",
 	"FAQ_11_P3": "Linux erabiltzen baduzu, kontuan izan momentuz 64 bit (x64) Linux soilik onartzen ditugula.",
 	"FAQ_11_P4": "Oraindik arazoa konpondu ezin baduzu, idatzi iezaguzu ${1}Facebook taldean${2}.",
-
 	"FAQ_12_H1": "Zergatik kexatzen da nire birusaren kontrakoa? Stremio segurua al da?",
 	"FAQ_12_P1": "Stremio ${1}%100 garbi${2} dagoela ziurtatzen dizugu.",
 	"FAQ_12_P2": "Birusen aurkako arazoa kexatzen ari da publizitatea gure instalatzailean sartzen dugulako, birusen aurkako programa batzuek iragarki gisa aitortzen baitute.",
 	"FAQ_12_P3": "Oraindik ziur ez bazaude, ${1}instalatzaile alternatiboa${2} probatu dezakezu.",
-
 	"FAQ_13_H1": "Nola egin dezaket gehigarri bat?",
 	"FAQ_13_P1": "Hasiberrientzat, GitHub-en gure ${1}addons sistemaren modulua${2} begiratzea gomendatzen dugu.",
 	"FAQ_13_P2": "Ondoren, ${1}Hello World tutoriala${2} jarraitu dezakezu.",
 	"FAQ_13_P3": "Programaziorako trebetasunik ez baduzu, idatzi zure ideia ${1}Reddit komunitatean${2} eta jarri gurekin harremanetan zure addon ideiarekin ${3}office@stremio.com${4} helbidean.",
-
 	"FAQ_14_H1": "Nola argitaratzen dira gehigarriak?",
 	"FAQ_14_P1": "Gehigarri eta ostalari bat sortzen duzunean eta zure manifestuan <b> amaiera </b> eremua jartzen duzunean, funtzionatzen duen gehigarrien helbidea seinalatzen duena, gehigarriak automatikoki argitaratuko du gure ${1} gehigarrien katalogoan ${2} .",
 	"FAQ_14_P2": "Stremio-addons moduluko zerbitzariaren zatiak automatikoki dei egiten duelako gure APIra gehigarria iragartzeko. Gure APIak zure <b> amaierako puntua </b> baliozko gehigarri gisa balioztatzen duenean, katalogoan erakusten hasiko da.",
-
 	"FAQ_15_H1": "Exekutatu al dezaket Stremio nire arakatzailean?",
 	"FAQ_15_P1": "Momentuz ez, baina badator hau!",
 	"FAQ_15_P2": "Alpha bat ikusteko jakinmina baduzu, hemen ikus dezakezu: ${1} alpha4.strem.io ${2}. Gogoan izan streaming hau alfa honetan desgaituta dagoela. Chrome, Firefox, Opera eta Edge onartzen ditugu.",
-
 	"FAQ_16_H1": "Telebistara igortzeak ez du funtzionatzen / azpitituluak ez dira funtzionatzen",
 	"FAQ_16_P1": "Telebistara igotzeak telebista marka eta modelo desberdinen artean oso bat ez datorren DLNA teknologia erabiltzen du. Hori dela eta, kasu guztietan ez dugu probatzeko gaitasunik, beraz, oso urrun dago perfektua izatetik. Hala ere, etengabe hobetzeko lanean ari gara, baina ezin dugu DLNA zure telebistarekin ondo funtzionatzen noiz hasiko den kalkulatzeko denbora.",
 	"FAQ_16_P2": "Zure telebista casting menuan ikusten ez baduzu ere, saiatu sareko konexioa desgaitzen eta berriro gaitzen (Windows-en, egin klik eskuineko botoiarekin Sarea eta erabili Gaitu / Desgaitu), baita router, telebista eta ordenagailua berrabiarazi ere. .",
 	"FAQ_16_P3": "Oraindik arazoak topatzen badituzu, lagun diezagukezu telebistaren marka eta modeloaren informazioa ${1}office@stremio.com${2} helbidera bidalita.",
 	"FAQ_16_P4": "Bitartean, oso ondo onartzen dugun Chromecast gomendatzen dugu edo, besterik gabe, zure telebista ordenagailura HDMI kable batekin konektatzea.",
-
 	"FAQ_17_H1": "Stremio izoztu edota huts egiten du, zer egin dezaket?",
 	"FAQ_17_P1": "Lehenik eta behin, Windows 7 AVG antibirusarekin erabiltzen ari bazara: arazo bat dugu konbinazio horrekin. Arazoa AVG-n dago, eta ez dago arrazoizko modurik gure aldetik konpontzeko. Zoritxarrez, salbuespenak edo birusen aurkako desgaitzea ez dira funtzionatuko. Irtenbide bakarra AVG beste zerbaitengatik ordezkatzea da.",
 	"FAQ_17_P2": "Hori ez bada arazoa, baina Windows erabiltzen jarraitzen baduzu, eguneratu azken zerbitzu-paketera eta eguneratu/instalatu berriro GPU kontrolatzaileak, eta saiatu berriro.",
 	"FAQ_17_P3": "Arazoa oraindik konpontzen ez bada edo Mac edo Linux erabiltzen ari bazara, idatzi iezaguzu arazoaren xehetasun zehatzen berri ${1}gure Facebook taldeko${2} helbidean.",
-
 	"FAQ_18_H1": "Nola egin dezaket gehigarri bat?",
 	"FAQ_18_P1": "Hasiberrientzat, GitHub-en gure ${1}addons sistemaren modulua${2} begiratzea gomendatzen dugu.",
 	"FAQ_18_P2": "Ondoren, ${1} Hello World tutoretza ${2} jarraitu dezakezu.",
 	"FAQ_18_P3": "Programaziorako trebetasunik ez baduzu, idatzi zure ideia ${1}Reddit komunitatean${2} eta jarri gurekin harremanetan zure addon ideiarekin ${3}office@stremio.com${4} helbidean.",
-
 	"FAQ_19_H1": "Zergatik ari da Stremio diskoan lekua hartzen?",
 	"FAQ_19_P1": "Stremio-k <b> cache lokal </b> bat du igortzen dituzun bideo fitxategiak aldi baterako mantentzeko.",
 	"FAQ_19_P2": "Horrek bi abantaila ditu: lehenik, Stremiok bideoa aurrez bufferrean uzteko aukera ematen du, streaming zuzenagoa bermatzeko. Bigarrenik, bideoak cache lokalean gordetzen ditu, lineaz kanpo ikusten jarraitu ahal izateko.",
 	"FAQ_19_P3": "Stremio-k zenbat gordetzen duen ezarpenen paneleko <b> Cache </b> ezarpenaren araberakoa da. Stremio-k zure diskoan ezarritako zenbatekoa (adibidez, 2 GB) gorde dezake, unean erreproduzitutako bideoa hori baino handiagoa ez bada, kasu horretan, gordetzeko adina biltegiratze esleitu behar du erreproduzitu arte.",
-
 	"FAQ_20_H1": "Non dago cache karpeta?",
 	"FAQ_20_P1": "Windows-en, Stremio-cache da Ezarpenetan aukeratu duzun unitatean (adibidez, \"E: \\ stremio-cache\")",
 	"FAQ_20_P2": "MacOS-en \"~ /Library/Application Support/Stremio/stremio-cache\" da",
 	"FAQ_20_P3": "Linux-en \"~/.stremio/stremio-cache\" edo \"~/stremio-cache\" da.",
-
 	"FAQ_21_H1": "\"Streaming zerbitzaria ez da aurkitu\" errorea dut. Zer egin dezaket?",
 	"FAQ_21_P1": "Akats hau jasoz gero, gauza gutxietako bat esan nahi du:",
 	"FAQ_21_P2": "1) YouTube/BitTorrent iturriak babestutako gehigarri bat erabiltzen saiatzen ari zara, gure ${1}web bertsioaren${2} bidez. Kasu honetan, gure mahaigaineko bertsioa ${3}webgunetik${4} instalatu beharko zenuke.",
 	"FAQ_21_P3": "2) Zerbait ez dago gaizki zure Stremio instalazioarekin. Kasu honetan, saiatu berriro instalatzen mahaigaineko azken bertsioa ${1} ${2} webgunetik. Honek laguntzen ez badu, saiatu birusen aurkako programak eta suebakiak desgaitzen, ordenagailua berrabiarazi eta saiatu berriro. Honek ere funtzionatzen ez badu, idatzi iezaguzu ${3}gure Facebook taldean${4}.",
-
 	"FAQ_22_H1": "Ezin ditut iOSeko gehigarri gehienak ikusi/erabili",
 	"FAQ_22_P1": "Apple App Store-ren baldintzak eta mugak direla eta, iOS aplikazioa gehigarri jakin batzuetara soilik mugatu dugu.",
 	"FAQ_22_P2": "Baina lasai - etorkizunean iOS-erako gehigarri gehiago egongo dira, eta Stremio gehigarri guztiak erabiltzea ahalbidetuko duen integrazioa ere gehi dezakegu iOS aplikazioa Stremio Streaming Server-era konektatzeari esker."
-
 }

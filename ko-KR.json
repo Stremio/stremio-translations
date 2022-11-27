@@ -4,39 +4,31 @@
 	"TYPE_tv": "TV 채널",
 	"TYPE_channel": "채널",
 	"TYPE_other": "기타",
-
 	"TYPE_movie_PL": "영화",
 	"TYPE_series_PL": "시리즈",
 	"TYPE_tv_PL": "TV 채널",
 	"TYPE_channel_PL": "채널",
 	"TYPE_other_PL": "기타",
-
 	"VIDEO": "비디오",
-
 	"BACK": "뒤로",
 	"MORE": "더",
 	"DONE": "완료",
 	"COPY": "복사",
-
 	"Discover": "발견",
 	"Board": "게시판",
 	"Library": "라이브러리",
 	"My Library": "내 라이브러리",
 	"Calendar": "캘린더",
-
 	"NOTIFICATION_ONLINE": "현재 온라인 상태입니다.",
 	"NOTIFICATION_OFFLINE": "현재 오프라인 상태입니다.",
 	"INTERNET_CONNECTION": "네트워크 연결",
-
 	"STORAGE_FULL_TITLE": "경고: 저장용량이 가득 찼습니다.!",
 	"STORAGE_FULL_TEXT": "Stremio는 설정, 기본 설정 또는 로그인 정보를 저장할 수 없습니다. Stremio를 다시 시작하거나 다시 설치하는 것이 좋습니다.",
-
 	"SEARCH": "검색",
 	"SEARCH_NO_RESULTS": "검색 결과가 없습니다.",
 	"SEARCH_EXPLANATION_CONTENT": "영화, 시리즈, YouTube 및 TV 채널 검색",
 	"SEARCH_EXPLANATION_PEOPLE": "배우, 감독, 작가 검색",
 	"SEARCH_PASTE_LINKS": "HTTP 및 마그넷 링크 붙여넣기",
-
 	"ADD_TO_LIB": "라이브러리에 추가",
 	"REMOVE_FROM_LIB": "라이브러리에서 삭제",
 	"ADDED_TO_LIB": "라이브러리에 추가됨",
@@ -47,7 +39,6 @@
 	"SHOW": "찾아보다",
 	"SHOW_MOVIE": "영화 보기",
 	"WATCH_RANDOM": "무작위 시청",
-
 	"IMDB_RATING": "IMDB 등급",
 	"YEAR": "연도",
 	"DIRECTOR": "감독",
@@ -69,10 +60,8 @@
 	"FEATURED": "추천",
 	"METADATA": "메타데이터",
 	"CATEGORY": "카테고리",
-
 	"SEARCH_VIDEOS": "동영상 검색",
 	"SEARCH_PLACEHOLDER": "URL 검색 또는 붙여넣기",
-
 	"ADDON": "애드온",
 	"ADDONS": "애드온",
 	"OFFICIAL": "공식",
@@ -95,17 +84,16 @@
 	"ADDON_REPO_EXIST_ERR": "이 애드온 모음이 이미 존재합니다.",
 	"ADDON_REPO_ERR": "컬렉션을 추가하는 동안 오류가 발생했습니다.",
 	"ADDON_ADD_ERR": "애드온을 추가하는 동안 오류가 발생했습니다.",
-	"ERR_ADDON_PROTECTED" : "애드온을 제거할 수 없습니다. 보호되어 있습니다.",
+	"ERR_ADDON_PROTECTED": "애드온을 제거할 수 없습니다. 보호되어 있습니다.",
 	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "문제가 발생했습니다. 인증에 실패했을 수 있습니다.",
-	"ERR_NOT_COLLECTION_URL" : "컬렉션 URL이 아닙니다.",
-	"ERR_NOT_ADDON_URL" : "유효한 애드온 URL이 아닙니다.",
-	"ERR_DETECTFROMURL" : "이 URL에서 애드온/수집을 찾을 수 없습니다.",
-	"ADDON_DUPLICATE_WARNING" : "경고: 중복 애드온",
-	"ADDON_COLLECTION_SET_FAILED" : "설치된 애드온을 계정에 동기화하지 못했습니다.",
-	"SETTINGS_DATA_EXPORT" : "사용자 데이터 내보내기",
-	"ADDON_PULL_FAILED" : "계정에서 설치된 애드온을 동기화하지 못했습니다.",
-	"REFRESH_ON_CLICK" : "재시도하려면 클릭하십시오.",
-
+	"ERR_NOT_COLLECTION_URL": "컬렉션 URL이 아닙니다.",
+	"ERR_NOT_ADDON_URL": "유효한 애드온 URL이 아닙니다.",
+	"ERR_DETECTFROMURL": "이 URL에서 애드온/수집을 찾을 수 없습니다.",
+	"ADDON_DUPLICATE_WARNING": "경고: 중복 애드온",
+	"ADDON_COLLECTION_SET_FAILED": "설치된 애드온을 계정에 동기화하지 못했습니다.",
+	"SETTINGS_DATA_EXPORT": "사용자 데이터 내보내기",
+	"ADDON_PULL_FAILED": "계정에서 설치된 애드온을 동기화하지 못했습니다.",
+	"REFRESH_ON_CLICK": "재시도하려면 클릭하십시오.",
 	"STILL_IN_THEATER": "영화가 상영중입니다.",
 	"WATCH_IN_CINEMA": "지역 영화관에서 감상하세요.",
 	"IN_THEATER": "영화관에서",
@@ -117,10 +105,8 @@
 	"CHANNEL_NOT_SCRAPED": "이 채널은 아직 스크랩되지 않았습니다.<br>몇 분 후에 다시 오세요.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "라이브러리에 추가하여 사용 가능한 경우 알림을 받습니다.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "사용 가능한 경우 알림이 발송됩니다.",
-
 	"WARNING_STREAMING_SERVER": "경고: 로컬 스트리밍 서버를 찾을 수 없습니다. 로컬 파일, 유튜브, 비트토렌트의 스트리밍을 사용할 수 없습니다",
 	"DECODER_WARNING": "경고: 이 비디오는 하드웨어에서 지원되지 않을 수 있습니다. 재생이 느릴 수 있습니다.",
-
 	"PLAYER_ERROR": "앗, 플레이어 오류",
 	"PLAYER_ERROR_LOOKSLIKE": "그런 것 처럼 보인다.",
 	"PLAYER_ORIENTATION": "Player orientation",
@@ -132,13 +118,10 @@
 	"PLAYER_PLAYBACK_ERROR": "재생 오류입니다. 다시 시도하십시오.",
 	"PLAYER_PLAYBACK_ERROR_UNKNOWN": "알 수 없는 오류",
 	"PLAYER_PLAYBACK_ERROR_DEFAULT": "죄송합니다. 이 비디오는 {{productName}}에서 재생할 수 없습니다.",
-
 	"PLAYER_LIVE": "라이브",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "다음 영상",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Dismiss",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "지금 바로 시청하세요.",
-
 	"STREAMING_FROM": "스트리밍 시작",
 	"CASTING_TO": "캐스팅 대상",
 	"NETWORK_STATUS": "네트워크 상태",
@@ -149,25 +132,19 @@
 	"PEERS_CONNECTED": "연결상태:",
 	"PEERS_WAITING": "대기:",
 	"TRANSCODING_WARNING": "경고: 비디오 트랜스코딩.",
-
 	"STREAM_LOADING": "로딩중...",
 	"PLAYING_LOCAL": "로컬 파일에서 재생",
 	"PLAYING_CACHE": "캐시에서 재생",
-
 	"WRONG_SUBS": "자막이 틀렸나요?",
 	"ERR_SUBS_LOADING_TITLE": "자막 로드 오류",
 	"ERR_SUBS_LOADING": "자막을 로드하지 못했습니다.사용 중인 애드온 또는 네트워크 연결 문제일 수 있습니다.",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "다음 자막 추가가 실패했습니다.",
-	"ERR_CASTING_UPDATE_TITLE" : "캐스팅 디바이스 정보를 갱신할 수 없습니다.스트리밍 서버가 오프라인 상태일 수 있습니다.",
-
+	"ERR_CASTING_UPDATE_TITLE": "캐스팅 디바이스 정보를 갱신할 수 없습니다.스트리밍 서버가 오프라인 상태일 수 있습니다.",
 	"CHOOSE_DEVICE": "시청할 디바이스 선택",
 	"NO_CAST_DEVICES": "사용 가능한 캐스팅 장치가 없습니다.",
-
 	"NO_SETTINGS": "사용 가능한 설정이 없습니다.",
-
 	"PHONE_TABLET": "폰 / 태블릿",
-
-    "SUBTITLES": "Subtitles",
+	"SUBTITLES": "Subtitles",
 	"SUBTITLES_CHANGE": "자막 변경 ",
 	"SUBTITLES_CHANGE_NONE": "이 언어에는 다른 자막이 없습니다. 죄송합니다.",
 	"SUBTITLES_CHANGE_ACIVE": "현재 자막 &#35;{subtitlesDialog.activeIdx + 1}이 활성화되어 있습니다. \"계속\"을 클릭하여 자막 &#35;{subtitlesDialog.pickedIdx + 1}}을 활성화합니다.",
@@ -179,11 +156,12 @@
 	"SUBTITLES_LOADING": "자막 로드중...",
 	"SUBTITLES_UNAVAILABLE": "외부 자막은 사용할 수 없습니다.",
 	"SUBTITLES_DISABLED": "비활성",
-
+	"AUDIO": "Audio",
+	"DEFAULT_LANGUAGE": "Default Language",
+	"DEFAULT_SECONDARY_LANGUAGE": "Default Secondary Language",
 	"SEASON": "Season",
 	"EPISODE": "에피소드",
 	"SPECIAL": "스페셜",
-
 	"SORT": "정렬",
 	"SORT_BY": "순서대로 정렬",
 	"FILTER": "필터",
@@ -193,21 +171,17 @@
 	"SORT_RATING": "등급",
 	"SORT_WATCHED": "시청함",
 	"SORT_YEAR": "년",
-
 	"New for You": "New for You",
 	"New Episodes": "새로운 에피소드",
 	"New Videos": "새로운 영상",
 	"Recommendations": "권장사항",
-
 	"LIBRARY_RESUME": "재개",
 	"LIBRARY_DETAILS": "상시",
 	"LIBRARY_RESUME_DISMISS": "Dismiss",
-
+	"LIBRARY_CLEAR_PROGRESS": "Clear Progress",
 	"DISCOVER_FEATURED": "Featured",
-
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "오스카 수상자",
-
 	"DISCOVER_WARNING_TITLE": "앗!",
 	"DISCOVER_EMPTY_CATALOG": "이 애드온은 빈 콘텐츠를 반환했습니다.",
 	"DISCOVER_ADULT_WARNING": "콘텐츠는 성인만 볼 수 있습니다. 18세 이상입니까?",
@@ -216,12 +190,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "이 콘텐츠는 더 이상 사용할 수 없습니다.Addon을 제거했을 수 있습니다.",
 	"UNINSTALL_THIS_ADDON": "이 애드온을 제거합니다",
 	"ERR_ADDON_NOT_INSTALLED": "이 애드온은 설치되어 있지 않습니다. 지금 설치하시겠습니까?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "새로운 에피소드에 대한 알림 수신",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "새로운 영상에 대한 알림 수신",
-
 	"SIDEBAR_SHOW_STREAMS": "스트림 표시",
-
 	"RELAUNCH": "지금 바로 재기동!",
 	"UPGRADE": "새로운 버전이 출시되었습니다! 최신 Stremio 버전으로 업그레이드",
 	"RELOAD_UI": "사용자 인터페이스 새로고침",
@@ -230,7 +201,6 @@
 	"MANUAL_UPDATE_LINE2": "최대한 빨리 갱신해 주세요.",
 	"BUTTON_UPDATE_LATTER": "지금은 안됩니다.",
 	"BUTTON_UPDATE_NOW": "업데이트",
-
 	"ANONYMOUS_USER": "익명 사용자",
 	"DONT_HAVE_ACC": "계정이 없으신가요?",
 	"HAVE_ACC": "이미 계정을 가지고 계십니까?",
@@ -279,25 +249,21 @@
 	"SEARCH_FAILED": "검색 실패",
 	"EMAIL_USED": "이 이메일은 이미 사용 중입니다.",
 	"WAITING_FB_LOGIN": "Facebook으로 로그인 중...",
-
 	"EXTERNAL_PLAYER_TITLE": "외부 플레이어에서 재생",
 	"EXTERNAL_REMEMBER_PLAYER": "선택한 내용을 기억하시겠습니까?",
 	"EXTERNAL_ALWAYS_PLAY": "네",
 	"EXTERNAL_ONLY_ONCE": "아니오",
-
 	"BEST_FIT": "최적화",
 	"FIT_SCREEN": "화면 최적화",
 	"FILL": "채우기",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "원본",
-
-
 	"INTRO_TASTE": "좋아하는 걸 이야기해 주세요.",
 	"INTRO_TASTE_LONG": "보고 싶은 걸 말해주세요.",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} 관삼분야를 선택해주세요.",
 	"INTRO_TASTE_PICK_MORE": "{{interestsRemaining}}개 이상의 관심사를 선택해주세요.",
-  	"INTRO_TASTE_HELP_US": "Help us learn more about you.",
+	"INTRO_TASTE_HELP_US": "Help us learn more about you.",
 	"INTRO_TASTE_CHOOSE_THESE": "다음 중 몇 가지를 선택하세요:",
 	"INTRO_TASTE_CHOOSE_MIN": "3개 이상의 카테고리를 선택하십시오.",
 	"INTRO_TASTE_CHOOSE_MIN_ERR": "최소 3가지 카테고리를 선생해야 합니다!",
@@ -316,15 +282,12 @@
 	"INTRO_TASTE_DIY": "DIY",
 	"INTRO_TASTE_TECH": "테크",
 	"INTRO_TASTE_CINEMA": "시네마",
-
 	"ADDON_NOT_SUPPORTED": "선택한 애드온은 이 플랫폼에서 지원되지 않습니다.",
 	"ADDON_DISCLAIMER": "서드파티 애드온을 사용하는 것은 항상 사용자의 책임과 소재지의 관할구역 준거법의 적용을 받습니다.",
 	"ADDON_ACTIVATE": "이 애드온을 활성화하시겠습니까?",
 	"ADDON_REPO_ADD": "애드온 컬렉션 URL",
 	"ADDON_ADD": "추가",
-
 	"WHATS_NEW": "새로운 것",
-
 	"BUTTON_CONTINUE": "계속",
 	"BUTTON_ACTIVATE": "활성화",
 	"BUTTON_ACTIVATED": "활성화된",
@@ -332,7 +295,6 @@
 	"BUTTON_SUBMIT": "제출",
 	"BUTTON_DISMISS_ALL": "모두 제거",
 	"BUTTON_VIEW_ALL": "모두 표시",
-
 	"LIB_EMPTY": "라이브러리가 비어 있는 것 같습니다. 얼마나 유용한지 확인하세요:) ",
 	"HOW_START": "시작 방법은 다음과 같습니다:",
 	"LIB_EMPTY_CAL": "캘린더에 라이브러리의 시리즈가 표시됩니다.",
@@ -357,14 +319,11 @@
 	"LIB_EMPTY_ALL": "이것들을 모두 얻으려면 가입하세요:",
 	"LIB_EMPTY_BEST": "Stremio를 최대한 활용하려면 가입하십시오.",
 	"LIB_EMPTY_OTHER": "캘린더 및 기타 멋진 기능을 활성화하려면 가입하십시오.",
-
 	"CALENDAR_ADDED": "Stremio 캘린더가 기본 데스크톱 캘린더에 추가되었습니다.",
 	"CALENDAR_ADDED_MSG": "이 URL을 캘린더 어플리케이션에 수동으로 추가해 주세요.",
-
 	"TRAKT_EXPIRED": "Trakt 인증이 만료되었습니다. 설정으로 이동하여 재인증하십시오.",
-	"TRAKT_REQUIRES_LOGIN" : "Trakt 오류",
-	"TRAKT_REQUIRES_LOGIN_MSG" : "로그인이 필요합니다.",
-
+	"TRAKT_REQUIRES_LOGIN": "Trakt 오류",
+	"TRAKT_REQUIRES_LOGIN_MSG": "로그인이 필요합니다.",
 	"SETTINGS_LABEL": "설정",
 	"SETTINGS_NAV_GENERAL": "일반",
 	"SETTINGS_NAV_PLAYER": "플레이어",
@@ -448,7 +407,6 @@
 	"SETTINGS_HW_ACCELERATED": "디코딩 가속 중",
 	"SETTINGS_HW_FULL": "전체 가속",
 	"SETTINGS_HW_LEGACY": "레거시",
-
 	"SUBSPICKER_AUDIO": "오디오",
 	"SUBSPICKER_SUBTITLES": "애드온 자막",
 	"SUBSPICKER_BLACK_BACKGROUND": "검정색 배경 사용",
@@ -456,7 +414,6 @@
 	"SUBSPICKER_SIZE": "크기",
 	"SUBSPICKER_DELAY": "딜레이",
 	"SUBSPICKER_EMBEDDED_SUBS": "내장된 자막",
-
 	"MOBILE_PRIVACY_POLICY": "개인정보보호 정책",
 	"MOBILE_CRASH_REPORTING": "크래시 리포트",
 	"MOBILE_ZOOM_TO_FILL": "화면을 채우려면 확대",
@@ -484,16 +441,10 @@
 	"MOBILE_DISCONNECT": "Disconnect",
 	"MOBILE_LOOKING_FOR_DEVICES": "디바이스 검색 중...",
 	"MOBILE_CAST_TO": "Cast to",
-
 	"NAVIGATION_ON": "On",
 	"NAVIGATION_OFF": "Off",
-
 	"MARKETING_AGREE": "Stremio로부터의 마케팅 정보 수신에 동의합니다.",
-
-
-
 	"QUIT": "Quit",
-
 	"CONNECTED": "접속완료",
 	"AUTHENTICATE": "인증",
 	"CACHING": "캐싱",
@@ -504,7 +455,6 @@
 	"TORRENT_PROFILE": "Torrent 설정",
 	"DATA_CACHING": "데이터 캐싱",
 	"MAGNET_PARSING": "마그넷 링크 파싱 중",
-
 	"January": "1월",
 	"February": "2월",
 	"March": "3월",
@@ -517,7 +467,6 @@
 	"October": "10월",
 	"November": "11월",
 	"December": "12월",
-
 	"Monday": "월요일",
 	"Tuesday": "화요일",
 	"Wednesday": "수요일",
@@ -525,7 +474,6 @@
 	"Friday": "금요일",
 	"Saturday": "토요일",
 	"Sunday": "일요일",
-
 	"Action": "액션",
 	"Comedy": "코미디",
 	"War": "전쟁",
@@ -601,7 +549,6 @@
 	"Science Radio": "과학 라디오",
 	"Tech Radio": "테크 라디오",
 	"Science & Technology Vod": "과학 & 기술 VOD",
-
 	"new video": "뉴스 영상",
 	"new episode": "새로운 에피소그",
 	"new movie": "신작 영화",
@@ -610,7 +557,6 @@
 	"offer of the day": "오늘의 할인",
 	"news": "뉴스",
 	"music video": "뮤직비디오",
-
 	"CTX_SHOW_HOTKEYS": "단축키 표시",
 	"CTX_DISMISS_NOTIF": "알림 해제",
 	"CTX_DISMISS_ALL": "모두 해제",
@@ -651,7 +597,6 @@
 	"CTX_PASTE": "붙여넣기",
 	"CTX_CLEAR": "지우기",
 	"CTX_CLEAR_RECENT_SEARCHES": "최근 검색 지우기",
-
 	"HELLO_THERE": "안녕하세요.",
 	"HOPE_YOU_ENJOY": "Stremio를 즐겨주셨으면 좋겠어요, 이미 마음에 드는 앱 중 하나예요!",
 	"WHO_ARE_WE": "우리는 누구일까요? 델이 그 배후에 있는 팀입니다.지난 3년간 매일 이 제품을 더 좋게 만들기 위해 열심히 일했던 두 남자입니다.",
@@ -659,9 +604,7 @@
 	"SPREAD_THE_WORD": "지금 바로 친구들과 공유하고 Stremio에 대한 소문을 퍼뜨리세요.",
 	"MORE_PEOPLE": "Stremio를 많이 사용할수록 더 좋아집니다!",
 	"SEND_A_LINK": "또는 당사 웹 사이트로 링크를 보내십시오.",
-
 	"TIP_LOCALFILES": "팁: 로컬 비디오 파일을 Stremio에 드래그 앤 드롭할 수 있습니다",
-
 	"ADDON_MY": "내 애드온",
 	"ADDON_COMMUNITY": "커뮤니티 애드온",
 	"ADDON_OFFICIAL": "공식 애드온",
@@ -692,7 +635,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "#{types} 무료 시청",
 	"ADDON_PROVIDES_SUBTITLES": "#{types}의 부제목",
 	"ADDON_CANTDETECT": "실행 중인 Stremio를 검출할 수 없었기 때문에 설치한 애드온을 검출할 수 없었습니다.",
-
 	"ERR_NO_META": "이것에 대한 정보를 찾을 수 없습니다.",
 	"ERR_GETTING_META": "이것에 대한 정보를 가져오는 중 오류가 발생했습니다.",
 	"ERR_CANT_PARSE_MAGNET": "마그넷을 해석할 수 없습니다.",
@@ -700,18 +642,16 @@
 	"ERR_NO_FILE_PATH": "파일 경로가 없으면 요청을 전송할 수 없습니다.",
 	"ERR_NO_TORRENT": "반환된 토렌트가 없습니다.",
 	"ERR_NO_SUPPORTERD_FILES": "지원되는 파일을 찾을 수 없습니다.",
-	"ERR_OPENING_FILES" : "외부 파일을 열 수 없습니다.",
+	"ERR_OPENING_FILES": "외부 파일을 열 수 없습니다.",
 	"ERR_INVALID_LINK": "유효하지 않은 링크",
 	"ERR_REGISTERED_ONLY": "이 옵션은 등록된 사용자만 사용할 수 있습니다.",
 	"ERR_CLIPBOARD": "클립보드에서 재생할 수 없습니다.",
 	"ERR_CLIPBOARD_READ": "이 플랫폼에서 클립보드를 읽을 수 없습니다.",
 	"ERR_CLIPBOARD_GENERIC": "클립보드에 재생 가능한 URL이 없습니다. URL(마그넷 링크 등)을 비디오에 복사하십시오.",
-
 	"BOARD_CONTINUE_WATCHING": "이어 보기",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "특별히 선택한 영화입니다.<br /> 이 동영상은 권장 샘플입니다.",
 	"BOARD_EXPLANATION_EPISODES": "좋아하는 시리즈의 새로운 에피소드가 여기에 표시됩니다.<br /> 팔로우한 시리즈를 라이브러리에 추가합니다.",
 	"BOARD_EXPLANATION_VIDEOS": "좋아하는 채널의 새로운 에피소드가 여기에 표시됩니다.<br /> 라이브러리에 팔로우할 유튜브 채널을 추가합니다.",
-
 	"WEBSITE_SLOGAN_WATCH": "바로 보기",
 	"WEBSITE_SLOGAN_ALL": "모든 비디오 콘텐츠를 한 곳에서 즐길 수 있습니다.",
 	"WEBSITE_SLOGAN_NEW": "모두 시청 가능",
@@ -728,44 +668,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "애드온 생성",
 	"WEBSITE_PAGE_CONTACTS": "연락처",
 	"WEBSITE_PAGE_BLOG": "블로그",
-
 	"WEBSITE_TYPE_movie": "영화",
 	"WEBSITE_TYPE_series_PL": "시리즈",
 	"WEBSITE_TYPE_tv": "라이브 TV",
 	"WEBSITE_TYPE_channel": "채널",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio는 마음에 드는 비디오, 영화, TV 시리즈, TV 채널을 정리하고 바로 볼 수 있는 앱입니다.",
-
 	"WEBSITE_FEATURES_WATCH": "즉시 HD로 보기",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "즐겨찾는 영화, TV 프로그램, 비디오 및 TV 채널을 클릭하여 재생합니다.",
-
 	"WEBSITE_FEATURES_SUBS": "자동 자막",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio는 자동으로 해당 언어의 동기화된 자막을 선택합니다.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "당신 차례입니다.",
-
 	"WEBSITE_FEATURES_CAST": "TV 및 모바일 디바이스에서 재생",
 	"WEBSITE_FEATURES_CAST_DETAIL": "AppleTV, Chromecast, 스마트 TV(DLNA/UPnP) 및 모바일 장치로 전송합니다.",
-
 	"WEBSITE_LIB": "모든 디바이스에서 동기화된 퍼스널 라이브러리를 즐기세요.",
 	"WEBSITE_LIB_COLLECT": "Stremio에서 수집",
 	"WEBSITE_LIB_IMPORT": "Facebook에서 Import",
 	"WEBSITE_LIB_LOCAL": "로컬 드라이브에서 추가",
-
 	"WEBSITE_BOARD": "게시판 - 알림 및 권장 사항을 위한 원스톱 장소",
 	"WEBSITE_BOARD_RECOMMEND": "권장 TV 프로그램",
 	"WEBSITE_BOARD_TRENDING": "트렌딩 무비",
 	"WEBSITE_BOARD_NEW": "새로운 영상",
 	"WEBSITE_BOARD_EPISODE": "새로운 에피소드",
-
 	"WEBSITE_BOARD_1": "재미있는 볼거리를 찾고 계십니까? 취향에 맞는 추천을 받아보세요!",
 	"WEBSITE_BOARD_2": "좋아하는 TV 프로그램이나 YouTube 채널의 새로운 에피소드가 나오면 알려드립니다!",
-
 	"WEBSITE_BOARD_YOUTUBE": "유튜브 채널 신규 영상",
 	"WEBSITE_BOARD_EPISODES": "당신이 팔로우하는 시리즈의 새로운 에피소드",
-
-
 	"WEBSITE_ADDONS": "콘텐츠 애드온",
-
 	"WEBSITE_TECH_DETAIL": "우리는 테크놀로지와 미친 과학을 사랑합니다!\nStremio는 다음 오픈소스 기술을 사용하고 있습니다.:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js를 사용하면 Stremio는 어떤 비디오 형식에서도 뛰어난 퍼포먼스로 재생할 수 있습니다.",
 	"WEBSITE_TECH_WCJS_EXTRA": "우리는 프로젝트의 핵심 기여자입니다.",
@@ -773,8 +701,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "우리는 프로젝트 기여자입니다.",
 	"WEBSITE_TECH_LINVODB": "데이터를 정리하여 로그인 시 어디서나 이용할 수 있는 데이터베이스 테크놀로지입니다.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "내부기술",
-
-
 	"WEBSITE_CREATE_ADDON": "애드온 작성",
 	"WEBSITE_CREATE_ADDON_DETAIL": "비디오 콘텐츠를 제공하는 서비스가 있습니까? Addon을 작성함으로써 Stremio의 기능을 활용할 수 있도록 지원합니다.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Stremio용 애드온 작성의 이점",
@@ -785,20 +711,16 @@
 	"WEBSITE_P2P_CONTACT": "관심이 있습니까? <a href='mailto:office@stremio.com'>문의</a>를 환영합니다.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "Stremio와 콘텐츠를 통합하는 데 도움을 드리고 싶습니다!",
 	"WEBSITE_P2P": "가끔은 게임의 규칙을 바꾸는 기술이 등장합니다. 우리는 뛰어난 성능과 용도에 맞게 맞춤화할 수 있는 다용도\nDRM 지원 P2P 주문형 비디오 또는 라이브 스트리밍에 대해 문의하십시오.",
-
-
 	"WEBSITE_THOUGHTS": "우리가 공유하는 생각:",
 	"WEBSITE_SPREAD": "Stremio에 대해 널리 알리세요:",
 	"WEBSITE_CONTACT": "연락주세요. 연락주시면 감사하겠습니다!",
 	"WEBSITE_OPENSOURCE": "오픈소스 프로젝트에 대해서는 다음 사이트를 참조하십시오.",
-
 	"WEBSITE_BITCOIN": "비트코인 기부:",
 	"WEBSITE_FAQ": "자주 묻는 질문",
 	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_QUESTIONS": "질문",
 	"WEBSITE_TOS": "이용약관",
 	"WEBSITE_LEGAL": "법률",
-
 	"WEBSITE_PAGE_ABOUT": "정보",
 	"WEBSITE_PAGE_BECOME_PARTNER": "파트너가 되어주세요.",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "원하는 모든 것을 자유롭게\n시청할 수 있습니다.",
@@ -817,7 +739,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "무한히 확장 가능한 비디오 카탈로그",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "미디어 정리를 위한 뛰어난 기능",
 	"WEBSITE_AS_SEEN_ON": "에 표시된 대로",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "당사에 대하여",
 	"WEBSITE_LINK_TECHNOLOGY": "테크놀로지",
@@ -841,11 +762,10 @@
 	"WEBSITE_LINK_PRAVACY_LEGAL": "개인정보보호 & 범률",
 	"WEBSITE_WHY": "우리가 하는 이유",
 	"WEBSITE_WHY_P1": "Stremio에서는 비디오 온 디맨드 업계의 중요한 문제를 해결하기 위해 매일 출근하고 있습니다. 매분 새로운 컨텐츠가 너무 많이 공개되고 있기 때문에, 그것을 회피하는 방법을 찾는 것은 사실상 불가능합니다.",
-	"WEBSITE_WHY_P2":"우리는 사람들이 비디오 엔터테인먼트의 거대한 세계를 탐색하고 즐길 수 있는 새로운 콘텐츠를 찾도록 돕습니다. 우리 앱은 영화, 시리즈, 라이브 TV, 웹 채널 등을 함께 제공합니다. 사용자가 좋아하는 타이틀과 방송사를 매우 쉽게 찾을 수 있도록 최선을 다하고 있습니다.",
-	"WEBSITE_WHY_P3":"언제 어디서나 모든 장치에서 당사 서비스를 사용할 수 있으므로 Stremio는 당신이 필요로 하는 유일한 비디오 엔터테인먼트 허브가 됩니다.",
+	"WEBSITE_WHY_P2": "우리는 사람들이 비디오 엔터테인먼트의 거대한 세계를 탐색하고 즐길 수 있는 새로운 콘텐츠를 찾도록 돕습니다. 우리 앱은 영화, 시리즈, 라이브 TV, 웹 채널 등을 함께 제공합니다. 사용자가 좋아하는 타이틀과 방송사를 매우 쉽게 찾을 수 있도록 최선을 다하고 있습니다.",
+	"WEBSITE_WHY_P3": "언제 어디서나 모든 장치에서 당사 서비스를 사용할 수 있으므로 Stremio는 당신이 필요로 하는 유일한 비디오 엔터테인먼트 허브가 됩니다.",
 	"WEBSITE_TEAM": "팀",
 	"WEBSITE_TEAM_P": "Stremio 팀은 작지만 강력합니다.저희 10명 사이에 X개 언어로 코딩하고 소프트웨어 개발, UI 및 UX 설계, 마케팅 및 광고, 비즈니스 및 스타트업 관련 전문 지식을 공유합니다.",
-
 	"WEBSITE_FEATURES": "기능",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "새로운 콘텐츠를 쉽게 발견할 수 있습니다.",
@@ -861,7 +781,6 @@
 	"WEBSITE_FEATURES_SOURCES": "다양한 소스에서 비디오를 시청합니다.",
 	"WEBSITE_FEATURES_SOURCES_P": "공식 애드온과 커뮤니티 애드온을 설치하여 다양한 프로바이더가 제공하는 비디오를 모두 스타일리시하고 사용하기 쉬운 하나의 앱으로 즐길 수 있습니다.",
 	"WEBSITE_CREATE_AN_ADDON": "애드온 개발",
-
 	"WEBSITE_FEATURES_SYNC": "다른 디바이스 간에 라이브러리를 동기화하고 재생을 재개합니다.",
 	"WEBSITE_FEATURES_SYNC_P1": "모든 디바이스에서 계정으로 로그인하여 라이브러리, 애드온, 재생 및 캘린더를 동기화하여 즐기십시오.",
 	"WEBSITE_FEATURES_EXTENDABLE": "애드온별로 확장 가능한 비디오 카탈로그",
@@ -876,7 +795,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "외장 플레이어에서 재생",
 	"WEBSITE_FEATURES_POWER_USER_P2": "토렌트 파일 또는 마그넷 링크에서 재생",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Facebook like 또는 로컬 디스크에서 라이브러리로 Import",
-
 	"WEBSITE_ADD_ONS": "애드온",
 	"WEBSITE_ADD_ONS_P1": "Stremio가 제공하는 모든 비디오 콘텐츠는 애드온 시스템을 통해 제공됩니다.콘텐츠 또는 콘텐츠 공급자는 앱에 포함되어 있지 않습니다.",
 	"WEBSITE_ADD_ONS_P2": "사용 가능한 애드온 그룹은 공식 애드온과 커뮤니티 애드온 두 가지가 있습니다.",
@@ -894,7 +812,6 @@
 	"WEBSITE_ADDONS_CREATE": "애드온 개발",
 	"WEBSITE_ADDONS_CREATE_P1": "원하시면, 독자적인 애드온을 개발할 수 있습니다. 이를 통해 귀사와 당사의 커뮤니티에서 새로운 비디오 콘텐츠에 접근할 수 있으며, 전 세계 수백만 명의 사용자의 잠재고객에게 다가갈 수 있습니다.",
 	"WEBSITE_ADDONS_START_CREATE": "시작하려면 Stremio Addon SDK 페이지를 방문하십시오.",
-
 	"WEBSITE_DOWNLOADS": "다운로드",
 	"WEBSITE_DOWNLOADS_P1": "최적의 성능을 위해 최신 버전의 Stremio 앱을 사용하는 것이 좋습니다. 다만, 어떠한 이유로 구버전을 사용하고 싶은 경우는, 여기서 다운로드할 수 있습니다.",
 	"WEBSITE_DOWNLOADS_FOR_WIN": "Windows용 Stremio",
@@ -905,7 +822,6 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobile용 Stremio",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Steam Deck용 Stremio",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS용 Stremio (limited version)",
-
 	"WEBSITE_CONTRIBUTE": "기여",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio 플랫폼은 오픈 소스이며 현재 소싱되지 않은 콘텐츠에 대한 애드온을 쉽게 만들 수 있습니다.",
 	"WEBSITE_CONTRIBUTE_WHY": "애드온을 작성해야 하는 이유?",
@@ -923,7 +839,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "다른 언어로 된 Stremio 앱을 즐기고 싶으시면 저희 자원봉사 번역자 커뮤니티에 참여하실 수 있습니다. Stremio 버전을 여러 언어로 추가할 수 있습니다.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "시작하시겠습니까?",
 	"WEBSITE_TRANSALTE_STREMIO": "Stremio 번역",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "공식 커뮤니티",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "성장하는 Stremio 커뮤니티의 일원이 되십시오. 소셜 미디어 팔로우 해 주세요.부끄러워하지 말고 인사하세요. 팬분들의 의견을 듣는 게 너무 좋아요! ",
@@ -945,7 +860,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Wallpapers",
 	"WEBSITE_COMMUNITY_ART": "Community Art Gallery",
 	"WEBSITE_LINK_ART": "Community art gallery",
-
 	"WEBSITE_CONTACT_US": "문의",
 	"WEBSITE_CONTACT_US_P1": "질문, 코멘트, 제안사항이 있으시면 아래 연락처 폼으로 연락주시기 바랍니다.",
 	"WEBSITE_CONTACT_US_P2": "당사는 불가리아에 있으므로 시간대 차이로 인해 문의처리가 지연될 수 있습니다.",
@@ -956,7 +870,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "단신의 E-mail",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "메시지",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "전송",
-
 	"WEBSITE_CONTACT_US_Q_1": "어떻게 설치 하나요?",
 	"WEBSITE_CONTACT_US_Q_2": "어떻게 삭제 하나요?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) 라자냐는 어떻게 만드나요?",
@@ -966,7 +879,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "테크놀로지",
 	"WEBSITE_TECHNOLOGY_P1": "우리는 테크놀로지와 광기어린 과학을 사랑합니다. </br> 다음은 Stremio(모두 오픈소스)를 지원하는 기능입니다.",
 	"WEBSITE_TECHNOLOGY_P_QT": "크로스 플랫폼 소프트웨어 개발은 최고입니다.",
@@ -975,14 +887,13 @@
 	"WEBSITE_TECHNOLOGY_P_VLC": "멀티미디어를 얻기 위해 응용 프로그램에 내장된 미디어 프레임워크입니다.",
 	"WEBSITE_TECHNOLOGY_P_REALM": "Realm은 모바일 플랫폼이며 SQLite & Core Data를 대체하는 것입니다.",
 	"WEBSITE_TECHNOLOGY_P_NODEJS": "Node.js는 오픈소스 크로스 플랫폼 자바스크립트 런타임 환경입니다.",
-	"WEBSITE_TECHNOLOGY_P_RUST": "RUST는 안전성, 특히 안전한 동시성에 초점을 맞춘 다중 패러다임 시스템 프로그래밍 언어입니다." ,
+	"WEBSITE_TECHNOLOGY_P_RUST": "RUST는 안전성, 특히 안전한 동시성에 초점을 맞춘 다중 패러다임 시스템 프로그래밍 언어입니다.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE": "프로젝트에 기여",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P1": "Stremio에 기여하는 방법과 제품 개선을 지원하는 방법에는 두 가지가 있습니다.",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_TRANSALTE": "플랫폼을 번역하여 소중한 언어 능력을 기부할 수 있습니다...",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "또는",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... 커뮤니티 애드온을 작성하기 위해 당신의 프로그래밍 노하우를 사용할 수 있습니다. ",
 	"WEBSITE_TRANSLATE_STREMIO": "Stremio 번역",
-
 	"WEBSITE_404_OH_NO": "오오오오! 찾으시는 페이지는 여기에 없습니다...",
 	"WEBSITE_GO_HOME": "홈으로 이동",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "기타 다운로드",
@@ -993,100 +904,81 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "애드온 경쟁",
 	"WEBSITE_LINK_ART_CONTEST": "아트 콘테스트",
 	"WEBSITE_MY_ACCOUNT": "내 계정",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Stremio란?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio는 원하는 모든 것을 자유롭게 볼 수 있는 현대적인 미디어 센터입니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "어떻게 동작합니까?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "단말기에 Stremio를 설치하고 계정을 만들면 애드온 카탈로그에 접속하여 원하는 애드온을 설치하면 됩니다.",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "그 후 [Discover]섹션 또는 [Board]섹션으로 이동하여 콘텐츠 탐색을 시작할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "여기서 볼 수 있는 건?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "많은 것: 영화, TV 프로그램, 웹 채널, 스포츠, TV 채널, 팟캐스트 듣기 등. 델의 애드온 시스템 덕분에 다양한 콘텐츠에 접속할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio는 오픈 소스입니까?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "예, ${1}데스크탑 app${2} 및 ${3}GitHub organization${4} 링크를 확인할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio는 안전합니까?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "네, 오픈 소스 소프트웨어이므로 코드는 공개적으로 보는것이 가능하며 사용자가 직접 검토할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "프라이버시는 어떻습니까?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "저희는 사용자의 프라이버시를 존중하며 계정을 만들고 동기화하기 위해 필수적인 최소값 이외에는 개인정보를 수집하지 않습니다.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "등록 시 ${1}게스트 모드${2}도 있습니다.이 모드에서는 백엔드에 콜이 발신되지 않습니다. 단, 디바이스 간에 라이브러리를 동기화할 수 있는 등 유용한 기능을 희생합니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "TV에 캐스팅할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "네, Chromecast를 지원하며 데스크톱 및 모바일 앱(Android)에서 모두 캐스팅할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio에는 몇 개의 애드온이 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "2019년 말 현재 50세 이상 - 자세한 내용은 Addon 카탈로그를 참조하십시오.",
-
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Stremio를 애드온 카탈로그보다 더 확장할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "예, ${1}PimpMyStremio${2}, ${3}Reddit 커뮤니티${4}, ${5}Stremio Downloader${6} 등을 확인하십시오.",
-
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio가 지원하는 디바이스는 무엇입니까?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac 및 Linux용 데스크톱 애플리케이션이 있습니다. 모바일의 경우 Android 및 iOS를 지원하지만 iOS는 기능이 제한되어 있습니다(대부분의 애드온을 지원하지 않음).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "NVIDIA Shield나 Amazon Fire Stick 등 Stremio를 실행할 수 있는 Android 기반 디바이스는 많이 있지만 공식적으로 지원하지 않습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremio에 특정 콘텐츠를 추가할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "본사에서 제공하는 콘텐츠는 없습니다만, Stremio 애드온이 많을수록 더 많은 콘텐츠를 찾을 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio는 마그넷 링크를 재생할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "네, 일반 HTTP 링크 및 토렌트 파일(드래그 앤 드롭)도 재생할 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "비디오를 다운로드하여 오프라인으로 시청할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "오프라인에서 사용할 수 있는 기능이 곧 출시될 예정이지만 Stremio를 (설정 패널에서) 디바이스에 캐시하도록 허용하면 나중에 연결 없이 비디오를 볼 수 있습니다.",
-
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "아무것도 작동하지 않습니다.도와주세요!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "애드온을 설치하시겠습니까? 확인하신 경우 ${1}헬프센터${2}에 문의해 주십시오.",
-
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio는 어떻게 개발 작업을 유지합니까?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "저희는 ${1}Ad를 통해 비침입적 광고를 내보냅니다.Ex${2}는 프라이버시 보호, 투명한 광고에 초점을 맞춘 동일한 창립팀의 회사이다.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "자세한 내용은 ${1}헬프센터 ${2}를 참조하십시오.",
-
 	"HELP_LEARN_MORE": "고객에 대해 자세히 알아보겠습니다.",
-	"LIFESTYLE" : "라이프스타일",
+	"LIFESTYLE": "라이프스타일",
 	"SPORTS": "스포츠",
-	"FOOD_HEALTH" : "식품 & 건강",
-	"BEAUTY_FASHION" : "뷰티 & 패션",
-	"NEWS" : "뉴스",
-	"GAMING" : "게이밍",
-	"SCIENCE_EDUCATION" : "과학 & 교육",
-	"MUSIC" : "음악",
-	"TRAVEL" : "여행",
+	"FOOD_HEALTH": "식품 & 건강",
+	"BEAUTY_FASHION": "뷰티 & 패션",
+	"NEWS": "뉴스",
+	"GAMING": "게이밍",
+	"SCIENCE_EDUCATION": "과학 & 교육",
+	"MUSIC": "음악",
+	"TRAVEL": "여행",
 	"LATE_NIGHT": "심야방송",
 	"REALITY": "리얼리티",
 	"COMEDY": "코미디",
-	"DIY" : "DIY",
-	"TECH" : "테크",
-	"CINEMA" : "시네마",
-	"CONTINUE" : "계속",
-	"SLOW_LOADING" : "로딩이 느립니까?",
-	"I_GIVE_UP" : "포기한다.",
-	"LEARN_MORE" : "더 알아보기",
+	"DIY": "DIY",
+	"TECH": "테크",
+	"CINEMA": "시네마",
+	"CONTINUE": "계속",
+	"SLOW_LOADING": "로딩이 느립니까?",
+	"I_GIVE_UP": "포기한다.",
+	"LEARN_MORE": "더 알아보기",
 	"POOR_SOURCE": "이 소스를 제대로 사용할 수 없거나 인터넷 연결이 충분히 빠르지 않습니다.",
-	"PICK_CATEGORIES_ERR" : "최소 3개의 카테고리를 선택해야 합니다.",
-	"ADJUST_TIMING" : " 타이밍 조정 ",
-	"ADJUST_SIZE" : " 사이즈 조정 ",
-	"SEARCH_ANYTHING" : "무엇이든 검색할 수 있습니다...",
-	"ALL_CATEGORIES" : "전체",
-	"SEARCH_CATEGORIES" : "영화, 시리즈, YouTube & TV",
-	"SEARCH_PERSONS" : "배우, 감독 & 작가",
-	"SEARCH_PROTOCOLS" : "HTTP & 마그넷 링크",
-	"SEARCH_TYPES" : "IMDB / TVDB 링크",
+	"PICK_CATEGORIES_ERR": "최소 3개의 카테고리를 선택해야 합니다.",
+	"ADJUST_TIMING": " 타이밍 조정 ",
+	"ADJUST_SIZE": " 사이즈 조정 ",
+	"SEARCH_ANYTHING": "무엇이든 검색할 수 있습니다...",
+	"ALL_CATEGORIES": "전체",
+	"SEARCH_CATEGORIES": "영화, 시리즈, YouTube & TV",
+	"SEARCH_PERSONS": "배우, 감독 & 작가",
+	"SEARCH_PROTOCOLS": "HTTP & 마그넷 링크",
+	"SEARCH_TYPES": "IMDB / TVDB 링크",
 	"WATCHED": "시청완료.",
-	"SHOW_LESS" : "감추기",
-	"LAST_SEARCHES" : "마지막 검색",
-	"CLEAR_HISTORY" : "이력 지우기",
-	"CHOOSE_SOME" : "이 중 일부를 선택하세요.:",
-
+	"SHOW_LESS": "감추기",
+	"LAST_SEARCHES": "마지막 검색",
+	"CLEAR_HISTORY": "이력 지우기",
+	"CHOOSE_SOME": "이 중 일부를 선택하세요.:",
 	"NO_WEB_REMOTE": "Web Remote를 로드할 수 없습니다.",
 	"STREMIO_OFFLINE": "Stremio는 오프라인",
 	"STREMIO_EXPENSIVE_CONNECTION": "모바일 데이터 연결을 사용하고 있습니다.계속하시겠습니까?",
 	"USE_DATA": "데이터 사용",
 	"WARNING": "경고",
-
 	"MORE_INFO": "상세정보...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "로딩중 ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "언어로 돌아가기",
@@ -1105,14 +997,13 @@
 	"STREMIO_TV_LOGIN_FOOTER_LINE_2": "Stremio 팀",
 	"STREMIO_TV_REMOTE_INSTRUCTIONS": "스마트폰/태블릿/데스크탑에서 웹 리모트를 사용하려면:",
 	"STREMIO_TV_WIFI_SETUP": "Wi-Fi 셋업",
-	"STREMIO_TV_WIFI_HEADER_LINE_1": "Stremio Circle이 인터넷 연결을 검출하지 못했습니다." ,
+	"STREMIO_TV_WIFI_HEADER_LINE_1": "Stremio Circle이 인터넷 연결을 검출하지 못했습니다.",
 	"STREMIO_TV_WIFI_DETAILS_1": "접속 위치:",
 	"STREMIO_TV_WIFI_DETAILS_2": "stremio-circle",
 	"STREMIO_TV_WIFI_DETAILS_3": "비밀번호 사용:",
 	"STREMIO_TV_WIFI_DETAILS_4": "stremiocircle",
 	"STREMIO_TV_WIFI_DETAILS_5": "링크를 사용하여 웹 브라우저를 엽니다.:",
 	"STREMIO_TV_DISCOVER_GENRE_DEFAULT": "기본값",
-	"STREMIO_TV_LIBRARY_MY": "My",
 	"STREMIO_TV_LIBRARY_SORT_LAST_WATCHED": "최근 시청",
 	"STREMIO_TV_LIBRARY_SORT_NAME": "이름",
 	"STREMIO_TV_LIBRARY_TIMES_WATCHED": "시청 시간별",
@@ -1137,6 +1028,8 @@
 	"STREMIO_TV_CATALOG_LOADING": "카탈로그가 아직 로딩 중...",
 	"STREMIO_TV_SETTINGS_LANGUAGE_UPDATED": "인터페이스 언어 갱신",
 	"STREMIO_TV_SETTINGS_THEME_UPDATED": "테마 갱신",
+	"STREMIO_TV_SETTINGS_DEFAULT_PLAYER": "Default Player",
+	"STREMIO_TV_SETTINGS_EXTERNAL_PLAYER": "External Player",
 	"STREMIO_TV_SETTINGS_PREFERRED_LANGUAGE": "선호 언어",
 	"STREMIO_TV_SETTINGS_SECONDARY_PREFERRED_LANGUAGE": "2차 선호 언어",
 	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK": "터널링 재생",
@@ -1156,7 +1049,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_MODAL_EDIT_DESCRIPTION": "스트리밍 서버의 URL을 입력하십시오",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremio의 개인정보보호 정책을 읽으려면 다음 사이트를 방문하십시오.:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Stremio 계약조건을 읽으려면 다음 사이트를 방문하십시오.:",
-
 	"STREMIO_TV_NAV_SEARCH": "검색",
 	"STREMIO_TV_NAV_HOME": "홈",
 	"STREMIO_TV_NAV_DISCOVER": "발견",
@@ -1167,14 +1059,12 @@
 	"STREMIO_TV_NAV_TV": "라이브 TV",
 	"STREMIO_TV_NAV_SETTINGS": "설정",
 	"STREMIO_TV_NAV_ADDONS": "애드온",
-
 	"STREMIO_TV_LOGIN_TITLE": "계정 링크",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
 	"STREMIO_TV_LOGIN_STEP_ONE": "위의 QR코드를 스캔하거나 다음으로 이동합니다.",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Stremio 계정에 로그인합니다.",
 	"STREMIO_TV_LOGIN_NEW_LINK": "새로운 링크 요청",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "로그인 코드 새로 고침",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "입력하세요.",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "카탈로그 추가 요청 없음!",
 	"STREMIO_TV_SEARCH_BUTTON": "검색",
@@ -1184,9 +1074,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "이력 검색",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "타이틀, 배우, 채널 등을 검색할 수 있습니다.",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "검색 이력 지우기",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "아래 필터 중 하나를 선택하십시오.",
-
 	"FILTERS": "필터",
 	"SETTINGS": "설정",
 	"ACCOUNT": "계정",
@@ -1231,53 +1119,42 @@
 	"REMOTE_ADJUST_SIZE": "크기 조정",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web Remote를 로드할 수 없습니다.",
 	"REMOTE_RETRY": "재시도",
-
 	"TORRENT_PROFILE_DEFAULT": "기본값",
 	"TORRENT_PROFILE_SOFT": "저속",
 	"TORRENT_PROFILE_FAST": "고속",
 	"TORRENT_PROFILE_ULTRA_FAST": "초고속",
-
 	"FAQ_001_H1": "Stremio란?",
 	"FAQ_001_P1": "Stremio는 사용하기 쉬운 비디오 엔터테인먼트용으로 설계된 미디어 센터 소프트웨어입니다. Stremio를 사용하면 자신만의 영화, 시리즈, 채널 및 라이브 TV 컬렉션을 구성하고 시청할 수 있습니다.",
 	"FAQ_001_P2": "Stremio는 로컬 디스크와 당사의 애드온 시스템에서 표시되는 콘텐츠를 수집합니다.",
 	"FAQ_001_P3": "관심 있는 새로운 에피소드, 동영상, 영화가 나오면 알려주고 추천 영화도 알려준다.",
-
 	"FAQ_02_H1": "Stremio는 Kodi나 플렉스와 비교했을 때 어떻습니까?",
 	"FAQ_02_P1": "저희는 그 2개의 소프트웨어로부터 영감을 얻고 있습니다. 그러나 우리는 다른 목표를 가지고 있습니다.Stremio는 특히 엔터테인먼트 비디오를 타깃으로 하고 있으며, 매우 사용하기 쉽기 때문에 이를 위한 주류 솔루션이 되기 위해 노력하고 있습니다.",
 	"FAQ_02_P2": "Stremio는 Kodi 및 Plex만큼 커스터마이즈 및 기능이 풍부하지는 않지만, 훨씬 사용하기 쉽습니다. ${1}만 구입하시면 ${2}를 확인하실 수 있습니다. :)",
-
 	"FAQ_03_H1": "Stremio와 Netflix를 비교했을 때 어떻습니까?",
 	"FAQ_03_P1": "마찬가지로 넷플릭스도 우리의 영감 중 하나입니다. Netflix의 유저 익스피리언스를 실현하기 위해 노력하고 있습니다.또, 많은 부가 기능을 갖추고 있습니다. 그러나 가장 중요한 것은 애드온 시스템을 사용하여 라이브러리를 자유롭게 관리하고 새로운 콘텐츠 소스를 추가할 수 있다는 점입니다.",
 	"FAQ_03_P2": "Stremio를 무한히 확장할 수 있으므로 Stremio를 사용할 때 Netflix가 라이선스하기로 결정한 콘텐츠에 제한되지 않습니다. 예를 들어 Stremio를 통해 ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} 및 ${9}Netflix${10} 자체에서 콘텐츠를 시청할 수 있습니다!",
-
 	"FAQ_04_H1": "Stremio와 Flipboard를 비교했을 때 어떻습니까?",
 	"FAQ_04_P1": "우리는 새로운 사람들과 이야기할 때를 제외하고는 그런 질문을 자주 받지 않습니다. :)",
 	"FAQ_04_P2": "Stremio는 기본적으로 비디오용 Flipboard가 되는 콘텐츠 애그리게이터입니다. 이는 Flipboard와 마찬가지로 카탈로그와 새로운 에피소드/새로운 비디오 알림을 제공하는 게시판 섹션에서 매우 잘 드러납니다.",
-
 	"FAQ_05_H1": "Stremio와 Popcorn Time은 어떻게 비교됩니까?",
 	"FAQ_05_P1": "Stremio와 Popcon Time은 비디오 엔터테인먼트 카탈로그를 올바르게 만드는 방법이 많지 않기 때문에 사용자 인터페이스에서 유사합니다. :)",
 	"FAQ_05_P2": "단, Popcon Time은 특정 소스로부터의 스트리밍 토렌트에 초점을 맞추고 있지만 Stremio는 제한되지 않고 콘텐츠 애그리게이터일 뿐 특정 콘텐츠 소스에 얽매이지 않습니다.",
 	"FAQ_05_P3": "또한 기본적으로는 Torrent Addon은 제공되지 않으므로 Stremio는 Popcorn Time의 사용 사례를 공식 기능으로 다루지 않습니다.",
 	"FAQ_05_P4": "또 다른 중요한 차이점은 Popcorn Time은 완전히 오픈 소스인데 반해 Stremio는 부분적으로 오픈 소스 ${1}입니다.",
-
 	"FAQ_06_H1": "영화/시리즈를 추가하시겠습니까?",
 	"FAQ_06_P1": "아니요, 죄송합니다 :( ",
 	"FAQ_06_P2": "다른 대부분의 질문에서 언급했듯이 Stremio는 콘텐츠 자체를 제공하지 않습니다.모든 것은 애드온 시스템을 통해 추가됩니다. 콘텐츠 요청이 있는 경우 플레이어의 “리포트” 버튼을 사용하면 현재 사용 중인 애드온의 작성자에게 이메일을 보낼 수 있습니다.",
-
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
 	"FAQ_08_H1": "X용 애드온을 작성하시겠습니까?",
 	"FAQ_08_P1": "완전히 가능합니다.",
 	"FAQ_08_P2": "애드온에 대한 아이디어가 있으시면 ${1}office@stremio.com${2}로 적어주세요.단, 귀하의 애드온 아이디어가 저작권이나 이용약관을 침해하지 않도록 해 주세요.",
 	"FAQ_08_P3": "현재로서는 FandangoNOW, Filmon.tv 비디오 온 디맨드, Crunchyroll의 애드온입니다.",
-
 	"FAQ_09_H1": "Stremio는 BitTorrent를 사용합니까?",
 	"FAQ_09_P1": "네, Stremio는 스트리밍 프로토콜로 BitTorrent를 지원합니다. Torrent Addon을 사용하거나 Stremio에 .torrent 파일을 드래그 앤 드롭하거나 검색 바에 자석 링크를 붙여 사용할 수 있습니다.",
 	"FAQ_09_P2": "BitTorrent를 사용하는 공식 애드온은 ${1}Vodo${2}뿐이며, 모두 BitTorrent와 함께 배포할 수 있습니다.",
 	"FAQ_09_P3": "저작권 침해를 일으킬 수 있는 서드파티 애드온의 사용은 지원하지 않습니다.",
-
 	"FAQ_10_H1": "Stremio에서 공식 애드온과 함께 볼 수 있는 것은?",
 	"FAQ_10_P1": "기본적으로는 Stremio 자체 내에서 내장 플레이어를 사용하여 Filmon.tv, YouTube 및 Vodo 콘텐츠를 시청할 수 있습니다. 또, Twitch.tv 및 그 외의 몇개의 애드온도 준비되어 있습니다.",
 	"FAQ_10_P2": "이 조합은 다음을 제공합니다.:",
@@ -1286,64 +1163,51 @@
 	"FAQ_10_L3": "Vodo와 함께 하는 독립 영화",
 	"FAQ_10_L4": "Twitch.tv에서 온라인 게임 방송",
 	"FAQ_10_P3": "Guidebox나 Netflix 애드온에는 많은 컨텐츠 소스가 준비되어 있습니다. 이러한 소스는 Stremio 내에서 재생되는 것은 아니지만, 지정된 서비스로 리다이렉트 됩니다. 예를 들어, Guidebox 애드온은 TubiTV나 Crackle과 같은 서비스에서 무료로 스트리밍할 수 있는 영화를 제공합니다.",
-
 	"FAQ_11_H1": "Stremio가 설치되지 않습니다. 어떻게 해야 합니까?",
 	"FAQ_11_P1": "Windows를 사용하는 경우 ${1}설치 프로그램${2}을(를) 사용해 보십시오.",
 	"FAQ_11_P2": "Mac OS X를 사용하는 경우 OS X Mavericks(10.9)보다 오래된 버전은 지원하지 않습니다.",
 	"FAQ_11_P3": "Linux를 사용하시는 경우 현재 64비트(x64) Linux만 지원합니다.",
 	"FAQ_11_P4": "계속 문제를 해결할 수 없는 경우 ${1}Facebook group${2}로 문의해 주십시오.",
-
 	"FAQ_12_H1": "백신프로그램이 바리러스 보고를 하는 이유는 무엇입니까? Stremio는 안전한가요?",
 	"FAQ_12_P1": "Stremio는 ${1}100% clean${2}임을 보증합니다.",
 	"FAQ_12_P2": "인스톨러에 애드웨어가 포함되어 있기 때문에 백신프로그램이 애드웨어로 인식되고 있습니다.",
 	"FAQ_12_P3": "아직 확실하지 않은 경우 ${1}대체 설치${2}을(를) 사용해 보십시오.",
-
 	"FAQ_13_H1": "애드온 제작 방법?",
 	"FAQ_13_P1": "먼저 GitHub에서 ${1}addons system module${2}를 체크할 것을 권장합니다.",
 	"FAQ_13_P2": "이후 ${1}Hello World tutorial${2}를 따르십시오.",
 	"FAQ_13_P3": "프로그래밍 스킬이 없는 경우 ${1}Reddit 커뮤니티${2}에 아이디어를 게시하고 ${3}office@stremio.com${4}에 애드온 아이디어를 문의해 주십시오.",
-
 	"FAQ_14_H1": "애드온은 어떻게 공개됩니까?",
 	"FAQ_14_P1": "애드온과 호스트를 만들고 매니페스트에 <b>endpoint</b>필드를 삽입하면 동작 중인 애드온 주소를 가리키면 애드온은 자동으로 ${1}애드온 카탈로그${2}에 퍼블리시됩니다.",
 	"FAQ_14_P2": "이는 stremio-addons 모듈의 서버 부분이 자동으로 API에 호출하여 애드온을 방송하기 때문입니다. API가 <b>endpoint</b>를 유효한 애드온으로 검증하면 카탈로그에 표시됩니다.",
-
 	"FAQ_15_H1": "브라우저에서 Stremio를 실행할 수 있습니까?",
 	"FAQ_15_P1": "현재로서는 안 되지만 곧 나올겁니다!",
 	"FAQ_15_P2": "알파가 궁금하신 경우 ${1}alpha4.strem.io${2}.을 참조하십시오. 이 알파에서는 스트리밍이 비활성화되어 있습니다. Chrome, Firefox, Opera 및 Edge를 지원합니다.",
-
 	"FAQ_16_H1": "TV로 전송이 작동하지 않습니다./자막이 작동하지 않습니다.",
 	"FAQ_16_P1": "TV로의 캐스팅은 다른 TV 브랜드와 모델 간에 매우 일관성이 없는 DLNA 기술을 사용합니다. 그렇기 때문에 모든 경우에 테스트할 수 있는 것은 아니기 때문에 완벽과는 거리가 멀다. 그럼에도 불구하고 지속적으로 개선 작업을 진행 중이지만 DLNA가 언제 TV에서 정상적으로 작동할지 예상할 수 없습니다.",
 	"FAQ_16_P2": "캐스팅 메뉴에 TV가 표시되지 않는 경우 네트워크 연결을 비활성화했다가 다시 활성화하십시오(Windows에서는 네트워크를 오른쪽 클릭하여 활성화/비활성화를 사용함). 라우터, TV 및 PC를 재시작하십시오",
 	"FAQ_16_P3": "아직 문제가 해결되지 않은 경우 TV 브랜드 및 모델 정보를 ${1}office@stremio.com${2}로 보내주십시오.",
 	"FAQ_16_P4": "그동안은 Chromecast를 매우 잘 지원하거나 단순히 HDMI 케이블로 TV를 PC에 연결하는 것을 권장합니다.",
-
 	"FAQ_17_H1": "Stremio freeze 및/또는 크래시, 어떻게 해야 하나요?",
 	"FAQ_17_P1": "우선, AVG 안티바이러스를 탑재한 Windows 7 을 사용하고 있는 경우는, 그 조합에 문제가 있습니다. 이 문제는 AVG 자체에 있으며, 우리 측에서는 해결할 수 있는 합리적인 방법이 없습니다. 유감스럽게도 예외나 안티바이러스를 비활성화하지 않습니다. 유일한 해결책은 AVG를 다른 것으로 교체하는 것입니다.",
 	"FAQ_17_P2": "그것이 문제가 아니지만 Windows를 사용하고 있다면 최신 서비스 팩으로 업데이트하여 GPU 드라이버를 업데이트/재설치한 후 다시 시도하십시오.",
 	"FAQ_17_P3": "문제가 해결되지 않았거나 Mac 또는 Linux를 사용 중인 경우, 문제의 정확한 세부사항을 ${1}Facebook group${2}로 보고해 주십시오.",
-
 	"FAQ_18_H1": "애드온은 어떻게 만들수 있나요?",
 	"FAQ_18_P1": "먼저 GitHub에서 ${1}addons system module${2}를 체크할 것을 권장합니다.",
 	"FAQ_18_P2": "이후 ${1}Hello World tutorial${2}를 따르십시오.",
 	"FAQ_18_P3": "프로그래밍 스킬이 없는 경우 ${1}Reddit 커뮤니티${2}에 아이디어를 게시하고 ${3}office@stremio.com${4}에 애드온 아이디어를 문의해 주십시오.",
-
 	"FAQ_19_H1": "Stremio가 디스크 공간을 사용하는 이유는 무엇입니까?",
 	"FAQ_19_P1": "Stremio에는 스트리밍하는 비디오 파일을 일시적으로 유지하는 <b>로컬캐시</b>가 있습니다.",
 	"FAQ_19_P2": "이것에는 두 가지 이점이 있습니다.첫째, Stremio는 비디오를 프리 버퍼링하여 스트리밍을 원활하게 할 수 있습니다. 둘째, 비디오를 로컬캐시에 보관하기 때문에 오프라인에서 계속 시청할 수 있습니다.",
 	"FAQ_19_P3": "Stremio의 유지량은 설정 패널의 <b>캐시</b> 설정에 따라 달라집니다. Stremio는 현재 스트리밍되고 있는 비디오의 용량이 이보다 클 경우 스트리밍할 때까지 충분한 스토리지를 할당해야 하는 경우를 제외하고 디스크에 설정된 용량(2GB 등)까지 유지할 수 있습니다.",
-
 	"FAQ_20_H1": "캐시 폴더는 어디에 있습니까?",
 	"FAQ_20_P1": "Windows에서는 설정에서 선택한 드라이브의 stremio 캐시 (예. \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "MacOS에서는 \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "Linux에서는 \"~/.stremio/stremio-cache\" 또는 \"~/stremio-cache\"",
-
 	"FAQ_21_H1": "\"Streaming server is not found\" 오류가 표시되는데 어떻게 해야 합니까?",
 	"FAQ_21_P1": "이 오류가 발생하면 다음 중 하나를 의미합니다: ",
 	"FAQ_21_P2": "1) ${1}web version${2}에서 YouTube/BitTorrent 소스로 지원되는 애드온을 사용하려고 합니다. 이 경우 ${3} 당사 웹 사이트 ${4}에서 데스크톱 버전을 설치해야 합니다.",
 	"FAQ_21_P3": "2) Stremio 설치에 문제가 있습니다. 이 경우 웹 사이트 ${2}에서 최신 데스크톱 버전을 다시 설치하십시오. 그래도 문제가 해결되지 않으면 안티바이러스 프로그램 및 방화벽을 비활성화하고 PC를 재시작한 후 다시 시도하십시오. 이 방법으로도 문제가 해결되지 않을 경우 ${3} 당사 Facebook group${4}로 문의해 주십시오",
-
 	"FAQ_22_H1": "iOS에서 대부분의 애드온을 표시/사용할 수 없습니다.",
 	"FAQ_22_P1": "Apple App Store 약관의 제약으로 인해 iOS 어플리케이션은 특정 애드온 세트로만 제한되었습니다.",
 	"FAQ_22_P2": "하지만 안심하세요.향후 iOS용 애드온이 더 늘어날 것입니다.또한 iOS 앱을 Stremio Streaming Server에 연결함으로써 모든 Stremio 애드온을 사용할 수 있는 통합을 추가할 수도 있습니다."
-
 }
