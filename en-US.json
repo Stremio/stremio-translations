@@ -17,6 +17,10 @@
 	"MORE": "More",
 	"DONE": "Done",
 	"COPY": "Copy",
+	
+	"CASTING_MODE_HLSV2": "Default",
+	"CASTING_MODE_VLC": "libVLC",
+	"CASTING_MODE_NO_TRANSCODING": "No transcoding",
 
 	"Discover": "Discover",
 	"Board": "Board",
