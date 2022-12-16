@@ -77,6 +77,10 @@
 	"METADATA": "Metadata",
 	"CATEGORY": "category",
 
+	"LINKS_GENRES": "Genres",
+	"LINKS_CAST": "Cast",
+	"LINKS_DIRECTORS": "Directors",
+
 	"SEARCH_VIDEOS": "search videos",
 	"SEARCH_PLACEHOLDER": "search or paste URL",
 
