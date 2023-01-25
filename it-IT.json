@@ -1329,7 +1329,7 @@
 	"FAQ_21_P1": "If you get this error, it means one of few things:",
 	"FAQ_21_P2": "1) You are trying to use an addon backed by YouTube/BitTorrent source, through our ${1}web version${2}. In this case, you should install our desktop version from ${3}our website${4}.",
 	"FAQ_21_P3": "2) Something is wrong with your Stremio installation. In this case, try re-installing our latest desktop version from ${1}the website${2}. If this does not help, try disabling anti-virus programs and firewalls, restarting your PC and trying again. If this does not work too, please write us at our ${3}our Facebook group${4}.",
-	"FAQ_22_H1": "I cannot see/use most addons on iOS",
+	"FAQ_22_H1": "Non posso vedere/usare parecchi addons su iOS",
 	"FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of addons.",
 	"FAQ_22_P2": "But rest assured - there will be more addons for iOS in the future, and we may also add an integration that will allow you to use all Stremio addons thanks to connecting the iOS app to the Stremio Streaming Server."
 }
