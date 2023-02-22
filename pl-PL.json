@@ -999,7 +999,7 @@
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Nothing works, help me!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Are you sure you have installed addons? If yes, check with our ${1}help center${2}.",
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "How does Stremio sustain it's development operations?",
-	"WEBSITE_MAINPAGE_FAQ_015_P1": "We run non-intrusive ads through ${1}AdEx${2}, which is a company by the same founding team that focuses on privacy preserving, transparent ads.",
+	"WEBSITE_MAINPAGE_FAQ_015_P1": "We run non-intrusive ads occassionally, but we're considering moving to a donation model.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "For more questions, go to our ${1}help center${2}.",
 	"HELP_LEARN_MORE": "Help us learn more about you.",
 	"LIFESTYLE": "Styl życia",
