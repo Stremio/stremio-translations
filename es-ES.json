@@ -999,7 +999,7 @@
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "¡No funciona nada, ayuda!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "¿Estás seguro de que has instalado los complementos? Si la respuesta es sí, dirigete a nuestro ${1}centro de ayuda${2}.",
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "¿Cómo mantiene Stremio los costes de desarrollo?",
-	"WEBSITE_MAINPAGE_FAQ_015_P1": "Usamos anuncios no intrusivos gracias a ${1}AdEx${2}, la cual es una compañía de los mismos miembros fundadores y también enfocada en salvaguardar la privacidad y con anuncios no intrusivos.",
+	"WEBSITE_MAINPAGE_FAQ_015_P1": "Ocasionalmente publicamos anuncios no intrusivos, pero estamos considerando pasar a un modelo de donación.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Si tienes más preguntas, visita nuestro ${1}centro de ayuda${2}.",
 	"HELP_LEARN_MORE": "Ayúdanos a saber más de ti.",
 	"LIFESTYLE": "Estilo de vida",

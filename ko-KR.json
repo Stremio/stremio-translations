@@ -999,7 +999,7 @@
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "아무것도 작동하지 않습니다.도와주세요!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "애드온을 설치하시겠습니까? 확인하신 경우 ${1}헬프센터${2}에 문의해 주십시오.",
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio는 어떻게 개발 작업을 유지합니까?",
-	"WEBSITE_MAINPAGE_FAQ_015_P1": "저희는 ${1}Ad를 통해 비침입적 광고를 내보냅니다.Ex${2}는 프라이버시 보호, 투명한 광고에 초점을 맞춘 동일한 창립팀의 회사이다.",
+	"WEBSITE_MAINPAGE_FAQ_015_P1": "간헐적으로 방해가 되지 않는 광고를 실행하지만 기부 모델로 전환하는 것을 고려하고 있습니다.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "자세한 내용은 ${1}헬프센터 ${2}를 참조하십시오.",
 	"HELP_LEARN_MORE": "고객에 대해 자세히 알아보겠습니다.",
 	"LIFESTYLE": "라이프스타일",

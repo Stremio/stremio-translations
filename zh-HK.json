@@ -999,7 +999,7 @@
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "什麼都不能用，幫幫我！",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "您確定已安裝插件嗎？如果是，請與我們的${1}幫助中心${2}聯繫",
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio如何維持其開發運營？",
-	"WEBSITE_MAINPAGE_FAQ_015_P1": "我們通過${1}AdEx${2}運行非侵入性廣吿，這是一家由同一創始團隊創建的公司，專注於隱私保護、透明廣吿。",
+	"WEBSITE_MAINPAGE_FAQ_015_P1": "We run non-intrusive ads occassionally, but we're considering moving to a donation model.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "有關更多問題，請訪問我們的${1}幫助中心${2}。",
 	"HELP_LEARN_MORE": "幫助我們瞭解更多有關您的信息。",
 	"LIFESTYLE": "生活方式",
