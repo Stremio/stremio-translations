@@ -560,6 +560,7 @@
 	"MOBILE_DELETE_ACCOUNT_DIALOG_TITLE": "Confirm Account Deletion",
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Your account has been created using Facebook. To delete your account, please use our user portal at www.stremio.com.",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Please provide your password to confirm account deletion.",
+	"MOBILE_DELETE_ACCOUNT_BUTTON": "Delete Account",
 
 	"NAVIGATION_ON": "On",
 	"NAVIGATION_OFF": "Off",
