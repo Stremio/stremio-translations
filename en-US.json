@@ -396,6 +396,8 @@
 	"BUTTON_SEE_ALL": "See All",
 	"BUTTON_COLOR_TRANSPARENT": "Transparent",
 
+	"OPEN_IN_BROWSER": "Open in browser",
+
 	"LIB_EMPTY": "Your library looks empty. Find out how useful it is :) ",
 	"HOW_START": "Here is how you can start:",
 	"LIB_EMPTY_CAL": "Your Calendar shows series in your Library.",
