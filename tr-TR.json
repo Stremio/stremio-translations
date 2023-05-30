@@ -4,48 +4,39 @@
 	"TYPE_tv": "TV kanalı",
 	"TYPE_channel": "Kanal",
 	"TYPE_other": "Diğer",
-	
 	"TYPE_movie_PL": "Filmler",
 	"TYPE_series_PL": "Diziler",
 	"TYPE_tv_PL": "TV kanalları",
 	"TYPE_channel_PL": "Kanallar",
 	"TYPE_other_PL": "Diğer",
 	"TYPE_ALL": "Tümü",
-	
 	"VIDEO": "Görüntü",
-	
 	"BACK": "Geri",
 	"MORE": "Daha fazla",
 	"DONE": "Bitti",
 	"COPY": "Kopyala",
 	"SUCCESS": "Başarılı",
 	"ERROR": "Hata",
-	
 	"SETTINGS_CASTING_MODE_PICKER": "Yayın modu",
 	"CASTING_MODE_HLSV2": "Varsayılan",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Kod dönüştürme yok",
-	
 	"Discover": "Keşfet",
 	"Board": "Pano",
 	"Library": "Kitaplık",
 	"My Library": "Kitaplığım",
 	"Calendar": "Takvim",
-	
 	"NOTIFICATION_ONLINE": "Şu an çevrimiçisiniz",
 	"NOTIFICATION_OFFLINE": "Şu anda çevrimdışısınız",
 	"INTERNET_CONNECTION": "Ağ bağlantısı",
-	
 	"STORAGE_FULL_TITLE": "Dikkat: Depolama dolu!",
 	"STORAGE_FULL_TEXT": "Stremio, ayarlarınızı, tercihlerinizi veya oturum açma bilgilerinizi kaydedemeyecektir. Stremio'yu yeniden başlatmayı veya yeniden yüklemeyi düşünün.",
-	
 	"SEARCH": "ara",
 	"SEARCH_NO_RESULTS": "Sonuçlar bulunamadı",
 	"SEARCH_EXPLANATION_CONTENT": "Filmler, diziler, YouTube ve TV kanallarını arayın",
 	"SEARCH_EXPLANATION_PEOPLE": "Aktörler, yönetmenler, yazarları arayın",
 	"SEARCH_PASTE_LINKS": "HTTP ve Magnet bağlantılarını yapıştırın",
 	"SEARCH_OR_PASTE_LINK": "Arayın ya da bağlantıyı yapıştırın",
-	
 	"ADD_TO_LIB": "Kitaplığa Ekle",
 	"REMOVE_FROM_LIB": "Kitaplıktan Kaldır",
 	"ADDED_TO_LIB": "Kitaplığa Eklendi",
@@ -56,7 +47,6 @@
 	"SHOW": "Göster",
 	"SHOW_MOVIE": "Filmi Göster",
 	"WATCH_RANDOM": "Rastgele İzle",
-	
 	"IMDB_RATING": "IMDB Puanı",
 	"YEAR": "Yıl",
 	"DIRECTOR": "Yönetmen",
@@ -78,17 +68,14 @@
 	"FEATURED": "Öne çıkanlar",
 	"METADATA": "Üstveri",
 	"CATEGORY": "kategori",
-	
 	"LINKS_GENRES": "Tarzlar",
 	"LINKS_CAST": "Oyuncular",
 	"LINKS_DIRECTORS": "Yönetmenler",
-	
 	"SEARCH_VIDEOS": "görüntüleri arayın",
 	"SEARCH_PLACEHOLDER": "arayın veya URL yapıştırın",
-	
 	"ADDON": "eklenti",
 	"ADDONS": "Eklentiler",
-	"OFFICIAL": "resmi",	
+	"OFFICIAL": "resmi",
 	"ADDONS_OFFICIAL": "Resmi Stremio Eklentileri",
 	"ADDONS_POPULAR": "Bölgenizde beğenilen",
 	"ADDON_FREE": "ücretsiz",
@@ -119,7 +106,6 @@
 	"SETTINGS_DATA_EXPORT": "Kullanıcı verilerini dışa aktar",
 	"ADDON_PULL_FAILED": "Yüklü eklentilerin hesabınızdan eşitlenmesi başarısız oldu",
 	"REFRESH_ON_CLICK": "Yeniden denemek için tıklayın",
-	
 	"STILL_IN_THEATER": "Film hala gösterimde",
 	"WATCH_IN_CINEMA": "Yerel sinemanızda izleyin",
 	"IN_THEATER": "Sinemada",
@@ -131,12 +117,10 @@
 	"CHANNEL_NOT_SCRAPED": "Bu kanal henüz uygun değil.<br>Lütfen birkaç dakika içinde yine geri gelin.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Mevcut olduğunda bildirim almak için kitaplığınıza ekleyin.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Mevcut olduğunda bilgilendirileceksiniz.",
-	
 	"WARNING_STREAMING_SERVER": "Uyarı: yerel akış sunucusu bulunamadı. Yerel dosyalardan, YouTube ve BitTorrent'den akış kullanılamayacaktır.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Vazgeç",
 	"WARNING_STREAMING_SERVER_LATER": "Sonra",
 	"DECODER_WARNING": "Uyarı: bu görüntü, donanımınız tarafından desteklenmiyor olabilir. Oynatma yavaş olabilir, unutmayın.",
-	
 	"PLAYER_ERROR": "Eyvah, Oynatıcı Hatası",
 	"PLAYER_ERROR_LOOKSLIKE": "Benzediği durum",
 	"PLAYER_ORIENTATION": "Oynatıcı yönü",
@@ -164,16 +148,12 @@
 	"PLAYER_UNMUTE": "Sesi Aç",
 	"PLAYER_OPEN_IN_EXTERNAL": "Harici oynatıcıda aç",
 	"PLAYER_PLAY_IN": "{{device}} içinde oynat",
-	
 	"PLAYER_LIVE": "Canlı",
-	
 	"PLAYER_NEXT_VIDEO_TITLE": "Sıradaki gelen",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Vazgeç",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Şimdi izle",
-	
 	"PLAYER_COPY_STREAM_SUCCESS": "Akış bağlantısı panonuza kopyalandı",
 	"PLAYER_COPY_STREAM_ERROR": "Akış bağlantısını kopyalama başarısız",
-	
 	"STREAMING_FROM": "yayının geldiği yer",
 	"CASTING_TO": "Yayınlandığı yer",
 	"NETWORK_STATUS": "Ağ durumu",
@@ -184,24 +164,18 @@
 	"PEERS_CONNECTED": "Bağlandı:",
 	"PEERS_WAITING": "Bekleniyor:",
 	"TRANSCODING_WARNING": "Uyarı: görüntü kodu dönüştürülüyor.",
-	
 	"STREAM_LOADING": "yükleniyor...",
 	"PLAYING_LOCAL": "yerel dosyadan oynatılıyor",
 	"PLAYING_CACHE": "önbellekten oynatılıyor",
-	
 	"WRONG_SUBS": "Altyazı yanlış mı?",
 	"ERR_SUBS_LOADING_TITLE": "Altyazı yüklenirken hata oldu",
 	"ERR_SUBS_LOADING": "Altyazıları yükleme başarısız: bu kullandığınız eklenti ya da ağ bağlantınız ile ilgili bir sorun olabilir",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Aşağıdaki altyazı eklentileri başarısız oldu",
 	"ERR_CASTING_UPDATE_TITLE": "Yayınlama cihazı bilgisi güncellenemedi: akış sunucusu çevrimdışı olabilir",
-	
 	"CHOOSE_DEVICE": "İzleyeceğiniz bir cihaz seçin",
 	"NO_CAST_DEVICES": "Kullanılabilir yayınlama cihazları yok.",
-	
 	"NO_SETTINGS": "Kullanılabilir ayarlar yok.",
-	
 	"PHONE_TABLET": "Telefon / Tablet",
-	
 	"SUBTITLES": "Altyazılar",
 	"SUBTITLES_CHANGE": "Altyazıyı şunun için değiştir: ",
 	"SUBTITLES_CHANGE_NONE": "Bu dil için başka altyazı yok, üzgünüz.",
@@ -214,16 +188,12 @@
 	"SUBTITLES_LOADING": "Altyazılar yükleniyor...",
 	"SUBTITLES_UNAVAILABLE": "Kullanılabilir harici altyazı yok",
 	"SUBTITLES_DISABLED": "Etkisizleştirildi",
-	
 	"AUDIO": "Ses",
-	
 	"DEFAULT_LANGUAGE": "Varsayılan Dil",
 	"DEFAULT_SECONDARY_LANGUAGE": "Varsayılan İkincil Dil",
-	
 	"SEASON": "Sezon",
 	"EPISODE": "Bölüm",
 	"SPECIAL": "Özel",
-	
 	"SORT": "sırala",
 	"SORT_BY": "Sıralama şekli",
 	"FILTER": "süz",
@@ -241,31 +211,25 @@
 	"SORT_LASTWATCHED": "Son izlenmeye göre",
 	"SORT_NAME": "Ada göre",
 	"SORT_TIMESWATCHED": "İzlenme sayısına göre",
-	
 	"New for You": "Sizin için Yeni",
 	"New Episodes": "Yeni Bölümler",
 	"New Videos": "Yeni Görüntüler",
 	"Recommendations": "Önerilenler",
-	
 	"LIBRARY_RESUME": "Devam",
 	"LIBRARY_PLAY": "Oynat",
 	"LIBRARY_DETAILS": "Ayrıntılar",
 	"LIBRARY_RESUME_DISMISS": "Vazgeç",
 	"LIBRARY_CLEAR_PROGRESS": "İlerlemeyi Temizle",
 	"LIBRARY_REMOVE": "Kaldır",
-
 	"LIBRARY_NOT_LOGGED_IN": "Kitaplık yalnızca oturum açmış kullanıcılar tarafından kullanılabilir",
 	"CALENDAR_NOT_LOGGED_IN": "Takvim yalnızca oturum açmış kullanıcılar tarafından kullanılabilir",
 	"NOT_LOGGED_IN_CLOUD": "En sevdiğiniz filmlere ve TV programlarına istediğiniz zaman, istediğiniz yerden erişin",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Görüntüleme geçmişinize göre uyarlanmış öneriler",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Bir daha asla bir bölümü kaçırmayın",
 	"NOT_LOGGED_IN_CALENDAR": "Kişisel izleme takviminizi planlayın",
-	
 	"DISCOVER_FEATURED": "Öne Çıkanlar",
-	
 	"DISCOVER_TOP": "En İyiler",
 	"DISCOVER_OSCAR": "Oscar Kazananlar",
-	
 	"DISCOVER_WARNING_TITLE": "Eyvah!",
 	"DISCOVER_EMPTY_CATALOG": "Bu eklenti boş içerik döndürdü.",
 	"DISCOVER_ADULT_WARNING": "Bu içerik yalnızca yetişkinler için görünürdür. 18 yaşından büyük müsünüz?",
@@ -274,12 +238,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Bu içerik artık mevcut değil, eklentiyi kaldırmış olabilirsiniz.",
 	"UNINSTALL_THIS_ADDON": "Bu eklentiyi kaldır",
 	"ERR_ADDON_NOT_INSTALLED": "Bu eklenti yüklü değil. Şimdi yüklensin mi?",
-	
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Yeni bölümler için bildirim alın",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Yeni görüntüler için bildirim alın",
-	
 	"SIDEBAR_SHOW_STREAMS": "Akışları Göster",
-	
 	"RELAUNCH": "Şimdi yeniden başlat!",
 	"UPGRADE": "Yeni sürüm mevcut! En son Stremio sürümüne yükseltin",
 	"RELOAD_UI": "Kullanıcı arayüzünü yeniden yükleyin",
@@ -288,7 +249,6 @@
 	"MANUAL_UPDATE_LINE2": "Lütfen en kısa sürede güncelleyin.",
 	"BUTTON_UPDATE_LATTER": "Şimdi değil",
 	"BUTTON_UPDATE_NOW": "Güncelle",
-	
 	"ANONYMOUS_USER": "İsimsiz kullanıcı",
 	"DONT_HAVE_ACC": "Bir hesabınız yok mu?",
 	"HAVE_ACC": "Zaten bir hesabınız var mı?",
@@ -337,20 +297,16 @@
 	"SEARCH_FAILED": "Arama başarısız oldu",
 	"EMAIL_USED": "Bu e-posta zaten kullanımda.",
 	"WAITING_FB_LOGIN": "Facebook ile oturum açılıyor...",
-	
 	"EXTERNAL_PLAYER_TITLE": "Harici oynatıcıda oynat",
 	"EXTERNAL_REMEMBER_PLAYER": "Seçiminizi hatırlamak ister misiniz",
 	"EXTERNAL_ALWAYS_PLAY": "Evet",
 	"EXTERNAL_ONLY_ONCE": "Hayır",
-	
 	"BEST_FIT": "En Uygun",
 	"FIT_SCREEN": "Ekrana Sığdır",
 	"FILL": "Doldur",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Orijinal",
-	
-	
 	"INTRO_TASTE": "Bize nelerden hoşlandığınızı söyleyin",
 	"INTRO_TASTE_LONG": "Bize ne izlemek istediğinizi söyleyin",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} ilgi alanı seçin",
@@ -374,7 +330,6 @@
 	"INTRO_TASTE_DIY": "Nasıl Kendin Yaparsın",
 	"INTRO_TASTE_TECH": "Teknoloji",
 	"INTRO_TASTE_CINEMA": "Sinema",
-	
 	"ADDON_NOT_SUPPORTED": "Seçilen eklenti bu platformda desteklenmiyor.",
 	"ADDON_DISCLAIMER": "Üçüncü taraf eklentileri kullanmak her zaman sizin sorumluluğunuza ve bulunduğunuz yargı bölgesinin geçerli yasasına tabi olacaktır.",
 	"ADDON_ACTIVATE": "Bu eklenti etkinleştirilsin mi?",
@@ -383,9 +338,7 @@
 	"ADD_ADDON": "Eklenti ekle",
 	"ADD_ADDON_DESCRIPTION": "Yüklü eklentiler altında görünecek harici bir bağlantı aracılığıyla bir eklenti ekleyebilirsiniz.",
 	"PASTE_ADDON_URL": "Eklenti URL'sini yapıştır",
-	
 	"WHATS_NEW": "Yeni neler var",
-	
 	"BUTTON_CONTINUE": "Devam",
 	"BUTTON_ACTIVATE": "Etkinleştir",
 	"BUTTON_ACTIVATED": "Etkinleştirildi",
@@ -395,9 +348,7 @@
 	"BUTTON_VIEW_ALL": "tümünü görüntüle",
 	"BUTTON_SEE_ALL": "Tümünü Gör",
 	"BUTTON_COLOR_TRANSPARENT": "Şeffaf",
-
 	"OPEN_IN_BROWSER": "Tarayıcıda aç",
-	
 	"LIB_EMPTY": "Kitaplığınız boş görünüyor. Ne kadar kullanışlı olduğunu öğrenin :) ",
 	"HOW_START": "İşte nasıl başlayabileceğiniz:",
 	"LIB_EMPTY_CAL": "Takviminiz, Kitaplığınızdaki dizileri gösterir.",
@@ -422,14 +373,11 @@
 	"LIB_EMPTY_ALL": "Tüm bunları almak için kaydolun:",
 	"LIB_EMPTY_BEST": "Stremio'dan en iyi şekilde yararlanmak için kaydolun",
 	"LIB_EMPTY_OTHER": "Takvim ve diğer harika özellikleri etkinleştirmek için kaydolun",
-	
 	"CALENDAR_ADDED": "Stremio takvimi, varsayılan masaüstü takviminize eklendi.",
 	"CALENDAR_ADDED_MSG": "Eğer bu işe yaramazsa, lütfen bu URL'yi takvim uygulamanıza el ile ekleyin",
-	
 	"TRAKT_EXPIRED": "Trakt kimlik doğrulamasının süresi doldu, lütfen Ayarlar'a gidin ve yeniden kimlik doğrulaması yapın",
 	"TRAKT_REQUIRES_LOGIN": "Trakt hatası",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Oturum açmanız gerekli",
-	
 	"SETTINGS_LABEL": "Ayarlar",
 	"SETTINGS_NAV_GENERAL": "Genel",
 	"SETTINGS_NAV_PLAYER": "Oynatıcı",
@@ -540,7 +488,6 @@
 	"SETTINGS_HW_ACCELERATED": "Kod çözme hızlandırması",
 	"SETTINGS_HW_FULL": "Tam hızlandırma",
 	"SETTINGS_HW_LEGACY": "Eski",
-	
 	"SETTINGS_SECTION_SUBTITLES": "Altyazılar",
 	"SETTINGS_SECTION_AUDIO": "Ses",
 	"SETTINGS_SECTION_CONTROLS": "Denetimler",
@@ -553,7 +500,6 @@
 	"SUBSPICKER_SIZE": "Boyut",
 	"SUBSPICKER_DELAY": "Gecikme",
 	"SUBSPICKER_EMBEDDED_SUBS": "Gömülü Altyazılar",
-	
 	"MOBILE_PRIVACY_POLICY": "Gizlilik İlkesi",
 	"MOBILE_CRASH_REPORTING": "Çökme Bildirimi",
 	"MOBILE_ZOOM_TO_FILL": "Ekranı Doldurmak için Yakınlaştır",
@@ -587,16 +533,10 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Hesabınız Facebook kullanılarak oluşturuldu. Hesabınızı silmek için lütfen www.stremio.com/login adresindeki kullanıcı portalımızı kullanın.",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Hesap silme işlemini onaylamak için lütfen parolanızı girin.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "Hesabı Sil",
-	
 	"NAVIGATION_ON": "Açık",
 	"NAVIGATION_OFF": "Kapalı",
-	
 	"MARKETING_AGREE": "Stremio'dan pazarlama haberleri almayı kabul ediyorum",
-	
-	
-	
 	"QUIT": "Çıkış",
-	
 	"CONNECTED": "Bağlandı",
 	"AUTHENTICATE": "Kimlik Doğrula",
 	"CACHING": "Önbellekleme",
@@ -607,7 +547,6 @@
 	"TORRENT_PROFILE": "Torrent Profili",
 	"DATA_CACHING": "Veri Önbellekleme",
 	"MAGNET_PARSING": "Magnet bağlantısı ayrıştırılıyor",
-	
 	"January": "Ocak",
 	"February": "Şubat",
 	"March": "Mart",
@@ -620,7 +559,6 @@
 	"October": "Ekim",
 	"November": "Kasım",
 	"December": "Aralık",
-	
 	"Monday": "Pazartesi",
 	"Tuesday": "Salı",
 	"Wednesday": "Çarşamba",
@@ -628,7 +566,6 @@
 	"Friday": "Cuma",
 	"Saturday": "Cumartesi",
 	"Sunday": "Pazar",
-	
 	"Action": "Aksiyon",
 	"Comedy": "Komedi",
 	"War": "Savaş",
@@ -704,7 +641,6 @@
 	"Science Radio": "Bilim Radyosu",
 	"Tech Radio": "Teknoloji Radyosu",
 	"Science & Technology Vod": "Bilim ve Teknoloji Seç-İzle",
-	
 	"new video": "yeni görüntü",
 	"new episode": "yeni bölüm",
 	"new movie": "yeni film",
@@ -713,7 +649,6 @@
 	"offer of the day": "günün teklifi",
 	"news": "haberler",
 	"music video": "klip",
-	
 	"CTX_SHOW_HOTKEYS": "Kısayol tuşlarını göster",
 	"CTX_DISMISS_NOTIF": "Bildirimleri yoksay",
 	"CTX_DISMISS_ALL": "Tümünü yoksay",
@@ -754,7 +689,6 @@
 	"CTX_PASTE": "Yapıştır",
 	"CTX_CLEAR": "Temizle",
 	"CTX_CLEAR_RECENT_SEARCHES": "Son arananları temizle",
-	
 	"HELLO_THERE": "Merhaba",
 	"HOPE_YOU_ENJOY": "Stremio'dan keyif aldığınızı ve şimdiden en sevdiğiniz uygulamalardan biri olduğunu umuyoruz!",
 	"WHO_ARE_WE": "Biz kimiz? Biz bunun arkasındaki takımız - bu ürünü daha iyi ve daha iyi hale getirmek için son 3 yıldır her gün çok çalışan iki adamız.",
@@ -762,9 +696,7 @@
 	"SPREAD_THE_WORD": "Hemen arkadaşlarınızla paylaşın, Stremio'yu herkese duyurun",
 	"MORE_PEOPLE": "Stremio'yu ne kadar çok kişi kullanırsa, o kadar iyi olacaktır!",
 	"SEND_A_LINK": "Veya web sitemize bir bağlantı gönderin",
-	
 	"TIP_LOCALFILES": "İpucu: yerel görüntü dosyalarınızı Stremio'ya sürükleyip bırakabilirsiniz",
-	
 	"ADDON_MY": "Eklentilerim",
 	"ADDON_COMMUNITY": "Topluluk Eklentileri",
 	"ADDON_OFFICIAL": "Resmi Eklentiler",
@@ -795,7 +727,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "ÜCRETSİZ #{types} izleyin",
 	"ADDON_PROVIDES_SUBTITLES": "#{types} için altyazılar",
 	"ADDON_CANTDETECT": "Çalışan bir Stremio algılayamadık, bu yüzden hangi eklentileri yüklediğinizi tespit edemedik.",
-	
 	"ERR_NO_META": "Hiçbir bilgi bulunamayan konu ",
 	"ERR_GETTING_META": "Bu konuda bilgi alınırken hata oldu.",
 	"ERR_CANT_PARSE_MAGNET": "Magnet ayrıştırılamıyor",
@@ -809,12 +740,10 @@
 	"ERR_CLIPBOARD": "Panodan oynatılamıyor",
 	"ERR_CLIPBOARD_READ": "Bu platformda pano okunamıyor",
 	"ERR_CLIPBOARD_GENERIC": "Panoda oynatılabilir URL bulunamadı. Lütfen bir görüntü için URL'yi (örn. bir magnet bağlantısı) kopyalayın.",
-	
 	"BOARD_CONTINUE_WATCHING": "İzlemeye devam edin",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmler sizin için özel olarak seçildi.<br />Bu film örnek bir öneridir.",
 	"BOARD_EXPLANATION_EPISODES": "En sevdiğiniz Dizilerin yeni bölümleri buraya gelir.<br />Takip ettiğiniz dizileri Kitaplığınıza ekleyin.",
 	"BOARD_EXPLANATION_VIDEOS": "En sevdiğiniz Kanalların yeni bölümleri buraya gelir.<br />Takip ettiğiniz YouTube kanallarını Kitaplığınıza ekleyin.",
-	
 	"WEBSITE_SLOGAN_WATCH": "Anında İzleyin",
 	"WEBSITE_SLOGAN_ALL": "Keyif Aldığınız Tüm Görüntü İçeriği Tek Bir Yerde",
 	"WEBSITE_SLOGAN_NEW": "Tüm İzleyebileceğiniz",
@@ -831,44 +760,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Eklenti Oluşur",
 	"WEBSITE_PAGE_CONTACTS": "İletişim",
 	"WEBSITE_PAGE_BLOG": "Blog",
-	
 	"WEBSITE_TYPE_movie": "Filmler",
 	"WEBSITE_TYPE_series_PL": "Diziler",
 	"WEBSITE_TYPE_tv": "Canlı TV",
 	"WEBSITE_TYPE_channel": "Kanallar",
-	
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio, en sevdiğiniz görüntüleri, filmleri, dizileri ve TV kanallarını düzenlemenize ve anında izlemenize yardımcı olan bir uygulamadır.",
-	
 	"WEBSITE_FEATURES_WATCH": "HD olarak Anında İzleyin",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "En sevdiğiniz filmlere, TV Programlarına, görüntülere ve TV kanallarına tıklayın ve oynatın.",
-	
 	"WEBSITE_FEATURES_SUBS": "Otomatik Altyazılar",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio diliniz için eşitlenmiş altyazıları otomatik olarak seçer.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Sıra sende, şef.",
-	
 	"WEBSITE_FEATURES_CAST": "TV ve mobil cihazlarda oynat",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Apple TV, Chromecast, Akıllı TV (DLNA/UPnP) ve mobil cihazlarda yayınlayın.",
-	
 	"WEBSITE_LIB": "Tüm Cihazlarınızda Eşitlenen Kişisel Kitaplığınızın Keyfini Çıkarın",
 	"WEBSITE_LIB_COLLECT": "Stremio'dan toplayın",
 	"WEBSITE_LIB_IMPORT": "Facebook'tan içe aktarın",
 	"WEBSITE_LIB_LOCAL": "Yerel sürücünüzden ekleyin",
-	
 	"WEBSITE_BOARD": "Pano - Bildirimler ve Öneriler için tek durak yeri",
 	"WEBSITE_BOARD_RECOMMEND": "Önerilen TV Programı",
 	"WEBSITE_BOARD_TRENDING": "Çok İzlenen Film",
 	"WEBSITE_BOARD_NEW": "Yeni Görüntü",
 	"WEBSITE_BOARD_EPISODE": "Yeni Bölüm",
-	
 	"WEBSITE_BOARD_1": "İzlemek için ilginç bir şeyler mi arıyorsun? Zevkinize göre öneriler al!",
 	"WEBSITE_BOARD_2": "En sevdiğin TV programında veya YouTube kanalında yeni bir bölüm çıktıkça haberdar ol!",
-	
 	"WEBSITE_BOARD_YOUTUBE": "YouTube kanallarının yeni videoları",
 	"WEBSITE_BOARD_EPISODES": "Takip ettiğiniz dizilerin yeni bölümleri",
-	
-	
 	"WEBSITE_ADDONS": "İçerik Eklentileri",
-	
 	"WEBSITE_TECH_DETAIL": "Teknolojiyi seviyoruz, deli bilimi seviyoruz!\nStremio aşağıdaki açık kaynak teknolojilerini kullanıyor:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js, Stremio'nun iyi bir performans ile herhangi bir video formatını oynatmasına izin verir.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Biz temel projeye katılımcılarıyız",
@@ -876,8 +793,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Proje katılımcılarıyız",
 	"WEBSITE_TECH_LINVODB": "Verilerinizi sağlayan bir veritabanı teknolojisi düzenlenmiştir ve oturum açtığınız her yerde kullanılabilir.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Şirket içi teknoloji",
-	
-	
 	"WEBSITE_CREATE_ADDON": "Kendi eklentinizi oluşturun",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Video içeriği sunan bir hizmetin var mı? Sizin eklenti oluşturarak Stremio'nun özelliklerinden yararlanmanıza yardımcı olacağız.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Stremio Eklentisi Yaratmanın Faydaları",
@@ -888,20 +803,16 @@
 	"WEBSITE_P2P_CONTACT": "İlgilendin mi? <a href='mailto:office@stremio.com'>Bize ulaş</a>manı bekliyoruz.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "İçeriğinizi Stremio ile entegre etmenize yardımcı olmaktan mutluluk duyacağız!",
 	"WEBSITE_P2P": "Bir süre sonra, oyunun adını değiştiren bir teknoloji gelir. Herhangi bir kullanım durumuna uyum sağlamak için mükemmel performans ve çok yönlülük sağlayan P2P video akışı motoru kurmaya zaman ve çaba harcadık.\nDRM özellikli P2P video, talep üzerine veya canlı akış için bize ulaşın.",
-	
-	
 	"WEBSITE_THOUGHTS": "Paylaştığımız düşünceler:",
 	"WEBSITE_SPREAD": "Stremio kelimesini herkese duyurun:",
 	"WEBSITE_CONTACT": "Eğer bizimle iletişime geçmek istiyorsanız, devam edin",
 	"WEBSITE_OPENSOURCE": "Açık kaynak projelerimiz için, bize git",
-	
 	"WEBSITE_BITCOIN": "Bitcoin bağışla:",
 	"WEBSITE_FAQ": "Sıkça sorulan sorular",
 	"WEBSITE_FAQ_SHORT": "SSS",
 	"WEBSITE_QUESTIONS": "Sorular",
 	"WEBSITE_TOS": "Kullanım şartları",
 	"WEBSITE_LEGAL": "Yasal",
-	
 	"WEBSITE_PAGE_ABOUT": "Hakkında",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Ortak ol",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Tamamını İzleyebilirsin",
@@ -920,7 +831,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "Sonsuz genişletilebilir video kataloğu;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Medyanızı düzenlemek için harika özellikler;",
 	"WEBSITE_AS_SEEN_ON": "Görüldüğü gibi",
-	
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "Hakkımızda",
 	"WEBSITE_LINK_TECHNOLOGY": "Teknoloji",
@@ -948,7 +858,6 @@
 	"WEBSITE_WHY_P3": "Hizmetimizi herhangi bir cihazda, istediğiniz zaman kullanabilir ve Stremio'yu ihtiyacınız olan tek video eğlence merkezi haline getirebilirsiniz.",
 	"WEBSITE_TEAM": "TAKIM",
 	"WEBSITE_TEAM_P": "Stremio ekibi küçük ama güçlü: arkadaki 10 kişi ile, X dilinde kod yazıyoruz ve yazılım geliştirme, UI ve UX tasarım, pazarlama ve reklamcılık dahil iş dünyası ve girişimler konularında uzmanlıklar paylaşıyoruz.",
-	
 	"WEBSITE_FEATURES": "Özellikler",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Yeni içeriği kolayca keşfedin",
@@ -964,7 +873,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Birçok farklı kaynaktan video izleyin",
 	"WEBSITE_FEATURES_SOURCES_P": "Tek bir şık, kullanımı kolay uygulama ile birçok farklı sağlayıcıdan elde edilen videonun keyfini çıkarmak için resmi ve topluluk eklentilerini yükleyin.",
 	"WEBSITE_CREATE_AN_ADDON": "Bir eklenti oluşturun",
-	
 	"WEBSITE_FEATURES_SYNC": "Kitaplığınızı farklı cihazlar arasında eşitleyin ve oynatmaya devam edin",
 	"WEBSITE_FEATURES_SYNC_P1": "Tüm cihazlarınıza hesabınızla giriş yapın ve kitaplığınızın, eklentilerinizin, oynatma ve takviminizin senkronize edilmesinin keyfini çıkarın.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Eklentilerle genişletilebilir video kataloğu",
@@ -979,7 +887,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Harici oynatıcıda oynatın",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Torrent dosyasından veya magnet bağlantısından oynatın",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Facebook beğenilerinden veya yerel diskten kitaplığınıza aktarın",
-	
 	"WEBSITE_ADD_ONS": "Eklentiler",
 	"WEBSITE_ADD_ONS_P1": "Stremio'nun sağladığı tüm video içeriği, bir eklenti sistemi aracılığıyla sağlanır - hiçbir içerik veya içerik sağlayıcısı uygulamaya yerleştirilmemiştir.",
 	"WEBSITE_ADD_ONS_P2": "İki eklenti grubu mevcut: resmi eklentiler ve topluluk eklentileri",
@@ -997,7 +904,6 @@
 	"WEBSITE_ADDONS_CREATE": "Eklenti oluşturun",
 	"WEBSITE_ADDONS_CREATE_P1": "İsterseniz kendi eklentinizi geliştirebilirsiniz. Bu şekilde, kendiniz ve topluluğumu içim yeni video içeriklerine erişim verebilir ve dünya çapında milyonlarca kullanıcıdan oluşan yeni bir hedef kitleye ulaşabilirsiniz.",
 	"WEBSITE_ADDONS_START_CREATE": "Başlarken, Stremio eklenti SDK sayfasını ziyaret edin:",
-	
 	"WEBSITE_DOWNLOADS": "İndirmeler",
 	"WEBSITE_DOWNLOADS_P1": "En iyi performans için, Stremio uygulamalarının en güncel sürümünü kullanmanızı öneririz. Bununla birlikte, herhangi bir nedenle daha eski bir sürüm kullanmak istiyorsanız, buradan indirebilirsiniz.",
 	"WEBSITE_DOWNLOADS_FOR_WIN": "Windows için Stremio",
@@ -1008,7 +914,11 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobil için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Steam Deck için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS için Stremio (sınırlı sürüm)",
-	
+	"WEBSITE_DOWNLOAD_SERVICE": "Download Stremio Service",
+	"WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service is a companion app for Stremio 5. We recommend using the latest available version of Stremio Service.",
+	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
+	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
+	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
 	"WEBSITE_CONTRIBUTE": "Katkıda Bulunun",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio platformu, açık kaynak kodludur ve şu anda kaynağı olmayan içerik için kolayca bir eklenti oluşturabilirsiniz.",
 	"WEBSITE_CONTRIBUTE_WHY": "Neden bir eklenti oluşturmalısınız?",
@@ -1026,7 +936,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Farklı dillerde Stremio uygulamalarının keyfini çıkarmak istiyorsanız, gönüllü çevirmenler topluluğumuza katılabilirsiniz. Onlar, Stremio'nun sürümlerini birçok farklı dilde eklememize yardımcı oluyorlar.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Başlamak için sabırsızlanıyor musunuz?",
 	"WEBSITE_TRANSALTE_STREMIO": "Stremio'yu Çevirin",
-	
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Resmi topluluklar",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Büyüyen Stremio topluluğunun bir parçası olun. Bizi sosyal medyada takip edin ve 'Merhaba' demekten çekinmeyin; hayranlarımızı dinlemeyi çok seviyoruz! ",
@@ -1048,7 +957,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Duvar kağıtları",
 	"WEBSITE_COMMUNITY_ART": "Topluluk Sanat Galerisi",
 	"WEBSITE_LINK_ART": "Topluluk sanat galerisi",
-	
 	"WEBSITE_CONTACT_US": "Bize ulaşın",
 	"WEBSITE_CONTACT_US_P1": "Herhangi bir sorunuz, yorum veya önerileriniz varsa, aşağıdaki iletişim formu aracılığıyla bizimle irtibata geçmekten çekinmeyin.",
 	"WEBSITE_CONTACT_US_P2": "Bulgaristan'da bulunduğumuzu unutmayın; bu nedenle, saat dilimi farklılıklarına bağlı olarak yanıt için bir gecikme olabilir.",
@@ -1059,7 +967,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "E-posta adresiniz",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "İletiniz",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "GÖNDER",
-	
 	"WEBSITE_CONTACT_US_Q_1": "Nasıl yüklenir?",
 	"WEBSITE_CONTACT_US_Q_2": "Nasıl kaldırılır?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) Lazanya nasıl yapılır?",
@@ -1069,7 +976,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-	
 	"WEBSITE_TECHNOLOGY": "Teknoloji",
 	"WEBSITE_TECHNOLOGY_P1": "Teknolojiyi ve çılgın bilimi seviyoruz. </br> İşte Stremio'ya güç veren şeyler (hepsi açık kaynaklı).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Geliştirilen en iyi çapraz platformlu yazılım.",
@@ -1085,7 +991,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "ya da",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... topluluk eklentileri oluşturmak için kodlama becerilerinizi kullanabilirsiniz. ",
 	"WEBSITE_TRANSLATE_STREMIO": "Stremio'yu Çevirin",
-	
 	"WEBSITE_404_OH_NO": "Olamaz! Aradığınız sayfa burada değil...",
 	"WEBSITE_GO_HOME": "Girişe git",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Diğer indirmeler",
@@ -1096,56 +1001,40 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Eklenti yarışması",
 	"WEBSITE_LINK_ART_CONTEST": "Sanat yarışması",
 	"WEBSITE_MY_ACCOUNT": "Hesabım",
-	
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Stremio nedir?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio, istediğiniz her şeyi izleme özgürlüğü sunan modern bir medya merkezidir.",
-	
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "Nasıl çalışır?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Stremio'yu cihazınıza yükleyip bir hesap oluşturduktan sonra, yapmanız gereken tek şey eklenti kataloğunu ziyaret etmek ve istediğiniz eklentiyi yüklemektir!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "Bundan sonra, içeriği keşfetmeye başlamak için Keşfet veya Pano bölümlerine gidebilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "Burada ne izleyebilirim?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Çok şey var: Filmler, TV programları, Web kanalları, Spor, TV kanallarını izleyin ya da podcast'leri ve daha fazlasını dinleyin. Eklenti sistemimiz sayesinde çeşitli içeriklere erişebilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio açık kaynaklı mı?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Evet, şu bağlantıları kontrol edebilirsiniz: ${1}masaüstü uygulaması${2} ve ${3}GitHub kuruluşu${4}.",
-	
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio güvenli mi?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Evet, Stremio açık kaynak kodlu bir yazılım olduğundan, kod herkes tarafından denetlenebilir ve kendiniz de kodunu inceleyebilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Mahremiyetime ne dersin?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Kullanıcıların gizliliğine saygı duyuyoruz. Hesabınızı oluşturmak ve senkronize etmek için gerekli minimum temel veri dışında herhangi bir kişisel veri toplamıyoruz.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Ayrıca kayıt sırasında ${1}Misafir modu${2} vardır ve hiçbir veri gerektirmez: Bu modda, arka tarafa çağrı yapılmaz. Ancak, kitaplığınızı cihazlar arasında senkronize edebilmek gibi yararlı özelliklerin ödün vermeniz gerekir.",
-	
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "Televizyonuma yayınlayabilir miyim?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Evet, Chromecast'i destekliyoruz ve hem masaüstü hem de mobil uygulamalardan (Android) yayınlayabilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio'nun kaç eklentisi var?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "2019 sonu itibariyla, 50'nin üzerinde. Daha fazla bilgi için eklenti kataloğumuza bakın.",
-	
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Stremio eklenti kataloğundakinin ötesine genişletilebilir mi?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Evet, şunları kontrol etmelisiniz: ${1}PimpMyStremio${2}, ${3}Reddit toplulukları${4}, ${5}Stremio İndirici${6} vb.",
-	
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio hangi cihazları destekliyor?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac ve Linux için masaüstü uygulamalarımız mevcut. Mobil cihazlar için, Android ve iOS'u destekliyoruz. Ancak iOS'un işlevsellik açısından sınırlı olduğunu unutmayın (çoğu eklentiyi desteklemez).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "NVIDIA Shield ve Amazon Fire Stick gibi Stremio'yu çalıştırabileceğiniz birçok Android tabanlı cihaz var. Ancak bunları resmi olarak desteklemiyoruz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremio'ya bazı içerikler ekleyebilir misiniz?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Üzgünüz, kendimizi hiçbir içeriği sağlamıoruz. Ancak ne kadar çok Stremio eklentisi yüklerseniz, o kadar çok içerik bulabilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio magnet bağlantılarını oynatabilir mi?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Evet. Ayrıca normal HTTP bağlantılarını ve torrent dosyalarını da oynatabilir (sürükleyin ve bırakın).",
-	
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "Bir video indirip çevrimdışı izleyebilir miyim?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Çevrimdışı kullanım gelecek bir özelliktir. Ancak Stremio'nun cihazınızda önbelleklemesine izin verirseniz (ayarlar panelinden) videoyu daha sonra bağlantı olmadan izleyebilirsiniz.",
-	
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Hiçbir şey çalışmıyor, yardım edin!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Eklentileri yüklediğinizden emin misiniz? Cevabınız evetse, ${1}yardım merkezimize${2} danışın.",
-	
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio geliştirme faaliyetlerini nasıl sürdürüyor?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Nadiren rahatsız edici olmayan reklamlar yayınlıyoruz, ancak bir bağış modeline geçmeyi düşünüyoruz.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Daha fazla soru için ${1}yardım merkezimize${2} gidin.",
-	
 	"HELP_LEARN_MORE": "Hakkınızda daha fazla bilgi edinmemize yardımcı olun.",
 	"LIFESTYLE": "Yaşam stili",
 	"SPORTS": "Spor",
@@ -1181,15 +1070,12 @@
 	"LAST_SEARCHES": "Son aramalar",
 	"CLEAR_HISTORY": "Geçmişi temizle",
 	"CHOOSE_SOME": "BUNLARDAN BAZILARINI SEÇİN:",
-	
 	"NO_WEB_REMOTE": "Web Uzaktan Kontrolü yüklenemedi",
 	"STREMIO_OFFLINE": "Stremio çevrimdışı",
 	"STREMIO_EXPENSIVE_CONNECTION": "Mobil veri bağlantısı kullandığınızı algıladık, devam etmek istiyor musunuz?",
 	"USE_DATA": "Veriyi kullan",
 	"WARNING": "Uyarı",
-	
 	"MORE_INFO": "Daha Fazla Bilgi ...",
-	
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Yükleniyor ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Dillere geri dön",
@@ -1260,7 +1146,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_MODAL_EDIT_DESCRIPTION": "Bir yayın akışı sunucusu URL'si girin",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremio'nun Gizlilik İlkesini okumak için şu adresi ziyaret edin:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Stremio'nun Şartlar ve Koşullarını okumak için şu adresi ziyaret edin:",
-	
 	"STREMIO_TV_NAV_SEARCH": "Ara",
 	"STREMIO_TV_NAV_HOME": "Giriş",
 	"STREMIO_TV_NAV_DISCOVER": "Keşfet",
@@ -1271,14 +1156,12 @@
 	"STREMIO_TV_NAV_TV": "Canlı TV",
 	"STREMIO_TV_NAV_SETTINGS": "Ayarlar",
 	"STREMIO_TV_NAV_ADDONS": "Eklentiler",
-	
 	"STREMIO_TV_LOGIN_TITLE": "Hesabı Bağla",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Sona erme tarihi",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Yukarıdaki QR Kodu tarayın veya",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Stremio hesabınıza oturum açın",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Yeni bir bağlantı isteyin",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Oturum açma kodu yenilendi",
-	
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Bir şeyler yazın",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "Kataloglar için herhangi bir eklenti istenmedi!",
 	"STREMIO_TV_SEARCH_BUTTON": "Ara",
@@ -1288,9 +1171,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Geçmişi Temizle",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Başlıklar, Aktörler, Kanallar ve daha fazlasını arayabilirsiniz...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Arama Geçmişini Temizle",
-	
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Aşağıdaki süzgeçlerden birini seçin",
-	
 	"FILTERS": "Süzgeçler",
 	"SETTINGS": "Ayarlar",
 	"ACCOUNT": "Hesap",
@@ -1335,53 +1216,42 @@
 	"REMOTE_ADJUST_SIZE": "Boyutu ayarla",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web Uzaktan Kontrolü yüklenemedi",
 	"REMOTE_RETRY": "Yeniden Dene",
-	
 	"TORRENT_PROFILE_DEFAULT": "Varsayılan",
 	"TORRENT_PROFILE_SOFT": "Yavaş",
 	"TORRENT_PROFILE_FAST": "Hızlı",
 	"TORRENT_PROFILE_ULTRA_FAST": "Çok Hızlı",
-	
 	"FAQ_001_H1": "Stremio nedir?",
 	"FAQ_001_P1": "Stremio, video eğlencesi için kullanım kolaylığı düşüncesiyle tasarlanmış bir medya merkezi yazılımıdır.  Stremio organize etmenize izin verir &amp; kendi film, dizi, kanal ve canlı TV koleksiyonunuzu izleyin.",
 	"FAQ_001_P2": "Stremio, size gösterilen içeriği yerel diskinizden ve eklentiler sisteminden toplar.",
 	"FAQ_001_P3": "İlgilerinize göre yeni bölümler/videolar/filmler çıktığında da sizi uyarır ve size özel film önerileri sunar.",
-	
 	"FAQ_02_H1": "Stremio'nun Kodi ve Plex'ten ne farkı var?",
 	"FAQ_02_P1": "Bu iki yazılımdan ilham aldık. Ancak farklı hedeflerimiz var - Stremio özellikle eğlence videolarını hedef alıyor ve kullanımının çok kolay olması nedeniyle ana çözüm olma yolunu arıyor.",
 	"FAQ_02_P2": "Stremio, Kodi ve Plex kadar özelleştirilebilir ve zengin özellikli olmayacak, ancak kullanımı çok daha kolay. Sadece  ${1} al ve ${2} gör :)",
-	
 	"FAQ_03_H1": "Stremio'nun Netflix'ten farkı nedir?",
 	"FAQ_03_P1": "Yine, Netflix ilham kaynağımızdan biridir. Netflix'in kullanıcı deneyimine ek olarak bir çok eklenti elde etmeye çalışıyoruz.  Ama en önemlisi, kendi kütüphanenizi yönetme ve eklenti sistemimizle yeni içerik kaynaklarını ekleme özgürlüğünü sunuyoruz.",
 	"FAQ_03_P2": "Stremio'yu sınırsız olarak genişletebilirsiniz. Bu nedenle Stremio'yu kullandığınızda, Netflix'in lisansını alabildiği içerikle asla sınırlı kalmazsınız. Örneğin, Stremio aracılığıyla ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} ve hatta ${9}Netflix${10}'in kendisinden içerik izleyebilirsiniz!",
-	
 	"FAQ_04_H1": "Stremio'nun Flipboard'dan farkı nedir?",
 	"FAQ_04_P1": "Bu soruyu sıkça görmüyoruz, yeni başlayanlarla konuşurken hariç :)",
 	"FAQ_04_P2": "Stremio, tasarım gereği videonun Flipboard olmasını sağlayan bir içerik toplayıcısıdır. Bu, Pano bölümünde çok açık bir şekilde görülmektedir; Flipboard gibi takip ettikleriniz için size kataloglar ve yeni bölüm/yeni video bildirimleri sunar.",
-	
 	"FAQ_05_H1": "Stremio'nun Popcorn Time'dan farkı nedir?",
 	"FAQ_05_P1": "Stremio ve Popcorn Time, kullanıcı arabirimi olarak benzer, çünkü video eğlence kataloglarını doğru yapmanın başka bir yolu yok :)",
 	"FAQ_05_P2": "Ancak, Popcorn Time, belirli kaynaklardaki torrentleri akış yapmaya odaklanırken, Stremio sınırsızdır ve yalnızca bir içerik toplayıcısıdır - belirli bir içerik kaynağına kilitlenmez.",
 	"FAQ_05_P3": "Ayrıca, varsayılan olarak herhangi bir torrent eklentisi sağlamıyoruz. Bu nedenle Stremio, resmi işlevselliği olan Popcorn Time kullanım durumunu kapsamamaktadır.",
 	"FAQ_05_P4": "Bir diğer önemli fark ise, Popcorn Zamanı tamamen açık kaynaklı, Stremio ise ${1} kısmen açık kaynaklıdır${2}.",
-	
 	"FAQ_06_H1": "Bu filmi/diziyi ekler misiniz?",
 	"FAQ_06_P1": "Hayır, üzgünüz :(",
 	"FAQ_06_P2": "Diğer sorularda birçok kez belirtildiği gibi, Stremio kendisi tarafından herhangi bir içerik sağlamaz; her şey eklentiler sistemi aracılığıyla eklenir. Bir içerik isteğiniz var ise Oynatıcı içindeki “Sorun bildir” düğmesini kullanabilirsiniz: Bu kullanmakta olduğunuz eklentinin oluşturucusuna bir e-posta gönderecektir.",
-	
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-	
 	"FAQ_08_H1": "X için eklenti oluşturur musunuz?",
 	"FAQ_08_P1": "Bu tamamen mümkündür.",
 	"FAQ_08_P2": "Bir eklenti ile ilgili bir fikriniz varsa, bize ${1}office@stremio.com${2} adresinden birkaç satır yazın, ancak lütfen eklenti fikrinizin herhangi bir telif hakkı veya kullanım şartlarını ihlal etmediğinden emin olun.",
 	"FAQ_08_P3": "Şu anda, yol haritamızda bulunan sonraki şeyler; FandangoNOW, Filmon.tv, talep üzerine video, Crunchyroll için eklenti.",
-	
 	"FAQ_09_H1": "Stremio, BitTorrent kullanıyor mu?",
 	"FAQ_09_P1": "Evet, Stremio bir akış protokolü olarak BitTorrent'i destekliyor. Bunu bir torrent eklentisiyle veya bir .torrent dosyasını Stremio'ya sürükleyip bırakarak ya da Arama Çubuğuna bir magnet bağlantısı yapıştırarak kullanabilirsiniz.",
 	"FAQ_09_P2": "BitTorrent'i kullanan tek resmi eklentinin, indie içerik sağlayan ve tamamının BitTorrent ile dağıtılmasına izin veren ${1}Vodo${2} olduğunu lütfen unutmayın.",
 	"FAQ_09_P3": "Telif hakkı ihlaline neden olabilecek üçüncü taraf eklentilerinin kullanılmasını desteklemiyoruz.",
-	
 	"FAQ_10_H1": "Stremio'da resmi eklentilerle neleri izleyebilirim?",
 	"FAQ_10_P1": "Varsayılan olarak, Filmon.tv, YouTube ve Vodo içeriğini gömülü oynatıcı ile Stremio'nun içinde izleyebilirsiniz. Ayrıca, Twitch.tv ve diğerleri için bir eklentimiz var.",
 	"FAQ_10_P2": "Bu birleştirilmiş bir seçim sağlar:",
@@ -1390,62 +1260,50 @@
 	"FAQ_10_L3": "Vodo ile Indie filmleri",
 	"FAQ_10_L4": "Twitch.tv ile çevrimiçi oyun yayınları",
 	"FAQ_10_P3": "Buna ek olarak, Guidebox ve Netflix eklentileri ile sağlanan, tamamen, Stremio'da <b>oynatılmayan</b>, ancak verilen hizmete yönlendiren birçok içerik kaynağı vardır. Örneğin, Guidebox eklentisi, TubiTV ve Crackle gibi hizmetlerden ABD'de ücretsiz olarak yayın yapabileceğiniz bir film seçimi yapacaktır.",
-	
 	"FAQ_11_H1": "Stremio yüklenmiyor, ne yapabilirim?",
 	"FAQ_11_P1": "Windows kullanıyorsanız,bu ${1}alternatif yükleyiciyi${2} deneyin",
 	"FAQ_11_P2": "Mac OS X kullanıyorsanız, lütfen OS X Mavericks(10.9)'den daha eski hiçbir şeyi desteklemediğimizi unutmayın.",
 	"FAQ_11_P3": "Linux kullanıyorsanız, şu anda yalnızca 64 bit (x64) Linux'u desteklediğimizin farkında olun.",
 	"FAQ_11_P4": "Sorununuzu yine de çözemezseniz, lütfen ${1}Facebook grubumuza${2} yazın.",
-	
 	"FAQ_12_H1": "Antivirüs programım neden uyarı veriyor? Stremio güvenli mi?",
 	"FAQ_12_P1": "Stremio'nun ${1}100% temiz${2} olduğundan emin olun.",
 	"FAQ_12_P2": "Virüsten koruma yazılımınız şikayetçi. Çünkü bazı antivirüs programlarının reklam yazılımı olarak tanıdığı reklamcıyı yükleyicimize dahil ediyoruz.",
 	"FAQ_12_P3": "Hala emin değilseniz, bizim ${1}alternatif yükleyicimizi${2} deneyebilirsiniz.",
-	
 	"FAQ_13_H1": "Nasıl eklenti oluşturabilirim?",
 	"FAQ_13_P1": "Yeni başlayanlar için, GitHub'daki ${1}eklentiler sistemi modülüne${2} göz atmanızı öneririz.",
 	"FAQ_13_P2": "Ardından, ${1}Merhaba dünya dersini${2} takip edebilirsiniz.",
 	"FAQ_13_P3": "Herhangi bir programlama becerisine sahip değilseniz, lütfen fikrinizi bize ${1}Reddit topluluğundan${2} ya da ${3}office@stremio.com${4} adresinden bildirebilirsiniz.",
-	
 	"FAQ_14_H1": "Eklentiler nasıl yayınlanır?",
 	"FAQ_14_P1": "Bir eklenti ve sunucu oluştururken ve bildiriminize çalışan bir eklenti adresini işaret eden bir <b>bitiş noktası</ b> alanı koyduğunuzda, eklenti kendisini  ${1}Eklenti kataloğumuzda${2} otomatik olarak yayınlayacaktır.",
 	"FAQ_14_P2": "Bu durum, stremio-addons modülünün sunucu parçası, eklentiyi duyurmak için API'yı otomatik olarak çağırır.  API'mız, <b>bitiş noktası</ b> değerini geçerli bir eklenti olarak doğruladığında, katalogda gösterilmeye başlayacaktır.",
-	
 	"FAQ_15_H1": "Tarayıcımda Stremio'yu çalıştırabilir miyim?",
 	"FAQ_15_P1": "Şu an değil, ama bu geliyor!",
 	"FAQ_15_P2": "Bir Alfa görmekten hoşlanıyorsanız, burada görebilirsiniz: ${1}alpha4.strem.io${2}. Bu alfa üzerinde akışın devre dışı olduğunu unutmayın. Chrome, Firefox, Opera ve Edge'i destekliyoruz.",
-	
 	"FAQ_16_H1": "TV'ye yayın yapma çalışmıyor/altyazı çalışmıyor",
 	"FAQ_16_P1": "TV'ye yayın yapmak, farklı TV markaları ve modelleri arasında tutarsız olan DLNA teknolojisini kullanıyor. Bu nedenle, her durumda test etme yeteneğine sahip değiliz, bu yüzden mükemmel olmaktan çok uzak. Buna rağmen, sürekli olarak geliştirmeye çalışıyoruz ancak DLNA'nın TV'nizle ne zaman düzgün bir şekilde çalışmaya başlayacağına dair size bir zaman tahmini veremiyoruz.",
 	"FAQ_16_P2": "Yayın yapma menüsünde TV'nizi göremiyorsanız, lütfen yönlendiricinizi, TV'yi ve PC'nizi yeniden başlatmanın yanı sıra ağ bağlantınızı devre dışı bırakmayı ve yeniden etkinleştirmeyi deneyin (Windows'ta, Ağ'a sağ tıklayın ve Etkinleştir/Devre Dışı Bırak'ı kullanın).",
 	"FAQ_16_P3": "Hala bir sorunla karşılaşıyorsanız, TV markanızı ve model bilgilerinizi ${1}office@stremio.com${2} adresine göndererek bize yardımcı olabilirsiniz.",
 	"FAQ_16_P4": "Bu arada, çok iyi desteklediğimiz Chromecast'i öneriyoruz ya da TV'nizi bir HDMI kablosu ile bilgisayarınıza takmanız yeterlidir.",
-	
 	"FAQ_17_H1": "Stremio donuyor ya da çöküyor, ne yapabilirim?",
 	"FAQ_17_P1": "Her şeyden önce, Windows 7'yi AVG anti-virüs ile kullanıyorsanız: bu kombinasyonda bir sorunumuz var. Sorun AVG'nin kendi içindedir ve bizim tarafımızdan çözülmesinin makul bir yolu yoktur. Ne yazık ki, istisnalar veya anti-virüs devre dışı bırakmak işe yaramaz. Tek çözüm, AVG'yi başka bir şeyle değiştirmektir.",
 	"FAQ_17_P2": "Sorun bu değilse de, ancak hala Windows kullanıyorsanız, lütfen en son hizmet paketine güncelleyin ve GPU sürücülerinizi güncelleyin/yeniden yükleyin, sonra tekrar deneyin.",
 	"FAQ_17_P3": "Sorun hala devam ediyorsa veya Mac veya Linux kullanıyorsanız, lütfen sorunun ayrıntılarını bize ${1}Facebook grubumuzdan${2} yazabilirsiniz.",
-	
 	"FAQ_18_H1": "Bir eklentiyi nasıl yapabilirim?",
 	"FAQ_18_P1": "Yeni başlayanlar için, GitHub'daki ${1}eklentiler sistemi modülüne${2} göz atmanızı öneririz.",
 	"FAQ_18_P2": "Ardından, ${1}Merhaba dünya dersini${2} takip edebilirsiniz.",
 	"FAQ_18_P3": "Herhangi bir programlama becerisine sahip değilseniz, lütfen fikrinizi bize ${1}Reddit topluluğundan${2} ya da ${3}office@stremio.com${4} adresinden bildirebilirsiniz.",
-	
 	"FAQ_19_H1": "Stremio neden disk alanı kaplıyor?",
 	"FAQ_19_P1": "Stremio'da aktarılan video dosyalarını geçici olarak saklamak için <b>yerel önbellek</b> vardır.",
 	"FAQ_19_P2": "Bu iki avantaja sahiptir: Birincisi, Stremio'nun akışını daha pürüzsüzleştirmek için videoyu ön yüklemeye olanak tanır. İkincisi, videoları yerel önbellekte tutar, böylece onları çevrimdışı izlemeye devam edebilirsiniz.",
 	"FAQ_19_P3": "Stremio'nun ne kadar yer tuttuğu Ayarlar panelindeki <b>Önbellek</b> ayarına bağlıdır. Şu anda akışlı video bundan daha büyük olmadığı sürece, Stremio diskinizde belirlenen miktara (ör. 2GB) kadar tutabilir, bu durumda onu korumak için yeterli miktarda saklama alanı ayırmanız gerekir.",
-	
 	"FAQ_20_H1": "Önbellek klasörü nerede?",
 	"FAQ_20_P1": "Windows'ta, Ayarlar'da seçtiğiniz sürücüdeki stremio-cache (ör. \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "MacOS'ta, burada \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "Linux'ta, burada \"~/.stremio/stremio-cache\" ya da \"~/stremio-cache\"",
-	
 	"FAQ_21_H1": "\"Akış sunucusu bulunamadı\" hatası alıyorum, ne yapabilirim?",
 	"FAQ_21_P1": "Bu hatayı alırsanız, bu birkaç şeyden biri anlamına gelir:",
 	"FAQ_21_P2": "1) ${1}Web sürümümüz${2} aracılığıyla YouTube / BitTorrent kaynağı tarafından desteklenen bir eklenti kullanmaya çalışıyorsunuz. Bu durumda, ${3}web sitemizden${4} masaüstü sürümümüzü yüklemelisiniz.",
 	"FAQ_21_P3": "2) Stremio kurulumunuzda bir sorun var. Bu durumda, ${1}web sitesinden${2} en yeni masaüstü sürümünü yeniden yüklemeyi deneyin. Bu işe yaramazsa, anti-virüs programları ve güvenlik duvarları devre dışı bırakarak PC'nizi yeniden başlatın ve tekrar deneyin. Bu da işe yaramazsa, lütfen ${3}Facebook grubumuzdan${4} bize yazın.",
-	
 	"FAQ_22_H1": "iOS'ta çoğu eklentiyi göremiyorum/kullanamıyorum",
 	"FAQ_22_P1": "Çünkü, Apple'ın App Store şartlar ve koşullarındaki kısıtlamalar nedeniyle iOS uygulamasını yalnızca belirli bir eklenti grubuyla sınırladık.",
 	"FAQ_22_P2": "Ancak gelecekte iOS için daha fazla eklenti olacak ve ayrıca iOS uygulamasını Stremio akış sunucusuna bağlayarak tüm Stremio eklentilerini kullanmanızı sağlayacak bir entegrasyon da ekleyebiliriz."
