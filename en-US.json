@@ -20,7 +20,7 @@
 	"COPY": "Copy",
 	"SUCCESS": "Success",
 	"ERROR": "Error",
-	
+
 	"SETTINGS_CASTING_MODE_PICKER": "Casting mode",
 	"CASTING_MODE_HLSV2": "Default",
 	"CASTING_MODE_VLC": "libVLC",
@@ -170,7 +170,7 @@
 	"PLAYER_NEXT_VIDEO_TITLE": "Coming up next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Dismiss",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Watch now",
-	
+
 	"PLAYER_COPY_STREAM_SUCCESS": "Stream link was copied to your clipboard",
 	"PLAYER_COPY_STREAM_ERROR": "Failed to copy stream link",
 
@@ -1244,8 +1244,11 @@
 	"STREMIO_TV_PLAYER_SUBTITLES_DELAY": "Subtitles delay",
 	"STREMIO_TV_PLAYER_AUDIO_DELAY": "Audio delay",
 	"STREMIO_TV_PLAYER_VIDEO_SCALING": "Video scaling",
+	"STREMIO_TV_PLAYER_CHAPTERS": "Chapters",
+	"STREMIO_TV_PLAYER_BUTTON_SKIP_CHAPTER": "Skip ${1}",
 	"STREMIO_TV_PLAYER_UNSUPPORTED_STREAM": "Unsupported stream source",
 	"STREMIO_TV_PLAYER_FAILED_EXTERNAL_LINK": "Failed opening external link",
+	"STREMIO_TV_PLAYER_SPEED_NOT_ADJUSTABLE": "Not adjustable in audio passthrough mode",
 	"STREMIO_TV_PLAYER_PLAY_IN_EXO": "Play with ExoPlayer",
 	"STREMIO_TV_PLAYER_PLAY_IN_VLC": "Play with libVLC player",
 	"STREMIO_TV_PLAYER_SWITCH_TO_VLC_DUE_ERROR": "Switching to libVLC player due to a playback error",
@@ -1265,7 +1268,10 @@
 	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK": "Tunnelled Playback",
 	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK_HINT": "Possible playback issues on some devices",
 	"STREMIO_TV_SETTINGS_HW_DECODING_HINT": "Some video formats might not work",
-	"STREMIO_TV_SETTINGS_AUTO_FRAME_RATE": "Auto frame rate matching",
+	"STREMIO_TV_SETTINGS_FRAME_RATE_MATCHING_STRATEGY": "Frame rate matching",
+	"STREMIO_TV_SETTINGS_FRAME_RATE_MATCHING_DISABLED": "Disabled",
+	"STREMIO_TV_SETTINGS_FRAME_RATE_MATCHING_FRAME_RATE_ONLY": "Frame Rate only",
+	"STREMIO_TV_SETTINGS_FRAME_RATE_MATCHING_FRAME_RATE_AND_RESOLUTION": "Frame Rate and Resolution",
 	"STREMIO_TV_SETTINGS_NO_CACHING": "No caching",
 	"STREMIO_TV_SETTINGS_PROFILE_DEFAULT": "Default",
 	"STREMIO_TV_SETTINGS_PROFILE_SOFT": "Soft",
@@ -1277,6 +1283,7 @@
 	"STREMIO_TV_SETTINGS_STREMIO_VERSION": "Stremio version",
 	"STREMIO_TV_SETTINGS_SERVER_MODAL_EDIT_TITLE": "Edit server url",
 	"STREMIO_TV_SETTINGS_SERVER_MODAL_EDIT_DESCRIPTION": "Enter a streaming server url",
+	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Show statistics while loading",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "To read Stremio's Privacy Policy, visit:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "To read Stremio's Terms and Conditions, visit:",
 
