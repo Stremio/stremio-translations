@@ -925,6 +925,8 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
+	"WEBSITE_DOWNLOAD_NEW": "New!",
+	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "We released Stremio Web",
 	"WEBSITE_CONTRIBUTE": "贡献",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio平台是开源的，您可以轻松地为当前没有来源的内容创建一个插件。",
 	"WEBSITE_CONTRIBUTE_WHY": "为什么要创建插件？",
