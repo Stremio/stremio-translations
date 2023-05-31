@@ -924,6 +924,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
+	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Stremio Service for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
 	"WEBSITE_DOWNLOAD_NEW": "New!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "We released Stremio Web",
