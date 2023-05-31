@@ -925,6 +925,8 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
+	"WEBSITE_DOWNLOAD_NEW": "New!",
+	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "We released Stremio Web",
 	"WEBSITE_CONTRIBUTE": "Делать вклад",
 	"WEBSITE_CONTRIBUTE_P1": "Platforma Stremio má otevřený zdrojový kód a můžete snadno vytvořit doplněk pro obsah, který v současné době nemá zdrojový kód.",
 	"WEBSITE_CONTRIBUTE_WHY": "Proč byste si měli vytvořit doplněk?",

@@ -925,6 +925,8 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
+	"WEBSITE_DOWNLOAD_NEW": "New!",
+	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "We released Stremio Web",
 	"WEBSITE_CONTRIBUTE": "Contribuisci",
 	"WEBSITE_CONTRIBUTE_P1": "La piattaforma Stremio è open source e puoi facilmente creare un addon per contenuti al momento non offerti.",
 	"WEBSITE_CONTRIBUTE_WHY": "Perchè dovresti creare un addon?",
