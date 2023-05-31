@@ -924,6 +924,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
+	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
 	"WEBSITE_CONTRIBUTE": "기여",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio 플랫폼은 오픈 소스이며 현재 소싱되지 않은 콘텐츠에 대한 애드온을 쉽게 만들 수 있습니다.",
 	"WEBSITE_CONTRIBUTE_WHY": "애드온을 작성해야 하는 이유?",

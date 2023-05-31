@@ -924,6 +924,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
+	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
 	"WEBSITE_CONTRIBUTE": "貢獻",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio平台是開源的，您可以輕鬆地為當前沒有來源的內容創建一個插件。",
 	"WEBSITE_CONTRIBUTE_WHY": "為什麼要創建插件？",

@@ -924,6 +924,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service For macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service for Linux",
+	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "More Download Options",
 	"WEBSITE_CONTRIBUTE": "Contribuir",
 	"WEBSITE_CONTRIBUTE_P1": "La plataforma Stremio és de codi obert i podeu crear fàcilment un complement per al contingut que actualment no existeix.",
 	"WEBSITE_CONTRIBUTE_WHY": "Per què heu de crear un complement?",
