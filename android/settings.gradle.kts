@@ -1,3 +1,5 @@
+rootProject.name = "stremio-translations"
+
 pluginManagement {
     repositories {
         google()
