@@ -35,7 +35,7 @@ const escape = str => {
 function writeDataClass() {
   const defaultTranslation = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'en-US.json')));
   let stringClass = `package ${packageName}\n\n`;
-  stringClass += 'internal data class Strings(\n';
+  stringClass += 'data class Strings(\n';
   const dedup = deduplicate(defaultTranslation);
   Object.keys(dedup).forEach(key => stringClass += `  val ${key}: String,\n`);
   stringClass += ')';
@@ -58,7 +58,7 @@ function writeTranslations() {
       let stringClass = `package ${packageName}\n\n`;
       stringClass += 'import cafe.adriel.lyricist.LyricistStrings\n\n';
       stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
-      stringClass += `internal val ${langClassName} = Strings(\n`;
+      stringClass += `val ${langClassName} = Strings(\n`;
       const dedup = deduplicate(translations);
       Object.keys(dedup).forEach(key => {
         const value = escape(dedup[key]);
