@@ -12,11 +12,11 @@ fs.mkdirSync(path.join(process.cwd(), stringsPath), { recursive: true });
 const files = fs.readdirSync(process.cwd()).filter(file => /[a-z]{2}-[A-Z]{2}\.json$/g.test(file));
 
 const escape = str => str
-  .replaceAll('\\', '\\\\')
-  .replaceAll('"', '\\"')
-  .replaceAll('\n', '\\n')
-  .replaceAll('%', '%%')
-  .replaceAll(/\${\d+}/gm, '%s');
+  .replace(/\\/g, '\\\\')
+  .replace(/"/g, '\\"')
+  .replace(/\n/g, '\\n')
+  .replace(/%/g, '%%')
+  .replace(/\$\{\d+}/gm, '%s');
 
 function writeDataClass() {
   const defaultTranslation = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'en-US.json')));
@@ -56,7 +56,7 @@ function writeTranslations() {
 }
 
 function toLocaleName(file) {
-  return fileName(file).replaceAll('-', '_').toUpperCase();
+  return fileName(file).replace('-', '_').toUpperCase();
 }
 
 function fileName(file) {
