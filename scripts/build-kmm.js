@@ -35,10 +35,10 @@ const escape = str => {
 function writeDataClass() {
   const defaultTranslation = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'en-US.json')));
   let stringClass = `package ${packageName}\n\n`;
-  stringClass += 'data class Strings(\n';
+  stringClass += 'interface Strings{\n';
   const dedup = deduplicate(defaultTranslation);
-  Object.keys(dedup).forEach(key => stringClass += `  val ${key}: String,\n`);
-  stringClass += ')';
+  Object.keys(dedup).forEach(key => stringClass += `  val ${key}: String\n`);
+  stringClass += '}';
   fs.writeFileSync(path.join(process.cwd(), rootPath, 'Strings.kt'), stringClass);
 }
 
@@ -68,14 +68,15 @@ function writeStrings() {
       const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
       let stringClass = `package ${packageName}\n\n`;
       stringClass += 'import cafe.adriel.lyricist.LyricistStrings\n\n';
-      stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
-      stringClass += `val ${langClassName} = Strings(\n`;
+      stringClass += `class ${langClassName}Class : Strings {\n`;
       const dedup = deduplicate(translations);
       Object.keys(dedup).forEach(key => {
         const value = escape(dedup[key]);
-        stringClass += `  ${key} = "${value}",\n`;
+        stringClass += `  override val ${key} = "${value}"\n`;
       });
-      stringClass += ')';
+      stringClass += '}\n\n';
+      stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
+      stringClass += `val ${langClassName} = ${langClassName}Class()`;
       fs.writeFileSync(path.join(process.cwd(), stringsPath, `${langClassName}.kt`), stringClass);
     })
 }
