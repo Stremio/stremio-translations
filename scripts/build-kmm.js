@@ -31,8 +31,7 @@ function writeDataClass() {
 function writeLocales() {
   let stringClass = `package ${packageName}\n\n`;
   stringClass += 'object Locales {\n';
-  const locales = new Set(files.map(file => file.split('-')[0]));
-  locales.forEach(locale => stringClass += `  const val ${locale.toUpperCase()} = "${locale}"\n`);
+  files.forEach(file => stringClass += `  const val ${toLocaleName(file)} = "${fileName(file)}"\n`);
   stringClass += '}';
   fs.writeFileSync(path.join(process.cwd(), rootPath, 'Locales.kt'), stringClass);
 }
@@ -44,7 +43,7 @@ function writeTranslations() {
       const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
       let stringClass = `package ${packageName}\n\n`;
       stringClass += 'import cafe.adriel.lyricist.LyricistStrings\n\n';
-      stringClass += `@LyricistStrings(languageTag = Locales.${file.split('-')[0].toUpperCase()}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
+      stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
       stringClass += `internal val ${langClassName} = Strings(\n`;
       const dedup = deduplicate(translations);
       Object.keys(dedup).forEach(key => {
@@ -54,6 +53,14 @@ function writeTranslations() {
       stringClass += ')';
       fs.writeFileSync(path.join(process.cwd(), stringsPath, `${langClassName}.kt`), stringClass);
     })
+}
+
+function toLocaleName(file) {
+  return fileName(file).replaceAll('-', '_').toUpperCase();
+}
+
+function fileName(file) {
+  return file.split('.')[0];
 }
 
 writeDataClass();
