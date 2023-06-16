@@ -23,7 +23,7 @@ kotlin {
     sourceSets {
         val commonMain by getting {
             dependencies {
-                implementation("cafe.adriel.lyricist:lyricist:${lyricistVersion}")
+                api("cafe.adriel.lyricist:lyricist:${lyricistVersion}")
             }
         }
         val androidMain by getting
