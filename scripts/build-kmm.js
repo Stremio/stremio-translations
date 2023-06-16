@@ -51,9 +51,20 @@ function writeLocales() {
 }
 
 function writeTranslations() {
+  let stringClass = `package ${packageName}\n\n`;
+  stringClass += 'import com.stremio.translations.Locales\n';
+  files.forEach(file => stringClass += `import com.stremio.translations.${toClassName(file)}\n`);
+  stringClass += '\n';
+  stringClass += 'val stremioTranslations = mapOf(\n';
+  stringClass += files.map(file => `  Locales.${toLocaleName(file)} to ${toClassName(file)}`).join(',\n');
+  stringClass += ',\n)';
+  fs.writeFileSync(path.join(process.cwd(), rootPath, 'Translations.kt'), stringClass);
+}
+
+function writeStrings() {
   files
     .forEach(file => {
-      const langClassName = file.replace(/(\w\w)-(\w\w)\.json/, (_, p1, p2) => `${p1.charAt(0).toUpperCase() + p1.slice(1)}${p2}Strings`);
+      const langClassName = toClassName(file);
       const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
       let stringClass = `package ${packageName}\n\n`;
       stringClass += 'import cafe.adriel.lyricist.LyricistStrings\n\n';
@@ -77,6 +88,11 @@ function fileName(file) {
   return file.split('.')[0];
 }
 
+function toClassName(file) {
+  return file.replace(/(\w\w)-(\w\w)\.json/, (_, p1, p2) => `${p1.charAt(0).toUpperCase() + p1.slice(1)}${p2}Strings`);
+}
+
 writeDataClass();
 writeLocales();
+writeStrings();
 writeTranslations();
