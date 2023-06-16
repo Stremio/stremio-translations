@@ -1,5 +1,5 @@
 group = "com.github.Stremio"
-version = "1.44"
+version = "1.44.0"
 
 plugins {
     kotlin("multiplatform")
@@ -16,7 +16,9 @@ repositories {
 val lyricistVersion = "1.4.1"
 
 kotlin {
-    android()
+    android {
+        publishLibraryVariants("release")
+    }
 
     @Suppress("UNUSED_VARIABLE")
     sourceSets {
@@ -30,10 +32,15 @@ kotlin {
 }
 
 android {
-    compileSdk = 33
-
     defaultConfig {
         minSdk = 22
+        compileSdk = 33
+    }
+
+    sourceSets {
+        getByName("main") {
+            manifest.srcFile("src/androidMain/AndroidManifest.xml")
+        }
     }
 }
 
@@ -46,20 +53,5 @@ dependencies {
 tasks.withType<org.jetbrains.kotlin.gradle.dsl.KotlinCompile<*>>().all {
     if(name != "kspCommonMainKotlinMetadata") {
         dependsOn("kspCommonMainKotlinMetadata")
-    }
-}
-
-tasks.named("publishToMavenLocal") {
-    dependsOn("assembleRelease")
-}
-
-publishing {
-    publications {
-        create<MavenPublication>("androidAar") {
-            group = group
-            version = version
-            artifactId = "stremio-translations-aar"
-            artifact("$buildDir/outputs/aar/${project.name}-release.aar")
-        }
     }
 }
