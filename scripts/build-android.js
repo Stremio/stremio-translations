@@ -1,6 +1,18 @@
 const path = require('path');
 const fs = require('fs');
 const { deduplicate } = require('./utils');
+const { 
+	escapePercentageSign, 
+	escapeQuestionMark, 
+	escapeSingleQuote, 
+	replaceAmpershandHtmlEntity, 
+	replaceElipsisHtmlEntity, 
+	replaceNbspToSpace, 
+	replaceRightDoubleAngleQuote, 
+	stripHtmlElements,
+	replaceTextVariables,
+	replaceBr
+} = require('./sanitize');
 
 const rootPath = 'android/src/androidMain/res'
 const files = fs.readdirSync(process.cwd())
@@ -10,22 +22,16 @@ fs.mkdirSync(path.join(process.cwd(), rootPath), { recursive: true });
 const defaultLang = 'en-rUS';
 
 const escapeXmlString = str => {
-	const textVars = ['{{[^}]+}}', '\\$ ?{[\\d]+}', '\\#{[^}]+}'];
-	const newLines = ['<\\/?br ?\\/?>'];
-	const replacers = {
-		'\\&(?![#\\w]+;)': '&amp;', // replace "&" with html entity
-		'\\.\\.\\.': '&#8230;', // replace "..." with html entity
-		'\\&nbsp\\;': ' ',  // replace "&nbsp;" with space
-		'\\&raquo\\;': '»', // replace "&raquo;" with »
-		"\\'": "\\\'", // escape quotes
-		"\\%(?!s|\\d*d|[\\.\\d]*f)": "%%", // escape percentage sign
-		'\\?': '\\\?', // escape question marks
-		'<[^>]*>?': '', // strip html elements
-	};
-
-	textVars.forEach(el => { str = str.replace(new RegExp(el, 'gm'), '%s') });
-	newLines.forEach(el => { str = str.replace(new RegExp(el, 'gm'), '\n') });
-	Object.keys(replacers).forEach(key => { str = str.replace(new RegExp(key, 'gm'), replacers[key]) });
+	str = replaceAmpershandHtmlEntity(str);
+	str = replaceElipsisHtmlEntity(str);
+	str = replaceNbspToSpace(str);
+	str = replaceRightDoubleAngleQuote(str);
+	str = escapeSingleQuote(str);
+	str = escapePercentageSign(str);
+	str = escapeQuestionMark(str);
+	str = stripHtmlElements(str);
+	str = replaceTextVariables(str);
+	str = replaceBr(str);
 	return str;
 }
 

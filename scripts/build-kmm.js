@@ -1,6 +1,14 @@
 const path = require('path');
 const fs = require('fs');
 const { deduplicate } = require('./utils');
+const {
+  escapePercentageSign,
+  replaceNbspToSpace,
+  replaceRightDoubleAngleQuote,
+  stripHtmlElements,
+  replaceTextVariables,
+  replaceBr
+} = require('./sanitize');
 
 const rootPath = 'android/src/commonMain/kotlin/com/stremio/translations';
 const stringsPath = path.join(rootPath, 'strings');
@@ -11,12 +19,18 @@ fs.mkdirSync(path.join(process.cwd(), stringsPath), { recursive: true });
 
 const files = fs.readdirSync(process.cwd()).filter(file => /[a-z]{2}-[A-Z]{2}\.json$/g.test(file));
 
-const escape = str => str
-  .replace(/\\/g, '\\\\')
-  .replace(/"/g, '\\"')
-  .replace(/\n/g, '\\n')
-  .replace(/%/g, '%%')
-  .replace(/\$\{\d+}/gm, '%s');
+const escape = str => {
+	str = replaceNbspToSpace(str);
+	str = replaceRightDoubleAngleQuote(str);
+	str = escapePercentageSign(str);
+	str = stripHtmlElements(str);
+	str = replaceTextVariables(str);
+	str = replaceBr(str);
+  return str
+    .replace(/\\/gm, '\\\\')
+    .replace(/"/gm, '\\"')
+    .replace(/\n/gm, '\\n');
+}
 
 function writeDataClass() {
   const defaultTranslation = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'en-US.json')));
