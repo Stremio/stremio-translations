@@ -5,7 +5,6 @@ plugins {
     kotlin("multiplatform")
     id("maven-publish")
     id("com.android.library")
-    id("com.google.devtools.ksp")
 }
 
 repositories {
@@ -41,17 +40,5 @@ android {
         getByName("main") {
             manifest.srcFile("src/androidMain/AndroidManifest.xml")
         }
-    }
-}
-
-dependencies {
-    add("kspCommonMainMetadata", "cafe.adriel.lyricist:lyricist-processor:${lyricistVersion}")
-}
-
-// workaround for KSP only in Common Main.
-// https://github.com/google/ksp/issues/567
-tasks.withType<org.jetbrains.kotlin.gradle.dsl.KotlinCompile<*>>().all {
-    if(name != "kspCommonMainKotlinMetadata") {
-        dependsOn("kspCommonMainKotlinMetadata")
     }
 }
