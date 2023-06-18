@@ -1,3 +1,12 @@
+# dependencies and build output
 node_modules/
 build/
-android/src/main/res
+
+# IDE and environment related directories
+.gradle/
+.idea/
+local.properties
+
+# generated source files
+android/src/androidMain/res
+android/src/commonMain/**/translations
