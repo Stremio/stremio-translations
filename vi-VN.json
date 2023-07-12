@@ -1201,7 +1201,7 @@
 	"CLEAR_HISTORY": "Xóa lịch sử",
 	"CHOOSE_SOME": "CHỌN MỘT SỐ ĐIỀU NÀY:",
 
-	"NO_WEB_REMOTE": "Không thể tải Web Remote",
+	"NO_WEB_REMOTE": "Công cụ Web từ xa không tải được",
 	"STREMIO_OFFLINE": "Stremio đang ngoại tuyến",
 	"STREMIO_EXPENSIVE_CONNECTION": "Chúng tôi đã phát hiện ra rằng bạn đang sử dụng kết nối dữ liệu di động, bạn có muốn tiếp tục không?",
 	"USE_DATA": "Sử dụng dữ liệu",
@@ -1225,7 +1225,7 @@
 	"STREMIO_TV_LOGIN_HEADER_LINE_2": "Vì lý do này mà chúng tôi đề nghị bạn tạo và/hoặc đăng nhập vào tài khoản của mình.",
 	"STREMIO_TV_LOGIN_FOOTER_LINE_1": "Cảm ơn bạn đã hiểu,",
 	"STREMIO_TV_LOGIN_FOOTER_LINE_2": "Nhóm Stremio",
-	"STREMIO_TV_REMOTE_INSTRUCTIONS": "Để sử dụng Web Remote với Điện thoại thông minh / Máy tính bảng / Máy tính để bàn của bạn:",
+	"STREMIO_TV_REMOTE_INSTRUCTIONS": "Để sử dụng Web Từ xa với Điện thoại thông minh / Máy tính bảng / Máy tính để bàn của bạn:",
 	"STREMIO_TV_WIFI_SETUP": "Thiết lập Wi-Fi",
 	"STREMIO_TV_WIFI_HEADER_LINE_1": "Stremio Circle không phát hiện thấy kết nối internet.",
 	"STREMIO_TV_WIFI_DETAILS_1": "Kết nối với:",
