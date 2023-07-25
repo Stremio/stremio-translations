@@ -437,7 +437,7 @@
 	"SETTINGS_SUBTITLES_COLOR_OUTLINE": "Kolor konturu napisów",
 	"SETTINGS_SUBTITLES_COLOR_BACKGROUND": "Kolor tła napisów",
 	"SETTINGS_SEEK_KEY": "Przewijanie za pomocą klawiszy strzałek",
-	"SETTINGS_SEEK_KEY_SHIFT": "Klawisze strzałek przewijają, gdy przytrzymany jest klawisz Shift"
+	"SETTINGS_SEEK_KEY_SHIFT": "Klawisze strzałek przewijają, gdy przytrzymany jest klawisz Shift",
 	"SETTINGS_REWIND_FAST_FORWARD_DURATION": "Czas przewijania i przyśpieszenia",
 	"SETTINGS_BINGE": "Automatycznie włącz następny odcinek",
 	"SETTINGS_NEXT_VIDEO": "Wyświetl powiadomienie o rozpoczęciu następnego odcinka",
