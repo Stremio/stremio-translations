@@ -1,32 +1,32 @@
 # stremio-translations
 
-**This is the repository the [Stremio media center](https://www.stremio.com/) uses for all translation strings.**
+**Това е хранилището, което [Stremio media center](https://www.stremio.com/) използва за всички низове за превод.**
 
-### How to contribute
+### Как да помогнете?
 
-Any help with contributing additional translations would be extremely helpful!
-For contributing, use `en_US` as a starting point because it's always
-guaranteed to include all the translation strings.
-Thank you!
+Всяка помощ с добавянето на допълнителни преводи би била изключително полезна!
+За да допринесете, използвайте `en_US` като отправна точка, защото винаги е така
+гарантирано включва всички низове за превод.
+Благодаря ти!
 
-**Please, always sync and pull your repository before making any edits.**
+**Моля, винаги синхронизирайте и изтегляйте вашето хранилище, преди да правите каквито и да било редакции.**
 
-### How to test in the app
+### Как да тествате в приложението?
 
-Clone this repo, copy en-US.json as a starting point into your language's
-locale file, following IETF standard. To test in the app, start Stremio like:
+Клонирайте това репо, копирайте en-US.json като начална точка на вашия език
+локален файл, следвайки стандарта на IETF. За да тествате в приложението, стартирайте Stremio като:
 
 ```
-# for Windows
+# за Windows
 %LOCALAPPDATA%\Programs\LNV\Stremio\Stremio.exe . --translation=PATH_TO_JSON
 
-# for macOS
+# за macOS
 /Applications/Stremio.app/Contents/MacOS/Electron . --translation=PATH_TO_JSON
 ```
 
-### Translation credits
+### Преводачи
 
-| Culture | Name                 | Contributors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Код     | Език.                | Contributors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | bg-BG   | Bulgarian            | [@m-dragoev](https://github.com/m-dragoev)                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | ca-CA   | Catalan              | [@xeanhort](https://github.com/xeanhort)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
