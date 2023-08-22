@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "يمكنك البحث عن عناوين, ممثلين, قنوات والمزيد ...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "مسح سجل البحث",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "اختر احد الفلترات اسفله",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "قلترات",
 	"SETTINGS": "الاعدادات",
 	"ACCOUNT": "الحساب",

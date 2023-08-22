@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Başlıklar, Aktörler, Kanallar ve daha fazlasını arayabilirsiniz...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Arama Geçmişini Temizle",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Aşağıdaki süzgeçlerden birini seçin",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Süzgeçler",
 	"SETTINGS": "Ayarlar",
 	"ACCOUNT": "Hesap",
