@@ -1380,7 +1380,7 @@
 	"FAQ_13_P2": "Sau đó, bạn có thể làm theo ${1}Hướng dẫn Hello World${2}.",
 	"FAQ_13_P3": "Nếu bạn không có bất kỳ kỹ năng lập trình nào, vui lòng đăng ý tưởng của bạn trên ${1}cộng đồng Reddit${2} và liên hệ với chúng tôi về ý tưởng add-on của bạn trên ${3}office@stremio.com${4}.",
 	"FAQ_14_H1": "Add-on được xuất bản như thế nào?",
-	"FAQ_14_P1": "Khi bạn tạo một add-on và máy chủ lưu trữ, đồng thời đặt trường <b>endpoint</b> trong tệp kê khai của bạn, trường này trỏ đến một địa chỉ add-on đang hoạt động, add-on đó sẽ tự động xuất bản chính nó lên ${1}danh mục Add-on${2 của chúng tôi }.",
+	"FAQ_14_P1": "Khi bạn tạo một add-on và máy chủ lưu trữ, đồng thời đặt trường <b>endpoint</b> trong tệp kê khai của bạn, trường này trỏ đến một địa chỉ add-on đang hoạt động, add-on đó sẽ tự động xuất bản chính nó lên của chúng tôi ${1}danh mục Add-on${2}.",
 	"FAQ_14_P2": "Điều này xảy ra vì phần máy chủ của mô-đun stremio-add-on tự động gọi API của chúng tôi để thông báo về add-on. Khi API của chúng tôi xác thực <b>endpoint</b> của bạn là một add-on hợp lệ, nó sẽ bắt đầu hiển thị trong danh mục .",
 	"FAQ_15_H1": "Tôi có thể chạy Stremio trong trình duyệt của mình không?",
 	"FAQ_15_P1": "Không phải lúc này, nhưng điều này đang đến!",
