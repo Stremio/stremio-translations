@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "You can search for Titles, Actors, Channels and more...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "खोज इतिहास साफ़ करे",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "नीचे दिए गए किसी एक फ़िल्टर में से चुनें",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "फिल्टर",
 	"SETTINGS": "समायोजन",
 	"ACCOUNT": "खाता",

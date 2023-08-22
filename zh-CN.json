@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "您可以搜索标题、演员、频道...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "清除搜索历史",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "从以下过滤器中选择一个",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "过滤器",
 	"SETTINGS": "设置",
 	"ACCOUNT": "账户",

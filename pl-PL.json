@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Możesz wyszukać tytuł, aktora, kanał i więcej...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Wyczyść historię wyszukiwania",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Wybierz jeden z poniższych filtrów",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Filtry",
 	"SETTINGS": "Ustawienia",
 	"ACCOUNT": "Konto",

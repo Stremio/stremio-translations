@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Bạn có thể tìm kiếm Tiêu đề, Diễn viên, Kênh và hơn thế nữa...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Xóa lịch sử tìm kiếm",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Chọn từ một trong các bộ lọc bên dưới",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Bộ lọc",
 	"SETTINGS": "Cài đặt",
 	"ACCOUNT": "Tài khoản",

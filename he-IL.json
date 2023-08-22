@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "You can search for Titles, Actors, Channels and more...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "נקה את היסטוריית החיפושים",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "בחרו אחד מהפילטרים מטה",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "פילטרים",
 	"SETTINGS": "הגדרות",
 	"ACCOUNT": "משתמש",
