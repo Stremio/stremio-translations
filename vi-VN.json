@@ -4,48 +4,39 @@
 	"TYPE_tv": "Kênh TV",
 	"TYPE_channel": "Kênh",
 	"TYPE_other": "Khác",
-
 	"TYPE_movie_PL": "Phim",
 	"TYPE_series_PL": "Loạt phim",
 	"TYPE_tv_PL": "Kênh TV",
 	"TYPE_channel_PL": "Kênh",
 	"TYPE_other_PL": "Khác",
 	"TYPE_ALL": "Tất cả",
-
 	"VIDEO": "Video",
-
 	"BACK": "Trở lại",
 	"MORE": "Nhiều hơn",
 	"DONE": "Xong",
 	"COPY": "Sao chép",
 	"SUCCESS": "Thành công",
 	"ERROR": "Lỗi",
-
 	"SETTINGS_CASTING_MODE_PICKER": "Chế độ truyền",
 	"CASTING_MODE_HLSV2": "Mặc định",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Không chuyển mã",
-
 	"Discover": "Khám phá",
 	"Board": "Bảng",
 	"Library": "Thư viện",
 	"My Library": "Thư viện của tôi",
 	"Calendar": "Lịch",
-
 	"NOTIFICATION_ONLINE": "Bạn hiện đang trực tuyến",
 	"NOTIFICATION_OFFLINE": "Bạn hiện đang ngoại tuyến",
 	"INTERNET_CONNECTION": "Kết nối mạng",
-
 	"STORAGE_FULL_TITLE": "Cảnh báo: Bộ nhớ đầy!",
 	"STORAGE_FULL_TEXT": "Stremio sẽ không thể lưu cài đặt, tùy chọn hoặc thông tin đăng nhập của bạn. Cân nhắc khởi động lại hoặc cài đặt lại Stremio.",
-
 	"SEARCH": "tìm kiếm",
 	"SEARCH_NO_RESULTS": "Không tìm thấy kết quả",
 	"SEARCH_EXPLANATION_CONTENT": "Tìm kiếm phim, loạt phim, YouTube và các kênh TV",
 	"SEARCH_EXPLANATION_PEOPLE": "Tìm kiếm diễn viên, đạo diễn và biên kịch",
 	"SEARCH_PASTE_LINKS": "Dán liên kết HTTP và Nam châm",
 	"SEARCH_OR_PASTE_LINK": "Tìm kiếm hoặc dán liên kết",
-
 	"ADD_TO_LIB": "Thêm vào thư viện",
 	"REMOVE_FROM_LIB": "Loại khỏi Thư viện",
 	"ADDED_TO_LIB": "Đã thêm vào thư viện",
@@ -56,7 +47,6 @@
 	"SHOW": "Trình diễn",
 	"SHOW_MOVIE": "Hiển thị phim",
 	"WATCH_RANDOM": "Xem ngẫu nhiên",
-
 	"IMDB_RATING": "Xếp hạng IMDb",
 	"YEAR": "Năm",
 	"DIRECTOR": "Đạo diễn",
@@ -78,14 +68,11 @@
 	"FEATURED": "Đặc sắc",
 	"METADATA": "Siêu dữ liệu",
 	"CATEGORY": "loại",
-
 	"LINKS_GENRES": "Thể loại",
 	"LINKS_CAST": "Dàn diễn viên",
 	"LINKS_DIRECTORS": "Đạo diễn",
-
 	"SEARCH_VIDEOS": "tìm kiếm video",
 	"SEARCH_PLACEHOLDER": "tìm kiếm hoặc dán URL",
-
 	"ADDON": "add-on",
 	"ADDONS": "Add-on",
 	"OFFICIAL": "chính thức",
@@ -119,7 +106,6 @@
 	"SETTINGS_DATA_EXPORT": "Xuất dữ liệu người dùng",
 	"ADDON_PULL_FAILED": "Không thể đồng bộ hóa các add-on đã cài đặt từ tài khoản của bạn",
 	"REFRESH_ON_CLICK": "Nhấp để thử lại",
-
 	"STILL_IN_THEATER": "Phim còn chiếu rạp",
 	"WATCH_IN_CINEMA": "Xem tại rạp chiếu phim địa phương của bạn",
 	"IN_THEATER": "Trong rạp chiếu phim",
@@ -131,12 +117,10 @@
 	"CHANNEL_NOT_SCRAPED": "Kênh này chưa được xóa.<br>Vui lòng quay lại sau vài phút.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Thêm nó vào thư viện của bạn để nhận thông báo khi nó có sẵn.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Bạn sẽ nhận được thông báo khi nó khả dụng.",
-
 	"WARNING_STREAMING_SERVER": "Cảnh báo: không tìm thấy máy chủ truyền trực tuyến cục bộ. Truyền trực tuyến từ các tệp cục bộ, YouTube và BitTorrent sẽ không khả dụng.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Bỏ qua",
 	"WARNING_STREAMING_SERVER_LATER": "Sau đó",
 	"DECODER_WARNING": "Cảnh báo: phần cứng của bạn có thể không hỗ trợ video này. Xin lưu ý rằng quá trình phát lại có thể chậm.",
-
 	"PLAYER_ERROR": "Rất tiếc, Lỗi Trình phát",
 	"PLAYER_ERROR_LOOKSLIKE": "Nó có vẻ như",
 	"PLAYER_ORIENTATION": "Định hướng trình phát",
@@ -164,16 +148,12 @@
 	"PLAYER_UNMUTE": "Bật tiếng",
 	"PLAYER_OPEN_IN_EXTERNAL": "Mở trong trình phát bên ngoài",
 	"PLAYER_PLAY_IN": "Phát trên {{device}}",
-
 	"PLAYER_LIVE": "Trực tiếp",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "Sắp tới",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Bỏ qua",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Xem ngay",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "Liên kết luồng đã được sao chép vào khay nhớ tạm của bạn",
 	"PLAYER_COPY_STREAM_ERROR": "Không thể sao chép liên kết luồng",
-
 	"STREAMING_FROM": "truyền trực tuyến từ",
 	"CASTING_TO": "Truyền tới",
 	"NETWORK_STATUS": "Tình trạng mạng",
@@ -184,24 +164,18 @@
 	"PEERS_CONNECTED": "Đã kết nối:",
 	"PEERS_WAITING": "Chờ:",
 	"TRANSCODING_WARNING": "Cảnh báo: chuyển mã video.",
-
 	"STREAM_LOADING": "đang tải...",
 	"PLAYING_LOCAL": "phát từ tệp cục bộ",
 	"PLAYING_CACHE": "phát từ bộ nhớ đệm",
-
 	"WRONG_SUBS": "Phụ đề sai?",
 	"ERR_SUBS_LOADING_TITLE": "Lỗi khi tải phụ đề",
 	"ERR_SUBS_LOADING": "Tải phụ đề không thành công: đây có thể là sự cố với add-on bạn đang sử dụng hoặc với kết nối mạng của bạn",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Các add-on phụ đề sau không thành công",
 	"ERR_CASTING_UPDATE_TITLE": "Không thể cập nhật thông tin thiết bị truyền: máy chủ truyền trực tuyến có thể đang ngoại tuyến",
-
 	"CHOOSE_DEVICE": "Chọn thiết bị để xem",
 	"NO_CAST_DEVICES": "Không có thiết bị truyền nào.",
-
 	"NO_SETTINGS": "Không có cài đặt nào.",
-
 	"PHONE_TABLET": "Điện thoại / Máy tính bảng",
-
 	"SUBTITLES": "Phụ đề",
 	"SUBTITLES_CHANGE": "Thay đổi phụ đề cho ",
 	"SUBTITLES_CHANGE_NONE": "Không có phụ đề nào khác cho ngôn ngữ này, xin lỗi.",
@@ -214,24 +188,17 @@
 	"SUBTITLES_LOADING": "Đang tải phụ đề...",
 	"SUBTITLES_UNAVAILABLE": "Không có phụ đề bên ngoài",
 	"SUBTITLES_DISABLED": "Đã vô hiệu",
-
 	"EXTERNAL_PLAYER_DISABLED": "Đã vô hiệu",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "Cho phép chọn",
 	"EXTERNAL_PLAYER_HINT": "Gợi ý: Có một cài đặt cho phép luôn mở bằng trình phát bên ngoài",
-
 	"DONT_SHOW_AGAIN": "Không hiện lại",
-
 	"SERVICE_INSTALL": "Cài đặt",
-
 	"AUDIO": "Âm thanh",
-
 	"DEFAULT_LANGUAGE": "Ngôn ngữ mặc định",
 	"DEFAULT_SECONDARY_LANGUAGE": "Ngôn ngữ mặc định thứ hai",
-
 	"SEASON": "Mùa phim",
 	"EPISODE": "Tập phim",
 	"SPECIAL": "Đặc biệt",
-
 	"SORT": "Sắp xếp",
 	"SORT_BY": "Sắp xếp theo",
 	"FILTER": "lọc",
@@ -249,31 +216,25 @@
 	"SORT_LASTWATCHED": "Theo lần xem cuối cùng",
 	"SORT_NAME": "Theo tên",
 	"SORT_TIMESWATCHED": "Theo số lần đã xem",
-
 	"New for You": "Mới ra dành cho bạn",
 	"New Episodes": "Tập mới",
 	"New Videos": "Video mới",
 	"Recommendations": "Khuyến nghị",
-
 	"LIBRARY_RESUME": "Xem tiếp",
 	"LIBRARY_PLAY": "Phát",
 	"LIBRARY_DETAILS": "Chi tiết",
 	"LIBRARY_RESUME_DISMISS": "Bỏ qua",
 	"LIBRARY_CLEAR_PROGRESS": "Làm sạch tiến trình",
 	"LIBRARY_REMOVE": "Loại bỏ",
-
 	"LIBRARY_NOT_LOGGED_IN": "Thư viện chỉ khả dụng cho người dùng đã đăng nhập",
 	"CALENDAR_NOT_LOGGED_IN": "Lịch chỉ khả dụng cho người dùng đã đăng nhập",
 	"NOT_LOGGED_IN_CLOUD": "Truy cập các bộ phim và chương trình TV yêu thích của bạn mọi lúc, mọi nơi",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Đề xuất phù hợp với lịch sử xem của bạn",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Không bao giờ bỏ lỡ một tập nào nữa",
 	"NOT_LOGGED_IN_CALENDAR": "Sắp xếp lịch xem cá nhân của bạn",
-
 	"DISCOVER_FEATURED": "Đặc sắc",
-
 	"DISCOVER_TOP": "Hàng đầu",
 	"DISCOVER_OSCAR": "Thắng giải Oscar",
-
 	"DISCOVER_WARNING_TITLE": "Ối!",
 	"DISCOVER_EMPTY_CATALOG": "Add-on này trả về nội dung trống.",
 	"DISCOVER_ADULT_WARNING": "Nội dung chỉ hiển thị cho người lớn. Bạn có trên 18 tuổi không?",
@@ -282,12 +243,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Nội dung này không còn nữa, bạn có thể đã gỡ bỏ add-on.",
 	"UNINSTALL_THIS_ADDON": "Gỡ bỏ add-on này",
 	"ERR_ADDON_NOT_INSTALLED": "Add-on này chưa được cài đặt. Cài đặt ngay?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Nhận thông báo về các tập mới",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Nhận thông báo về video mới",
-
 	"SIDEBAR_SHOW_STREAMS": "Hiển thị luồng",
-
 	"RELAUNCH": "Tái khởi chạy ngay bây giờ!",
 	"UPGRADE": "Đã có phiên bản mới! Nâng cấp lên phiên bản Stremio mới nhất",
 	"RELOAD_UI": "Tải lại giao diện người dùng",
@@ -296,7 +254,6 @@
 	"MANUAL_UPDATE_LINE2": "Vui lòng cập nhật càng sớm càng tốt.",
 	"BUTTON_UPDATE_LATTER": "Không phải bây giờ",
 	"BUTTON_UPDATE_NOW": "Cập nhật",
-
 	"ANONYMOUS_USER": "Người dùng ẩn danh",
 	"DONT_HAVE_ACC": "Chưa có tài khoản?",
 	"HAVE_ACC": "Sẵn sàng để tạo một tài khoản?",
@@ -345,20 +302,16 @@
 	"SEARCH_FAILED": "Tìm kiếm không thành công",
 	"EMAIL_USED": "Email này đã được sử dụng.",
 	"WAITING_FB_LOGIN": "Đăng nhập bằng Facebook...",
-
 	"EXTERNAL_PLAYER_TITLE": "Phát trong trình phát ngoài",
 	"EXTERNAL_REMEMBER_PLAYER": "Bạn có muốn ghi nhớ lựa chọn của mình không",
 	"EXTERNAL_ALWAYS_PLAY": "Đúng",
 	"EXTERNAL_ONLY_ONCE": "Không",
-
 	"BEST_FIT": "Phù hợp nhất",
 	"FIT_SCREEN": "Vừa với màn hình",
 	"FILL": "Lấp đầy",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Nguyên bản",
-
-
 	"INTRO_TASTE": "Nói cho chúng tôi biết bạn thích gì",
 	"INTRO_TASTE_LONG": "Nói cho chúng tôi biết bạn muốn xem gì",
 	"INTRO_TASTE_PICK": "Chọn sở thích {{interestsRemaining}}",
@@ -382,7 +335,6 @@
 	"INTRO_TASTE_DIY": "Cách tự làm",
 	"INTRO_TASTE_TECH": "Công nghệ",
 	"INTRO_TASTE_CINEMA": "Rạp chiếu phim",
-
 	"ADDON_NOT_SUPPORTED": "Add-on đã chọn không được hỗ trợ trên nền tảng này.",
 	"ADDON_DISCLAIMER": "Dùng add-on của bên thứ ba sẽ luôn phải tuân theo trách nhiệm của bạn và luật điều chỉnh của khu vực tài phán mà bạn sinh sống.",
 	"ADDON_ACTIVATE": "Kích hoạt add-on này?",
@@ -391,9 +343,7 @@
 	"ADD_ADDON": "Thêm add-on",
 	"ADD_ADDON_DESCRIPTION": "Bạn có thể thêm một add-on thông qua một liên kết bên ngoài, liên kết này sẽ xuất hiện trong phần add-on đã cài đặt.",
 	"PASTE_ADDON_URL": "Dán URL add-on",
-
 	"WHATS_NEW": "Có gì mới",
-
 	"BUTTON_CONTINUE": "Tiếp tục",
 	"BUTTON_ACTIVATE": "Kích hoạt",
 	"BUTTON_ACTIVATED": "Đã kích hoạt",
@@ -403,9 +353,7 @@
 	"BUTTON_VIEW_ALL": "xem hết",
 	"BUTTON_SEE_ALL": "Thấy hết",
 	"BUTTON_COLOR_TRANSPARENT": "Trong suốt",
-
 	"OPEN_IN_BROWSER": "Mở trong trình duyệt",
-
 	"LIB_EMPTY": "Thư viện của bạn trông trống rỗng. Tìm hiểu xem nó hữu ích như thế nào :) ",
 	"HOW_START": "Đây là cách bạn có thể bắt đầu:",
 	"LIB_EMPTY_CAL": "Lịch của bạn hiển thị loạt phim trong Thư viện của bạn.",
@@ -430,14 +378,11 @@
 	"LIB_EMPTY_ALL": "Đăng ký để nhận được tất cả những thứ này:",
 	"LIB_EMPTY_BEST": "Đăng ký để tận dụng tốt nhất Stremio",
 	"LIB_EMPTY_OTHER": "Đăng ký để bật Lịch và các tính năng thú vị khác",
-
 	"CALENDAR_ADDED": "Lịch Stremio đã được thêm vào lịch màn hình mặc định của bạn.",
 	"CALENDAR_ADDED_MSG": "Nếu cách này không hiệu quả, vui lòng thêm URL này vào ứng dụng lịch của bạn theo cách thủ công",
-
 	"TRAKT_EXPIRED": "Xác thực Trakt đã hết hạn, vui lòng đi tới Cài đặt và xác thực lại",
 	"TRAKT_REQUIRES_LOGIN": "Lỗi Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Bạn cần đăng nhập",
-
 	"SETTINGS_LABEL": "Cài đặt",
 	"SETTINGS_NAV_GENERAL": "Tổng quan",
 	"SETTINGS_NAV_PLAYER": "Trình phát",
@@ -548,13 +493,11 @@
 	"SETTINGS_HW_ACCELERATED": "Giải mã tăng tốc",
 	"SETTINGS_HW_FULL": "Tăng tốc tối đa",
 	"SETTINGS_HW_LEGACY": "Tương thích ngược",
-
 	"SETTINGS_SECTION_SUBTITLES": "Phụ đề",
 	"SETTINGS_SECTION_AUDIO": "Âm thanh",
 	"SETTINGS_SECTION_CONTROLS": "Điều khiển",
 	"SETTINGS_SECTION_AUTO_PLAY": "Tự động phát",
 	"SETTINGS_SECTION_ADVANCED": "Nâng cao",
-
 	"SUBSPICKER_AUDIO": "Âm thanh",
 	"SUBSPICKER_SUBTITLES": "Add-on phụ đề",
 	"SUBSPICKER_BLACK_BACKGROUND": "Sử dụng nền màu đen",
@@ -562,7 +505,6 @@
 	"SUBSPICKER_SIZE": "Kích cỡ",
 	"SUBSPICKER_DELAY": "Độ trễ",
 	"SUBSPICKER_EMBEDDED_SUBS": "Phụ đề nhúng",
-
 	"MOBILE_PRIVACY_POLICY": "Chính sách bảo mật",
 	"MOBILE_CRASH_REPORTING": "Báo cáo sự cố",
 	"MOBILE_ZOOM_TO_FILL": "Thu phóng để lấp đầy màn hình",
@@ -596,16 +538,10 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Tài khoản của bạn đã được tạo bằng Facebook. Để xóa tài khoản của bạn, vui lòng sử dụng cổng thông tin người dùng của chúng tôi tại www.stremio.com/login",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Vui lòng cung cấp mật khẩu của bạn để xác nhận xóa tài khoản.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "Xóa tài khoản",
-
 	"NAVIGATION_ON": "Mở",
 	"NAVIGATION_OFF": "Tắt",
-
 	"MARKETING_AGREE": "Tôi đồng ý nhận thông tin tiếp thị từ Stremio",
-
-
-
 	"QUIT": "Từ bỏ",
-
 	"CONNECTED": "Đã kết nối",
 	"AUTHENTICATE": "Xác thực",
 	"CACHING": "Bộ nhớ đệm",
@@ -616,7 +552,6 @@
 	"TORRENT_PROFILE": "Hồ sơ torrent",
 	"DATA_CACHING": "Bộ nhớ đệm dữ liệu",
 	"MAGNET_PARSING": "Phân tích một liên kết nam châm",
-
 	"January": "Tháng Giêng",
 	"February": "Tháng Hai",
 	"March": "Tháng Ba",
@@ -629,7 +564,6 @@
 	"October": "Tháng Mười",
 	"November": "Tháng Mười Một",
 	"December": "Tháng Mười Hai",
-
 	"Monday": "Thứ Hai",
 	"Tuesday": "Thứ Ba",
 	"Wednesday": "Thứ Tư",
@@ -637,7 +571,6 @@
 	"Friday": "Thứ Sáu",
 	"Saturday": "Thứ Bảy",
 	"Sunday": "Chủ Nhật",
-
 	"Action": "Hành động",
 	"Comedy": "Hài kịch",
 	"War": "Chiến tranh",
@@ -713,7 +646,6 @@
 	"Science Radio": "Radio khoa học",
 	"Tech Radio": "Radio công nghệ",
 	"Science & Technology Vod": "Khoa học & Công nghệ Video theo yêu cầu",
-
 	"new video": "video mới",
 	"new episode": "tập mới",
 	"new movie": "phim mới",
@@ -722,7 +654,6 @@
 	"offer of the day": "đề nghị trong ngày",
 	"news": "tin tức",
 	"music video": "video âm nhạc",
-
 	"CTX_SHOW_HOTKEYS": "Hiển thị phím nóng",
 	"CTX_DISMISS_NOTIF": "Bỏ qua thông báo",
 	"CTX_DISMISS_ALL": "Bỏ qua tất cả",
@@ -763,7 +694,6 @@
 	"CTX_PASTE": "Dán",
 	"CTX_CLEAR": "Xóa",
 	"CTX_CLEAR_RECENT_SEARCHES": "Xóa các tìm kiếm gần đây",
-
 	"HELLO_THERE": "Chào đằng ấy",
 	"HOPE_YOU_ENJOY": "Chúng tôi hy vọng bạn thích Stremio và nó đã là một trong những ứng dụng yêu thích của bạn!",
 	"WHO_ARE_WE": "Chúng tôi là ai? Chúng tôi là đội ngũ đằng sau nó - hai người làm việc chăm chỉ mỗi ngày trong 3 năm qua để làm cho sản phẩm này ngày càng tốt hơn.",
@@ -771,9 +701,7 @@
 	"SPREAD_THE_WORD": "Chia sẻ với bạn bè của bạn ngay bây giờ, quảng bá về Stremio",
 	"MORE_PEOPLE": "Càng nhiều người sử dụng Stremio, nó càng trở nên tốt hơn!",
 	"SEND_A_LINK": "Hoặc gửi liên kết đến trang web của chúng tôi",
-
 	"TIP_LOCALFILES": "Mẹo: bạn có thể kéo và thả các tệp video cục bộ vào Stremio",
-
 	"ADDON_MY": "Add-on của tôi",
 	"ADDON_COMMUNITY": "Add-on cộng đồng",
 	"ADDON_OFFICIAL": "Add-on chính thức",
@@ -804,7 +732,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Xem #{types} MIỄN PHÍ",
 	"ADDON_PROVIDES_SUBTITLES": "Phụ đề cho #{types}",
 	"ADDON_CANTDETECT": "Chúng tôi không thể phát hiện Stremio đang chạy, vì vậy chúng tôi không thể phát hiện những add-on mà bạn đã cài đặt.",
-
 	"ERR_NO_META": "Không tìm thấy thông tin nào về điều này",
 	"ERR_GETTING_META": "Lỗi khi truy xuất thông tin về điều này.",
 	"ERR_CANT_PARSE_MAGNET": "Không thể phân tích cú pháp nam châm",
@@ -818,12 +745,99 @@
 	"ERR_CLIPBOARD": "Không thể phát từ clipboard",
 	"ERR_CLIPBOARD_READ": "Không thể đọc clipboard trên nền tảng này",
 	"ERR_CLIPBOARD_GENERIC": "Không tìm thấy URL có thể phát trong clipboard. Vui lòng sao chép URL (ví dụ: liên kết nam châm) vào video.",
-
 	"BOARD_CONTINUE_WATCHING": "Tiếp tục xem",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Những bộ phim được chọn đặc biệt dành cho bạn.<br />Phim này là một đề xuất mẫu.",
 	"BOARD_EXPLANATION_EPISODES": "Các tập mới của Loạt phim yêu thích của bạn đến đây.<br />Thêm loạt phim bạn theo dõi vào Thư viện.",
 	"BOARD_EXPLANATION_VIDEOS": "Các tập mới của các Kênh yêu thích của bạn đến đây.<br />Thêm các kênh YouTube mà bạn theo dõi vào Thư viện.",
-
+	"WEBSITE_ENJOYED_BY": "Enjoyed by more than 30 million users worldwide",
+	"WEBSITE_STREAMING_ENHANCED": "Streaming Enhanced",
+	"WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.",
+	"WEBSITE_AVAILABLE_ON": "Available on",
+	"WEBSITE_WATCH_AND_ENJOY": "Watch & Enjoy.",
+	"WEBSITE_STREMIO_MAKES_IT_A_PIECE_OF_CAKE": "Stremio makes it a piece of cake",
+	"WEBSITE_ALL_FEATURES": "All features",
+	"WEBSITE_EASY_TO_USE": "Easy to Use",
+	"WEBSITE_EASY_TO_USE_DETAILS": "Stremio is designed to be user-friendly and easy to use. With its clean and intuitive interface you can easily navigate and find the content you want to watch.",
+	"WEBSITE_SEAMLESS_ACROSS_DEVICES": "Seamless Across Devices",
+	"WEBSITE_SEAMLESS_ACROSS_DEVICES_DETAILS": "Available for a wide range of platforms (incl. Windows, Mac, Linux, Android and more), Stremio will keep track of your progress across all your devices. Just login and continue watching without having to configure the app again on each new device.",
+	"WEBSITE_ALL_DOWNLOADS": "All Downloads",
+	"WEBSITE_HIGH_DEFINITION_VIDEO_SUPPORT": "High-Definition Video Support",
+	"WEBSITE_HIGH_DEFINITION_VIDEO_SUPPORT_DETAILS": "An integrated video player supporting most video formats, including 4K HDR content, lets you enjoy the highest quality available.",
+	"WEBSITE_DIVERSE_CONTENT_LIBRARY": "Diverse Content Library",
+	"WEBSITE_DIVERSE_CONTENT_LIBRARY_DETAILS": "Stremio integrates with a large number of popular video sources, such as Netflix, Amazon Prime Video, Hulu, YouTube, and many more.",
+	"WEBSITE_CREATE_A_FREE_ACCOUNT": "Create a Free Account",
+	"WEBSITE_TAILORED_VIEWING_EXPERIENCE": "Tailored Viewing Experience",
+	"WEBSITE_TAILORED_VIEWING_EXPERIENCE_DETAILS": "Stremio allows you to customize the look and feel of the interface by changing the theme, adding or removing addons, and more.",
+	"WEBSITE_MULTILINGUAL_SUBTITLE_SUPPORT": "Multilingual Subtitle Support",
+	"WEBSITE_MULTILINGUAL_SUBTITLE_SUPPORT_DETAILS": "You can now enjoy all the favorite content in your preferred language as Stremio supports subtitles in all languages.",
+	"WEBSITE_ALL_STREMIO_FEATURES": "All Stremio features",
+	"WEBSITE_TRY_STREMIO_TITLE_P1": "Try Stremio",
+	"WEBSITE_TRY_STREMIO_TITLE_P2": "On Your TV Now",
+	"WEBSITE_YOU_CAN_NOW_WATCH": "You can now watch all favorite TV shows on your Android TV devices. The Stremio TV app let's you enjoy a movie night with ease.",
+	"WEBSITE_YOU_CAN_NOW_WATCH_2": "You can now watch all favorite TV shows on your Smart TV or Android TV. The Stremio TV apps let you enjoy a movie night with ease.",
+	"WEBSITE_STREMIO_FOR_SMART_TV": "Stremio for Smart TV",
+	"WEBSITE_PLAY_STORE_REVIEW": "Probably the best and most useful app to have in your device. It's one of the apps I use on a daily basis especially on my Android TV for many years now. Well made with a strong community providing useful functionalities. Well done. Keep up the good work.",
+	"WEBSITE_REVIEWS": "reviews",
+	"WEBSITE_GET_STREMIO_FOR_FREE": "Get Stremio for Free",
+	"WEBSITE_GET_STREMIO_NOW": "Get Stremio Now",
+	"WEBSITE_STREMIO_FEATURES": "Stremio Features",
+	"WEBSITE_STREMIO_FEATURES_DETAILS": "Stream like a pro with Stremio's advanced features and enjoy seamless access to all your favorite media",
+	"WEBSITE_DISCOVER_MORE": "Discover more.",
+	"WEBSITE_DISCOVER_MORE_DETAILS": "Never run out of things to watch",
+	"WEBSITE_COMMUNITY_DRIVEN": "Community-driven",
+	"WEBSITE_COMMUNITY_DRIVEN_DETAILS": "Stremio has a large and active community of users who contribute to the development of the software by creating and sharing addons.",
+	"WEBSITE_GET_INVOLVED": "Get involved",
+	"WEBSITE_NEW_THEATER_EXPERIENCE": "New Theater Experience",
+	"WEBSITE_NEW_THEATER_EXPERIENCE_DETAILS": "Stremio's new dedicated TV app let's you enjoy a movie night on your Android TV devices.",
+	"WEBSITE_NEW_THEATER_EXPERIENCE_DETAILS_2": "Stremio's new dedicated TV apps let you enjoy a movie night on your Smart TV or Android TV devices.",
+	"WEBSITE_FREE_AND_SECURE": "Free & Secure",
+	"WEBSITE_STREAMING": "Streaming",
+	"WEBSITE_FREE_AND_SECURE_DETAILS": "Stremio offers unmatched security and privacy for users. With its unique feature of running addons remotely, Stremio provides a safer way to stream your favorite content compared to other platforms. Your security and privacy are top priorities, and the platform ensures that all your data is protected.",
+	"WEBSITE_FREE_AND_SECURE_DETAILS_2": "Say goodbye to worries about security and privacy and say hello to a world of endless entertainment with Stremio.",
+	"WEBSITE_INFORMATION_PROVIDED_BY": "Information provided by",
+	"WEBSITE_CONTRIBUTE": "Đóng góp",
+	"WEBSITE_CONTRIBUTE_DESC": "to the project & help us make Stremio even better",
+	"WEBSITE_COMMUNITY_DESC": "We believe that the best way to create a truly amazing streaming experience is by involving our community in the process. Whether you are a programmer, an artist, or just a fan - you could help Stremio grow.",
+	"WEBSITE_COMMUNITY_DESC_2": "So join us today and become a part of the Stremio community and keep shaping the future of streaming.",
+	"WEBSITE_WAYS_TO_GET_INVOLVED": "Ways To Get Involved",
+	"WEBSITE_IN_THE_STREMIO_COMMUNITY": "in the Stremio community",
+	"WEBSITE_SHARE_YOUR_THOUGHTS": "Share your thoughts",
+	"WEBSITE_REPORT_BUGS": "Report bugs",
+	"WEBSITE_SUGGEST_FEATURES": "suggest features",
+	"WEBSITE_AND_PROVIDE_FEEDBACK": "and provide feedback on our social media channels.",
+	"WEBSITE_BETA_TESTING_PROGRAM": "Beta testing program",
+	"WEBSITE_BETA_TESTING_PROGRAM_DESC": "Participate in our beta testing program (we send out invites regularly) in the Stremio community.",
+	"WEBSITE_JOIN_NOW": "Join now!",
+	"WEBSITE_OFFICIAL_STREMIO_COMMUNITIES": "Official Stremio Communities",
+	"WEBSITE_UNOFFICIAL_STREMIO_COMMUNITIES": "Unofficial Stremio Communities",
+	"WEBSITE_BECOME": "Become",
+	"WEBSITE_A_VOLUNTEER_TRANSLATOR": "a volunteer translator",
+	"WEBSITE_ARE_YOU_A_DEVELOPER": "Are You A Developer?",
+	"WEBSITE_CONTRIBUTE_CODE": "You could contribute code to our open source projects. We have several projects on GitHub that are looking for contributors. If you're interested in helping out, check them out:",
+	"WEBSITE_STREMIO_ON_GITHUB": "Stremio on GitHub",
+	"WEBSITE_CREATE_ADDON_DESC": "Create an addon to enhance Stremio's functionality (we have an easy-to-use API):",
+	"WEBSITE_STREMIO_ADDON_SDK": "Stremio Addon SDK",
+	"WEBSITE_INTERN_DEVELOPER": "We also provide the opportunity to join us as an intern developer so we can grow together.",
+	"WEBSITE_APPLY_AS_AN_INTERN": "Apply as an Intern",
+	"WEBSITE_CALLING_ALL_ARTISTS": "Calling All Artists!",
+	"WEBSITE_CALLING_ALL_ARTISTS_DESC": "Show off your creativity and love for Stremio by uploading your fan art to our online gallery. Whether it's a drawing, painting, or digital design, we want to see your unique take on the Stremio brand. Join our community of art enthusiasts and share your work with fellow Stremio fans around the world.",
+	"WEBSITE_STREMIO_FANART_GALLERY": "Stremio Fanart Gallery",
+	"WEBSITE_INTERN_DESIGNER": "Become part of our team and take your creativity to new heights with our exciting internship opportunities.",
+	"WEBSITE_PUBLIC_DOMAIN_MOVIES_PROJECT": "Public Domain Movies Project",
+	"WEBSITE_PUBLIC_DOMAIN_MOVIES_PROJECT_DESC": "At Stremio, we are committed to preserving the history of film and television by identifying public domain and orphaned videos. By working together with our community, we can ensure that these classic works of art are accessible to everyone and protected for future generations to enjoy.",
+	"WEBSITE_PUBLIC_DOMAIN_MOVIES_PROJECT_DESC_2": "Feel free to contact us if you would like to get involved in that project.",
+	"WEBSITE_JOIN_THE_PROJECT": "Join the Project",
+	"WEBSITE_BE_PART_OF_OUR_MISSION": "Be part of our mission",
+	"WEBSITE_BE_PART_OF_OUR_MISSION_DESC": "Interested in joining the Stremio team? We offer fully remote work for passionate professionals. Check out our open positions.",
+	"WEBSITE_OPEN_POSITIONS": "OPEN POSITIONS",
+	"WEBSITE_DESCRIPTION": "DESCRIPTION",
+	"WEBSITE_LEARN_MORE": "Learn more",
+	"WEBSITE_COMPANY": "Company",
+	"WEBSITE_CONTACTS": "Contacts",
+	"WEBSITE_NEED_HELP": "Need Help?",
+	"WEBSITE_STREMIO_WEB_ON_IOS": "Guide for Stremio Web on iOS",
+	"WEBSITE_LINK_ART_V2": "Fanart Gallery",
+	"WEBSITE_PARTNERS": "Partners",
 	"WEBSITE_SLOGAN_WATCH": "Xem ngay lập tức",
 	"WEBSITE_SLOGAN_ALL": "Tất cả Nội dung Video Bạn Thưởng thức ở Một Nơi",
 	"WEBSITE_SLOGAN_NEW": "Tất cả những gì bạn có thể xem",
@@ -840,44 +854,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Tạo add-on",
 	"WEBSITE_PAGE_CONTACTS": "Liên lạc",
 	"WEBSITE_PAGE_BLOG": "Blog",
-
 	"WEBSITE_TYPE_movie": "Phim",
 	"WEBSITE_TYPE_series_PL": "Loạt phim",
 	"WEBSITE_TYPE_tv": "Truyền hình trực tiếp",
 	"WEBSITE_TYPE_channel": "Kênh",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio là một ứng dụng giúp bạn sắp xếp và xem ngay các video, phim, phim TV và kênh TV yêu thích của mình.",
-
 	"WEBSITE_FEATURES_WATCH": "Xem tức thì ở chế độ HD",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Nhấp và phát các bộ phim, Chương trình TV, video và kênh TV yêu thích của bạn.",
-
 	"WEBSITE_FEATURES_SUBS": "Phụ đề tự động",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio tự động chọn phụ đề được đồng bộ hóa cho ngôn ngữ của bạn.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Động thái của bạn, trưởng.",
-
 	"WEBSITE_FEATURES_CAST": "Phát trên TV & thiết bị di động",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Truyền tới AppleTV, Chromecast, TV thông minh (DLNA/UPnP) và thiết bị di động.",
-
 	"WEBSITE_LIB": "Tận hưởng thư viện cá nhân của bạn được đồng bộ hóa trên tất cả các thiết bị của bạn",
 	"WEBSITE_LIB_COLLECT": "Thu thập từ Stremio",
 	"WEBSITE_LIB_IMPORT": "Nhập từ facebook",
 	"WEBSITE_LIB_LOCAL": "Thêm từ ổ đĩa cục bộ của bạn",
-
 	"WEBSITE_BOARD": "Bảng - Điểm dừng chân của bạn dành cho Thông báo và Đề xuất",
 	"WEBSITE_BOARD_RECOMMEND": "Chương trình TV được đề xuất",
 	"WEBSITE_BOARD_TRENDING": "Phim thịnh hành",
 	"WEBSITE_BOARD_NEW": "Video mới",
 	"WEBSITE_BOARD_EPISODE": "Tập mới",
-
 	"WEBSITE_BOARD_1": "Bạn đang tìm nội dung thú vị để xem? Nhận đề xuất dựa trên sở thích của bạn!",
 	"WEBSITE_BOARD_2": "Nhận thông báo khi có tập mới của chương trình TV hoặc kênh YouTube yêu thích của bạn!",
-
 	"WEBSITE_BOARD_YOUTUBE": "Video mới của các kênh YouTube",
 	"WEBSITE_BOARD_EPISODES": "Các tập mới của loạt phim bạn theo dõi",
-
-
 	"WEBSITE_ADDONS": "Add-on nội dung",
-
 	"WEBSITE_TECH_DETAIL": "Chúng tôi yêu công nghệ, chúng tôi yêu khoa học điên rồ!\nStremio đang sử dụng các công nghệ nguồn mở sau:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js cho phép Stremio phát mọi định dạng video với hiệu suất tốt.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Chúng tôi là những người đóng góp cốt lõi cho dự án",
@@ -885,8 +887,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Chúng tôi là những người đóng góp cho dự án",
 	"WEBSITE_TECH_LINVODB": "Công nghệ cơ sở dữ liệu đảm bảo dữ liệu của bạn được sắp xếp và có sẵn ở mọi nơi bạn đăng nhập.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Công nghệ nội bộ",
-
-
 	"WEBSITE_CREATE_ADDON": "Tạo add-on của bạn",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Bạn có dịch vụ cung cấp nội dung video không? Chúng tôi sẽ giúp bạn hưởng lợi từ các tính năng của Stremio bằng cách tạo Add-on của bạn.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Lợi ích của việc tạo Add-on cho Stremio",
@@ -897,20 +897,16 @@
 	"WEBSITE_P2P_CONTACT": "Bạn quan tâm? Bạn có thể <a href='mailto:office@stremio.com'>liên hệ với chúng tôi</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "Chúng tôi rất sẵn lòng giúp bạn tích hợp nội dung của mình với Stremio!",
 	"WEBSITE_P2P": "Thỉnh thoảng, có một công nghệ làm thay đổi tên của trò chơi. Chúng tôi đã đầu tư rất nhiều thời gian và công sức vào việc xây dựng công cụ truyền phát video ngang hàng (P2P) mang lại hiệu suất tuyệt vời và tính linh hoạt để thích ứng với mọi mục đích sử dụng.\nHãy liên hệ với chúng tôi để có video P2P hỗ trợ DRM theo yêu cầu hoặc phát trực tiếp.",
-
-
 	"WEBSITE_THOUGHTS": "Những suy nghĩ chúng ta chia sẻ:",
 	"WEBSITE_SPREAD": "Quảng bá về Stremio:",
 	"WEBSITE_CONTACT": "Liên hệ với chúng tôi, chúng tôi rất vui khi nhận được phản hồi từ bạn!",
 	"WEBSITE_OPENSOURCE": "Dành cho các dự án nguồn mở của chúng tôi, đến với chúng tôi",
-
 	"WEBSITE_BITCOIN": "Quyên góp bitcoin:",
 	"WEBSITE_FAQ": "Các câu hỏi thường gặp",
 	"WEBSITE_FAQ_SHORT": "Hỏi đáp thường gặp",
 	"WEBSITE_QUESTIONS": "Câu hỏi",
 	"WEBSITE_TOS": "Điều khoản sử dụng",
 	"WEBSITE_LEGAL": "Hợp pháp",
-
 	"WEBSITE_PAGE_ABOUT": "Giới thiệu",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Trở thành đối tác",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Tự do xem\nMọi thứ bạn muốn.",
@@ -929,7 +925,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "Danh mục video có thể mở rộng vô hạn;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Các tính năng tuyệt vời để sắp xếp phương tiện của bạn;",
 	"WEBSITE_AS_SEEN_ON": "Như được thấy trên",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "Về chúng tôi",
 	"WEBSITE_LINK_TECHNOLOGY": "Công nghệ",
@@ -957,7 +952,6 @@
 	"WEBSITE_WHY_P3": "Bạn có thể sử dụng dịch vụ của chúng tôi trên bất kỳ thiết bị nào và bất kỳ lúc nào, khiến Stremio trở thành trung tâm giải trí video duy nhất mà bạn cần.",
 	"WEBSITE_TEAM": "ĐỘI",
 	"WEBSITE_TEAM_P": "Nhóm Stremio nhỏ nhưng mạnh mẽ: giữa mười người chúng tôi, chúng tôi viết mã bằng ngôn ngữ X và chia sẻ kiến thức chuyên môn về phát triển phần mềm, thiết kế UI và UX, tiếp thị và quảng cáo cũng như kinh doanh và khởi nghiệp.",
-
 	"WEBSITE_FEATURES": "Đặc trưng",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Khám phá nội dung mới một cách dễ dàng",
@@ -973,7 +967,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Xem video từ nhiều nguồn khác nhau",
 	"WEBSITE_FEATURES_SOURCES_P": "Cài đặt các add-on chính thức và cộng đồng để thưởng thức video có nguồn gốc từ nhiều nhà cung cấp khác nhau - tất cả trong một ứng dụng đẹp mắt, dễ sử dụng.",
 	"WEBSITE_CREATE_AN_ADDON": "Tạo một add-on",
-
 	"WEBSITE_FEATURES_SYNC": "Đồng bộ hóa thư viện của bạn trên các thiết bị khác nhau và tiếp tục phát lại",
 	"WEBSITE_FEATURES_SYNC_P1": "Đăng nhập bằng tài khoản của bạn trên tất cả các thiết bị và tận hưởng thư viện, add-on, phát lại và lịch được đồng bộ hóa.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Danh mục video có thể mở rộng bằng add-on",
@@ -988,7 +981,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Phát trong trình phát bên ngoài",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Phát từ tệp torrent hoặc liên kết nam châm",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Nhập vào thư viện của bạn từ lượt thích trên Facebook hoặc đĩa cục bộ",
-
 	"WEBSITE_ADD_ONS": "Add-on",
 	"WEBSITE_ADD_ONS_P1": "Tất cả nội dung video mà Stremio cung cấp đều có nguồn thông qua hệ thống add-on - không có nội dung hoặc nhà cung cấp nội dung nào được tích hợp vào ứng dụng.",
 	"WEBSITE_ADD_ONS_P2": "Có hai nhóm add-on: add-on chính thức và add-on cộng đồng.",
@@ -1006,9 +998,9 @@
 	"WEBSITE_ADDONS_CREATE": "Tạo một add-on",
 	"WEBSITE_ADDONS_CREATE_P1": "Nếu muốn, bạn có thể phát triển add-on của riêng mình. Bằng cách này, bạn có thể cấp cho mình và cộng đồng của chúng tôi quyền truy cập vào nội dung video mới, đồng thời tiếp cận đối tượng mới, được nhắm mục tiêu gồm hàng triệu người dùng trên khắp thế giới.",
 	"WEBSITE_ADDONS_START_CREATE": "Để bắt đầu, hãy truy cập trang Stremio Add-on SDK:",
-
 	"WEBSITE_DOWNLOADS": "Tải xuống",
 	"WEBSITE_DOWNLOADS_P1": "Để có hiệu suất tối ưu, chúng tôi khuyên bạn nên sử dụng phiên bản mới nhất hiện có của ứng dụng Stremio. Tuy nhiên, nếu vì lý do nào đó, bạn muốn sử dụng phiên bản cũ hơn, bạn có thể tải xuống phiên bản này tại đây.",
+	"WEBSITE_DOWNLOADS_P1_SHORT": "For optimal performance, we recommend that you use the latest available version of the Stremio apps.",
 	"WEBSITE_DOWNLOADS_FOR_WIN": "Stremio cho Windows",
 	"WEBSITE_DOWNLOADS_FOR_MAC": "Stremio cho macOS",
 	"WEBSITE_DOWNLOADS_FOR_LINUX": "Stremio cho Linux",
@@ -1017,7 +1009,6 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio dành cho thiết bị di động Android",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio cho Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio cho iOS (phiên bản giới hạn)",
-
 	"WEBSITE_DOWNLOAD_SERVICE": "Tải xuống dịch vụ Stremio",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Dịch vụ Stremio là một ứng dụng đồng hành cho Stremio Web. Chúng tôi khuyên bạn nên sử dụng phiên bản mới nhất hiện có của Dịch vụ Stremio.",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Dịch vụ Stremio cho Windows",
@@ -1027,8 +1018,6 @@
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Nhiều tùy chọn tải xuống hơn",
 	"WEBSITE_DOWNLOAD_NEW": "Mới!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Chúng tôi đã phát hành Stremio Web",
-
-	"WEBSITE_CONTRIBUTE": "Đóng góp",
 	"WEBSITE_CONTRIBUTE_P1": "Nền tảng Stremio là nguồn mở và bạn có thể dễ dàng tạo add-on cho nội dung hiện không có nguồn gốc.",
 	"WEBSITE_CONTRIBUTE_WHY": "Tại sao bạn nên tạo một add-on?",
 	"WEBSITE_CONTRIBUTE_WHY_P1": "Tiếp cận khán giả mới cho nội dung video của bạn",
@@ -1045,7 +1034,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Nếu bạn muốn thưởng thức các ứng dụng Stremio bằng các ngôn ngữ khác nhau, bạn có thể tham gia cộng đồng dịch giả tình nguyện của chúng tôi. Họ giúp chúng tôi thêm các phiên bản Stremio bằng nhiều ngôn ngữ khác nhau.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Bạn có muốn bắt đầu không?",
 	"WEBSITE_TRANSALTE_STREMIO": "Dịch Stremio",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Cộng đồng chính thức",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Trở thành một phần của cộng đồng Stremio đang phát triển. Theo dõi chúng tôi trên mạng xã hội và đừng ngại nói xin chào - chúng tôi rất thích nghe ý kiến từ người hâm mộ của mình!",
@@ -1067,7 +1055,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Hình nền",
 	"WEBSITE_COMMUNITY_ART": "Phòng trưng bày Nghệ thuật Cộng đồng",
 	"WEBSITE_LINK_ART": "Phòng trưng bày nghệ thuật cộng đồng",
-
 	"WEBSITE_CONTACT_US": "Liên hệ chúng tôi",
 	"WEBSITE_CONTACT_US_P1": "Nếu bạn có bất kỳ câu hỏi, nhận xét hoặc đề xuất nào, vui lòng liên hệ với chúng tôi qua biểu mẫu liên hệ bên dưới.",
 	"WEBSITE_CONTACT_US_P2": "Hãy nhớ rằng chúng tôi đang ở Bulgari nên có thể có sự chậm trễ trong việc giải quyết truy vấn của bạn do chênh lệch múi giờ.",
@@ -1078,7 +1065,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "Email của bạn",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Tin nhắn",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "GỬI",
-
 	"WEBSITE_CONTACT_US_Q_1": "Cài đặt như thế nào?",
 	"WEBSITE_CONTACT_US_Q_2": "Gỡ cài đặt như thế nào?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) Cách làm Lasagna?",
@@ -1088,7 +1074,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "Công nghệ",
 	"WEBSITE_TECHNOLOGY_P1": "Chúng tôi yêu công nghệ và khoa học điên rồ. </br>Đây là sức mạnh của Stremio (tất cả đều là mã nguồn mở).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Phát triển phần mềm đa nền tảng ở mức tốt nhất.",
@@ -1104,7 +1089,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "hoặc",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... bạn có thể sử dụng các kỹ năng viết mã của mình để tạo các add-on cho cộng đồng.",
 	"WEBSITE_TRANSLATE_STREMIO": "Dịch Stremio",
-
 	"WEBSITE_404_OH_NO": "Uh-oh! Trang bạn đang tìm không có ở đây...",
 	"WEBSITE_GO_HOME": "Về nhà",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Tải xuống khác",
@@ -1115,56 +1099,40 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Cuộc thi add-on",
 	"WEBSITE_LINK_ART_CONTEST": "Cuộc thi nghệ thuật",
 	"WEBSITE_MY_ACCOUNT": "Tài khoản của tôi",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Stremio là gì?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio là một trung tâm truyền thông hiện đại cho phép bạn tự do xem mọi thứ mình muốn.",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "Làm thế nào nó hoạt động?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Sau khi bạn cài đặt Stremio trên thiết bị của mình và tạo một tài khoản, tất cả những gì bạn phải làm là truy cập vào danh mục add-on và cài đặt bất kỳ add-on nào bạn muốn, thế là xong!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "Sau đó, bạn có thể chuyển đến phần Khám phá hoặc Bảng để bắt đầu khám phá nội dung.",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "Tôi có thể xem gì ở đây?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Rất nhiều: Phim, chương trình TV, kênh Web, Thể thao, kênh TV, nghe Podcast, v.v. Nhờ hệ thống add-on của chúng tôi, bạn có thể truy cập nhiều nội dung khác nhau.",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio có phải là mã nguồn mở không?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Có, bạn có thể kiểm tra các liên kết sau: ${1}desktop app${2} và ${3}GitHub organization${4}.",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio có an toàn không?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Có: vì đây là phần mềm mã nguồn mở nên mã này có thể được kiểm tra công khai và bạn có thể tự mình xem lại.",
-
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Còn quyền riêng tư của tôi thì sao?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Chúng tôi tôn trọng quyền riêng tư của người dùng và không thu thập bất kỳ dữ liệu cá nhân nào ngoài dữ liệu tối thiểu cần thiết để tạo và đồng bộ hóa tài khoản của bạn.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Ngoài ra còn có một ${1}Chế độ khách${2} khi đăng ký, chế độ này không yêu cầu bất kỳ dữ liệu nào: trong chế độ này, không có cuộc gọi nào được thực hiện tới chương trình phụ trợ của chúng tôi. Tuy nhiên, nó phải trả giá bằng các tính năng hữu ích, chẳng hạn như có thể đồng bộ hóa thư viện của bạn trên các thiết bị.",
-
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "Tôi có thể truyền tới TV của mình không?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Có, chúng tôi hỗ trợ Chromecast và bạn có thể truyền cả từ máy tính để bàn và ứng dụng dành cho thiết bị di động (Android).",
-
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio có bao nhiêu add-on?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "Tính đến cuối năm 2019, hơn 50 - để biết thêm thông tin, hãy xem danh mục add-on của chúng tôi.",
-
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Có thể mở rộng Stremio ngoài danh mục add-on không?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Có, bạn nên kiểm tra những thứ sau: ${1}PimpMyStremio${2}, ${3}Cộng đồng Reddit${4}, ${5}Trình tải xuống Stremio${6}, v.v.",
-
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio hỗ trợ những thiết bị nào?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Chúng tôi có các ứng dụng dành cho máy tính để bàn dành cho Windows, Mac và Linux. Đối với thiết bị di động, chúng tôi hỗ trợ Android và iOS, mặc dù hãy nhớ rằng iOS bị hạn chế về chức năng (không hỗ trợ hầu hết các add-on).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Có nhiều thiết bị dựa trên Android mà bạn có thể chạy Stremio trên đó, chẳng hạn như NVIDIA Shield và Amazon Fire Stick, nhưng chúng tôi không hỗ trợ chúng một cách chính thức.",
-
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Bạn có thể thêm một số nội dung nhất định vào Stremio không?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Xin lỗi, bản thân chúng tôi không cung cấp nội dung, nhưng bạn càng cài đặt nhiều add-on Stremio, bạn càng có thể tìm thấy nhiều nội dung hơn.",
-
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio có thể chơi liên kết nam châm không?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Có, và nó cũng có thể phát các liên kết HTTP và tệp torrent thông thường (kéo và thả).",
-
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "Tôi có thể tải video xuống và xem ngoại tuyến không?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Khả dụng ngoại tuyến là một tính năng sắp ra mắt, nhưng nếu bạn cho phép Stremio lưu vào bộ nhớ cache trên thiết bị của mình (từ bảng cài đặt), thì bạn có thể xem video sau mà không cần kết nối.",
-
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Không có tác dụng gì, giúp tôi với!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Bạn có chắc là mình đã cài đặt add-on không? Nếu có, hãy kiểm tra với ${1}trung tâm trợ giúp${2} của chúng tôi.",
-
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Làm thế nào để Stremio duy trì hoạt động phát triển của nó?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Chúng tôi thỉnh thoảng chạy quảng cáo không xâm lấn, nhưng chúng tôi đang cân nhắc chuyển sang mô hình quyên góp.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Để biết thêm câu hỏi, hãy truy cập ${1}trung tâm trợ giúp${2} của chúng tôi.",
-
 	"HELP_LEARN_MORE": "Giúp chúng tôi tìm hiểu thêm về bạn.",
 	"LIFESTYLE": "Cách sống",
 	"SPORTS": "Thể thao",
@@ -1200,15 +1168,12 @@
 	"LAST_SEARCHES": "Tìm kiếm cuối cùng",
 	"CLEAR_HISTORY": "Xóa lịch sử",
 	"CHOOSE_SOME": "CHỌN MỘT SỐ ĐIỀU NÀY:",
-
 	"NO_WEB_REMOTE": "Công cụ Web từ xa không tải được",
 	"STREMIO_OFFLINE": "Stremio đang ngoại tuyến",
 	"STREMIO_EXPENSIVE_CONNECTION": "Chúng tôi đã phát hiện ra rằng bạn đang sử dụng kết nối dữ liệu di động, bạn có muốn tiếp tục không?",
 	"USE_DATA": "Sử dụng dữ liệu",
 	"WARNING": "Cảnh báo",
-
 	"MORE_INFO": "Thêm thông tin ...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Đang tải ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Quay lại ngôn ngữ",
@@ -1286,7 +1251,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Hiển thị số liệu thống kê trong khi tải",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Để đọc Chính sách quyền riêng tư của Stremio, hãy truy cập:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Để đọc Điều khoản và điều kiện của Stremio, hãy truy cập:",
-
 	"STREMIO_TV_NAV_SEARCH": "Tìm kiếm",
 	"STREMIO_TV_NAV_HOME": "Trang chủ",
 	"STREMIO_TV_NAV_DISCOVER": "Khám phá",
@@ -1297,14 +1261,12 @@
 	"STREMIO_TV_NAV_TV": "Truyền hình trực tiếp",
 	"STREMIO_TV_NAV_SETTINGS": "Cài đặt",
 	"STREMIO_TV_NAV_ADDONS": "Add-on",
-
 	"STREMIO_TV_LOGIN_TITLE": "Liên kết tài khoản",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Hết hạn sau",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Quét mã QR ở trên hoặc truy cập",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Đăng nhập vào tài khoản Stremio của bạn",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Yêu cầu liên kết mới",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Mã đăng nhập được làm mới",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Nhập gì đó",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "Không có add-on nào được yêu cầu cho danh mục!",
 	"STREMIO_TV_SEARCH_BUTTON": "Tìm kiếm",
@@ -1314,9 +1276,8 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Lịch sử tìm kiếm",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Bạn có thể tìm kiếm Tiêu đề, Diễn viên, Kênh và hơn thế nữa...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Xóa lịch sử tìm kiếm",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Chọn từ một trong các bộ lọc bên dưới",
-
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Bộ lọc",
 	"SETTINGS": "Cài đặt",
 	"ACCOUNT": "Tài khoản",
@@ -1361,53 +1322,42 @@
 	"REMOTE_ADJUST_SIZE": "Điều chỉnh kích thước",
 	"REMOTE_COULD_NOT_BE_LOADED": "Công cụ Web từ xa không tải được",
 	"REMOTE_RETRY": "Thử lại",
-
 	"TORRENT_PROFILE_DEFAULT": "Mặc định",
 	"TORRENT_PROFILE_SOFT": "Vừa",
 	"TORRENT_PROFILE_FAST": "Nhanh",
 	"TORRENT_PROFILE_ULTRA_FAST": "Siêu nhanh",
-
 	"FAQ_001_H1": "Stremio là gì?",
 	"FAQ_001_P1": "Stremio là phần mềm trung tâm truyền thông được thiết kế để giải trí video dễ sử dụng. Stremio cho phép bạn sắp xếp & xem bộ sưu tập phim, loạt phim, kênh và chương trình truyền hình trực tiếp của riêng mình.",
 	"FAQ_001_P2": "Stremio thu thập nội dung mà nó hiển thị cho bạn từ đĩa cục bộ của bạn và hệ thống add-on của chúng tôi.",
 	"FAQ_001_P3": "Nó cũng sẽ thông báo cho bạn khi các tập/video/phim mới mà bạn quan tâm ra mắt và cung cấp các đề xuất phim cho bạn.",
-
 	"FAQ_02_H1": "So sánh Stremio với Kodi và Plex như thế nào?",
 	"FAQ_02_P1": "Chúng tôi lấy cảm hứng từ hai phần mềm đó. Nhưng chúng tôi có các mục tiêu khác nhau - Stremio được nhắm mục tiêu cụ thể đến video giải trí và cố gắng trở thành giải pháp chính cho điều đó bằng cách rất dễ sử dụng.",
 	"FAQ_02_P2": "Stremio sẽ không bao giờ có thể tùy chỉnh và giàu tính năng như Kodi và Plex, nhưng nó dễ sử dụng hơn đáng kể. Chỉ cần ${1} lấy nó và thấy ${2}:)",
-
 	"FAQ_03_H1": "So sánh Stremio với Netflix như thế nào?",
 	"FAQ_03_P1": "Một lần nữa, Netflix là một trong những nguồn cảm hứng của chúng tôi. Chúng tôi cố gắng đạt được trải nghiệm người dùng của Netflix, cùng với nhiều tính năng bổ sung. Nhưng quan trọng nhất, chúng tôi cho phép bạn tự do quản lý thư viện của riêng mình và thêm các nguồn nội dung mới bằng hệ thống add-on.",
 	"FAQ_03_P2": "Điều đó làm cho Stremio có thể mở rộng vô tận, vì vậy khi sử dụng Stremio, bạn không bao giờ bị giới hạn ở nội dung mà Netflix quyết định cấp phép. Ví dụ: thông qua Stremio, bạn có thể xem nội dung từ ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} và thậm chí ${9} chính Netflix${10}!",
-
 	"FAQ_04_H1": "So sánh Stremio với Flipboard như thế nào?",
 	"FAQ_04_P1": "Chúng tôi không thường xuyên nhận được câu hỏi đó, trừ khi nói chuyện với những người khởi nghiệp :)",
 	"FAQ_04_P2": "Theo thiết kế, Stremio là một công cụ tổng hợp nội dung, về cơ bản biến nó thành Flipboard cho video. Điều này thể hiện rất rõ ràng trong phần Bảng của chúng tôi. Phần này cung cấp cho bạn danh mục và tập mới/thông báo video mới cho nội dung bạn theo dõi, giống như Flipboard.",
-
 	"FAQ_05_H1": "So sánh Stremio với Popcorn Time như thế nào?",
 	"FAQ_05_P1": "Stremio và Popcorn Time giống nhau về giao diện người dùng, vì không có nhiều cách để làm danh mục giải trí video đúng không :)",
 	"FAQ_05_P2": "Nhưng trong khi Popcorn Time tập trung vào truyền trực tuyến torrent từ các nguồn cụ thể, thì Stremio không bị hạn chế và chỉ đơn thuần là một công cụ tổng hợp nội dung - nó không bị khóa vào một nguồn nội dung cụ thể.",
 	"FAQ_05_P3": "Hơn nữa, theo mặc định, chúng tôi không cung cấp bất kỳ add-on torrent nào, vì vậy Stremio không bao gồm trường hợp sử dụng Popcorn Time với chức năng chính thức.",
 	"FAQ_05_P4": "Một điểm khác biệt đáng chú ý nữa là Popcorn Time là nguồn mở hoàn toàn, trong khi Stremio là ${1} nguồn mở một phần${2}.",
-
 	"FAQ_06_H1": "Bạn sẽ thêm phim/loạt phim này chứ?",
 	"FAQ_06_P1": "Không, xin lỗi:(",
 	"FAQ_06_P2": "Như đã đề cập trong hầu hết các câu hỏi khác, Stremio không tự cung cấp bất kỳ nội dung nào - mọi thứ được thêm thông qua hệ thống add-on. Trong trường hợp bạn có yêu cầu về nội dung, bạn có thể sử dụng nút “Báo cáo” trong Trình phát, nút này sẽ gửi email tới tác giả của add-on bạn hiện đang sử dụng.",
-
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
 	"FAQ_08_H1": "Bạn sẽ tạo add-on cho X chứ?",
 	"FAQ_08_P1": "Hoàn toàn có thể.",
 	"FAQ_08_P2": "Nếu bạn có ý tưởng về add-on, hãy gửi thư cho chúng tôi theo địa chỉ ${1}office@stremio.com${2}, nhưng vui lòng đảm bảo rằng ý tưởng add-on của bạn sẽ không vi phạm bất kỳ bản quyền hoặc điều khoản sử dụng nào.",
 	"FAQ_08_P3": "Hiện tại, những thứ tiếp theo trong lộ trình của chúng tôi là các add-on cho FandangoNOW, video theo yêu cầu của Filmon.tv và Crunchyroll.",
-
 	"FAQ_09_H1": "Stremio có sử dụng BitTorrent không?",
 	"FAQ_09_P1": "Có, Stremio hỗ trợ BitTorrent dưới dạng giao thức truyền trực tuyến. Bạn có thể sử dụng giao thức đó với add-on torrent hoặc bằng cách kéo và thả tệp .torrent vào Stremio hoặc bằng cách dán liên kết nam châm vào Thanh tìm kiếm.",
 	"FAQ_09_P2": "Xin lưu ý rằng add-on chính thức duy nhất sử dụng BitTorrent là ${1}Vodo${2}, cung cấp nội dung độc lập, tất cả đều được phép phân phối với BitTorrent.",
 	"FAQ_09_P3": "Chúng tôi không hỗ trợ việc sử dụng bất kỳ add-on nào của bên thứ ba có thể dẫn đến vi phạm bản quyền.",
-
 	"FAQ_10_H1": "Tôi có thể xem gì trong Stremio với các add-on chính thức?",
 	"FAQ_10_P1": "Theo mặc định, bạn có thể xem nội dung Filmon.tv, YouTube và Vodo trong chính Stremio, với trình phát được nhúng. Ngoài ra, chúng tôi có một add-on cho Twitch.tv và một số tiện ích khác.",
 	"FAQ_10_P2": "Sự kết hợp này cung cấp một lựa chọn gồm:",
@@ -1416,64 +1366,51 @@
 	"FAQ_10_L3": "Phim độc lập với Vodo",
 	"FAQ_10_L4": "Phát sóng trò chơi trực tuyến với Twitch.tv",
 	"FAQ_10_P3": "Ngoài ra, có nhiều nguồn nội dung được cung cấp cùng với Guidebox và add-on Netflix <b>không</b> phát hoàn toàn bên trong Stremio mà sẽ chuyển hướng đến dịch vụ nhất định. Ví dụ: add-on Guidebox sẽ cung cấp cho bạn một lựa chọn phim bạn có thể truyền trực tuyến miễn phí ở Hoa Kỳ, từ các dịch vụ như TubiTV và Crackle.",
-
 	"FAQ_11_H1": "Stremio không cài đặt, tôi nên làm gì?",
 	"FAQ_11_P1": "Nếu bạn đang dùng Windows, hãy thử ${1}trình cài đặt thay thế này${2}.",
 	"FAQ_11_P2": "Nếu bạn đang dùng Mac OS X, xin lưu ý rằng chúng tôi không hỗ trợ bất kỳ thứ gì cũ hơn OS X Mavericks (10.9).",
 	"FAQ_11_P3": "Nếu bạn đang sử dụng Linux, hãy lưu ý rằng chúng tôi hiện chỉ hỗ trợ Linux 64 bit (x64).",
 	"FAQ_11_P4": "Nếu bạn vẫn không thể giải quyết vấn đề của mình, vui lòng viết thư cho chúng tôi tại ${1}nhóm Facebook${2} của chúng tôi.",
-
 	"FAQ_12_H1": "Tại sao phần mềm chống vi-rút của tôi phàn nàn? Stremio có an toàn không?",
 	"FAQ_12_P1": "Chúng tôi đảm bảo với bạn rằng Stremio ${1}sạch 100%${2}.",
 	"FAQ_12_P2": "Phần mềm chống vi-rút của bạn đang phàn nàn vì chúng tôi bao gồm quảng cáo trong trình cài đặt của chúng tôi mà một số chương trình chống vi-rút nhận ra là phần mềm quảng cáo.",
 	"FAQ_12_P3": "Nếu vẫn không chắc chắn, bạn có thể dùng thử ${1}trình cài đặt thay thế${2} của chúng tôi.",
-
 	"FAQ_13_H1": "Tôi có thể tạo add-on bằng cách nào?",
 	"FAQ_13_P1": "Đối với người mới bắt đầu, chúng tôi khuyên bạn nên kiểm tra ${1}mô-đun hệ thống add-on${2} của chúng tôi trên GitHub.",
 	"FAQ_13_P2": "Sau đó, bạn có thể làm theo ${1}Hướng dẫn Hello World${2}.",
 	"FAQ_13_P3": "Nếu bạn không có bất kỳ kỹ năng lập trình nào, vui lòng đăng ý tưởng của bạn trên ${1}cộng đồng Reddit${2} và liên hệ với chúng tôi về ý tưởng add-on của bạn trên ${3}office@stremio.com${4}.",
-
 	"FAQ_14_H1": "Add-on được xuất bản như thế nào?",
-	"FAQ_14_P1": "Khi bạn tạo một add-on và máy chủ lưu trữ, đồng thời đặt trường <b>endpoint</b> trong tệp kê khai của bạn, trường này trỏ đến một địa chỉ add-on đang hoạt động, add-on đó sẽ tự động xuất bản chính nó lên ${1}danh mục Add-on${2 của chúng tôi }.",
+	"FAQ_14_P1": "Khi bạn tạo một add-on và máy chủ lưu trữ, đồng thời đặt trường <b>endpoint</b> trong tệp kê khai của bạn, trường này trỏ đến một địa chỉ add-on đang hoạt động, add-on đó sẽ tự động xuất bản chính nó lên của chúng tôi ${1}danh mục Add-on${2}.",
 	"FAQ_14_P2": "Điều này xảy ra vì phần máy chủ của mô-đun stremio-add-on tự động gọi API của chúng tôi để thông báo về add-on. Khi API của chúng tôi xác thực <b>endpoint</b> của bạn là một add-on hợp lệ, nó sẽ bắt đầu hiển thị trong danh mục .",
-
 	"FAQ_15_H1": "Tôi có thể chạy Stremio trong trình duyệt của mình không?",
 	"FAQ_15_P1": "Không phải lúc này, nhưng điều này đang đến!",
 	"FAQ_15_P2": "Nếu muốn xem bản Alpha, bạn có thể xem tại đây: ${1}alpha4.strem.io${2}. Lưu ý rằng tính năng truyền trực tuyến bị tắt trên bản alpha này. Chúng tôi hỗ trợ Chrome, Firefox, Opera và Edge .",
-
 	"FAQ_16_H1": "Truyền tới TV không hoạt động / phụ đề không hoạt động",
 	"FAQ_16_P1": "Truyền tới TV sử dụng công nghệ DLNA rất không nhất quán giữa các thương hiệu và kiểu TV khác nhau. Vì lý do đó, chúng tôi không có khả năng kiểm tra nó trong mọi trường hợp, vì vậy nó còn lâu mới hoàn hảo. Mặc dù vậy, chúng tôi đang nghiên cứu liên tục cải thiện nhưng chúng tôi không thể cung cấp cho bạn ước tính thời gian khi nào DLNA sẽ bắt đầu hoạt động bình thường với TV của bạn.",
 	"FAQ_16_P2": "Nếu bạn thậm chí không thấy TV của mình trong menu truyền, vui lòng thử tắt kết nối mạng của bạn và bật lại (trên Windows, nhấp chuột phải vào Mạng và sử dụng Bật/Tắt), cũng như khởi động lại bộ định tuyến, TV và PC.",
 	"FAQ_16_P3": "Nếu bạn vẫn gặp sự cố, bạn có thể giúp chúng tôi bằng cách gửi thông tin về thương hiệu và mẫu TV của bạn tại ${1}office@stremio.com${2}.",
 	"FAQ_16_P4": "Trong thời gian chờ đợi, chúng tôi khuyên dùng Chromecast, dịch vụ mà chúng tôi hỗ trợ rất tốt hoặc chỉ cần cắm TV của bạn vào PC bằng cáp HDMI.",
-
 	"FAQ_17_H1": "Stremio bị treo và/hoặc gặp sự cố, tôi có thể làm gì?",
 	"FAQ_17_P1": "Trước hết, nếu bạn đang sử dụng Windows 7 với phần mềm chống vi-rút AVG: chúng tôi gặp sự cố với sự kết hợp đó. Sự cố nằm ở chính AVG và không có cách hợp lý nào để giải quyết vấn đề đó từ phía chúng tôi. Thật không may, ngoại lệ hoặc vô hiệu hóa phần mềm chống vi-rút sẽ không hoạt động. Giải pháp duy nhất là thay thế AVG bằng một thứ khác.",
 	"FAQ_17_P2": "Nếu đó không phải là vấn đề, nhưng bạn vẫn đang sử dụng Windows, vui lòng cập nhật lên gói dịch vụ mới nhất và cập nhật/cài đặt lại trình điều khiển GPU của bạn, sau đó thử lại.",
 	"FAQ_17_P3": "Nếu sự cố của bạn vẫn chưa được giải quyết hoặc bạn đang sử dụng Mac hoặc Linux, vui lòng viết thư cho chúng tôi để báo cáo chi tiết chính xác về sự cố tại ${1}nhóm Facebook của chúng tôi${2}.",
-
 	"FAQ_18_H1": "Tôi có thể tạo add-on bằng cách nào?",
 	"FAQ_18_P1": "Đối với người mới bắt đầu, chúng tôi khuyên bạn nên kiểm tra ${1}mô-đun hệ thống add-on${2} của chúng tôi trên GitHub.",
 	"FAQ_18_P2": "Sau đó, bạn có thể làm theo ${1}Hướng dẫn Hello World${2}.",
 	"FAQ_18_P3": "Nếu bạn không có bất kỳ kỹ năng lập trình nào, vui lòng đăng ý tưởng của bạn trên ${1}cộng đồng Reddit${2} và liên hệ với chúng tôi về ý tưởng add-on của bạn trên ${3}office@stremio.com${4}.",
-
 	"FAQ_19_H1": "Tại sao Stremio chiếm dung lượng ổ đĩa?",
 	"FAQ_19_P1": "Stremio có <b>bộ nhớ đệm cục bộ</b> để tạm thời giữ các tệp video mà bạn truyền trực tuyến.",
 	"FAQ_19_P2": "Điều này có hai lợi ích: thứ nhất, nó cho phép Stremio tạo bộ nhớ đệm trước cho video ở phía trước để đảm bảo truyền phát mượt mà hơn. Thứ hai, nó giữ video trong bộ nhớ đệm cục bộ để bạn có thể xem tiếp khi ngoại tuyến.",
 	"FAQ_19_P3": "Mức lưu trữ của Stremio tùy thuộc vào cài đặt <b>Bộ nhớ đệm</b> trong bảng Cài đặt. Stremio có thể giữ tối đa lượng đã đặt (ví dụ: 2GB) trên ổ đĩa của bạn, trừ khi video hiện đang truyền trực tuyến lớn hơn mức đó, trong đó trường hợp nó phải phân bổ đủ bộ nhớ để giữ cho đến khi bạn truyền trực tuyến.",
-
 	"FAQ_20_H1": "Thư mục bộ nhớ đệm ở đâu?",
 	"FAQ_20_P1": "Trên Windows, đó là stremio-cache trong ổ đĩa bạn đã chọn trong Cài đặt (ví dụ: \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "Trên MacOS, đó là \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "Trên Linux, đó là \"~/.stremio/stremio-cache\" hoặc \"~/stremio-cache\"",
-
 	"FAQ_21_H1": "Tôi gặp lỗi \"Không tìm thấy máy chủ truyền trực tuyến\", tôi có thể làm gì?",
 	"FAQ_21_P1": "Nếu bạn gặp lỗi này, điều đó có nghĩa là một trong số những điều sau:",
 	"FAQ_21_P2": "1) Bạn đang cố gắng sử dụng một add-on được hỗ trợ bởi nguồn YouTube/BitTorrent, thông qua ${1}phiên bản web${2} của chúng tôi. Trong trường hợp này, bạn nên cài đặt phiên bản dành cho máy tính để bàn của chúng tôi từ ${3}trang web của chúng tôi${4 }.",
 	"FAQ_21_P3": "2) Đã xảy ra lỗi với cài đặt Stremio của bạn. Trong trường hợp này, hãy thử cài đặt lại phiên bản mới nhất dành cho máy tính để bàn của chúng tôi từ ${1}trang web${2}. Nếu cách này không hiệu quả, hãy thử tắt tường lửa và chương trình chống vi-rút, khởi động lại PC của bạn và thử lại. Nếu cách này cũng không hoạt động, vui lòng viết thư cho chúng tôi tại ${3}nhóm Facebook của chúng tôi${4}.",
-
 	"FAQ_22_H1": "Tôi không thể xem/sử dụng hầu hết các add-on trên iOS",
 	"FAQ_22_P1": "Do các hạn chế trong các điều khoản và điều kiện của Apple App Store, chúng tôi đã giới hạn ứng dụng iOS chỉ cho một bộ add-on cụ thể.",
 	"FAQ_22_P2": "Nhưng hãy yên tâm - sẽ có nhiều add-on cho iOS trong tương lai và chúng tôi cũng có thể thêm tích hợp cho phép bạn sử dụng tất cả các add-on Stremio nhờ kết nối ứng dụng iOS với Máy chủ truyền trực tuyến Stremio."
-
 }
