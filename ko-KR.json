@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "타이틀, 배우, 채널 등을 검색할 수 있습니다.",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "검색 이력 지우기",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "아래 필터 중 하나를 선택하십시오.",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "필터",
 	"SETTINGS": "설정",
 	"ACCOUNT": "계정",

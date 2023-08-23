@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Μπορείτε να αναζητήσετε Τίτλους, Ηθοποιούς, Κανάλια και άλλα...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Διαγράψτε το ιστορικό αναζήτησης",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Επιλέξτε ένα από τα παρακάτω φίλτρα",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Φίλτρα",
 	"SETTINGS": "Ρυθμίσεις",
 	"ACCOUNT": "Λογαριασμός",

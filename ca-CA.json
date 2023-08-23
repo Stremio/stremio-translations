@@ -1277,6 +1277,7 @@
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Pots cercar Títols, Actors, Canals i més...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Esborrar l'historial de cerques",
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Trieu un dels filtres següents",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"FILTERS": "Filtres",
 	"SETTINGS": "Configuració",
 	"ACCOUNT": "Compte",

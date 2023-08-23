@@ -1409,6 +1409,8 @@
 
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Choose from one of the filters below",
 
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
+
 	"FILTERS": "Filters",
 	"SETTINGS": "Settings",
 	"ACCOUNT": "Account",

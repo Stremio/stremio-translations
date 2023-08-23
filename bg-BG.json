@@ -1197,6 +1197,7 @@
 	"STREMIO_TV_WIFI_DETAILS_2": "stremio-circle",
 	"STREMIO_TV_WIFI_DETAILS_3": "Използвайте парола:",
 	"STREMIO_TV_WIFI_DETAILS_4": "stremiocircle",
+	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
 	"STREMIO_TV_WIFI_DETAILS_5": "Отворете уеб браузър с връзката:",
 	"STREMIO_TV_DISCOVER_GENRE_DEFAULT": "По подразбиране",
 	"STREMIO_TV_LIBRARY_SORT_LAST_WATCHED": "По последно гледани",
