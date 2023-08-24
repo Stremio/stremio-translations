@@ -473,6 +473,7 @@
 	"SETTING_LANGUAGE": "Idioma",
 	"SETTINGS_TRAKT": "Seguimiento con Trakt",
 	"SETTINGS_TRAKT_LOGOUT": "Salir de Trakt.tv",
+	"SETTINGS_TRAKT_LOGOUT_2": "Salir de Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Escanear código QR para abrir el control remoto",
 	"SETTINGS_DESKTOP_NOTIFICATIONS": "Notificaciones de escritorio",
 	"SETTINGS_DATA_SAVER": "Ahorrador de datos",
