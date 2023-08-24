@@ -473,6 +473,7 @@
 	"SETTING_LANGUAGE": "언어",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv에서 로그아웃",
+	"SETTINGS_TRAKT_LOGOUT_2": "Trakt에서 로그아웃",
 	"SETTINGS_SCAN_FOR_REMOTE": "QR코드를 스캔하여 리모트로 엽니다.",
 	"SETTINGS_DESKTOP_NOTIFICATIONS": "데스크탑 알림",
 	"SETTINGS_DATA_SAVER": "데이터 세이버",

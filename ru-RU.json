@@ -473,6 +473,7 @@
 	"SETTING_LANGUAGE": "Язык",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Выйти из Trakt.tv",
+	"SETTINGS_TRAKT_LOGOUT_2": "Выйти из Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Отсканируйте QR-код, чтобы открыть удалённо",
 	"SETTINGS_DESKTOP_NOTIFICATIONS": "Уведомления на рабочем столе",
 	"SETTINGS_DATA_SAVER": "Экономия трафика",

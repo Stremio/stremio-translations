@@ -473,6 +473,7 @@
 	"SETTING_LANGUAGE": "Llenguatge",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Tanca la sessió de Trakt.tv",
+	"SETTINGS_TRAKT_LOGOUT_2": "Tanca la sessió de Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Escaneja el codi QR per obrir el comandament a distància",
 	"SETTINGS_DESKTOP_NOTIFICATIONS": "Notificacions d'escriptori",
 	"SETTINGS_DATA_SAVER": "Estalviador de dades",
