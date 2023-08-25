@@ -544,7 +544,7 @@
 	"MARKETING_AGREE": "Concordo em receber comunicações de marketing do Stremio",
 	"QUIT": "Sair",
 	"CONNECTED": "Ligado",
-	"AUTHENTICATE": "Autenticado",
+	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Seleciona a unidade para cache",
 	"ENABLE_LOCAL_FILES_ADDON": "Ativa o addon de ficheiros locais (requer reinicialização)",
