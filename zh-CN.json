@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio支持哪些设备？",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "我们有适用于Windows、Mac和Linux的桌面应用程序。对于移动设备，我们支持Android和iOS，但请记住iOS的功能有限（不支持大多数插件）。",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "有很多基于Android的设备可以在上面运行Stremio，比如NVIDIA Shield和Amazon Fire Stick，但我们并不正式支持它们。",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "您们能为Stremio添加某些内容吗？",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "抱歉，我们本身不提供任何内容，但是您安装的Stremio插件越多，您可以找到的内容就越多。",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio可以播放Magnet链接吗？",

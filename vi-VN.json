@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio hỗ trợ những thiết bị nào?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Chúng tôi có các ứng dụng dành cho máy tính để bàn dành cho Windows, Mac và Linux. Đối với thiết bị di động, chúng tôi hỗ trợ Android và iOS, mặc dù hãy nhớ rằng iOS bị hạn chế về chức năng (không hỗ trợ hầu hết các add-on).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Có nhiều thiết bị dựa trên Android mà bạn có thể chạy Stremio trên đó, chẳng hạn như NVIDIA Shield và Amazon Fire Stick, nhưng chúng tôi không hỗ trợ chúng một cách chính thức.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Bạn có thể thêm một số nội dung nhất định vào Stremio không?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Xin lỗi, bản thân chúng tôi không cung cấp nội dung, nhưng bạn càng cài đặt nhiều add-on Stremio, bạn càng có thể tìm thấy nhiều nội dung hơn.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio có thể chơi liên kết nam châm không?",

@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Quins dispositius admeten Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Disposem d'aplicacions d'escriptori per a Windows, Mac i Linux. Per a mòbils, admetem Android i iOS, tot i que tingueu en compte que la funcionalitat d'IOS és limitada (no admet la majoria dels complements).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Hi ha molts dispositius basats en Android en els quals podeu executar Stremio, com NVIDIA Shield i Amazon Fire Stick, però no els admetem oficialment.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Podeu afegir un determinat contingut a Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Ho sentim, nosaltres mateixos no proporcionem contingut, però com més complements Stremio tingueu instal·lats, més contingut podreu trobar.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Pot Stremio reproduir enllaços magnètics?",

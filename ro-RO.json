@@ -4,48 +4,40 @@
 	"TYPE_tv": "Canal TV",
 	"TYPE_channel": "Canal",
 	"TYPE_other": "Altele",
-
 	"TYPE_movie_PL": "Filme",
 	"TYPE_series_PL": "Seriale",
 	"TYPE_tv_PL": "Canale TV",
 	"TYPE_channel_PL": "Canale",
 	"TYPE_other_PL": "Altele",
 	"TYPE_ALL": "Toate",
-
+	"TYPE": "Type",
 	"VIDEO": "Video",
-
 	"BACK": "Înapoi",
 	"MORE": "Mai mult",
 	"DONE": "Gata",
 	"COPY": "Copiere",
 	"SUCCESS": "Succes",
 	"ERROR": "Eroare",
-
 	"SETTINGS_CASTING_MODE_PICKER": "Mod de redare pe dispozitiv extern",
 	"CASTING_MODE_HLSV2": "Implicit",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Fără transcodare",
-
 	"Discover": "Descoperă",
 	"Board": "Tablou",
 	"Library": "Bibliotecă",
 	"My Library": "Biblioteca Mea",
 	"Calendar": "Calendar",
-
 	"NOTIFICATION_ONLINE": "Ești online acum",
 	"NOTIFICATION_OFFLINE": "Ești în modul offline",
 	"INTERNET_CONNECTION": "Conexiune la rețea",
-
 	"STORAGE_FULL_TITLE": "Atenție: Spațiul de stocare este plin!",
 	"STORAGE_FULL_TEXT": "Stremio nu va putea să-ți salveze setările, preferințele sau informațiile de autentificare. Poți să consideri repornirea sau reinstalarea Stremio.",
-
 	"SEARCH": "căutare",
 	"SEARCH_NO_RESULTS": "Nu au fost găsite rezultate",
 	"SEARCH_EXPLANATION_CONTENT": "Caută filme, seriale, clipuri YouTube și canale TV",
 	"SEARCH_EXPLANATION_PEOPLE": "Caută actori, regizori și scenariști",
 	"SEARCH_PASTE_LINKS": "Lipește linkuri HTTP și Magnet",
-	"SEARCH_OR_PASTE_LINK" : "Caută sau lipește linkul",
-
+	"SEARCH_OR_PASTE_LINK": "Caută sau lipește linkul",
 	"ADD_TO_LIB": "Adaugă în Bibliotecă",
 	"REMOVE_FROM_LIB": "Șterge din Bibliotecă",
 	"ADDED_TO_LIB": "Adăugat în Bibliotecă",
@@ -56,7 +48,6 @@
 	"SHOW": "Arată",
 	"SHOW_MOVIE": "Arată Filmul",
 	"WATCH_RANDOM": "Vizionează Aleatoriu",
-
 	"IMDB_RATING": "Rating IMDb",
 	"YEAR": "An",
 	"DIRECTOR": "Regizor",
@@ -68,6 +59,7 @@
 	"AIRED": "A fost difuzat",
 	"SEASONS": "Sezoane",
 	"GENRE": "Gen",
+	"GENRE_ALL": "All genres",
 	"CATALOG": "Catalog",
 	"SUMMARY": "Rezumat",
 	"SHOW_MORE": "Arată Mai Mult",
@@ -78,14 +70,11 @@
 	"FEATURED": "Recomandat",
 	"METADATA": "Metadate",
 	"CATEGORY": "categorie",
-
 	"LINKS_GENRES": "Genuri",
 	"LINKS_CAST": "Distribuție",
 	"LINKS_DIRECTORS": "Regizori",
-
 	"SEARCH_VIDEOS": "caută videoclipuri",
 	"SEARCH_PLACEHOLDER": "caută sau lipește URL-ul",
-
 	"ADDON": "extensie",
 	"ADDONS": "Extensii",
 	"OFFICIAL": "oficial",
@@ -98,7 +87,7 @@
 	"ADDON_STREAM_OFFLINECACHE": "Cache Offline",
 	"ADDON_STREAM_LOCALFILE": "Fișier Local",
 	"SHARE_ADDON": "Distribuie extensia",
-  "AVAILABLE_STREAMS": "Stream-uri disponibile",
+	"AVAILABLE_STREAMS": "Stream-uri disponibile",
 	"NO_STREAM": "Nu au fost găsite stream-uri",
 	"ALL_ADDONS": "Toate",
 	"INSTALL_MORE_ADDONS": "Pentru mai multe stream-uri, instalează mai multe extensii",
@@ -109,17 +98,16 @@
 	"ADDON_REPO_EXIST_ERR": "Această colecție de extensii există deja",
 	"ADDON_REPO_ERR": "A apărut o eroare la adăugarea colecției",
 	"ADDON_ADD_ERR": "A apărut o eroare la adăugarea extensiei",
-	"ERR_ADDON_PROTECTED" : "Nu poți dezinstala această extensie, este protejată",
+	"ERR_ADDON_PROTECTED": "Nu poți dezinstala această extensie, este protejată",
 	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Ceva a mers greșit - autentificarea se poate să fi eșuat",
-	"ERR_NOT_COLLECTION_URL" : "Nu este un URL de colecție",
-	"ERR_NOT_ADDON_URL" : "Nu este un URL valid de extensie",
-	"ERR_DETECTFROMURL" : "Nu se poate găsi extensia/colecția din acest URL",
-	"ADDON_DUPLICATE_WARNING" : "Atenție: extensie duplicată",
-	"ADDON_COLLECTION_SET_FAILED" : "Sincronizarea extensiilor instalate cu contul tău a eșuat",
-	"SETTINGS_DATA_EXPORT" : "Exportă datele utilizatorului",
-	"ADDON_PULL_FAILED" : "Sincronizarea extensiilor instalate din contul tău a eșuat",
-	"REFRESH_ON_CLICK" : "Click pentru a reîncerca",
-
+	"ERR_NOT_COLLECTION_URL": "Nu este un URL de colecție",
+	"ERR_NOT_ADDON_URL": "Nu este un URL valid de extensie",
+	"ERR_DETECTFROMURL": "Nu se poate găsi extensia/colecția din acest URL",
+	"ADDON_DUPLICATE_WARNING": "Atenție: extensie duplicată",
+	"ADDON_COLLECTION_SET_FAILED": "Sincronizarea extensiilor instalate cu contul tău a eșuat",
+	"SETTINGS_DATA_EXPORT": "Exportă datele utilizatorului",
+	"ADDON_PULL_FAILED": "Sincronizarea extensiilor instalate din contul tău a eșuat",
+	"REFRESH_ON_CLICK": "Click pentru a reîncerca",
 	"STILL_IN_THEATER": "Film încă în cinematografe",
 	"WATCH_IN_CINEMA": "Vizionează-l în cinematograful local",
 	"IN_THEATER": "În cinematograf",
@@ -131,12 +119,10 @@
 	"CHANNEL_NOT_SCRAPED": "Acest canal nu a fost încă explorat.<br>Vă rugăm să reveniți în câteva minute.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Adaugă-l în biblioteca ta pentru a fi notificat când devine disponibil.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Veți fi notificat(ă) când devine disponibil.",
-
 	"WARNING_STREAMING_SERVER": "Atenție: serverul local de streaming nu a fost găsit. Redarea din fișiere locale, YouTube și BitTorrent nu va fi disponibilă.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Ignoră",
 	"WARNING_STREAMING_SERVER_LATER": "Mai târziu",
 	"DECODER_WARNING": "Atenție: acest video s-ar putea să nu fie suportat de hardware-ul tău. Ține minte, redarea ar putea fi lentă.",
-
 	"PLAYER_ERROR": "Ops, eroare la player",
 	"PLAYER_ERROR_LOOKSLIKE": "Se pare că",
 	"PLAYER_ORIENTATION": "Orientare player",
@@ -164,16 +150,12 @@
 	"PLAYER_UNMUTE": "Activare sunet",
 	"PLAYER_OPEN_IN_EXTERNAL": "Deschide în player extern",
 	"PLAYER_PLAY_IN": "Redă în {{device}}",
-
 	"PLAYER_LIVE": "În direct",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "Următorul pe",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Ignoră",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Urmărește acum",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "Linkul de stream a fost copiat în clipboard",
 	"PLAYER_COPY_STREAM_ERROR": "Nu s-a putut copia linkul de stream",
-
 	"STREAMING_FROM": "streaming de la",
 	"CASTING_TO": "Redarea pe",
 	"NETWORK_STATUS": "Stare rețea",
@@ -184,25 +166,19 @@
 	"PEERS_CONNECTED": "Conectați:",
 	"PEERS_WAITING": "În așteptare:",
 	"TRANSCODING_WARNING": "Atenție: video-ul este transcodat.",
-
 	"STREAM_LOADING": "se încarcă...",
 	"PLAYING_LOCAL": "se redă din fișier local",
 	"PLAYING_CACHE": "se redă din cache",
-
 	"WRONG_SUBS": "Subtitrări greșite?",
 	"ERR_SUBS_LOADING_TITLE": "Eroare la încărcarea subtitrărilor",
 	"ERR_SUBS_LOADING": "Eroare la încărcarea subtitrărilor: aceasta poate fi o problemă cu extensia pe care o folosiți sau cu conexiunea la rețea",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Următoarele extensii de subtitrări au eșuat",
-	"ERR_CASTING_UPDATE_TITLE" : "Nu s-a putut actualiza informațiile despre dispozitivul de redare: serverul de streaming poate fi offline",
-
+	"ERR_CASTING_UPDATE_TITLE": "Nu s-a putut actualiza informațiile despre dispozitivul de redare: serverul de streaming poate fi offline",
 	"CHOOSE_DEVICE": "Alege un dispozitiv pentru a urmări",
 	"NO_CAST_DEVICES": "Nu sunt dispozitive de redare disponibile.",
-
 	"NO_SETTINGS": "Nu sunt setări disponibile.",
-
 	"PHONE_TABLET": "Telefon / Tabletă",
-
-    "SUBTITLES": "Subtitrări",
+	"SUBTITLES": "Subtitrări",
 	"SUBTITLES_CHANGE": "Schimbă subtitrările pentru ",
 	"SUBTITLES_CHANGE_NONE": "Nu există alte subtitrări pentru această limbă, ne pare rău.",
 	"SUBTITLES_CHANGE_ACIVE": "În prezent subtitrarea &#35;{{subtitlesDialog.activeIdx + 1}} este activată. Dă clic pe „Continuă” pentru a activa subtitrarea &#35;{{subtitlesDialog.pickedIdx + 1}}.",
@@ -214,24 +190,17 @@
 	"SUBTITLES_LOADING": "Se încarcă subtitrările...",
 	"SUBTITLES_UNAVAILABLE": "Nu sunt disponibile subtitrări externe",
 	"SUBTITLES_DISABLED": "Dezactivate",
-
 	"EXTERNAL_PLAYER_DISABLED": "Dezactivat",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "Permite selectarea",
 	"EXTERNAL_PLAYER_HINT": "Sugestie: există o setare pentru a permite deschiderea întotdeauna cu playerul extern",
-
 	"DONT_SHOW_AGAIN": "Nu mai arăta",
-
 	"SERVICE_INSTALL": "Instalează",
-
 	"AUDIO": "Audio",
-
 	"DEFAULT_LANGUAGE": "Limbă implicită",
 	"DEFAULT_SECONDARY_LANGUAGE": "A doua limbă implicită",
-
 	"SEASON": "Sezon",
 	"EPISODE": "Episod",
 	"SPECIAL": "Special",
-
 	"SORT": "sortează",
 	"SORT_BY": "Sortează după",
 	"FILTER": "filtrează",
@@ -249,31 +218,25 @@
 	"SORT_LASTWATCHED": "După ultima vizionare",
 	"SORT_NAME": "După nume",
 	"SORT_TIMESWATCHED": "După numărul de vizionări",
-
 	"New for You": "Nou pentru tine",
 	"New Episodes": "Episoade noi",
 	"New Videos": "Clipuri noi",
 	"Recommendations": "Recomandări",
-
 	"LIBRARY_RESUME": "Continuă",
 	"LIBRARY_PLAY": "Redă",
 	"LIBRARY_DETAILS": "Detalii",
 	"LIBRARY_RESUME_DISMISS": "Ignoră",
 	"LIBRARY_CLEAR_PROGRESS": "Șterge progresul",
 	"LIBRARY_REMOVE": "Elimină",
-
 	"LIBRARY_NOT_LOGGED_IN": "Biblioteca este disponibilă doar pentru utilizatorii autentificați",
 	"CALENDAR_NOT_LOGGED_IN": "Calendarul este disponibil doar pentru utilizatorii autentificați",
 	"NOT_LOGGED_IN_CLOUD": "Accesează filmele și serialele tale favorite în orice moment și oriunde",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Recomandări adaptate istoricului tău de vizionare",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Nu pierde niciodată un episod nou",
 	"NOT_LOGGED_IN_CALENDAR": "Stabilește-ți propriul calendar personal de vizionare",
-
 	"DISCOVER_FEATURED": "Recomandate",
-
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Câștigători ai premiului Oscar",
-
 	"DISCOVER_WARNING_TITLE": "Oops!",
 	"DISCOVER_EMPTY_CATALOG": "Această extensie a returnat conținut gol.",
 	"DISCOVER_ADULT_WARNING": "Conținutul este vizibil doar pentru adulți. Ai peste 18 ani?",
@@ -282,12 +245,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Acest conținut nu mai este disponibil, este posibil să fi dezinstalat extensia.",
 	"UNINSTALL_THIS_ADDON": "Dezinstalează această extensie",
 	"ERR_ADDON_NOT_INSTALLED": "Această extensie nu este instalată. Să o instalezi acum?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primi notificări pentru episoade noi",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primi notificări pentru videoclipuri noi",
-
 	"SIDEBAR_SHOW_STREAMS": "Afișează fluxurile",
-
 	"RELAUNCH": "Reporniți acum!",
 	"UPGRADE": "Este disponibilă o nouă versiune! Actualizați la cea mai recentă versiune Stremio",
 	"RELOAD_UI": "Reîncărcați interfața de utilizator",
@@ -296,7 +256,6 @@
 	"MANUAL_UPDATE_LINE2": "Vă rugăm să actualizați cât mai curând posibil.",
 	"BUTTON_UPDATE_LATTER": "Nu acum",
 	"BUTTON_UPDATE_NOW": "Actualizați",
-
 	"ANONYMOUS_USER": "Utilizator anonim",
 	"DONT_HAVE_ACC": "Nu aveți un cont?",
 	"HAVE_ACC": "Aveți deja un cont?",
@@ -345,20 +304,16 @@
 	"SEARCH_FAILED": "Căutarea a eșuat",
 	"EMAIL_USED": "Acest e-mail este deja în uz.",
 	"WAITING_FB_LOGIN": "Se autentifică cu Facebook...",
-
 	"EXTERNAL_PLAYER_TITLE": "Redați în playerul extern",
 	"EXTERNAL_REMEMBER_PLAYER": "Doriți să vă amintiți alegerea dvs.?",
 	"EXTERNAL_ALWAYS_PLAY": "Da",
 	"EXTERNAL_ONLY_ONCE": "Nu",
-
 	"BEST_FIT": "Potrivire perfectă",
 	"FIT_SCREEN": "Potrivire ecran",
 	"FILL": "Umplere",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Original",
-
-
 	"INTRO_TASTE": "Spuneți-ne despre ce vă place",
 	"INTRO_TASTE_LONG": "Spuneți-ne despre ce ați dori să urmăriți",
 	"INTRO_TASTE_PICK": "Alegeți {{interestsRemaining}} interese",
@@ -382,7 +337,6 @@
 	"INTRO_TASTE_DIY": "Fă-ți singur",
 	"INTRO_TASTE_TECH": "Tehnologie",
 	"INTRO_TASTE_CINEMA": "Cinematografie",
-
 	"ADDON_NOT_SUPPORTED": "Addon-ul selectat nu este suportat pe această platformă.",
 	"ADDON_DISCLAIMER": "Utilizarea addon-urilor de la terți va fi întotdeauna sub responsabilitatea dvs. și sub supunerea legii din jurisdicția în care vă aflați.",
 	"ADDON_ACTIVATE": "Doriți să activați acest addon?",
@@ -391,9 +345,7 @@
 	"ADD_ADDON": "Adăugați addon",
 	"ADD_ADDON_DESCRIPTION": "Puteți adăuga un addon prin intermediul unui link extern, care va apărea sub addon-urile instalate.",
 	"PASTE_ADDON_URL": "Lipiți URL-ul addon-ului",
-
 	"WHATS_NEW": "Ce este nou",
-
 	"BUTTON_CONTINUE": "Continuare",
 	"BUTTON_ACTIVATE": "Activează",
 	"BUTTON_ACTIVATED": "Activat",
@@ -403,9 +355,7 @@
 	"BUTTON_VIEW_ALL": "vezi toate",
 	"BUTTON_SEE_ALL": "Vezi toate",
 	"BUTTON_COLOR_TRANSPARENT": "Transparent",
-
 	"OPEN_IN_BROWSER": "Deschideți în browser",
-
 	"LIB_EMPTY": "Biblioteca dvs. pare goală. Aflați cât de utilă poate fi :) ",
 	"HOW_START": "Iată cum puteți începe:",
 	"LIB_EMPTY_CAL": "Calendarul dvs. afișează serii din Biblioteca dvs.",
@@ -430,14 +380,11 @@
 	"LIB_EMPTY_ALL": "Înregistrați-vă pentru a obține toate acestea:",
 	"LIB_EMPTY_BEST": "Înregistrați-vă pentru a obține cel mai bun din Stremio",
 	"LIB_EMPTY_OTHER": "Înregistrați-vă pentru a activa Calendarul și alte caracteristici interesante",
-
 	"CALENDAR_ADDED": "Calendarul Stremio a fost adăugat la calendarul implicit al desktopului.",
 	"CALENDAR_ADDED_MSG": "Dacă acest lucru nu funcționează, vă rugăm să adăugați manual acest URL la aplicația dvs. de calendar",
-
 	"TRAKT_EXPIRED": "Autentificarea Trakt a expirat, vă rugăm să mergeți la Setări și să vă autentificați din nou",
-	"TRAKT_REQUIRES_LOGIN" : "Eroare Trakt",
-	"TRAKT_REQUIRES_LOGIN_MSG" : "Trebuie să vă autentificați",
-
+	"TRAKT_REQUIRES_LOGIN": "Eroare Trakt",
+	"TRAKT_REQUIRES_LOGIN_MSG": "Trebuie să vă autentificați",
 	"SETTINGS_LABEL": "Setări",
 	"SETTINGS_NAV_GENERAL": "Generale",
 	"SETTINGS_NAV_PLAYER": "Player",
@@ -549,13 +496,11 @@
 	"SETTINGS_HW_ACCELERATED": "Accelerare decodificare",
 	"SETTINGS_HW_FULL": "Accelerare completă",
 	"SETTINGS_HW_LEGACY": "Legacy",
-
 	"SETTINGS_SECTION_SUBTITLES": "Subtitrări",
 	"SETTINGS_SECTION_AUDIO": "Audio",
 	"SETTINGS_SECTION_CONTROLS": "Comenzi",
 	"SETTINGS_SECTION_AUTO_PLAY": "Redare automată",
 	"SETTINGS_SECTION_ADVANCED": "Avansate",
-
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Subtitrări extensii",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utilizați culoarea de fundal neagră",
@@ -563,7 +508,6 @@
 	"SUBSPICKER_SIZE": "Dimensiune",
 	"SUBSPICKER_DELAY": "Întârziere",
 	"SUBSPICKER_EMBEDDED_SUBS": "Subtitrări incorporate",
-
 	"MOBILE_PRIVACY_POLICY": "Politica de confidențialitate",
 	"MOBILE_CRASH_REPORTING": "Raportarea incidentelor",
 	"MOBILE_ZOOM_TO_FILL": "Mărire pentru a umple ecranul",
@@ -597,16 +541,10 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Contul dvs. a fost creat utilizând Facebook. Pentru a șterge contul dvs., vă rugăm să utilizați portalul nostru pentru utilizatori la www.stremio.com/login",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Vă rugăm să introduceți parola pentru a confirma ștergerea contului.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "Ștergere cont",
-
 	"NAVIGATION_ON": "Pornit",
 	"NAVIGATION_OFF": "Oprit",
-
 	"MARKETING_AGREE": "Sunt de acord să primesc comunicări de marketing de la Stremio",
-
-
-
 	"QUIT": "Ieșire",
-
 	"CONNECTED": "Conectat",
 	"AUTHENTICATE": "Autentificare",
 	"CACHING": "Se realizează cache",
@@ -617,7 +555,6 @@
 	"TORRENT_PROFILE": "Profil torrent",
 	"DATA_CACHING": "Cache de date",
 	"MAGNET_PARSING": "Se parsează un link magnet",
-
 	"January": "Ianuarie",
 	"February": "Februarie",
 	"March": "Martie",
@@ -630,7 +567,6 @@
 	"October": "Octombrie",
 	"November": "Noiembrie",
 	"December": "Decembrie",
-
 	"Monday": "Luni",
 	"Tuesday": "Marți",
 	"Wednesday": "Miercuri",
@@ -638,7 +574,6 @@
 	"Friday": "Vineri",
 	"Saturday": "Sâmbătă",
 	"Sunday": "Duminică",
-
 	"Action": "Acțiune",
 	"Comedy": "Comedie",
 	"War": "Război",
@@ -714,7 +649,6 @@
 	"Science Radio": "Radio Științific",
 	"Tech Radio": "Radio Tehnologic",
 	"Science & Technology Vod": "VOD Știință și Tehnologie",
-
 	"new video": "video nou",
 	"new episode": "episod nou",
 	"new movie": "film nou",
@@ -723,7 +657,6 @@
 	"offer of the day": "ofertă a zilei",
 	"news": "știri",
 	"music video": "videoclip muzical",
-
 	"CTX_SHOW_HOTKEYS": "Afișați tastele rapide",
 	"CTX_DISMISS_NOTIF": "Respinsți notificările",
 	"CTX_DISMISS_ALL": "Respinsți toate",
@@ -764,7 +697,6 @@
 	"CTX_PASTE": "Lipiti",
 	"CTX_CLEAR": "Goliți",
 	"CTX_CLEAR_RECENT_SEARCHES": "Goliți căutările recente",
-
 	"HELLO_THERE": "Bună!",
 	"HOPE_YOU_ENJOY": "Sperăm că vă bucurați de Stremio și că a devenit deja una dintre aplicațiile dvs. preferate!",
 	"WHO_ARE_WE": "Cine suntem? Suntem echipa din spatele acestui produs - doi oameni care lucrează din greu în fiecare zi de ultimii 3 ani pentru a face acest produs din ce în ce mai bun.",
@@ -772,9 +704,7 @@
 	"SPREAD_THE_WORD": "Partajați acum cu prietenii dvs., distribuiți vestea despre Stremio",
 	"MORE_PEOPLE": "Cu cât mai mulți oameni folosesc Stremio, cu atât mai bine va deveni!",
 	"SEND_A_LINK": "Sau trimiteți un link către site-ul nostru",
-
 	"TIP_LOCALFILES": "Sfat: puteți trage și plasa fișiere video locale în Stremio",
-
 	"ADDON_MY": "Extensiile mele",
 	"ADDON_COMMUNITY": "Extensii Comunitare",
 	"ADDON_OFFICIAL": "Extensii Oficiale",
@@ -805,7 +735,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Vizionați #{types} GRATUIT",
 	"ADDON_PROVIDES_SUBTITLES": "Subtitrări pentru #{types}",
 	"ADDON_CANTDETECT": "Nu am putut detecta o instanță de Stremio în funcție, deci nu am putut detecta ce extensii aveți instalate.",
-
 	"ERR_NO_META": "Nu s-au găsit informații despre aceasta ",
 	"ERR_GETTING_META": "Eroare la preluarea informațiilor despre aceasta.",
 	"ERR_CANT_PARSE_MAGNET": "Imposibil de analizat magnetul",
@@ -813,18 +742,16 @@
 	"ERR_NO_FILE_PATH": "Nu se poate trimite cererea fără un drum către fișier",
 	"ERR_NO_TORRENT": "Niciun torrent returnat",
 	"ERR_NO_SUPPORTERD_FILES": "Nu s-au găsit fișiere suportate",
-	"ERR_OPENING_FILES" : "Nu s-au putut deschide fișiere externe",
+	"ERR_OPENING_FILES": "Nu s-au putut deschide fișiere externe",
 	"ERR_INVALID_LINK": "Legătură invalidă",
 	"ERR_REGISTERED_ONLY": "Această opțiune este disponibilă doar pentru utilizatorii înregistrați.",
 	"ERR_CLIPBOARD": "Nu se poate reda din clipboard",
 	"ERR_CLIPBOARD_READ": "Nu se poate citi clipboardul pe această platformă",
 	"ERR_CLIPBOARD_GENERIC": "Nu s-a găsit nicio adresă URL redabilă în clipboard. Vă rugăm să copiați o adresă URL (de exemplu, o legătură magnet) către un videoclip.",
-	
 	"BOARD_CONTINUE_WATCHING": "Continuați vizionarea",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filme alese special pentru dumneavoastră.<br />Acest film este o recomandare de exemplu.",
 	"BOARD_EXPLANATION_EPISODES": "Episoade noi din seria dumneavoastră preferată apar aici.<br />Adăugați serialele pe care le urmăriți în Biblioteca dumneavoastră.",
 	"BOARD_EXPLANATION_VIDEOS": "Episoade noi din canalele dumneavoastră preferate apar aici.<br />Adăugați canalele YouTube pe care le urmăriți în Biblioteca dumneavoastră.",
-	
 	"WEBSITE_ENJOYED_BY": "Apreciat de peste 30 de milioane de utilizatori din întreaga lume",
 	"WEBSITE_STREAMING_ENHANCED": "Îmbunătățit pentru streaming",
 	"WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio oferă o experiență de divertisment sigură, modernă și lipsită de întreruperi. Cu interfața sa ușor de utilizat și biblioteca sa diversificată de conținut, inclusiv suport pentru 4K HDR, utilizatorii pot să se bucure de filmele și emisiunile lor TV preferate pe toate dispozitivele lor. Și cu angajamentul său față de securitate, Stremio este alegerea ultimă pentru o experiență de streaming de înaltă calitate fără griji.",
@@ -871,7 +798,7 @@
 	"WEBSITE_FREE_AND_SECURE_DETAILS": "Stremio oferă securitate și confidențialitate de neegalat pentru utilizatori. Cu caracteristica sa unică de a rula addon-uri de la distanță, Stremio oferă o modalitate mai sigură de a reda conținutul preferat în comparație cu alte platforme. Securitatea și confidențialitatea dumneavoastră sunt priorități absolute, iar platforma se asigură că toate datele dumneavoastră sunt protejate.",
 	"WEBSITE_FREE_AND_SECURE_DETAILS_2": "Să spuneți adio îngrijorărilor legate de securitate și confidențialitate și să salutați o lume a divertismentului fără sfârșit cu Stremio.",
 	"WEBSITE_INFORMATION_PROVIDED_BY": "Informații furnizate de",
-	"WEBSITE_CONTRIBUTE": "Contribuiți",
+	"WEBSITE_CONTRIBUTE": "Contribuie",
 	"WEBSITE_CONTRIBUTE_DESC": "la proiect și ajutați-ne să facem Stremio și mai bun",
 	"WEBSITE_COMMUNITY_DESC": "Credem că cel mai bun mod de a crea o experiență de streaming cu adevărat uimitoare este prin implicarea comunității noastre în proces. Fie că sunteți un programator, un artist sau doar un fan - puteți ajuta la dezvoltarea lui Stremio.",
 	"WEBSITE_COMMUNITY_DESC_2": "Așadar, alăturați-vă nouă astăzi și deveniți parte a comunității Stremio și continuați să modelați viitorul streamingului.",
@@ -914,8 +841,6 @@
 	"WEBSITE_STREMIO_WEB_ON_IOS": "Ghid pentru Stremio Web pe iOS",
 	"WEBSITE_LINK_ART_V2": "Galerie de artă",
 	"WEBSITE_PARTNERS": "Parteneri",
-	
-	
 	"WEBSITE_SLOGAN_WATCH": "Vizionați instantaneu",
 	"WEBSITE_SLOGAN_ALL": "Toate conținuturile video pe care le iubiți într-un singur loc",
 	"WEBSITE_SLOGAN_NEW": "Tot ce puteți viziona",
@@ -932,44 +857,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Creați un Addon",
 	"WEBSITE_PAGE_CONTACTS": "Contacte",
 	"WEBSITE_PAGE_BLOG": "Blog",
-	
 	"WEBSITE_TYPE_movie": "Filme",
 	"WEBSITE_TYPE_series_PL": "Seriale",
 	"WEBSITE_TYPE_tv": "TV în direct",
-	"WEBSITE_TYPE_channel": "Canale",	
-	
+	"WEBSITE_TYPE_channel": "Canale",
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio este o aplicație care vă ajută să vă organizați și să vizionați instantaneu videoclipurile, filmele, serialele TV și canalele TV preferate.",
-	
 	"WEBSITE_FEATURES_WATCH": "Vizionați instantaneu în HD",
-	"WEBSITE_FEATURES_WATCH_DETAIL": "Dați clic și redați filmele, emisiunile TV, videoclipurile și canalele TV preferate.",	
-	
+	"WEBSITE_FEATURES_WATCH_DETAIL": "Dați clic și redați filmele, emisiunile TV, videoclipurile și canalele TV preferate.",
 	"WEBSITE_FEATURES_SUBS": "Subtitrări automate",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio alege automat subtitrări sincronizate pentru limba dumneavoastră.",
-	"WEBSITE_FEATURES_SUBS_LABEL": "Mișcarea ta, șefule.",	
-	
+	"WEBSITE_FEATURES_SUBS_LABEL": "Mișcarea ta, șefule.",
 	"WEBSITE_FEATURES_CAST": "Redați pe TV și dispozitive mobile",
-	"WEBSITE_FEATURES_CAST_DETAIL": "Redați pe AppleTV, Chromecast, Smart TV (DLNA/UPnP) și dispozitive mobile.",	
-	
+	"WEBSITE_FEATURES_CAST_DETAIL": "Redați pe AppleTV, Chromecast, Smart TV (DLNA/UPnP) și dispozitive mobile.",
 	"WEBSITE_LIB": "Bucurați-vă de biblioteca dumneavoastră personală",
 	"WEBSITE_LIB_COLLECT": "Colectează din Stremio",
 	"WEBSITE_LIB_IMPORT": "Importă din Facebook",
 	"WEBSITE_LIB_LOCAL": "Adaugă de pe unitatea dvs. locală",
-
 	"WEBSITE_BOARD": "The Board - Locul tău unic pentru notificări și recomandări",
 	"WEBSITE_BOARD_RECOMMEND": "Serial TV recomandat",
 	"WEBSITE_BOARD_TRENDING": "Film în tendințe",
 	"WEBSITE_BOARD_NEW": "Video nou",
 	"WEBSITE_BOARD_EPISODE": "Episod nou",
-
 	"WEBSITE_BOARD_1": "Căutați ceva interesant de vizionat? Obțineți recomandări bazate pe gusturile dvs.!",
 	"WEBSITE_BOARD_2": "Primiți notificări atunci când apare un nou episod al serialului TV preferat sau al canalului YouTube pe care-l urmăriți!",
-
 	"WEBSITE_BOARD_YOUTUBE": "Video-uri noi de pe canale YouTube",
 	"WEBSITE_BOARD_EPISODES": "Episoade noi ale serialelor pe care le urmăriți",
-
-
 	"WEBSITE_ADDONS": "Addon-uri de conținut",
-
 	"WEBSITE_TECH_DETAIL": "Iubim tehnologia, iubim știința nebună!\nStremio folosește următoarele tehnologii open source:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js permite Stremio să redea orice format video cu performanță bună.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Contribuitori la proiectul de bază",
@@ -977,8 +890,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Contribuitori la proiect",
 	"WEBSITE_TECH_LINVODB": "O tehnologie de bază de date care asigură organizarea datelor dvs. disponibile oriunde vă autentificați.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Tehnologie internă",
-
-
 	"WEBSITE_CREATE_ADDON": "Creați-vă addon-ul",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Aveți un serviciu care furnizează conținut video? Vă vom ajuta să beneficiați de caracteristicile Stremio prin crearea propriului addon.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Beneficiile creării unui addon pentru Stremio",
@@ -989,20 +900,16 @@
 	"WEBSITE_P2P_CONTACT": "Interesați? Sunteți binevenit să ne <a href='mailto:office@stremio.com'>contactați</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "Vom fi bucuroși să vă ajutăm să integrați conținutul dvs. cu Stremio!",
 	"WEBSITE_P2P": "Din când în când, apare o tehnologie care schimbă regulile jocului. Am investit mult timp și efort în construirea motorului nostru de streaming video Peer-to-Peer (P2P), care oferă performanțe excelente și versatilitate pentru a se adapta la orice caz de utilizare. Contactați-ne pentru streaming video P2P cu DRM activat la cerere sau în timp real.",
-	
-	
 	"WEBSITE_THOUGHTS": "Gândurile pe care le împărtășim:",
 	"WEBSITE_SPREAD": "Răspândiți vestea despre Stremio:",
 	"WEBSITE_CONTACT": "Contactați-ne, ne bucurăm să auzim de la dvs.!",
 	"WEBSITE_OPENSOURCE": "Pentru proiectele noastre open source, accesați",
-
 	"WEBSITE_BITCOIN": "Donați Bitcoin:",
 	"WEBSITE_FAQ": "Întrebări frecvente",
 	"WEBSITE_FAQ_SHORT": "Întrebări frecvente",
 	"WEBSITE_QUESTIONS": "Întrebări",
 	"WEBSITE_TOS": "Termeni și condiții",
 	"WEBSITE_LEGAL": "Informații legale",
-
 	"WEBSITE_PAGE_ABOUT": "Despre",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Deveniți partener",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Libertatea de a viziona\nTot ce vrei.",
@@ -1020,8 +927,7 @@
 	"WEBSITE_DEVICES_ALL": "Ușor de utilizat pe toate dispozitivele dvs.;",
 	"WEBSITE_EXTENDABLE_CATALOG": "Catalog de video extensibil în mod infinit;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Funcționalități excelente pentru organizarea conținutului dvs. media;",
-	"WEBSITE_AS_SEEN_ON": "Așa cum se vede pe",	
-	
+	"WEBSITE_AS_SEEN_ON": "Așa cum se vede pe",
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "Despre noi",
 	"WEBSITE_LINK_TECHNOLOGY": "Tehnologie",
@@ -1045,11 +951,10 @@
 	"WEBSITE_LINK_PRAVACY_LEGAL": "Confidențialitate și legale",
 	"WEBSITE_WHY": "De ce facem asta",
 	"WEBSITE_WHY_P1": "La Stremio, venim la serviciu în fiecare zi deoarece vrem să rezolvăm o problemă importantă pentru industria de video la cerere. Există atât de mult conținut nou publicat în fiecare minut, încât este practic imposibil să vă descurcați în el.",
-	"WEBSITE_WHY_P2":"Ajutăm oamenii să navigheze în acea lume imensă a divertismentului video și să descopere conținut nou de bucurat. Aplicațiile noastre aduc împreună filme, seriale, televiziune live, canale web și multe altele. Suntem dedicați să facem extrem de ușor pentru utilizatori să găsească titluri și emițători pe care îi iubesc.",
-	"WEBSITE_WHY_P3":"Puteți utiliza serviciul nostru pe orice dispozitiv și în orice moment, făcând din Stremio singurul hub de divertisment video de care veți avea vreodată nevoie.",
+	"WEBSITE_WHY_P2": "Ajutăm oamenii să navigheze în acea lume imensă a divertismentului video și să descopere conținut nou de bucurat. Aplicațiile noastre aduc împreună filme, seriale, televiziune live, canale web și multe altele. Suntem dedicați să facem extrem de ușor pentru utilizatori să găsească titluri și emițători pe care îi iubesc.",
+	"WEBSITE_WHY_P3": "Puteți utiliza serviciul nostru pe orice dispozitiv și în orice moment, făcând din Stremio singurul hub de divertisment video de care veți avea vreodată nevoie.",
 	"WEBSITE_TEAM": "ECHIPA",
 	"WEBSITE_TEAM_P": "Echipa Stremio este mică, dar puternică: dintre cei zece dintre noi, codăm în X limbaje și împărtășim experiență în dezvoltarea software-ului, designul UI și UX, marketingul și publicitatea, afacerile și startup-urile.",
-
 	"WEBSITE_FEATURES": "Caracteristici",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Descoperiți conținut nou cu ușurință",
@@ -1065,7 +970,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Vizionați video din multe surse diferite",
 	"WEBSITE_FEATURES_SOURCES_P": "Instalați addon-uri oficiale și din comunitate pentru a vă bucura de video furnizat din multe surse diferite - toate într-o aplicație elegantă și ușor de utilizat.",
 	"WEBSITE_CREATE_AN_ADDON": "Creați un addon",
-
 	"WEBSITE_FEATURES_SYNC": "Sincronizați-vă biblioteca pe diferite dispozitive și continuați redarea",
 	"WEBSITE_FEATURES_SYNC_P1": "Conectați-vă cu contul dvs. pe toate dispozitivele și bucurați-vă de biblioteca, addon-urile, redarea și calendarul sincronizate.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Catalog de video extensibil prin addon-uri",
@@ -1080,7 +984,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Redați într-un player extern",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Redați dintr-un fișier torrent sau un link magnet",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Importați în biblioteca dvs. din aprecierile de pe Facebook sau de pe discul local",
-
 	"WEBSITE_ADD_ONS": "Addon-uri",
 	"WEBSITE_ADD_ONS_P1": "Tot conținutul video furnizat de Stremio este obținut prin intermediul unui sistem de addon-uri - niciun conținut sau furnizor de conținut nu a fost încorporat în aplicație.",
 	"WEBSITE_ADD_ONS_P2": "Există două grupuri de addon-uri disponibile: addon-uri oficiale și addon-uri din comunitate.",
@@ -1098,7 +1001,6 @@
 	"WEBSITE_ADDONS_CREATE": "Creați un addon",
 	"WEBSITE_ADDONS_CREATE_P1": "Dacă doriți, puteți dezvolta propriul addon. În acest fel, puteți oferi dvs. și comunității noastre acces la conținut video nou și puteți ajunge la o nouă audiență țintită din milioane de utilizatori din întreaga lume.",
 	"WEBSITE_ADDONS_START_CREATE": "Pentru a începe, vizitați pagina SDK pentru addon-uri Stremio:",
-
 	"WEBSITE_DOWNLOADS": "Descărcări",
 	"WEBSITE_DOWNLOADS_P1": "Pentru performanță optimă, vă recomandăm să utilizați cea mai recentă versiune disponibilă a aplicațiilor Stremio. Dacă dintr-un motiv oarecare doriți să utilizați o versiune mai veche, o puteți descărca aici.",
 	"WEBSITE_DOWNLOADS_P1_SHORT": "Pentru performanță optimă, vă recomandăm să utilizați cea mai recentă versiune disponibilă a aplicațiilor Stremio.",
@@ -1110,7 +1012,6 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio pentru dispozitive mobile Android",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio pentru Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio pentru iOS (versiune limitată)",
-	
 	"WEBSITE_DOWNLOAD_SERVICE": "Descărcați Serviciul Stremio",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Serviciul Stremio este o aplicație companion pentru Stremio Web. Vă recomandăm să utilizați cea mai recentă versiune disponibilă a Serviciului Stremio.",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Serviciul Stremio pentru Windows",
@@ -1120,8 +1021,6 @@
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Mai multe opțiuni de descărcare",
 	"WEBSITE_DOWNLOAD_NEW": "Nou!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Am lansat Stremio Web",
-	
-	"WEBSITE_CONTRIBUTE": "Contribuie",
 	"WEBSITE_CONTRIBUTE_P1": "Platforma Stremio este open source și puteți crea ușor un addon pentru conținut care nu este încă obținut.",
 	"WEBSITE_CONTRIBUTE_WHY": "De ce ar trebui să creați un addon?",
 	"WEBSITE_CONTRIBUTE_WHY_P1": "Atingeți o nouă audiență pentru conținutul dvs. video",
@@ -1138,7 +1037,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Dacă doriți să utilizați aplicațiile Stremio în diferite limbi, vă puteți alătura comunității noastre de traducători voluntari. Aceștia ne ajută să adăugăm versiuni ale Stremio în multe limbi diferite.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Sunteți nerăbdător să începeți?",
 	"WEBSITE_TRANSALTE_STREMIO": "Traduceți Stremio",
-	
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Comunități oficiale",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Faceți parte din creșterea comunității Stremio. Urmați-ne pe rețelele sociale și nu ezitați să ne salutați - ne place să auzim de la fanii noștri!",
@@ -1160,7 +1058,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Wallpapere",
 	"WEBSITE_COMMUNITY_ART": "Galerie de Artă a Comunității",
 	"WEBSITE_LINK_ART": "Galeria de artă a comunității",
-	
 	"WEBSITE_CONTACT_US": "Contactați-ne",
 	"WEBSITE_CONTACT_US_P1": "Dacă aveți întrebări, comentarii sau sugestii, nu ezitați să ne contactați prin formularul de contact de mai jos.",
 	"WEBSITE_CONTACT_US_P2": "Rețineți că ne aflăm în Bulgaria, deci poate exista o întârziere în rezolvarea cererii dvs. din cauza diferențelor de fus orar.",
@@ -1171,7 +1068,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "Adresa dvs. de e-mail",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Mesaj",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "TRIMITE",
-	
 	"WEBSITE_CONTACT_US_Q_1": "Cum să instalez?",
 	"WEBSITE_CONTACT_US_Q_2": "Cum să dezinstalez?",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) Cum să fac lasagna?",
@@ -1181,7 +1077,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-	
 	"WEBSITE_TECHNOLOGY": "Tehnologie",
 	"WEBSITE_TECHNOLOGY_P1": "Iubim tehnologia și științele nebune. </br> Iată ce propulsează Stremio (totul este open source).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Dezvoltarea software pe mai multe platforme în cea mai bună variantă.",
@@ -1197,7 +1092,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "sau",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... puteți utiliza abilitățile dvs. de programare pentru a crea addon-uri din comunitate.",
 	"WEBSITE_TRANSLATE_STREMIO": "Traduceți Stremio",
-	
 	"WEBSITE_404_OH_NO": "Ups! Pagina pe care o căutați nu se află aici...",
 	"WEBSITE_GO_HOME": "Mergi la pagina de start",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Alte descărcări",
@@ -1208,100 +1102,82 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Competiție de addon-uri",
 	"WEBSITE_LINK_ART_CONTEST": "Concurs de artă",
 	"WEBSITE_MY_ACCOUNT": "Contul meu",
-	
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Ce este Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio este un centru de media modern care vă oferă libertatea de a viziona tot ceea ce doriți.",
-	
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "Cum funcționează?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Odată ce instalați Stremio pe dispozitivul dvs. și creați un cont, tot ce trebuie să faceți este să vizitați catalogul de addon-uri și să instalați orice addon doriți, și sunteți gata!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "După aceasta, puteți merge la secțiunile Descoperă sau Tabloul pentru a începe să explorați conținutul.",
-	
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "Ce pot viziona aici?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Multe lucruri: Filme, Seriale TV, Canale web, Sport, Canale TV, ascultați Podcast-uri și multe altele. Datorită sistemului nostru de addon-uri, puteți accesa o varietate de conținut.",
-	
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Este Stremio open-source?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Da, puteți verifica următoarele linkuri: ${1}aplicația pentru desktop${2} și ${3}organizația GitHub${4}.",
-	
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Este Stremio sigur?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Da: deoarece este un software open-source, codul este auditabil public și îl puteți revizui singur.",
-	
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Ce se întâmplă cu intimitatea mea?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respectăm intimitatea utilizatorilor și nu colectăm nicio dată personală în afara minimului esențial pentru a vă crea și sincroniza contul.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Există și un ${1}mod oaspeți${2} la înregistrare, care nu necesită deloc date: în acest mod, nu se fac apeluri către serverul nostru. Cu toate acestea, acest lucru vine cu pierderea unor funcții utile, cum ar fi sincronizarea bibliotecii dvs. pe mai multe dispozitive.",
-	
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "Pot să transmit pe televizorul meu?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Da, suportăm Chromecast și puteți transmite atât de pe aplicațiile de desktop, cât și de pe cele mobile (Android).",
-	
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Câte addon-uri are Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "La sfârșitul anului 2019, peste 50 - pentru mai multe informații, verificați catalogul nostru de addon-uri.",
-	
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Poate fi Stremio extins dincolo de ceea ce este în catalogul de addon-uri?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Da, ar trebui să verificați acestea: ${1}PimpMyStremio${2}, ${3)comunitățile de pe Reddit${4}, ${5}Stremio Downloader${6}, etc.",
-	
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Ce dispozitive suportă Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Avem aplicații pentru desktop pentru Windows, Mac și Linux. Pentru dispozitivele mobile, susținem Android și iOS, deși trebuie să țineți cont că iOS este limitat în funcționalitate (nu suportă majoritatea addon-urilor).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Există multe dispozitive bazate pe Android pe care puteți rula Stremio, cum ar fi NVIDIA Shield și Amazon Fire Stick, dar nu le susținem oficial.",
-	
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Puteți adăuga anumit conținut pe Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Ne pare rău, nu furnizăm conținut în sine, dar cu cât aveți mai multe addon-uri Stremio instalate, cu atât mai mult conținut veți putea găsi.",
-	
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Poate Stremio să redea link-uri magnet?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Da, și poate reda și link-uri HTTP normale și fișiere torrent (prin tragere și plasare).",
-	
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "Pot descărca un videoclip și să-l vizionez offline?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Funcția de vizionare offline este în curs de dezvoltare, dar dacă permiteți Stremio să facă cache pe dispozitivul dvs. (din panoul de setări), puteți viziona ulterior videoclipurile fără o conexiune.",
-	
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Nimic nu funcționează, ajutați-mă!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Sunteți sigur că ați instalat addon-uri? Dacă da, verificați cu ${1}centrul nostru de ajutor${2}.",
-	
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Cum susține Stremio operațiunile de dezvoltare?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Rulează anunțuri non-intruzive ocazional, dar luăm în considerare trecerea la un model de donație.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Pentru mai multe întrebări, mergeți la ${1}centrul nostru de ajutor${2}.",
-	
 	"HELP_LEARN_MORE": "Ajutați-ne să aflăm mai multe despre dvs.",
-	"LIFESTYLE" : "Stil de viață",
+	"LIFESTYLE": "Stil de viață",
 	"SPORTS": "Sport",
-	"FOOD_HEALTH" : "Mâncare și sănătate",
-	"BEAUTY_FASHION" : "Frumusețe și Modă",
-	"NEWS" : "Știri",
-	"GAMING" : "Jocuri video",
-	"SCIENCE_EDUCATION" : "Știință și educație",
-	"MUSIC" : "Muzică",
-	"TRAVEL" : "Călătorii",
+	"FOOD_HEALTH": "Mâncare și sănătate",
+	"BEAUTY_FASHION": "Frumusețe și Modă",
+	"NEWS": "Știri",
+	"GAMING": "Jocuri video",
+	"SCIENCE_EDUCATION": "Știință și educație",
+	"MUSIC": "Muzică",
+	"TRAVEL": "Călătorii",
 	"LATE_NIGHT": "Târziu noaptea",
 	"REALITY": "Realitate",
 	"COMEDY": "Comedie",
-	"DIY" : "Cum să faci singur",
-	"TECH" : "Tehnologie",
-	"CINEMA" : "Cinematograf",
-	"CONTINUE" : "Continuare",
-	"SLOW_LOADING" : "ÎNCĂRCARE GREOAIE?",
-	"I_GIVE_UP" : "RENUNȚ",
-	"LEARN_MORE" : "Aflați mai multe",
+	"DIY": "Cum să faci singur",
+	"TECH": "Tehnologie",
+	"CINEMA": "Cinematograf",
+	"CONTINUE": "Continuare",
+	"SLOW_LOADING": "ÎNCĂRCARE GREOAIE?",
+	"I_GIVE_UP": "RENUNȚ",
+	"LEARN_MORE": "Aflați mai multe",
 	"POOR_SOURCE": "Această sursă este slab disponibilă sau conexiunea dvs. la internet nu este suficient de rapidă",
-	"PICK_CATEGORIES_ERR" : "Trebuie să alegeți cel puțin 3 categorii",
-	"ADJUST_TIMING" : "Ajustați timpul cu ",
-	"ADJUST_SIZE" : "Ajustați dimensiunea cu ",
-	"SEARCH_ANYTHING" : "Puteți căuta orice...",
-	"ALL_CATEGORIES" : "Toate",
-	"SEARCH_CATEGORIES" : "Filme, Seriale, YouTube și TV",
-	"SEARCH_PERSONS" : "Actorii, Regizorii și Scenariștii",
-	"SEARCH_PROTOCOLS" : "Link-uri HTTP și Magnet",
-	"SEARCH_TYPES" : "Link-uri IMDB / TVDB",
+	"PICK_CATEGORIES_ERR": "Trebuie să alegeți cel puțin 3 categorii",
+	"ADJUST_TIMING": "Ajustați timpul cu ",
+	"ADJUST_SIZE": "Ajustați dimensiunea cu ",
+	"SEARCH_ANYTHING": "Puteți căuta orice...",
+	"ALL_CATEGORIES": "Toate",
+	"SEARCH_CATEGORIES": "Filme, Seriale, YouTube și TV",
+	"SEARCH_PERSONS": "Actorii, Regizorii și Scenariștii",
+	"SEARCH_PROTOCOLS": "Link-uri HTTP și Magnet",
+	"SEARCH_TYPES": "Link-uri IMDB / TVDB",
 	"WATCHED": "Văzut",
-	"SHOW_LESS" : "Afișează mai puțin",
-	"LAST_SEARCHES" : "Căutări recente",
-	"CLEAR_HISTORY" : "Șterge istoricul",
-	"CHOOSE_SOME" : "ALEGEȚI CEVA DIN ASTA:",
-	
+	"SHOW_LESS": "Afișează mai puțin",
+	"LAST_SEARCHES": "Căutări recente",
+	"CLEAR_HISTORY": "Șterge istoricul",
+	"CHOOSE_SOME": "ALEGEȚI CEVA DIN ASTA:",
 	"NO_WEB_REMOTE": "Web Remote nu a putut fi încărcat",
 	"STREMIO_OFFLINE": "Stremio este offline",
 	"STREMIO_EXPENSIVE_CONNECTION": "Am detectat că utilizați o conexiune de date mobile, doriți să continuați?",
 	"USE_DATA": "Utilizați datele",
 	"WARNING": "Avertisment",
-	
 	"MORE_INFO": "Mai multe informații ...",
-	
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Se încarcă...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Înapoi la limbi",
@@ -1379,7 +1255,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Afișare statistici în timpul încărcării",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Pentru a citi Politica de Confidențialitate Stremio, accesați:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Pentru a citi Termenii și Condițiile Stremio, accesați:",
-	
 	"STREMIO_TV_NAV_SEARCH": "Căutare",
 	"STREMIO_TV_NAV_HOME": "Acasă",
 	"STREMIO_TV_NAV_DISCOVER": "Descoperă",
@@ -1390,14 +1265,12 @@
 	"STREMIO_TV_NAV_TV": "TV în direct",
 	"STREMIO_TV_NAV_SETTINGS": "Setări",
 	"STREMIO_TV_NAV_ADDONS": "Addon-uri",
-	
 	"STREMIO_TV_LOGIN_TITLE": "Conectare Cont",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expiră în",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Scanați codul QR de mai sus sau mergeți la",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Autentificați-vă în contul Stremio",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Solicitați un nou link",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Codul de conectare a fost actualizat",
-	
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Tastați ceva",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "Nu au fost solicitate addon-uri pentru cataloage!",
 	"STREMIO_TV_SEARCH_BUTTON": "Căutare",
@@ -1407,11 +1280,8 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Istoric căutare",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Puteți căuta titluri, actori, canale și multe altele...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Șterge istoric căutare",
-	
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Alegeți din unul dintre filtrele de mai jos",
-	
 	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Serverul de streaming este offline. Verificați setările serverului.",
-	
 	"FILTERS": "Filtre",
 	"SETTINGS": "Setări",
 	"ACCOUNT": "Cont",
@@ -1456,53 +1326,42 @@
 	"REMOTE_ADJUST_SIZE": "Ajustare mărime",
 	"REMOTE_COULD_NOT_BE_LOADED": "Telecomanda Web nu a putut fi încărcată",
 	"REMOTE_RETRY": "Reîncercare",
-	
 	"TORRENT_PROFILE_DEFAULT": "Implicit",
 	"TORRENT_PROFILE_SOFT": "Soft",
 	"TORRENT_PROFILE_FAST": "Rapid",
 	"TORRENT_PROFILE_ULTRA_FAST": "Ultra rapid",
-	
 	"FAQ_001_H1": "Ce este Stremio?",
 	"FAQ_001_P1": "Stremio este un software pentru centru media proiectat pentru divertisment video cu ușurință în utilizare în minte. Stremio vă permite să vă organizați și să vizionați propria colecție de filme, seriale, canale și TV în direct.",
 	"FAQ_001_P2": "Stremio colectează conținutul pe care vi-l arată de pe discul local și prin sistemul nostru de addon-uri.",
 	"FAQ_001_P3": "De asemenea, vă va notifica atunci când apar episoade/videoclipuri/filme noi pe care le urmăriți și vă va oferi recomandări de filme.",
-	
 	"FAQ_02_H1": "Cum se compară Stremio cu Kodi și Plex?",
 	"FAQ_02_P1": "Suntem inspirați de cele două programe. Dar avem obiective diferite - Stremio este orientat în mod specific către divertisment video și încearcă să devină soluția principală pentru asta prin ușurința sa de utilizare.",
 	"FAQ_02_P2": "Stremio nu va fi niciodată la fel de personalizabil și bogat în funcții ca Kodi și Plex, dar este semnificativ mai ușor de utilizat. Doar ${1}încercați-l și vedeți${2} :)",
-	
 	"FAQ_03_H1": "Cum se compară Stremio cu Netflix?",
 	"FAQ_03_P1": "Iarăși, Netflix este una dintre inspirațiile noastre. Ne străduim să obținem experiența utilizatorului de la Netflix, plus multe adăugiri. Dar cel mai important, vă oferim libertatea de a vă gestiona propria bibliotecă și de a adăuga surse noi de conținut cu ajutorul sistemului nostru de addon-uri.",
 	"FAQ_03_P2": "Acest lucru face ca Stremio să fie infinit extensibil, astfel că atunci când utilizați Stremio, nu sunteți limitat la conținutul pe care Netflix decide să îl licențieze. De exemplu, prin intermediul Stremio puteți viziona conținut de pe ${1}Filmon.tv${2}, ${3}Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} și chiar ${9}Netflix${10} în sine!",
-	
 	"FAQ_04_H1": "Cum se compară Stremio cu Flipboard?",
 	"FAQ_04_P1": "Această întrebare nu este foarte obișnuită, cu excepția cazului în care discutăm cu oameni din start-up-uri :)",
 	"FAQ_04_P2": "Stremio este în mod intenționat un agregator de conținut, ceea ce îl face practic Flipboard pentru video. Acest lucru este foarte vizibil în secțiunea noastră Tablou, care vă oferă cataloage și notificări pentru episoade noi/videoclipuri noi pentru ceea ce urmăriți, exact ca Flipboard.",
-	
 	"FAQ_05_H1": "Cum se compară Stremio cu Popcorn Time?",
 	"FAQ_05_P1": "Stremio și Popcorn Time sunt similare ca interfață de utilizator, pentru că nu există multe modalități de a realiza corect cataloage de divertisment video :)",
 	"FAQ_05_P2": "Dar în timp ce Popcorn Time se concentrează pe redarea de torrente din surse specifice, Stremio nu are restricții și este doar un agregator de conținut - nu este blocat într-o sursă specifică de conținut.",
 	"FAQ_05_P3": "În plus, noi nu oferim niciun addon pentru torrente în mod implicit, deci Stremio nu acoperă cazul de utilizare Popcorn Time cu funcționalitate oficială.",
 	"FAQ_05_P4": "O altă diferență semnificativă este că Popcorn Time este complet open source, în timp ce Stremio este ${1}parțial open source${2}.",
-	
 	"FAQ_06_H1": "Veți adăuga acest film/serial?",
 	"FAQ_06_P1": "Nu, ne pare rău :(",
 	"FAQ_06_P2": "După cum este menționat și în majoritatea celorlalte întrebări, Stremio nu furnizează niciun conținut în sine - totul este adăugat prin intermediul sistemului nostru de addon-uri. În cazul în care aveți o cerere de conținut, puteți folosi butonul „Raportați” din Player, care va trimite un e-mail autorului addon-ului pe care îl utilizați în prezent.",
-	
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-	
 	"FAQ_08_H1": "Vei crea un addon pentru X?",
 	"FAQ_08_P1": "Este cu desăvârșire posibil.",
 	"FAQ_08_P2": "Dacă aveți o idee pentru un addon, lăsați-ne un mesaj la ${1}office@stremio.com${2}, dar vă rugăm să vă asigurați că ideea dvs. de addon nu va încălca drepturile de autor sau termenii de utilizare.",
 	"FAQ_08_P3": "În prezent, următoarele lucruri de pe agenda noastră sunt addon-uri pentru FandangoNOW, video la cerere Filmon.tv și Crunchyroll.",
-	
 	"FAQ_09_H1": "Folosește Stremio BitTorrent?",
 	"FAQ_09_P1": "Da, Stremio suportă BitTorrent ca protocol de streaming. Puteți folosi asta fie cu un addon pentru torrente, fie prin trascinarea și fixarea unui fișier .torrent în Stremio, fie prin lipirea unui magnet link în Bara de căutare.",
 	"FAQ_09_P2": "Vă rugăm să rețineți că singurul addon oficial care folosește BitTorrent este ${1}Vodo${2}, care oferă conținut indie, permis în întregime pentru distribuție cu BitTorrent.",
 	"FAQ_09_P3": "Noi nu susținem utilizarea addon-urilor terților care ar putea permite încălcarea drepturilor de autor.",
-	
 	"FAQ_10_H1": "Ce pot viziona în Stremio cu addon-urile oficiale?",
 	"FAQ_10_P1": "În mod implicit, puteți viziona conținut de pe Filmon.tv, YouTube și Vodo în Stremio însuși, cu ajutorul player-ului său încorporat. În plus, avem un addon pentru Twitch.tv și câteva altele.",
 	"FAQ_10_P2": "Acest lucru oferă o selecție de:",
@@ -1511,64 +1370,51 @@
 	"FAQ_10_L3": "Filme indie cu Vodo",
 	"FAQ_10_L4": "Transmisiuni de jocuri online cu Twitch.tv",
 	"FAQ_10_P3": "În plus, există multe surse de conținut furnizate cu addon-urile Guidebox și Netflix, care <b>nu</b> se joacă în întregime în Stremio, ci vă redirecționează către serviciul dat. De exemplu, addon-ul Guidebox vă oferă o selecție de filme pe care le puteți viziona gratuit în SUA, din servicii precum TubiTV și Crackle.",
-	
 	"FAQ_11_H1": "Stremio nu se instalează, ce ar trebui să fac?",
 	"FAQ_11_P1": "Dacă sunteți pe Windows, încercați ${1}acest instalator alternativ${2}.",
 	"FAQ_11_P2": "Dacă sunteți pe Mac OS X, vă rugăm să știți că nu susținem nimic mai vechi decât OS X Mavericks (10.9).",
 	"FAQ_11_P3": "Dacă sunteți pe Linux, rețineți că susținem doar Linux pe 64 de biți (x64) în acest moment.",
 	"FAQ_11_P4": "Dacă în continuare nu puteți rezolva problema, vă rugăm să ne scrieți la ${1}grupul nostru de Facebook${2}.",
-	
 	"FAQ_12_H1": "De ce antivirusul meu se plânge? Este Stremio sigur?",
 	"FAQ_12_P1": "Vă asigurăm că Stremio este ${1}100% curat${2}.",
 	"FAQ_12_P2": "Antivirusul dvs. se plânge pentru că includem publicitate în installer-ul nostru, pe care unii programe antivirus îl recunosc ca ad-ware.",
 	"FAQ_12_P3": "Dacă nu sunteți sigur, puteți încerca ${1}instalatorul alternativ${2} al nostru.",
-	
 	"FAQ_13_H1": "Cum pot crea un addon?",
 	"FAQ_13_P1": "În primul rând, vă recomandăm să verificați ${1}modulul nostru de sistem pentru addon-uri${2} pe GitHub.",
 	"FAQ_13_P2": "Apoi, puteți urma ${1}tutorialul Salut, lume!${2}.",
 	"FAQ_13_P3": "Dacă nu aveți abilități de programare, vă rugăm să postați ideea dvs. de addon pe ${1}comunitatea noastră de Reddit${2} și să ne contactați cu ideea dvs. de addon la ${3}office@stremio.com${4}.",
-	
 	"FAQ_14_H1": "Cum se publică addon-urile?",
 	"FAQ_14_P1": "Când creați un addon și îl găzduiți și introduceți un câmp <b>endpoint</b> în manifestul dvs., care indică către o adresă de addon funcțională, addon-ul se va publica automat în ${1}catalogul de addon-uri${2}.",
 	"FAQ_14_P2": "Acest lucru se întâmplă pentru că partea de server a modulului stremio-addons face automat o solicitare către API-ul nostru pentru a anunța addon-ul. Când API-ul nostru validează <b>endpoint</b>-ul dvs. ca fiind un addon valid, acesta va începe să apară în catalog.",
-	
 	"FAQ_15_H1": "Pot să rulez Stremio în browser-ul meu?",
 	"FAQ_15_P1": "Nu în acest moment, dar asta vine în curând!",
 	"FAQ_15_P2": "Dacă sunteți curios să vedeți o versiune Alpha, o puteți găsi aici: ${1}alpha4.strem.io${2}. Rețineți că streamingul este dezactivat în această versiune Alpha. Noi susținem Chrome, Firefox, Opera și Edge.",
-	
 	"FAQ_16_H1": "Casting-ul pe TV nu funcționează / subtitrările nu funcționează",
 	"FAQ_16_P1": "Casting-ul pe TV folosește tehnologia DLNA, care este foarte inconsistentă între diferite mărci și modele de televizoare. Din acest motiv, nu avem capacitatea de a o testa în fiecare caz, deci este departe de a fi perfectă. Cu toate acestea, lucrăm constant la îmbunătățirea ei, dar nu vă putem da o estimare a momentului în care DLNA va începe să funcționeze corect cu televizorul dvs.",
 	"FAQ_16_P2": "Dacă nici măcar nu vedeți televizorul dvs. în meniul de casting, vă rugăm să încercați să dezactivați și să reactivați conexiunea dvs. la rețea (pe Windows, faceți clic dreapta pe Rețea și utilizați Opțiunea Dezactivează/Activează), precum și repornirea routerului, a televizorului și a PC-ului.",
 	"FAQ_16_P3": "Dacă întâmpinați în continuare probleme, ne puteți ajuta trimițând informații despre marcă și modelul televizorului la ${1}office@stremio.com${2}.",
 	"FAQ_16_P4": "Între timp, vă recomandăm Chromecast, pe care îl susținem foarte bine, sau pur și simplu să conectați televizorul la PC cu un cablu HDMI.",
-	
 	"FAQ_17_H1": "Stremio se blochează și/sau se închide brusc, ce pot face?",
 	"FAQ_17_P1": "În primul rând, dacă utilizați Windows 7 cu AVG anti-virus: avem o problemă cu această combinație. Problema este în AVG în sine și nu există o modalitate rezonabilă de a o rezolva din partea noastră. Din păcate, excepțiile sau dezactivarea antivirusului nu vor funcționa. Singura soluție este să înlocuiți AVG cu altceva.",
 	"FAQ_17_P2": "Dacă nu este aceasta problema, dar utilizați în continuare Windows, vă rugăm să actualizați la cea mai recentă versiune de service pack și să actualizați/reinstalați driverele GPU, apoi să încercați din nou.",
 	"FAQ_17_P3": "Dacă problema dvs. nu este încă rezolvată sau utilizați un Mac sau Linux, vă rugăm să ne scrieți raportând detaliile exacte ale problemei la ${1}grupul nostru de Facebook${2}.",
-	
 	"FAQ_18_H1": "Cum pot crea un addon?",
 	"FAQ_18_P1": "Pentru început, vă recomandăm să verificați ${1}modulul nostru de sistem pentru addon-uri${2} pe GitHub.",
 	"FAQ_18_P2": "Apoi, puteți urma ${1}tutorialul Salut, lume!${2}.",
 	"FAQ_18_P3": "Dacă nu aveți abilități de programare, vă rugăm să postați ideea dvs. de addon pe ${1}comunitatea noastră de Reddit${2} și să ne contactați cu ideea dvs. de addon la ${3}office@stremio.com${4}.",
-	
 	"FAQ_19_H1": "De ce ocupă Stremio spațiu pe disc?",
 	"FAQ_19_P1": "Stremio are o <b>cache locală</b> pentru a păstra temporar fișierele video pe care le redați, pentru a le putea reda din nou fără a le descărca din nou. De exemplu, dacă redați un episod de serial, acesta va fi descărcat pe discul local pentru a vă oferi o experiență mai bună de vizionare, fără întreruperi sau tamponări.",
 	"FAQ_19_P2": "În plus, add-on-urile oficiale pot cere să descarce conținut temporar pentru a-l reda. Acestea pot include subtitrări, imagini de previzualizare și alte resurse. Toate acestea contribuie la ocuparea spațiului pe disc de către Stremio.",
 	"FAQ_19_P3": "Pentru a gestiona spațiul ocupat de Stremio, puteți curăța cache-ul din setările Stremio. Acest lucru va șterge toate fișierele temporare descărcate de Stremio, dar va trebui să le redescărcați dacă doriți să le vizionați din nou.",
-	
 	"FAQ_20_H1": "Unde se află folderul de cache?",
 	"FAQ_20_P1": "Pe Windows, este stremio-cache în unitatea pe care ați selectat-o în Setări (de exemplu, \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "Pe MacOS, este \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "Pe Linux, este \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
-	
 	"FAQ_21_H1": "Primeșc eroarea \"Streaming server is not found\", ce pot să fac?",
 	"FAQ_21_P1": "Dacă primiți această eroare, înseamnă că există câteva posibilități:",
 	"FAQ_21_P2": "1) Încercați să utilizați un addon susținut de sursa YouTube/BitTorrent prin ${1}versiunea noastră web${2}. În acest caz, ar trebui să instalați versiunea noastră de desktop de pe ${3}site-ul nostru${4}.",
 	"FAQ_21_P3": "2) Există o problemă cu instalarea Stremio pe calculatorul dvs. În acest caz, încercați să reinstalați ultima versiune de desktop de pe ${1}site-ul nostru${2}. Dacă acest lucru nu ajută, încercați să dezactivați programele antivirus și firewallele, să reporniți PC-ul și să încercați din nou. Dacă acest lucru nu funcționează nici în acest caz, vă rugăm să ne scrieți la ${3}grupul nostru de Facebook${4}.",
-	
 	"FAQ_22_H1": "Nu pot vedea/utiliza majoritatea addon-urilor pe iOS",
 	"FAQ_22_P1": "Din cauza restricțiilor din termenii și condițiile App Store de la Apple, am restricționat aplicația iOS doar la un set particular de addon-uri.",
 	"FAQ_22_P2": "Dar stați liniștit - vor fi mai multe addon-uri pentru iOS în viitor, iar noi am putea adăuga o integrare care vă va permite să utilizați toate addon-urile Stremio datorită conectării aplicației iOS la Stremio Streaming Server."
-
 }

@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio가 지원하는 디바이스는 무엇입니까?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac 및 Linux용 데스크톱 애플리케이션이 있습니다. 모바일의 경우 Android 및 iOS를 지원하지만 iOS는 기능이 제한되어 있습니다(대부분의 애드온을 지원하지 않음).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "NVIDIA Shield나 Amazon Fire Stick 등 Stremio를 실행할 수 있는 Android 기반 디바이스는 많이 있지만 공식적으로 지원하지 않습니다.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremio에 특정 콘텐츠를 추가할 수 있습니까?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "본사에서 제공하는 콘텐츠는 없습니다만, Stremio 애드온이 많을수록 더 많은 콘텐츠를 찾을 수 있습니다.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio는 마그넷 링크를 재생할 수 있습니까?",

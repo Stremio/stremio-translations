@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Jaká zařízení Stremio podporuje?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Máme desktopové aplikace pro Windows, Mac a Linux. Pro mobilní zařízení podporujeme Android a iOS, i když mějte na paměti, že iOS má omezené funkce (nepodporuje většinu doplňků).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Existuje mnoho zařízení se systémem Android, na kterých můžete spustit Stremio, například NVIDIA Shield a Amazon Fire Stick, ale oficiálně je nepodporujeme.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Můžete do služby Stremio přidat určitý obsah?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Omlouváme se, ale sami neposkytujeme žádný obsah, ale čím více doplňků Stremio máte nainstalováno, tím více obsahu budete moci najít.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Umí Stremio přehrávat magnetické odkazy?",

@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio किस डिवाइस का समर्थन करता है?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "हमारे पास विंडोज मैक और लिनक्स के लिए डेस्कटॉप ऐप्स हैं। मोबाइल के लिए हम एंड्रॉइड और आईओएस का समर्थन करते हैं हालांकि ध्यान रखें कि आईओएस कार्यक्षमता में सीमित है (अधिकांश एडॉन्स का समर्थन नहीं करता है)।",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "ऐसे कई एंड्रॉइड-आधारित डिवाइस हैं जिन्हें आप एनवीआईडीआईए शील्ड और अमेज़ॅन फायर स्टिक की तरह स्ट्रैमियो चला सकते हैं लेकिन हम आधिकारिक तौर पर उनका समर्थन नहीं करते हैं।",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "क्या आप STREMIO में कुछ सामग्री जोड़ सकते हैं?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "क्षमा करें, हम खुद को कोई सामग्री प्रदान नहीं करते हैं लेकिन अधिक स्ट्रैमियो एडॉन्स आपने अधिक सामग्री स्थापित की है जिसे आप ढूंढ पाएंगे।",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "क्या स्ट्रैमियो चुंबक लिंक चला सकते हैं?",

@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "ما هي الأجهزة التي يدعمها Stremio؟",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "لدينا تطبيقات سطح مكتب لأنظمة Windows و Mac و Linux. بالنسبة للجوال ، ندعم Android و iOS ، على الرغم من أن ضع في اعتبارك أن وظائف iOS محدودة (لا تدعم معظم الوظائف الإضافية).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "هناك العديد من الأجهزة التي تعمل بنظام Android والتي يمكنك تشغيل Stremio عليها ، مثل NVIDIA Shield و Amazon Fire Stick ، ​​لكننا لا ندعمها رسميًا.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "هل يمكنك إضافة محتوى معين إلى Stremio؟",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "عذرًا ، لا نقدم أي محتوى بأنفسنا ، ولكن كلما قمت بتثبيت المزيد من إضافات Stremio ، ستتمكن من العثور على المزيد من المحتوى.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "هل يستطيع Stremio تشغيل روابط التورنيت ؟",

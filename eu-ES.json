@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Zer gailu onartzen ditu Stremiok?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac eta Linuxerako mahaigaineko aplikazioak ditugu. Mugikorretarako, Android eta iOS onartzen ditugu, baina kontuan izan iOS funtzionalitate mugatua duela (ez ditu gehigarri gehien onartzen).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Android-en oinarritutako gailu ugari daude Stremio exekutatu ahal izateko, adibidez NVIDIA Shield eta Amazon Fire Stick, baina ez ditugu ofizialki onartzen.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremioren zenbait eduki gehi al ditzakezu?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Barkatu, guk ez dugu edukirik eskaintzen, baina zenbat eta Stremio gehigarri gehiago instalatu, orduan eta eduki gehiago aurkituko duzu.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio-k magnet estekak erreproduzitu al ditzake?",
