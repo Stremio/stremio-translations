@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Bai, lotura hauek ikus ditzakezu: ${1}mahaigaineko aplikazioa${2} eta ${3}GitHub erakundea${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio segurua al da?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Bai: kode irekiko softwarea denez, kodea publikoki ikuskatzen da eta zuk zeuk berrikus dezakezu.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Zer moduz nire pribatutasuna?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Erabiltzaileen pribatutasuna errespetatzen dugu eta ez dugu zure kontua sortzeko eta sinkronizatzeko ezinbesteko gutxieneko datu pertsonalik biltzen.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Erregistratzerakoan ${1}Gonbidatu modua${2} ere badago, inolako daturik behar ez duena: modu honetan, ez da deirik egiten gure backendera. Hala ere, funtzio erabilgarrien kaltetan dator, hala nola liburutegia gailuetan sinkronizatu ahal izatea.",

@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Jes, vi povas viziti la jenajn ligilojn: ${1}desktop app${2} kaj ${3}GitHub organization${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Ĉu estas Stremio sekura?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Jes: ĉar ĝi estas libera programaro, la kodo estas publike alirebla kaj vi mem povas revizii ĝin.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Kio pri mia privateco?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Ni respektas la privateco de la uzantoj, tial ni ne kolektas nenian personalan datumon, krom la minimunon esencialan por krei kaj sinkronigi vian konton.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Ankaŭ ekzistas ${1}Gasta reĝimo${2} ĉe la aliĝo, kiu postulas neniujn datumojn: en ĉi tiu reĝimo, neniuj vokoj estas faritaj al nia servilo. Tamen, ĝi forĵetas utilajn funkciojn, kiel sinkronigi vian bibliotekon inter aparatoj.",

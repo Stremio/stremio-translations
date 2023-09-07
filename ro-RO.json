@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Da, puteți verifica următoarele linkuri: ${1}aplicația pentru desktop${2} și ${3}organizația GitHub${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Este Stremio sigur?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Da: deoarece este un software open-source, codul este auditabil public și îl puteți revizui singur.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Ce se întâmplă cu intimitatea mea?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respectăm intimitatea utilizatorilor și nu colectăm nicio dată personală în afara minimului esențial pentru a vă crea și sincroniza contul.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Există și un ${1}mod oaspeți${2} la înregistrare, care nu necesită deloc date: în acest mod, nu se fac apeluri către serverul nostru. Cu toate acestea, acest lucru vine cu pierderea unor funcții utile, cum ar fi sincronizarea bibliotecii dvs. pe mai multe dispozitive.",

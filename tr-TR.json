@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Evet, şu bağlantıları gözden geçirebilirsiniz: ${1}masaüstü uygulaması${2} ve ${3}GitHub kuruluşu${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio güvenli mi?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Evet, Stremio açık kaynak kodlu bir yazılım olduğundan, kod herkes tarafından denetlenebilir ve kendiniz de kodunu inceleyebilirsiniz.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Mahremiyetime ne dersiniz?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Kullanıcıların gizliliğine saygı duyuyoruz ve hesabınızı oluşturmak ve eşitlemek için gerekli en az temel veri dışında herhangi bir kişisel veri toplamıyoruz.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Ayrıca kaydolma sırasında herhangi bir veri gerektirmeyen ${1}Misafir modu${2} vardır: bu modda, arka tarafa çağrı yapılmaz. Ancak, kitaplığınızı cihazlar arasında eşitleyebilmek gibi yararlı özelliklerin ödün vermeniz gerekir.",

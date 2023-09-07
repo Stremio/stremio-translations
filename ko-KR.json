@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "예, ${1}데스크탑 app${2} 및 ${3}GitHub organization${4} 링크를 확인할 수 있습니다.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio는 안전합니까?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "네, 오픈 소스 소프트웨어이므로 코드는 공개적으로 보는것이 가능하며 사용자가 직접 검토할 수 있습니다.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "프라이버시는 어떻습니까?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "저희는 사용자의 프라이버시를 존중하며 계정을 만들고 동기화하기 위해 필수적인 최소값 이외에는 개인정보를 수집하지 않습니다.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "등록 시 ${1}게스트 모드${2}도 있습니다.이 모드에서는 백엔드에 콜이 발신되지 않습니다. 단, 디바이스 간에 라이브러리를 동기화할 수 있는 등 유용한 기능을 희생합니다.",
