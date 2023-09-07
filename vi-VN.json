@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Có, bạn có thể kiểm tra các liên kết sau: ${1}desktop app${2} và ${3}GitHub organization${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio có an toàn không?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Có: vì đây là phần mềm mã nguồn mở nên mã này có thể được kiểm tra công khai và bạn có thể tự mình xem lại.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Còn quyền riêng tư của tôi thì sao?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Chúng tôi tôn trọng quyền riêng tư của người dùng và không thu thập bất kỳ dữ liệu cá nhân nào ngoài dữ liệu tối thiểu cần thiết để tạo và đồng bộ hóa tài khoản của bạn.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Ngoài ra còn có một ${1}Chế độ khách${2} khi đăng ký, chế độ này không yêu cầu bất kỳ dữ liệu nào: trong chế độ này, không có cuộc gọi nào được thực hiện tới chương trình phụ trợ của chúng tôi. Tuy nhiên, nó phải trả giá bằng các tính năng hữu ích, chẳng hạn như có thể đồng bộ hóa thư viện của bạn trên các thiết bị.",

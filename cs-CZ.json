@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Ano, můžete se podívat na následující odkazy: ${1}desktopová aplikace${2} a ${3}Organizace GitHub${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Je Stremio bezpečné?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Ano: protože se jedná o software s otevřeným zdrojovým kódem, kód je veřejně kontrolovatelný a můžete si ho sami zkontrolovat.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "A co moje soukromí?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respektujeme soukromí uživatelů a neshromažďujeme žádné osobní údaje kromě nezbytného minima pro vytvoření a synchronizaci vašeho účtu.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Při registraci je k dispozici také režim ${1}Guest${2}, který nevyžaduje žádná data: v tomto režimu se nevolá na náš backend. Je to však na úkor užitečných funkcí, jako je možnost synchronizovat knihovnu napříč zařízeními.",

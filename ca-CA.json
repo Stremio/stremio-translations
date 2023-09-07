@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Sí, podeu consultar els enllaços següents: ${1}aplicació d'escriptori${2} i ${3}organització GitHub${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "És segur Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Sí: com que és programari de codi obert, el codi es pot auditar públicament i el podeu revisar vosaltres mateixos.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "I la meva privadesa?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respectem la privadesa dels usuaris i no recopilem cap dada personal a més del mínim essencial per crear i sincronitzar el vostre compte.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "També hi ha un ${1}mode de convidat${2} al registre, que no requereix cap mena de dades: en aquest mode, no es realitzen crides al nostre backend. No obstant, a costa de funcions útils com ara poder sincronitzar la biblioteca entre dispositius.",

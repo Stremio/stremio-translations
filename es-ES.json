@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Sí, puedes consultar los siguientes enlaces: ${1}aplicación de escritorio${2} y ${3}GitHub organization${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "¿Es Stremio seguro?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Sí: al ser software libre, el código es auditable publicamente y puedes revisarlo tú mismo.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "¿Qué ocurre con mi privacidad?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respetamos la privacidad de los usuarios y no guardamos ningún dato personal exceptuando lo mínimo necesario para poder crear y sincronizar tu cuenta.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Hay un ${1}modo invitado{2} al crear la cuenta, que no requiere ningún dato: en éste modo, no hay ninguna llamada a nuestros servidores. Sin embargo, ésto tiene el coste de no tener disponible algunas características útiles como sincronizar tu biblioteca entre distintos dispositivos.",

@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "يمكنك التحقق من بعض الروابط : ${1}برنامج سطح المكتب${2} و ${3}GitHub المنظمة${4}.",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "هل Stremio آمن؟",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "نعم: نظرًا لأنه برنامج مفتوح المصدر ، فإن الكود قابل للتدقيق بشكل عام ويمكنك مراجعته بنفسك.",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "ماذا عن خصوصيتي؟",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "نحترم خصوصية المستخدمين ولا نجمع أي بيانات شخصية إلى جانب الحد الأدنى الأساسي لإنشاء حسابك ومزامنته.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "يوجد أيضًا ${1} وضع الضيف ${2} عند التسجيل ، والذي لا يتطلب أي بيانات على الإطلاق: في هذا الوضع ، لا يتم إجراء مكالمات إلى الواجهة الخلفية لدينا. ومع ذلك ، فإنه يأتي على حساب الميزات المفيدة ، مثل القدرة على مزامنة مكتبتك عبر الأجهزة.",

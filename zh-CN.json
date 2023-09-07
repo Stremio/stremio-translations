@@ -1113,6 +1113,7 @@
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "是的，您可以查看以下链接：${1}桌面应用${2}和${3}GitHub组织${4}。",
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio安全吗？",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "是：因为它是开源软件，所以代码可以公开审核，您可以自己查看。",
+	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "我的隐私如何？",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "我们尊重用户隐私，除了创建和同步您的帐户所必需的最低限度外，不收集任何个人数据。",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "注册时还有一个${1}访客模式${2}，它不需要任何数据：在这种模式下，不会调用我们的后端。然而，这是以牺牲有用的功能为代价的，比如能够跨设备同步您的库。",
