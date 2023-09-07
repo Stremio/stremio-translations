@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Какви устройства поддържат Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Имаме настолни приложения за Windows, Mac и Linux. За мобилни устройства поддържаме Android и iOS, но имайте предвид, че iOS е с ограничена функционалност (не поддържа повечето добавки).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Има много устройства, базирани на Android, на които можете да стартирате Stremio, като Nvidia Shield и Amazon Fire Stick, но ние не ги поддържаме официално.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Можете ли да добавите определено съдържание към Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "За съжаление ние самите не предоставяме съдържание, но колкото повече Stremio добавки сте инсталирали, толкова повече съдържание ще можете да намерите.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Може ли Stremio да възпроизвежда магнитни връзки?",

@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Quels sont les appareils pris en charge par Stremio ?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Nous avons des applications de bureau pour Windows, Mac et Linux. Pour les mobiles, nous prenons en charge Android et iOS, tout en gardant à l'esprit que la version iOS est limitée dans ses fonctionnalités (elle ne prend pas en charge la plupart des addons).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Il existe de nombreux appareils basés sur Android sur lesquels vous pouvez faire tourner Stremio, comme NVIDIA Shield et Amazon Fire Stick, mais nous ne les supportons pas officiellement.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Pouvez-vous ajouter certains contenus à Stremio ?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Désolé, nous ne fournissons pas de contenu nous-mêmes, mais plus vous avez installé d'addons Stremio, plus vous serez en mesure de trouver du contenu.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio peut-il jouer les liens magnet ?",

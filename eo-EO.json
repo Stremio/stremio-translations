@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Kiujn aparatojn Stremio subtenas?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Ni havas labortablaj aplikaĵoj por Vindozo, Mac kaj Linukso. Por poŝtelefono, ni subtenas Android kaj iOS, kvankam konsciu, ke iOS estas limigita en funkcioj (ne subtenas la plejmultajn aldonaĵojn).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Estas multaj Android-bazitaj aparatoj sur kiuj vi povas ruli Stremio-n, kiel NVIDIA Shield kaj Amazon Fire Stick, sed ni ne oficiale subtenas ilin.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Ĉu vi povas aldoni certan enhavon al Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Pardonu, ni mem provizas neniun enhavon, sed ju pli da Stremio-aldonaĵoj vi instalos, des pli da enhavo vi povos trovi.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Ĉu Stremio povas ludi magnetligojn",

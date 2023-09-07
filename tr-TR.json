@@ -1125,6 +1125,7 @@
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio hangi cihazları destekliyor?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Windows, Mac ve Linux için masaüstü uygulamalarımız mevcut. Mobil cihazlar için, Android ve iOS'u destekliyoruz. Ancak iOS'un işlevsellik açısından sınırlı olduğunu unutmayın (çoğu eklentiyi desteklemez).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "NVIDIA Shield ve Amazon Fire Stick gibi Stremio'yu çalıştırabileceğiniz birçok Android tabanlı cihaz var. Ancak bunları resmi olarak desteklemiyoruz.",
+	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Stremio'ya bazı içerikler ekleyebilir misiniz?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Üzgünüz, kendimizi hiçbir içeriği sağlamıoruz. Ancak ne kadar çok Stremio eklentisi yüklerseniz, o kadar çok içerik bulabilirsiniz.",
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio magnet bağlantılarını oynatabilir mi?",
