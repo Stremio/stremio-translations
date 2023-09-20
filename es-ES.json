@@ -24,7 +24,7 @@
 
 	"SETTINGS_CASTING_MODE_PICKER": "Modo de emisión",
 	"CASTING_MODE_HLSV2": "Por defecto",
-	"CASTING_MODE_VLC": "VLC",
+	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Sin transcodificación",
 
 	"Discover": "Descubrir",
