@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Άνοιγμα κατά την εκκίνηση",
 	"SETTINGS_VLC_DEFAULT": "Αναπαραγωγή με VLC",
 	"SETTINGS_UI_LANGUAGE": "Γλώσσα εφαρμογής",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Έξοδος από πλήρη οθόνη με το πλήκτρο Escape",
 	"SETTINGS_GAMEPAD": "Ενεργοποίηση υποστήριξης για gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Κλείσιμο εφαρμογής όταν κλείνει το παράθυρο",

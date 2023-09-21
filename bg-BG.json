@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Зареждане при стартиране на компютъра",
 	"SETTINGS_VLC_DEFAULT": "Възпроизвеждане в VLC",
 	"SETTINGS_UI_LANGUAGE": "Език на потребителският интерфейс",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Бутона Esc изключва цял екран",
 	"SETTINGS_GAMEPAD": "Включване на подръжка за геймпад",
 	"SETTINGS_CLOSE_WINDOW": "Затваряне на приложението, когато прозореца е затворен",

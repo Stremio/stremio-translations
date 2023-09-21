@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar al arrancar l'equip",
 	"SETTINGS_VLC_DEFAULT": "Reproduir amb VLC",
 	"SETTINGS_UI_LANGUAGE": "Idioma de la interfície",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Tecla per sortir de la pantalla completa",
 	"SETTINGS_GAMEPAD": "Activa la compatibilitat amb el gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Tanca l'aplicació quan la finestra estigui tancada",

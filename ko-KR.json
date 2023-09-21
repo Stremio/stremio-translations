@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "시작 시 실행",
 	"SETTINGS_VLC_DEFAULT": "VLC로 재생",
 	"SETTINGS_UI_LANGUAGE": "UI 언어",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Escape 키 전체 화면 종료",
 	"SETTINGS_GAMEPAD": "게임패드 지원 활성화",
 	"SETTINGS_CLOSE_WINDOW": "창이 닫힐 때 앱 닫기",
