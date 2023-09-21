@@ -4,7 +4,6 @@
 	"TYPE_tv": "TV",
 	"TYPE_channel": "Youtube",
 	"TYPE_other": "Otros",
-
 	"TYPE_movie_PL": "Películas",
 	"TYPE_series_PL": "Series",
 	"TYPE_tv_PL": "TV",
@@ -12,41 +11,33 @@
 	"TYPE_other_PL": "Otros",
 	"TYPE_ALL": "Todo",
 	"TYPE": "Tipo",
-
 	"VIDEO": "Video",
-
 	"BACK": "Atrás",
 	"MORE": "Más",
 	"DONE": "Listo",
 	"COPY": "Copiar",
 	"SUCCESS": "Éxito",
 	"ERROR": "Error",
-
 	"SETTINGS_CASTING_MODE_PICKER": "Modo de emisión",
 	"CASTING_MODE_HLSV2": "Por defecto",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Sin transcodificación",
-
 	"Discover": "Descubrir",
 	"Board": "Panel",
 	"Library": "Biblioteca",
 	"My Library": "Mi Biblioteca",
 	"Calendar": "Calendario",
-
 	"NOTIFICATION_ONLINE": "Actualmente estás en línea",
 	"NOTIFICATION_OFFLINE": "Actualmente no estás conectado",
 	"INTERNET_CONNECTION": "Conexión de red",
-
 	"STORAGE_FULL_TITLE": "Advertencia: ¡Almacenamiento lleno!",
 	"STORAGE_FULL_TEXT": "Stremio no podrá guardar su configuración, preferencias o información de inicio de sesión. Considere reiniciar o reinstalar Stremio.",
 	"SEARCH": "Buscar",
-
 	"SEARCH_NO_RESULTS": "No se encontraron resultados",
 	"SEARCH_EXPLANATION_CONTENT": "Buscar películas, series, Canales de Youtube y TV",
 	"SEARCH_EXPLANATION_PEOPLE": "Buscar por actores, directores y escritores",
 	"SEARCH_PASTE_LINKS": "Pegar un enlace HTTP o enlace magnético",
 	"SEARCH_OR_PASTE_LINK": "Buscar o pegar enlace",
-
 	"ADD_TO_LIB": "Añadir a la biblioteca",
 	"REMOVE_FROM_LIB": "Eliminar de la biblioteca",
 	"ADDED_TO_LIB": "Añadido a la biblioteca",
@@ -57,7 +48,6 @@
 	"SHOW": "Ver",
 	"SHOW_MOVIE": "Mostrar película",
 	"WATCH_RANDOM": "Ver al azar",
-
 	"IMDB_RATING": "Calificación de IMDb",
 	"YEAR": "Año",
 	"DIRECTOR": "Director",
@@ -80,14 +70,11 @@
 	"FEATURED": "Destacado",
 	"METADATA": "Metadatos",
 	"CATEGORY": "categoría",
-
 	"LINKS_GENRES": "Géneros",
 	"LINKS_CAST": "Reparto",
 	"LINKS_DIRECTORS": "Directores",
-
 	"SEARCH_VIDEOS": "buscar videos",
 	"SEARCH_PLACEHOLDER": "buscar o pegar URL",
-
 	"ADDON": "complemento",
 	"ADDONS": "Aomplementos",
 	"OFFICIAL": "oficial",
@@ -121,7 +108,6 @@
 	"SETTINGS_DATA_EXPORT": "Exportar datos de usuario",
 	"ADDON_PULL_FAILED": "La sincronización de los complementos instalados desde tu cuenta ha fallado",
 	"REFRESH_ON_CLICK": "Hacer clic para intentarlo de nuevo",
-	
 	"STILL_IN_THEATER": "Película aún en cines",
 	"WATCH_IN_CINEMA": "Véalo en su cine favorito",
 	"IN_THEATER": "En el cine",
@@ -133,12 +119,10 @@
 	"CHANNEL_NOT_SCRAPED": "Este canal aún no está habilitado.<br>Por favor, vuelve en unos minutos.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Añádelo a tu biblioteca para ser notificado una vez que esté disponible.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Recibirá una notificación cuando esté disponible.",
-
 	"WARNING_STREAMING_SERVER": "Advertencia: Servidor de transmisión local no encontrado. La transmisión desde archivos locales, YouTube y BitTorrent no estará disponible.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Descartar",
 	"WARNING_STREAMING_SERVER_LATER": "Después",
 	"DECODER_WARNING": "Advertencia: este video podría no ser soportado por su hardware. Tenga en cuenta que la reproducción podría ser lenta.",
-
 	"PLAYER_ERROR": "Ups!, ha ocurrido un error en el reproductor",
 	"PLAYER_ERROR_LOOKSLIKE": "Parece que",
 	"PLAYER_ORIENTATION": "Orientación del reproductor",
@@ -166,16 +150,12 @@
 	"PLAYER_UNMUTE": "Activar sonido",
 	"PLAYER_OPEN_IN_EXTERNAL": "Abrir en reproductor externo",
 	"PLAYER_PLAY_IN": "Reproducir en {{device}}",
-	
 	"PLAYER_LIVE": "En vivo",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "A continuación en",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Descartar",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Ver ahora",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "El enlace de la transmisión se copió en tu portapapeles.",
 	"PLAYER_COPY_STREAM_ERROR": "No se pudo copiar el enlace de la transmisión",
-
 	"STREAMING_FROM": "Transmitiendo desde",
 	"CASTING_TO": "Transmitiendo a",
 	"NETWORK_STATUS": "Estado de la red",
@@ -186,24 +166,18 @@
 	"PEERS_CONNECTED": "Conectados:",
 	"PEERS_WAITING": "Esperando:",
 	"TRANSCODING_WARNING": "Alerta: transcodificando video.",
-
 	"STREAM_LOADING": "cargando...",
 	"PLAYING_LOCAL": "reproduciendo desde archivo local",
 	"PLAYING_CACHE": "reproduciendo desde la memoria caché",
-
 	"WRONG_SUBS": "¿Subtítulos erróneos?",
 	"ERR_SUBS_LOADING_TITLE": "Error cargando subtítulos",
 	"ERR_SUBS_LOADING": "Error al cargar los subtítulos: esto podría ser un problema con el complemento que está utilizando o con su conexión de internet",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Los siguientes complementos de subtítulos fallaron",
 	"ERR_CASTING_UPDATE_TITLE": "No se pudo actualizar la información del dispositivo de transmisión: el servidor de transmisión puede estar fuera de línea",
-
 	"CHOOSE_DEVICE": "Elija un dispositivo para ver",
 	"NO_CAST_DEVICES": "No hay dispositivos de transmisión disponibles.",
-
 	"NO_SETTINGS": "No hay configuraciones disponibles.",
-
 	"PHONE_TABLET": "Móvil / Tableta",
-
 	"SUBTITLES": "Subtítulos",
 	"SUBTITLES_CHANGE": "Cambiar subtítulos por ",
 	"SUBTITLES_CHANGE_NONE": "Lo siento, no hay otros subtítulos para este idioma.",
@@ -216,24 +190,17 @@
 	"SUBTITLES_LOADING": "Cargando subtítulos...",
 	"SUBTITLES_UNAVAILABLE": "No hay subtítulos externos disponibles",
 	"SUBTITLES_DISABLED": "Desactivado",
-
 	"EXTERNAL_PLAYER_DISABLED": "Desactivado",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "Permitir elegir",
 	"EXTERNAL_PLAYER_HINT": "Consejo: Existe una configuración que permite abrír siempre con un reproductor externo",
-
 	"DONT_SHOW_AGAIN": "No mostrar de nuevo",
-
 	"SERVICE_INSTALL": "Instalar",
-
 	"AUDIO": "Audio",
-
 	"DEFAULT_LANGUAGE": "Idioma por defecto",
 	"DEFAULT_SECONDARY_LANGUAGE": "Idioma secundario por defecto",
-
 	"SEASON": "Temporada",
 	"EPISODE": "Episodio",
 	"SPECIAL": "Especial",
-
 	"SORT": "ordenar",
 	"SORT_BY": "Ordenar por",
 	"FILTER": "filtrar",
@@ -251,31 +218,25 @@
 	"SORT_LASTWATCHED": "Por último visto",
 	"SORT_NAME": "Por nombre",
 	"SORT_TIMESWATCHED": "Por veces vista",
-
 	"New for You": "Nuevo para ti",
 	"New Episodes": "Nuevos Episodios",
 	"New Videos": "Nuevos Videos",
 	"Recommendations": "Recomendaciones",
-
 	"LIBRARY_RESUME": "Reanudar",
 	"LIBRARY_PLAY": "Reproducir",
 	"LIBRARY_DETAILS": "Detalles",
 	"LIBRARY_RESUME_DISMISS": "Descartar",
 	"LIBRARY_CLEAR_PROGRESS": "Limpiar progreso",
 	"LIBRARY_REMOVE": "Eliminar",
-
 	"LIBRARY_NOT_LOGGED_IN": "La biblioteca sólo está disponible para usuarios conectados",
 	"CALENDAR_NOT_LOGGED_IN": "El calendario sólo está disponible para usuarios conectados",
 	"NOT_LOGGED_IN_CLOUD": "Acceda a sus películas y programas de televisión favoritos en cualquier momento y lugar",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Recomendaciones personalizadas basadas en tu historial de visualización",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "No vuelva a perderse un episodio",
 	"NOT_LOGGED_IN_CALENDAR": "Programe su calendario de visualización personal",
-	
 	"DISCOVER_FEATURED": "Destacado",
-	
 	"DISCOVER_TOP": "Top",
 	"DISCOVER_OSCAR": "Ganadores del Oscar",
-	
 	"DISCOVER_WARNING_TITLE": "Oops!",
 	"DISCOVER_EMPTY_CATALOG": "Esta extensión no retornó contenido.",
 	"DISCOVER_ADULT_WARNING": "El contenido es visible solo para adultos. ¿Eres mayor de 18 años?",
@@ -284,12 +245,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Este contenido ya no está disponible, es posible que hayas desinstalado el complemento.",
 	"UNINSTALL_THIS_ADDON": "Desinstalar este complemento",
 	"ERR_ADDON_NOT_INSTALLED": "Este complemento no está instalado. ¿Instalar ahora?",
-	
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recibir notificaciones de nuevos episodios",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recibir notificaciones de nuevos videos",
-	
 	"SIDEBAR_SHOW_STREAMS": "Mostrar transmisiones",
-
 	"RELAUNCH": "¡Relanzar ahora!",
 	"UPGRADE": "¡Una nueva versión está disponible! Actualiza a la versión más reciente de Stremio",
 	"RELOAD_UI": "Recargar la interfaz de usuario",
@@ -298,7 +256,6 @@
 	"MANUAL_UPDATE_LINE2": "Por favor, actualice lo antes posible.",
 	"BUTTON_UPDATE_LATTER": "Ahora no",
 	"BUTTON_UPDATE_NOW": "Actualizar",
-
 	"ANONYMOUS_USER": "Usuario anónimo",
 	"DONT_HAVE_ACC": "¿No tienes una cuenta?",
 	"HAVE_ACC": "¿Ya tiene una cuenta?",
@@ -347,20 +304,16 @@
 	"SEARCH_FAILED": "Error al buscar",
 	"EMAIL_USED": "Este correo electrónico ya está en uso.",
 	"WAITING_FB_LOGIN": "Iniciando sesión con Facebook...",
-
 	"EXTERNAL_PLAYER_TITLE": "Reproducir en reproductor externo",
 	"EXTERNAL_REMEMBER_PLAYER": "¿Quieres recordar tu elección?",
 	"EXTERNAL_ALWAYS_PLAY": "Si",
 	"EXTERNAL_ONLY_ONCE": "No",
-
 	"BEST_FIT": "Mejor Ajuste",
 	"FIT_SCREEN": "Ajustar a la pantalla",
 	"FILL": "Rellenar",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Original",
-
-
 	"INTRO_TASTE": "Cuéntanos de tus gustos",
 	"INTRO_TASTE_LONG": "Cuéntanos que te gustaría ver",
 	"INTRO_TASTE_PICK": "Selecciona {{interestsRemaining}} intereses",
@@ -384,7 +337,6 @@
 	"INTRO_TASTE_DIY": "Hazlo tú mismo",
 	"INTRO_TASTE_TECH": "Tecnología",
 	"INTRO_TASTE_CINEMA": "Cinema",
-
 	"ADDON_NOT_SUPPORTED": "El complemento seleccionado no es soportado en esta plataforma.",
 	"ADDON_DISCLAIMER": "El uso de complementos siempre estarán sujetos a su responsabilidad y la ley de gobierno de la jurisdicción en que te encuentres.",
 	"ADDON_ACTIVATE": "¿Activar este complemento?",
@@ -393,9 +345,7 @@
 	"ADD_ADDON": "Agregar complemento",
 	"ADD_ADDON_DESCRIPTION": "Puedes agregar un complemento a través de un enlace externo, que aparecerá en complementos instalados.",
 	"PASTE_ADDON_URL": "Pegar enlace de complemento",
-
 	"WHATS_NEW": "Qué hay de nuevo",
-
 	"BUTTON_CONTINUE": "Continuar",
 	"BUTTON_ACTIVATE": "Activar",
 	"BUTTON_ACTIVATED": "Activado",
@@ -405,9 +355,7 @@
 	"BUTTON_VIEW_ALL": "ver todo",
 	"BUTTON_SEE_ALL": "Ver Todo",
 	"BUTTON_COLOR_TRANSPARENT": "Transparente",
-
 	"OPEN_IN_BROWSER": "Abrir en el navegador",
-
 	"LIB_EMPTY": "Su biblioteca se ve vacía. Averigüe lo útil que es :) ",
 	"HOW_START": "Así es cómo puedes empezar:",
 	"LIB_EMPTY_CAL": "Su calendario muestra series en su Biblioteca.",
@@ -432,14 +380,11 @@
 	"LIB_EMPTY_ALL": "Regístrese para obtener todo esto:",
 	"LIB_EMPTY_BEST": "Regístrese para obtener lo mejor de Stremio",
 	"LIB_EMPTY_OTHER": "Regístrese para habilitar el Calendario y otras excelentes características",
-
 	"CALENDAR_ADDED": "El calendario de Stremio ha sido agregado a su calendario de escritorio por defecto.",
 	"CALENDAR_ADDED_MSG": "Si esto no funciona, por favor agregue esta URL manualmente a su aplicación de calendario",
-
 	"TRAKT_EXPIRED": "La autenticación de Trakt expiró, vaya a Configuración y vuelva a autenticar",
 	"TRAKT_REQUIRES_LOGIN": "Error de Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Necesitas iniciar sesión",
-
 	"SETTINGS_LABEL": "Configuración",
 	"SETTINGS_NAV_GENERAL": "General",
 	"SETTINGS_NAV_PLAYER": "Reproductor",
@@ -484,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Abrir cuando arranque el equipo",
 	"SETTINGS_VLC_DEFAULT": "Reproducir con VLC",
 	"SETTINGS_UI_LANGUAGE": "Idioma de la interfaz de usuario",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Tecla de escape para salir del modo pantalla completa",
 	"SETTINGS_GAMEPAD": "Habilitar soporte para mando",
 	"SETTINGS_CLOSE_WINDOW": "Cerrar la aplicación cuando se cierra la ventana",
@@ -551,13 +497,11 @@
 	"SETTINGS_HW_ACCELERATED": "Decodificación Acelerada",
 	"SETTINGS_HW_FULL": "Aceleración Completa",
 	"SETTINGS_HW_LEGACY": "Legado",
-
 	"SETTINGS_SECTION_SUBTITLES": "Subtítulos",
 	"SETTINGS_SECTION_AUDIO": "Audio",
 	"SETTINGS_SECTION_CONTROLS": "Controles",
 	"SETTINGS_SECTION_AUTO_PLAY": "Reproducción automática",
 	"SETTINGS_SECTION_ADVANCED": "Avanzado",
-
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Subtítulos de complementos",
 	"SUBSPICKER_BLACK_BACKGROUND": "Usar color de fondo negro",
@@ -565,7 +509,6 @@
 	"SUBSPICKER_SIZE": "Tamaño",
 	"SUBSPICKER_DELAY": "Retraso",
 	"SUBSPICKER_EMBEDDED_SUBS": "Subtítulos Embebidos",
-
 	"MOBILE_PRIVACY_POLICY": "Política de Privacidad",
 	"MOBILE_CRASH_REPORTING": "Reporte de Errores",
 	"MOBILE_ZOOM_TO_FILL": "Aumentar para Rellenar la Pantalla",
@@ -599,16 +542,10 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Su cuenta ha sido creada usando Facebook. Para eliminar su cuenta, utilice nuestro portal de usuario en www.stremio.com/login",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Proporcione su contraseña para confirmar la eliminación de su cuenta.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "Eliminar cuenta",
-
 	"NAVIGATION_ON": "Encendido",
 	"NAVIGATION_OFF": "Apagado",
-
 	"MARKETING_AGREE": "Acepto recibir comunicaciones de marketing de Stremio",
-	
-	
-	
 	"QUIT": "Salir",
-
 	"CONNECTED": "Conectado",
 	"AUTHENTICATE": "Autenticar",
 	"CACHING": "Almacenamiento en caché",
@@ -619,7 +556,6 @@
 	"TORRENT_PROFILE": "Perfil de Torrent",
 	"DATA_CACHING": "Caché almacenada",
 	"MAGNET_PARSING": "Analizando un enlace magnético",
-
 	"January": "Enero",
 	"February": "Febrero",
 	"March": "Marzo",
@@ -632,7 +568,6 @@
 	"October": "Octubre",
 	"November": "Noviembre",
 	"December": "Diciembre",
-
 	"Monday": "Lunes",
 	"Tuesday": "Martes",
 	"Wednesday": "Miércoles",
@@ -640,7 +575,6 @@
 	"Friday": "Viernes",
 	"Saturday": "Sábado",
 	"Sunday": "Domingo",
-
 	"Action": "Acción",
 	"Comedy": "Comedia",
 	"War": "Guerra",
@@ -716,7 +650,6 @@
 	"Science Radio": "Ciencia - Radio",
 	"Tech Radio": "Tecnología - Radio",
 	"Science & Technology Vod": "Ciencia y Tecnología VBD",
-
 	"new video": "nuevo video",
 	"new episode": "nuevo episodio",
 	"new movie": "nueva película",
@@ -725,7 +658,6 @@
 	"offer of the day": "oferta del día",
 	"news": "noticias",
 	"music video": "vídeo musical",
-
 	"CTX_SHOW_HOTKEYS": "Mostrar teclas de acceso rápido",
 	"CTX_DISMISS_NOTIF": "Descartar notificaciones",
 	"CTX_DISMISS_ALL": "Descartar todo",
@@ -766,7 +698,6 @@
 	"CTX_PASTE": "Pegar",
 	"CTX_CLEAR": "Limpiar",
 	"CTX_CLEAR_RECENT_SEARCHES": "Borrar búsquedas recientes",
-
 	"HELLO_THERE": "Hola",
 	"HOPE_YOU_ENJOY": "¡Esperamos que disfrute de Stremio y sea una de sus aplicaciones favoritas!",
 	"WHO_ARE_WE": "¿Quiénes somos? Somos el equipo detrás de ella <br>dos chicos que trabajan duro todos los días durante los últimos 3 años, con un único objetivo <br>para hacer este producto cada vez mejor.",
@@ -774,9 +705,7 @@
 	"SPREAD_THE_WORD": "Comparte con tus amigos ahora, corre la voz sobre Stremio",
 	"MORE_PEOPLE": "Cuantas más personas usen Stremio, mejor será",
 	"SEND_A_LINK": "O envía un enlace de nuestro sitio web",
-
 	"TIP_LOCALFILES": "Consejo: puede arrastrar y soltar archivos de vídeo locales en Stremio",
-
 	"ADDON_MY": "Mis complementos",
 	"ADDON_COMMUNITY": "Complementos de la comunidad",
 	"ADDON_OFFICIAL": "Complementos oficiales",
@@ -807,7 +736,6 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Ver #{types} de forma GRATUITA",
 	"ADDON_PROVIDES_SUBTITLES": "Subtítulos #{types}",
 	"ADDON_CANTDETECT": "No hemos podido detectar un Stremio en ejecución, así que no pudimos detectar qué complementos tiene instalado.",
-
 	"ERR_NO_META": "No se encontró información sobre esto ",
 	"ERR_GETTING_META": "Error al recuperar información sobre esto.",
 	"ERR_CANT_PARSE_MAGNET": "Incapaz de analizar enlace magnético",
@@ -821,12 +749,10 @@
 	"ERR_CLIPBOARD": "No se puede reproducir desde el portapapeles",
 	"ERR_CLIPBOARD_READ": "Desde esta plataforma no se puede acceder al portapapeles",
 	"ERR_CLIPBOARD_GENERIC": "No se ha encontrado ningún URL reproducible en el portapapeles. Por favor, copie una URL (por ejemplo un enlace magnético) que lleve a un vídeo.",
-	
 	"BOARD_CONTINUE_WATCHING": "Continuar viendo",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Películas elegidas especialmente para ti.<br />Esta película es una muestra de recomendación.",
 	"BOARD_EXPLANATION_EPISODES": "Los nuevos episodios de tus series favoritas están aquí<br />Agrega las series que sigues en tu Biblioteca.",
 	"BOARD_EXPLANATION_VIDEOS": "Los nuevos videos de tus canales favoritos están aquí.<br />Agrega los canales de YouTube que sigues a tu Biblioteca.",
-
 	"WEBSITE_ENJOYED_BY": "Disfrutado por más de 30 millones de usuarios en todo el mundo",
 	"WEBSITE_STREAMING_ENHANCED": "Transmisión mejorada",
 	"WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio ofrece una experiencia de entretenimiento segura, moderna y fluida. Con su interfaz fácil de usar y su diversa biblioteca de contenido, incluida la compatibilidad con 4K HDR, los usuarios pueden disfrutar de sus películas y programas de TV favoritos en todos sus dispositivos. Y con su compromiso con la seguridad, Stremio es la mejor opción para un servicio de sin preocupaciones y experiencia de transmisión de calidad.",
@@ -916,8 +842,6 @@
 	"WEBSITE_STREMIO_WEB_ON_IOS": "Guía para Stremio Web en iOS",
 	"WEBSITE_LINK_ART_V2": "Galería de Fanart",
 	"WEBSITE_PARTNERS": "Socios",
-
-
 	"WEBSITE_SLOGAN_WATCH": "Disfrute al instante",
 	"WEBSITE_SLOGAN_ALL": "de todo el contenido de vídeo en un solo lugar",
 	"WEBSITE_SLOGAN_NEW": "Todo lo que puedes ver",
@@ -934,44 +858,32 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Crear Complemento",
 	"WEBSITE_PAGE_CONTACTS": "Contactos",
 	"WEBSITE_PAGE_BLOG": "Blog",
-
 	"WEBSITE_TYPE_movie": "Películas",
 	"WEBSITE_TYPE_series_PL": "Series",
 	"WEBSITE_TYPE_tv": "TV en vivo",
 	"WEBSITE_TYPE_channel": "Canales de Youtube",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio es una aplicación que le ayuda a organizar y ver al instante sus canales de videos, películas, series de televisión y canales de televisión favoritos.",
-
 	"WEBSITE_FEATURES_WATCH": "Ver en HD al instante",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Haga clic y reproduzca sus películas favoritas, programas de televisión, videos y canales de televisión.",
-
 	"WEBSITE_FEATURES_SUBS": "Subtítulos automáticos",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio selecciona automáticamente los subtítulos sincronizados para su idioma.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Tu turno, jefe.",
-
 	"WEBSITE_FEATURES_CAST": "Reproducir en TV y dispositivos móviles",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Emitir en AppleTV, Chromecast, Smart TV (DLNA/UPnP) y dispositivos móviles.",
-
 	"WEBSITE_LIB": "Disfrute de su biblioteca personal sincronizado en todos sus dispositivos",
 	"WEBSITE_LIB_COLLECT": "Recoger información de Stremio",
 	"WEBSITE_LIB_IMPORT": "Importar desde Facebook",
 	"WEBSITE_LIB_LOCAL": "Añadir de la unidad local",
-
 	"WEBSITE_BOARD": "El Panel - Su lugar único para recibir Notificaciones y Recomendaciones",
 	"WEBSITE_BOARD_RECOMMEND": "Programa de televisión recomendado",
 	"WEBSITE_BOARD_TRENDING": "Tendencias en Películas",
 	"WEBSITE_BOARD_NEW": "Nuevo video",
 	"WEBSITE_BOARD_EPISODE": "Nuevo episodio",
-
 	"WEBSITE_BOARD_1": "¿Buscando algo interesante que ver?\n¡Obtén recomendaciones basadas en lo que te gusta!",
 	"WEBSITE_BOARD_2": "¡Sea notificado cuando un nuevo episodio de su programa favorito de televisión o canal de YouTube esté disponible!",
-
 	"WEBSITE_BOARD_YOUTUBE": "Nuevos videos de canales de YouTube",
 	"WEBSITE_BOARD_EPISODES": "Nuevos episodios de las series que sigues",
-
-
 	"WEBSITE_ADDONS": "Complemento de contenidos",
-
 	"WEBSITE_TECH_DETAIL": "¡Nos encanta la tecnología, nos gusta la ciencia loca!\nStremio utiliza las siguientes tecnologías de código abierto:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js permite a Stremio reproducir cualquier formato de vídeo con un buen rendimiento.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Somos contribuidores fundamentales del proyecto",
@@ -979,8 +891,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Somos contribuidores del proyecto",
 	"WEBSITE_TECH_LINVODB": "Una tecnología de base de datos que asegura que sus datos se organicen y estén disponible en cualquier lugar que inicie sesión.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Tecnología interna",
-
-
 	"WEBSITE_CREATE_ADDON": "Creé su complemento",
 	"WEBSITE_CREATE_ADDON_DETAIL": "¿Tiene un servicio para proporcionar contenido de vídeo?\nVamos a ayudarle a beneficiarse de las características de Stremio creando su Complemento.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Beneficios de crear un Complemento para Stremio",
@@ -991,20 +901,16 @@
 	"WEBSITE_P2P_CONTACT": "¿Interesado? Eres bienvenido, <a href='mailto:office@stremio.com'>Contáctenos</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "¡Estaremos encantados de ayudarle a integrar su contenido con Stremio!",
 	"WEBSITE_P2P": "De vez en cuando, llega una tecnología que cambia el nombre del juego. Hemos invertido un montón de tiempo y esfuerzo en la construcción de nuestro motor de transmisión de Par A Par (P2P) de vídeo que proporciona un gran rendimiento y versatilidad para adaptarse a cualquier caso de uso.\nContáctenos por DRM-enabled P2P video en demanda o transmisión en vivo.",
-
-
 	"WEBSITE_THOUGHTS": "Pensamientos que compartimos:",
 	"WEBSITE_SPREAD": "Difunde Stremio en tus redes sociales:",
 	"WEBSITE_CONTACT": "Contacta con nosotros, ¡Estamos deseando escucharte!",
 	"WEBSITE_OPENSOURCE": "Para nuestros proyectos de código abierto, visita nuestro",
-
 	"WEBSITE_BITCOIN": "Donar Bitcoin:",
 	"WEBSITE_FAQ": "Preguntas frecuentes",
 	"WEBSITE_FAQ_SHORT": "Preguntas frecuentes",
 	"WEBSITE_QUESTIONS": "Preguntas",
 	"WEBSITE_TOS": "Términos de Uso",
 	"WEBSITE_LEGAL": "Legal",
-
 	"WEBSITE_PAGE_ABOUT": "Acerca de",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Vuélvete un socio",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Libertad para ver\nTodo lo que quieras.",
@@ -1023,7 +929,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "Catálogo de videos extensible infinitamente;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Excelentes funcionalidades para organizar tu multimedia;",
 	"WEBSITE_AS_SEEN_ON": "Como se ve en",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "Acerca de nosotros",
 	"WEBSITE_LINK_TECHNOLOGY": "Tecnología",
@@ -1051,7 +956,6 @@
 	"WEBSITE_WHY_P3": "Puedes usar nuestro servicio en cualquier dispositivo y en cualquier momento, haciendo Stremio el único centro de entretenimiento de vídeo que necesitaras.",
 	"WEBSITE_TEAM": "EQUIPO",
 	"WEBSITE_TEAM_P": "El equipo Stremio es pequeño pero poderoso: entre diez de nosotros, programamos en X lenguajes y compartimos habilidades en desarrollo de software, diseño UI y UX, mercadeo y publicidad, y negocios y startups.",
-
 	"WEBSITE_FEATURES": "Características",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Descubre nuevo contenido con facilidad",
@@ -1067,7 +971,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Ve videos de diferentes fuentes",
 	"WEBSITE_FEATURES_SOURCES_P": "Instala complementos oficiales y de la comunidad para disfrutar las fuentes de vídeo desde diferentes proveedores - todo en una aplicación elegante y fácil de usar.",
 	"WEBSITE_CREATE_AN_ADDON": "Crear un complemento",
-
 	"WEBSITE_FEATURES_SYNC": "Sincroniza tu biblioteca entre distintos dispositivos y continua la reproducción",
 	"WEBSITE_FEATURES_SYNC_P1": "Haz login en tu cuenta en todos los dispositivos y podrás disfrutar de tener tu biblioteca, complementos, lista de reproducción y calendario.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Catálogo de videos ampliable a través de complementos",
@@ -1082,7 +985,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Ver en un reproductor externo.",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Reproducir desde un fichero torrent o un enlace magnet",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Importa en tu librería a través de los Me gusta de Facebook o desde tu disco duro local",
-
 	"WEBSITE_ADD_ONS": "Complementos",
 	"WEBSITE_ADD_ONS_P1": "Todo el contenido de vídeo que Stremio provee es obtenido a través de un sistema de complementos - no se ha incorporado ningún contenido o proveedor de contenido dentro de la aplicación.",
 	"WEBSITE_ADD_ONS_P2": "Hay dos grupos de complementos disponibles: oficiales y de la comunidad.",
@@ -1100,7 +1002,6 @@
 	"WEBSITE_ADDONS_CREATE": "Crear un complemento",
 	"WEBSITE_ADDONS_CREATE_P1": "Si lo deseas, puedes desarrollar tu propio complemento. De esta manera, puedes darte a ti y a la comunidad acceso a nuevo contenido de vídeo, y alcanzar una nueva audiencia de millones de usuarios alrededor del mundo.",
 	"WEBSITE_ADDONS_START_CREATE": "Para empezar, visita la página del SDK de complementos de Stremio:",
-	
 	"WEBSITE_DOWNLOADS": "Descargas",
 	"WEBSITE_DOWNLOADS_P1": "Para un óptimo rendimiento, recomendamos que uses la última versión disponible de las aplicaciones de Stremio. Si por alguna razón, deseas usar una versión anterior, puedes descargarla aquí.",
 	"WEBSITE_DOWNLOADS_P1_SHORT": "Para un óptimo rendimiento, recomendamos que uses la última versión disponible de las aplicaciones de Stremio.",
@@ -1112,7 +1013,6 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio para Android Mobile",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio para Steam Deck",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio para iOS (versión limitada)",
-
 	"WEBSITE_DOWNLOAD_SERVICE": "Descargar Stremio Service",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service es una aplicación complementaria para Stremio Web. Recomendamos utilizar la última versión disponible de Stremio Service.",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service para Windows",
@@ -1122,7 +1022,6 @@
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Más opciones de descarga",
 	"WEBSITE_DOWNLOAD_NEW": "¡Nuevo!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Lanzamos Stremio Web",
-
 	"WEBSITE_CONTRIBUTE_P1": "La plataforma Stremio es código abierto y puedes crear fácilmente un complemento para contenido que actualmente no posee fuente.",
 	"WEBSITE_CONTRIBUTE_WHY": "¿Por qué deberías crear un complemento?",
 	"WEBSITE_CONTRIBUTE_WHY_P1": "Alcanzar nueva audiencia para tu contenido de vídeo",
@@ -1139,7 +1038,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Si deseas disfrutar de las aplicaciones de Stremio en diferentes lenguajes, puedes unirte a nuestra comunidad de traductores voluntarios. Ellos nos ayudan a agregar versiones de Stremio en diferentes lenguajes.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "¿Estás ansioso por comenzar?",
 	"WEBSITE_TRANSALTE_STREMIO": "Traduce Stremio",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Comunidades oficiales",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Sé parte de la creciente comunidad de Stremio. Síguenos en redes sociales y no seas tímido de decir hola - ¡nos encanta escuchar a nuestros fanáticos! ",
@@ -1161,7 +1059,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Fondos de pantalla",
 	"WEBSITE_COMMUNITY_ART": "Galería de Arte de la Comunidad",
 	"WEBSITE_LINK_ART": "Galería de arte de la comunidad",
-
 	"WEBSITE_CONTACT_US": "Contacta con nosotros",
 	"WEBSITE_CONTACT_US_P1": "Si tienes alguna pregunta, comentario o sugerencia, siéntete libre de entrar en contacto con nosotros a través del formulario de contacto más abajo.",
 	"WEBSITE_CONTACT_US_P2": "Ten presente que nos ubicamos en Bulgaria, entonces habrá un retraso en la respuesta a su consulta debido a las diferencias de zona horaria.",
@@ -1172,7 +1069,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "Su correo electrónico",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Mensaje",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "ENVIAR",
-
 	"WEBSITE_CONTACT_US_Q_1": "¿Cómo instalar?",
 	"WEBSITE_CONTACT_US_Q_2": "¿Cómo desinstalar?",
 	"WEBSITE_CONTACT_US_Q_3": "¿(HTML) Cómo hacer lasaña?",
@@ -1182,7 +1078,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "Tecnología",
 	"WEBSITE_TECHNOLOGY_P1": "Amamos la tecnología y la ciencia loca. </br> Aquí está lo que potencia a Stremio (todo es código abierto).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Desarrollo de software multiplataforma en su mejor momento.",
@@ -1198,7 +1093,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "o",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... puedes emplear tus habilidades de programación para la creación de extensiones de la comunidad. ",
 	"WEBSITE_TRANSLATE_STREMIO": "Traduce Stremio",
-
 	"WEBSITE_404_OH_NO": "¡Oh no! La página que estás buscando no está aquí...",
 	"WEBSITE_GO_HOME": "Ir al inicio",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Otras descargas",
@@ -1209,58 +1103,42 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Competición de complementos",
 	"WEBSITE_LINK_ART_CONTEST": "Concurso de arte",
 	"WEBSITE_MY_ACCOUNT": "Mi cuenta",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "¿Qué es Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio es un 'media center' moderno que te da la libertad de ver todo lo que quieras.",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "¿Cómo funciona?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Una vez que Stremio esté instalado en tu dispositivo y hayas creado una cuenta, todo lo que tienes que hacer es ver el catálogo de complementos para instalar el complemento que quieras y estarás listo para comenzar a explorar contenido.",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "A continuación, puede ir a las secciones Descubrir o Panel para comenzar a explorar contenido.",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "¿Qué puedo ver?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Muchas cosas: Películas, series, canales web, deporte, canales de televisión, podcasts, etc. Gracias a nuestro sistema de complementos puedes acceder a una gran variedad de contenidos.",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "¿Es Stremio software libre?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Sí, puedes consultar los siguientes enlaces: ${1}aplicación de escritorio${2} y ${3}GitHub organization${4}.",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "¿Es Stremio seguro?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Sí: al ser software libre, el código es auditable publicamente y puedes revisarlo tú mismo.",
 	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
-	
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "¿Qué ocurre con mi privacidad?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Respetamos la privacidad de los usuarios y no guardamos ningún dato personal exceptuando lo mínimo necesario para poder crear y sincronizar tu cuenta.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Hay un ${1}modo invitado{2} al crear la cuenta, que no requiere ningún dato: en éste modo, no hay ninguna llamada a nuestros servidores. Sin embargo, ésto tiene el coste de no tener disponible algunas características útiles como sincronizar tu biblioteca entre distintos dispositivos.",
-	
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "¿Puedo enviar el contenido a mi TV?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Sí, damos soporte a Chromecast y puedes enviar contenido de video desde la aplicación de escritorio o aplicación móvil (Android).",
-	
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "¿Cuantos complementos tiene Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "A finales de 2019, más de 50 - para más información, consulta nuestro catálogo de complementos.",
-	
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "¿Es posible ampliar Stremio más allá de lo que se ofrece en el catálogo de complementos?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Sí, deberías visitar: ${1}PimpMyStremio${2}, ${3}la comunidad en Reddit{4}, ${5}Stremio Downloader${6}, etc.",
-	
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "¿Qué dispositivos soporta Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Tenemos aplicaciones de escritorio para Windows, Mac y GNU/Linux. Para móviles o celulares, damos soporte a Android e iOS, aunque la funcionalidad en iOS es limitada (no soporta muchos complementos).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Hay muchos dispositivos basados en Android en los cuales puedes ejecutar Stremio, por ejemplo NVIDIA Shield y Amazon Fire Stick, aunque no damos soporte oficial.",
 	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
-	
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "¿Pueden añadir cierto contenido a Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Lo sentimos, nosotros no proveemos del contenido, sin embargo, cuantos más complementos tengas instalads, mayor será el contenido que tendrás disponible.",
-	
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "¿Puede Stremio reproducir enlaces magnet?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Sí, y también puede reproducir enlaces HTTP normales, así como ficheros torrent(mediante arrastrar y soltar).",
-	
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "¿Puedo descargar un video y verlo offline?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Tener el contenido offline es una característica en desarrollo que estará disponible más adelante, aunque si dejas que Stremio cachee el contenido en tu dispositivo (revisa el panel de administración) podrás ver el contenido posteriormente sin conexión.",
-	
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "¡No funciona nada, ayuda!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "¿Estás seguro de que has instalado los complementos? Si la respuesta es sí, dirigete a nuestro ${1}centro de ayuda${2}.",
-	
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "¿Cómo mantiene Stremio los costes de desarrollo?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Ocasionalmente publicamos anuncios no intrusivos, pero estamos considerando pasar a un modelo de donación.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Si tienes más preguntas, visita nuestro ${1}centro de ayuda${2}.",
-
 	"HELP_LEARN_MORE": "Ayúdanos a saber más de ti.",
 	"LIFESTYLE": "Estilo de vida",
 	"SPORTS": "Deportes",
@@ -1296,15 +1174,12 @@
 	"LAST_SEARCHES": "Últimas búsquedas",
 	"CLEAR_HISTORY": "Borrar historial",
 	"CHOOSE_SOME": "ESCOGE ALGUNO DE ESTOS:",
-
 	"NO_WEB_REMOTE": "Web Remote no se pudo cargar",
 	"STREMIO_OFFLINE": "Stremio está desconectado",
 	"STREMIO_EXPENSIVE_CONNECTION": "Hemos detectado que estás utilizando una conexión de datos móviles, ¿quieres continuar?",
 	"USE_DATA": "Usar datos",
 	"WARNING": "Advertencia",
-
 	"MORE_INFO": "Más información ...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Cargando ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Regresar a lenguajes",
@@ -1382,7 +1257,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Mostrar estadísticas durante la carga",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Para leer la Política de Privacidad de Stremio, visite:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Para leer los Términos y Condiciones de Stremio, visite:",
-
 	"STREMIO_TV_NAV_SEARCH": "Buscar",
 	"STREMIO_TV_NAV_HOME": "Inicio",
 	"STREMIO_TV_NAV_DISCOVER": "Descubrir",
@@ -1393,14 +1267,12 @@
 	"STREMIO_TV_NAV_TV": "TV en vivo",
 	"STREMIO_TV_NAV_SETTINGS": "Configuración",
 	"STREMIO_TV_NAV_ADDONS": "Complementos",
-
 	"STREMIO_TV_LOGIN_TITLE": "Asociar Cuenta",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expira en",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Escanea el Código QR de arriba o visita",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Inicia sesión a tu cuenta Stremio",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Solicitar un nuevo enlace",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Código de login actualizado",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Escribe algo",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "¡No se solicitaron complementos para los catálogos!",
 	"STREMIO_TV_SEARCH_BUTTON": "Buscar",
@@ -1410,11 +1282,8 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Historial de Búsqueda",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Puedes buscar por Título, Actores, Canales y más...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Vaciar el Historial de Búsqueda",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Elija uno de los filtros a continuación",
-
 	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "El servidor de streaming está desconectado. Verifique la configuración del servidor.",
-
 	"FILTERS": "Filtros",
 	"SETTINGS": "Configuración",
 	"ACCOUNT": "Cuenta",
@@ -1459,53 +1328,42 @@
 	"REMOTE_ADJUST_SIZE": "Ajustar tamaño",
 	"REMOTE_COULD_NOT_BE_LOADED": "El Control Web podría no cargar",
 	"REMOTE_RETRY": "Volver a intentar",
-
 	"TORRENT_PROFILE_DEFAULT": "Por Defecto",
 	"TORRENT_PROFILE_SOFT": "Suave",
 	"TORRENT_PROFILE_FAST": "Rápido",
 	"TORRENT_PROFILE_ULTRA_FAST": "Ultra Rápido",
-
 	"FAQ_001_H1": "¿Qué es Stremio?",
 	"FAQ_001_P1": "Stremio es un software de centro multimedia diseñado para el entretenimiento de vídeo pensando en el fácil uso. Stremio te permite organizar y ver tu propia colección de películas, series, canales y programas en vivo.",
 	"FAQ_001_P2": "Stremio colecta el contenido que muestra desde tu disco local y nuestro sistema de complementos.",
 	"FAQ_001_P3": "Te notificará cuando nuevos episodios, películas y vídeos en los cuales estás interesado salgan y proveerá recomendaciones de películas para ti.",
-	
 	"FAQ_02_H1": "¿Cómo se compara Stremio con Kodi y Plex?",
 	"FAQ_02_P1": "Estamos inspirados por estas dos piezas de software. Pero tenemos diferentes objetivos - Stremio es específicamente pensado en el entretenimiento de vídeo,  y se esfuerza por convertirse en la solución principal para eso al ser muy fácil de usar.",
 	"FAQ_02_P2": "Stremio nunca será tan personalizable y rico en características como Kodi y Plex, pero es significativamente más fácil de usar. ${1} Obtén y mira ${2} :)",
-	
 	"FAQ_03_H1": "¿Cómo se compara Stremio con Netflix?",
 	"FAQ_03_P1": "Nuevamente, Netflix es una de nuestras inspiraciones. Nos esforzamos por lograr la experiencia del usuario de Netflix, además de muchos extras adicionales. Pero más importante, te damos la libertad de manejar tu propia biblioteca y agregar nuevas fuentes de contenido con nuestro sistema de complementos.",
 	"FAQ_03_P2": "Esto hace a Stremio infinitamente extensible, entonces cuando usas Stremio, no estás limitado al contenido que Netflix decide licenciar. Por ejemplo, a través de Stremio puedes ver contenido desde ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} e incluso ¡${9}Netflix${10} mismo!",
-	
 	"FAQ_04_H1": "¿Cómo se compara Stremio con Flipboard?",
 	"FAQ_04_P1": "No nos hacemos esa pregunta frecuentemente, excepto cuando hablamos con emprendedores :)",
 	"FAQ_04_P2": "Stremio es por diseño un recopilador de contenido, lo cual esencialmente lo hace un Flipboard para vídeo. Esto es muy evidente en nuestra sección de Panel, que te da un catálogo y notificaciones de nuevos episodios y vídeos que sigues, tal como Flipboard.",
-	
 	"FAQ_05_H1": "¿Cómo se compara Stremio con Popcorn Time?",
 	"FAQ_05_P1": "Stremio y Popcorn Time son similares en la interfaz de usuario, porque no hay muchas formas de hacer catálogos de entretenimiento de vídeo correctamente :)",
 	"FAQ_05_P2": "Mientras que Popcorn Time es enfocado en transmitir torrents desde fuentes específicas, Stremio no es restrictivo y es meramente un recopilador de contenido - no se restringe a una fuente específica de contenido.",
 	"FAQ_05_P3": "Además, nosotros no proveemos ningún complemento torrent por defecto, así Stremio no cubre el caso de uso de Popcorn Time oficialmente.",
 	"FAQ_05_P4": "Otra diferencia notable es que Popcorn Time es completamente código abierto, mientras Stremio es ${1} parcialmente código abierto${2}.",
-	
 	"FAQ_06_H1": "¿Agregarán esta película/serie?",
 	"FAQ_06_P1": "No, disculpa :(",
 	"FAQ_06_P2": "Como es mencionado en la mayoría de las otras preguntas, Stremio no provee contenido alguno por si mismo - todo es agregado a través de un sistema de complementos. En caso de quieras solicitar un contenido, puedes usar el botón “Reportar” en el reproductor, el cual enviará un correo al autor del complemento que estás usando actualmente.",
-	
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-	
 	"FAQ_08_H1": "¿Crearan un complemento para X?",
 	"FAQ_08_P1": "Es completamente posible.",
 	"FAQ_08_P2": "Si tienes una idea para un complemento, escríbenos a ${1}office@stremio.com${2}, pero asegúrate de que tu idea complementaria no infrinja los derechos de autor ni los términos de uso.",
 	"FAQ_08_P3": "En el momento, la siguiente cosa en nuestro plan de trabajo son complementos para FandangoNOW, vídeo bajo demanda Filmon.tv y Crunchyroll.",
-	
 	"FAQ_09_H1": "¿Usa Stremio BitTorrent?",
 	"FAQ_09_P1": "Si, Stremio soporta BitTorrent como un protocolo de transmisión. Puedes usar este con un complemento torrent, arrastrando y soltando un archivo .torrent en Stremio, o pegando un enlace magnético en la barra de búsqueda.",
 	"FAQ_09_P2": "Por favor note que el único complemento oficial usando BitTorrent es ${1}Vodo${2}, el cual provee contenido independiente, todos permitidos para ser distribuidos con BitTorrent.",
 	"FAQ_09_P3": "No soportamos el uso de cualquier complemento de terceros que pueda infringir derechos de autor.",
-	
 	"FAQ_10_H1": "¿Qué puedo ver en Stremio con los complementos oficiales?",
 	"FAQ_10_P1": "Por defecto, puedes ver contenido de Filmon.tv, YouTube y Vodo en Stremio mismo, con su reproductor embebido. Adicionalmente, tenemos un complemento para Twitch.tv y otros tantos.",
 	"FAQ_10_P2": "Esto combinado provee una selección de:",
@@ -1514,64 +1372,51 @@
 	"FAQ_10_L3": "Películas independientes con Vodo",
 	"FAQ_10_L4": "Transmisiones de juegos en línea con Twitch.tv",
 	"FAQ_10_P3": "Adicionalmente, hay muchas fuentes de contenido provistas con los complementos de Guidebox y Netflix, los cuales <b>no</b> reproducirán completamente dentro de Stremio, pero podría redirigirte al service dado. For example, el complemento de Guidebox puede darte una selección de películas que puedes reproducir en Estados Unidos gratuitamente, desde servicios como TubiTV y Crackle.",
-	
 	"FAQ_11_H1": "Stremio no instala, ¿Qué puedo hacer?",
 	"FAQ_11_P1": "Si estás en Windows, intenta ${1}este instalador alternativo${2}.",
 	"FAQ_11_P2": "Si estás en Mac OS X, ten presente que no soportamos versiones anteriores a OS X Mavericks (10.9).",
 	"FAQ_11_P3": "Si estás en Linux, ten presente que solo soportamos Linux de 64 bits (x64) en el momento.",
 	"FAQ_11_P4": "Si aún no puede resolver su problema, por favor escríbanos a nuestro ${1}grupo de Facebook${2}.",
-	
 	"FAQ_12_H1": "¿Por qué mi antivirus reclama? ¿Es Stremio seguro?",
 	"FAQ_12_P1": "Aseguramos que Stremio ${1}100% libre de virus${2}.",
 	"FAQ_12_P2": "Su antivirus está reclamando porque nosotros incluimos publicidad en nuestro instalador, la cual es reconocida por algunos antivirus como software publicitario.",
 	"FAQ_12_P3": "Si aún estás inseguro, puedes probar nuestro ${1}instalador alternativo${2}.",
-	
 	"FAQ_13_H1": "¿Cómo puedo crear un complemento?",
 	"FAQ_13_P1": "Para principiantes, recomendamos que revises nuestro ${1}módulo de sistema de complementos${2} en GitHub.",
 	"FAQ_13_P2": "Después, puedes seguir el ${1}tutorial: Hello World${2}.",
 	"FAQ_13_P3": "Si no tienes habilidades en programación, por favor publica tu idea en ${1}la comunidad Reddit${2} y contáctanos con tu idea de complemento a ${3}office@stremio.com${4}.",
-	
 	"FAQ_14_H1": "¿Cómo se publican complementos?",
 	"FAQ_14_P1": "Cuando creas un complemento y lo alojas, y pones un campo <b>endpoint</b> en su manifiesto, que apunta a una dirección de complemento funcional, el complemento automáticamente se publicará por si mismo en nuestro ${1}catálogo de complementos${2}.",
 	"FAQ_14_P2": "Esto sucede porque la parte del servidor del módulo stremio-addons realiza automáticamente una llamada a nuestra API para anunciar el complemento. Cuando nuestra API valida su <b>endpoint</ b> como un complemento válido, comenzará a mostrarse en el catálogo.",
-	
 	"FAQ_15_H1": "¿Puedo ejecutar Stremio en mi navegador?",
 	"FAQ_15_P1": "No en este momento, ¡pero vendrá pronto!",
 	"FAQ_15_P2": "Si tienes curiosidad de ver un alfa, puedes verlo aquí: ${1}alpha4.strem.io${2}. Ten en mente que la transmisión es deshabilitada en este alfa. Soportamos Chrome, Firefox, Opera y Edge.",
-	
 	"FAQ_16_H1": "Transmitir al televisor no funciona / subtítulos no funcionas",
 	"FAQ_16_P1": "La transmisión al televisor usa tecnología DLNA, que es muy inconsistente entre diferentes marcas y modelos de televisor. Por esa razón, no tenemos la capacidad de probarlo en todos los casos, por lo que está lejos de ser perfecto. A pesar de esto, estamos trabajando para mejorarlo constantemente, pero no podemos darle una estimación de cuándo la tecnología DLNA comenzará a funcionar correctamente con su televisor.",
 	"FAQ_16_P2": "Si ni siquiera ve su televisor en el menú de transmisión, intente deshabilitar su conexión de red y volver a habilitarla (en Windows, haga clic derecho en la red y use Activar/Desactivar), y reinicie su enrutador, televisor y computador.",
 	"FAQ_16_P3": "Si aún presentas problemas, puedes ayudarnos enviándonos la información de marca y modelo de tu televisor a ${1}office@stremio.com${2}.",
 	"FAQ_16_P4": "En el momento, recomendamos Chromecast, el cual soportamos bastante bien, o simplemente conecta a tu televisor con un cable HDMI.",
-	
 	"FAQ_17_H1": "Stremio se bloquea y/o cierra, ¿qué puedo hacer?",
 	"FAQ_17_P1": "Primero que todo, si estás usando Windows 7 con el antivirus AVG: tenemos un problema con esta combinación. El problema es en el mismo AVG y no hay forma razonable para resolver el problema para nuestro fin. Desafortunadamente, excepciones o deshabilitar el antivirus no funcionará. La única solución es reemplazar AVG con otro antivirus.",
 	"FAQ_17_P2": "Si esto no soluciona el problema, pero aún estás usando Windows, por favor actualiza al último <i>service pack</i> y actualiza/reinstala tus controladores de la GPU, luego intenta de nuevo.",
 	"FAQ_17_P3": "Si su problema aún no se resuelve, o estás usando un Mac o Linux, por favor escríbenos reportando los detalles exactos del problema a ${1}nuestro grupo de Facebook${2}.",
-	
 	"FAQ_18_H1": "¿Cómo puedo crear un complemento?",
 	"FAQ_18_P1": "Para principiantes, recomendamos que revises nuestro ${1}módulo de sistema de complementos${2} en GitHub.",
 	"FAQ_18_P2": "Después, puedes seguir el ${1}tutorial: Hello World${2}.",
 	"FAQ_18_P3": "Si no tienes habilidades en programación, por favor publica tu idea en ${1}la comunidad Reddit${2} y contáctanos con tu idea de complemento a ${3}office@stremio.com${4}.",
-	
 	"FAQ_19_H1": "¿Por qué Stremio ocupa espacio en disco?",
 	"FAQ_19_P1": "Stremio tiene una <b>cache local</b> para almacenar temporalmente los archivos de vídeo que ves.",
 	"FAQ_19_P2": "Esto tiene dos beneficios: primero, esto permite a Stremio precargar el vídeo y así asegurar una transmisión más fluida. Segundo, este guarda los vídeos en la cache local, así puedes continuar viéndolos sin conexión.",
 	"FAQ_19_P3": "La cantidad que almacena Stremio depende de la configuración de <b>Cache<b> en el panel de Configuración. Stremio puede ser configurado para almacenar una cantidad (ej. 2GB) en su disco local, a menos que el vídeo transmitido actualmente sea mayor que eso, en cuyo caso tendrá que ubicar suficiente almacenamiento para guardarlo hasta que lo retransmitas",
-	
 	"FAQ_20_H1": "¿Donde está la carpeta de almacenamiento?",
 	"FAQ_20_P1": "En Windows, es stremio-cache en el disco que seleccionaste en Configuración (ej. \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "En MacOS, es \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "En Linux, es \"~/.stremio/stremio-cache\" o \"~/stremio-cache\"",
-	
 	"FAQ_21_H1": "Obtengo el error \"Streaming server is not found\", ¿qué puedo hacer?",
 	"FAQ_21_P1": "Si ves este error, quiere decir una de las siguientes cosas::",
 	"FAQ_21_P2": "1) Estás intentando usar un complemento que depende de fuentes de Youtube/BitTorrent, a través de nuestra ${1}versión web${2}. En este caso, deberías instalar nuestra versión de escritorio desde ${3}nuestro sitio web${4}.",
 	"FAQ_21_P3": "2) Algo está mal con tu instalación de Stremio. En este caso, intenta reinstalar nuestra última versión de escritorio desde ${1}el sitio web${2}. Si esto no ayuda, intenta deshabilitar los programas de antivirus y el cortafuegos, reinicia tu computador e intenta de nuevo. Si esto tampoco funciona, escríbenos por favor a ${3}nuestro grupo de facebook${4}.",
-	
 	"FAQ_22_H1": "No puedo ver/usar la mayoría de complementos en iOS",
 	"FAQ_22_P1": "Debido a las restricciones de los términos y condiciones de Apple App Store, tenemos restringida la aplicación iOS solo a un conjunto particular de complementos.",
 	"FAQ_22_P2": "Pero puedes estar seguro - habrán más complementos para iOS en el futuro, y podríamos también agregar una integración que te permita usar todos los complementos de Stremio gracias a la conexión de la aplicación iOS con el servidor de transmisión de Stremio."
-
 }

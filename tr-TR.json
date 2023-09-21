@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Başlangıçta çalıştır",
 	"SETTINGS_VLC_DEFAULT": "VLC ile oynat",
 	"SETTINGS_UI_LANGUAGE": "Kullanıcı Arayüzü Dili",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Esc tuşuyla tam ekrandan çık",
 	"SETTINGS_GAMEPAD": "Gamepad desteğini etkinleştir",
 	"SETTINGS_CLOSE_WINDOW": "Pencere kapatıldığında uygulamayı kapat",

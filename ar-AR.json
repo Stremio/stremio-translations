@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "ابدأ عند بدء التشغيل",
 	"SETTINGS_VLC_DEFAULT": "تشغيل عن طريق VLC",
 	"SETTINGS_UI_LANGUAGE": "لغة واجهة المستخدم",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "مفتاح Escape للخروج من وضع ملء الشاشة  ",
 	"SETTINGS_GAMEPAD": "تفعيل دعم gamepad",
 	"SETTINGS_CLOSE_WINDOW": "أغلق التطبيق عند إغلاق النافذة",

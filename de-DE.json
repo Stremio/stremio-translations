@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Beim Start ausführen",
 	"SETTINGS_VLC_DEFAULT": "Mit VLC wiedergeben",
 	"SETTINGS_UI_LANGUAGE": "Sprache des UI",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Esc-Taste beendet den Vollbildmodus",
 	"SETTINGS_GAMEPAD": "Gamepad-Unterstützung aktivieren",
 	"SETTINGS_CLOSE_WINDOW": "Anwendungen beenden, wenn das Fenster geschlossen wird",
