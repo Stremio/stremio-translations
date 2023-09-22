@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Pokreni prilikom paljenja",
 	"SETTINGS_VLC_DEFAULT": "Pokreni preko VLC-a",
 	"SETTINGS_UI_LANGUAGE": "Jezik sučelja",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Izlazak iz punog prikaza tipkom Esc",
 	"SETTINGS_GAMEPAD": "Omogući korištenje kontrolera",
 	"SETTINGS_CLOSE_WINDOW": "Zatvori program prilikom zatvaranja prozora",

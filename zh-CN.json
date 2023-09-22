@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "开机时启动",
 	"SETTINGS_VLC_DEFAULT": "使用VLC播放",
 	"SETTINGS_UI_LANGUAGE": "用户界面语言",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Esc键退出全屏",
 	"SETTINGS_GAMEPAD": "启用游戏手柄支持",
 	"SETTINGS_CLOSE_WINDOW": "关闭窗口时结束应用程序",

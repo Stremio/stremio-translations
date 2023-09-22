@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Lancer au démarrage",
 	"SETTINGS_VLC_DEFAULT": "Lire avec VLC",
 	"SETTINGS_UI_LANGUAGE": "Langue de l'interface",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Touche Echap pour quitter le plein écran",
 	"SETTINGS_GAMEPAD": "Activer le support de la manette de jeu",
 	"SETTINGS_CLOSE_WINDOW": "Fermer l'application lorsque la fenêtre est fermée",

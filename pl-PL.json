@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Uruchomienie przy starcie",
 	"SETTINGS_VLC_DEFAULT": "Odtwarzaj z VLC",
 	"SETTINGS_UI_LANGUAGE": "Język interfejsu",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Klawisz Escape powoduje wyjście z trybu pełnoekranowego",
 	"SETTINGS_GAMEPAD": "Włącz obsługę gamepada",
 	"SETTINGS_CLOSE_WINDOW": "Zamykanie aplikacji po zamknięciu okna",

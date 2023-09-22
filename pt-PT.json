@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar com o sistema",
 	"SETTINGS_VLC_DEFAULT": "Reproduzir com o VLC",
 	"SETTINGS_UI_LANGUAGE": "Idioma",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Clica em ESC para sair do ecrã inteiro",
 	"SETTINGS_GAMEPAD": "Ativar o suporte do comando de jogos (Gamepad)",
 	"SETTINGS_CLOSE_WINDOW": "Fechar o Stremio quando fechar a janela",

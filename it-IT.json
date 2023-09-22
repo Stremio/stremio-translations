@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Lancia all'avvio",
 	"SETTINGS_VLC_DEFAULT": "Riproduci con VLC",
 	"SETTINGS_UI_LANGUAGE": "Lingua Interfaccia",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Tasto Esc esce da schermo intero",
 	"SETTINGS_GAMEPAD": "Abilita supporto controller",
 	"SETTINGS_CLOSE_WINDOW": "Chiudi app quando la finestra è chiusa",

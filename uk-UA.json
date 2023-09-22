@@ -429,6 +429,7 @@
 	"SETTINGS_LAUNCH_STARTUP": "Запуск при запуску",
 	"SETTINGS_VLC_DEFAULT": "Грайте з VLC",
 	"SETTINGS_UI_LANGUAGE": "Мова інтерфейсу користувача",
+	"SETTINGS_UI_ZOOM": "Interface zoom",
 	"SETTINGS_FULLSCREEN_EXIT": "Клавіша Escape Вихід на весь екран",
 	"SETTINGS_GAMEPAD": "Увімкнути підтримку геймпада",
 	"SETTINGS_CLOSE_WINDOW": "Закрийте програму, коли вікно закрито",
