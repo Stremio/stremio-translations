@@ -200,6 +200,7 @@
 	"DEFAULT_SECONDARY_LANGUAGE": "Default Secondary Language",
 	"SEASON": "Season",
 	"EPISODE": "Episode",
+	"EPISODE_ABBREVIATION": "EP",
 	"SPECIAL": "Special",
 	"SORT": "sort",
 	"SORT_BY": "Sort by",

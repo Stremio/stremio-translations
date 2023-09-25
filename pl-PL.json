@@ -200,6 +200,7 @@
 	"DEFAULT_SECONDARY_LANGUAGE": "Domyślny drugorzędny język",
 	"SEASON": "Sezon",
 	"EPISODE": "Odcinek",
+	"EPISODE_ABBREVIATION": "ODC",
 	"SPECIAL": "Bonus",
 	"SORT": "sortuj",
 	"SORT_BY": "Sortuj po",
