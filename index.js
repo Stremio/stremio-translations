@@ -56,6 +56,7 @@ module.exports.all = [
 	"es-ES",
 	"eu-ES",
 	"fa-IR",
+	"fi-FI",
 	"fr-FR",
 	"he-IL",
 	"hi-IN",
