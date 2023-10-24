@@ -38,6 +38,7 @@ module.exports = function() {
 		"cs-CZ": require("./cs-CZ.json"),
 		"te-IN": require("./te-IN.json"),
 		"zh-TW": require("./zh-TW.json"),
+		"ro-RO": require("./ro-RO.json"),
 	}
 };
 
@@ -55,6 +56,7 @@ module.exports.all = [
 	"es-ES",
 	"eu-ES",
 	"fa-IR",
+	"fi-FI",
 	"fr-FR",
 	"he-IL",
 	"hi-IN",
@@ -78,5 +80,6 @@ module.exports.all = [
 	"sl-SL",
 	"cs-CZ",
 	"te-IN",
-	"zh-TW"
+	"zh-TW",
+	"ro-RO",
 ];

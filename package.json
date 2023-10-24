@@ -1,11 +1,12 @@
 {
   "name": "stremio-translations",
-  "version": "1.43.16",
+  "version": "1.44.1",
   "description": "Translation strings used for Stremio app",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*",
-    "build:android": "node ./scripts/build-android.js"
+    "build:android": "node ./scripts/build-android.js",
+    "build:kmm": "node ./scripts/build-kmm.js"
   },
   "repository": {
     "type": "git",
