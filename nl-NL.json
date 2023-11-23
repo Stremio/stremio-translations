@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Addon repository url",
 	"ADDON_ADD": "Toevoegen",
 	"ADD_ADDON": "Add-on toevoegen",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "U kunt een add-on toevoegen via een externe link, die zal verschijnen onder Geïnstalleerde add-ons.",
 	"PASTE_ADDON_URL": "Add-on-URL plakken",
 	"WHATS_NEW": "Wat is er nieuw?",

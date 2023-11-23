@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "एडन संग्रह यूआरएल",
 	"ADDON_ADD": "जोड़ें",
 	"ADD_ADDON": "Add addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
 	"PASTE_ADDON_URL": "Paste addon URL",
 	"WHATS_NEW": "नया क्या है",

@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "URL bộ sưu tập add-on",
 	"ADDON_ADD": "Thêm",
 	"ADD_ADDON": "Thêm add-on",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Bạn có thể thêm một add-on thông qua một liên kết bên ngoài, liên kết này sẽ xuất hiện trong phần add-on đã cài đặt.",
 	"PASTE_ADDON_URL": "Dán URL add-on",
 	"WHATS_NEW": "Có gì mới",

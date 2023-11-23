@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "插件集合URL",
 	"ADDON_ADD": "添加",
 	"ADD_ADDON": "Add addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
 	"PASTE_ADDON_URL": "Paste addon URL",
 	"WHATS_NEW": "最新消息",

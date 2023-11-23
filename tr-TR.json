@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Eklenti koleksiyon URL'si",
 	"ADDON_ADD": "Ekle",
 	"ADD_ADDON": "Eklenti ekle",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Yüklü eklentiler altında görünecek harici bir bağlantı aracılığıyla bir eklenti ekleyebilirsiniz.",
 	"PASTE_ADDON_URL": "Eklenti URL'sini yapıştırın",
 	"WHATS_NEW": "Yeni neler var",

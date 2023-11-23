@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Addon repository url",
 	"ADDON_ADD": "Dodaj",
 	"ADD_ADDON": "Add addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Možete dodati dodatak putem vanjske veze, koji će se pojaviti pod Instaliranim dodacima.",
 	"PASTE_ADDON_URL": "Paste addon URL",
 	"WHATS_NEW": "Što je novo",

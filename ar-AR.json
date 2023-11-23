@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "رابط الأضافة",
 	"ADDON_ADD": "أضافة",
 	"ADD_ADDON": "أضافة ملحق",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "يمكنك إضافة ملحق عبر رابط خارجي ، والذي سيظهر ضمن الوظائف الإضافية المثبتة.",
 	"PASTE_ADDON_URL": "لصق عنوان الملحق",
 	"WHATS_NEW": "ما الجديد",

@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "URL colecție addon-uri",
 	"ADDON_ADD": "Adăugare",
 	"ADD_ADDON": "Adăugați addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Puteți adăuga un addon prin intermediul unui link extern, care va apărea sub addon-urile instalate.",
 	"PASTE_ADDON_URL": "Lipiți URL-ul addon-ului",
 	"WHATS_NEW": "Ce este nou",

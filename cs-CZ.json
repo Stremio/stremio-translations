@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Adresa URL sbírky doplňků",
 	"ADDON_ADD": "Přidat",
 	"ADD_ADDON": "Add addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
 	"PASTE_ADDON_URL": "Paste addon URL",
 	"WHATS_NEW": "Co je nového",

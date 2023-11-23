@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "URL-адрес репозитория дополнения",
 	"ADDON_ADD": "Добавить",
 	"ADD_ADDON": "Добавить дополнение",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
 	"PASTE_ADDON_URL": "Вставьте URL-адрес дополнения",
 	"WHATS_NEW": "Что нового",

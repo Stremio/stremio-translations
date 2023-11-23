@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Addon tárhely URL-je",
 	"ADDON_ADD": "Hozzáadás",
 	"ADD_ADDON": "Addon hozzá",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Kiegészítőt külső hivatkozáson keresztül adhat hozzá, amely a Telepített kiegészítők alatt jelenik meg.",
 	"PASTE_ADDON_URL": "Illessze be a kiegészítő URL-címét",
 	"WHATS_NEW": "Újdonságok",
@@ -1420,4 +1421,4 @@
 	"FAQ_22_H1": "Nem látom/nem tudom használni a legtöbb kiegészítőt az iOS rendszeren",
 	"FAQ_22_P1": "Az Apple App Store általános szerződési feltételeiben foglalt korlátozások miatt az iOS-alkalmazást csak a kiegészítők egy adott készletére korlátoztuk.",
 	"FAQ_22_P2": "De megnyugodhat – a jövőben több iOS-kiegészítő lesz, és egy olyan integrációt is hozzáadhatunk, amely lehetővé teszi az összes Stremio-kiegészítő használatát, köszönhetően az iOS-alkalmazásnak a Stremio Streaming Serverhez való csatlakoztatásának."
-  }
+}

@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "Adres URL repozytorium dodatków",
 	"ADDON_ADD": "Dodaj",
 	"ADD_ADDON": "Dodaj dodatek",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Dodatek można dodać za pośrednictwem zewnętrznego łącza, które pojawi się w sekcji Zainstalowane dodatki.",
 	"PASTE_ADDON_URL": "Wklej adres URL dodatku",
 	"WHATS_NEW": "Co nowego?",

@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "URL del repositori de complements",
 	"ADDON_ADD": "Afegir",
 	"ADD_ADDON": "Afegir complement",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Podeu afegir un complement mitjançant un enllaç extern, que apareixerà a Complements instal·lats.",
 	"PASTE_ADDON_URL": "Enganxeu l'URL del complement",
 	"WHATS_NEW": "Que hi ha de nou",

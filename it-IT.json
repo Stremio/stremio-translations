@@ -344,6 +344,7 @@
 	"ADDON_REPO_ADD": "URL della collezione dell’addon",
 	"ADDON_ADD": "Aggiungi",
 	"ADD_ADDON": "Aggiungi addon",
+	"INSTALL_ADDON": "Install addon",
 	"ADD_ADDON_DESCRIPTION": "Puoi aggiungere un addon da link esterni, così che apparirà sotto Addon installati.",
 	"PASTE_ADDON_URL": "Incolla l'URL dell'addon",
 	"WHATS_NEW": "Cosa c’è di nuovo",
