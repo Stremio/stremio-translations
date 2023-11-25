@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "기본 자막",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "오디오 트랙 자동 선택",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "기본 오디오 트랙",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "계정",
 	"SETTINGS_VERSION": "버전",
 	"SETTINGS_MPV_WINDOW": "다른 창에서 플레이어를 기동합니다(상세설정)",

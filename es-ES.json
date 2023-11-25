@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "Subtítulos por defecto",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoseleccionar Pista de Audio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista de Audio por defecto",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "cuenta",
 	"SETTINGS_VERSION": "versión",
 	"SETTINGS_MPV_WINDOW": "Abrir reproductor en una ventana separada (avanzado)",

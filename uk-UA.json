@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "субтитри за замовчуванням",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Автоматичний вибір звукової доріжки",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аудіодоріжка за замовчуванням",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "обліковий запис",
 	"SETTINGS_VERSION": "версія",
 	"SETTINGS_MPV_WINDOW": "Запуск програвача в окремому вікні (просунуте)",

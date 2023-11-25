@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "Standarduntertitel",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "Konto",
 	"SETTINGS_VERSION": "Version",
 	"SETTINGS_MPV_WINDOW": "Abspieler in einem separaten Fenster starten (erweitert)",

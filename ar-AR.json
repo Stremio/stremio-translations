@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "الترجمة الافتراضية",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "اختيار مسار الصوت تلقائيا",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "مسار الصوت المبدئي",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "الحساب",
 	"SETTINGS_VERSION": "النسخة",
 	"SETTINGS_MPV_WINDOW": "بدء المشغل في صفحة جديدة (متقدم)",

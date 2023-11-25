@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "alapértelmezett feliratok",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Automatikus hangsáv kiválasztása",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Alapértelmezett hangsáv",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "fiókot",
 	"SETTINGS_VERSION": "változat",
 	"SETTINGS_MPV_WINDOW": "Indítsa el a lejátszót egy külön ablakban (speciális)",
@@ -1420,4 +1421,4 @@
 	"FAQ_22_H1": "Nem látom/nem tudom használni a legtöbb kiegészítőt az iOS rendszeren",
 	"FAQ_22_P1": "Az Apple App Store általános szerződési feltételeiben foglalt korlátozások miatt az iOS-alkalmazást csak a kiegészítők egy adott készletére korlátoztuk.",
 	"FAQ_22_P2": "De megnyugodhat – a jövőben több iOS-kiegészítő lesz, és egy olyan integrációt is hozzáadhatunk, amely lehetővé teszi az összes Stremio-kiegészítő használatát, köszönhetően az iOS-alkalmazásnak a Stremio Streaming Serverhez való csatlakoztatásának."
-  }
+}

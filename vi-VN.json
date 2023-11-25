@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "phụ đề mặc định",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Tự động chọn luồng âm thanh",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Luồng âm thanh mặc định",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "tài khoản",
 	"SETTINGS_VERSION": "phiên bản",
 	"SETTINGS_MPV_WINDOW": "Khởi chạy trình phát trong cửa sổ riêng (nâng cao)",

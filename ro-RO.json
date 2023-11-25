@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "subtitrări implicite",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Selectați automat Pista audio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista audio implicită",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "cont",
 	"SETTINGS_VERSION": "versiune",
 	"SETTINGS_MPV_WINDOW": "Lansați playerul într-o fereastră separată (avansat)",

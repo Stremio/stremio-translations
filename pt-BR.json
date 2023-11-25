@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "Legenda padrão",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Seleção automática de trilha de áudio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Trilha de áudio padrão",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "Conta",
 	"SETTINGS_VERSION": "Versão",
 	"SETTINGS_MPV_WINDOW": "Executar em uma janela separada (avançado)",

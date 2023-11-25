@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "субтитры по умолчанию",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Автовыбор аудиодорожки",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аудиодорожка по умолчанию",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "аккаунт",
 	"SETTINGS_VERSION": "версия",
 	"SETTINGS_MPV_WINDOW": "Запускать плеер в отдельном окне (дополнительно)",

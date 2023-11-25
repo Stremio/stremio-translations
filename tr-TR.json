@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "varsayılan altyazılar",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Ses İzini Otomatik Seç",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Varsayılan Ses İzi",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_VERSION": "sürüm",
 	"SETTINGS_MPV_WINDOW": "Oynatıcıyı ayrı bir pencerede başlat (gelişmiş)",

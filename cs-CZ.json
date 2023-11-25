@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "výchozí titulky",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoselect Audio Track",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Default Audio Track",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "účet",
 	"SETTINGS_VERSION": "verze",
 	"SETTINGS_MPV_WINDOW": "Spuštění přehrávače v samostatném okně (pokročilé)",

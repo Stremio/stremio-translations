@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "डिफ़ॉल्ट उपशीर्षक",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "ऑटोसेल ऑडियो ट्रैक",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "डिफ़ॉल्ट ऑडियो ट्रैक",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "कारण",
 	"SETTINGS_VERSION": "संस्करण",
 	"SETTINGS_MPV_WINDOW": "एक अलग विंडो में प्लेयर लॉन्च (उन्नत)",

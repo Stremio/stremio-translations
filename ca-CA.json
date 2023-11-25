@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "subtítols per defecte",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Seleccionar Automàticament la Pista d'Àudio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista d'Àudio Predeterminada",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "compte",
 	"SETTINGS_VERSION": "versió",
 	"SETTINGS_MPV_WINDOW": "Inicia el reproductor en una finestra separada (avançat)",

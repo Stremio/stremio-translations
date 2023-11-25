@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "domyślne napisy",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Automatyczny wybór ścieżki audio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Domyślna ścieżka dźwiękowa",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_VERSION": "wersja",
 	"SETTINGS_MPV_WINDOW": "Uruchamianie odtwarzacza w osobnym oknie (zaawansowane)",

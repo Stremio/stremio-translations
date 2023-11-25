@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "standaard ondertiteling",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Automatische selectie audiotrack inschakelen",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Standaard audiotrack",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "versie",
 	"SETTINGS_MPV_WINDOW": "Start videospeler in apart scherm (geavanceerd)",

@@ -485,6 +485,7 @@
 	"SETTINGS_LANGUAGE_SUBS": "sottotitoli predefiniti",
 	"SETTINGS_ENABLE_DEFAULT_AUDIO_TRACK": "Autoseleziona Traccia Audio",
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Traccia Audio Predefinita",
+	"SETTINGS_SURROUND_SOUND": "Surround sound",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_VERSION": "versione",
 	"SETTINGS_MPV_WINDOW": "Avvia il player in una finestra separata (avvanzato)",
