@@ -172,7 +172,7 @@
 	"WRONG_SUBS": "Złe napisy?",
 	"ERR_SUBS_LOADING_TITLE": "Błąd podczas ładowania napisów",
 	"ERR_SUBS_LOADING": "Nie udało się załadować napisów: to może być problem z dodatkiem, którego używasz, lub z twoim połączeniem sieciowym",
-	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Następujące dodatki do napisów nie powiodły się",
+	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Następujące dodatki do napisów nie załadowały się poprawnie",
 	"ERR_CASTING_UPDATE_TITLE": "Nie udało się zaktualizować info o urządzeniu zdalnym: serwer streamingowy może być niedostępny",
 	"CHOOSE_DEVICE": "Wybierz urządzenie, na którym chcesz oglądać",
 	"NO_CAST_DEVICES": "Brak zdalnych urządzeń.",
