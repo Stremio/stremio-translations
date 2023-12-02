@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Zbytek označte jako sledovaný",
 	"CTX_UNMARK_REST": "Zbytek označte jako nesledovaný",
 	"CTX_RECEIVE_NEW_NOTIF": "Přijímání nových oznámení",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Odstranění z mezipaměti",
 	"CTX_REMOVE_CACHE_EP": "Odstranění epizody z mezipaměti",
 	"CTX_OPEN_CONTAINING": "Otevřít složku obsahující",

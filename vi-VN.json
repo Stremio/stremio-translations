@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Đánh dấu phần còn lại là đã xem",
 	"CTX_UNMARK_REST": "Đánh dấu phần còn lại là chưa xem",
 	"CTX_RECEIVE_NEW_NOTIF": "Nhận thông báo mới",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Loại khỏi bộ nhớ cache",
 	"CTX_REMOVE_CACHE_EP": "Loại tập phim khỏi bộ nhớ đệm",
 	"CTX_OPEN_CONTAINING": "Mở thư mục chứa",

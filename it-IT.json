@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Contrassegna i restanti come guardati",
 	"CTX_UNMARK_REST": "Contrassegna i restanti come non guardati",
 	"CTX_RECEIVE_NEW_NOTIF": "Ricevi nuove notifiche",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Rimuovi dalla cache",
 	"CTX_REMOVE_CACHE_EP": "Rimuovi episodio dalla cache",
 	"CTX_OPEN_CONTAINING": "Apri cartella",

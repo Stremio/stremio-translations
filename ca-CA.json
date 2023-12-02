@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Marca la resta com a vist",
 	"CTX_UNMARK_REST": "Marca la resta com a no vist",
 	"CTX_RECEIVE_NEW_NOTIF": "Rebre notificacions noves",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Elimina de la memòria cau",
 	"CTX_REMOVE_CACHE_EP": "Elimina l'episodi de la memòria cau",
 	"CTX_OPEN_CONTAINING": "Obre la carpeta que conté",

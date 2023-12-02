@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Markeer de rest als gezien",
 	"CTX_UNMARK_REST": "Markeer de rest als niet gezien",
 	"CTX_RECEIVE_NEW_NOTIF": "Nieuwe notificaties ontvangen",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Van cache verwijderen",
 	"CTX_REMOVE_CACHE_EP": "Aflevering uit cache verwijderen",
 	"CTX_OPEN_CONTAINING": "Bijhorende map openen",

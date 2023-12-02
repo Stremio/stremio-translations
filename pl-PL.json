@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Oznacz resztę jako obejrzane",
 	"CTX_UNMARK_REST": "Oznacz resztę jako nieobejrzane",
 	"CTX_RECEIVE_NEW_NOTIF": "Otrzymuj nowe powiadomienia",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Usuń z pamięci podręcznej",
 	"CTX_REMOVE_CACHE_EP": "Usuń odcinek z pamięci podręcznej",
 	"CTX_OPEN_CONTAINING": "Otwórz folder zawierający",

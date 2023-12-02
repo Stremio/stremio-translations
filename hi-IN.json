@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "जैसा कि देखा गया है",
 	"CTX_UNMARK_REST": "गैर-देखे गए के रूप में बाकी को चिह्नित करें",
 	"CTX_RECEIVE_NEW_NOTIF": "नई सूचनाएं प्राप्त करें",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "कैश से निकालें",
 	"CTX_REMOVE_CACHE_EP": "कैश से एपिसोड निकालें",
 	"CTX_OPEN_CONTAINING": "धारक फोल्डर खोलें",

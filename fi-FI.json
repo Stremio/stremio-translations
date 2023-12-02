@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Merkitse loput katsotuksi",
 	"CTX_UNMARK_REST": "Merkitse loput ei-katsotuksi",
 	"CTX_RECEIVE_NEW_NOTIF": "Vastaanota uusia ilmoituksia",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Poista välimuistista",
 	"CTX_REMOVE_CACHE_EP": "Poista jakso välimuistista",
 	"CTX_OPEN_CONTAINING": "Avaa sisältävä kansio",

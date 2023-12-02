@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Pihenés megjelölése nézettként",
 	"CTX_UNMARK_REST": "Pihenés megjelölése nem nézettként",
 	"CTX_RECEIVE_NEW_NOTIF": "Új értesítések fogadása",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Távolítsa el a gyorsítótárból",
 	"CTX_REMOVE_CACHE_EP": "Epizód eltávolítása a gyorsítótárból",
 	"CTX_OPEN_CONTAINING": "Nyissa meg a tartalmazó mappát",

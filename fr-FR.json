@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Marquer le reste comme vu",
 	"CTX_UNMARK_REST": "Marquer le reste comme vu",
 	"CTX_RECEIVE_NEW_NOTIF": "Recevoir les nouvelles notifications",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Supprimer du cache",
 	"CTX_REMOVE_CACHE_EP": "Supprimer l'épisode du cache",
 	"CTX_OPEN_CONTAINING": "Ouvrir le fichier cible",

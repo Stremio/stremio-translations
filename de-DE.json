@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Rest als angesehen markieren",
 	"CTX_UNMARK_REST": "Rest als nicht angesehen markieren",
 	"CTX_RECEIVE_NEW_NOTIF": "Neue Benachrichtigungen erhalten",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Aus Zwischenspeicher entfernen",
 	"CTX_REMOVE_CACHE_EP": "Episode aus Zwischenspeicher entfernen",
 	"CTX_OPEN_CONTAINING": "Enthaltenden Ordner öffnen",

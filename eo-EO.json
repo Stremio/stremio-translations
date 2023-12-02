@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Marki la ceterajn kiel rigarditajn",
 	"CTX_UNMARK_REST": "Marki la ceterajn kiel ne-spektitajn",
 	"CTX_RECEIVE_NEW_NOTIF": "Ricevi novajn sciigojn",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Forigi el kaŝmemoro",
 	"CTX_REMOVE_CACHE_EP": "Forigi epizodon el kaŝmemoro",
 	"CTX_OPEN_CONTAINING": "Malfermu enhavantan dosierujon",

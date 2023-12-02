@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Позначити решту як переглянуті",
 	"CTX_UNMARK_REST": "Позначити решту як непереглянуті",
 	"CTX_RECEIVE_NEW_NOTIF": "Отримувати нові сповіщення",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Видалити з кешу",
 	"CTX_REMOVE_CACHE_EP": "Видалити серію з кешу",
 	"CTX_OPEN_CONTAINING": "Відкрити папку, в якій знаходиться",

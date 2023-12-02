@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "將其餘部分標記為已觀看",
 	"CTX_UNMARK_REST": "將其餘部分標記為未觀看",
 	"CTX_RECEIVE_NEW_NOTIF": "接受新通知",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "從快取中刪除",
 	"CTX_REMOVE_CACHE_EP": "從快取中刪除集",
 	"CTX_OPEN_CONTAINING": "開啟所在資料夾",

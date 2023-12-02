@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Marcați restul ca vizualizat",
 	"CTX_UNMARK_REST": "Marcați restul ca necitit",
 	"CTX_RECEIVE_NEW_NOTIF": "Primiți notificări noi",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Eliminați din cache",
 	"CTX_REMOVE_CACHE_EP": "Eliminați episodul din cache",
 	"CTX_OPEN_CONTAINING": "Deschideți folderul care conține",
