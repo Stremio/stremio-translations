@@ -1,5 +1,5 @@
 group = "com.github.Stremio"
-version = "1.44.1"
+version = "1.44.3"
 
 plugins {
     kotlin("multiplatform")
