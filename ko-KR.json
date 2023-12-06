@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "나머지는 시청한 것으로 표시",
 	"CTX_UNMARK_REST": "나머지는 미시청으로 표시",
 	"CTX_RECEIVE_NEW_NOTIF": "새로운 알림 수신",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "캐시에서 삭제",
 	"CTX_REMOVE_CACHE_EP": "캐시에서 에피소드 삭제",
 	"CTX_OPEN_CONTAINING": "소속 폴더 열기",

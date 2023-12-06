@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Markatu gainerakoa ikusi bezala",
 	"CTX_UNMARK_REST": "Markatu gainerakoak ez ikusi gisa",
 	"CTX_RECEIVE_NEW_NOTIF": "Jaso jakinarazpen berriak",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Kendu cache-tik",
 	"CTX_REMOVE_CACHE_EP": "Kendu pasartea katxetik",
 	"CTX_OPEN_CONTAINING": "Ireki duen karpeta",

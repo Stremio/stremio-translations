@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Маркиране на останалите като гледани",
 	"CTX_UNMARK_REST": "Маркиране на останалите като негледани",
 	"CTX_RECEIVE_NEW_NOTIF": "Получавай нови известия",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Премахни от кеша",
 	"CTX_REMOVE_CACHE_EP": "Премахни епизод от кеша",
 	"CTX_OPEN_CONTAINING": "Отвори папка",

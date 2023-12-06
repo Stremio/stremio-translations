@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Mark rest as watched",
 	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Modtag nye notifikationer",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Fjern cache",
 	"CTX_REMOVE_CACHE_EP": "Fjern episode fra cache",
 	"CTX_OPEN_CONTAINING": "Åben mappe",

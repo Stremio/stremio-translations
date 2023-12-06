@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Geri kalanını izlendi olarak işaretle",
 	"CTX_UNMARK_REST": "Geri kalanını izlenmedi olarak işaretle",
 	"CTX_RECEIVE_NEW_NOTIF": "Yeni bildirimleri al",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Önbellekten kaldır",
 	"CTX_REMOVE_CACHE_EP": "Bölümü önbellekten kaldır",
 	"CTX_OPEN_CONTAINING": "İçerdiği klasörü aç",

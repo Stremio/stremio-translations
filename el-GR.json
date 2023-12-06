@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Σήμανση υπολοίπων ως προβεβλημένων",
 	"CTX_UNMARK_REST": "Σήμανση υπολοίπων ως μη προβεβλημένων",
 	"CTX_RECEIVE_NEW_NOTIF": "Λήψη νέων ειδοποιήσεων",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Αφαίρεση από προσωρινή μνήμη",
 	"CTX_REMOVE_CACHE_EP": "Αφαίρεση επεισοδίου από προσωρινή μνήμη",
 	"CTX_OPEN_CONTAINING": "Άνοιγμα φακέλου αποθήκευσης",

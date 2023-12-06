@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Mark rest as watched",
 	"CTX_UNMARK_REST": "Mark rest as non-watched",
 	"CTX_RECEIVE_NEW_NOTIF": "Få nye varsler",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Fjern fra bruffren",
 	"CTX_REMOVE_CACHE_EP": "Fjern episode fra buffren",
 	"CTX_OPEN_CONTAINING": "Åpne mappen som inneholder filen",

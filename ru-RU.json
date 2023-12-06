@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Отметить остальное как просмотренное",
 	"CTX_UNMARK_REST": "Отметить остальное как непросмотренное",
 	"CTX_RECEIVE_NEW_NOTIF": "Получать новые уведомления",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Удалить из кэша",
 	"CTX_REMOVE_CACHE_EP": "Удалить эпизод из кэша",
 	"CTX_OPEN_CONTAINING": "Открыть папку с файлом",

@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "Označi ostalo kao pogledano",
 	"CTX_UNMARK_REST": "Označi ostalo kao nepogledano",
 	"CTX_RECEIVE_NEW_NOTIF": "Primaj nove obavijesti",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "Obriši iz keša",
 	"CTX_REMOVE_CACHE_EP": "Ukloni epizodu iz keša",
 	"CTX_OPEN_CONTAINING": "Otvori mapu sadržaja",

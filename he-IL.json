@@ -687,6 +687,8 @@
 	"CTX_MARK_REST": "סימון כל הבאים כנצפו",
 	"CTX_UNMARK_REST": "סימון כל הבאים שלא נצפו",
 	"CTX_RECEIVE_NEW_NOTIF": "קבל התראות חדשות",
+	"CTX_ENABLE_NEW_NOTIF": "Enable notifications",
+	"CTX_DISABLE_NEW_NOTIF": "Disable notifications",
 	"CTX_REMOVE_CACHE": "הסר ממטמון",
 	"CTX_REMOVE_CACHE_EP": "הסר פרק ממטמון",
 	"CTX_OPEN_CONTAINING": "פתח תיקייה מכילה",
