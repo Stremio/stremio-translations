@@ -1140,7 +1140,7 @@
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Câte addon-uri are Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "La sfârșitul anului 2019, peste 50 - pentru mai multe informații, verificați catalogul nostru de addon-uri.",
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Poate fi Stremio extins dincolo de ceea ce este în catalogul de addon-uri?",
-	"WEBSITE_MAINPAGE_FAQ_009_P1": "Da, ar trebui să verificați acestea: ${1}PimpMyStremio${2}, ${3)comunitățile de pe Reddit${4}, ${5}Stremio Downloader${6}, etc.",
+	"WEBSITE_MAINPAGE_FAQ_009_P1": "Da, ar trebui să verificați acestea: ${1}PimpMyStremio${2}, ${3}comunitățile de pe Reddit${4}, ${5}Stremio Downloader${6}, etc.",
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Ce dispozitive suportă Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Avem aplicații pentru desktop pentru Windows, Mac și Linux. Pentru dispozitivele mobile, susținem Android și iOS, deși trebuie să țineți cont că iOS este limitat în funcționalitate (nu suportă majoritatea addon-urilor).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Există multe dispozitive bazate pe Android pe care puteți rula Stremio, cum ar fi NVIDIA Shield și Amazon Fire Stick, dar nu le susținem oficial.",
