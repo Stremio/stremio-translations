@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Креирај додаток",
 	"WEBSITE_PAGE_CONTACTS": "Контакти",
 	"WEBSITE_PAGE_BLOG": "Блог",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Ве молиме внесете ја посакуваната нова лозинка подолу.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Дали сте сигурни дека сакате да ја ресетирате лозинката за ${1}?",
 	"WEBSITE_TYPE_movie": "Филмови",
 	"WEBSITE_TYPE_series_PL": "Серии",
 	"WEBSITE_TYPE_tv": "ТВ во живо",
