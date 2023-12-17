@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Tạo add-on",
 	"WEBSITE_PAGE_CONTACTS": "Liên lạc",
 	"WEBSITE_PAGE_BLOG": "Blog",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "Phim",
 	"WEBSITE_TYPE_series_PL": "Loạt phim",
 	"WEBSITE_TYPE_tv": "Truyền hình trực tiếp",

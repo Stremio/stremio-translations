@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Vytvořit doplněk",
 	"WEBSITE_PAGE_CONTACTS": "Kontakty",
 	"WEBSITE_PAGE_BLOG": "Blog",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "Filmy",
 	"WEBSITE_TYPE_series_PL": "Seriály",
 	"WEBSITE_TYPE_tv": "Živý televizní přenos",

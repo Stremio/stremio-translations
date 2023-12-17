@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "צור הרחבה",
 	"WEBSITE_PAGE_CONTACTS": "צור קשר",
 	"WEBSITE_PAGE_BLOG": "בלוג",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "סרטים",
 	"WEBSITE_TYPE_series_PL": "סדרות",
 	"WEBSITE_TYPE_tv": "שידורים חיים",

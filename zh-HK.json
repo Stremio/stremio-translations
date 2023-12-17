@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "創建插件",
 	"WEBSITE_PAGE_CONTACTS": "聯絡",
 	"WEBSITE_PAGE_BLOG": "博客",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "電影",
 	"WEBSITE_TYPE_series_PL": "劇集",
 	"WEBSITE_TYPE_tv": "直播電視",

@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Eklenti Oluşturun",
 	"WEBSITE_PAGE_CONTACTS": "İletişim",
 	"WEBSITE_PAGE_BLOG": "Blog",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "Filmler",
 	"WEBSITE_TYPE_series_PL": "Diziler",
 	"WEBSITE_TYPE_tv": "Canlı TV",

@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "애드온 생성",
 	"WEBSITE_PAGE_CONTACTS": "연락처",
 	"WEBSITE_PAGE_BLOG": "블로그",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "영화",
 	"WEBSITE_TYPE_series_PL": "시리즈",
 	"WEBSITE_TYPE_tv": "라이브 TV",

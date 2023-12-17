@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Créer une extension",
 	"WEBSITE_PAGE_CONTACTS": "Contacts",
 	"WEBSITE_PAGE_BLOG": "Blog",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Veuillez saisir votre nouveau mot de passe ci-dessous.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Êtes-vous sûr de vouloir réinitialiser le mot de passe pour ${1} ?",
 	"WEBSITE_TYPE_movie": "Films",
 	"WEBSITE_TYPE_series_PL": "Séries",
 	"WEBSITE_TYPE_tv": "TV en live",

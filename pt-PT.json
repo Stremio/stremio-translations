@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Criar addon",
 	"WEBSITE_PAGE_CONTACTS": "Contactos",
 	"WEBSITE_PAGE_BLOG": "Blogue",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "Filmes",
 	"WEBSITE_TYPE_series_PL": "Séries",
 	"WEBSITE_TYPE_tv": "TV em direto",

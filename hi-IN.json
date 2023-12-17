@@ -863,6 +863,8 @@
 	"WEBSITE_PAGE_CREATE_ADDON": "Addon बनाएँ",
 	"WEBSITE_PAGE_CONTACTS": "संपर्क",
 	"WEBSITE_PAGE_BLOG": "ब्लॉग",
+	"WEBSITE_RESET_PASSWORD_MESSAGE": "Please enter your desired new password below.",
+	"WEBSITE_RESET_PASSWORD_WARNING": "Are you sure you want to reset the password for ${1}?",
 	"WEBSITE_TYPE_movie": "चलचित्र",
 	"WEBSITE_TYPE_series_PL": "श्रृंखला",
 	"WEBSITE_TYPE_tv": "लाइव टीवी",
