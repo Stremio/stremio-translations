@@ -12,7 +12,7 @@
 	"TYPE_other_PL": "Останато",
 	"TYPE_ALL": "Сите",
 	"TYPE": "Врста",
-
+  
 	"CATALOG_com.linvo.cinemeta/top": "Популарни",
 	"CATALOG_com.linvo.cinemeta/imdbRating": "Избрани",
 	"CATALOG_com.linvo.cinemeta/year": "Нови",
@@ -447,6 +447,7 @@
 	"TRAKT_EXPIRED": "Trakt authentication expired, please go to Settings and re-authenticate",
 	"TRAKT_REQUIRES_LOGIN": "Trakt error",
 	"TRAKT_REQUIRES_LOGIN_MSG": "You need to login",
+
 	"THEME": "Тема",
 	"THEME_DEFAULT": "Стандардно",
 	"THEME_ADAPTIVE": "Адаптивни",
