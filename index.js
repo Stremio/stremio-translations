@@ -39,6 +39,7 @@ module.exports = function() {
 		"te-IN": require("./te-IN.json"),
 		"zh-TW": require("./zh-TW.json"),
 		"ro-RO": require("./ro-RO.json"),
+		"uk-UA": require("./uk-UA.json"),
 	}
 };
 
@@ -82,4 +83,5 @@ module.exports.all = [
 	"te-IN",
 	"zh-TW",
 	"ro-RO",
+	"uk-UA",
 ];
