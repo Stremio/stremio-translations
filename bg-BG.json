@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "акаунт",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "версия",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Стартиране на плеъра в отделен прозорец (разширено)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Стартиране на видеото винаги в външен плеър",
 	"SETTINGS_STORAGE_BUTTON": "Изчистване на локалните данни",

@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "賬户",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "版本",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "在單獨窗口中啓動播放器（高級）",
 	"SETTINGS_PLAY_IN_EXTERNAL": "總是在外部播放器中打開視頻",
 	"SETTINGS_STORAGE_BUTTON": "清除本地存儲",

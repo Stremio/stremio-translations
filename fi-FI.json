@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "Tili",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "Versio",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Käynnistä soitin erillisessä ikkunassa (edistynyt)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Aloita video aina ulkoisessa soittimessa",
 	"SETTINGS_STORAGE_BUTTON": "Tyhjennä paikallinen tallennustila",

@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "cont",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "versiune",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Lansați playerul într-o fereastră separată (avansat)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Începeți întotdeauna video în playerul extern",
 	"SETTINGS_STORAGE_BUTTON": "Ștergeți stocarea locală",

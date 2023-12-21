@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "налог",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "верзија",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Покретање плејера у посебном прозору (напредно)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Увек покрени видео снимак у спољном плејеру",
 	"SETTINGS_STORAGE_BUTTON": "Очисти локалну меморију",

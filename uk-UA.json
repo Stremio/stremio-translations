@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "обліковий запис",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "версія",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Запуск програвача в окремому вікні (просунуте)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Завжди запускати відео у зовнішньому програвачі",
 	"SETTINGS_STORAGE_BUTTON": "Очистити локальне сховище",

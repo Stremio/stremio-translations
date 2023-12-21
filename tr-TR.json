@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "sürüm",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Oynatıcıyı ayrı bir pencerede başlat (gelişmiş)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Görüntüyü her zaman harici oynatıcıda başlat",
 	"SETTINGS_STORAGE_BUTTON": "Yerel Depolamayı Temizle",
