@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "version",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Launch player in a separate window (advanced)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Always start video in external player",
 	"SETTINGS_STORAGE_BUTTON": "Clear Local Storage",

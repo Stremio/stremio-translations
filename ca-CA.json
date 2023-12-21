@@ -500,6 +500,7 @@
 	"SETTINGS_ACCOUNT": "compte",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "versió",
+	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Inicia el reproductor en una finestra separada (avançat)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Inicieu sempre el vídeo en un reproductor extern",
 	"SETTINGS_STORAGE_BUTTON": "Esborra l'emmagatzematge local",
