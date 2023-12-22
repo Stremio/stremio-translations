@@ -1,55 +1,11 @@
 // No automatic generation: we don't want to depend on fs, as we want to keep this universal
-// ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\": require(\"./$line\"),\n"; done
-module.exports = function() {
-	return {
-		"ar-AR": require("./ar-AR.json"),
-		"id-ID": require("./id-ID.json"),
-		"bg-BG": require("./bg-BG.json"),
-		"ca-CA": require("./ca-CA.json"),
-		"da-DK": require("./da-DK.json"),
-		"de-DE": require("./de-DE.json"),
-		"el-GR": require("./el-GR.json"),
-		"en-US": require("./en-US.json"),
-		"eo-EO": require("./eo-EO.json"),
-		"es-ES": require("./es-ES.json"),
-		"eu-ES": require("./eu-ES.json"),
-		"fa-IR": require("./fa-IR.json"),
-		"fr-FR": require("./fr-FR.json"),
-		"he-IL": require("./he-IL.json"),
-		"hi-IN": require("./hi-IN.json"),
-		"hr-HR": require("./hr-HR.json"),
-		"hu-HU": require("./hu-HU.json"),
-		"it-IT": require("./it-IT.json"),
-		"mk-MK": require("./mk-MK.json"),
-		"my-BM": require("./my-BM.json"),
-		"nb-NO": require("./nb-NO.json"),
-		"nl-NL": require("./nl-NL.json"),
-		"nn-NO": require("./nn-NO.json"),
-		"pl-PL": require("./pl-PL.json"),
-		"pt-BR": require("./pt-BR.json"),
-		"pt-PT": require("./pt-PT.json"),
-		"ru-RU": require("./ru-RU.json"),
-		"sv-SE": require("./sv-SE.json"),
-		"sr-RS": require("./sr-RS.json"),
-		"tr-TR": require("./tr-TR.json"),
-		"zh-CN": require("./zh-CN.json"),
-		"zh-HK": require("./zh-HK.json"),
-		"sl-SL": require("./sl-SL.json"),
-		"cs-CZ": require("./cs-CZ.json"),
-		"te-IN": require("./te-IN.json"),
-		"vi-VN": require("./vi-VN.json"),
-		"zh-TW": require("./zh-TW.json"),
-		"ro-RO": require("./ro-RO.json"),
-		"uk-UA": require("./uk-UA.json"),
-	}
-};
-
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
-module.exports.all = [
+
+var languages = [
 	"ar-AR",
-	"id-ID",
 	"bg-BG",
 	"ca-CA",
+	"cs-CZ",
 	"da-DK",
 	"de-DE",
 	"el-GR",
@@ -64,7 +20,9 @@ module.exports.all = [
 	"hi-IN",
 	"hr-HR",
 	"hu-HU",
+	"id-ID",
 	"it-IT",
+	"ko-KR",
 	"mk-MK",
 	"my-BM",
 	"nb-NO",
@@ -73,17 +31,26 @@ module.exports.all = [
 	"pl-PL",
 	"pt-BR",
 	"pt-PT",
+	"ro-RO",
 	"ru-RU",
-	"sv-SE",
+	"sl-SL",
 	"sr-RS",
+	"sv-SE",
+	"te-IN",
 	"tr-TR",
+	"uk-UA",
+	"vi-VN",
 	"zh-CN",
 	"zh-HK",
-	"sl-SL",
-	"cs-CZ",
-	"te-IN",
-	"vi-VN",
-	"zh-TW",
-	"ro-RO",
-	"uk-UA",
+	"zh-TW"
 ];
+
+module.exports = function () {
+	var jsonExports = {};
+	languages.forEach(function (language) {
+		jsonExports[language] = require("./".concat(language, ".json"));
+	});
+	return jsonExports;
+};
+
+module.exports.all = languages;
