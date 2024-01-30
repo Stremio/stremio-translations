@@ -22,6 +22,7 @@ var languages = [
 	"hu-HU",
 	"id-ID",
 	"it-IT",
+	"ja-JP",
 	"ko-KR",
 	"mk-MK",
 	"my-BM",
