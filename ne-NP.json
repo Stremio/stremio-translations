@@ -13,10 +13,10 @@
 	"TYPE_ALL": "सबै",
 	"TYPE": "प्रकार",
 
-	"CATALOG_com.linvo.cinemeta/top": "लोकप्रिय",
-	"CATALOG_com.linvo.cinemeta/imdbRating": "विशेष",
-	"CATALOG_com.linvo.cinemeta/year": "नयाँ",
-	"CATALOG_org.stremio.pubdomainmovies/publicdomainmovies": "सार्वजनिक डोमेन चलचित्रहरू",
+	"CATALOG_com_linvo_cinemeta_top": "लोकप्रिय",
+	"CATALOG_com_linvo_cinemeta_imdbRating": "विशेष",
+	"CATALOG_com_linvo_cinemeta_year": "नयाँ",
+	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "सार्वजनिक डोमेन चलचित्रहरू",
 
 	"VIDEO": "भिडियो",
 
