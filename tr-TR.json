@@ -1340,6 +1340,7 @@
 	"SIZE": "Boyut",
 	"DELAY": "Gecikme",
 	"BOLD": "Kalın",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Metin Rengi",
 	"OUTLINE_COLOR": "Anahat Rengi",
 	"BACKGROUND_COLOR": "Arka Plan Rengi",

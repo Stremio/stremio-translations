@@ -1340,6 +1340,7 @@
 	"SIZE": "Tamaina",
 	"DELAY": "Atzerapena",
 	"BOLD": "Lodia",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Testuaren Kolorea",
 	"OUTLINE_COLOR": "Outline Kolorea",
 	"BACKGROUND_COLOR": "Atzealdeko Kolorea",

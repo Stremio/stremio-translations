@@ -11,12 +11,10 @@
 	"TYPE_other_PL": "अन्य",
 	"TYPE_ALL": "सबै",
 	"TYPE": "प्रकार",
-
 	"CATALOG_com_linvo_cinemeta_top": "लोकप्रिय",
 	"CATALOG_com_linvo_cinemeta_imdbRating": "विशेष",
 	"CATALOG_com_linvo_cinemeta_year": "नयाँ",
 	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "सार्वजनिक डोमेन चलचित्रहरू",
-
 	"VIDEO": "भिडियो",
 	"BACK": "फिर्ता",
 	"MORE": "थप",
@@ -1342,6 +1340,7 @@
 	"SIZE": "Size",
 	"DELAY": "Delay",
 	"BOLD": "Bold",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Text Color",
 	"OUTLINE_COLOR": "Outline Color",
 	"BACKGROUND_COLOR": "Background Color",

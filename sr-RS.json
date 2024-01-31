@@ -1340,6 +1340,7 @@
 	"SIZE": "Величина",
 	"DELAY": "Кашњење",
 	"BOLD": "Подебљано",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Боја текста",
 	"OUTLINE_COLOR": "Боја оквира",
 	"BACKGROUND_COLOR": "Боја позадине",

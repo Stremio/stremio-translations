@@ -1340,6 +1340,7 @@
 	"SIZE": "Tamaño",
 	"DELAY": "Retraso",
 	"BOLD": "Negrita",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Color del Texto",
 	"OUTLINE_COLOR": "Color del Contorno",
 	"BACKGROUND_COLOR": "Color de Fondo",

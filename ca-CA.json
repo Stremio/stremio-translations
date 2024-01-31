@@ -1340,6 +1340,7 @@
 	"SIZE": "Mida",
 	"DELAY": "Retard",
 	"BOLD": "Negreta",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Color del text",
 	"OUTLINE_COLOR": "Color del contorn",
 	"BACKGROUND_COLOR": "Color de fons",

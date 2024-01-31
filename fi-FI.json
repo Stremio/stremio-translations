@@ -1340,6 +1340,7 @@
 	"SIZE": "Koko",
 	"DELAY": "Viive",
 	"BOLD": "Lihavointi",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Tekstin väri",
 	"OUTLINE_COLOR": "Ääriviivan väri",
 	"BACKGROUND_COLOR": "Taustan väri",

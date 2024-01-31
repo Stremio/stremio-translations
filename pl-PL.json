@@ -1340,6 +1340,7 @@
 	"SIZE": "Rozmiar",
 	"DELAY": "Opóźnienie",
 	"BOLD": "Pogrubienie",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Kolor tekstu",
 	"OUTLINE_COLOR": "Kolor konturu",
 	"BACKGROUND_COLOR": "Kolor tła",
