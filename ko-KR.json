@@ -1340,6 +1340,7 @@
 	"SIZE": "크기",
 	"DELAY": "지연",
 	"BOLD": "굵기",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "문자 색상",
 	"OUTLINE_COLOR": "외각선 색상",
 	"BACKGROUND_COLOR": "배경색",

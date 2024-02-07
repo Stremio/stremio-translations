@@ -1340,6 +1340,7 @@
 	"SIZE": "الحجم",
 	"DELAY": "التاخير",
 	"BOLD": "عريض",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "لون الكتابة",
 	"OUTLINE_COLOR": "لون الخط الخارجي",
 	"BACKGROUND_COLOR": "لون الخلفية",

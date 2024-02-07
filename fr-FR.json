@@ -1340,6 +1340,7 @@
 	"SIZE": "Taille",
 	"DELAY": "Delai",
 	"BOLD": "Bold",
+	"OPACITY": "Opacité",
 	"TEXT_COLOR": "Couleur du Texte",
 	"OUTLINE_COLOR": "Couleur de la Bordure",
 	"BACKGROUND_COLOR": "Couleur de l'Arrière-Plan",

@@ -1340,6 +1340,7 @@
 	"SIZE": "Grandezza",
 	"DELAY": "Ritardo",
 	"BOLD": "Grassetto",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Colore Testo",
 	"OUTLINE_COLOR": "Colore Bordi",
 	"BACKGROUND_COLOR": "Colore Sfondo",

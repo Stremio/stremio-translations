@@ -1340,6 +1340,7 @@
 	"SIZE": "Розмір",
 	"DELAY": "Затримка",
 	"BOLD": "Жирний",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Колір тексту",
 	"OUTLINE_COLOR": "Колір контуру",
 	"BACKGROUND_COLOR": "Колір фону",

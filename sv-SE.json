@@ -1340,6 +1340,7 @@
 	"SIZE": "Storlek",
 	"DELAY": "Fördröjning",
 	"BOLD": "Fetstil",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Textfärg",
 	"OUTLINE_COLOR": "Konturfärg",
 	"BACKGROUND_COLOR": "Bakgrundsfärg",

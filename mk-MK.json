@@ -1340,6 +1340,7 @@
 	"SIZE": "Големина",
 	"DELAY": "Одложување",
 	"BOLD": "Задебелен",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Боја на текстот",
 	"OUTLINE_COLOR": "Боја на рамка",
 	"BACKGROUND_COLOR": "Боја на позадина",

@@ -1340,6 +1340,7 @@
 	"SIZE": "Μέγεθος",
 	"DELAY": "Καθυστέρηση",
 	"BOLD": "Έντονα γράμματα",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Χρώμα κειμένου",
 	"OUTLINE_COLOR": "Χρώμα περιγράμματος",
 	"BACKGROUND_COLOR": "Χρώμα φόντου",

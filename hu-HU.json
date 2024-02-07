@@ -1340,6 +1340,7 @@
 	"SIZE": "Méret",
 	"DELAY": "Késleltetés",
 	"BOLD": "Félkövér",
+	"OPACITY": "Opacity",
 	"TEXT_COLOR": "Szöveg szín",
 	"OUTLINE_COLOR": "Körvonal színe",
 	"BACKGROUND_COLOR": "Háttérszín",
