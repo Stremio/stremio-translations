@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt аутентификација је истекла, идите у подешавања и поново се аутентификујте",
 	"TRAKT_REQUIRES_LOGIN": "Trakt грешка",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Морате се пријавити",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Тема",
 	"THEME_DEFAULT": "Подразумевана",
 	"THEME_ADAPTIVE": "Адаптивна",

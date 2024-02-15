@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt驗證已過期，請轉到設定並重新驗證",
 	"TRAKT_REQUIRES_LOGIN": "Trakt錯誤",
 	"TRAKT_REQUIRES_LOGIN_MSG": "您需要登入",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

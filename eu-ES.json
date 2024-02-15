@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt autentifikazioa iraungita dago, joan Ezarpenak atalera eta berriro autentifikatu",
 	"TRAKT_REQUIRES_LOGIN": "Trakt errorea",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Saioa hasi behar duzu",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

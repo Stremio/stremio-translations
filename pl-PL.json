@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Uwierzytelnianie Trakt wygasło, przejdź do Ustawień i uwierzytelnij się ponownie.",
 	"TRAKT_REQUIRES_LOGIN": "Błąd Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Musisz się zalogować",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Срок действия аутентификации Trakt истек, перейдите в настройки и повторите аутентификацию.",
 	"TRAKT_REQUIRES_LOGIN": "Ошибка Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Необходимо войти",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

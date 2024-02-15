@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Traktの認証が期限切れです、設定に移動して再認証してください",
 	"TRAKT_REQUIRES_LOGIN": "Traktエラー",
 	"TRAKT_REQUIRES_LOGIN_MSG": "ログインが必要です",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "テーマ",
 	"THEME_DEFAULT": "デフォルト",
 	"THEME_ADAPTIVE": "適応",

@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt authentication expired, please go to Settings and re-authenticate",
 	"TRAKT_REQUIRES_LOGIN": "Trakt-Fehler",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Sie müssen sich anmelden",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

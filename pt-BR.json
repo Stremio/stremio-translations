@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "A autenticação do Trakt expirou, vá até as Configurações e autentique novamente.",
 	"TRAKT_REQUIRES_LOGIN": "Erro no serviço Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Você precisa fazer login",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

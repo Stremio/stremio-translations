@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Autentificarea Trakt a expirat, vă rugăm să mergeți la Setări și să vă autentificați din nou",
 	"TRAKT_REQUIRES_LOGIN": "Eroare Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Trebuie să vă autentificați",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

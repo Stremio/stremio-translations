@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "A Trakt hitelesítés lejárt, lépjen a Beállításokba, és hitelesítse újra",
 	"TRAKT_REQUIRES_LOGIN": "Trakt hiba",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Be kell jelentkezned",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Téma",
 	"THEME_DEFAULT": "Alapértelmezett",
 	"THEME_ADAPTIVE": "Adaptív",

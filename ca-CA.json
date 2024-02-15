@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "L'autenticació de Trakt ha caducat, aneu a Configuració i torneu a autenticar-la",
 	"TRAKT_REQUIRES_LOGIN": "Error de Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Cal iniciar sessió",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "انتهت صلاحية مصادقة Trakt ، يرجى الانتقال إلى الإعدادات وإعادة المصادقة",
 	"TRAKT_REQUIRES_LOGIN": "خطأ Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "تحتاج إلى تسجيل الدخول",
+	"TRAKT_IMPORT_WATCHED": "إستيراد",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

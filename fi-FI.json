@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Traktin todennus vanhentunut, mene Asetuksiin ja todenna uudelleen",
 	"TRAKT_REQUIRES_LOGIN": "Trakt-virhe",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Sinun täytyy kirjautua sisään",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",
