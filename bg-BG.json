@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt удостоверяването е изтекло, моля, отидете в настройки и се удостоверете отново",
 	"TRAKT_REQUIRES_LOGIN": "Trakt грешка",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Трябва да се впишете",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Тема",
 	"THEME_DEFAULT": "Стандартна",
 	"THEME_ADAPTIVE": "Адаптивна",

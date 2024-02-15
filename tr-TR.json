@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt kimlik doğrulamasının süresi doldu, lütfen Ayarlar'a gidin ve yeniden kimlik doğrulaması yapın",
 	"TRAKT_REQUIRES_LOGIN": "Trakt hatası",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Oturum açmanız gerekli",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Tema",
 	"THEME_DEFAULT": "Varsayılan",
 	"THEME_ADAPTIVE": "Uyarlanabilir",

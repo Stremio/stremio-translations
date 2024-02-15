@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt autientifikacija nije valjana, molim vas u Postavkama autentificirajte",
 	"TRAKT_REQUIRES_LOGIN": "Trakt greška",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Morate biti ulogirani",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

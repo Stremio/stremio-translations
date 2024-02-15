@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt-authenticatie is verlopen, ga naar Instellingen en verifieer opnieuw",
 	"TRAKT_REQUIRES_LOGIN": "Trakt foutmelding",
 	"TRAKT_REQUIRES_LOGIN_MSG": "U moet inloggen",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

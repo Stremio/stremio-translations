@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Trakt authentication expired, please go to Settings and re-authenticate",
 	"TRAKT_REQUIRES_LOGIN": "Trakt error",
 	"TRAKT_REQUIRES_LOGIN_MSG": "شما باید وارد شوید.",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "پوسته",
 	"THEME_DEFAULT": "پیشفرض",
 	"THEME_ADAPTIVE": "انطباقی",

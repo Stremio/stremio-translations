@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "קישוריות עם Trakt פגה, אנא עבור להגדרות והתחבר שוב",
 	"TRAKT_REQUIRES_LOGIN": "Trakt שגיאה",
 	"TRAKT_REQUIRES_LOGIN_MSG": "חובה להתחבר",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

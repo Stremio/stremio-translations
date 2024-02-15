@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Η ταυτοποίηση στο Trakt έληξε, παρακαλώ μεταβείτε στις Ρυθμίσεις και κάντε ξανά έλεγχο ταυτότητας",
 	"TRAKT_REQUIRES_LOGIN": "Σφάλμα Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Πρέπει να κάνετε σύνδεση",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

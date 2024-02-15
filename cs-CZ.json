@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Platnost ověření Traktu vypršela, přejděte prosím do Nastavení a znovu se ověřte",
 	"TRAKT_REQUIRES_LOGIN": "Chyba traktu",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Musíte se přihlásit",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

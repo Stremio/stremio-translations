@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Термін автентифікації Trakt закінчився, перейдіть у Налаштування та повторіть автентифікацію",
 	"TRAKT_REQUIRES_LOGIN": "Помилка тракту",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Вам потрібно увійти",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",

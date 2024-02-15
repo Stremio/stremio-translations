@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "Xác thực Trakt đã hết hạn, vui lòng đi tới Thiết đặt và xác thực lại",
 	"TRAKT_REQUIRES_LOGIN": "Lỗi Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Bạn cần đăng nhập",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Chủ đề",
 	"THEME_DEFAULT": "Mặc định",
 	"THEME_ADAPTIVE": "Thích ứng",

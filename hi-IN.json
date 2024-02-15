@@ -395,6 +395,7 @@
 	"TRAKT_EXPIRED": "ट्रैक्ट प्रमाणीकरण समाप्त हो गया कृपया सेटिंग्स पर जाएं और पुन: प्रमाणित करें",
 	"TRAKT_REQUIRES_LOGIN": "ट्रैक्ट त्रुटि",
 	"TRAKT_REQUIRES_LOGIN_MSG": "आपको लॉगिन करने की आवश्यकता है",
+	"TRAKT_IMPORT_WATCHED": "Import",
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",
