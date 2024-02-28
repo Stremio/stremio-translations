@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Контроле",
 	"SETTINGS_SECTION_AUTO_PLAY": "Аутоматско пуштање",
 	"SETTINGS_SECTION_ADVANCED": "Напредно",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Аудио снимак",
 	"SUBSPICKER_SUBTITLES": "Титлови додатака",
 	"SUBSPICKER_BLACK_BACKGROUND": "Користи црну боју позадине",

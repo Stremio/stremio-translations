@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "کنترلرها",
 	"SETTINGS_SECTION_AUTO_PLAY": "پخش خودکار",
 	"SETTINGS_SECTION_ADVANCED": "پیشرفته",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "صدا",
 	"SUBSPICKER_SUBTITLES": "افزونه های زیرنویس",
 	"SUBSPICKER_BLACK_BACKGROUND": "استفاده از رنگ پس‌زمینه سیاه",

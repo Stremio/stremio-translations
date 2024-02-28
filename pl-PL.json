@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Sterowanie",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatyczne odtwarzanie",
 	"SETTINGS_SECTION_ADVANCED": "Zaawansowane",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Napisy do dodatków",
 	"SUBSPICKER_BLACK_BACKGROUND": "Użyj czarnego koloru tła",

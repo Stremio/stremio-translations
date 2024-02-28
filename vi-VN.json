@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Điều khiển",
 	"SETTINGS_SECTION_AUTO_PLAY": "Tự động phát",
 	"SETTINGS_SECTION_ADVANCED": "Nâng cao",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Âm thanh",
 	"SUBSPICKER_SUBTITLES": "Add-on phụ đề",
 	"SUBSPICKER_BLACK_BACKGROUND": "Sử dụng nền màu đen",

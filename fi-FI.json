@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Ohjaimet",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automaattinen toisto",
 	"SETTINGS_SECTION_ADVANCED": "Edistyneet",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Ääni",
 	"SUBSPICKER_SUBTITLES": "Lisäosien tekstitykset",
 	"SUBSPICKER_BLACK_BACKGROUND": "Käytä mustaa taustaväriä",

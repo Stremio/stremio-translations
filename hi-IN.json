@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Controls",
 	"SETTINGS_SECTION_AUTO_PLAY": "Auto-Play",
 	"SETTINGS_SECTION_ADVANCED": "Advanced",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "ऑडियो",
 	"SUBSPICKER_SUBTITLES": "Addons Subtitles",
 	"SUBSPICKER_BLACK_BACKGROUND": "ब्लैक बैकग्राउंड कलर का इस्तेमाल करें",

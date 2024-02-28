@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Contrôles",
 	"SETTINGS_SECTION_AUTO_PLAY": "Lecture automatique",
 	"SETTINGS_SECTION_ADVANCED": "Avancé",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Sous-titres addons",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utiliser un fond de couleur noir",

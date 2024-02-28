@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Controles",
 	"SETTINGS_SECTION_AUTO_PLAY": "Reprodução automática",
 	"SETTINGS_SECTION_ADVANCED": "Avançado",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Áudio",
 	"SUBSPICKER_SUBTITLES": "Addons de Legendas",
 	"SUBSPICKER_BLACK_BACKGROUND": "Usar cor de fundo preta",

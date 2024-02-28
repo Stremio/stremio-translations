@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Контроли",
 	"SETTINGS_SECTION_AUTO_PLAY": "Автоматичен плейбек",
 	"SETTINGS_SECTION_ADVANCED": "Разширени",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Аудио",
 	"SUBSPICKER_SUBTITLES": "Добавки за субтитри",
 	"SUBSPICKER_BLACK_BACKGROUND": "Използване на черен цвят за заден фон",

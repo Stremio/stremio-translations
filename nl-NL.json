@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Bediening",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatisch afspelen",
 	"SETTINGS_SECTION_ADVANCED": "Geavanceerd",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Add-on ondertitels",
 	"SUBSPICKER_BLACK_BACKGROUND": "Gebruik een zwarte achtergrondkleur",

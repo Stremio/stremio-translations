@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Елементи керування",
 	"SETTINGS_SECTION_AUTO_PLAY": "Автоматичне відтворення",
 	"SETTINGS_SECTION_ADVANCED": "Просунутий",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Аудіо",
 	"SUBSPICKER_SUBTITLES": "Субтитри додатків",
 	"SUBSPICKER_BLACK_BACKGROUND": "Використовуйте чорний колір тла",

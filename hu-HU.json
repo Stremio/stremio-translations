@@ -523,6 +523,7 @@
 	"SETTINGS_SECTION_CONTROLS": "Vezérlők",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatikus lejátszás",
 	"SETTINGS_SECTION_ADVANCED": "Fejlett",
+	"SETTINGS_SHOW_NETWORK_NOTIFICATION": "Show Network Notification(online/offline)",
 	"SUBSPICKER_AUDIO": "Hang",
 	"SUBSPICKER_SUBTITLES": "Bővítmények feliratai",
 	"SUBSPICKER_BLACK_BACKGROUND": "Használjon fekete háttérszínt",
