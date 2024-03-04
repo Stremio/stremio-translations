@@ -515,6 +515,7 @@
 	"SETTINGS_HW_FULL": "Accélération complète",
 	"SETTINGS_HW_LEGACY": "Normal",
 	"SETTINGS_DISABLED": "Désactivé",
+	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
 	"SETTINGS_REMOTE_URL": "URL distant",
 	"SETTINGS_COPY_REMOTE_URL": "Copier l'URL distant",
 	"SETTINGS_REMOTE_URL_COPIED": "L'URL distant à été copié dans votre presse-papiers",
