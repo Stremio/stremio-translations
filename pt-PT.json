@@ -515,6 +515,7 @@
 	"SETTINGS_HW_FULL": "Aceleração total",
 	"SETTINGS_HW_LEGACY": "Legado",
 	"SETTINGS_DISABLED": "Desativado",
+	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
 	"SETTINGS_REMOTE_URL": "URL remoto",
 	"SETTINGS_COPY_REMOTE_URL": "Copiar URL remoto",
 	"SETTINGS_REMOTE_URL_COPIED": "URL remoto copiado para a tua área de transferência",
