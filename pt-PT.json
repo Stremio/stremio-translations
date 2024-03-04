@@ -395,7 +395,7 @@
 	"TRAKT_EXPIRED": "A autenticação do Trakt expirou. Acede às Definições e volta a autenticar-te",
 	"TRAKT_REQUIRES_LOGIN": "Erro do Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Precisas de iniciar sessão",
-	"TRAKT_IMPORT_WATCHED": "Import",
+	"TRAKT_IMPORT_WATCHED": "Importar",
 	"THEME": "Tema",
 	"THEME_DEFAULT": "Predefinido",
 	"THEME_ADAPTIVE": "Adaptativo",
