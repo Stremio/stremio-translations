@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Избор жанра",
 	"SORT_LASTWATCHED": "По последњем гледању",
 	"SORT_NAME": "По имену",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "По броју гледања",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Ново за вас",

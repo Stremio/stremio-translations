@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Műfaj kiválasztása",
 	"SORT_LASTWATCHED": "Utoljára megtekintve",
 	"SORT_NAME": "Név szerint",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Nézett idők szerint",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Újdonságok Neked",

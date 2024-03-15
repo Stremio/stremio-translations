@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "اختر النوع",
 	"SORT_LASTWATCHED": "حسب آخر مشاهدة",
 	"SORT_NAME": "بالاسم",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "حسب مرات المشاهدة",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "جديد من أجلك",

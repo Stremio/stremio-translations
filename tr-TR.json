@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Tür seçin",
 	"SORT_LASTWATCHED": "Son izlenmeye göre",
 	"SORT_NAME": "Ada göre",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "İzlenme sayısına göre",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Sizin için Yeni",

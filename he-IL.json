@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "לפי ז'אנר",
 	"SORT_LASTWATCHED": "לפי נראה לאחרונה",
 	"SORT_NAME": "לפי שם",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "לפי פעמים שנצפה",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "חדש בשבילך",

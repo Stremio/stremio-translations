@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "انتخاب ژانر",
 	"SORT_LASTWATCHED": "بر اساس آخرین مشاهده",
 	"SORT_NAME": "بر اساس نام",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "بر ساسا مدت زمان مشاهده",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "جدیدترین ها برای شما",

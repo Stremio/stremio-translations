@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Valitse genre",
 	"SORT_LASTWATCHED": "Viimeksi katsotun mukaan",
 	"SORT_NAME": "Nimen mukaan",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Katselukertojen mukaan",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Uutta sinulle",

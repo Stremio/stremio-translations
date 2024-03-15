@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "選擇流派",
 	"SORT_LASTWATCHED": "按上次觀看",
 	"SORT_NAME": "按名稱",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "按觀看次數",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "新的",

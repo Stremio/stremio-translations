@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Vyberte žánr",
 	"SORT_LASTWATCHED": "Podle posledních",
 	"SORT_NAME": "Podle názvu",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Podle počtu zhlédnutí",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Novinky pro vás",

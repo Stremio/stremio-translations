@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Select genre",
 	"SORT_LASTWATCHED": "По последнему просмотру",
 	"SORT_NAME": "По названию",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "По количеству просмотров",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Новые для вас",

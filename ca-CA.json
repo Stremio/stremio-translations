@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Selecciona gènere",
 	"SORT_LASTWATCHED": "Per l'últim vist",
 	"SORT_NAME": "Per nom",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Per vegades vist",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Nou per a tu",

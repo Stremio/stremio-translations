@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "ジャンルを選択",
 	"SORT_LASTWATCHED": "最後に視聴した順",
 	"SORT_NAME": "名前順",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "視聴回数順",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "あなたのための新着",

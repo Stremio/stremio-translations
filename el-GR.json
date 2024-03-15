@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Επιλέξτε τύπο",
 	"SORT_LASTWATCHED": "Από τη τελευταία προβολή",
 	"SORT_NAME": "Από το όνομα",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Από τον αριθμό αναπαραγωγών",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Νέα για εσάς",

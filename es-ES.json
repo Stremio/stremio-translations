@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Seleccionar género",
 	"SORT_LASTWATCHED": "Por último visto",
 	"SORT_NAME": "Por nombre",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Por veces vista",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Nuevo para ti",

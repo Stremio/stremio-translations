@@ -226,7 +226,7 @@
 	"SELECT_GENRE": "Välj genre",
 	"SORT_LASTWATCHED": "Efter senast sedda",
 	"SORT_NAME": "Efter namn",
-	"SORT_NAME_REVERSE": "z-a",
+	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Efter tittade gånger",
 	"SORT_NOTWATCHED": "not watched",
 	"New for You": "Nytt för dig",
