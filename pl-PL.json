@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Rozmiar pamięci podręcznej",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Profil torrent",
 	"SETTINGS_HTTPS_ENDPOINT": "Strumieniowy punkt końcowy HTTPS: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Zawsze używaj najnowszej Bety",
 	"SETTINGS_IMPORT_FB": "Importuj z Facebook",
 	"SETTINGS_IMPORT_DISK": "Importuj z lokalnego dysku",

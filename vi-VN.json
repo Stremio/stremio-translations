@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Kích thước bộ nhớ đệm",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Hồ sơ torrent",
 	"SETTINGS_HTTPS_ENDPOINT": "Truyền trực tuyến máy cuối HTTPS: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Luôn sử dụng bản Beta mới nhất",
 	"SETTINGS_IMPORT_FB": "Nhập từ facebook",
 	"SETTINGS_IMPORT_DISK": "Nhập từ đĩa cục bộ",

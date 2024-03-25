@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Μέγεθος επιτρεπόμενης μνήμης cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Προφίλ torrent",
 	"SETTINGS_HTTPS_ENDPOINT": "Ακροσημείο HTTPS ροής: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Πάντα χρήση της πιο πρόσφατης έκδοσης beta",
 	"SETTINGS_IMPORT_FB": "Εισαγωγή από Facebook",
 	"SETTINGS_IMPORT_DISK": "Εισαγωγή από τοπικό δίσκο",

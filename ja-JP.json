@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "キャッシュサイズ",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "トレントプロファイル",
 	"SETTINGS_HTTPS_ENDPOINT": "ストリーミングHTTPSエンドポイント: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "常に最新のベータ版を使用する",
 	"SETTINGS_IMPORT_FB": "Facebookからインポートする",
 	"SETTINGS_IMPORT_DISK": "ローカルディスクからインポートする",

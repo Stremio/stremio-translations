@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Välimuistin koko",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent-profiili",
 	"SETTINGS_HTTPS_ENDPOINT": "Suoratoiston HTTPS-päätepiste: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Käytä aina uusinta beta-versiota",
 	"SETTINGS_IMPORT_FB": "Tuo Facebookista",
 	"SETTINGS_IMPORT_DISK": "Tuo paikalliselta levyltä",

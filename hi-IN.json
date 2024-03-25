@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
 	"SETTINGS_HTTPS_ENDPOINT": "स्ट्रीमिंग HTTPS एंडपॉइंट:",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "हमेशा नवीनतम बीटा का उपयोग करें",
 	"SETTINGS_IMPORT_FB": "फेसबुक से आयात करें",
 	"SETTINGS_IMPORT_DISK": "स्थानीय डिस्क से आयात करें",

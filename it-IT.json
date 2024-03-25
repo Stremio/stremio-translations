@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Dimensione Cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Profilo Torrent",
 	"SETTINGS_HTTPS_ENDPOINT": "Endpoint HTTPS di riproduzione: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Usa sempre l'ultima Beta",
 	"SETTINGS_IMPORT_FB": "Importa da Facebook",
 	"SETTINGS_IMPORT_DISK": "Importa dal disco locale",

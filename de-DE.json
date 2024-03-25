@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS endpoint: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Immer neueste Beta verwenden",
 	"SETTINGS_IMPORT_FB": "Von Facebook importieren",
 	"SETTINGS_IMPORT_DISK": "Von lokaler Festplatte importieren",

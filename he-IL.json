@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "גודל המטמון",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "פרופיל הטורנט",
 	"SETTINGS_HTTPS_ENDPOINT": "כתובת הזרמה ב־HTTPS: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "תמיד להשתמש ב Beta האחרונה",
 	"SETTINGS_IMPORT_FB": "ייבא מפייסבוק",
 	"SETTINGS_IMPORT_DISK": "ייבא מדיסק מקומי",
