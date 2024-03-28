@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Gyorsítótár mérete",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profil",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS végpont: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Mindig használja a legújabb Bétát",
 	"SETTINGS_IMPORT_FB": "Importálás Facebookról",
 	"SETTINGS_IMPORT_DISK": "Importálás helyi lemezről",

@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Големина на кешот",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профил",
 	"SETTINGS_HTTPS_ENDPOINT": "Стриминг HTTPS крајна точка: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Секогаш користете ја најновата бета верзија",
 	"SETTINGS_IMPORT_FB": "Увези од Фејсбук",
 	"SETTINGS_IMPORT_DISK": "Увези од локалниот диск",

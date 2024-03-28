@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Розмір кешу",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профіль",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPS адреса потоку:",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Завжди використовуйте останню бета-версію",
 	"SETTINGS_IMPORT_FB": "Імпортувати із Facebook",
 	"SETTINGS_IMPORT_DISK": "Імпортувати з локального диска",

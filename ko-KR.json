@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
 	"SETTINGS_HTTPS_ENDPOINT": "스트리밍 HTTPS 엔드포인트: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "항상 최신 베타버전 사용",
 	"SETTINGS_IMPORT_FB": "Facebook에서 Import",
 	"SETTINGS_IMPORT_DISK": "로컬 디스크에서 Import",

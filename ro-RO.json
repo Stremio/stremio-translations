@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Dimensiune cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Profil torrent",
 	"SETTINGS_HTTPS_ENDPOINT": "Endpoint HTTPS pentru streaming: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Utilizați întotdeauna cea mai recentă versiune Beta",
 	"SETTINGS_IMPORT_FB": "Importați din Facebook",
 	"SETTINGS_IMPORT_DISK": "Importați din discul local",

@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Önbellek boyutu",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profili",
 	"SETTINGS_HTTPS_ENDPOINT": "Yayın akışı HTTPS uç noktası: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Her zaman en son Beta'yı kullan",
 	"SETTINGS_IMPORT_FB": "Facebook'tan içe aktar",
 	"SETTINGS_IMPORT_DISK": "Yerel diskten içe aktar",

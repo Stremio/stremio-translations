@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
 	"SETTINGS_HTTPS_ENDPOINT": "Koncový bod HTTPS pro streamování",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Vždy používejte nejnovější betaverzi",
 	"SETTINGS_IMPORT_FB": "Import ze služby Facebook",
 	"SETTINGS_IMPORT_DISK": "Import z místního disku",

@@ -476,6 +476,7 @@
 	"SETTINGS_SERVER_CACHE_SIZE": "حجم التخزين المؤقت",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "ملف التورنت التعريفي",
 	"SETTINGS_HTTPS_ENDPOINT": "نقطة نهاية دفق HTTPS: ",
+	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "استخدم دائمًا أحدث إصدار بيتا",
 	"SETTINGS_IMPORT_FB": "استيراد من فيسبوك",
 	"SETTINGS_IMPORT_DISK": "استيراد من القرص الصلب",
