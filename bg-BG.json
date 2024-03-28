@@ -1267,7 +1267,7 @@
 	"STREMIO_TV_PLAYER_SPEED_NOT_ADJUSTABLE": "Не се регулира в режим на аудио преминаване",
 	"STREMIO_TV_PLAYER_PLAY_IN_EXO": "Възпроизвеждане с ExoPlayer",
 	"STREMIO_TV_PLAYER_PLAY_IN_VLC": "Възпроизвеждане с libVLC плеър",
-	"STREMIO_TV_PLAYER_SWITCH_TO_VLC_DUE_ERROR": "Преминаване към плейър libVLC поради грешка със възпроизвеждането",
+	"STREMIO_TV_PLAYER_SWITCH_TO_VLC_DUE_ERROR": "Преминаване към плейър libVLC поради грешка във възпроизвеждането",
 	"STREMIO_TV_ADDONS_TITLE": "Използвайте Stremio на вашия телефон или компютър, за да инсталирате или конфигурирате добавки и натиснете \"Sync Addons\"",
 	"STREMIO_TV_ADDONS_SUBTITLE": "Забележка: Уверете се, че използвате същия акаунт в Stremio",
 	"STREMIO_TV_ADDONS_SYNC_ADDONS": "Синхронизиране на добавки",
