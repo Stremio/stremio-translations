@@ -249,7 +249,7 @@
 	"DISCOVER_TOP": "인기",
 	"DISCOVER_OSCAR": "오스카 수상자",
 	"DISCOVER_WARNING_TITLE": "헉!",
-	"DISCOVER_EMPTY_CATALOG": "이 애드온은 빈 콘텐츠를 반환했습니다.",
+	"DISCOVER_EMPTY_CATALOG": "이 애드온에서 가져올 컨텐츠가 없습니다.",
 	"DISCOVER_ADULT_WARNING": "콘텐츠는 성인만 볼 수 있습니다. 18세 이상입니까?",
 	"DISCOVER_NOADDON_WARNING": "경고: 이 유형에 대해 활성화된 Stremio 추가 기능이 없습니다. 저장된 아이템을 표시해도 갱신되는 것은 없습니다.",
 	"DISCOVER_LOAD_ERR": "콘텐츠가 로드되지 않고 오류가 발생했습니다.",
