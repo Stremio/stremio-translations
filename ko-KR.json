@@ -539,7 +539,7 @@
 	"MOBILE_ZOOM_TO_FILL": "꽉찬 화면(비율 유지)",
 	"MOBILE_PASSTHROUGH": "디지털 오디오 출력(패스스루)",
 	"MOBILE_RUN_LOW_BATTERY": "낮은 배터리 상태에서 실행",
-	"MOBILE_RUN_FOREGROUND": "항상 알림(Foreground Service)로 실행",
+	"MOBILE_RUN_FOREGROUND": "포그라운드 서비스(실행 유지) 활성화",
 	"MOBILE_PERFORMANCE": "퍼포먼스 & 안정성",
 	"MOBILE_SERVER_ONLINE": "Online",
 	"MOBILE_SERVER_OFFLINE": "Offline",
