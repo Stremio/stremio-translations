@@ -263,7 +263,7 @@
 	"UPGRADE": "새로운 버전이 출시되었습니다! 최신 Stremio 버전으로 업그레이드",
 	"RELOAD_UI": "사용자 인터페이스 새로고침",
 	"MANUAL_UPDATE_TITLE": "Stremio 버전 업데이트",
-	"MANUAL_UPDATE_LINE1": "구 버전의 Stremio를 실행하고 있습니다.",
+	"MANUAL_UPDATE_LINE1": "구 버전의 Stremio를 실행 중입니다.",
 	"MANUAL_UPDATE_LINE2": "최대한 빨리 업데이트해 주세요.",
 	"BUTTON_UPDATE_LATTER": "나중에",
 	"BUTTON_UPDATE_NOW": "업데이트",
