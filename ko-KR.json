@@ -118,7 +118,7 @@
 	"IN_THEATER": "상영 중",
 	"GET_TICKETS": "티켓 받기",
 	"UPCOMING_EPISODE": "다음 에피소드",
-	"UPCOMING_EPISODE_MESSAGE": "이 에피소드는 방송됩니다.",
+	"UPCOMING_EPISODE_MESSAGE": "이 에피소드는 다음에 방송됩니다.",
 	"MISSING_DATE_EPISODE": "에피소드 날짜 누락",
 	"MISSING_DATE_EPISODE_MESSAGE": "이번 에피소드는 아직 방송되지 않았을 수 있습니다.",
 	"CHANNEL_NOT_SCRAPED": "이 채널은 아직 스크랩되지 않았습니다.<br>몇 분 후에 다시 오세요.",
