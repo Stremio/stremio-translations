@@ -365,12 +365,13 @@
 	"EXTERNAL_ONLY_ONCE": "아니오",
 	
 	"BEST_FIT": "최적 맞춤",
-	"FIT_SCREEN": "화면에 맞추기",
-	"FILL": "채움",
+
+	"FIT_SCREEN": "전체 화면",
+	"FILL": "꽉찬 화면",
 	"16:9": "16:9",
 	"4:3": "4:3",
-	"Original": "원본화면",
-	
+	"Original": "원본 화면",
+
 	"INTRO_TASTE": "좋아하는 걸 이야기해 주세요.",
 	"INTRO_TASTE_LONG": "보고 싶은 걸 말해주세요.",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} 관삼분야를 선택해주세요.",
@@ -409,7 +410,7 @@
 	
 	"BUTTON_CONTINUE": "계속",
 	"BUTTON_ACTIVATE": "활성화",
-	"BUTTON_ACTIVATED": "활성화된",
+	"BUTTON_ACTIVATED": "활성화됨",
 	"BUTTON_CANCEL": "취소",
 	"BUTTON_SUBMIT": "제출",
 	"BUTTON_DISMISS_ALL": "모두 닫기",
@@ -595,8 +596,8 @@
 	"MOBILE_CRASH_REPORTING": "오류 보고 동의",
 	"MOBILE_ZOOM_TO_FILL": "꽉찬 화면(비율 유지)",
 	"MOBILE_PASSTHROUGH": "디지털 오디오 출력(패스스루)",
-	"MOBILE_RUN_LOW_BATTERY": "배터리 최적화 끄기",
-	"MOBILE_RUN_FOREGROUND": "포그라운드 서비스(실행 유지)",
+	"MOBILE_RUN_LOW_BATTERY": "배터리 사용량 최적화 해제",
+	"MOBILE_RUN_FOREGROUND": "포그라운드 서비스로 실행(실행 유지)",
 	"MOBILE_PERFORMANCE": "성능 & 안정성",
 	"MOBILE_SERVER_ONLINE": "Online",
 	"MOBILE_SERVER_OFFLINE": "Offline",
@@ -1431,7 +1432,7 @@
 	"OUTLINE_COLOR": "외곽선 색상",
 	"BACKGROUND_COLOR": "배경 색상",
 	"BACKGROUND_BLUR": "배경 흐리게",
-	"SEEK_TIME_DURATION": "탐색 시간 찾기",
+	"SEEK_TIME_DURATION": "탐색 시간 설정",
 	"AUTO_PLAY": "다음 에피소드 자동 재생",
 	"PLAY_NOW": "지금 바로 재생",
 	"MARK_AS_WATCHED": "시청으로 표시",
