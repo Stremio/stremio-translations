@@ -11,19 +11,6 @@ Thank you!
 
 **Please, always sync and pull your repository before making any edits.**
 
-### How to test in the app
-
-Clone this repo, copy en-US.json as a starting point into your language's
-locale file, following IETF standard. To test in the app, start Stremio like:
-
-```
-# for Windows
-%LOCALAPPDATA%\Programs\LNV\Stremio\Stremio.exe . --translation=PATH_TO_JSON
-
-# for macOS
-/Applications/Stremio.app/Contents/MacOS/Electron . --translation=PATH_TO_JSON
-```
-
 ### Translation credits
 
 | Culture | Name                 | Contributors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
