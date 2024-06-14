@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Пускане на {{device}}",
 	"PLAYER_LIVE": "На живо",
 	"PLAYER_NEXT_VIDEO_TITLE": "Следва",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Отхвърляне",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Гледане сега",
 	"PLAYER_COPY_STREAM_SUCCESS": "Връзката за поточно предаване беше копирана във клипборда",

@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Play in {{device}}",
 	"PLAYER_LIVE": "مباشر",
 	"PLAYER_NEXT_VIDEO_TITLE": "الفيديو التالي",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "إغلاق",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "شاهد الان",
 	"PLAYER_COPY_STREAM_SUCCESS": "Stream link was copied to your clipboard",

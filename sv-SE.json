@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Spela på {{device}}",
 	"PLAYER_LIVE": "Live",
 	"PLAYER_NEXT_VIDEO_TITLE": "Kommande på",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Avfärda",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Titta nu",
 	"PLAYER_COPY_STREAM_SUCCESS": "Streamlänken har kopierats till ditt urklipp",
