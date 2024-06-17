@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Αναπαραγωγή στο {{device}}",
 	"PLAYER_LIVE": "Ζωντανά",
 	"PLAYER_NEXT_VIDEO_TITLE": "Επόμενο βίντεο",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Απόρριψη",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Προβολή τώρα",
 	"PLAYER_COPY_STREAM_SUCCESS": "Ο σύνδεσμος ροής αντιγράφηκε στο πρόχειρο",

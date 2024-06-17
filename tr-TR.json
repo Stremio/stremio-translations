@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "{{device}} içinde oynat",
 	"PLAYER_LIVE": "Canlı",
 	"PLAYER_NEXT_VIDEO_TITLE": "Sıradaki gelen",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Vazgeç",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Şimdi izle",
 	"PLAYER_COPY_STREAM_SUCCESS": "Akış bağlantısı panonuza kopyalandı",
