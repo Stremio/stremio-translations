@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Toista laitteessa {{device}}",
 	"PLAYER_LIVE": "Suora lähetys",
 	"PLAYER_NEXT_VIDEO_TITLE": "Seuraavaksi",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Hylkää",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Katso nyt",
 	"PLAYER_COPY_STREAM_SUCCESS": "Virtalinkki kopioitu leikepöydälle",
