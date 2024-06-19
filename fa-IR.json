@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "پخش در {{device}}",
 	"PLAYER_LIVE": "لایو",
 	"PLAYER_NEXT_VIDEO_TITLE": "می آید در",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "کنسل کردن",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "مشاهده کنید",
 	"PLAYER_COPY_STREAM_SUCCESS": "لینک استریم با موفقیت کپی شد",

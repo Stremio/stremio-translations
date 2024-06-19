@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Play in {{device}}",
 	"PLAYER_LIVE": "रहना",
 	"PLAYER_NEXT_VIDEO_TITLE": "आगे आ रहा है",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "खारिज",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "अब देखिए",
 	"PLAYER_COPY_STREAM_SUCCESS": "Stream link was copied to your clipboard",

@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Грати на {{device}}",
 	"PLAYER_LIVE": "Наживо",
 	"PLAYER_NEXT_VIDEO_TITLE": "Далі буде",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Закрити",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Дивитися зараз",
 	"PLAYER_COPY_STREAM_SUCCESS": "Посилання на трансляцію скопійовано в буфер обміну",

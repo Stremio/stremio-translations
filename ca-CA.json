@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "Reprodueix a {{device}}",
 	"PLAYER_LIVE": "En directe",
 	"PLAYER_NEXT_VIDEO_TITLE": "A continuació",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Descartar",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Veure ara",
 	"PLAYER_COPY_STREAM_SUCCESS": "Enllaç de la reproducció copiat al porta-retalls",
