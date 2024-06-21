@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Play in {{device}}",
 	"PLAYER_LIVE": "Uživo",
 	"PLAYER_NEXT_VIDEO_TITLE": "U sljedećem nastavku",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Odbaci",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Gledaj odmah",
 	"PLAYER_COPY_STREAM_SUCCESS": "Stream link was copied to your clipboard",

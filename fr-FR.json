@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Jouer sur {{device}}",
 	"PLAYER_LIVE": "Live",
 	"PLAYER_NEXT_VIDEO_TITLE": "À venir dans",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Ignorer",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Regarder maintenant",
 	"PLAYER_COPY_STREAM_SUCCESS": "Le lien du flux a été copié dans votre presse-papiers",

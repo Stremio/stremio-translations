@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Redă în {{device}}",
 	"PLAYER_LIVE": "În direct",
 	"PLAYER_NEXT_VIDEO_TITLE": "Următorul pe",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Ignoră",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Urmărește acum",
 	"PLAYER_COPY_STREAM_SUCCESS": "Linkul de stream a fost copiat în clipboard",

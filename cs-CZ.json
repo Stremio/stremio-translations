@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Přehrát na {{device}}",
 	"PLAYER_LIVE": "Živě",
 	"PLAYER_NEXT_VIDEO_TITLE": "Příště v pořadu",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Skrýt",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Sledovat nyní",
 	"PLAYER_COPY_STREAM_SUCCESS": "Odkaz na stream byl zkopírován do schránky",

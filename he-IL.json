@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "נגן ב {{device}}",
 	"PLAYER_LIVE": "חי",
 	"PLAYER_NEXT_VIDEO_TITLE": "הוידאו הבא",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "הסתרה",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "צפייה כעת",
 	"PLAYER_COPY_STREAM_SUCCESS": "הלינק של ההזרמה הועתק למקלדת",

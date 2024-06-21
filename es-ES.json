@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Reproducir en {{device}}",
 	"PLAYER_LIVE": "En vivo",
 	"PLAYER_NEXT_VIDEO_TITLE": "A continuación en",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Descartar",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Ver ahora",
 	"PLAYER_COPY_STREAM_SUCCESS": "El enlace de la transmisión se copió en tu portapapeles.",

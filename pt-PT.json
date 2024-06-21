@@ -161,6 +161,7 @@
 	"PLAYER_PLAY_IN": "Reproduzir no {{device}}",
 	"PLAYER_LIVE": "Direto",
 	"PLAYER_NEXT_VIDEO_TITLE": "A seguir",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Fechar",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Ver agora",
 	"PLAYER_COPY_STREAM_SUCCESS": "O link da stream foi copiado para a tua área de transferência",
