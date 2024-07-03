@@ -160,6 +160,7 @@
 	"PLAYER_PLAY_IN": "{{device}}で再生",
 	"PLAYER_LIVE": "ライブ",
 	"PLAYER_NEXT_VIDEO_TITLE": "次に放送予定の",
+	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "閉じる",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "今すぐ見る",
 	"PLAYER_COPY_STREAM_SUCCESS": "ストリームのリンクがクリップボードにコピーされました",
