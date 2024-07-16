@@ -1069,6 +1069,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service για macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service για Linux",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Stremio Service για Docker",
+	"WEBSITE_DOWNLOAD_STREMIO_FOR_DOCKER": "Stremio for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Περισσότερες επιλογές λήψης",
 	"WEBSITE_DOWNLOAD_NEW": "Νέο!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Κυκλοφορήσαμε το Stremio Web",

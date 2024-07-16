@@ -1069,6 +1069,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "macOS için Stremio Hizmeti",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Linux için Stremio Hizmeti",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Docker için Stremio Hizmeti",
+	"WEBSITE_DOWNLOAD_STREMIO_FOR_DOCKER": "Stremio for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Daha Fazla İndirme Seçeneği",
 	"WEBSITE_DOWNLOAD_NEW": "Yeni!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Stremio Web’i yayımladık",
