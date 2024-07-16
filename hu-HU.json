@@ -1069,6 +1069,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service macOS-re",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service Linux-ra",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Stremio Service Docker-re",
+	"WEBSITE_DOWNLOAD_STREMIO_FOR_DOCKER": "Stremio for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "További letöltési lehetőségek",
 	"WEBSITE_DOWNLOAD_NEW": "Új!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Megjelent a Stremio Web",

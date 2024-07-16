@@ -1069,6 +1069,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Dịch vụ Stremio cho macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Dịch vụ Stremio cho Linux",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Dịch vụ Stremio cho Docker",
+	"WEBSITE_DOWNLOAD_STREMIO_FOR_DOCKER": "Stremio for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Nhiều tùy chọn tải xuống hơn",
 	"WEBSITE_DOWNLOAD_NEW": "Mới!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Chúng tôi đã phát hành Stremio Web",

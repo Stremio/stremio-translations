@@ -1069,6 +1069,7 @@
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_MAC": "Stremio Service за macOS",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_LINUX": "Stremio Service за Linux",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_DOCKER": "Stremio Service за Docker",
+	"WEBSITE_DOWNLOAD_STREMIO_FOR_DOCKER": "Stremio for Docker",
 	"WEBSITE_DOWNLOAD_MORE_DOWNLOAD_OPTIONS": "Още опции за изтегляния",
 	"WEBSITE_DOWNLOAD_NEW": "Ново!",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_WEB": "Ние пуснахме Stremio Web",
