@@ -4,7 +4,6 @@
 	"TYPE_tv": "Saluran TV",
 	"TYPE_channel": "Saluran",
 	"TYPE_other": "Lainnya",
-
 	"TYPE_movie_PL": "Film",
 	"TYPE_series_PL": "Serial",
 	"TYPE_tv_PL": "Saluran TV",
@@ -12,39 +11,31 @@
 	"TYPE_other_PL": "Lainnya",
 	"TYPE_ALL": "Semua",
 	"TYPE": "Jenis",
-
 	"CATALOG_com_linvo_cinemeta_top": "Populer",
 	"CATALOG_com_linvo_cinemeta_imdbRating": "Unggulan",
 	"CATALOG_com_linvo_cinemeta_year": "Baru",
 	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Film Ranah Umum",
-
 	"VIDEO": "Video",
-
 	"BACK": "Kembali",
 	"MORE": "Lebih Banyak",
 	"DONE": "Selesai",
 	"COPY": "Salin",
 	"SUCCESS": "Berhasil",
 	"ERROR": "Galat",
-
 	"SETTINGS_CASTING_MODE_PICKER": "Mode transmisi",
 	"CASTING_MODE_HLSV2": "Bawaan",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Tanpa pengkodean ulang",
-
 	"Discover": "Temukan",
 	"Board": "Papan",
 	"Library": "Pustaka",
 	"My Library": "Pustakaku",
 	"Calendar": "Kalender",
-
 	"NOTIFICATION_ONLINE": "Anda sedang daring",
 	"NOTIFICATION_OFFLINE": "Anda sedang luring",
 	"INTERNET_CONNECTION": "Koneksi Jaringan",
-
 	"STORAGE_FULL_TITLE": "Peringatan: Penyimpanan penuh!",
 	"STORAGE_FULL_TEXT": "Stremio tidak akan dapat menyimpan pengaturan, preferensi, atau informasi login Anda. Pertimbangkan untuk memulai ulang atau memasang ulang Stremio.",
-	
 	"SEARCH": "cari",
 	"SEARCH_NO_RESULTS": "Tidak ada hasil yang ditemukan",
 	"SEARCH_EXPLANATION_CONTENT": "Pencarian untuk film, serial, YouTube dan saluran TV",
@@ -52,7 +43,6 @@
 	"SEARCH_PASTE_LINKS": "Tempelkan HTTP dan tautan Magnet",
 	"SEARCH_OR_PASTE_LINK": "Cari atau tempelkan tautan",
 	"SEARCH_SUGGESTIONS": "Saran Pencarian",
-
 	"ADD_TO_LIB": "Tambah ke Pustaka",
 	"REMOVE_FROM_LIB": "Hapus dari Pustaka",
 	"ADDED_TO_LIB": "Ditambahkan ke Pustaka",
@@ -63,7 +53,6 @@
 	"SHOW": "Tampilkan",
 	"SHOW_MOVIE": "Tampilkan film",
 	"WATCH_RANDOM": "Tonton acak",
-
 	"IMDB_RATING": "Peringkat IMDb",
 	"YEAR": "Tahun",
 	"DIRECTOR": "Sutradara",
@@ -86,14 +75,11 @@
 	"FEATURED": "Unggulan",
 	"METADATA": "Metadata",
 	"CATEGORY": "Kategori",
-
 	"LINKS_GENRES": "Genre",
 	"LINKS_CAST": "Pemeran",
 	"LINKS_DIRECTORS": "Sutradara",
-
 	"SEARCH_VIDEOS": "pencarian video",
 	"SEARCH_PLACEHOLDER": "cari atau tempelkan URL",
-
 	"ADDON": "tambahan",
 	"ADDONS": "Tambahan",
 	"OFFICIAL": "Resmi",
@@ -127,7 +113,6 @@
 	"SETTINGS_DATA_EXPORT": "Ekspor data pengguna",
 	"ADDON_PULL_FAILED": "Sinkronisasi tambahan terpasang dari akun Anda gagal",
 	"REFRESH_ON_CLICK": "Klik untuk mencoba lagi",
-
 	"STILL_IN_THEATER": "Film masih di bioskop",
 	"WATCH_IN_CINEMA": "Tonton di bioskop setempat Anda",
 	"IN_THEATER": "Di bioskop",
@@ -139,7 +124,6 @@
 	"CHANNEL_NOT_SCRAPED": "Saluran ini belum diambil.<br>Mohon kembali beberapa saat lagi.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Tambahkan ke pustaka anda agar dikabarkan jika tersedia.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Anda akan dikabarkan jika tersedia.",
-
 	"WARNING_STREAMING_SERVER": "Peringatan: server siaran lokal tidak ditemukan. Siaran dari berkas lokal, Youtube dan BitTorent tidak akan tersedia.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Hiraukan",
 	"WARNING_STREAMING_SERVER_LATER": "Nanti",
@@ -175,20 +159,15 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Buka di pemutar eksternal",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Putar di {{device}}",
-
 	"PLAYER_LIVE": "Langsung",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "Selanjutnya di",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Hiraukan",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Tonton sekarang",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "Tautan siaran telah disalin ke papan klip",
 	"PLAYER_COPY_STREAM_ERROR": "Gagal menyalin tautan siaran",
-
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
-
 	"STREAMING_FROM": "Siarkan dari",
 	"CASTING_TO": "Transimisi ke",
 	"NETWORK_STATUS": "Status jaringan",
@@ -199,24 +178,18 @@
 	"PEERS_CONNECTED": "Terhubung:",
 	"PEERS_WAITING": "Menunggu:",
 	"TRANSCODING_WARNING": "Peringatan: mengkode ulang video.",
-
 	"STREAM_LOADING": "memuat...",
 	"PLAYING_LOCAL": "memutar dari berkas lokal",
 	"PLAYING_CACHE": "memutar dari tembolok",
-
 	"WRONG_SUBS": "Takarir salah?",
 	"ERR_SUBS_LOADING_TITLE": "Gagal memuat takarir",
 	"ERR_SUBS_LOADING": "Gagal memuat takarir: mungkin ada masalah dengan tambahan yang Anda pakai, atau koneksi jaringan Anda",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Tambahan takarir berikut gagal",
 	"ERR_CASTING_UPDATE_TITLE": "Tidak dapat memperbarui info perangkat transmisi: server siaran mungkin luring",
-	
 	"CHOOSE_DEVICE": "Pilih perangkat untuk menonton",
 	"NO_CAST_DEVICES": "Tidak ada perangkat transmisi tersedia.",
-	
 	"NO_SETTINGS": "Tidak ada pengaturan tersedia.",
-
 	"PHONE_TABLET": "Ponsel / Tablet",
-
 	"SUBTITLES": "Takarir",
 	"SUBTITLES_CHANGE": "Ganti takarir untuk ",
 	"SUBTITLES_CHANGE_NONE": "Maaf, tidak ada takarir lain untuk bahasa ini.",
@@ -229,25 +202,18 @@
 	"SUBTITLES_LOADING": "Memuat takarir...",
 	"SUBTITLES_UNAVAILABLE": "Tidak ada takarir eksternal tersedia",
 	"SUBTITLES_DISABLED": "Dimatikan",
-
 	"EXTERNAL_PLAYER_DISABLED": "Dimatikan",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "Perbolehkan memilih",
 	"EXTERNAL_PLAYER_HINT": "Petunjuk: Ada pengaturan untuk memperbolehkan selalu membuka dengan pemutar eksternal",
-	
 	"DONT_SHOW_AGAIN": "Jangan tampilkan lagi",
-
 	"SERVICE_INSTALL": "Pasang",
-
 	"AUDIO": "Audio",
-
 	"DEFAULT_LANGUAGE": "Bahasa Bawaan",
 	"DEFAULT_SECONDARY_LANGUAGE": "Bahasa Kedua Bawaan",
-
 	"SEASON": "Musim",
 	"EPISODE": "Episode",
 	"EPISODE_ABBREVIATION": "EP",
 	"SPECIAL": "Spesial",
-
 	"SORT": "urutkan",
 	"SORT_BY": "Urutkan berdasarkan",
 	"FILTER": "saring",
@@ -267,31 +233,25 @@
 	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "Berapa kali ditonton",
 	"SORT_NOTWATCHED": "tidak ditonton",
-
 	"New for You": "Baru untuk Anda",
 	"New Episodes": "Episode Baru",
 	"New Videos": "Video Baru",
 	"Recommendations": "Rekomendasi",
-
 	"LIBRARY_RESUME": "Lanjutkan",
 	"LIBRARY_PLAY": "Putar",
 	"LIBRARY_DETAILS": "Rincian",
 	"LIBRARY_RESUME_DISMISS": "Hiraukan",
 	"LIBRARY_CLEAR_PROGRESS": "Mulai dari awal",
 	"LIBRARY_REMOVE": "Hapus",
-
 	"LIBRARY_NOT_LOGGED_IN": "Pustaka hanya tersedia untuk pengguna yang masuk",
 	"CALENDAR_NOT_LOGGED_IN": "Kalender hanya tersedia untuk pengguna yang masuk",
 	"NOT_LOGGED_IN_CLOUD": "Akses film dan siaran TV kesukaan Anda di mana saja, kapan saja",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Rekomendasi sesuai riwayat tontonan Anda",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Jangan pernah ketinggalan episode lagi",
 	"NOT_LOGGED_IN_CALENDAR": "Jadwalkan kalender tonton pribadi Anda",
-
 	"DISCOVER_FEATURED": "Unggulan",
-
 	"DISCOVER_TOP": "Teratas",
 	"DISCOVER_OSCAR": "Pemenang Oscar",
-
 	"DISCOVER_WARNING_TITLE": "Ups!",
 	"DISCOVER_EMPTY_CATALOG": "Tambahan ini kosong.",
 	"DISCOVER_ADULT_WARNING": "Konten ini hanya untuk dewasa. Apakah Anda berusia 18+?",
@@ -300,12 +260,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Konten ini tidak lagi tersedia, Anda dapat menghapus tambahan.",
 	"UNINSTALL_THIS_ADDON": "Hapus tambahan ini",
 	"ERR_ADDON_NOT_INSTALLED": "Tambahan ini tidak terpasang. Pasang sekarang?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Terima notifikasi untuk serial baru",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Terima notifikasi untuk video baru",
-
 	"SIDEBAR_SHOW_STREAMS": "Tampilkan siaran",
-
 	"RELAUNCH": "Buka ulang sekarang!",
 	"UPGRADE": "Versi baru tersedia! Tingkatkan ke versi Stremio terbaru",
 	"RELOAD_UI": "Muat ulang antarmuka",
@@ -314,7 +271,6 @@
 	"MANUAL_UPDATE_LINE2": "Mohon perbarui secepatnya.",
 	"BUTTON_UPDATE_LATTER": "Tidak sekarang",
 	"BUTTON_UPDATE_NOW": "Perbarui",
-
 	"ANONYMOUS_USER": "Pengguna anonim",
 	"DONT_HAVE_ACC": "Tidak punya akun?",
 	"HAVE_ACC": "Sudah punya akun?",
@@ -363,19 +319,16 @@
 	"SEARCH_FAILED": "Gagal mencari",
 	"EMAIL_USED": "Email ini sudah digunakan.",
 	"WAITING_FB_LOGIN": "Masuk menggunakan Facebook...",
-
 	"EXTERNAL_PLAYER_TITLE": "Putar di pemutar eksternal",
 	"EXTERNAL_REMEMBER_PLAYER": "Apakah Anda ingin mengingat pilihan",
 	"EXTERNAL_ALWAYS_PLAY": "Ya",
 	"EXTERNAL_ONLY_ONCE": "Tidak",
-
 	"BEST_FIT": "Paling sesuai",
 	"FIT_SCREEN": "Paskan layar",
 	"FILL": "Isi",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Asli",
-
 	"INTRO_TASTE": "Katakan apa yang Anda inginkan",
 	"INTRO_TASTE_LONG": "Katakan apa yang Anda ingin tonton",
 	"INTRO_TASTE_PICK": "Pilih {{interestsRemaining}} minat",
@@ -399,7 +352,6 @@
 	"INTRO_TASTE_DIY": "Swakarya",
 	"INTRO_TASTE_TECH": "Teknologi",
 	"INTRO_TASTE_CINEMA": "Sinema",
-
 	"ADDON_NOT_SUPPORTED": "Tambahan terpilih tidak didukung platform ini.",
 	"ADDON_DISCLAIMER": "Menggunakan tambahan pihak ketiga akan selalu berada di bawah tanggung jawab Anda dan hukum yang berlaku di tempat Anda berada.",
 	"ADDON_ACTIVATE": "Aktifkan tambahan ini?",
@@ -409,9 +361,7 @@
 	"ADD_ADDON": "Tambah tambahan",
 	"ADD_ADDON_DESCRIPTION": "Anda dapat menambah tambahan lewat tautan eksternal, yang akan terlihat di bawah Tambahan terpasang.",
 	"PASTE_ADDON_URL": "Tempel URL tambahan",
-
 	"WHATS_NEW": "Yang terbaru",
-
 	"BUTTON_CONTINUE": "Lanjutkan",
 	"BUTTON_ACTIVATE": "Aktifkan",
 	"BUTTON_ACTIVATED": "Aktif",
@@ -421,9 +371,7 @@
 	"BUTTON_VIEW_ALL": "lihat semua",
 	"BUTTON_SEE_ALL": "Lihat Semua",
 	"BUTTON_COLOR_TRANSPARENT": "Transparan",
-
 	"OPEN_IN_BROWSER": "Buka di peramban",
-
 	"LIB_EMPTY": "Pustaka Anda sepertinya kosong. Apa gunanya :) ",
 	"HOW_START": "Begini cara Anda bisa memulai:",
 	"LIB_EMPTY_CAL": "Kalender Anda menampilkan serial dalam Pustaka.",
@@ -448,10 +396,8 @@
 	"LIB_EMPTY_ALL": "Daftar untuk mendapatkan ini semua:",
 	"LIB_EMPTY_BEST": "Daftar untuk mendapat yang terbaik dari Stremio",
 	"LIB_EMPTY_OTHER": "Daftar untuk mengaktifkan Kalender & fitur keren lainnya",
-	
 	"CALENDAR_ADDED": "Kalender Stremio calendar telah ditambahkan ke kalender bawaan Anda.",
 	"CALENDAR_ADDED_MSG": "Jika tidak berhasil, mohon tambahkan URL ini ke aplikasi kalender Anda secara manual",
-	
 	"TRAKT_EXPIRED": "Autentikasi Trakt kadaluwarsa, mohon pergi ke Pengaturan dan autentikasi ulang",
 	"TRAKT_REQUIRES_LOGIN": "Galat Trakt",
 	"TRAKT_REQUIRES_LOGIN_MSG": "Anda harus masuk",
@@ -1107,6 +1053,7 @@
 	"WEBSITE_DOWNLOADS_FOR_PHILIPS_TV_ANDROID": "Stremio for Philips TV (Android)",
 	"WEBSITE_DOWNLOADS_FOR_OCULUS_QUEST": "Stremio for Oculus Quest",
 	"WEBSITE_DOWNLOADS_FOR_META_QUEST": "Stremio for Meta Quest",
+	"WEBSITE_DOWNLOADS_FOR_VISION_PRO": "Stremio for Vision Pro",
 	"WEBSITE_DOWNLOADS_FOR_XBOX": "Stremio for Xbox",
 	"WEBSITE_DOWNLOADS_FOR_RPI": "Stremio for Raspberry Pi",
 	"WEBSITE_DOWNLOADS_FOR_BROWSER": "Stremio for Browser",
