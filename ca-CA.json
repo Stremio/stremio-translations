@@ -1064,6 +1064,7 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Search for Stremio in the Play Store app on Philips TV running Android",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Cerca Stremio a l'App Store del teu dispositiu Xbox",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
+	"WEBSITE_LINK_GUIDE": "Guide",
 	"WEBSITE_DOWNLOAD_SERVICE": "Descarrega el Stremio Service",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service és una aplicació auxiliar per a Stremio Web. Us recomanem que utilitzeu la darrera versió disponible del Stremio Service.",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service per Windows",
