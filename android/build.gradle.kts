@@ -12,7 +12,7 @@ repositories {
     mavenCentral()
 }
 
-val lyricistVersion = "1.4.1"
+val lyricistVersion = "1.7.0"
 
 kotlin {
     android {
