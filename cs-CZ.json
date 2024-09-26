@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autentifikovat",
 	"SETTINGS_FACEBOOK_IMPORT": "Importovat",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Přihlásit se k odběru",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Jazyk uživatelského rozhraní",
 	"SETTINGS_LAUNCH_STARTUP": "Launch on start-up",
 	"SETTINGS_VLC_DEFAULT": "Play with VLC",

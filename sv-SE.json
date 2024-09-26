@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autentisera",
 	"SETTINGS_FACEBOOK_IMPORT": "Importera",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Prenumerera",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Gränssnittsspråk",
 	"SETTINGS_LAUNCH_STARTUP": "Starta vid uppstart",
 	"SETTINGS_VLC_DEFAULT": "Spela upp med VLC",

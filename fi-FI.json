@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Todenna",
 	"SETTINGS_FACEBOOK_IMPORT": "Tuo",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Tilaa",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Käyttöliittymän kieli",
 	"SETTINGS_LAUNCH_STARTUP": "Käynnistä käynnistyksen yhteydessä",
 	"SETTINGS_VLC_DEFAULT": "Toista VLC:llä",

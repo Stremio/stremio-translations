@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Провери автентичност",
 	"SETTINGS_FACEBOOK_IMPORT": "Увоз",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Претплатете се",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Јазик на интерфејс",
 	"SETTINGS_LAUNCH_STARTUP": "Вклучи при стартување",
 	"SETTINGS_VLC_DEFAULT": "Пушти со VLC",
