@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "已验证",
 	"SETTINGS_FACEBOOK_IMPORT": "导入",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "订阅",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "用户界面语言",
 	"SETTINGS_LAUNCH_STARTUP": "开机时启动",
 	"SETTINGS_VLC_DEFAULT": "使用VLC播放",

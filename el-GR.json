@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Πιστοποίηση",
 	"SETTINGS_FACEBOOK_IMPORT": "Εισαγωγή",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Εγγραφή",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Γλώσσα εφαρμογής",
 	"SETTINGS_LAUNCH_STARTUP": "Άνοιγμα κατά την εκκίνηση",
 	"SETTINGS_VLC_DEFAULT": "Αναπαραγωγή με VLC",
