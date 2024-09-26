@@ -1269,7 +1269,7 @@
 	"STREMIO_TV_LIBRARY_SORT_WATCHED": "Por visto",
 	"STREMIO_TV_LIBRARY_SORT_NOT_WATCHED": "Por no visto",
 	"STREMIO_TV_DETAILS_SEASON_NUMBER": "Temporada ${1}",
-	"STREMIO_TV_STREAMS_LOADING": "cargados ${1} / ${2} complementos...",
+	"STREMIO_TV_STREAMS_LOADING": "Cargados ${1} / ${2} complementos...",
 	"STREMIO_TV_STREAMS_STILL_LOADING": "${1} complemento continua cargando...",
 	"STREMIO_TV_PLAYER_SETTINGS": "Configuración del reproductor",
 	"STREMIO_TV_PLAYER_SUBTITLES_DELAY": "Retraso de subtítulos",
