@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "المصادقة",
 	"SETTINGS_FACEBOOK_IMPORT": "استيراد",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "اشتراك",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "لغة الواجهة",
 	"SETTINGS_LAUNCH_STARTUP": "ابدأ عند بدء التشغيل",
 	"SETTINGS_VLC_DEFAULT": "تشغيل عن طريق VLC",

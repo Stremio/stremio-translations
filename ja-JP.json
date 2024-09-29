@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "認証する",
 	"SETTINGS_FACEBOOK_IMPORT": "インポート",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "購読する",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "インターフェースの言語",
 	"SETTINGS_LAUNCH_STARTUP": "起動時に起動する",
 	"SETTINGS_VLC_DEFAULT": "VLCで再生する",

@@ -445,6 +445,8 @@
 	"SETTINGS_TRAKT_AUTHENTICATE": "Xác thực",
 	"SETTINGS_FACEBOOK_IMPORT": "Nhập vào",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Đăng ký",
+	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Calendar app was opened. Please subscribe to the calendar manually.",
+	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Calendar file was downloaded. Please import it to your calendar app.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Ngôn ngữ giao diện",
 	"SETTINGS_LAUNCH_STARTUP": "Khởi chạy khi khởi động",
 	"SETTINGS_VLC_DEFAULT": "Phát bằng VLC",
