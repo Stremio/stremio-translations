@@ -1,5 +1,5 @@
 group = "com.github.Stremio"
-version = "1.44.5"
+version = "1.44.9"
 
 plugins {
     kotlin("multiplatform")
@@ -12,10 +12,10 @@ repositories {
     mavenCentral()
 }
 
-val lyricistVersion = "1.4.1"
+val lyricistVersion = "1.7.0"
 
 kotlin {
-    android {
+    androidTarget {
         publishLibraryVariants("release")
     }
 
@@ -31,14 +31,14 @@ kotlin {
 }
 
 android {
+    namespace = "com.stremio.translations"
+    sourceSets["main"].manifest.srcFile("src/androidMain/AndroidManifest.xml")
     defaultConfig {
         minSdk = 22
-        compileSdk = 33
+        compileSdk = 34
     }
-
-    sourceSets {
-        getByName("main") {
-            manifest.srcFile("src/androidMain/AndroidManifest.xml")
-        }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 }
