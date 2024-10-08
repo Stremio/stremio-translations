@@ -1,14 +1,14 @@
 const path = require('path');
 const fs = require('fs');
 const { deduplicate } = require('./utils');
-const { 
-	escapePercentageSign, 
-	escapeQuestionMark, 
-	escapeSingleQuote, 
-	replaceAmpershandHtmlEntity, 
-	replaceElipsisHtmlEntity, 
-	replaceNbspToSpace, 
-	replaceRightDoubleAngleQuote, 
+const {
+	escapePercentageSign,
+	escapeQuestionMark,
+	escapeSingleQuote,
+	replaceAmpershandHtmlEntity,
+	replaceElipsisHtmlEntity,
+	replaceNbspToSpace,
+	replaceRightDoubleAngleQuote,
 	stripHtmlElements,
 	replaceTextVariables,
 	replaceBr
@@ -20,6 +20,7 @@ const files = fs.readdirSync(process.cwd())
 fs.mkdirSync(path.join(process.cwd(), rootPath), { recursive: true });
 
 const defaultLang = 'en-rUS';
+const duplicatedLanguages = { 'he-rIL': 'iw-rIL'}
 
 const escapeXmlString = str => {
 	str = replaceAmpershandHtmlEntity(str);
@@ -42,7 +43,6 @@ files
 		const translations = JSON.parse(fs.readFileSync(path.join(process.cwd(), file)));
 		let langFolder = 'values';
 		if (langTag !== defaultLang) langFolder += `-${langTag}`;
-		fs.mkdirSync(path.join(process.cwd(), rootPath, langFolder), { recursive: true });
 		let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 		xml += '<resources>\n';
 		const dedup = deduplicate(translations);
@@ -50,5 +50,11 @@ files
 			xml += `  <string name="${key}">${escapeXmlString(dedup[key])}</string>\n`;
 		});
 		xml += '</resources>';
+		fs.mkdirSync(path.join(process.cwd(), rootPath, langFolder), { recursive: true });
 		fs.writeFileSync(path.join(process.cwd(), rootPath, langFolder, 'strings.xml'), xml);
+		if (duplicatedLanguages[langTag]) {
+			langFolder = `values-${duplicatedLanguages[langTag]}`
+			fs.mkdirSync(path.join(process.cwd(), rootPath, langFolder), { recursive: true });
+			fs.writeFileSync(path.join(process.cwd(), rootPath, langFolder, 'strings.xml'), xml);
+		}
 	});
