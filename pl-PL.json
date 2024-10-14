@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Legacy",
 	"SETTINGS_DISABLED": "Wyłączone",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Powiadomienie o połączeniu sieciowym",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Adres URL pilota sieciowego",
 	"SETTINGS_COPY_REMOTE_URL": "Skopiuj adres URL pilota sieciowego",
 	"SETTINGS_REMOTE_URL_COPIED": "Adres URL pilota sieciowego został skopiowany do schowka",

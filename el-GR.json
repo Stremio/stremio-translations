@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Παλαιού τύπου",
 	"SETTINGS_DISABLED": "Ανενεργό",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Ειδοποίηση για σύνδεση δικτύου",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Σύνδεσμος remote",
 	"SETTINGS_COPY_REMOTE_URL": "Αντιγραφή σνδέσμου remote",
 	"SETTINGS_REMOTE_URL_COPIED": "Ο σύνδεσμος remote αντιγράφηκε στο πρόχειρό σας",

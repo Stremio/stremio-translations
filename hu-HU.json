@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Legacy",
 	"SETTINGS_DISABLED": "Tiltva",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Távoli szerver URL-je",
 	"SETTINGS_COPY_REMOTE_URL": "Távoli szerver URL másolása",
 	"SETTINGS_REMOTE_URL_COPIED": "A távoli szerver URL-jét a vágólapodra másoltuk",

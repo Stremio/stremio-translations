@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Eredità",
 	"SETTINGS_DISABLED": "Disabilitata",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notifica di connessione di rete",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "URL remoto",
 	"SETTINGS_COPY_REMOTE_URL": "Copia URL remoto",
 	"SETTINGS_REMOTE_URL_COPIED": "L'URL remoto è stato copiato negli appunti",

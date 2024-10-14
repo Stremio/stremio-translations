@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Наследяване",
 	"SETTINGS_DISABLED": "Деактивирано",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Известие за мрежова връзка",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Отдалечен URL",
 	"SETTINGS_COPY_REMOTE_URL": "Копитай отдалечения URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Отдалечения URL беше копиран в клипборда",

@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Застарело",
 	"SETTINGS_DISABLED": "Онемогућено",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Обавештење о мрежној вези",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Удаљени URL",
 	"SETTINGS_COPY_REMOTE_URL": "Копирај удаљени URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Удаљени URL је копиран у привремену меморију",

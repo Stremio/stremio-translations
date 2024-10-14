@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Legacy",
 	"SETTINGS_DISABLED": "غیرفعال",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "آدرس ریموت",
 	"SETTINGS_COPY_REMOTE_URL": "کپی آدرس ریموت",
 	"SETTINGS_REMOTE_URL_COPIED": "آدرس ریموت کپی شد!",

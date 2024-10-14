@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "レガシー",
 	"SETTINGS_DISABLED": "無効",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "リモートURL",
 	"SETTINGS_COPY_REMOTE_URL": "リモートURLをコピーする",
 	"SETTINGS_REMOTE_URL_COPIED": "リモートURLがクリップボードにコピーされました",
