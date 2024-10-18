@@ -704,7 +704,7 @@
 	"Gaming": "গেমিং",
 	"From TV": "টিভি থেকে",
 	"Lifestyle": "জীবনধারা",
-	"Science & Education": "বিজ্ঞান"
+	"Science & Education": "বিজ্ঞান",
 	"Cooking & Health": "রান্না ও স্বাস্থ্য",
 	"Beauty & Fashion": "সৌন্দর্য ও ফ্যাশন",
 	"Sports": "খেলাধুলা",
@@ -842,7 +842,7 @@
 	"ADDON_PROVIDES_STREAMS": "#{types} দেখুন",
 	"ADDON_PROVIDES_STREAMS_FREE": "বিনামূল্যে #{types} দেখুন",
 	"ADDON_PROVIDES_SUBTITLES": "#{types} এর জন্য সাবটাইটেল",
-	"ADDON_CANTDETECT": "আমরা একটি চলমান স্ট্রেমিও সনাক্ত করতে পারিনি, তাই আমরা আপনার কোন অ্যাডঅন ইনস্টল করা আছে তা সনাক্ত করতে পারিনি।"
+	"ADDON_CANTDETECT": "আমরা একটি চলমান স্ট্রেমিও সনাক্ত করতে পারিনি, তাই আমরা আপনার কোন অ্যাডঅন ইনস্টল করা আছে তা সনাক্ত করতে পারিনি।",
 
 	"ERR_NO_META": "এই সম্পর্কে কোন তথ্য পাওয়া যায়নি ",
 	"ERR_GETTING_META": "এই সম্পর্কে তথ্য সংগ্রহ করতে ত্রুটি।",
