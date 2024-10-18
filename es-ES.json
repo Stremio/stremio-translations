@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Legado",
 	"SETTINGS_DISABLED": "Disabled",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "URL remota",
 	"SETTINGS_COPY_REMOTE_URL": "Copiar URL remota",
 	"SETTINGS_REMOTE_URL_COPIED": "La URL remota fue copiada a tu portapapeles",

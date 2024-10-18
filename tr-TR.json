@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Eski",
 	"SETTINGS_DISABLED": "Etkisizleştirildi",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Ağ bağlantısı bildirimi",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Uzak URL",
 	"SETTINGS_COPY_REMOTE_URL": "Uzak URL'yi kopyala",
 	"SETTINGS_REMOTE_URL_COPIED": "Uzak URL panonuza kopyalandı",

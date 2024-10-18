@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Tương thích ngược",
 	"SETTINGS_DISABLED": "Đã tắt",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Thông báo kết nối mạng",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "URL từ xa",
 	"SETTINGS_COPY_REMOTE_URL": "Sao chép URL từ xa",
 	"SETTINGS_REMOTE_URL_COPIED": "URL từ xa đã được sao chép vào clipboard của bạn",

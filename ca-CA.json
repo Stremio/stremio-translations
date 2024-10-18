@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Heretat",
 	"SETTINGS_DISABLED": "Inhabilitat",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notificació de connexió a la xarxa",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "URL remot",
 	"SETTINGS_COPY_REMOTE_URL": "Copia l'URL remot",
 	"SETTINGS_REMOTE_URL_COPIED": "L'URL remot s'ha copiat al porta-retalls",

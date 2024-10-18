@@ -525,6 +525,7 @@
 	"SETTINGS_HW_LEGACY": "Legacy",
 	"SETTINGS_DISABLED": "Disabled",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_REMOTE_URL": "Remote URL",
 	"SETTINGS_COPY_REMOTE_URL": "Copy remote URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",

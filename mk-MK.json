@@ -529,6 +529,7 @@
 	"SETTINGS_DISABLED": "Оневозможено",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Известување за мрежна врска",
 	"SETTINGS_REMOTE_URL": "URL на далечина",
+	"SETTINGS_ANALYTICS": "Allow analytics",
 	"SETTINGS_COPY_REMOTE_URL": "Копирај далечински URL",
 	"SETTINGS_REMOTE_URL_COPIED": "URL од далечина е копирана на вашата таблата со исечоци",
 	"SETTINGS_SECTION_SUBTITLES": "Преводи",
