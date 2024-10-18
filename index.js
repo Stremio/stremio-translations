@@ -44,7 +44,8 @@ var languages = [
 	"vi-VN",
 	"zh-CN",
 	"zh-HK",
-	"zh-TW"
+	"zh-TW",
+	"bn-BD",
 ];
 
 module.exports = function () {
@@ -91,7 +92,8 @@ module.exports = function () {
 		"vi-VN": require("./vi-VN.json"),
 		"zh-CN": require("./zh-CN.json"),
 		"zh-HK": require("./zh-HK.json"),
-		"zh-TW": require("./zh-TW.json")
+		"zh-TW": require("./zh-TW.json"),
+		"bn-BD": require("./bn-BD.json"),
 	};
 };
 

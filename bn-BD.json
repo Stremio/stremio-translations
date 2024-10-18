@@ -219,7 +219,7 @@
 "SUBTITLES": "সাবটাইটেল",
 	"SUBTITLES_CHANGE": "সাবটাইটেল পরিবর্তন করুন",
 	"SUBTITLES_CHANGE_NONE": "দুঃখিত, এই ভাষায় অন্য কোনো সাবটাইটেল নেই।",
-	"SUBTITLES_CHANGE_ACIVE": "বর্তমানে সাবটাইটেল #{{subtitlesDialog.activeIdx + 1}} সক্রিয় আছে। সাবটাইটেল #{{subtitlesDialog.pickedIdx + 1}} সক্রিয় করতে "চালিয়ে যান" ক্লিক করুন।",
+	"SUBTITLES_CHANGE_ACIVE": "বর্তমানে সাবটাইটেল #{{subtitlesDialog.activeIdx + 1}} সক্রিয় আছে। সাবটাইটেল #{{subtitlesDialog.pickedIdx + 1}} সক্রিয় করতে 'চালিয়ে যান' ক্লিক করুন।",
 	"SUBTITLES_OR": "বিকল্পভাবে,",
 	"SUBTITLES_ADJUST_DELAY": "সাবটাইটেল বিলম্ব সামঞ্জস্য করুন:",
 	"SUBTITLES_ADJUST_DELAY_SHORTCUT": "অথবা চালানোর সময় সামঞ্জস্য করতে <span>G</span> / <span>H</span> কী ব্যবহার করুন।",
