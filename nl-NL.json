@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Vensterformaat automatisch aanpassen bij afspelen",
 	"SETTINGS_OVERRIDE_SERVER": "streaming server-URL overschrijven (geavanceerd)",
 	"SETTINGS_SERVER_URL": "streaming server-URL: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "streaming server is beschikbaar.",
 	"SETTINGS_SERVER_UNAVAILABLE": "streaming server is niet beschikbaar.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "Online",

@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Автоматично преоразмеряване на прозореца преди пускане",
 	"SETTINGS_OVERRIDE_SERVER": "Заобикаляне на URL на сървъра за поточно предаване (разширено)",
 	"SETTINGS_SERVER_URL": "URL на сървър за поточно предаване: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "Сървъра за поточно предаване е достъпен.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Сървъра за поточно предаване не е достъпен.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "Онлайн",

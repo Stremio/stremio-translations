@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Größe des Fensters vor der Wiedergabe automatisch ändern",
 	"SETTINGS_OVERRIDE_SERVER": "Override the streaming server URL (advanced)",
 	"SETTINGS_SERVER_URL": "Streaming server URL: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "Streaming-Server ist verfügbar.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Streaming-Server ist nichtverfügbar.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "Online",

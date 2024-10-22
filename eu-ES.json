@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Aldatu automatikoki leihoa erreproduzitu aurretik",
 	"SETTINGS_OVERRIDE_SERVER": "Gainidatzi streaming zerbitzariaren URLa (aurreratua)",
 	"SETTINGS_SERVER_URL": "Streaming zerbitzariaren URLa:",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "Streaming zerbitzaria eskuragarri dago.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Streaming zerbitzaria ez dago erabilgarri.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "Online",
