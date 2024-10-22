@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Muuta ikkunan kokoa automaattisesti ennen toistoa",
 	"SETTINGS_OVERRIDE_SERVER": "Ohita suoratoistopalvelimen URL-osoite (edistynyt)",
 	"SETTINGS_SERVER_URL": "Suoratoistopalvelimen URL-osoite: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "Suoratoistopalvelin on käytettävissä.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Suoratoistopalvelin ei ole käytettävissä.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "Online",

@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "Redimensionnement automatique la fenêtre avant la lecture",
 	"SETTINGS_OVERRIDE_SERVER": "Remplacer l'URL du serveur de streaming (avancé)",
 	"SETTINGS_SERVER_URL": "URL du serveur de streaming: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "Le serveur de streaming est disponible.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Le serveur de streaming n'est pas disponible.",
 	"SETTINGS_SERVER_STATUS_ONLINE": "En ligne",

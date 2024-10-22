@@ -473,6 +473,7 @@
 	"SETTINGS_RESIZE": "再生前にウィンドウのサイズを自動調整する",
 	"SETTINGS_OVERRIDE_SERVER": "ストリーミングサーバーのURLを上書き(上級者向け)",
 	"SETTINGS_SERVER_URL": "ストリーミングサーバーのURL: ",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_AVAILABLE": "ストリーミングサーバーは利用可能です。",
 	"SETTINGS_SERVER_UNAVAILABLE": "ストリーミングサーバーは利用できません。",
 	"SETTINGS_SERVER_STATUS_ONLINE": "オンライン",
