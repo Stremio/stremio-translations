@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Воспроизвести во внешнем плеере",
 	"SETTINGS_RESIZE": "Автоизменение размера окна перед вопроизведением",
 	"SETTINGS_OVERRIDE_SERVER": "Переопределить URL-адрес сервера стриминга (дополнительно)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "URL-адрес стримингового сервера: ",
 	"SETTINGS_SERVER_AVAILABLE": "Стриминговый сервер доступен.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Стриминговый сервер недоступен.",

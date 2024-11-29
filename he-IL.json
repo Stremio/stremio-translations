@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "נגן בנגן חיצוני",
 	"SETTINGS_RESIZE": "שינוי גודל אוטומטי של החלון לפני תחילת ניגון",
 	"SETTINGS_OVERRIDE_SERVER": "עקוף את כתובת שרת ההזרמה (מתקדם)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "כתובת שרת הזרמה: ",
 	"SETTINGS_SERVER_AVAILABLE": "שרת הזרמה זמין.",
 	"SETTINGS_SERVER_UNAVAILABLE": "שרת הזרמה אינו זמין.",

@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Reprodueix en un reproductor extern",
 	"SETTINGS_RESIZE": "Canvia la mida de la finestra abans de reproduir",
 	"SETTINGS_OVERRIDE_SERVER": "Substitueix l'URL del servidor de transmissió (avançat)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "URL del servidor de transmissió: ",
 	"SETTINGS_SERVER_AVAILABLE": "El servidor de transmissió està disponible.",
 	"SETTINGS_SERVER_UNAVAILABLE": "El servidor de transmissió no està disponible.",

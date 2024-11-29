@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Play in external player",
 	"SETTINGS_RESIZE": "Auto-resize window before playing",
 	"SETTINGS_OVERRIDE_SERVER": "Override the streaming server URL (advanced)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "Streaming server URL: ",
 	"SETTINGS_SERVER_AVAILABLE": "Streaming server is available.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Streaming server is not available.",

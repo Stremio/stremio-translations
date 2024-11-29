@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Riproduci su un player esterno",
 	"SETTINGS_RESIZE": "Ridimensiona automaticamente la finestra prima di riprodurre",
 	"SETTINGS_OVERRIDE_SERVER": "Sovrascrivi l'URL del server di streaming (avvanzato)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "URL server di streaming: ",
 	"SETTINGS_SERVER_AVAILABLE": "Server di streaming disponibile.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Server di streaming non disponibile.",

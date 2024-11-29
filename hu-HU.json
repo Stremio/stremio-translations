@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Lejátszás külső lejátszóban",
 	"SETTINGS_RESIZE": "Az ablak automatikus átméretezése lejátszás előtt",
 	"SETTINGS_OVERRIDE_SERVER": "A streaming szerver URL-jének felülírása (speciális)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "Streaming szerver URL-je: ",
 	"SETTINGS_SERVER_AVAILABLE": "Streaming szerver elérhető.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Streaming szerver nem érhető el.",
