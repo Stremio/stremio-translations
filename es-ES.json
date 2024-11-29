@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Reproducir en un reproductor externo",
 	"SETTINGS_RESIZE": "Ajustar ventana automáticamente antes de reproducir",
 	"SETTINGS_OVERRIDE_SERVER": "Anular la URL del servidor de transmisión (avanzado)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "URL del servidor de transmisión ",
 	"SETTINGS_SERVER_AVAILABLE": "El servidor de transmisión está disponible.",
 	"SETTINGS_SERVER_UNAVAILABLE": "El servidor de transmisión no está disponible.",

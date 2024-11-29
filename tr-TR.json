@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Harici oynatıcıda oynat",
 	"SETTINGS_RESIZE": "Oynatmadan önce pencereyi otomatik yeniden boyutlandır",
 	"SETTINGS_OVERRIDE_SERVER": "Yayın akış sunucusu URL'sini geçersiz kıl (gelişmiş)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "Yayın akış sunucusu URL'si: ",
 	"SETTINGS_SERVER_AVAILABLE": "Yayın akış sunucusu kullanılabilir.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Yayın akış sunucusu kullanılabilir değil.",

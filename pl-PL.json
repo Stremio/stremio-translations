@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Odtwórz w zewnętrznym odtwarzaczu",
 	"SETTINGS_RESIZE": "Automatycznie zmień rozmiar okna przed rozpoczęciem odtwarzania",
 	"SETTINGS_OVERRIDE_SERVER": "Nadpisz adres URL serwera streamingowego (zaawansowane)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "Adres URL serwera streamingowego: ",
 	"SETTINGS_SERVER_AVAILABLE": "Serwer streamingowy jest dostępny.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Serwer streamingowy jest niedostępny.",

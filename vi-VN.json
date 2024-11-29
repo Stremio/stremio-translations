@@ -472,6 +472,7 @@
 	"SETTINGS_PLAY_IN_EXTERNAL_PLAYER": "Phát trong trình phát ngoài",
 	"SETTINGS_RESIZE": "Tự động thay đổi kích thước cửa sổ trước khi phát",
 	"SETTINGS_OVERRIDE_SERVER": "Ghi đè URL máy chủ truyền trực tuyến (nâng cao)",
+	"SETTINGS_SERVER_ADD_URL": "Add URL",
 	"SETTINGS_SERVER_URL": "URL máy chủ truyền trực tuyến: ",
 	"SETTINGS_SERVER_AVAILABLE": "Máy chủ truyền trực tuyến khả dụng.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Máy chủ truyền trực tuyến không khả dụng.",
