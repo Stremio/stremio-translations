@@ -46,6 +46,7 @@ var languages = [
 	"zh-HK",
 	"zh-TW",
 	"bn-BD",
+	"et-EE"
 ];
 
 module.exports = function () {
@@ -94,6 +95,7 @@ module.exports = function () {
 		"zh-HK": require("./zh-HK.json"),
 		"zh-TW": require("./zh-TW.json"),
 		"bn-BD": require("./bn-BD.json"),
+		"et-EE": require("./et-EE.json"),
 	};
 };
 
