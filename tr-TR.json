@@ -421,6 +421,7 @@
 	"SETTINGS_SHORTCUT_MENU_PLAYBACK_SPEED": "Oynatma Hızı Menüsünü Aç/Kapat",
 	"SETTINGS_SHORTCUT_MENU_VIDEOS": "Görüntü Menüsünü Aç/Kapat",
 	"SETTINGS_SHORTCUT_MENU_SUBTITLES": "Altyazı Menüsünü Aç/Kapat",
+	"SETTINGS_SHORTCUT_MENU_AUDIO": "Toggle Audio Menu",
 	"SETTINGS_SHORTCUT_MENU_INFO": "Bilgi Menüsünü Aç/Kapat",
 	"SETTINGS_SHORTCUT_FULLSCREEN": "Tam Ekranı Aç/Kapat",
 	"SETTINGS_SHORTCUT_SHOW_CONTROLS": "Denetimleri Göster",
