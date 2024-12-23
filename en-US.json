@@ -1184,6 +1184,7 @@
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_LG_TV": "We released Stremio for LG TV",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
+	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
 
 	"WEBSITE_CONTRIBUTE": "Contribute",
 	"WEBSITE_CONTRIBUTE_P1": "The Stremio platform is open source and you can easily create an addon for content that is currently not sourced.",
