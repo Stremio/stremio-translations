@@ -45,7 +45,7 @@ Thank you!
 | tr-TR   | Turkish              | [@ali-demirtas](https://github.com/ali-demirtas), [@rozehan](https://github.com/rozehan) and [@orkunnnn](https://github.com/orkunnnn)
 | uk-UA   | Ukrainian            | [@landiadeto](https://github.com/landiadeto)
 | zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)    
-| ar-AR   | Arabic               | [@firassziedan](https://github.com/firassziedan) and [@dexter21767](https://github.com/dexter21767)
+| ar-AR   | Arabic               | [@nalabdou](https://github.com/nalabdou), [@firassziedan](https://github.com/firassziedan) and [@dexter21767](https://github.com/dexter21767)
 | sl-SL   | Slovenian            | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
 | ne-NP   | Nepali               | [@kooolarpan](https://github.com/kooolarpan)
 
