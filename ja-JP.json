@@ -1061,6 +1061,7 @@
 	"WEBSITE_DOWNLOADS_FOR_VISION_PRO": "Vision Pro用のStremio",
 	"WEBSITE_DOWNLOADS_FOR_XBOX": "Xbox用Stremio",
 	"WEBSITE_DOWNLOADS_FOR_RPI": "Raspberry Pi用Stremio",
+	"WEBSITE_DOWNLOADS_LAUNCH_ON_BOOT": "Stremio Launch on Boot App",
 	"WEBSITE_DOWNLOADS_FOR_BROWSER": "ブラウザ用Stremio",
 	"WEBSITE_DOWNLOADS_STREMIO_OS": "Stremio OS",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SAMSUNG": "2019年以降のSamsung TVモデルのApp StoreでStremioを検索",

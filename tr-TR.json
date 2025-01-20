@@ -1061,6 +1061,7 @@
 	"WEBSITE_DOWNLOADS_FOR_VISION_PRO": "Vision Pro için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_XBOX": "Xbox için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_RPI": "Raspberry Pi için Stremio",
+	"WEBSITE_DOWNLOADS_LAUNCH_ON_BOOT": "Stremio Launch on Boot App",
 	"WEBSITE_DOWNLOADS_FOR_BROWSER": "Tarayıcı için Stremio",
 	"WEBSITE_DOWNLOADS_STREMIO_OS": "Stremio OS",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SAMSUNG": "2019+ Samsung TV modellerinin Uygulama Mağazasında Stremio’yu arayın",
