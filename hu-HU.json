@@ -1061,6 +1061,7 @@
 	"WEBSITE_DOWNLOADS_FOR_VISION_PRO": "Stremio for Vision Pro",
 	"WEBSITE_DOWNLOADS_FOR_XBOX": "Stremio Xbox-on",
 	"WEBSITE_DOWNLOADS_FOR_RPI": "Stremio Raspberry Pi-n",
+	"WEBSITE_DOWNLOADS_LAUNCH_ON_BOOT": "Launch on boot",
 	"WEBSITE_DOWNLOADS_FOR_BROWSER": "Stremio a böngészőben",
 	"WEBSITE_DOWNLOADS_STREMIO_OS": "Stremio OS",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SAMSUNG": "Keresd a Stremio alkalmazást a 2019 óta megjelent Samsung TV-ken.",
