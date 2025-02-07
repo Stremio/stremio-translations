@@ -271,6 +271,8 @@
 	"MANUAL_UPDATE_LINE2": "Por favor, actualice lo antes posible.",
 	"BUTTON_UPDATE_LATTER": "Ahora no",
 	"BUTTON_UPDATE_NOW": "Actualizar",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Usuario anónimo",
 	"DONT_HAVE_ACC": "¿No tienes una cuenta?",
 	"HAVE_ACC": "¿Ya tiene una cuenta?",

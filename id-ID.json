@@ -271,6 +271,8 @@
 	"MANUAL_UPDATE_LINE2": "Mohon perbarui secepatnya.",
 	"BUTTON_UPDATE_LATTER": "Tidak sekarang",
 	"BUTTON_UPDATE_NOW": "Perbarui",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Pengguna anonim",
 	"DONT_HAVE_ACC": "Tidak punya akun?",
 	"HAVE_ACC": "Sudah punya akun?",

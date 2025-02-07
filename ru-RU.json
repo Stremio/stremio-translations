@@ -271,6 +271,8 @@
 	"MANUAL_UPDATE_LINE2": "Пожалуйста, обновите как только получится.",
 	"BUTTON_UPDATE_LATTER": "Не сейчас",
 	"BUTTON_UPDATE_NOW": "Обновить",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Анонимный пользователь",
 	"DONT_HAVE_ACC": "Нет аккаунта?",
 	"HAVE_ACC": "Уже есть аккаунт?",

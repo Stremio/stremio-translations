@@ -271,6 +271,8 @@
 	"MANUAL_UPDATE_LINE2": "Prosíme o co nejrychlejší aktualizaci.",
 	"BUTTON_UPDATE_LATTER": "Nyní ne",
 	"BUTTON_UPDATE_NOW": "Aktualizovat",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Anonymní uživatel",
 	"DONT_HAVE_ACC": "Nemáte účet?",
 	"HAVE_ACC": "Již máte účet?",

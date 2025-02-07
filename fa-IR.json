@@ -271,6 +271,8 @@
 	"MANUAL_UPDATE_LINE2": "لطفا در اسرع وقت به روز رسانی کنید.",
 	"BUTTON_UPDATE_LATTER": "الان نه",
 	"BUTTON_UPDATE_NOW": "به روز رسانی",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "کاربر ناشناس",
 	"DONT_HAVE_ACC": "حساب کاربری ندارید؟",
 	"HAVE_ACC": "از قبل حساب کاربری دارید؟",
