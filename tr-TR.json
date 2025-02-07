@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Lütfen en kısa sürede güncelleyin.",
 	"BUTTON_UPDATE_LATTER": "Şimdi değil",
 	"BUTTON_UPDATE_NOW": "Güncelle",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "İsimsiz kullanıcı",
 	"DONT_HAVE_ACC": "Bir hesabınız yok mu?",
 	"HAVE_ACC": "Zaten bir hesabınız var mı?",

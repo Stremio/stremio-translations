@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "최대한 빨리 갱신해 주세요.",
 	"BUTTON_UPDATE_LATTER": "지금은 안됩니다.",
 	"BUTTON_UPDATE_NOW": "업데이트",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "익명 사용자",
 	"DONT_HAVE_ACC": "계정이 없으신가요?",
 	"HAVE_ACC": "이미 계정을 가지고 계십니까?",

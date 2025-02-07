@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Моля обновете колкото се може по-скоро.",
 	"BUTTON_UPDATE_LATTER": "По-късно",
 	"BUTTON_UPDATE_NOW": "Обнови сега",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Анонимен потребител",
 	"DONT_HAVE_ACC": "Нямате акаунт?",
 	"HAVE_ACC": "Вече имате акаунт?",

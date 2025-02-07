@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Päivitä mahdollisimman pian.",
 	"BUTTON_UPDATE_LATTER": "Ei nyt",
 	"BUTTON_UPDATE_NOW": "Päivitä",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Anonyymi käyttäjä",
 	"DONT_HAVE_ACC": "Ei tiliä?",
 	"HAVE_ACC": "Onko sinulla jo tili?",

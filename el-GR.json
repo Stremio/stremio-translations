@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Παρακαλώ κάντε ενημέρωση το συντομότερο δυνατόν.",
 	"BUTTON_UPDATE_LATTER": "Όχι τώρα",
 	"BUTTON_UPDATE_NOW": "Ενημέρωση τώρα",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Ανώνυμος χρήστης",
 	"DONT_HAVE_ACC": "Δεν έχετε λογαριασμό;",
 	"HAVE_ACC": "Έχετε ήδη λογαριασμό;",

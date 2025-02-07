@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Mesedez, eguneratu lehenbailehen.",
 	"BUTTON_UPDATE_LATTER": "Orain ez",
 	"BUTTON_UPDATE_NOW": "Eguneratu",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Erabiltzaile anonimoa",
 	"DONT_HAVE_ACC": "Ez duzu konturik?",
 	"HAVE_ACC": "Baduzu kontua?",

@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "يرجى تحديث البرنامج في اقرب وقت ممكن.",
 	"BUTTON_UPDATE_LATTER": "ليس الأن",
 	"BUTTON_UPDATE_NOW": "تحديث الأن",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "مستخدم مجهول",
 	"DONT_HAVE_ACC": "ليس لديك حساب؟",
 	"HAVE_ACC": "هل لديك حساب؟",

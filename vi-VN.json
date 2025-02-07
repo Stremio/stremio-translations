@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Vui lòng cập nhật càng sớm càng tốt.",
 	"BUTTON_UPDATE_LATTER": "Không phải bây giờ",
 	"BUTTON_UPDATE_NOW": "Cập nhật",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Người dùng ẩn danh",
 	"DONT_HAVE_ACC": "Chưa có tài khoản?",
 	"HAVE_ACC": "Sẵn sàng để tạo một tài khoản?",

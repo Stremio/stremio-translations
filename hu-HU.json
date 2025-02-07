@@ -272,6 +272,8 @@
 	"MANUAL_UPDATE_LINE2": "Kérjük minél hamarabb frissíts",
 	"BUTTON_UPDATE_LATTER": "Ne most",
 	"BUTTON_UPDATE_NOW": "Frissítés",
+	"UPDATER_TITLE": "A new version of Stremio is available",
+	"UPDATER_INSTALL_BUTTON": "Install now",
 	"ANONYMOUS_USER": "Névtelen felhasználó",
 	"DONT_HAVE_ACC": "Nincs fiókod?",
 	"HAVE_ACC": "Van már fiókod?",
