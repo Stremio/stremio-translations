@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Stremio/stremio-translations",
   "devDependencies": {
-    "tape": "^4.2.2"
+    "tape": "^5.9.0"
   }
 }
