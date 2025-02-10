@@ -1055,6 +1055,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Stremio لأجهزة الأندرويد",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Stremio لجهاز ستيم ديك",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "Stremio لأجهزة الأيفون (نسخة محدودة)",
+	"WEBSITE_DOWNLOADS_LAUNCH_ON_BOOT": "Stremio Launch on Boot App",
 	"WEBSITE_DOWNLOADS_FOR_SAMSUNG_TV": "Stremio لـ Samsung TV",
 	"WEBSITE_DOWNLOADS_FOR_LG_TV": "Stremio لـ LG TV",
 	"WEBSITE_DOWNLOADS_FOR_SONY_TV_ANDROID": "Stremio لـ Sony TV (Android)",
