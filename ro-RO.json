@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Termeni și condiții",
 	"SETTINGS_SUPPORT": "Contactați suportul tehnic",
 	"SETTING_LANGUAGE": "Limbă",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Scrobbling Trakt",
 	"SETTINGS_TRAKT_LOGOUT": "Deautentificare din Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Deautentificare din Trakt",

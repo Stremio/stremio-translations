@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Podmínky služby",
 	"SETTINGS_SUPPORT": "Kontaktovat podporu",
 	"SETTING_LANGUAGE": "Jazyk",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Odhlášení z Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Odhlášení z Trakt",

@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Términos de servicio",
 	"SETTINGS_SUPPORT": "Soporte",
 	"SETTING_LANGUAGE": "Idioma",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Seguimiento con Trakt",
 	"SETTINGS_TRAKT_LOGOUT": "Salir de Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Salir de Trakt",

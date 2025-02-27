@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Servicevilkår",
 	"SETTINGS_SUPPORT": "Kontakt support",
 	"SETTING_LANGUAGE": "Sprog",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Log Out of Trakt",

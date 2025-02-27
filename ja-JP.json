@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "利用規約",
 	"SETTINGS_SUPPORT": "サポートに連絡",
 	"SETTING_LANGUAGE": "言語",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tvからログアウト",
 	"SETTINGS_TRAKT_LOGOUT_2": "Traktからログアウト",

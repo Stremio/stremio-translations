@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "شرایط استفاده از خدمات",
 	"SETTINGS_SUPPORT": "با پشتیبانی تماس بگیرید",
 	"SETTING_LANGUAGE": "زبان",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "خروج از Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "خروج از Trakt",

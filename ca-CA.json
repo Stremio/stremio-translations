@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Termes del servei",
 	"SETTINGS_SUPPORT": "Contactar suport",
 	"SETTING_LANGUAGE": "Llenguatge",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Tanca la sessió de Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Tanca la sessió de Trakt",
