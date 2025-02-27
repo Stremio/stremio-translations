@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Условия использования",
 	"SETTINGS_SUPPORT": "Связаться с поддержкой",
 	"SETTING_LANGUAGE": "Язык",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Выйти из Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Выйти из Trakt",

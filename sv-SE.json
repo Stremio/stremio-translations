@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Användarvillkor",
 	"SETTINGS_SUPPORT": "Kontakta supporten",
 	"SETTING_LANGUAGE": "Språk",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt-skrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Logga ut från Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Logga ut från Trakt",

@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Услови коришћења",
 	"SETTINGS_SUPPORT": "Контактирај подршку",
 	"SETTING_LANGUAGE": "Језик",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt скробовање",
 	"SETTINGS_TRAKT_LOGOUT": "Одјави се са Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Одјави се са Trakt-а",

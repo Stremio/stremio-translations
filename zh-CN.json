@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "服务条款",
 	"SETTINGS_SUPPORT": "联系支持人员",
 	"SETTING_LANGUAGE": "语言",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt自动跟踪",
 	"SETTINGS_TRAKT_LOGOUT": "从Trakt.tv注销",
 	"SETTINGS_TRAKT_LOGOUT_2": "从Trakt注销",

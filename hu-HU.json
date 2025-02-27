@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Általános Szerződési Feltételek",
 	"SETTINGS_SUPPORT": "Kapcsolat felvétele",
 	"SETTING_LANGUAGE": "Nyelv",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Megtekintési szokások megosztása a Trakt-tal",
 	"SETTINGS_TRAKT_LOGOUT": "Jelentkezzen ki a Trakt.tv-ből",
 	"SETTINGS_TRAKT_LOGOUT_2": "Jelentkezzen ki a Traktból",

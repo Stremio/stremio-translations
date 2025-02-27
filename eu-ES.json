@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Zerbitzu-baldintzak",
 	"SETTINGS_SUPPORT": "Jarri harremanetan laguntza zerbitzuarekin",
 	"SETTING_LANGUAGE": "Hizkuntza",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Amaitu saioa Trakt.tv-tik",
 	"SETTINGS_TRAKT_LOGOUT_2": "Amaitu saioa Trakt-tik",

@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Nutzungsbedingungen",
 	"SETTINGS_SUPPORT": "Kundendienst kontaktieren",
 	"SETTING_LANGUAGE": "Sprache",
+	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Von Trakt.tv abmelden",
 	"SETTINGS_TRAKT_LOGOUT_2": "Von Trakt abmelden",
