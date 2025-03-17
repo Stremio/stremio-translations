@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Algemene voorwaarden",
 	"SETTINGS_SUPPORT": "Contact opnemen met ondersteuning",
 	"SETTING_LANGUAGE": "Taal",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Uitloggen van Trakt.tv",

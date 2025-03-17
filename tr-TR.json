@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Kullanım şartları",
 	"SETTINGS_SUPPORT": "Destekle iletişime geç",
 	"SETTING_LANGUAGE": "Dil",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Skroblama",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv oturumunu kapat",

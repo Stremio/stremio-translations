@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Услови коришћења",
 	"SETTINGS_SUPPORT": "Контактирај подршку",
 	"SETTING_LANGUAGE": "Језик",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt скробовање",
 	"SETTINGS_TRAKT_LOGOUT": "Одјави се са Trakt.tv",

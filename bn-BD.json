@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "সেবার শর্তাবলী",
 	"SETTINGS_SUPPORT": "সমর্থন পরিষেবার সাথে যোগাযোগ করুন",
 	"SETTING_LANGUAGE": "ভাষা",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt স্ক্রব্লিং",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv থেকে লগআউট করুন",

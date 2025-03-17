@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "服務條款",
 	"SETTINGS_SUPPORT": "聯繫支持人員",
 	"SETTING_LANGUAGE": "語言",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt自動跟蹤",
 	"SETTINGS_TRAKT_LOGOUT": "從Trakt.tv註銷",
