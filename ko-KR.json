@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "서비스 약관",
 	"SETTINGS_SUPPORT": "지원 문의",
 	"SETTING_LANGUAGE": "언어",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv에서 로그아웃",

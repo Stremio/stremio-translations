@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Terms of service",
 	"SETTINGS_SUPPORT": "Contact support",
 	"SETTING_LANGUAGE": "Bahasa",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_LOGOUT": "Log out of Trakt.tv",

@@ -503,6 +503,7 @@
 	"SETTINGS_TOS": "Умови використання",
 	"SETTINGS_SUPPORT": "Зв'яжіться зі службою підтримки",
 	"SETTING_LANGUAGE": "Мова",
+	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Скроблінг Trakt",
 	"SETTINGS_TRAKT_LOGOUT": "Вийти із Trakt.tv",
