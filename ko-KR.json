@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv에서 로그아웃",
 	"SETTINGS_TRAKT_LOGOUT_2": "Trakt에서 로그아웃",
 	"SETTINGS_SCAN_FOR_REMOTE": "QR코드를 스캔하여 리모트로 엽니다.",

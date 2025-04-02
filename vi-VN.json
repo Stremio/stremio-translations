@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Thống kê",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Đăng xuất khỏi Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Đăng xuất khỏi Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Quét mã QR để mở điều khiển từ xa",

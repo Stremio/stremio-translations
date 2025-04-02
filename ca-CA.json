@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Tanca la sessió de Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Tanca la sessió de Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Escaneja el codi QR per obrir el comandament a distància",
