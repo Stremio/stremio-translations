@@ -38,6 +38,7 @@ function writeDataClass() {
   stringClass += 'interface Strings{\n';
   const dedup = deduplicate(defaultTranslation);
   Object.keys(dedup).forEach(key => stringClass += `  val ${key}: String\n`);
+  stringClass += '  val entries: Map<String, String>\n';
   stringClass += '}';
   fs.writeFileSync(path.join(process.cwd(), rootPath, 'Strings.kt'), stringClass);
 }
@@ -74,6 +75,11 @@ function writeStrings() {
         const value = escape(dedup[key]);
         stringClass += `  override val ${key} = "${value}"\n`;
       });
+      stringClass += '  override val entries = mapOf(\n';
+      Object.entries(dedup).forEach(([key, value]) => {
+        stringClass += `    Pair("${key}", "${escape(value)}"),\n`;
+      });
+      stringClass += '  )\n';
       stringClass += '}\n\n';
       stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
       stringClass += `val ${langClassName} = ${langClassName}Class()`;
