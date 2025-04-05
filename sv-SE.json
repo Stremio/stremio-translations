@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Avsluta vid stängning",
 	"SETTINGS_TRAKT": "Trakt-skrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Logga ut från Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Logga ut från Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Skanna QR-koden för att öppna fjärrkontrollen",

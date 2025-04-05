@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Αυτόματη παρακολούθηση Trakt",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Αποσύνδεση από Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Αποσύνδεση από Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Σαρώστε τον κωδικό QR για να ανοίξετε το τηλεχειριστήριο",

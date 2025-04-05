@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt স্ক্রব্লিং",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv থেকে লগআউট করুন",
 	"SETTINGS_TRAKT_LOGOUT_2": "Trakt থেকে লগ আউট করুন",
 	"SETTINGS_SCAN_FOR_REMOTE": "রিমোট খুলতে QR কোড স্ক্যান করুন",

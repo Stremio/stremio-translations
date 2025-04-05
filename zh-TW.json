@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt自動跟蹤",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "從Trakt.tv登出",
 	"SETTINGS_TRAKT_LOGOUT_2": "從Trakt登出",
 	"SETTINGS_SCAN_FOR_REMOTE": "掃描二維碼開啟遙控器",

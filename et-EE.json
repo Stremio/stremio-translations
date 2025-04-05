@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt jälgimine",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Logi välja Trakt.tv-st",
 	"SETTINGS_TRAKT_LOGOUT_2": "Logi välja Trakt-st",
 	"SETTINGS_SCAN_FOR_REMOTE": "Skaneeri QR-kood kaugjuhtimise avamiseks",
