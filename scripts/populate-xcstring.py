@@ -26,7 +26,9 @@ def generate_xcode_strings(input_path, output_path, lang_code, lang_path, en_us_
     # Process strings that already exist in the input Xcode strings
     for key in input_xcstrings.get("strings", {}):
         lang_value = lang_data.get(key)
-        en_value = en_data.get(key) if en_data else None  # Get English value if en_us.json exists
+        en_value = (
+            en_data.get(key) if en_data else None
+        )  # Get English value if en_us.json exists
 
         # Skip keys with no translation in the target language
         if not lang_value:
@@ -46,10 +48,7 @@ def generate_xcode_strings(input_path, output_path, lang_code, lang_path, en_us_
 
         # Add or update the target language localization
         xcode_format["strings"][key]["localizations"][lang_code] = {
-            "stringUnit": {
-                "state": "translated",
-                "value": lang_value
-            }
+            "stringUnit": {"state": "translated", "value": lang_value}
         }
 
     # Write the updated Xcode strings file to the output path
@@ -60,7 +59,9 @@ def generate_xcode_strings(input_path, output_path, lang_code, lang_path, en_us_
 if __name__ == "__main__":
     # Validate arguments
     if len(sys.argv) != 6:
-        print("Usage: script.py <input_path> <output_path> <language_code> <lang_path> <en_us_path>")
+        print(
+            "Usage: script.py <input_path> <output_path> <language_code> <lang_path> <en_us_path>"
+        )
         sys.exit(1)
 
     input_path = sys.argv[1]
@@ -76,5 +77,7 @@ if __name__ == "__main__":
             sys.exit(1)
 
     # Generate Xcode strings
-    generate_xcode_strings(input_path, output_path, language_code, lang_json_path, en_us_json_path)
+    generate_xcode_strings(
+        input_path, output_path, language_code, lang_json_path, en_us_json_path
+    )
     print(f"Updated Xcode strings file generated at: {output_path}")

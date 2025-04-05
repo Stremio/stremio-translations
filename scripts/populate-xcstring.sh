@@ -8,7 +8,7 @@ fi
 # Assign the first two arguments to variables for the xcstrings paths
 XCSTRINGS_PATH_1=$1 # Input file
 XCSTRINGS_PATH_2=$2 # Output file
-EN_JSON_PATH=$3  # Leave this part as "" in argument to write strings without checking if its localized or not(for compile only)
+EN_JSON_PATH=$3     # Leave this part as "" in argument to write strings without checking if its localized or not(for compile only)
 
 LANG_JSON_PAIRS=(
   "en ../en-US.json ''"
@@ -59,8 +59,7 @@ LANG_JSON_PAIRS=(
 )
 
 # Loop through the array and run the Python script
-for lang_json_pair in "${LANG_JSON_PAIRS[@]}"
-do
+for lang_json_pair in "${LANG_JSON_PAIRS[@]}"; do
   # Split the pair into language and JSON files
   lang=$(echo $lang_json_pair | cut -d ' ' -f 1)
   json_files=$(echo $lang_json_pair | cut -d ' ' -f 2-)
