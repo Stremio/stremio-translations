@@ -1,30 +1,89 @@
 #!/usr/bin/env node
 
-var path = require("path");
-var fs = require("fs");
+const path = require("path");
+const fs = require("fs");
 
-var en = require("../en-US");
+// Configuration
+const MISSING_PREFIX = "MISSING_TRANSLATION ";
 
-//if (p.match("en-US")) return;
+// Read and parse source language file (en-US)
+const enPath = path.resolve(process.cwd(), "en-US.json");
+const enContent = fs.readFileSync(enPath, "utf8");
+const enLines = enContent.split(/\r?\n/);
+const en = JSON.parse(enContent);
 
-var p = path.resolve(process.cwd(), process.argv[2]);
-console.log("adding missing props to " + p);
-var other = require(p);
-
-var rewritten = {};
-
-var missing = 0;
-Object.keys(en).forEach(function (key) {
-  if (!other.hasOwnProperty(key)) missing++;
-  rewritten[key] = other[key] || en[key];
+// Get ordered keys from original file
+const enKeys = [];
+enLines.forEach((line) => {
+  const keyMatch = line.match(/^\s*"([^"]+)"\s*:/);
+  if (keyMatch) enKeys.push(keyMatch[1]);
 });
 
-console.log(missing + " missing properties");
-console.log("re-writing to " + p);
+// Read and parse target language file
+const targetPath = path.resolve(process.cwd(), process.argv[2]);
+console.log(`Syncing translations for ${targetPath}`);
+const targetContent = fs.existsSync(targetPath)
+  ? fs.readFileSync(targetPath, "utf8")
+  : "{}";
+const target = JSON.parse(targetContent);
 
-if (!missing) return console.log("no missing properties, exiting");
+// Process lines
+let missingCount = 0;
+const outputLines = [];
+let lastKeyIndex = -1;
 
-fs.writeFile(p, JSON.stringify(rewritten, null, "\t"), function (err) {
-  console.log(err || "successfully re-written file");
-  process.exit(err ? 1 : 0);
+enLines.forEach((line) => {
+  const trimmed = line.trim();
+
+  // Preserve empty lines and structural elements
+  if (trimmed === "" || trimmed === "{" || trimmed === "}") {
+    outputLines.push(line);
+    return;
+  }
+
+  // Process key-value lines
+  const keyMatch = line.match(/^(\s*)"([^"]+)"\s*:\s*(.*?)(,?)\s*$/);
+  if (keyMatch) {
+    const [, indent, key, originalValue] = keyMatch;
+    const isLastKey = enKeys.indexOf(key) === enKeys.length - 1;
+    lastKeyIndex = enKeys.indexOf(key);
+
+    // Get translation or mark missing
+    let translatedValue = target[key];
+    if (!translatedValue) {
+      if (en[key] == "") {
+        translatedValue = JSON.parse(originalValue);
+      } else {
+        translatedValue = MISSING_PREFIX + JSON.parse(originalValue);
+      }
+      missingCount++;
+    }
+
+    // Build new line with proper comma
+    const newLine = `${indent}"${key}": ${JSON.stringify(translatedValue)}${isLastKey ? "" : ","}`;
+    outputLines.push(newLine);
+  } else {
+    outputLines.push(line);
+  }
 });
+
+// Handle missing keys at the end (if any)
+enKeys.forEach((key, index) => {
+  if (index <= lastKeyIndex) return;
+  if (!target[key]) {
+    const translatedValue = MISSING_PREFIX + en[key];
+    outputLines.push(
+      `  "${key}": ${JSON.stringify(translatedValue)}${index === enKeys.length - 1 ? "" : ","}`,
+    );
+    missingCount++;
+  }
+});
+
+// Write results
+if (missingCount > 0) {
+  console.log(`Added ${missingCount} missing translations`);
+  fs.writeFileSync(targetPath, outputLines.join("\n"));
+  console.log("File updated successfully");
+} else {
+  console.log("No missing translations found");
+}

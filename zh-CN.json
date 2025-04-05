@@ -4,6 +4,7 @@
   "TYPE_tv": "电视频道",
   "TYPE_channel": "频道",
   "TYPE_other": "其他",
+
   "TYPE_movie_PL": "电影",
   "TYPE_series_PL": "剧集",
   "TYPE_tv_PL": "电视频道",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "其他",
   "TYPE_ALL": "全部",
   "TYPE": "类型",
+
   "CATALOG_com_linvo_cinemeta_top": "Popular",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Featured",
   "CATALOG_com_linvo_cinemeta_year": "New",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Public Domain Movies",
+
   "VIDEO": "视频",
+
   "BACK": "返回",
   "MORE": "更多",
   "DONE": "完成",
   "COPY": "复制",
   "SUCCESS": "成功",
   "ERROR": "错误",
+
   "SETTINGS_CASTING_MODE_PICKER": "投屏模式",
   "CASTING_MODE_HLSV2": "默认",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "不转码",
+
   "Discover": "发现",
   "Board": "首页",
   "Library": "库",
   "My Library": "我的库",
   "Calendar": "日历",
+
   "NOTIFICATION_ONLINE": "您当前处于在线状态",
   "NOTIFICATION_OFFLINE": "您当前处于离线状态",
   "INTERNET_CONNECTION": "网络连接",
+
   "STORAGE_FULL_TITLE": "警告：储存空间已满！",
   "STORAGE_FULL_TEXT": "Stremio将无法保存您的设置、首选项或登录信息，考虑重新启动或重新安装Stremio。",
+
   "SEARCH": "搜索",
   "SEARCH_NO_RESULTS": "未找到结果",
   "SEARCH_EXPLANATION_CONTENT": "搜索电影、剧集、YouTube和电视频道",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "粘贴HTTP和Magnet链接",
   "SEARCH_OR_PASTE_LINK": "搜索或粘贴链接",
   "SEARCH_SUGGESTIONS": "Search Suggestions",
+
   "ADD_TO_LIB": "添加到库中",
   "REMOVE_FROM_LIB": "从库中删除",
   "ADDED_TO_LIB": "添加到库中",
@@ -53,6 +63,7 @@
   "SHOW": "查看",
   "SHOW_MOVIE": "查看电影",
   "WATCH_RANDOM": "随机观看",
+
   "IMDB_RATING": "IMDb评分",
   "YEAR": "年份",
   "DIRECTOR": "导演",
@@ -75,11 +86,14 @@
   "FEATURED": "功能",
   "METADATA": "元数据",
   "CATEGORY": "类别",
+
   "LINKS_GENRES": "流派",
   "LINKS_CAST": "演员",
   "LINKS_DIRECTORS": "导演",
+
   "SEARCH_VIDEOS": "搜索视频",
   "SEARCH_PLACEHOLDER": "搜索或粘贴URL",
+
   "ADDON": "插件",
   "ADDONS": "插件",
   "OFFICIAL": "官方",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "导出用户数据",
   "ADDON_PULL_FAILED": "从您的帐户同步已安装的插件失败",
   "REFRESH_ON_CLICK": "点击重试",
+
   "STILL_IN_THEATER": "电影还在影院上映",
   "WATCH_IN_CINEMA": "请到您本地的影院观看",
   "IN_THEATER": "在影院上映",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "这个频道还没有被削刮，请过几分钟再来。",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "将其添加到库中，以便在可用时收到通知。",
   "GET_NOTIFIED_WHEN_AVAILABLE": "一旦可用，您将会收到通知。",
+
   "WARNING_STREAMING_SERVER": "警告：找不到本地流媒体服务器，来自本地文件、YouTube、和BitTorrent的流媒体将不可用。",
   "WARNING_STREAMING_SERVER_DISMISS": "忽略",
   "WARNING_STREAMING_SERVER_LATER": "推迟",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "在外部播放器中打开",
   "PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
   "PLAYER_PLAY_IN": "在{{device}}上播放",
+
   "PLAYER_LIVE": "直播",
+
   "PLAYER_NEXT_VIDEO_TITLE": "下个视频",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "关闭",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "现在观看",
+
   "PLAYER_COPY_STREAM_SUCCESS": "流媒体链接已复制到您的剪贴板",
   "PLAYER_COPY_STREAM_ERROR": "复制流媒体链接失败",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+
   "STREAMING_FROM": "流媒体",
   "CASTING_TO": "投屏到",
   "NETWORK_STATUS": "网络状态",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "已连接：",
   "PEERS_WAITING": "等待：",
   "TRANSCODING_WARNING": "警告：转码视频。",
+
   "STREAM_LOADING": "加载...",
   "PLAYING_LOCAL": "从本地文件播放",
   "PLAYING_CACHE": "从缓存播放",
+
   "WRONG_SUBS": "字幕错误？",
   "ERR_SUBS_LOADING_TITLE": "加载字幕时出错",
   "ERR_SUBS_LOADING": "字幕加载失败：这可能是您正在使用的插件或网络连接的问题",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "以下字幕插件失败",
   "ERR_CASTING_UPDATE_TITLE": "无法更新投屏设备信息：流媒体服务器可能离线",
+
   "CHOOSE_DEVICE": "选择在哪个设备上播放",
   "NO_CAST_DEVICES": "无可用投屏设备。",
+
   "NO_SETTINGS": "无可用设置。",
+
   "PHONE_TABLET": "手机/平板电脑",
+
   "SUBTITLES": "字幕",
   "SUBTITLES_CHANGE": "调整字幕",
   "SUBTITLES_CHANGE_NONE": "抱歉，这种语言没有其他字幕。",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "加载字幕...",
   "SUBTITLES_UNAVAILABLE": "没有可用的外部字幕",
   "SUBTITLES_DISABLED": "关闭",
+
   "EXTERNAL_PLAYER_DISABLED": "关闭",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "允许选择",
   "EXTERNAL_PLAYER_HINT": "提示：有一个设置允许总是在外部播放器中打开",
+
   "DONT_SHOW_AGAIN": "不再显示",
+
   "SERVICE_INSTALL": "安装",
+
   "AUDIO": "音频",
+
   "DEFAULT_LANGUAGE": "默认语言",
   "DEFAULT_SECONDARY_LANGUAGE": "默认第二语言",
+
   "SEASON": "季",
   "EPISODE": "集",
   "EPISODE_ABBREVIATION": "情节提要",
   "SPECIAL": "特别篇",
+
   "SORT": "排序",
   "SORT_BY": "排序按照",
   "FILTER": "筛选",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "按观看次数",
   "SORT_NOTWATCHED": "not watched",
+
   "New for You": "新的",
   "New Episodes": "新剧集",
   "New Videos": "新视频",
   "Recommendations": "推荐",
+
   "LIBRARY_RESUME": "简介",
   "LIBRARY_PLAY": "播放",
   "LIBRARY_DETAILS": "详情",
   "LIBRARY_RESUME_DISMISS": "清除",
   "LIBRARY_CLEAR_PROGRESS": "清除进度",
   "LIBRARY_REMOVE": "移除",
+
   "LIBRARY_NOT_LOGGED_IN": "库仅适用于已登录的用户",
   "CALENDAR_NOT_LOGGED_IN": "日历仅适用于已登录的用户",
   "NOT_LOGGED_IN_CLOUD": "随时随地访问您喜爱的电影和剧集",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "根据您的观看历史量身定制的建议",
   "NOT_LOGGED_IN_NOTIFICATIONS": "再也不要错过任何一集",
   "NOT_LOGGED_IN_CALENDAR": "定制个人观看日历",
+
   "DISCOVER_FEATURED": "功能",
+
   "DISCOVER_TOP": "热门",
   "DISCOVER_OSCAR": "奥斯卡获奖作品",
+
   "DISCOVER_WARNING_TITLE": "糟糕！",
   "DISCOVER_EMPTY_CATALOG": "此插件返回空内容。",
   "DISCOVER_ADULT_WARNING": "此内容仅对成人可见，您是否已满18周岁？",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "此内容不再可用，您可能已卸载插件。",
   "UNINSTALL_THIS_ADDON": "卸载此插件",
   "ERR_ADDON_NOT_INSTALLED": "未安装此插件，立即安装？",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "接受新剧集的通知",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "接受新视频的通知",
+
   "SIDEBAR_SHOW_STREAMS": "显示流媒体",
+
   "RELAUNCH": "立即重新启动！",
   "UPGRADE": "新版本可用！升级至Stremio的最新版本",
   "RELOAD_UI": "重新加载用户界面",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "更新",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "匿名用户",
   "DONT_HAVE_ACC": "还没有账户？",
   "HAVE_ACC": "已经有账户了?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "搜索失败",
   "EMAIL_USED": "此电子邮箱已被使用。",
   "WAITING_FB_LOGIN": "使用Facebook登录...",
+
   "EXTERNAL_PLAYER_TITLE": "在外部播放器中播放",
   "EXTERNAL_REMEMBER_PLAYER": "您想记住您的选择吗",
   "EXTERNAL_ALWAYS_PLAY": "是",
   "EXTERNAL_ONLY_ONCE": "不是",
+
   "BEST_FIT": "最佳",
   "FIT_SCREEN": "适合屏幕",
   "FILL": "填充",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "原始",
+
   "INTRO_TASTE": "告诉我们您喜欢什么",
   "INTRO_TASTE_LONG": "告诉我们您想看什么",
   "INTRO_TASTE_PICK": "选择{{interestsRemaining}}兴趣",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "DIY",
   "INTRO_TASTE_TECH": "技术",
   "INTRO_TASTE_CINEMA": "影院",
+
   "ADDON_NOT_SUPPORTED": "此平台不支持选定的插件。",
   "ADDON_DISCLAIMER": "使用第三方插件将始终受到您的责任和您所在的司法管辖区的法律的约束。",
   "ADDON_ACTIVATE": "激活此插件？",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "添加插件",
   "ADD_ADDON_DESCRIPTION": "您可以通过外部链接添加插件，该链接将显示在“已安装的插件”下。",
   "PASTE_ADDON_URL": "粘贴插件URL",
+
   "WHATS_NEW": "最新消息",
+
   "BUTTON_CONTINUE": "继续",
   "BUTTON_ACTIVATE": "激活",
   "BUTTON_ACTIVATED": "已激活",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "查看全部",
   "BUTTON_SEE_ALL": "查看全部",
   "BUTTON_COLOR_TRANSPARENT": "透明度",
+
   "OPEN_IN_BROWSER": "在浏览器中打开",
+
   "LIB_EMPTY": "您的库看起来是空的，看看它有多有用:)",
   "HOW_START": "您可以从这里开始：",
   "LIB_EMPTY_CAL": "您的日历显示您库中的剧集。",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "注册以获取所有这些：",
   "LIB_EMPTY_BEST": "注册以获得最佳的Stremio",
   "LIB_EMPTY_OTHER": "注册以启用日历和其他炫酷功能",
+
   "CALENDAR_ADDED": "Stremio日历已添加到默认桌面日历中。",
   "CALENDAR_ADDED_MSG": "如果这不起作用，请手动将此URL添加到日历应用程序中",
+
   "TRAKT_EXPIRED": "Trakt验证已过期，请转到设置并重新验证",
   "TRAKT_REQUIRES_LOGIN": "Trakt错误",
   "TRAKT_REQUIRES_LOGIN_MSG": "您需要登录",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Disabled",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "Remote URL",
   "SETTINGS_COPY_REMOTE_URL": "Copy remote URL",
   "SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",
+
   "SETTINGS_SECTION_SUBTITLES": "字幕",
   "SETTINGS_SECTION_AUDIO": "音频",
   "SETTINGS_SECTION_CONTROLS": "控件",
   "SETTINGS_SECTION_AUTO_PLAY": "自动播放",
   "SETTINGS_SECTION_ADVANCED": "高级",
+
   "SUBSPICKER_AUDIO": "音频",
   "SUBSPICKER_SUBTITLES": "插件字幕",
   "SUBSPICKER_BLACK_BACKGROUND": "使用黑色背景色",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "大小",
   "SUBSPICKER_DELAY": "延迟",
   "SUBSPICKER_EMBEDDED_SUBS": "内嵌字幕",
+
   "MOBILE_PRIVACY_POLICY": "隐私政策",
   "MOBILE_CRASH_REPORTING": "崩溃报告",
   "MOBILE_ZOOM_TO_FILL": "缩放填充屏幕",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "您的帐户是使用Facebook创建的。要删除您的帐户，请使用我们的用户门户网站www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "请提供您的密码以确认帐户删除。",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "删除帐户",
+
   "NAVIGATION_ON": "开启",
   "NAVIGATION_OFF": "关闭",
+
   "MARKETING_AGREE": "我同意接收Stremio的营销通知",
+
   "QUIT": "退出",
+
   "CONNECTED": "已连接",
   "AUTHENTICATE": "验证",
   "CACHING": "缓存",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrent配置",
   "DATA_CACHING": "数据缓存",
   "MAGNET_PARSING": "分析Magnet链接",
+
   "January": "一月",
   "February": "二月",
   "March": "三月",
@@ -609,6 +671,7 @@
   "October": "十月",
   "November": "十一月",
   "December": "十二月",
+
   "Monday": "星期一",
   "Tuesday": "星期二",
   "Wednesday": "星期三",
@@ -616,6 +679,7 @@
   "Friday": "星期五",
   "Saturday": "星期六",
   "Sunday": "星期天",
+
   "Action": "动作",
   "Comedy": "喜剧",
   "War": "战争",
@@ -691,6 +755,7 @@
   "Science Radio": "科学电台",
   "Tech Radio": "科技电台",
   "Science & Technology Vod": "科技视频点播",
+
   "new video": "新视频",
   "new episode": "新一集",
   "new movie": "新电影",
@@ -699,6 +764,7 @@
   "offer of the day": "当日优惠",
   "news": "新闻",
   "music video": "音乐视频",
+
   "CTX_SHOW_HOTKEYS": "显示快捷键",
   "CTX_DISMISS_NOTIF": "清除通知",
   "CTX_DISMISS_ALL": "全部清除",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "粘贴",
   "CTX_CLEAR": "清除",
   "CTX_CLEAR_RECENT_SEARCHES": "清除最近搜索记录",
+
   "HELLO_THERE": "您好",
   "HOPE_YOU_ENJOY": "我们希望您喜欢Stremio，也许它已经是您最喜欢的应用之一了！",
   "WHO_ARE_WE": "我们是谁？我们是它背后的团队。在过去三年里的每天，我们两个努力工作使这个产品越来越好。",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "现在与您的朋友分享传播关于Stremio的信息",
   "MORE_PEOPLE": "使用Stremio的人越多，效果就越好！",
   "SEND_A_LINK": "或发送一个链接到我们的网站",
+
   "TIP_LOCALFILES": "提示：您可以将本地视频文件拖放到Stremio中",
+
   "ADDON_MY": "我的插件",
   "ADDON_COMMUNITY": "社区插件",
   "ADDON_OFFICIAL": "官方插件",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "免费观看#{types}",
   "ADDON_PROVIDES_SUBTITLES": "#{types}的字幕",
   "ADDON_CANTDETECT": "我们无法检测到正在运行的Stremio，因此我们无法检测您安装了哪些插件。",
+
   "ERR_NO_META": "找不到有关于此的信息",
   "ERR_GETTING_META": "检索有关于此的信息时出错",
   "ERR_CANT_PARSE_MAGNET": "无法分析Magnet",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "无法从剪切板播放",
   "ERR_CLIPBOARD_READ": "无法读取此平台上的剪切板",
   "ERR_CLIPBOARD_GENERIC": "在剪切板中找不到可播放的URL. 请将URL（例如Magnet链接）复制到视频。",
+
   "BOARD_CONTINUE_WATCHING": "继续观看",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "专门为您挑选的电影。<br />这部电影是一个推荐样例。",
   "BOARD_EXPLANATION_EPISODES": "这里是您最喜爱的剧集的新一集。<br />将您关注的剧集添加到库中。",
   "BOARD_EXPLANATION_VIDEOS": "这里是您最喜爱的频道的新一集。<br />将您关注的YouTube频道添加到库中。",
+
   "WEBSITE_ENJOYED_BY": "在全球拥有超过3000万用户",
   "WEBSITE_STREAMING_ENHANCED": "流媒体增强",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio提供安全、现代、无缝的娱乐体验。凭借其易于使用的界面和多样化的内容库，包括4K HDR支持，用户可以在所有设备上欣赏他们喜爱的电影和电视节目。Stremio致力于安全，是无忧、高质量流媒体体验的终极选择。",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "iOS版Stremio Web指南",
   "WEBSITE_LINK_ART_V2": "粉丝艺术画廊",
   "WEBSITE_PARTNERS": "合作伙伴",
+
   "WEBSITE_SLOGAN_WATCH": "立即观看",
   "WEBSITE_SLOGAN_ALL": "一站式视频娱乐解决方案",
   "WEBSITE_SLOGAN_NEW": "您能观看一切",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "剧集",
   "WEBSITE_TYPE_tv": "直播电视",
   "WEBSITE_TYPE_channel": "频道",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio是一款帮助您管理和随时观看您喜爱的视频、电影、剧集和电视频道的应用程序",
+
   "WEBSITE_FEATURES_WATCH": "立即观看高清视频",
   "WEBSITE_FEATURES_WATCH_DETAIL": "点击并播放您喜爱的电影、剧集、视频和电视频道。",
+
   "WEBSITE_FEATURES_SUBS": "自动加载字幕",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio会自动为您的语言选择同步字幕。",
   "WEBSITE_FEATURES_SUBS_LABEL": "Your move, chief.",
+
   "WEBSITE_FEATURES_CAST": "在电视和移动设备上播放",
   "WEBSITE_FEATURES_CAST_DETAIL": "适用于AppleTV、Chromecast、智能电视（DLNA/UPnP）和移动设备。",
+
   "WEBSITE_LIB": "享受在所有设备上同步的个人库",
   "WEBSITE_LIB_COLLECT": "从Stremio收集",
   "WEBSITE_LIB_IMPORT": "从Facebook导入",
   "WEBSITE_LIB_LOCAL": "从本地磁盘添加",
+
   "WEBSITE_BOARD": "首页 - 通知和推荐的一站式场所",
   "WEBSITE_BOARD_RECOMMEND": "推荐电视节目",
   "WEBSITE_BOARD_TRENDING": "流行电影",
   "WEBSITE_BOARD_NEW": "新视频",
   "WEBSITE_BOARD_EPISODE": "新一集",
+
   "WEBSITE_BOARD_1": "想看些有趣的东西吗？根据您的喜好得到推荐！",
   "WEBSITE_BOARD_2": "当您最喜爱的电视节目或YouTube频道的新一集播出时获得通知！",
+
   "WEBSITE_BOARD_YOUTUBE": "YouTube频道的新视频",
   "WEBSITE_BOARD_EPISODES": "您关注的剧集的新一集",
+
   "WEBSITE_ADDONS": "内容插件",
+
   "WEBSITE_TECH_DETAIL": "我们热爱科技，我们热爱疯狂的科学！\nStremio使用了以下开源技术：",
   "WEBSITE_TECH_WCJS": "WebChimera.js允许Stremio以良好的性能播放任何视频格式。",
   "WEBSITE_TECH_WCJS_EXTRA": "我们是项目的核心贡献者",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "我们是项目贡献者",
   "WEBSITE_TECH_LINVODB": "一种数据库技术，确保您的数据在任何地方登录都受管理和可用。",
   "WEBSITE_TECH_LINVODB_EXTRA": "内部技术",
+
   "WEBSITE_CREATE_ADDON": "创建您的插件",
   "WEBSITE_CREATE_ADDON_DETAIL": "您有提供视频内容的服务吗？我们将通过创建插件来帮助您从Stremio的功能中获益。",
   "WEBSITE_CREATE_ADDON_BENEFITS": "为Stremio创建插件的好处",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "有兴趣吗？欢迎您通过<a href='mailto:office@stremio.com'>联系我们</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "我们很乐意帮助您将您的内容集成到Stremio！",
   "WEBSITE_P2P": "偶然间出现了一种改变游戏名称的技术。 我们投入了大量的时间和精力来构建我们的点对点（P2P）视频流媒体引擎，该引擎可提供出色的性能和多功能性，以适应任何用例。\n请联系我们以获取支持DRM的P2P视频点播或实时流媒体。",
+
   "WEBSITE_THOUGHTS": "我们分享的想法：",
   "WEBSITE_SPREAD": "传播关于Stremio的信息：",
   "WEBSITE_CONTACT": "联系我们，我们很高兴收到您的来信！",
   "WEBSITE_OPENSOURCE": "有关我们的开源项目，请转到：",
+
   "WEBSITE_BITCOIN": "捐赠比特币：",
   "WEBSITE_FAQ": "常见问题",
   "WEBSITE_FAQ_SHORT": "常见问题",
   "WEBSITE_QUESTIONS": "问题",
   "WEBSITE_TOS": "使用条款",
   "WEBSITE_LEGAL": "法律",
+
   "WEBSITE_PAGE_ABOUT": "关于",
   "WEBSITE_PAGE_BECOME_PARTNER": "成为合作伙伴",
   "WEBSITE_ALL_YOU_CAN_WATCH": "自由观看\n您想看的一切。",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "可无限扩展的视频目录；",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "强大的媒体管理功能；",
   "WEBSITE_AS_SEEN_ON": "如图所示",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "关于我们",
   "WEBSITE_LINK_TECHNOLOGY": "技术",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "您可以随时在任何设备上使用我们的服务，使Stremio成为您唯一需要的视频娱乐中心。",
   "WEBSITE_TEAM": "团队",
   "WEBSITE_TEAM_P": "Stremio团队虽小但很强大：我们10个人用X语言编写代码，分享软件开发、UI和UX设计、营销和广告、商业和初创企业方面的专业知识。",
+
   "WEBSITE_FEATURES": "功能",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "轻松发现新内容",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "观看不同来源的视频",
   "WEBSITE_FEATURES_SOURCES_P": "安装官方和社区插件，欣赏来自多个不同供应商的视频。",
   "WEBSITE_CREATE_AN_ADDON": "创建插件",
+
   "WEBSITE_FEATURES_SYNC": "跨设备同步库并恢复播放",
   "WEBSITE_FEATURES_SYNC_P1": "使用您的帐户在所有设备上登录，享受同步的库、插件、播放和日历。",
   "WEBSITE_FEATURES_EXTENDABLE": "通过插件扩展视频目录",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "在外部播放器中播放",
   "WEBSITE_FEATURES_POWER_USER_P2": "从Torrent文件或Magnet链接播放",
   "WEBSITE_FEATURES_POWER_USER_P3": "从Facebook喜爱或本地磁盘导入您的库",
+
   "WEBSITE_ADD_ONS": "插件",
   "WEBSITE_ADD_ONS_P1": "Stremio提供的所有视频内容都是通过插件系统获取的，应用程序中没有内置任何内容或内容提供商。",
   "WEBSITE_ADD_ONS_P2": "有两组插件可用：官方和社区插件。",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "创建插件",
   "WEBSITE_ADDONS_CREATE_P1": "如果您愿意，您可以开发自己的插件。通过这种方式，您可以让自己和我们的社区访问新的视频内容，并接触到全球数百万用户的新目标受众。",
   "WEBSITE_ADDONS_START_CREATE": "要开始，请访问Stremio插件SDK页面：",
+
   "WEBSITE_DOWNLOADS": "下载",
   "WEBSITE_DOWNLOADS_P1": "为了获得最佳性能，我们建议您使用最新版本的Stremio应用程序。但是，如果出于某种原因，您想使用旧版本，可以在此处下载。",
   "WEBSITE_DOWNLOADS_P1_SHORT": "为了获得最佳性能，我们建议您使用最新版本的Stremio应用程序，",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Search for Stremio in the App Store of your Xbox device",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
   "WEBSITE_LINK_GUIDE": "Guide",
+
   "WEBSITE_DOWNLOAD_SERVICE": "下载Stremio服务",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service是Stremio Web的配套应用程序。我们建议使用最新版本的Stremio Service。",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "Stremio平台是开源的，您可以轻松地为当前没有来源的内容创建一个插件。",
   "WEBSITE_CONTRIBUTE_WHY": "为什么要创建插件？",
   "WEBSITE_CONTRIBUTE_WHY_P1": "为您的视频内容吸引新观众",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "如果您想享受不同语言的Stremio应用程序，您可以加入我们的志愿翻译者社区。他们帮助我们添加多种不同语言的Stremio版本。",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "您想开始吗？",
   "WEBSITE_TRANSALTE_STREMIO": "翻译Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "官方社区",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "成为不断增长的Stremio社区的一部分。在社交媒体上关注我们，不要害羞地打招呼，我们喜欢听到粉丝的声音！",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "壁纸",
   "WEBSITE_COMMUNITY_ART": "社区艺术画廊",
   "WEBSITE_LINK_ART": "社区艺术画廊",
+
   "WEBSITE_CONTACT_US": "联系我们",
   "WEBSITE_CONTACT_US_P1": "如果您有任何问题、意见或建议，请随时通过下面的联系方式与我们联系。",
   "WEBSITE_CONTACT_US_P2": "请记住，我们位于保加利亚，因此可能会由于时区差异而延迟处理您的问题。",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "您的电子邮箱",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "短信",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "发送",
+
   "WEBSITE_CONTACT_US_Q_1": "如何安装？",
   "WEBSITE_CONTACT_US_Q_2": "如何卸载？",
   "WEBSITE_CONTACT_US_Q_3": "(HTML)如何制作千层面？",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "技术",
   "WEBSITE_TECHNOLOGY_P1": "我们热爱科技，热爱科学。</br>这是Stremio的动力（它都是开源的）。",
   "WEBSITE_TECHNOLOGY_P_QT": "最佳跨平台软件开发工具。",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "或",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... 您可以利用您的编程技巧来创建社区插件。",
   "WEBSITE_TRANSLATE_STREMIO": "翻译Stremio",
+
   "WEBSITE_404_OH_NO": "糟糕！您要找的页面不在这里...",
   "WEBSITE_GO_HOME": "回到主页",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "其他下载",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "插件比赛",
   "WEBSITE_LINK_ART_CONTEST": "艺术比赛",
   "WEBSITE_MY_ACCOUNT": "我的账户",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "什么是Stremio？",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio是一个现代化的媒体中心，让您可以自由观看任何您想要的东西。",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "它是如何工作的？",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "一旦您在设备上安装了Stremio并创建了一个帐户，您所要做的就是访问插件目录并安装任何您想要的插件，就可以开始了！",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "之后，您可以进入“发现”或“板”部分，开始探索内容。",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "我可以在这里看什么？",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "很多：电影、电视节目、网络频道、体育、电视频道、收听播客等等。感谢我们的插件系统，您可以访问各种内容。",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio是开源的吗？",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "是的，您可以查看以下链接：${1}桌面应用${2}和${3}GitHub组织${4}。",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio安全吗？",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "是：因为它是开源软件，所以代码可以公开审核，您可以自己查看。",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "我的隐私如何？",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "我们尊重用户隐私，除了创建和同步您的帐户所必需的最低限度外，不收集任何个人数据。",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "注册时还有一个${1}访客模式${2}，它不需要任何数据：在这种模式下，不会调用我们的后端。然而，这是以牺牲有用的功能为代价的，比如能够跨设备同步您的库。",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "我可以投屏到电视吗？",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "是的，我们支持Chromecast，您可以从桌面和移动应用程序（Android）进行强制转换。",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio有多少插件？",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "截至2019年末，超过50个。有关更多信息，请查看我们的插件目录。",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Stremio是否可以扩展到插件目录之外？",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "是的，您应该查看这些：${1}PimpMyStremio${2}，${3}Reddit communities${4}，${5}Stremio Downloader${6}，等等。",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio支持哪些设备？",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "我们有适用于Windows、Mac和Linux的桌面应用程序。对于移动设备，我们支持Android和iOS，但请记住iOS的功能有限（不支持大多数插件）。",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "有很多基于Android的设备可以在上面运行Stremio，比如NVIDIA Shield和Amazon Fire Stick，但我们并不正式支持它们。",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "您们能为Stremio添加某些内容吗？",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "抱歉，我们本身不提供任何内容，但是您安装的Stremio插件越多，您可以找到的内容就越多。",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio可以播放Magnet链接吗？",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "是的，它还可以播放正常的HTTP链接和Torrent文件（拖放）。",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "我可以下载视频并离线观看吗？",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "离线可用是一项即将推出的功能，但如果您允许Stremio在设备上缓存（从“设置”面板），您可以稍后在没有连接的情况下观看视频。",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "什么都不能用，帮帮我！",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "您确定已安装插件吗？如果是，请与我们的${1}帮助中心${2}联系",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio如何维持其开发运营？",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "我们偶尔会播放非侵入性广告，但我们正在考虑转向捐赠模式。",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "有关更多问题，请访问我们的${1}帮助中心${2}。",
+
   "HELP_LEARN_MORE": "帮助我们了解更多有关您的信息。",
   "LIFESTYLE": "生活方式",
   "SPORTS": "体育",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "上次搜索",
   "CLEAR_HISTORY": "清除历史记录",
   "CHOOSE_SOME": "选择其中一些：",
+
   "NO_WEB_REMOTE": "无法加载Web Remote",
   "STREMIO_OFFLINE": "Stremio离线",
   "STREMIO_EXPENSIVE_CONNECTION": "我们检测到您正在使用移动数据连接，是否继续？",
   "USE_DATA": "使用移动数据",
   "WARNING": "警告",
+
   "MORE_INFO": "更多信息...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "加载...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "返回语言",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "加载时显示统计信息",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "要阅读Stremio的隐私政策，请访问：",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "要阅读Stremio的条款和条件，请访问：",
+
   "STREMIO_TV_NAV_SEARCH": "搜索",
   "STREMIO_TV_NAV_HOME": "主页",
   "STREMIO_TV_NAV_DISCOVER": "发现",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "电视直播",
   "STREMIO_TV_NAV_SETTINGS": "设置",
   "STREMIO_TV_NAV_ADDONS": "插件",
+
   "STREMIO_TV_LOGIN_TITLE": "链接账户",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "过期日期到",
   "STREMIO_TV_LOGIN_STEP_ONE": "扫描上方的二维码或转到",
   "STREMIO_TV_LOGIN_STEP_TWO": "登录您的Stremio帐户",
   "STREMIO_TV_LOGIN_NEW_LINK": "请求新链接",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "登录代码已刷新",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "输入一些东西",
   "STREMIO_TV_SEARCH_NO_ADDONS": "没有为目录请求插件！",
   "STREMIO_TV_SEARCH_BUTTON": "搜索",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "搜索历史",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "您可以搜索标题、演员、频道...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "清除搜索历史",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "从以下过滤器中选择一个",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "流媒体服务器离线，检查服务器设置。",
+
   "FILTERS": "过滤器",
   "SETTINGS": "设置",
   "ACCOUNT": "账户",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "调整大小",
   "REMOTE_COULD_NOT_BE_LOADED": "无法加载Web Remote",
   "REMOTE_RETRY": "重试",
+
   "TORRENT_PROFILE_DEFAULT": "默认",
   "TORRENT_PROFILE_SOFT": "慢",
   "TORRENT_PROFILE_FAST": "快",
   "TORRENT_PROFILE_ULTRA_FAST": "超快",
+
   "FAQ_001_H1": "什么是Stremio？",
   "FAQ_001_P1": "Stremio是专为视频娱乐而设计的多媒体中心软件，易于使用。Stremio允许您管理和观看自己的电影，剧集，频道和实况电视收藏。",
   "FAQ_001_P2": "Stremio从本地磁盘和插件系统中收集显示给您的内容。",
   "FAQ_001_P3": "它还会在您感兴趣的新剧集/视频/电影播出时通知您，并为您提供电影推荐。",
+
   "FAQ_02_H1": "Stremio与Kodi和Plex相比如何？",
   "FAQ_02_P1": "我们受到这两种软件的启发。但是我们有不同的目标——Stremio专门针对娱乐视频，并通过易于使用成为其主流解决方案。",
   "FAQ_02_P2": "Stremio将永远不会像Kodi和Plex那样具有可定制性和丰富的功能，但它更易于使用。只需${1}就可以获取它，并查看${2}:)",
+
   "FAQ_03_H1": "Stremio与Netflix相比如何？",
   "FAQ_03_P1": "同样，Netflix是我们的灵感之一。我们努力实现Netflix的用户体验，再加上许多附加的好处。但最重要的是，我们让您可以自由管理自己的库，并使用我们的插件系统添加新的内容源。",
   "FAQ_03_P2": "这使得Stremio可以无限扩展，因此当您使用Stremio时，您永远不会局限于Netflix决定许可的内容。例如，您可以通过Stremio观看${1}中的内容电影电视${2}, ${3} Twitch.tv${4}，${5}YouTube${6}，${7}Vodo${8}甚至${9}Netflix${10}本身！",
+
   "FAQ_04_H1": "Stremio与Flipboard相比如何？",
   "FAQ_04_P1": "我们不常听到这个问题，除非与初创企业的人交谈:)",
   "FAQ_04_P2": "Stremio是通过设计一个内容聚合器来实现的，它本质上就是视频的Flipboard。这一点在我们的首页部分非常明显，它为您提供目录和新的插曲/新的视频通知，让您了解您所关注的内容，就像Flipboard一样。",
+
   "FAQ_05_H1": "Stremio与Popcorn Time相比如何？",
   "FAQ_05_P1": "Stremio和Popcorn Time在用户界面上很相似，因为没有很多方法可以正确制作视频娱乐目录:)",
   "FAQ_05_P2": "Popcorn Time主要集中在特定来源的流媒体上，但Stremio是不受限制的，只是一个内容聚合器，它没有锁定到特定的内容源。",
   "FAQ_05_P3": "此外，我们默认不提供任何Torrent插件，因此Stremio不提供官方功能的Popcorn Time用例。",
   "FAQ_05_P4": "另一个显著的区别是Popcorn Time是完全开源的，而Stremio是${1}部分开源的${2}。",
+
   "FAQ_06_H1": "是否要添加此电影/系列？",
   "FAQ_06_P1": "不，对不起 :(",
   "FAQ_06_P2": "正如大多数其他问题中提到的，Stremio本身不提供任何内容,所有内容都是通过插件系统添加的。如果您有内容请求，您可以使用播放器中的“报告”按钮，它将向您当前使用的插件的作者发送电子邮件。",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "能否为X创建插件？",
   "FAQ_08_P1": "完全有可能。",
   "FAQ_08_P2": "如果您有一个插件的想法，请在${1}office@stremio.com${2}给我们留言，但请确保您的插件想法不会侵犯任何版权或使用条款。",
   "FAQ_08_P3": "目前，我们路线图上的下一件事是FandangoNOW，Filmon.tv video on demand和Crunchyroll的插件。",
+
   "FAQ_09_H1": "Stremio是否使用BitTorrent？",
   "FAQ_09_P1": "是的，Stremio支持BitTorrent作为流媒体协议。您可以将其与Torrent插件一起使用，也可以将.Torrent文件拖放到Stremio中，或者将磁铁链接粘贴到搜索栏中。",
   "FAQ_09_P2": "请注意，使用BitTorrent的唯一官方插件是${1}Vodo${2}，它提供独立内容，所有内容都允许与BitTorrent一起分发。",
   "FAQ_09_P3": "我们不支持使用任何可能导致版权侵权的第三方插件。",
+
   "FAQ_10_H1": "我可以在Stremio中通过官方插件观看什么节目？",
   "FAQ_10_P1": "默认情况下，您可以在Stremio与它的嵌入式播放器观看Filmon.tv，YouTube和Vodo的内容。另外，我们还有一个Twitch.tv插件，以及其他一些插件。",
   "FAQ_10_P2": "此组合提供以下选项：",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Vodo上的独立电影",
   "FAQ_10_L4": "Twitch.tv上的在线游戏广播",
   "FAQ_10_P3": "此外，Guidebox和Netflix插件提供了许多内容源，它们不完全在Stremio中播放，而是重定向到给定的服务。例如，Guidebox插件将为您提供可在美国免费播放的精选电影，这些电影来自TubiTV和Crackle等服务。",
+
   "FAQ_11_H1": "Stremio无法安装，我该怎么办？",
   "FAQ_11_P1": "如果您在Windows上，请尝试${1}此替代安装程序${2}。",
   "FAQ_11_P2": "如果您使用的是Mac OS X，请注意，我们不支持任何比OS X Mavericks（10.9）更旧的版本。",
   "FAQ_11_P3": "如果您使用的是Linux，请注意，我们目前只支持64位（x64）Linux。",
   "FAQ_11_P4": "如果您仍然无法解决您的问题，请写信给我们的${1}Facebook群组${2}。",
+
   "FAQ_12_H1": "为什么我的杀毒软件会报毒？Stremio安全吗？",
   "FAQ_12_P1": "我们向您保证Stremio是${1}100%安全的${2}。",
   "FAQ_12_P2": "您的杀毒软件报毒是因为我们的安装程序中包含广告，一些杀毒软件将其识别为广告软件。",
   "FAQ_12_P3": "如果您仍然不确定，可以尝试我们的${1}替代安装程序${2}。",
+
   "FAQ_13_H1": "如何制作插件？",
   "FAQ_13_P1": "对于初学者，我们建议您查看GitHub上的${1}插件系统模块${2}。",
   "FAQ_13_P2": "之后，您可以按照${1}Hello World教程${2}进行操作。",
   "FAQ_13_P3": "如果您没有任何编程技能，请在${1}Reddit社区${2}上发布您的想法，并在${3}office@stremio.com${4}上与我们联系您的插件想法。",
+
   "FAQ_14_H1": "插件是如何发布的？",
   "FAQ_14_P1": "当您创建一个插件和主机，并在清单中放置一个指向工作插件地址的<b>终端节点</b>字段时，该插件将自动发布到我们的${1}插件目录${2}。",
   "FAQ_14_P2": "发生这种情况是因为Stremio插件模块的服务器部分会自动调用我们的API来声明插件。当我们的API验证您的<b>终端节点</b>为有效的插件时，它将开始显示在目录中。",
+
   "FAQ_15_H1": "我可以在浏览器中运行Stremio吗？",
   "FAQ_15_P1": "目前还没有，但即将到来！",
   "FAQ_15_P2": "如果您想看到Alpha版本，可以在这里看到：${1}alpha4.strem.io${2}. 请记住，此Alpha版本上已禁用流式处理。我们支持Chrome、Firefox、Opera和Edge",
+
   "FAQ_16_H1": "电视投屏不起作用/字幕不起作用",
   "FAQ_16_P1": "电视投屏使用DLNA技术，这在不同的电视品牌和型号之间非常不一致。由于这个原因，我们没有能力在每种情况下都测试它，所以它还远远不够完美。尽管如此，我们仍在不断改进，但我们无法为您提供DLNA能够在您的电视上开始正常工作的预计时间。",
   "FAQ_16_P2": "如果您在“投屏”菜单中看不到您的电视，请尝试禁用网络连接并重新启用它（在Windows上，右键单击网络并使用“启用/禁用”），以及重新启动路由器、电视和PC。",
   "FAQ_16_P3": "如果您仍然遇到问题，您可以通过将您的电视品牌和型号信息发送到${1}来帮助我们”office@stremio.com${2}。",
   "FAQ_16_P4": "同时，我们推荐Chromecast，我们非常支持Chromecast，或者直接用HDMI线将电视与PC连接。",
+
   "FAQ_17_H1": "Stremio卡死和/或崩溃，我能做什么？",
   "FAQ_17_P1": "首先，如果您使用的是带有AVG杀毒软件的Windows 7，这种组合会产生问题。问题出在AVG本身，我们这边没有合理的办法解决。不幸的是，去除或禁用杀毒软件将不起作用。唯一的解决办法是用别的东西代替AVG",
   "FAQ_17_P2": "如果不是这个问题，但您仍在使用Windows，请更新到最新的service pack并更新/重新安装您的GPU驱动程序，然后重试。",
   "FAQ_17_P3": "如果您的问题仍未解决，或者您使用的是Mac或Linux，请写信给我们，在${1}我们的Facebook群组${2}报告问题的确切细节。",
+
   "FAQ_18_H1": "如何制作插件？",
   "FAQ_18_P1": "对于初学者，我们建议您查看GitHub上的${1}插件系统模块${2}。",
   "FAQ_18_P2": "之后，您可以按照${1}Hello World教程${2}进行操作。",
   "FAQ_18_P3": "如果您没有任何编程技能，请在${1}Reddit社区${2}上发布您的想法，并在${3}上与我们联系您的插件想法。”office@stremio.com${4}。",
+
   "FAQ_19_H1": "为什么Stremio占用磁盘空间？",
   "FAQ_19_P1": "Stremio有一个<b>本地缓存</b>来临时保存您流式传输的视频文件。",
   "FAQ_19_P2": "这有两个好处：第一，它允许Stremio预先缓冲视频，以确保流媒体更流畅。其次，它将视频保存在本地缓存中，以便您可以继续离线观看。",
   "FAQ_19_P3": "Stremio保留了多少取决于“设置”面板中的<b>缓存设置。Stremio可能会在您的磁盘上保留到设置的数量（例如2GB），除非当前流式传输的视频大于该数量，在这种情况下，必须分配足够的存储来保留它，直到您结束流式传输。",
+
   "FAQ_20_H1": "缓存文件夹在哪里？",
   "FAQ_20_P1": "在Windows上，Stremio缓存位于您在设置中选择的驱动器中（例如\"E:\\stremio-cache\"）",
   "FAQ_20_P2": "在MacOS上，它位于\"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "在Linux上，它位于\"~/.stremio/stremio-cache\"或\"~/stremio-cache\"",
+
   "FAQ_21_H1": "我得到\"流媒体服务器未找到\"错误，我能做什么？",
   "FAQ_21_P1": "如果出现此错误，则表示以下几点之一：",
   "FAQ_21_P2": "1）您正试图通过我们的${1}web版本${2}使用一个由YouTube/BitTorrent源代码支持的插件。在这种情况下，您应该从${3}我们的网站${4}安装我们的桌面版本",
   "FAQ_21_P3": "2）Stremio安装有问题。在这种情况下，请尝试从${1}网站${2}重新安装我们的最新桌面版本。如果这没有帮助，请尝试禁用杀毒软件和防火墙，重新启动电脑，然后重试。如果这依然不起作用，请写信给我们的${3}Facebook群组${4}",
+
   "FAQ_22_H1": "我无法在iOS上看到/使用大多数插件",
   "FAQ_22_P1": "由于Apple App Store条款和条件中的限制，我们限制iOS应用程序只能使用一组特定的插件。",
   "FAQ_22_P2": "不过，请放心，将来会有更多的iOS插件，我们还可能添加一个集成，通过将iOS应用程序连接到Stremio流媒体服务器，您将可以使用所有Stremio插件。"

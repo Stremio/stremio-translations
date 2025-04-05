@@ -4,6 +4,7 @@
   "TYPE_tv": "کانال تلویزیونی",
   "TYPE_channel": "کانال",
   "TYPE_other": "دیگر",
+
   "TYPE_movie_PL": "فیلم ها",
   "TYPE_series_PL": "سریال",
   "TYPE_tv_PL": "کانال های تلویزیونی",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "سایر",
   "TYPE_ALL": "همه",
   "TYPE": "نوع",
+
   "CATALOG_com_linvo_cinemeta_top": "محبوب",
   "CATALOG_com_linvo_cinemeta_imdbRating": "برجسته",
   "CATALOG_com_linvo_cinemeta_year": "جدید",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "فیلم های دامنه عمومی",
+
   "VIDEO": "ویدئو",
+
   "BACK": "برگشت",
   "MORE": "بیشتر",
   "DONE": "انجام شد",
   "COPY": "کپی",
   "SUCCESS": "موفقیت",
   "ERROR": "خطا",
+
   "SETTINGS_CASTING_MODE_PICKER": "حالت کست",
   "CASTING_MODE_HLSV2": "پیش فرض",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "بدون رمزگذاری",
+
   "Discover": "کشف",
   "Board": "تابلو",
   "Library": "کتابخانه",
   "My Library": "کتابخانه من",
   "Calendar": "تقویم",
+
   "NOTIFICATION_ONLINE": "شما اکنون آنلاین هستید",
   "NOTIFICATION_OFFLINE": "شما در حال حاضر آفلاین هستید",
   "INTERNET_CONNECTION": "اتصال شبکه",
+
   "STORAGE_FULL_TITLE": "هشدار: فضای ذخیره سازی پر است!",
   "STORAGE_FULL_TEXT": "Stremio نمی‌تواند تنظیمات، تنظیمات برگزیده یا اطلاعات ورود به سیستم شما را ذخیره کند. راه اندازی مجدد یا نصب مجدد Stremio را در نظر بگیرید.",
+
   "SEARCH": "جستجو",
   "SEARCH_NO_RESULTS": "هیچ نتیجه ای یافت نشد",
   "SEARCH_EXPLANATION_CONTENT": "جستجوی فیلم، سریال، یوتیوب و کانال های تلویزیونی",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "پیوندهای HTTP و Magnet را جایگذاری کنید",
   "SEARCH_OR_PASTE_LINK": "جستجو یا جایگذاری پیوند",
   "SEARCH_SUGGESTIONS": "پیشنهادات جستجو",
+
   "ADD_TO_LIB": "افزودن به کتابخانه",
   "REMOVE_FROM_LIB": "حذف از کتابخانه",
   "ADDED_TO_LIB": "به کتابخانه اضافه شد",
@@ -53,6 +63,7 @@
   "SHOW": "نمایش",
   "SHOW_MOVIE": "نمایش فیلم",
   "WATCH_RANDOM": "تصادفی ببینید",
+
   "IMDB_RATING": "امتیاز IMDb",
   "YEAR": "سال",
   "DIRECTOR": "کارگردان",
@@ -75,11 +86,14 @@
   "FEATURED": "برجسته",
   "METADATA": "فراداده",
   "CATEGORY": "دسته بندی",
+
   "LINKS_GENRES": "ژانرها",
   "LINKS_CAST": "بازیگران",
   "LINKS_DIRECTORS": "کارگردانان",
+
   "SEARCH_VIDEOS": "جستجوی ویدیوها",
   "SEARCH_PLACEHOLDER": "URL را جستجو یا جایگذاری کنید",
+
   "ADDON": "افزونه",
   "ADDONS": "افزونه ها",
   "OFFICIAL": "رسمی",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "صادر کردن داده های کاربر",
   "ADDON_PULL_FAILED": "همگام سازی افزونه های نصب شده از حساب شما انجام نشد",
   "REFRESH_ON_CLICK": "برای امتحان مجدد کلیک کنید",
+
   "STILL_IN_THEATER": "فیلم هنوز در سینماها است",
   "WATCH_IN_CINEMA": "آن را در سینمای محلی خود تماشا کنید",
   "IN_THEATER": "در سینما",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "این کانال هنوز بررسی نشده است. <br>لطفا چند دقیقه دیگر برگردید.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "آن را به کتابخانه خود اضافه کنید تا پس از در دسترس قرار گرفتن از آن مطلع شوید.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "پس از در دسترس قرار گرفتن به شما اطلاع داده می شود.",
+
   "WARNING_STREAMING_SERVER": "هشدار: سرور پخش محلی یافت نشد. پخش استریم از فایل های محلی، YouTube و BitTorrent در دسترس نخواهند بود.",
   "WARNING_STREAMING_SERVER_DISMISS": "رد کردن",
   "WARNING_STREAMING_SERVER_LATER": "بعدا",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "باز کردن در پخش کننده خارجی",
   "PLAYER_OPEN_IN_NPLAYER": "باز کردن در nPlayer",
   "PLAYER_PLAY_IN": "پخش در {{device}}",
+
   "PLAYER_LIVE": "زنده",
+
   "PLAYER_NEXT_VIDEO_TITLE": "بعدی می‌آید در",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "بعدی در",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "رد کردن",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "اکنون تماشا کنید",
+
   "PLAYER_COPY_STREAM_SUCCESS": "پیوند استریم در کلیپ بورد شما کپی شد",
   "PLAYER_COPY_STREAM_ERROR": "پیوند استریم کپی نشد",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "لینک دانلود در کلیپ بورد شما کپی شد",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "لینک دانلود کپی نشد",
+
   "STREAMING_FROM": "استریم از",
   "CASTING_TO": "ارسال به",
   "NETWORK_STATUS": "وضعیت شبکه",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "متصل:",
   "PEERS_WAITING": "در انتظار:",
   "TRANSCODING_WARNING": "هشدار: رمزگذاری ویدیو.",
+
   "STREAM_LOADING": "در حال بارگذاری...",
   "PLAYING_LOCAL": "پخش از فایل محلی",
   "PLAYING_CACHE": "پخش از حافظه پنهان",
+
   "WRONG_SUBS": "زیرنویس اشتباهه؟",
   "ERR_SUBS_LOADING_TITLE": "خطا در بارگیری زیرنویس",
   "ERR_SUBS_LOADING": "بارگیری ناموفق زیرنویس: این ممکن است مشکل از افزونه ای باشد که استفاده می کنید یا اتصال شبکه شما",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "افزونه های زیرنویس زیر ناموفق بودند",
   "ERR_CASTING_UPDATE_TITLE": "اطلاعات دستگاه ارسال محتوا به‌روزرسانی نشد: سرور پخش استریم ممکن است آفلاین باشد",
+
   "CHOOSE_DEVICE": "دستگاهی را برای تماشا انتخاب کنید",
   "NO_CAST_DEVICES": "دستگاهی برای کست موجود نیست.",
+
   "NO_SETTINGS": "هیچ تنظیماتی در دسترس نیست.",
+
   "PHONE_TABLET": "تلفن / تبلت",
+
   "SUBTITLES": "زیرنویس",
   "SUBTITLES_CHANGE": "تغییر زیرنویس برای ",
   "SUBTITLES_CHANGE_NONE": "هیچ زیرنویس دیگری برای این زبان وجود ندارد، متاسفم.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "در حال بارگیری زیرنویس...",
   "SUBTITLES_UNAVAILABLE": "زیرنویس خارجی موجود نیست",
   "SUBTITLES_DISABLED": "غیر فعال",
+
   "EXTERNAL_PLAYER_DISABLED": "غیر فعال",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "اجازه انتخاب",
   "EXTERNAL_PLAYER_HINT": "نکته: تنظیمی وجود دارد که اجازه می دهد همیشه با پخش کننده خارجی باز شود",
+
   "DONT_SHOW_AGAIN": "دیگر نشان نده",
+
   "SERVICE_INSTALL": "نصب",
+
   "AUDIO": "صوتی",
+
   "DEFAULT_LANGUAGE": "زبان پیش فرض",
   "DEFAULT_SECONDARY_LANGUAGE": "زبان ثانویه پیش فرض",
+
   "SEASON": "فصل",
   "EPISODE": "قسمت",
   "EPISODE_ABBREVIATION": "EP",
   "SPECIAL": "ویژه",
+
   "SORT": "مرتب کردن",
   "SORT_BY": "مرتب سازی بر اساس",
   "FILTER": "فیلتر",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "بیشترین تماشا شده",
   "SORT_NOTWATCHED": "تماشا نشده",
+
   "New for You": "جدید برای شما",
   "New Episodes": "قسمت های جدید",
   "New Videos": "ویدیوهای جدید",
   "Recommendations": "توصیه ها",
+
   "LIBRARY_RESUME": "از سرگیری",
   "LIBRARY_PLAY": "پخش",
   "LIBRARY_DETAILS": "جزئیات",
   "LIBRARY_RESUME_DISMISS": "رد کردن",
   "LIBRARY_CLEAR_PROGRESS": "پاک کردن پیشرفت",
   "LIBRARY_REMOVE": "حذف",
+
   "LIBRARY_NOT_LOGGED_IN": "کتابخانه فقط برای کاربران وارد شده در دسترس است",
   "CALENDAR_NOT_LOGGED_IN": "تقویم فقط برای کاربرانی که وارد سیستم شده اند در دسترس است",
   "NOT_LOGGED_IN_CLOUD": "در هر زمان و هر مکان به فیلم ها و برنامه های تلویزیونی مورد علاقه خود دسترسی داشته باشید",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "توصیه هایی متناسب با سابقه مشاهده شما",
   "NOT_LOGGED_IN_NOTIFICATIONS": "هرگز یک قسمت را دوباره از دست ندهید",
   "NOT_LOGGED_IN_CALENDAR": "تقویم تماشای شخصی خود را برنامه ریزی کنید",
+
   "DISCOVER_FEATURED": "برجسته",
+
   "DISCOVER_TOP": "بالا",
   "DISCOVER_OSCAR": "برندگان اسکار",
+
   "DISCOVER_WARNING_TITLE": "اوه!",
   "DISCOVER_EMPTY_CATALOG": "این افزونه محتوای خالی را برگرداند.",
   "DISCOVER_ADULT_WARNING": "محتوا فقط برای بزرگسالان قابل مشاهده است. 18+ هستی؟",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "این محتوا دیگر در دسترس نیست، ممکن است افزونه را حذف نصب کرده باشید.",
   "UNINSTALL_THIS_ADDON": "حذف کردن این افزونه",
   "ERR_ADDON_NOT_INSTALLED": "این افزونه نصب نشده است. اکنون نصب شود؟",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "دریافت اطلاعیه برای قسمت های جدید",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "دریافت اعلان برای ویدیوهای جدید",
+
   "SIDEBAR_SHOW_STREAMS": "نمایش استریم‌ها",
+
   "RELAUNCH": "اکنون دوباره راه اندازی کنید!",
   "UPGRADE": "نسخه جدید موجود است! به آخرین نسخه Stremio ارتقا دهید",
   "RELOAD_UI": "بارگذاری دوباره رابط کاربری",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "به روز رسانی",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "کاربر ناشناس",
   "DONT_HAVE_ACC": "حساب کاربری ندارید؟",
   "HAVE_ACC": "از قبل حساب کاربری دارید؟",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "جستجو ناموفق بود",
   "EMAIL_USED": "این ایمیل از قبل در حال استفاده است.",
   "WAITING_FB_LOGIN": "ورود با فیس بوک...",
+
   "EXTERNAL_PLAYER_TITLE": "پخش در پخش کننده خارجی",
   "EXTERNAL_REMEMBER_PLAYER": "آیا می خواهید انتخاب خود را به خاطر بسپارید",
   "EXTERNAL_ALWAYS_PLAY": "بله",
   "EXTERNAL_ONLY_ONCE": "خیر",
+
   "BEST_FIT": "بهترین تناسب",
   "FIT_SCREEN": "متناسب با صفحه نمایش",
   "FILL": "کامل",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "اصل",
+
   "INTRO_TASTE": "در مورد آنچه دوست دارید به ما بگویید",
   "INTRO_TASTE_LONG": "درباره آنچه می خواهید تماشا کنید به ما بگویید",
   "INTRO_TASTE_PICK": "علایق {{interestsRemaining}} را انتخاب کنید",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "چگونه DIY کنیم",
   "INTRO_TASTE_TECH": "فنی",
   "INTRO_TASTE_CINEMA": "سینما",
+
   "ADDON_NOT_SUPPORTED": "افزونه انتخاب شده در این پلتفرم پشتیبانی نمی شود.",
   "ADDON_DISCLAIMER": "استفاده از افزونه های شخص ثالث همیشه مشمول مسئولیت شما و قانون حاکم بر حوزه قضایی است که در آن قرار دارید.",
   "ADDON_ACTIVATE": "این افزونه فعال شود؟",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "افزودن افزونه",
   "ADD_ADDON_DESCRIPTION": "می‌توانید افزونه‌ای را از طریق پیوند خارجی اضافه کنید، که در قسمت افزونه‌های نصب‌شده ظاهر می‌شود.",
   "PASTE_ADDON_URL": "URL افزونه را جایگذاری کنید",
+
   "WHATS_NEW": "چه چیز جدید است",
+
   "BUTTON_CONTINUE": "ادامه",
   "BUTTON_ACTIVATE": "فعال کردن",
   "BUTTON_ACTIVATED": "فعال شد",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "مشاهده همه",
   "BUTTON_SEE_ALL": "مشاهده همه",
   "BUTTON_COLOR_TRANSPARENT": "شفاف",
+
   "OPEN_IN_BROWSER": "باز کردن در مرورگر",
+
   "LIB_EMPTY": "کتابخانه شما خالی به نظر می رسد. ببینید چقدر مفید است :) ",
   "HOW_START": "در اینجا نحوه شروع آمده است:",
   "LIB_EMPTY_CAL": "تقویم شما سریال‌هایی را در کتابخانه شما نشان می‌دهد.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "برای دریافت همه این موارد ثبت نام کنید:",
   "LIB_EMPTY_BEST": "ثبت نام کنید تا بهترین ها را از Stremio دریافت کنید",
   "LIB_EMPTY_OTHER": "ثبت نام کنید تا تقویم و سایر ویژگی های جالب را فعال کنید",
+
   "CALENDAR_ADDED": "تقویم Stremio به تقویم رومیزی پیش فرض شما اضافه شده است.",
   "CALENDAR_ADDED_MSG": "اگر این کار نمی کند، لطفاً این URL را به صورت دستی به برنامه تقویم خود اضافه کنید",
+
   "TRAKT_EXPIRED": "تایید اعتبار Trakt منقضی شده است، لطفا به تنظیمات بروید و دوباره تایید اعتبار کنید",
   "TRAKT_REQUIRES_LOGIN": "خطای Trakt",
   "TRAKT_REQUIRES_LOGIN_MSG": "شما باید وارد شوید",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "غیر فعال",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "اعلان اتصال به شبکه",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "URL از راه دور",
   "SETTINGS_COPY_REMOTE_URL": "کپی کردن URL راه دور",
   "SETTINGS_REMOTE_URL_COPIED": "URL راه دور در کلیپ بورد شما کپی شده است",
+
   "SETTINGS_SECTION_SUBTITLES": "زیرنویس",
   "SETTINGS_SECTION_AUDIO": "صوت",
   "SETTINGS_SECTION_CONTROLS": "کنترل ها",
   "SETTINGS_SECTION_AUTO_PLAY": "پخش خودکار",
   "SETTINGS_SECTION_ADVANCED": "پیشرفته",
+
   "SUBSPICKER_AUDIO": "صوت",
   "SUBSPICKER_SUBTITLES": "افزونه های زیرنویس",
   "SUBSPICKER_BLACK_BACKGROUND": "استفاده از رنگ پس‌زمینه سیاه",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "اندازه",
   "SUBSPICKER_DELAY": "تاخیر",
   "SUBSPICKER_EMBEDDED_SUBS": "زیرنویس های تعبیه شده",
+
   "MOBILE_PRIVACY_POLICY": "سیاست حفظ حریم خصوصی",
   "MOBILE_CRASH_REPORTING": "گزارش خرابی",
   "MOBILE_ZOOM_TO_FILL": "بزرگنمایی برای پر کردن صفحه",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "حساب کاربری شما با استفاده از فیس بوک ایجاد شده است. برای حذف حساب کاربری خود، لطفا از پورتال کاربری ما در www.stremio.com/login استفاده کنید",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "لطفاً رمز عبور خود را برای تأیید حذف حساب وارد کنید.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "حذف اکانت",
+
   "NAVIGATION_ON": "روشن",
   "NAVIGATION_OFF": "خاموش",
+
   "MARKETING_AGREE": "من موافقت می کنم که ارتباطات بازاریابی را از Stremio دریافت کنم",
+
   "QUIT": "خروج",
+
   "CONNECTED": "متصل شده",
   "AUTHENTICATE": "تأیید اعتبار",
   "CACHING": "ذخیره سازی",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "نمایه تورنت",
   "DATA_CACHING": "کش داده ها",
   "MAGNET_PARSING": "تجزیه یک پیوند مگنت",
+
   "January": "ژانویه",
   "February": "فوریه",
   "March": "مارس",
@@ -609,6 +671,7 @@
   "October": "اکتبر",
   "November": "نوامبر",
   "December": "دسامبر",
+
   "Monday": "دوشنبه",
   "Tuesday": "سه شنبه",
   "Wednesday": "چهارشنبه",
@@ -616,6 +679,7 @@
   "Friday": "جمعه",
   "Saturday": "شنبه",
   "Sunday": "یکشنبه",
+
   "Action": "اکشن",
   "Comedy": "کمدی",
   "War": "جنگ",
@@ -691,6 +755,7 @@
   "Science Radio": "رادیو علم",
   "Tech Radio": "رادیو فناوری",
   "Science & Technology Vod": "علم و فناوری Vod",
+
   "new video": "ویدیوی جدید",
   "new episode": "قسمت جدید",
   "new movie": "فیلم جدید",
@@ -699,6 +764,7 @@
   "offer of the day": "پیشنهاد روز",
   "news": "اخبار",
   "music video": "موزیک ویدیو",
+
   "CTX_SHOW_HOTKEYS": "نمایش کلیدهای میانبر",
   "CTX_DISMISS_NOTIF": "رد اعلان‌ها",
   "CTX_DISMISS_ALL": "همه را رد کنید",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "چسباندن",
   "CTX_CLEAR": "پاک کردن",
   "CTX_CLEAR_RECENT_SEARCHES": "پاک کردن جستجوهای اخیر",
+
   "HELLO_THERE": "سلام به همه",
   "HOPE_YOU_ENJOY": "امیدواریم از Stremio لذت ببرید و در حال حاضر یکی از برنامه های مورد علاقه شما باشد!",
   "WHO_ARE_WE": "ما کی هستیم؟ ما تیم پشت آن هستیم - دو نفر که در 3 سال گذشته هر روز سخت کار می کنند تا این محصول را بهتر و بهتر کنند.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "اکنون با دوستان خود به اشتراک بگذارید، در مورد Stremio صحبت کنید",
   "MORE_PEOPLE": "هرچه افراد بیشتری از Stremio استفاده کنند، بهتر خواهد شد!",
   "SEND_A_LINK": "یا یک لینک به وب سایت ما ارسال کنید",
+
   "TIP_LOCALFILES": "نکته: می‌توانید فایل‌های ویدیویی محلی را به Stremio بکشید و رها کنید",
+
   "ADDON_MY": "افزونه های من",
   "ADDON_COMMUNITY": "افزونه های انجمن",
   "ADDON_OFFICIAL": "افزونه های رسمی",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "#{types} را به صورت رایگان تماشا کنید",
   "ADDON_PROVIDES_SUBTITLES": "زیرنویس برای #{types}",
   "ADDON_CANTDETECT": "ما نتوانستیم Stremio در حال اجرا را شناسایی کنیم، بنابراین نتوانستیم افزونه هایی را که نصب کرده اید تشخیص دهیم.",
+
   "ERR_NO_META": "هیچ اطلاعاتی در این مورد یافت نشد ",
   "ERR_GETTING_META": "در بازیابی اطلاعات این مورد خطا رخ داده است",
   "ERR_CANT_PARSE_MAGNET": "قادر به تجزیه مگنت نیست",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "نمی توان از کلیپ بورد پخش کرد",
   "ERR_CLIPBOARD_READ": "در این پلتفرم امکان خواندن کلیپ بورد وجود ندارد.",
   "ERR_CLIPBOARD_GENERIC": "هیچ URL قابل پخش در کلیپ بورد یافت نشد. لطفا یک URL (به عنوان مثال یک پیوند مگنت) را در یک ویدیو کپی کنید.",
+
   "BOARD_CONTINUE_WATCHING": "به تماشای ادامه دهید",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "فیلم هایی که به طور خاص برای شما انتخاب شده اند.<br />این فیلم یک نمونه توصیه است.",
   "BOARD_EXPLANATION_EPISODES": "قسمت‌های جدید سریال‌های مورد علاقه‌تان به اینجا می‌آیند.<br />سریالی را که دنبال می‌کنید به کتابخانه خود اضافه کنید.",
   "BOARD_EXPLANATION_VIDEOS": "قسمت‌های جدید کانال‌های مورد علاقه‌تان اینجا می‌آیند.<br />کانال‌های YouTube را که دنبال می‌کنید به کتابخانه خود اضافه کنید.",
+
   "WEBSITE_ENJOYED_BY": "بیش از 30 میلیون کاربر در سراسر جهان از آن لذت می برند",
   "WEBSITE_STREAMING_ENHANCED": "پخش جریانی بهبود یافته",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio یک تجربه سرگرمی ایمن، مدرن و یکپارچه را ارائه می دهد. با رابط کاربری آسان و کتابخانه محتوای متنوع، از جمله پشتیبانی 4K HDR، کاربران می توانند از فیلم ها و برنامه های تلویزیونی مورد علاقه خود در همه دستگاه های خود لذت ببرند. و با تعهد خود به امنیت، Stremio انتخاب نهایی برای یک تجربه پخش بدون نگرانی و با کیفیت بالا است.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "راهنمای Stremio Web در iOS",
   "WEBSITE_LINK_ART_V2": "گالری فن آرت",
   "WEBSITE_PARTNERS": "شریکان",
+
   "WEBSITE_SLOGAN_WATCH": "تماشای فوری",
   "WEBSITE_SLOGAN_ALL": "تمام محتوای ویدیویی که از آن لذت می برید در یک مکان",
   "WEBSITE_SLOGAN_NEW": "همه شما می توانید تماشا کنید",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "سریال‌ها",
   "WEBSITE_TYPE_tv": "تلویزیون زنده",
   "WEBSITE_TYPE_channel": "کانال ها",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio برنامه ای است که به شما کمک می کند ویدیوها، فیلم ها، سریال های تلویزیونی و کانال های تلویزیونی مورد علاقه خود را سازماندهی و فورا تماشا کنید.",
+
   "WEBSITE_FEATURES_WATCH": "فورا با کیفیت HD تماشا کنید",
   "WEBSITE_FEATURES_WATCH_DETAIL": "روی فیلم ها، نمایش های تلویزیونی، ویدیوها و کانال های تلویزیونی مورد علاقه خود کلیک کنید و پخش کنید.",
+
   "WEBSITE_FEATURES_SUBS": "زیرنویس خودکار",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio به طور خودکار زیرنویس های همگام سازی شده را برای زبان شما انتخاب می کند.",
   "WEBSITE_FEATURES_SUBS_LABEL": "حرکت شما است، رئیس.",
+
   "WEBSITE_FEATURES_CAST": "پخش در تلویزیون و دستگاه های تلفن همراه",
   "WEBSITE_FEATURES_CAST_DETAIL": "به AppleTV، Chromecast، تلویزیون هوشمند (DLNA/UPnP) و دستگاه‌های تلفن همراه ارسال کنید.",
+
   "WEBSITE_LIB": "از همگام سازی کتابخانه شخصی خود در همه دستگاه های خود لذت ببرید",
   "WEBSITE_LIB_COLLECT": "جمع آوری از Stremio",
   "WEBSITE_LIB_IMPORT": "وارد کردن از فیس بوک",
   "WEBSITE_LIB_LOCAL": "افزودن از درایو محلی خود",
+
   "WEBSITE_BOARD": "بورد - مکانی برای اعلان‌ها و توصیه‌های شما",
   "WEBSITE_BOARD_RECOMMEND": "برنامه تلویزیونی توصیه شده",
   "WEBSITE_BOARD_TRENDING": "فیلم پرطرفدار",
   "WEBSITE_BOARD_NEW": "ویدیو جدید",
   "WEBSITE_BOARD_EPISODE": "قسمت جدید",
+
   "WEBSITE_BOARD_1": "به دنبال چیز جالبی برای تماشا هستید؟ بر اساس سلیقه خود توصیه هایی دریافت کنید!",
   "WEBSITE_BOARD_2": "وقتی قسمت جدیدی از برنامه تلویزیونی یا کانال YouTube مورد علاقه شما منتشر شد، مطلع شوید!",
+
   "WEBSITE_BOARD_YOUTUBE": "ویدیوهای جدید کانال های یوتیوب",
   "WEBSITE_BOARD_EPISODES": "قسمت های جدید سریالی که دنبال می کنید",
+
   "WEBSITE_ADDONS": "افزونه های محتوا",
+
   "WEBSITE_TECH_DETAIL": "ما عاشق فناوری هستیم، ما عاشق و دیوانه علم  هستیم!\nStremio از فناوری های منبع باز زیر استفاده می کند:",
   "WEBSITE_TECH_WCJS": "WebChimera.js به Stremio اجازه می دهد تا هر فرمت ویدیویی را با عملکرد خوب پخش کند.",
   "WEBSITE_TECH_WCJS_EXTRA": "ما مشارکت کنندگان اصلی پروژه هستیم",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "ما مشارکت کنندگان پروژه هستیم",
   "WEBSITE_TECH_LINVODB": "یک فناوری پایگاه داده که تضمین می کند داده های شما در هر کجا که وارد می شوید سازماندهی شده و در دسترس باشند.",
   "WEBSITE_TECH_LINVODB_EXTRA": "فناوری داخلی",
+
   "WEBSITE_CREATE_ADDON": "افزونه خود را ایجاد کنید",
   "WEBSITE_CREATE_ADDON_DETAIL": "آیا سرویسی دارید که محتوای ویدیویی ارائه می دهد؟ ما به شما کمک می کنیم تا با ایجاد افزونه خود از ویژگی های Stremio بهره مند شوید.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "مزایای ایجاد افزونه برای Stremio",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "علاقه مندید؟ شما می توانید <a href='mailto:office@stremio.com'>با ما تماس بگیرید</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "ما خوشحال خواهیم شد که به شما کمک کنیم تا محتوای خود را با Stremio یکپارچه کنید!",
   "WEBSITE_P2P": "هر چند وقت یکبار، فناوری می آید که نام بازی را تغییر می دهد. ما زمان و تلاش زیادی را برای ساخت موتور پخش ویدیوی همتا به همتا (P2P) خود سرمایه گذاری کردیم که عملکرد و تطبیق پذیری عالی را برای انطباق با هر مورد استفاده ارائه می دهد.\nبرای ویدیوی P2P با قابلیت DRM یا پخش زنده با ما تماس بگیرید.",
+
   "WEBSITE_THOUGHTS": "افکاری که ما به اشتراک می گذاریم:",
   "WEBSITE_SPREAD": "در مورد Stremio صحبت کنید:",
   "WEBSITE_CONTACT": "با ما تماس بگیرید، خوشحال خواهیم شد که از شما بشنویم!",
   "WEBSITE_OPENSOURCE": "برای پروژه های متن باز ما، بروید به",
+
   "WEBSITE_BITCOIN": "اهدای بیت کوین:",
   "WEBSITE_FAQ": "سوالات متداول",
   "WEBSITE_FAQ_SHORT": "سوالات متداول",
   "WEBSITE_QUESTIONS": "سوالات",
   "WEBSITE_TOS": "شرایط استفاده",
   "WEBSITE_LEGAL": "قانونی",
+
   "WEBSITE_PAGE_ABOUT": "درباره",
   "WEBSITE_PAGE_BECOME_PARTNER": "شریک شوید",
   "WEBSITE_ALL_YOU_CAN_WATCH": "آزادی در تماشا\nهر چیزی که می خواهید.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "کاتالوگ ویدئویی با قابلیت گسترش بی نهایت.",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "ویژگی های عالی برای سازماندهی رسانه های شما؛",
   "WEBSITE_AS_SEEN_ON": "همانطور ببسنید که در",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "درباره ما",
   "WEBSITE_LINK_TECHNOLOGY": "تکنولوژی",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "شما می توانید از خدمات ما در هر دستگاهی و در هر زمان استفاده کنید و Stremio را به تنها مرکز سرگرمی ویدیویی تبدیل کنید که تا به حال به دنبال آن بوده‌اید.",
   "WEBSITE_TEAM": "تیم",
   "WEBSITE_TEAM_P": "تیم Stremio کوچک اما قدرتمند است: بین ده نفر، ما به زبان X کدنویسی می کنیم و تخصص خود را در توسعه نرم افزار، طراحی UI و UX، بازاریابی و تبلیغات، و تجارت و استارت آپ ها به اشتراک می گذاریم.",
+
   "WEBSITE_FEATURES": "ویژگی ها",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "محتوای جدید را به راحتی کشف کنید",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "ویدیو را از منابع مختلف تماشا کنید",
   "WEBSITE_FEATURES_SOURCES_P": "تجربه لذت بردن از ویدیوهای تهیه شده از ارائه دهندگان مختلف را با نصب افزونه های رسمی و جامعه، تقویت کنید - همه چیز در یک برنامه شیک و آسان برای استفاده.",
   "WEBSITE_CREATE_AN_ADDON": "یک افزونه ایجاد کنید",
+
   "WEBSITE_FEATURES_SYNC": "کتابخانه خود را در دستگاه های مختلف همگام سازی کنید و پخش خود را از سر بگیرید",
   "WEBSITE_FEATURES_SYNC_P1": "با حساب خود در همه دستگاه های خود وارد شوید و از کتابخانه، افزونه ها، پخش و تقویم همگام سازی شده خود لذت ببرید.",
   "WEBSITE_FEATURES_EXTENDABLE": "کاتالوگ ویدیویی قابل افزایش توسط افزونه ها",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "پخش در پخش کننده خارجی",
   "WEBSITE_FEATURES_POWER_USER_P2": "پخش از یک فایل تورنت یا لینک مگنت",
   "WEBSITE_FEATURES_POWER_USER_P3": "از لایک های فیس بوک یا دیسک محلی به کتابخانه خود وارد کنید",
+
   "WEBSITE_ADD_ONS": "افزونه ها",
   "WEBSITE_ADD_ONS_P1": "تمام محتوای ویدیویی که Stremio ارائه می‌کند از طریق یک سیستم افزونه تهیه می‌شود - هیچ محتوا یا ارائه‌دهنده محتوایی در برنامه ساخته نشده است.",
   "WEBSITE_ADD_ONS_P2": "دو گروه افزونه در دسترس است: افزونه های رسمی و جامعه.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "یک افزونه ایجاد کنید",
   "WEBSITE_ADDONS_CREATE_P1": "در صورت تمایل، می توانید افزونه خود را توسعه دهید. با این روش، می توانید به خود و جامعه ما دسترسی به محتوای ویدیویی جدید را بدهید و به مخاطبان جدید و هدفمند میلیون نفری در سراسر جهان دسترسی پیدا کنید.",
   "WEBSITE_ADDONS_START_CREATE": "برای شروع، از صفحه Stremio Addon SDK دیدن کنید:",
+
   "WEBSITE_DOWNLOADS": "دانلودها",
   "WEBSITE_DOWNLOADS_P1": "برای عملکرد بهینه، توصیه می کنیم از آخرین نسخه موجود برنامه های Stremio استفاده کنید. اما اگر به دلایلی مایل به استفاده از نسخه قدیمی هستید، می توانید آن را از اینجا دانلود کنید.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "برای عملکرد بهینه، توصیه می کنیم از آخرین نسخه موجود برنامه های Stremio استفاده کنید.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Stremio را در App Store دستگاه Xbox خود جستجو کنید",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "راهنمای سیستم عامل Stremio در RPI",
   "WEBSITE_LINK_GUIDE": "راهنما",
+
   "WEBSITE_DOWNLOAD_SERVICE": "سرویس Stremio را دانلود کنید",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service یک برنامه همراه برای Stremio Web است. توصیه می کنیم از آخرین نسخه موجود سرویس Stremio استفاده کنید.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "سرویس Stremio برای ویندوز",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "Stremio را برای Xbox منتشر کردیم",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "ما Stremio را برای Raspberry Pi منتشر کردیم",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "پلتفرم Stremio منبع باز است و می توانید به راحتی یک افزونه برای محتوایی که در حال حاضر منبع ندارد ایجاد کنید.",
   "WEBSITE_CONTRIBUTE_WHY": "چرا باید یک افزونه ایجاد کنید؟",
   "WEBSITE_CONTRIBUTE_WHY_P1": "برای محتوای ویدیوی خود به مخاطبان جدیدی دست پیدا کنید",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "اگر می‌خواهید از برنامه‌های Stremio به زبان‌های مختلف لذت ببرید، می‌توانید به انجمن مترجمان داوطلب ما بپیوندید. آنها به ما کمک می کنند تا نسخه های Stremio را به زبان های مختلف اضافه کنیم.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "آیا مشتاق شروع کار هستید؟",
   "WEBSITE_TRANSALTE_STREMIO": "Stremio را ترجمه کنید",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "جوامع رسمی",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "بخشی از جامعه رو به رشد Stremio شوید. ما را در شبکه های اجتماعی دنبال کنید و از سلام کردن خجالت نکشید - ما دوست داریم از طرفداران خود بشنویم! ",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "تصاویر پس زمینه",
   "WEBSITE_COMMUNITY_ART": "نمایشگاه هنری جامعه",
   "WEBSITE_LINK_ART": "نمایشگاه هنری جامعه",
+
   "WEBSITE_CONTACT_US": "تماس با ما",
   "WEBSITE_CONTACT_US_P1": "در صورت داشتن هرگونه سوال، نظر یا پیشنهاد می توانید از طریق فرم تماس زیر با ما در تماس باشید.",
   "WEBSITE_CONTACT_US_P2": "به خاطر داشته باشید که ما در بلغارستان واقع شده‌ایم، بنابراین ممکن است به دلیل اختلاف منطقه زمانی، رسیدگی به درخواست شما با تأخیر مواجه شود.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "ایمیل شما",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "پیام",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "ارسال",
+
   "WEBSITE_CONTACT_US_Q_1": "چگونه نصب کنیم؟",
   "WEBSITE_CONTACT_US_Q_2": "چگونه حذف نصب کنیم؟",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) چگونه لازانیا درست کنیم؟",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "لینوکس",
   "WEBSITE_CONTACT_US_OS_4": "اندروید",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "تکنولوژی",
   "WEBSITE_TECHNOLOGY_P1": "ما عاشق فناوری و علم و دیوانه آنها هستیم. و این </br> چیزی است که Stremio را تقویت می کند (همه چیز منبع باز است).",
   "WEBSITE_TECHNOLOGY_P_QT": "توسعه نرم افزار چند پلتفرمی در بهترین حالت.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "یا",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... می توانید از مهارت های کدنویسی خود برای ایجاد افزونه های انجمن استفاده کنید. ",
   "WEBSITE_TRANSLATE_STREMIO": "ترجمه Stremio",
+
   "WEBSITE_404_OH_NO": "اوه اوه! صفحه مورد نظر شما اینجا نیست...",
   "WEBSITE_GO_HOME": "رفتن به خانه",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "دانلودهای دیگر",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "مسابقه افزونه",
   "WEBSITE_LINK_ART_CONTEST": "مسابقه هنری",
   "WEBSITE_MY_ACCOUNT": "حساب کاربری من",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "Stremio چیست؟",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio یک مرکز رسانه مدرن است که به شما آزادی تماشای هر آنچه را که می خواهید می دهد.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "چگونه کار می کند؟",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "هنگامی که Stremio را بر روی دستگاه خود نصب کردید و یک حساب کاربری ایجاد کردید، تنها کاری که باید انجام دهید این است که به کاتالوگ افزونه ها مراجعه کنید و هر افزونه ای را که می خواهید نصب کنید، و شما آماده هستید!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "پس از آن، می توانید به بخش Discover یا Board بروید تا کاوش محتوا را شروع کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "چه چیزی را می توانم اینجا تماشا کنم؟",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "بسیاری از موارد: فیلم ها، برنامه های تلویزیونی، کانال های وب، ورزش، کانال های تلویزیونی، گوش دادن به پادکست و موارد دیگر. به لطف سیستم افزونه ما، می توانید به محتوای متنوعی دسترسی داشته باشید.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "آیا Stremio منبع باز است؟",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "بله، می‌توانید پیوندهای زیر را بررسی کنید: ${1}desktop app${2} و ${3}GitHub organisation${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "آیا Stremio ایمن است؟",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "بله: به دلیل اینکه این نرم افزار منبع باز است، کد قابل بازرسی عمومی است و می توانید خودتان آن را بررسی کنید.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "سیستم افزودنی Stremio نیز با در نظر گرفتن امنیت کاربر ایجاد شده است. افزونه ها هیچ کدی را به صورت محلی اجرا نمی کنند، بنابراین هیچ خطری برای دستگاه شما ایجاد نمی کنند.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "در مورد حریم خصوصی من چطور؟",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "ما به حریم خصوصی کاربران احترام می گذاریم و به جز حداقل های ضروری برای ایجاد و همگام سازی حساب شما، هیچ داده شخصی جمع آوری نمی کنیم.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "همچنین یک ${1}حالت مهمان${2} در هنگام ثبت نام وجود دارد که به هیچ داده ای نیاز ندارد: در این حالت، هیچ تماسی با بخش پشتیبان ما برقرار نمی شود. با این حال، این به قیمت از دست دادن ویژگی‌های مفید، مانند همگام‌سازی کتابخانه‌تان در بین دستگاه‌ها، تمام می‌شود.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "آیا می توانم به تلویزیون خود ارسال کنم؟",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "بله، ما از Chromecast پشتیبانی می کنیم و می توانید هم از برنامه های دسکتاپ و هم از برنامه های تلفن همراه (اندروید) ارسال کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio چند افزونه دارد؟",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "از اواخر سال 2019، بیش از 50 - برای اطلاعات بیشتر، کاتالوگ افزونه ما را بررسی کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "آیا می توان Stremio را فراتر از آنچه در کاتالوگ افزونه است گسترش داد؟",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "بله، باید این موارد را بررسی کنید: ${1}PimpMyStremio${2}، ${3}Reddit communities${4}، ${5}Stremio Downloader${6}، و غیره.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio از چه دستگاه هایی پشتیبانی می کند؟",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "ما برنامه های دسکتاپ برای ویندوز، مک و لینوکس داریم. برای تلفن همراه، ما از Android و iOS پشتیبانی می کنیم، اگرچه به خاطر داشته باشید که iOS از نظر عملکرد محدود است (از اکثر افزونه ها پشتیبانی نمی کند).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "بسیاری از دستگاه های مبتنی بر اندروید وجود دارند که می توانید Stremio را روی آنها اجرا کنید، مانند NVIDIA Shield و Amazon Fire Stick، اما ما به طور رسمی از آنها پشتیبانی نمی کنیم.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "ما برنامه های دسکتاپ برای ویندوز، مک و لینوکس داریم. ما همچنین برنامه های اختصاصی برای Android Mobile و Android TV داریم. برای iOS و iPadOS ما استفاده از Stremio Web را پیشنهاد می کنیم، اگرچه از نظر عملکرد محدودتر است.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "آیا می توانید محتوای خاصی را به Stremio اضافه کنید؟",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "متأسفیم، ما خودمان هیچ محتوایی ارائه نمی دهیم، اما هرچه افزونه های Stremio بیشتری نصب کرده باشید، محتوای بیشتری را می توانید پیدا کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "آیا Stremio می تواند لینک های مگنت را پخش کند؟",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "بله، و همچنین می تواند لینک های HTTP معمولی و فایل های تورنت (کشیدن و رها کردن) را پخش کند.",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "آیا می توانم یک ویدیو دانلود کنم و به صورت آفلاین تماشا کنم؟",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "داشتن قابلیت دیدن ویدیوها بدون نیاز به اینترنت یک ویژگی آینده محسوب می‌شود، اما اگر اجازه دهید Stremio اطلاعات آفلاین را در حافظه داخلی دستگاه شما ذخیره کند، بعدا می‌توانید ویدیوها را بدون نیاز به اتصال اینترنتی تماشا کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "هیچی کار نمیکنه کمکم کن!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "آیا مطمئن هستید که افزونه ها را نصب کرده اید؟ اگر بله، با ${1}مرکز راهنمایی${2} ما بررسی کنید.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio چگونه عملیات توسعه خود را حفظ می کند؟",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "ما گهگاه تبلیغات غیرمزاحم را اجرا می کنیم، اما در نظر داریم به سراغ یک مدل اهدا برویم.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "برای سؤالات بیشتر، به ${1}مرکز راهنمایی${2} ما بروید.",
+
   "HELP_LEARN_MORE": "به ما کمک کنید در مورد شما بیشتر بدانیم.",
   "LIFESTYLE": "سبک زندگی",
   "SPORTS": "ورزش",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "آخرین جستجوها",
   "CLEAR_HISTORY": "پاک کردن تاریخچه",
   "CHOOSE_SOME": "برخی از این موارد را انتخاب کنید:",
+
   "NO_WEB_REMOTE": "کنترل از راه دور وب بارگیری نشد",
   "STREMIO_OFFLINE": "Stremio آفلاین است",
   "STREMIO_EXPENSIVE_CONNECTION": "ما متوجه شده ایم که از اتصال داده تلفن همراه استفاده می کنید، آیا می خواهید ادامه دهید؟",
   "USE_DATA": "استفاده از داده ها",
   "WARNING": "هشدار",
+
   "MORE_INFO": "اطلاعات بیشتر...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "در حال بارگذاری...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "بازگشت به زبان ها",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "نمایش آمار هنگام بارگذاری",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "برای خواندن خط مشی رازداری Stremio، به این آدرس مراجعه کنید:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "برای مطالعه شرایط و ضوابط Stremio، به آدرس زیر مراجعه کنید:",
+
   "STREMIO_TV_NAV_SEARCH": "جستجو",
   "STREMIO_TV_NAV_HOME": "صفحه اصلی",
   "STREMIO_TV_NAV_DISCOVER": "کشف کردن",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "تلویزیون زنده",
   "STREMIO_TV_NAV_SETTINGS": "تنظیمات",
   "STREMIO_TV_NAV_ADDONS": "افزونه ها",
+
   "STREMIO_TV_LOGIN_TITLE": "پیوند حساب",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "منقضی می شود در",
   "STREMIO_TV_LOGIN_STEP_ONE": "کد QR بالا را اسکن کنید یا به آن بروید",
   "STREMIO_TV_LOGIN_STEP_TWO": "وارد حساب کاربری Stremio خود شوید",
   "STREMIO_TV_LOGIN_NEW_LINK": "درخواست لینک جدید",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "کد ورود سیستم به‌روز شد",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "چیزی تایپ کنید",
   "STREMIO_TV_SEARCH_NO_ADDONS": "هیچ افزونه ای برای کاتالوگ ها درخواست نشد!",
   "STREMIO_TV_SEARCH_BUTTON": "جستجو",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "تاریخچه جستجو",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "می توانید عناوین، بازیگران، کانال ها و موارد دیگر را جستجو کنید...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "پاک کردن تاریخچه جستجو",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "یکی از فیلترهای زیر را انتخاب کنید",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "سرور استریم آفلاین است. تنظیمات سرور را بررسی کنید.",
+
   "FILTERS": "فیلترها",
   "SETTINGS": "تنظیمات",
   "ACCOUNT": "حساب",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "تنظیم اندازه",
   "REMOTE_COULD_NOT_BE_LOADED": "کنترل از راه دور وب بارگیری نشد",
   "REMOTE_RETRY": "امتحان دوباره",
+
   "TORRENT_PROFILE_DEFAULT": "پیش فرض",
   "TORRENT_PROFILE_SOFT": "نرم",
   "TORRENT_PROFILE_FAST": "سریع",
   "TORRENT_PROFILE_ULTRA_FAST": "فوق العاده سریع",
+
   "FAQ_001_H1": "Stremio چیست؟",
   "FAQ_001_P1": "Stremio یک برنامه مرکز رسانه است که برای لذت بردن از موارد ویدیویی با تمرکز بر راحتی استفاده طراحی شده است. این اپلیکیشن به شما امکان می دهد که مجموعه فیلم ها، سریال ها، کانال ها و تلوزیون زنده خود را سازماندهی و تماشا کنید.",
   "FAQ_001_P2": "Stremio اطلاعاتی را که ارائه می دهد از حافظه داخلی شما و افزونه های ما جمع آوری می کند.",
   "FAQ_001_P3": "همچنین شما را در جریان انتشار قسمت‌ها/ویدیو‌ها/فیلم‌های جدیدی که به آن‌ها علاقه دارید قرار می‌دهد و پیشنهادهایی برای دیدن فیلم مطرح می‌کند.",
+
   "FAQ_02_H1": "Stremio چگونه با Kodi و Plex مقایسه می شود؟",
   "FAQ_02_P1": "ما از این دو نرم افزار الهام گرفته ایم. اما ما اهداف متفاوتی داریم - Stremio به طور خاص به سمت ویدیوهای سرگرمی هدف گذاری شده است و تلاش می کند تا با استفاده بسیار آسان به راه حل اصلی برای آن تبدیل شود.",
   "FAQ_02_P2": "Stremio هرگز به اندازه Kodi و Plex قابل تنظیم و ویژگی های غنی نخواهد بود، اما استفاده از آن به طور قابل توجهی آسان تر است. فقط ${1} آن را دریافت کنید و ${2} را ببینید :)",
+
   "FAQ_03_H1": "Stremio چگونه با Netflix مقایسه می شود؟",
   "FAQ_03_P1": "باز هم، نتفلیکس یکی از الهام‌بخش‌های ما است. ما در تلاش برای دستیابی به تجربه کاربری نتفلیکس، به علاوه بسیاری از موارد مفید هستیم. اما مهمتر از همه، ما به شما این آزادی را می دهیم که کتابخانه خود را مدیریت کنید و منابع محتوای جدید را با سیستم افزونه خود اضافه کنید.",
   "FAQ_03_P2": "این باعث می‌شود Stremio بی‌نهایت قابل تمدید باشد، بنابراین وقتی از Stremio استفاده می‌کنید، هرگز محدود به محتوایی نیستید که Netflix تصمیم به صدور مجوز می‌گیرد. برای مثال، از طریق Stremio می‌توانید محتوایی را از ${1} Filmon.tv ${2}، ${3} Twitch.tv${4}، ${5}YouTube${6}، ${7}Vodo$ تماشا کنید. {8} و حتی خود ${9}Netflix${10}!",
+
   "FAQ_04_H1": "Stremio چگونه با Flipboard مقایسه می شود؟",
   "FAQ_04_P1": "ما اغلب این پرسش را جواب نمی‌دهیم، مگر زمانی که با افراد تازه کار صحبت می‌کنیم :)",
   "FAQ_04_P2": "استریمو به طور ذاتی یک گردآورنده محتوا است که اساساً آن را به یک فلیپ‌برد برای ویدیو تبدیل می‌کند. این موضوع به ویژه در بخش «تابلو» (Board) ما بسیار مشهود است که کاتالوگ‌ها و اعلان‌های قسمت‌های جدید/ویدیوهای جدیدی را که دنبال می‌کنید، درست مانند فلیپ‌برد، به شما ارائه می‌دهد.",
+
   "FAQ_05_H1": "Stremio چگونه با Popcorn Time مقایسه می شود؟",
   "FAQ_05_P1": "Stremio و Popcorn Time در رابط کاربری مشابه هستند، زیرا راه های زیادی برای انجام درست کاتالوگ های سرگرمی ویدیویی وجود ندارد :)",
   "FAQ_05_P2": "اما در حالی که Popcorn Time بر روی استریم کردن تورنت از منابع خاص متمرکز است، Stremio نامحدود است و صرفاً یک جمع‌آورنده محتوا است - در منبع محتوای خاصی قفل نشده است.",
   "FAQ_05_P3": "علاوه بر این، ما هیچ افزونه تورنتی را به‌طور پیش‌فرض ارائه نمی‌کنیم، بنابراین Stremio موارد استفاده Popcorn Time را با عملکرد رسمی پوشش نمی‌دهد.",
   "FAQ_05_P4": "تفاوت قابل توجه دیگر این است که Popcorn Time کاملاً منبع باز است، در حالی که Stremio ${1} تا حدی منبع باز ${2} است.",
+
   "FAQ_06_H1": "آیا این فیلم/سریال را اضافه می کنید؟",
   "FAQ_06_P1": "نه ببخشید :(",
   "FAQ_06_P2": "همانطور که در بسیاری از سوالات دیگر ذکر شد، Stremio هیچ محتوایی را به خودی خود ارائه نمی دهد - همه چیز از طریق سیستم افزونه ها اضافه می شود. اگر درخواست محتوا دارید، می‌توانید از دکمه «گزارش» در Player استفاده کنید، که یک ایمیل برای نویسنده افزونه‌ای که در حال حاضر استفاده می‌کنید ارسال می‌کند.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "آیا افزونه ای برای X ایجاد می کنید؟",
   "FAQ_08_P1": "کاملا امکان پذیر است.",
   "FAQ_08_P2": "اگر ایده ای برای افزونه دارید، به آدرس ${1}office@stremio.com${2} برای ما بفرستید، اما لطفاً مطمئن شوید که ایده افزونه شما هیچ گونه حق نسخه برداری یا شرایط استفاده را نقض نمی کند.",
   "FAQ_08_P3": "در حال حاضر، چیزهای بعدی در نقشه راه ما افزونه‌هایی برای FandangoNOW، ویدیوی درخواستی Filmon.tv و Crunchyroll هستند.",
+
   "FAQ_09_H1": "آیا Stremio از بیت تورنت استفاده می کند؟",
   "FAQ_09_P1": "بله، Stremio از بیت تورنت به عنوان یک پروتکل استریم پشتیبانی می کند. می‌توانید از آن با افزونه تورنت یا با کشیدن و رها کردن یک فایل تورنت. در Stremio یا با چسباندن یک لینک مگنت در نوار جستجو استفاده کنید.",
   "FAQ_09_P2": "لطفاً توجه داشته باشید که تنها افزونه رسمی که از BitTorrent استفاده می‌کند، ${1}Vodo${2} است که محتوای مستقلی را ارائه می‌کند که همگی مجاز به توزیع با BitTorrent هستند.",
   "FAQ_09_P3": "ما از استفاده از افزونه های شخص ثالث که ممکن است نقض حق نسخه برداری را فعال کند، پشتیبانی نمی کنیم.",
+
   "FAQ_10_H1": "چه چیزی را می توانم در Stremio با افزونه های رسمی تماشا کنم؟",
   "FAQ_10_P1": "به طور پیش فرض، می توانید محتوای Filmon.tv، YouTube و Vodo را در خود Stremio با پخش کننده تعبیه شده تماشا کنید. علاوه بر این، ما یک افزونه برای Twitch.tv و چند مورد دیگر داریم.",
   "FAQ_10_P2": "این ترکیب مجموعه ای از موارد زیر را ارائه می دهد:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "فیلم های مستقل با Vodo",
   "FAQ_10_L4": "پخش بازی های آنلاین با Twitch.tv",
   "FAQ_10_P3": "علاوه بر این، منابع محتوای زیادی با Guidebox و افزونه‌های Netflix ارائه شده‌اند که <b>نمی‌شوند</b> کاملاً در Stremio پخش شوند، اما به سرویس داده‌شده هدایت می‌شوند. به عنوان مثال، افزونه Guidebox مجموعه‌ای از فیلم‌هایی را که می‌توانید به صورت رایگان در ایالات متحده پخش کنید، از سرویس‌هایی مانند TubiTV و Crackle در اختیار شما قرار می‌دهد.",
+
   "FAQ_11_H1": "Stremio نصب نمیشه، چیکار کنم؟",
   "FAQ_11_P1": "اگر از ویندوز استفاده می کنید، ${1}این نصب کننده جایگزین${2} را امتحان کنید.",
   "FAQ_11_P2": "اگر از Mac OS X استفاده می‌کنید، لطفاً توجه داشته باشید که ما هیچ چیز قدیمی‌تر از OS X Mavericks (10.9) را پشتیبانی نمی‌کنیم.",
   "FAQ_11_P3": "اگر از لینوکس استفاده می کنید، توجه داشته باشید که ما در حال حاضر فقط از لینوکس 64 بیتی (x64) پشتیبانی می کنیم.",
   "FAQ_11_P4": "اگر هنوز نمی توانید مشکل خود را حل کنید، لطفاً در ${1}گروه Facebook${2} ما برای ما بنویسید.",
+
   "FAQ_12_H1": "چرا آنتی ویروس مرا اخطار می دهد؟ آیا Stremio امن است؟",
   "FAQ_12_P1": "ما به شما اطمینان می دهیم که Stremio ${1}100% تمیز ${2} است.",
   "FAQ_12_P2": "آنتی ویروس شما اخطار می‌دهد زیرا ما تبلیغاتی را در نصب کننده خود اضافه می کنیم که برخی از برنامه های ضد ویروس آن را به عنوان ad-ware می شناسند.",
   "FAQ_12_P3": "اگر هنوز مطمئن نیستید، می‌توانید ${1}نصب‌کننده جایگزین${2} ما را امتحان کنید.",
+
   "FAQ_13_H1": "چگونه می توانم یک افزونه بسازم؟",
   "FAQ_13_P1": "برای شروع، توصیه می‌کنیم ${1}addons system module${2} ما را در GitHub بررسی کنید.",
   "FAQ_13_P2": "پس از آن، می‌توانید ${1}آموزش Hello World${2} را دنبال کنید.",
   "FAQ_13_P3": "اگر هیچ مهارت برنامه نویسی ندارید، لطفاً ایده خود را در ${1}انجمن Reddit${2} ارسال کنید و با ایده افزونه خود در ${3}office@stremio.com${4} با ما تماس بگیرید.",
+
   "FAQ_14_H1": "افزونه ها چگونه منتشر می شوند؟",
   "FAQ_14_P1": "هنگامی که یک افزونه و میزبان ایجاد می‌کنید و یک فیلد <b>نقطه پایانی</b> در مانیفست خود قرار می‌دهید که به آدرس افزونه فعال اشاره می‌کند، افزونه به‌طور خودکار خود را در ${1}کاتالوگ Addon${2} ما منتشر می‌کند.",
   "FAQ_14_P2": "این اتفاق می افتد زیرا بخش سرور ماژول stremio-addons به طور خودکار با API ما تماس می گیرد تا افزونه را اعلام کند. هنگامی که API ما <b>نقطه پایان</b> شما را به عنوان یک افزونه معتبر تأیید می‌کند، در کاتالوگ نشان داده می‌شود.",
+
   "FAQ_15_H1": "آیا می توانم Stremio را در مرورگر خود اجرا کنم؟",
   "FAQ_15_P1": "در حال حاضر نه، اما این در حال آمدن است!",
   "FAQ_15_P2": "اگر شما کنجکاو هستید تا یک آلفا را ببینید، می توانید آن را در اینجا ببینید: ${1}alpha4.strem.io${2}. به خاطر داشته باشید که استریمینگ در این آلفا غیر فعال است. ما Chrome ،Firefox ،Opera و Edge را پشتیبانی می کنیم.",
+
   "FAQ_16_H1": "ارسال به تلویزیون کار نمی کند / زیرنویس ها کار نمی کنند",
   "FAQ_16_P1": "Casting to TV از فناوری DLNA استفاده می کند که بین برندها و مدل های مختلف تلویزیون بسیار متناقض است. به همین دلیل، ما توانایی آزمایش آن را در هر موردی نداریم، بنابراین با کامل بودن فاصله زیادی دارد. با وجود این، ما در حال کار بر روی بهبود مداوم آن هستیم، اما نمی توانیم تخمین زمانی را در مورد زمان شروع کار صحیح DLNA با تلویزیون شما به شما ارائه دهیم.",
   "FAQ_16_P2": "اگر حتی تلویزیون خود را در منوی ارسال نمی‌بینید، لطفاً اتصال شبکه خود را غیرفعال کرده و مجدداً فعال کنید (در ویندوز، روی Network کلیک راست کرده و از Enable/Disable استفاده کنید)، و همچنین روتر، تلویزیون و رایانه شخصی خود را مجدداً راه‌اندازی کنید.",
   "FAQ_16_P3": "اگر همچنان با مشکل مواجه هستید، می‌توانید با ارسال اطلاعات برند و مدل تلویزیون خود به آدرس ${1}office@stremio.com${2} به ما کمک کنید.",
   "FAQ_16_P4": "در عین حال، Chromecast را توصیه می کنیم که به خوبی از آن پشتیبانی می کنیم یا به سادگی تلویزیون خود را با کابل HDMI به رایانه شخصی خود وصل کنید.",
+
   "FAQ_17_H1": "Stremio فریز می‌شود و/یا خراب می شود، چه کاری می توانم انجام دهم؟",
   "FAQ_17_P1": "اول از همه، اگر از Windows 7 با ضد ویروس AVG استفاده می کنید: ما با این ترکیب مشکل داریم. مشکل در AVG  است و راه منطقی برای حل آن در سمت ما وجود ندارد. متأسفانه، استثناها یا غیرفعال کردن ضد ویروس کار نمی کند. تنها راه حل جایگزینی AVG با چیز دیگری است.",
   "FAQ_17_P2": "اگر مشکل این نیست، اما همچنان از ویندوز استفاده می‌کنید، لطفاً به آخرین سرویس پک به‌روزرسانی کنید و درایورهای GPU خود را به‌روزرسانی/نصب مجدد کنید، سپس دوباره امتحان کنید.",
   "FAQ_17_P3": "اگر مشکل شما هنوز حل نشده است، یا از مک یا لینوکس استفاده می‌کنید، لطفاً جزئیات دقیق مشکل را در ${1}گروه ما در فیسبوک${2} برای ما بنویسید.",
+
   "FAQ_18_H1": "چگونه می توانم افزونه ایجاد کنم؟",
   "FAQ_18_P1": "برای شروع، توصیه می‌کنیم ${1}addons system module${2} ما را در GitHub بررسی کنید.",
   "FAQ_18_P2": "پس از آن، می‌توانید ${1}آموزش Hello World${2} را دنبال کنید.",
   "FAQ_18_P3": "اگر هیچ مهارت برنامه نویسی ندارید، لطفاً ایده خود را در ${1}انجمن Reddit${2} ارسال کنید و با ایده افزونه خود در ${3}office@stremio.com${4} با ما تماس بگیرید.",
+
   "FAQ_19_H1": "چرا Stremio فضای دیسک را اشغال می کند؟",
   "FAQ_19_P1": "Stremio یک <b>حافظه پنهان محلی</b> برای نگهداری موقت فایل‌های ویدئویی که پخش می‌کنید دارد.",
   "FAQ_19_P2": "این دو مزیت دارد: اول اینکه به Stremio اجازه می‌دهد تا ویدیوی پیش‌رو را از قبل بافر کند تا از پخش روان‌تر اطمینان حاصل شود. دوم، ویدئوها را در حافظه پنهان محلی نگه می دارد تا بتوانید به تماشای آفلاین آنها ادامه دهید.",
   "FAQ_19_P3": "مقدار Stremio به تنظیم <b>Cache</b> در پانل تنظیمات بستگی دارد. Stremio ممکن است تا مقدار تنظیم‌شده (مثلاً 2 گیگابایت) روی دیسک شما باقی بماند، مگر اینکه ویدیوی پخش‌شده فعلی بزرگ‌تر از آن باشد، در این صورت باید فضای ذخیره‌سازی کافی برای حفظ آن تا زمانی که آن را پخش کنید، اختصاص دهد.",
+
   "FAQ_20_H1": "پوشه کش کجاست؟",
   "FAQ_20_P1": "در ویندوز، آن stremio-cache در درایوی است که در تنظیمات انتخاب کرده اید (به عنوان مثال \"E:\\stremio-cache\")",
   "FAQ_20_P2": "در MacOS، \"~/Library/Application Support/Stremio/stremio-cache\" است",
   "FAQ_20_P3": "در لینوکس، \"~/.stremio/stremio-cache\" یا \"~/stremio-cache\" است",
+
   "FAQ_21_H1": "من با خطای \"سرور استریم یافت نشد\" مواجه شدم، چه باید بکنم؟",
   "FAQ_21_P1": "اگر این خطا را دریافت کردید، به معنی یکی از موارد زیر است:",
   "FAQ_21_P2": "1) شما دارید سعی می کنید از یک افزونه توسط منبع YouTube/BitTorrent، از طریق نسخه ${1}وب ما${2} استفاده کنید. در این موارد، باید نسخه دسکتاپ ما را از ${3}وبسایت ما${4} نصب کنید.",
   "FAQ_21_P3": "2) مشکلی در نصب Stremio شما وجود دارد. در این مورد، سعی کنید آخرین نسخه دسکتاپ ما را از ${1}وب سایت${2} دوباره نصب کنید. اگر این کار کمکی نکرد، برنامه های ضد ویروس و فایروال ها را غیرفعال کنید، کامپیوتر خود را مجددا راه اندازی کنید و دوباره امتحان کنید. اگر این نیز جواب نداد، لطفاً در ${3}گروه ما در فیس بوک${4} برای ما بنویسید.",
+
   "FAQ_22_H1": "با iOS اکثر افزونه‌ها قابل مشاهده و استفاده نیستند",
   "FAQ_22_P1": "به دلیل محدودیت‌های موجود در شرایط و ضوابط فروشگاه App Apple، ما برنامه iOS را فقط به مجموعه خاصی از افزونه‌ها محدود کرده‌ایم.",
   "FAQ_22_P2": "اما مطمئن باشید - در آینده افزونه های بیشتری برای iOS وجود خواهد داشت، و ممکن است همچنین یک ادغامی اضافه کنیم که به شما اجازه می دهد تمام افزونه های Stremio را با اتصال برنامه iOS به سرور استریمینگ Stremio استفاده کنید."

@@ -4,6 +4,7 @@
   "TYPE_tv": "ਟੀਵੀ ਚੈਨਲ",
   "TYPE_channel": "ਚੈਨਲ",
   "TYPE_other": "ਹੋਰ",
+
   "TYPE_movie_PL": "ਫਿਲਮ",
   "TYPE_series_PL": "ਸੀਰੀਅਲ",
   "TYPE_tv_PL": "ਟੀਵੀ ਚੈਨਲ",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "ਹੋਰ",
   "TYPE_ALL": "All",
   "TYPE": "Type",
+
   "CATALOG_com_linvo_cinemeta_top": "Popular",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Featured",
   "CATALOG_com_linvo_cinemeta_year": "New",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Public Domain Movies",
+
   "VIDEO": "ਵੀਡੀਓ",
+
   "BACK": "ਵਾਪਸ",
   "MORE": "ਹੋਰ",
   "DONE": "ਕੀ ਹੋਇਆ?",
   "COPY": "ਕਾਪੀ",
   "SUCCESS": "Success",
   "ERROR": "Error",
+
   "SETTINGS_CASTING_MODE_PICKER": "Casting mode",
   "CASTING_MODE_HLSV2": "Default",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "No transcoding",
+
   "Discover": "ਖੋਜ ਕਰੋ",
   "Board": "ਗ੍ਰਹਿ",
   "Library": "ਲਾਇਬ੍ਰੇਰੀ",
   "My Library": "ਮੇਰੀ ਲਾਇਬ੍ਰੇਰੀ",
   "Calendar": "ਅਲਮੇਂਕ",
+
   "NOTIFICATION_ONLINE": "ਹੁਣ ਤੁਸੀਂ online ਨਲਾਈਨ ਹੋ",
   "NOTIFICATION_OFFLINE": "ਤੁਸੀਂ ਇਸ ਸਮੇਂ offline ਫਲਾਈਨ ਹੋ",
   "INTERNET_CONNECTION": "ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ",
+
   "STORAGE_FULL_TITLE": "ਚੇਤਾਵਨੀ: ਸਟੋਰੇਜ ਪੂਰਾ!",
   "STORAGE_FULL_TEXT": "ਸਟ੍ਰੀਮਿਓ ਤੁਹਾਡੀਆਂ ਸੈਟਿੰਗਾਂ ਪਸੰਦਾਂ ਜਾਂ ਲੌਗਇਨ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋਵੇਗਾ.ਸ਼ੁਰੂ ਕਰਨ ਜਾਂ ਮੁੜ ਚਾਲੂ ਕਰਨ ਬਾਰੇ ਸੋਚੋ.",
+
   "SEARCH": "ਖੋਜ",
   "SEARCH_NO_RESULTS": "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਮਿਲਿਆ",
   "SEARCH_EXPLANATION_CONTENT": "ਫਿਲਮਾਂ ਦੀ ਸੀਰੀਜ਼ ਯੂਟਿ uband ਬ ਅਤੇ ਟੀ ​​ਵੀ ਚੈਨਲ ਲੱਭੋ",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "HTTP ਅਤੇ ਚੁੰਬਕ ਲਿੰਕ ਨੂੰ ਪੇਸਟ ਕਰੋ",
   "SEARCH_OR_PASTE_LINK": "Search or paste link",
   "SEARCH_SUGGESTIONS": "Search Suggestions",
+
   "ADD_TO_LIB": "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",
   "REMOVE_FROM_LIB": "ਲਾਇਬ੍ਰੇਰੀ ਤੋਂ ਹਟਾਓ",
   "ADDED_TO_LIB": "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ",
@@ -53,6 +63,7 @@
   "SHOW": "ਡਿਸਪਲੇਅ",
   "SHOW_MOVIE": "ਫਿਲਮ ਦਿਖਾਓ",
   "WATCH_RANDOM": "ਬੇਤਰਤੀਬ",
+
   "IMDB_RATING": "Imdb ਰੇਟਿੰਗ",
   "YEAR": "ਸਾਲ",
   "DIRECTOR": "ਨਿਰਦੇਸ਼ਕ",
@@ -75,11 +86,14 @@
   "FEATURED": "ਖਾਸ ਤੌਰ 'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ",
   "METADATA": "ਮੈਟਾਡੇਟਾ",
   "CATEGORY": "ਸੋਸ਼ਲ ਕਲਾਸ",
+
   "LINKS_GENRES": "Genres",
   "LINKS_CAST": "Cast",
   "LINKS_DIRECTORS": "Directors",
+
   "SEARCH_VIDEOS": "ਖੋਜ ਵੀਡੀਓ",
   "SEARCH_PLACEHOLDER": "URL ਲੱਭੋ ਜਾਂ ਪੇਸਟ ਕਰੋ",
+
   "ADDON": "ਹੋਰ ਜੋੜਨਾ",
   "ADDONS": "ਹੋਰ ਜੋੜਨਾ",
   "OFFICIAL": "ਅਧਿਕਾਰੀ",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "ਐਕਸਪੋਰਟ ਯੂਜ਼ਰ ਡੇਟਾ ਐਕਸਪੋਰਟ ਕਰੋ",
   "ADDON_PULL_FAILED": "ਤੁਹਾਡੇ ਖਾਤੇ ਤੋਂ ਡੁੱਬਣ ਵਾਲੇ ਵਿਗਿਆਪਨ ਅਸਫਲ ਹੋਏ",
   "REFRESH_ON_CLICK": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰਨ ਲਈ ਕਲਿਕ ਕਰੋ",
+
   "STILL_IN_THEATER": "ਫਿਲਮ ਅਜੇ ਵੀ ਥੀਏਟਰਾਂ ਵਿੱਚ",
   "WATCH_IN_CINEMA": "ਇਸ ਨੂੰ ਆਪਣੇ ਸਥਾਨਕ ਸਿਨੇਮਾ ਵਿਚ ਦੇਖੋ",
   "IN_THEATER": "ਸਿਨੇਮਾ ਵਿਚ",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "ਇਹ ਚੈਨਲ ਅਜੇ ਖੁਰਦਿਆ ਨਹੀਂ ਗਿਆ ਹੈ.<br> ਕ੍ਰਿਪਾ ਕਰਕੇ ਕੁਝ ਮਿੰਟਾਂ ਵਿੱਚ ਵਾਪਸ ਜਾਓ.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "ਇਸ ਨੂੰ ਉਪਲਬਧ ਹੋਣ ਤੋਂ ਬਾਅਦ ਸੂਚਿਤ ਕੀਤਾ ਜਾਣਾ, ਇਸ ਨੂੰ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "ਇੱਕ ਵਾਰ ਉਪਲਬਧ ਹੋਣ ਤੇ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕੀਤਾ ਜਾਵੇਗਾ.",
+
   "WARNING_STREAMING_SERVER": "ਚੇਤਾਵਨੀ: ਸਥਾਨਕ ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ ਨਹੀਂ ਲੱਭਿਆ.ਸਥਾਨਕ ਫਾਈਲਾਂ ਸਟ੍ਰੀਮਿੰਗ ਯੂਟਿ ube ਬ ਅਤੇ ਕੁਟੋਰ ਪ੍ਰਦਾਨ ਨਹੀਂ ਕਰਨਗੀਆਂ.",
   "WARNING_STREAMING_SERVER_DISMISS": "Dismiss",
   "WARNING_STREAMING_SERVER_LATER": "Later",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "Open in external player",
   "PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
   "PLAYER_PLAY_IN": "Play in {{device}}",
+
   "PLAYER_LIVE": "ਰਹੋ",
+
   "PLAYER_NEXT_VIDEO_TITLE": "ਅੱਗੇ ਆ ਰਿਹਾ ਹੈ",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "ਖਾਰਜ",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "ਹੁਣ ਦੇਖੋ",
+
   "PLAYER_COPY_STREAM_SUCCESS": "Stream link was copied to your clipboard",
   "PLAYER_COPY_STREAM_ERROR": "Failed to copy stream link",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+
   "STREAMING_FROM": "ਤੋਂ ਸਟ੍ਰੀਮਿੰਗ",
   "CASTING_TO": "ਕਾਸਟਿੰਗ",
   "NETWORK_STATUS": "ਨੈੱਟਵਰਕ ਸਥਿਤੀ",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "ਲਿੰਕਡ ਹਨ:",
   "PEERS_WAITING": "ਇੰਤਜ਼ਾਰ ਕਰਨਾ:",
   "TRANSCODING_WARNING": "ਚੇਤਾਵਨੀ: ਟ੍ਰਾਂਸਕੋਡ ਵੀਡੀਓ.",
+
   "STREAM_LOADING": "ਇਹ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ...",
   "PLAYING_LOCAL": "ਸਥਾਨਕ ਫਾਈਲ ਖੇਡਣਾ",
   "PLAYING_CACHE": "ਚੁਭਿਆ",
+
   "WRONG_SUBS": "ਗਲਤ ਉਪਸਿਰਲੇਖ?",
   "ERR_SUBS_LOADING_TITLE": "ਉਪਸਿਰਲੇਖ ਲੋਡ ਗਲਤੀ",
   "ERR_SUBS_LOADING": "ਅਸਫਲ ਕਰਨ ਵਾਲੇ ਉਪਸਲੇਟਰ ਲੋਡਿੰਗ: ਇਹ ਅਦੇਨ ਨਾਲ ਸਮੱਸਿਆ ਹੋ ਸਕਦੀ ਹੈ ਜਿਸ ਦੀ ਤੁਸੀਂ ਆਪਣੇ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ ਜਾਂ ਨਾਲ ਕਰ ਰਹੇ ਹੋ",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "ਹੇਠ ਦਿੱਤੇ ਉਪਸਿਰਲੇਖ ਐਡਨਜ਼ ਅਸਫਲ ਰਹੇ",
   "ERR_CASTING_UPDATE_TITLE": "ਕਾਸਟਿੰਗ ਡਿਵਾਈਸ ਨੂੰ ਅਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਿਆ: ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ offline ਫਲਾਈਨ ਹੋ ਸਕਦਾ ਹੈ",
+
   "CHOOSE_DEVICE": "ਵੇਖਣ ਲਈ ਇੱਕ ਉਪਕਰਣ ਦੀ ਚੋਣ ਕਰੋ",
   "NO_CAST_DEVICES": "ਕੋਈ ਕਾਸਟਿੰਗ ਡਿਵਾਈਸ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.",
+
   "NO_SETTINGS": "ਕੋਈ ਸੈਟਿੰਗਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ.",
+
   "PHONE_TABLET": "ਫੋਨ / ਟੈਬਲੇਟ",
+
   "SUBTITLES": "ਸਬ ਸੁਰਖੀ",
   "SUBTITLES_CHANGE": "ਲਈ ਉਪਸਿਰਲੇਖ ਬਦਲੋ",
   "SUBTITLES_CHANGE_NONE": "ਇਸ ਭਾਸ਼ਾ ਲਈ ਕੋਈ ਹੋਰ ਉਪਸਿਰਲੇਖ ਨਹੀਂ ਹੈ.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "ਉਪਸਿਰਲੇਖ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ...",
   "SUBTITLES_UNAVAILABLE": "ਕੋਈ ਬਾਹਰੀ ਉਪਸਿਰਲੇਖ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ",
   "SUBTITLES_DISABLED": "ਅਪਾਹਜ",
+
   "EXTERNAL_PLAYER_DISABLED": "Disabled",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "Allow Choosing",
   "EXTERNAL_PLAYER_HINT": "Hint: There is a setting to allow always opening with external player",
+
   "DONT_SHOW_AGAIN": "Don't show again",
+
   "SERVICE_INSTALL": "Install",
+
   "AUDIO": "Audio",
+
   "DEFAULT_LANGUAGE": "Default Language",
   "DEFAULT_SECONDARY_LANGUAGE": "Default Secondary Language",
+
   "SEASON": "ਸੀਜ਼ਨ",
   "EPISODE": "ਕੇਸ",
   "EPISODE_ABBREVIATION": "EP",
   "SPECIAL": "Special",
+
   "SORT": "ਦਿਆਲੂ",
   "SORT_BY": "ਦੇ ਨਾਲ ਕ੍ਰਮਬੱਧ",
   "FILTER": "ਫਿਲਟਰ",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "By times watched",
   "SORT_NOTWATCHED": "not watched",
+
   "New for You": "ਤੁਹਾਡੇ ਲਈ ਨਵਾਂ",
   "New Episodes": "ਨਵੇਂ ਐਪੀਸੋਡ",
   "New Videos": "ਨਵੇਂ ਵੀਡੀਓ",
   "Recommendations": "ਸਿਫਾਰਸ਼ਾਂ",
+
   "LIBRARY_RESUME": "ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ",
   "LIBRARY_PLAY": "Play",
   "LIBRARY_DETAILS": "ਵੇਰਵਾ",
   "LIBRARY_RESUME_DISMISS": "ਖਾਰਜ",
   "LIBRARY_CLEAR_PROGRESS": "Clear Progress",
   "LIBRARY_REMOVE": "Remove",
+
   "LIBRARY_NOT_LOGGED_IN": "Library is only available for logged in users",
   "CALENDAR_NOT_LOGGED_IN": "Calendar is only available for logged in users",
   "NOT_LOGGED_IN_CLOUD": "Access your favorite movies and TV shows anytime, anywhere",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "Recommendations tailored to your viewing history",
   "NOT_LOGGED_IN_NOTIFICATIONS": "Never miss an episode again",
   "NOT_LOGGED_IN_CALENDAR": "Schedule your personal watching calendar",
+
   "DISCOVER_FEATURED": "ਖਾਸ ਤੌਰ 'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ",
+
   "DISCOVER_TOP": "ਸਿਰ",
   "DISCOVER_OSCAR": "ਆਸਕਰ ਜੇਤੂ",
+
   "DISCOVER_WARNING_TITLE": "ਓਹ!",
   "DISCOVER_EMPTY_CATALOG": "ਇਹ ਅਡਿਨ ਨੇ ਖਾਲੀ ਸਮੱਗਰੀ ਵਾਪਸ ਕਰ ਦਿੱਤੀ.",
   "DISCOVER_ADULT_WARNING": "ਸਮੱਗਰੀ ਸਿਰਫ ਬਾਲਗਾਂ ਲਈ ਦਿਖਾਈ ਦਿੰਦੀ ਹੈ.ਕੀ ਤੁਸੀਂ 18+ ਹੋ?",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "ਇਹ ਸਮੱਗਰੀ ਹੁਣ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਸਥਾਪਨਾ ਸਥਾਪਤ ਅਡਿਨ ਹੋ ਸਕਦੀ ਹੈ.",
   "UNINSTALL_THIS_ADDON": "ਇਸ ਅਡੀਨ ਨੂੰ ਅਣਇੰਸਟੌਲ ਕਰੋ",
   "ERR_ADDON_NOT_INSTALLED": "ਇਹ ਅਡੇਨ ਸਥਾਪਤ ਨਹੀਂ ਹੈ.ਹੁਣ ਸਥਾਪਤ?",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "ਨਵੇਂ ਐਪੀਸੋਡਾਂ ਲਈ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "ਨਵੇਂ ਵੀਡੀਓ ਲਈ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰੋ",
+
   "SIDEBAR_SHOW_STREAMS": "ਸਟ੍ਰੀਮ ਦਿਖਾਓ",
+
   "RELAUNCH": "ਹੁਣ ਮੁੜ ਜਾਲ!",
   "UPGRADE": "ਨਵਾਂ ਵਰਜ਼ਨ ਉਪਲਬਧ!ਨਵੀਨਤਮ ਸਟ੍ਰੀਮਿਓ ਸੰਸਕਰਣ ਤੇ ਅਪਗ੍ਰੇਡ ਕਰੋ",
   "RELOAD_UI": "ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਨੂੰ ਦੁਹਰਾਓ",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "ਅਪਡੇਟ",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "ਅਗਿਆਤ ਉਪਭੋਗਤਾ",
   "DONT_HAVE_ACC": "ਕੋਈ ਖਾਤਾ ਨਹੀਂ?",
   "HAVE_ACC": "ਪਹਿਲਾਂ ਹੀ ਕੋਈ ਖਾਤਾ ਹੈ?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "ਹੰਟ ਅਸਫਲ ਰਿਹਾ",
   "EMAIL_USED": "ਇਹ ਈਮੇਲ ਪਹਿਲਾਂ ਹੀ ਵਰਤੋਂ ਅਧੀਨ ਹੈ.",
   "WAITING_FB_LOGIN": "ਫੇਸਬੁੱਕ ਨਾਲ ਲੌਗਇਨ ਕਰਨਾ ...",
+
   "EXTERNAL_PLAYER_TITLE": "ਬਾਹਰੀ ਖਿਡਾਰੀ ਵਿੱਚ ਖੇਡੋ",
   "EXTERNAL_REMEMBER_PLAYER": "ਕੀ ਤੁਸੀਂ ਆਪਣੀ ਪਸੰਦ ਨੂੰ ਯਾਦ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
   "EXTERNAL_ALWAYS_PLAY": "ਹਾਂ",
   "EXTERNAL_ONLY_ONCE": "ਨਹੀਂ",
+
   "BEST_FIT": "Best Fit",
   "FIT_SCREEN": "Fit Screen",
   "FILL": "Fill",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "Original",
+
   "INTRO_TASTE": "ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕੀ ਪਸੰਦ ਕਰਦੇ ਹੋ",
   "INTRO_TASTE_LONG": "ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ",
   "INTRO_TASTE_PICK": "{{ਹੁਸਵੀਸਿਮਨ ਲੀਨੀਅਰਿਨਿੰਗ} ਹਿੱਤਾਂ ਦੀ ਚੋਣ ਕਰੋ",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "ਡੀਆਈਵਾਈ ਕਿਵੇਂ ਕਰੀਏ",
   "INTRO_TASTE_TECH": "ਟੈਕਨੋਲੋਜੀ",
   "INTRO_TASTE_CINEMA": "ਸਿਨੇਮਾ",
+
   "ADDON_NOT_SUPPORTED": "ਇਸ ਪਲੇਟਫਾਰਮ ਤੇ ਚੁਣਿਆ ਅਡੇਨ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ.",
   "ADDON_DISCLAIMER": "ਤੀਜੀ -ਪਾਰਟੀ ਇਸ਼ਤਿਹਾਰਾਂ ਦੀ ਵਰਤੋਂ ਹਮੇਸ਼ਾ ਤੁਹਾਡੀ ਜ਼ਿੰਮੇਵਾਰੀ ਦੇ ਅਧੀਨ ਹੋਵੇਗੀ ਅਤੇ ਅਧਿਕਾਰ ਖੇਤਰ ਦੇ ਅਧਿਕਾਰਤ ਕਾਨੂੰਨ ਤੁਹਾਡੇ ਦੁਆਰਾ ਅਧਿਕਾਰਤ ਕਾਨੂੰਨ ਦੇ ਅਧੀਨ ਰਹੇਗੀ.",
   "ADDON_ACTIVATE": "ਇਸ ਅਡੀਨ ਨੂੰ ਸਰਗਰਮ ਕਰੋ?",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "Add addon",
   "ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
   "PASTE_ADDON_URL": "Paste addon URL",
+
   "WHATS_NEW": "ਨਵਾਂ ਕੀ ਹੈ",
+
   "BUTTON_CONTINUE": "ਜਾਰੀ ਰੱਖੋ",
   "BUTTON_ACTIVATE": "ਕਿਰਿਆਸ਼ੀਲ",
   "BUTTON_ACTIVATED": "ਕਿਰਿਆਸ਼ੀਲ",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "ਸਾਰੇ ਵੇਖੋ",
   "BUTTON_SEE_ALL": "See All",
   "BUTTON_COLOR_TRANSPARENT": "Transparent",
+
   "OPEN_IN_BROWSER": "Open in browser",
+
   "LIB_EMPTY": "ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਖਾਲੀ ਦਿਖਾਈ ਦੇ ਰਹੀ ਹੈ.ਇਹ ਪਤਾ ਲਗਾਓ ਕਿ ਇਹ ਕਿੰਨਾ ਲਾਭਦਾਇਕ ਹੈ :)",
   "HOW_START": "ਇਹ ਤੁਸੀਂ ਕਿਵੇਂ ਅਰੰਭ ਕਰ ਸਕਦੇ ਹੋ ਇਹ ਹੈ:",
   "LIB_EMPTY_CAL": "ਤੁਹਾਡਾ ਕੈਲੰਡਰ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਇੱਕ ਲੜੀ ਦਿਖਾਉਂਦਾ ਹੈ.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "ਇਹ ਸਭ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਾਈਨ ਅਪ ਕਰੋ:",
   "LIB_EMPTY_BEST": "ਵਧੀਆ ਸਟ੍ਰੀਮਿਓ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਾਈਨ ਅਪ ਕਰੋ",
   "LIB_EMPTY_OTHER": "ਕੈਲੰਡਰ ਅਤੇ ਹੋਰ ਮਹਾਨ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਸਾਈਨ ਅਪ ਕਰੋ",
+
   "CALENDAR_ADDED": "ਸਟ੍ਰੀਮਿਓ ਕੈਲੰਡਰ ਤੁਹਾਡੇ ਡਿਫਾਲਟ ਡੈਸਕਟੌਪ ਕੈਲੰਡਰ ਵਿੱਚ ਜੋੜਿਆ ਜਾਂਦਾ ਹੈ.",
   "CALENDAR_ADDED_MSG": "ਜੇ ਇਹ ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਇਸ URL ਨੂੰ ਆਪਣੀ ਕੈਲੰਡਰ ਐਪਲੀਕੇਸ਼ਨ ਤੇ ਹੱਥੀਂ ਸ਼ਾਮਲ ਕਰੋ",
+
   "TRAKT_EXPIRED": "ਟਰੈਕਟਰ ਪ੍ਰਮਾਣਿਕਤਾ ਪੂਰੀ ਕੀਤੀ ਗਈ ਹੈ ਕਿਰਪਾ ਕਰਕੇ ਸੈਟਿੰਗਾਂ ਤੇ ਜਾਓ ਅਤੇ ਮੁੜ-ਸੰਕਰਮਿਤ ਕਰੋ",
   "TRAKT_REQUIRES_LOGIN": "ਟ੍ਰੈਕਟ ਗਲਤੀ",
   "TRAKT_REQUIRES_LOGIN_MSG": "ਤੁਹਾਨੂੰ ਲੌਗਇਨ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਹੈ",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Disabled",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "Remote URL",
   "SETTINGS_COPY_REMOTE_URL": "Copy remote URL",
   "SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",
+
   "SETTINGS_SECTION_SUBTITLES": "Subtitles",
   "SETTINGS_SECTION_AUDIO": "Audio",
   "SETTINGS_SECTION_CONTROLS": "Controls",
   "SETTINGS_SECTION_AUTO_PLAY": "Auto-Play",
   "SETTINGS_SECTION_ADVANCED": "Advanced",
+
   "SUBSPICKER_AUDIO": "ਆਡੀਓ",
   "SUBSPICKER_SUBTITLES": "Addons Subtitles",
   "SUBSPICKER_BLACK_BACKGROUND": "ਕਾਲੇ ਪਿਛੋਕੜ ਦੇ ਰੰਗ ਦੀ ਵਰਤੋਂ ਕਰੋ",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "ਆਕਾਰ",
   "SUBSPICKER_DELAY": "ਦੇਰੀ",
   "SUBSPICKER_EMBEDDED_SUBS": "Embedded Subtitles",
+
   "MOBILE_PRIVACY_POLICY": "ਪਰਾਈਵੇਟ ਨੀਤੀ",
   "MOBILE_CRASH_REPORTING": "ਕਰੈਸ਼ ਰਿਪੋਰਟਿੰਗ",
   "MOBILE_ZOOM_TO_FILL": "ਸਕਰੀਨ ਨੂੰ ਭਰਨ ਲਈ ਜ਼ੂਮ ਕਰੋ",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Your account has been created using Facebook. To delete your account, please use our user portal at www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "Please provide your password to confirm account deletion.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "Delete Account",
+
   "NAVIGATION_ON": "On",
   "NAVIGATION_OFF": "Off",
+
   "MARKETING_AGREE": "ਮੈਂ ਸਟ੍ਰੀਡੈਂਡੋ ਤੋਂ ਮਾਰਕੀਟਿੰਗ ਸੰਚਾਰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹਾਂ",
+
   "QUIT": "ਛੱਡੋ",
+
   "CONNECTED": "ਲਿੰਕ ਕੀਤੇ ਗਏ ਹਨ",
   "AUTHENTICATE": "ਪ੍ਰਮਾਣਤ",
   "CACHING": "ਕੈਚਿੰਗ",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "ਟੋਰੈਂਟ ਪ੍ਰੋਫਾਈਲ",
   "DATA_CACHING": "ਡਾਟਾ ਕੈਸ਼ਿੰਗ",
   "MAGNET_PARSING": "ਇੱਕ ਚੁੰਬਕੀ ਲਿੰਕ ਪਾਰਸਿੰਗ",
+
   "January": "ਜਨਵਰੀ",
   "February": "ਫਰਵਰੀ",
   "March": "ਜਲੂਸ",
@@ -609,6 +671,7 @@
   "October": "ਅਕਤੂਬਰ",
   "November": "ਨਵੰਬਰ",
   "December": "ਦਸੰਬਰ",
+
   "Monday": "ਸੋਮਵਾਰ",
   "Tuesday": "ਮੰਗਲਵਾਰ",
   "Wednesday": "ਬੁੱਧਵਾਰ",
@@ -616,6 +679,7 @@
   "Friday": "ਸ਼ੁੱਕਰਵਾਰ",
   "Saturday": "ਸ਼ਨੀਵਾਰ",
   "Sunday": "ਐਤਵਾਰ ਐਤਵਾਰ",
+
   "Action": "ਕੰਮ",
   "Comedy": "ਕਾਮੇਡੀ",
   "War": "ਯੁੱਧ",
@@ -691,6 +755,7 @@
   "Science Radio": "ਸਾਇੰਸ ਰੇਡੀਓ",
   "Tech Radio": "ਤਕਨੀਕੀ ਰੇਡੀਓ",
   "Science & Technology Vod": "ਵਿਗਿਆਨ ਅਤੇ ਤਕਨਾਲੋਜੀ ਵੋਡ",
+
   "new video": "ਨਵੀਂ ਵੀਡੀਓ",
   "new episode": "ਨਵਾਂ ਐਪੀਸੋਡ",
   "new movie": "ਨਵੀਂ ਫਿਲਮ",
@@ -699,6 +764,7 @@
   "offer of the day": "ਦਿਨ ਦੀ ਪੇਸ਼ਕਸ਼",
   "news": "ਖ਼ਬਰਾਂ",
   "music video": "ਵੀਡੀਓ ਸੰਗੀਤ",
+
   "CTX_SHOW_HOTKEYS": "ਗਰਮ ਦਿਖਾਓ",
   "CTX_DISMISS_NOTIF": "ਜਾਣਕਾਰੀ ਨੂੰ ਬਰਖਾਸਤ ਕਰੋ",
   "CTX_DISMISS_ALL": "ਸਾਰੇ ਖਾਰਜ",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "ਪੇਸਟ",
   "CTX_CLEAR": "ਸਾਫ",
   "CTX_CLEAR_RECENT_SEARCHES": "ਤਾਜ਼ਾ ਖੋਜਾਂ ਨੂੰ ਸਾਫ਼ ਕਰੋ",
+
   "HELLO_THERE": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ",
   "HOPE_YOU_ENJOY": "ਅਸੀਂ ਆਸ ਕਰਦੇ ਹਾਂ ਕਿ ਤੁਸੀਂ ਸਟ੍ਰੀਮਿਓ ਦਾ ਅਨੰਦ ਲਓਗੇ ਅਤੇ ਇਹ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀਆਂ ਮਨਪਸੰਦ ਐਪਸ ਵਿਚੋਂ ਇਕ ਹੈ!",
   "WHO_ARE_WE": "ਅਸੀਂ ਕੌਣ ਹਾਂ?ਅਸੀਂ ਇਸ ਦੇ ਪਿੱਛੇ ਟੀਮ ਹਾਂ - ਦੋ ਲੋਕ ਜੋ ਹਰ ਦਿਨ ਸਖਤ ਮਿਹਨਤ ਕਰਦੇ ਹਨ ਇਸ ਉਤਪਾਦ ਨੂੰ ਬਿਹਤਰ ਅਤੇ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "ਆਪਣੇ ਦੋਸਤਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ ਸਟ੍ਰਾਮਬਿਓ ਬਾਰੇ ਸ਼ਬਦ ਫੈਲਾਓ",
   "MORE_PEOPLE": "ਜਿੰਨੇ ਲੋਕ ਸਟ੍ਰੀਮਿਓ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹਨ, ਉੱਨਾ ਹੀ ਚੰਗਾ ਹੋਵੇਗਾ!",
   "SEND_A_LINK": "ਜਾਂ ਸਾਡੀ ਵੈਬਸਾਈਟ ਤੇ ਲਿੰਕ ਭੇਜੋ",
+
   "TIP_LOCALFILES": "ਸੰਕੇਤ: ਤੁਸੀਂ ਸਥਾਨਕ ਵੀਡੀਓ ਫਾਈਲਾਂ ਨੂੰ ਸਟਰੇਮੋ ਵਿੱਚ ਖਿੱਚ ਸਕਦੇ ਹੋ ਅਤੇ ਛੱਡ ਸਕਦੇ ਹੋ",
+
   "ADDON_MY": "ਮੇਰੇ ਵਿਗਿਆਪਨ",
   "ADDON_COMMUNITY": "ਕਮਿ Community ਨਿਟੀ ਵਿਗਿਆਪਨ",
   "ADDON_OFFICIAL": "ਸਰਕਾਰੀ ਐਡਨਜ਼",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "ਮੁਫਤ ਲਈ #} ਟਾਈਪ} ਵੇਖੋ",
   "ADDON_PROVIDES_SUBTITLES": "ਕਿਸਮ ਲਈ ਉਪਸਿਰਲੇਖ",
   "ADDON_CANTDETECT": "ਅਸੀਂ ਇੱਕ ਚੱਲ ਰਹੇ ਟਰੇਮਿਓ ਦਾ ਪਤਾ ਨਹੀਂ ਲਗਾ ਸਕੇ ਤਾਂ ਜੋ ਅਸੀਂ ਇਹ ਪਤਾ ਲਗਾ ਸਕੀਏ ਕਿ ਤੁਸੀਂ ਕਿਹੜੇ ਵਿਗਿਆਪਨ ਸਥਾਪਤ ਕੀਤੇ ਹਨ.",
+
   "ERR_NO_META": "ਇਸ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ",
   "ERR_GETTING_META": "ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਗਲਤੀ.",
   "ERR_CANT_PARSE_MAGNET": "ਚੁੰਬਕ ਨੂੰ ਪਾਰਸ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "ਕਲਿੱਪਬੋਰਡ ਨਾਲ ਨਹੀਂ ਖੇਡ ਸਕਦਾ",
   "ERR_CLIPBOARD_READ": "ਇਸ ਪਲੇਟਫਾਰਮ ਤੇ ਕਲਿੱਪਬੋਰਡ ਨਹੀਂ ਪੜ੍ਹ ਸਕਦਾ",
   "ERR_CLIPBOARD_GENERIC": "ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਨਹੀਂ ਮਿਲਿਆ.ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੀਡੀਓ ਨੂੰ URL ਕਾਪੀ ਕਰੋ (ਜਿਵੇਂ ਕਿ ਇੱਕ ਚੁੰਬਕ ਲਿੰਕ).",
+
   "BOARD_CONTINUE_WATCHING": "ਦੇਖਦੇ ਰਹੋ",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "ਫਿਲਮਾਂ ਤੁਹਾਨੂੰ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ ਸਨ.ਫਿਲਮ ਨੂੰ ਫਿਲਮ ਦੇ ਨਮੂਨੇ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਗਈ ਹੈ.",
   "BOARD_EXPLANATION_EPISODES": "ਤੁਹਾਡੀ ਮਨਪਸੰਦ ਲੜੀ ਦੇ ਨਵੇਂ ਐਪੀਸੋਡ ਇੱਥੇ ਆਉਣਗੇ.<v /> ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿਚ ਦੀ ਲੜੀ ਸ਼ਾਮਲ ਕਰੋ.",
   "BOARD_EXPLANATION_VIDEOS": "ਤੁਹਾਡੇ ਮਨਪਸੰਦ ਚੈਨਲਾਂ ਦੇ ਨਵੇਂ ਐਪੀਸੋਡ ਇੱਥੇ ਆਉਂਦੇ ਹਨ.<br /> YouTube चैनल जोड़ें जो आप अपनी लाइब्रेरी में अनुसरण करते हैं।",
+
   "WEBSITE_ENJOYED_BY": "Enjoyed by more than 30 million users worldwide",
   "WEBSITE_STREAMING_ENHANCED": "Streaming Enhanced",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "Guide for Stremio Web on iOS",
   "WEBSITE_LINK_ART_V2": "Fanart Gallery",
   "WEBSITE_PARTNERS": "Partners",
+
   "WEBSITE_SLOGAN_WATCH": "ਤੁਰੰਤ ਵੇਖੋ",
   "WEBSITE_SLOGAN_ALL": "ਇਕ ਜਗ੍ਹਾ 'ਤੇ ਤੁਸੀਂ ਸਾਰੀ ਵੀਡੀਓ ਸਮਗਰੀ ਦਾ ਅਨੰਦ ਲੈਂਦੇ ਹੋ",
   "WEBSITE_SLOGAN_NEW": "ਤੁਸੀਂ ਸਾਰੇ ਵੇਖ ਸਕਦੇ ਹੋ",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "ਸੀਰੀਜ਼",
   "WEBSITE_TYPE_tv": "ਲਾਈਵ ਟੀਵੀ",
   "WEBSITE_TYPE_channel": "ਚੈਨਲ",
+
   "WEBSITE_STREMIO_WHAT_IS": "ਸਟ੍ਰੀਮਿਓ ਇਕ ਐਪ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਆਪਣੀ ਮਨਪਸੰਦ ਵੀਡੀਓ ਫਿਲਮਾਂ ਦੀ ਸੀਰੀਜ਼ ਅਤੇ ਟੀਵੀ ਲੜੀਵਾਰ ਲੜੀਵਾਰ ਲੜੀ ਅਤੇ ਚੈਨਲਾਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰਨ ਵਿਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ.",
+
   "WEBSITE_FEATURES_WATCH": "ਤੁਰੰਤ ਐਚਡੀ ਵਿੱਚ ਵੇਖੋ",
   "WEBSITE_FEATURES_WATCH_DETAIL": "ਕਲਿਕ ਕਰੋ ਅਤੇ ਤੁਹਾਡੀਆਂ ਮਨਪਸੰਦ ਫਿਲਮਾਂ ਟੀਵੀ ਵੀਡੀਓ ਅਤੇ ਟੀ ​​ਵੀ ਚੈਨਲ ਦਿਖਾਉਂਦਾ ਹੈ.",
+
   "WEBSITE_FEATURES_SUBS": "ਆਟੋਮੈਟਿਕ ਉਪਸਿਰਲੇਖ",
   "WEBSITE_FEATURES_SUBS_DETAIL": "ਸਟ੍ਰੀਮਿਓ ਆਪਣੀ ਭਾਸ਼ਾ ਲਈ ਆਪਣੇ ਆਪ ਤਾਲਮੇਲ ਵਾਲੇ ਉਪਸਿਰਲੇਖ ਦੀ ਚੋਣ ਕਰਦਾ ਹੈ.",
   "WEBSITE_FEATURES_SUBS_LABEL": "ਤੁਹਾਡਾ ਕਦਮ ਮੁੱਖ ਹੈ.",
+
   "WEBSITE_FEATURES_CAST": "ਟੀਵੀ ਅਤੇ ਮੋਬਾਈਲ ਉਪਕਰਣਾਂ 'ਤੇ ਖੇਡੋ",
   "WEBSITE_FEATURES_CAST_DETAIL": "ਸ਼ੌਕੀਫਾਸਟ ਸਮਾਰਟ ਟੀਵੀ (DLNA / UPNP) ਅਤੇ ਮੋਬਾਈਲ ਉਪਕਰਣ.",
+
   "WEBSITE_LIB": "ਆਪਣੀ ਨਿੱਜੀ ਲਾਇਬ੍ਰੇਰੀ ਦਾ ਅਨੰਦ ਲਓ ਆਪਣੇ ਸਾਰੇ ਉਪਕਰਣਾਂ ਨੂੰ ਡੁੱਬਣਾ",
   "WEBSITE_LIB_COLLECT": "ਸਟ੍ਰੀਮਿਓ ਤੋਂ ਲਓ",
   "WEBSITE_LIB_IMPORT": "ਫੇਸਬੁੱਕ ਤੋਂ ਆਯਾਤ ਕਰੋ",
   "WEBSITE_LIB_LOCAL": "ਆਪਣੀ ਸਥਾਨਕ ਡਰਾਈਵ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ",
+
   "WEBSITE_BOARD": "ਬੋਰਡ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਅਤੇ ਸਿਫਾਰਸ਼ਾਂ ਲਈ ਤੁਹਾਡਾ ਇਕ -ਸਟੋਪ ਜਗ੍ਹਾ",
   "WEBSITE_BOARD_RECOMMEND": "ਸਿਫਾਰਸ਼ੀ ਟੀਵੀ ਸ਼ੋਅ",
   "WEBSITE_BOARD_TRENDING": "ਟ੍ਰੈਂਡਿੰਗ ਫਿਲਮ",
   "WEBSITE_BOARD_NEW": "ਨਵੀਂ ਵੀਡੀਓ",
   "WEBSITE_BOARD_EPISODE": "ਨਵਾਂ ਐਪੀਸੋਡ",
+
   "WEBSITE_BOARD_1": "ਵੇਖਣ ਲਈ ਕੁਝ ਦਿਲਚਸਪ ਲੱਭ ਰਹੇ ਹੋ?ਆਪਣੇ ਸਵਾਦ ਦੇ ਅਧਾਰ ਤੇ ਸਿਫਾਰਸ਼ਾਂ ਪ੍ਰਾਪਤ ਕਰੋ!",
   "WEBSITE_BOARD_2": "ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮਨਪਸੰਦ ਟੀਵੀ ਸ਼ੋਅ ਜਾਂ ਯੂਟਿ choupenube ਬ ਚੈਨਲ ਦਾ ਨਵਾਂ ਕਿੱਸਾ ਹੁੰਦਾ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਬਾਹਰ ਕੱ .ੋ!",
+
   "WEBSITE_BOARD_YOUTUBE": "ਯੂਟਿ .ਬ ਚੈਨਲਾਂ ਦੇ ਨਵੇਂ ਵੀਡੀਓ",
   "WEBSITE_BOARD_EPISODES": "ਲੜੀ ਦੇ ਨਵੇਂ ਐਪੀਸੋਡ ਜੋ ਤੁਸੀਂ ਕਰਦੇ ਹੋ",
+
   "WEBSITE_ADDONS": "ਪਦਾਰਥਕ ਅਸ਼ਾਂਤ",
+
   "WEBSITE_TECH_DETAIL": "ਸਾਨੂੰ ਪਿਆਰ ਤਕਨਾਲੋਜੀ ਨੂੰ ਪਿਆਰ ਕਰਦੇ ਹਾਂ ਅਸੀਂ ਪਾਗਲ ਵਿਗਿਆਨ ਨੂੰ ਪਿਆਰ ਕਰਦੇ ਹਾਂ!Nstremio ਹੇਠ ਦਿੱਤੇ ਓਪਨ ਸੋਰਸ ਟੈਕਨੋਲੋਜੀ ਵਰਤ ਰਿਹਾ ਹੈ:",
   "WEBSITE_TECH_WCJS": "ਵੈਬਸ਼ੀਮੇਰਾ.ਜੇਜ਼ ਸਟ੍ਰੀਮਿਓ ਨੂੰ ਚੰਗੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨਾਲ ਕਿਸੇ ਵੀ ਵੀਡੀਓ ਫਾਰਮੈਟ ਨੂੰ ਚਲਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ.",
   "WEBSITE_TECH_WCJS_EXTRA": "ਅਸੀਂ ਕੋਰ ਪ੍ਰੋਜੈਕਟ ਦੇ ਯੋਗਦਾਨ ਪਾਉਂਦੇ ਹਾਂ",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "ਅਸੀਂ ਪ੍ਰੋਜੈਕਟ ਦੇ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲੇ ਹਾਂ",
   "WEBSITE_TECH_LINVODB": "ਇੱਕ ਡੇਟਾਬੇਸ ਤਕਨੀਕ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰਦੀ ਹੈ ਕਿ ਤੁਹਾਡਾ ਡਾਟਾ ਕਿਤੇ ਵੀ ਸੰਗਠਿਤ ਅਤੇ ਉਪਲਬਧ ਹੈ.",
   "WEBSITE_TECH_LINVODB_EXTRA": "ਅੰਦਰ-ਅੰਦਰ ਤਕਨਾਲੋਜੀ",
+
   "WEBSITE_CREATE_ADDON": "ਆਪਣਾ ਐਡਨ ਬਣਾਓ",
   "WEBSITE_CREATE_ADDON_DETAIL": "ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਵੀਡੀਓ ਸਮਗਰੀ ਸੇਵਾ ਸੇਵਾ ਹੈ?ਅਸੀਂ ਤੁਹਾਨੂੰ ਆਪਣੇ ਅਦੇਜ਼ੇ ਬਣਾ ਕੇ ਸਟ੍ਰੀਮਿਓ ਦੀਆਂ ਸਹੂਲਤਾਂ ਤੋਂ ਲਾਭ ਪ੍ਰਾਪਤ ਕਰਾਂਗੇ.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "ਸਟ੍ਰਾਬੇਈ ਲਈ ਇੱਕ ਅਡਿਨ ਬਣਾਉਣ ਦੇ ਲਾਭ",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "ਇੱਛਾ?ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ <a href = 'mailto.com: Usforeo ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ </a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "ਅਸੀਂ ਤੁਹਾਡੀ ਸਮਗਰੀ ਨੂੰ ਸਟ੍ਰਮੀਓ ਨਾਲ ਏਕੀਕ੍ਰਿਤ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਵਿੱਚ ਖੁਸ਼ ਹੋਵਾਂਗੇ!",
   "WEBSITE_P2P": "ਇਕ ਵਾਰ ਜਦੋਂ ਇੱਥੇ ਇਕ ਤਕਨੀਕ ਹੁੰਦੀ ਹੈ ਜੋ ਖੇਡ ਦਾ ਨਾਮ ਬਦਲਦਾ ਹੈ.ਅਸੀਂ ਆਪਣੇ ਪੀਅਰ-ਟੂ-ਪਿਅਰ (ਪੀ 2 ਪੀ) ਵੀਡੀਓ ਸਟ੍ਰੀਮਿੰਗ ਇੰਜਨ ਦੇ ਨਿਰਮਾਣ ਵਿਚ ਬਹੁਤ ਸਾਰਾ ਸਮਾਂ ਅਤੇ ਕੋਸ਼ਿਸ਼ ਦਾ ਨਿਵੇਸ਼ ਕੀਤਾ ਜੋ ਕਿਸੇ ਵੀ ਵਰਤੋਂ ਦੇ ਕਿਸੇ ਵੀ ਕੇਸ ਨੂੰ ਅਨੁਕੂਲਿਤ ਕਰਨ ਲਈ ਬਹੁਤ ਜ਼ਿਆਦਾ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਬਹੁ-ਪਛਾਣ ਅਤੇ ਬਹੁ-ਪਛਾਣ ਅਤੇ ਬਹੁ-ਪਛਾਣ ਅਤੇ ਬਹੁ-ਪਛਾਣ ਅਤੇ ਬਹੁ-ਪਛਾਣ ਅਤੇ ਕਿਸੇ ਵੀ ਵਰਤੋਂ ਦੇ ਨਾਲ ਤਰਕਸ਼ੀਲਤਾ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਾਂ.N drm- ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰਨ ਜਾਂ ਸਮਰੱਥ ਪੀ 2 ਪੀ ਵਿਡੀਓਜ਼ ਲਈ ਲਾਈਵ ਸਟ੍ਰੀਮਿੰਗ ਲਈ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ.",
+
   "WEBSITE_THOUGHTS": "ਵਿਚਾਰ ਅਸੀਂ ਸਾਂਝਾ ਕਰਦੇ ਹਾਂ:",
   "WEBSITE_SPREAD": "ਸਟ੍ਰਾਬੀਓ ਬਾਰੇ ਸ਼ਬਦ ਫੈਲਾਓ:",
   "WEBSITE_CONTACT": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਅਸੀਂ ਤੁਹਾਡੇ ਤੋਂ ਸੁਣਕੇ ਖੁਸ਼ ਹੋਵਾਂਗੇ!",
   "WEBSITE_OPENSOURCE": "ਸਾਡੇ ਓਪਨ ਸੋਰਸ ਪ੍ਰੋਜੈਕਟਾਂ ਲਈ ਸਾਡੇ ਕੋਲ ਜਾਓ",
+
   "WEBSITE_BITCOIN": "ਬਿੱਟਕੋਇਨ ਦਾਨ ਕਰੋ:",
   "WEBSITE_FAQ": "ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਪ੍ਰਸ਼ਨ",
   "WEBSITE_FAQ_SHORT": "ਆਮ ਸਵਾਲ",
   "WEBSITE_QUESTIONS": "ਸਵਾਲ",
   "WEBSITE_TOS": "ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ",
   "WEBSITE_LEGAL": "ਕਾਨੂੰਨੀ",
+
   "WEBSITE_PAGE_ABOUT": "ਇਸ ਬਾਰੇ",
   "WEBSITE_PAGE_BECOME_PARTNER": "ਸਾਥੀ ਬਣ",
   "WEBSITE_ALL_YOU_CAN_WATCH": "ਤੁਸੀਂ ਘਬਰਾਉਣਾ ਅਜ਼ਾਦੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "ਅਨੰਤ ਤੌਰ ਤੇ ਫੈਲਣਯੋਗ ਵੀਡੀਓ ਕੈਟਾਲਾਗ;",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "ਆਪਣੇ ਮੀਡੀਆ ਨੂੰ ਸੰਗਠਿਤ ਕਰਨ ਲਈ ਬਹੁਤ ਵਧੀਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ;",
   "WEBSITE_AS_SEEN_ON": "ਜਿਵੇਂ ਦੇਖਿਆ ਗਿਆ ਹੈ",
+
   "WEBSITE_STREMIO": "ਮਿਸ਼ਰਿਤ",
   "WEBSITE_LINK_ABOUT_US": "ਸਾਡੇ ਬਾਰੇ",
   "WEBSITE_LINK_TECHNOLOGY": "ਟੈਕਨੋਲੋਜੀ",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "ਤੁਸੀਂ ਸਾਡੀ ਸੇਵਾ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਤੇ ਵਰਤ ਸਕਦੇ ਹੋ ਅਤੇ ਕਿਸੇ ਵੀ ਸਮੇਂ ਇੱਕ ਸਟ੍ਰੀਮਿਓ ਬਣਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਕਦੇ ਵੀਡਿਓ ਮਨੋਰੰਜਨ ਹੱਬ ਬਣਾਉਣ ਦੀ ਜ਼ਰੂਰਤ ਹੋਏਗੀ.",
   "WEBSITE_TEAM": "ਟੀਮ",
   "WEBSITE_TEAM_P": "ਸਟ੍ਰੀਮਿਓ ਟੀਮ ਇਕ ਛੋਟੀ ਜਿਹੀ ਪਰ ਸ਼ਕਤੀਸ਼ਾਲੀ ਹੈ: ਸਾਡੇ ਵਿਚੋਂ 10 ਅਸੀਂ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਅਤੇ ਕਾਰੋਬਾਰ ਅਤੇ ਸਟਾਰਟਅਪਾਂ ਵਿਚ ਕੋਡ ਅਤੇ ਸਾੱਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ ਯੂਆਈ ਅਤੇ ਯੂਐਕਸ ਡਿਜ਼ਾਈਨ ਮਾਰਕੀਟਿੰਗ ਅਤੇ ਮਹਾਰਤ ਸਾਂਝੇ ਕਰਦੇ ਹਾਂ.",
+
   "WEBSITE_FEATURES": "ਗੁਣ",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "ਨਵੀਂ ਸਮੱਗਰੀ ਨੂੰ ਆਸਾਨੀ ਨਾਲ ਖੋਜੋ",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "ਬਹੁਤ ਸਾਰੇ ਵੱਖ ਵੱਖ ਸਰੋਤਾਂ ਤੋਂ ਵੀਡੀਓ ਵੇਖੋ",
   "WEBSITE_FEATURES_SOURCES_P": "ਬਹੁਤ ਸਾਰੇ ਵੱਖ-ਵੱਖ ਪ੍ਰਦਾਤਾਵਾਂ ਤੋਂ ਪ੍ਰਾਪਤ ਹੋਏ ਵੀਡੀਓ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅਧਿਕਾਰਤ ਅਤੇ ਕਮਿ Community ਨਿਟੀ ਵਿਗਿਆਪਨਾਂ ਸਥਾਪਤ ਕਰੋ - ਐਪ ਵਿੱਚ ਸਾਰੀ ਨਿਰਵਿਘਨ ਵਰਤੋਂ.",
   "WEBSITE_CREATE_AN_ADDON": "ਇੱਕ ਅਡਿਨ ਬਣਾਓ",
+
   "WEBSITE_FEATURES_SYNC": "ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਵੱਖ ਵੱਖ ਯੰਤਰਾਂ ਵਿੱਚ ਡੁੱਬੋ ਅਤੇ ਆਪਣੇ ਪਲੇਬੈਕ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰੋ",
   "WEBSITE_FEATURES_SYNC_P1": "ਆਪਣੇ ਸਾਰੇ ਯੰਤਰਾਂ ਵਿੱਚ ਆਪਣੇ ਖਾਤੇ ਤੋਂ ਲੌਗਇਨ ਕਰੋ ਅਤੇ ਆਪਣੇ ਲਾਇਬ੍ਰੇਰੀ ਦੇ ਇਸ਼ਤਿਹਾਰ ਪਲੇਬੈਕ ਅਤੇ ਕੈਲੰਡਰ ਸਮਕਾਲੀ ਦਾ ਅਨੰਦ ਲਓ.",
   "WEBSITE_FEATURES_EXTENDABLE": "ਇਸ਼ਤਿਹਾਰਾਂ ਦੁਆਰਾ ਵੀਡਿਓ ਵੀਡੀਓ ਕੈਟਾਲਾਗ",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "ਬਾਹਰੀ ਖਿਡਾਰੀ ਵਿੱਚ ਖੇਡੋ",
   "WEBSITE_FEATURES_POWER_USER_P2": "ਟੋਰੈਂਟ ਫਾਈਲ ਜਾਂ ਚੁੰਬਕ ਲਿੰਕ ਨਾਲ ਖੇਡੋ",
   "WEBSITE_FEATURES_POWER_USER_P3": "ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਲਈ ਫੇਸਬੁੱਕ ਦੀ ਚੋਣ ਜਾਂ ਸਥਾਨਕ ਡਿਸਕ ਆਯਾਤ ਕਰੋ",
+
   "WEBSITE_ADD_ONS": "ਹੋਰ ਜੋੜਨਾ",
   "WEBSITE_ADD_ONS_P1": "ਸਾਰੇ ਵੀਡੀਓ ਸਮਗਰੀ ਸਟ੍ਰੀਮਿਓ ਨੂੰ ਇੱਕ ਅਡਿਨ ਸਿਸਟਮ ਦੁਆਰਾ ਸਰੋਤ ਪ੍ਰਦਾਨ ਕੀਤਾ ਜਾਂਦਾ ਹੈ - ਐਪ ਵਿੱਚ ਕੋਈ ਮਾੜਾ ਜਾਂ ਪਦਾਰਥਕ ਪ੍ਰਦਾਤਾ ਨਹੀਂ ਬਣਾਇਆ ਜਾਂਦਾ.",
   "WEBSITE_ADD_ONS_P2": "ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਦੋ ਸਮੂਹ ਉਪਲਬਧ ਹਨ: ਅਧਿਕਾਰਤ ਅਤੇ ਕਮਿ Community ਨਿਟੀ ਵਿਗਿਆਪਨ.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "ਇੱਕ ਅਡਿਨ ਬਣਾਓ",
   "WEBSITE_ADDONS_CREATE_P1": "ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਆਪਣਾ ਅਡਿਨ ਵਿਕਸਿਤ ਕਰ ਸਕਦੇ ਹੋ.ਇਸ ਤਰੀਕੇ ਨਾਲ ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਅਤੇ ਕਮਿ community ਨਿਟੀ ਨੂੰ ਨਵੀਂ ਵੀਡੀਓ ਸਮਗਰੀ ਤੱਕ ਪਹੁੰਚ ਸਕਦੇ ਹੋ ਅਤੇ ਵਿਸ਼ਵ ਭਰ ਦੇ ਲੱਖਾਂ ਉਪਭੋਗਤਾਵਾਂ ਦੇ ਨਵੇਂ ਉਪਭੋਗਤਾ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹੋ.",
   "WEBSITE_ADDONS_START_CREATE": "ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਸਟ੍ਰੀਮਿਓ ਐਡੋਨ ਐਸਡੀਕੇ ਪੇਜ ਤੇ ਜਾਓ:",
+
   "WEBSITE_DOWNLOADS": "ਡਾਉਨਲੋਡ ਕਰੋ",
   "WEBSITE_DOWNLOADS_P1": "ਅਨੁਕੂਲ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਸਟ੍ਰੀਮਿਓ ਐਪਸ ਦੇ ਨਵੀਨਤਮ ਉਪਲੱਬਧ ਸੰਸਕਰਣ ਦੀ ਵਰਤੋਂ ਕਰੋ.ਜੇ ਕਿਸੇ ਕਾਰਨ ਕਰਕੇ ਤੁਸੀਂ ਪੁਰਾਣੇ ਸੰਸਕਰਣ ਨੂੰ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸਨੂੰ ਇੱਥੇ ਡਾ download ਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "For optimal performance, we recommend that you use the latest available version of the Stremio apps.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Search for Stremio in the App Store of your Xbox device",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
   "WEBSITE_LINK_GUIDE": "Guide",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Download Stremio Service",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service is a companion app for Stremio Web. We recommend using the latest available version of Stremio Service.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "ਸਟ੍ਰੀਮਿਓ ਪਲੇਟਫਾਰਮ ਖੁੱਲਾ ਸਰੋਤ ਹੈ ਅਤੇ ਤੁਸੀਂ ਆਸਾਨੀ ਨਾਲ ਉਸ ਸਮੱਗਰੀ ਲਈ ਇੱਕ ਅਡਿਨ ਬਣਾ ਸਕਦੇ ਹੋ ਜੋ ਇਸ ਸਮੇਂ ਸਰੋਤ ਨਹੀਂ ਹੈ.",
   "WEBSITE_CONTRIBUTE_WHY": "ਤੁਹਾਨੂੰ ਅਡੇਨ ਕਿਉਂ ਬਣਾਇਆ ਚਾਹੀਦਾ ਹੈ?",
   "WEBSITE_CONTRIBUTE_WHY_P1": "ਆਪਣੀ ਵੀਡੀਓ ਸਮੱਗਰੀ ਲਈ ਨਵੇਂ ਦਰਸ਼ਕਾਂ ਤੱਕ ਪਹੁੰਚੋ",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "ਜੇ ਤੁਸੀਂ ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸਟ੍ਰਾਬੇਰੀ ਐਪਸ ਦਾ ਅਨੰਦ ਲੈਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਸਵੈਇੱਛੁਕ ਅਨੁਵਾਦਕਾਂ ਦੇ ਕਮਿ community ਨਿਟੀ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹੋ.ਉਹ ਸਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਸਾਡੀ ਵੱਖੋ ਵੱਖਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਵਿੱਚ ਸਾਡੀ ਸਹਾਇਤਾ ਕਰਦੇ ਹਨ.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "ਕੀ ਤੁਸੀਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਉਤਸੁਕ ਹੋ?",
   "WEBSITE_TRANSALTE_STREMIO": "ਸਟ੍ਰੀਮਿਓ ਦਾ ਅਨੁਵਾਦ ਕਰੋ",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "ਸਰਕਾਰੀ ਕਮਿ Community ਨਿਟੀ",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "ਵਧ ਰਹੀ ਸਟ੍ਰਾਬੀਓ ਭਾਈਚਾਰੇ ਦਾ ਹਿੱਸਾ ਬਣੋ.ਸਾਨੂੰ ਸੋਸ਼ਲ ਮੀਡੀਆ 'ਤੇ ਚੱਲੋ ਅਤੇ ਨਮਸਤੇ ਕਹਿਣ ਲਈ ਸ਼ਰਮਿੰਦਾ ਹੋਵੋ - ਸਾਨੂੰ ਸਾਡੇ ਪ੍ਰਸ਼ੰਸਕਾਂ ਤੋਂ ਸੁਣਨਾ ਪਸੰਦ ਹੈ!",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "ਵਾਲਪੇਪਰ",
   "WEBSITE_COMMUNITY_ART": "Community Art Gallery",
   "WEBSITE_LINK_ART": "Community art gallery",
+
   "WEBSITE_CONTACT_US": "ਸੰਪਰਕ",
   "WEBSITE_CONTACT_US_P1": "ਜੇ ਤੁਹਾਡੇ ਕੋਈ ਪ੍ਰਸ਼ਨ, ਟਿਪਣੀਆਂ ਜਾਂ ਸੁਝਾਅ ਹੇਠਾਂ ਦਿੱਤੇ ਸੰਪਰਕ ਦੇ ਫਾਰਮ ਰਾਹੀਂ ਸੰਪਰਕ ਵਿੱਚ ਆਉਣ ਲਈ ਸੁਤੰਤਰ ਮਹਿਸੂਸ ਕਰਦੇ ਹਨ.",
   "WEBSITE_CONTACT_US_P2": "ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਅਸੀਂ ਬੁਲਗਾਰੀਆ ਵਿਚ ਸਥਿਤ ਹਾਂ, ਇਸ ਲਈ ਸਮੇਂ ਦੇ ਖੇਤਰ ਦੇ ਅੰਤਰ ਦੇ ਕਾਰਨ ਤੁਹਾਡੀ ਪੁੱਛਗਿੱਛ ਨੂੰ ਸੰਬੋਧਿਤ ਕਰਨ ਵਿਚ ਦੇਰੀ ਹੋ ਸਕਦੀ ਹੈ.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "ਤੁਹਾਡੀ ਈਮੇਲ",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "ਸੁਨੇਹਾ",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "ਭੇਜੋ",
+
   "WEBSITE_CONTACT_US_Q_1": "ਕਿਵੇਂ ਇੰਸਟਾਲ ਕਰਨਾ ਹੈ?",
   "WEBSITE_CONTACT_US_Q_2": "ਕਿਵੇਂ ਅਣਇੰਸਟੌਲ ਕਰਨਾ ਹੈ?",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) ਲਾਸਗਨਾ ਕਿਵੇਂ ਬਣਾਈਏ?",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "ਲੀਨਕਸ",
   "WEBSITE_CONTACT_US_OS_4": "ਐਂਡਰਾਇਡ",
   "WEBSITE_CONTACT_US_OS_5": "ਆਈਓਐਸ",
+
   "WEBSITE_TECHNOLOGY": "ਟੈਕਨੋਲੋਜੀ",
   "WEBSITE_TECHNOLOGY_P1": "ਅਸੀਂ ਟੈਕਨਾਲੋਜੀ ਅਤੇ ਪਾਗਲ ਵਿਗਿਆਨ ਨੂੰ ਪਿਆਰ ਕਰਦੇ ਹਾਂ.</br> ਇੱਥੇ ਸ਼ਕਤੀਆਂ ਕੀ ਹਨ (ਇਹ ਸਭ ਖੁੱਲਾ ਸਰੋਤ ਹੈ).",
   "WEBSITE_TECHNOLOGY_P_QT": "ਕਰਾਸ-ਪਲੇਟਫਾਰਮ ਸਾੱਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ ਵਧੀਆ ਹੈ.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "ਜਾਂ",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... ਤੁਸੀਂ ਕਮਿ Community ਨਿਟੀ ਵਿਗਿਆਪਨ ਬਣਾਉਣ ਲਈ ਆਪਣੇ ਕੋਡਿੰਗ ਹੁਨਰਾਂ ਨੂੰ ਵਰਤ ਸਕਦੇ ਹੋ.",
   "WEBSITE_TRANSLATE_STREMIO": "ਸਟ੍ਰੀਮਿਓ ਦਾ ਅਨੁਵਾਦ ਕਰੋ",
+
   "WEBSITE_404_OH_NO": "ਓਹ ਓ!ਜਿਸ ਪੇਜ ਦੀ ਤੁਸੀਂ ਭਾਲ ਕਰ ਰਹੇ ਹੋ ਉਹ ਇੱਥੇ ਨਹੀਂ ਹੈ ...",
   "WEBSITE_GO_HOME": "ਘਰ ਜਾਓ",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "ਹੋਰ ਡਾਉਨਲੋਡਸ",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "ਐਡਿਨ ਮੁਕਾਬਲਾ",
   "WEBSITE_LINK_ART_CONTEST": "ਕਲਾ ਮੁਕਾਬਲੇ",
   "WEBSITE_MY_ACCOUNT": "ਮੇਰਾ ਖਾਤਾ",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "ਸਟਰਾਮੀ ਕੀ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "ਸਟ੍ਰੀਮਿਓ ਇਕ ਆਧੁਨਿਕ ਮੀਡੀਆ ਸੈਂਟਰ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਜੋ ਵੀ ਚਾਹੁੰਦੇ ਹੋ ਮਿਲਣ ਦੀ ਆਜ਼ਾਦੀ ਦਿੰਦਾ ਹੈ.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "ਇੱਕ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੀ ਡਿਵਾਈਸ ਤੇ ਇੱਕ ਸਟ੍ਰੀਮੋਸੀਓ ਸਥਾਪਤ ਕਰਦੇ ਹੋ ਅਤੇ ਇੱਕ ਖਾਤਾ ਬਣਾਓ ਜੋ ਤੁਹਾਨੂੰ ਕਰਨਾ ਹੈ, ਇਹ ਅਡਿਨ ਕੈਟਾਲਾਗ ਤੇ ਜਾਣਾ ਅਤੇ ਕੋਈ ਅਡਿਨ ਸਥਾਪਤ ਕਰਨਾ ਚੰਗਾ ਹੈ ਅਤੇ ਤੁਸੀਂ ਜਾਣਾ ਚੰਗਾ ਰਹੇ ਹੋ!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "ਇਸ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਸਮੱਗਰੀ ਦੀ ਭਾਲ ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਸ਼ੁਰੂਆਤ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਖੋਜ ਜਾਂ ਬੋਰਡ ਦੇ ਭਾਗਾਂ ਤੇ ਜਾ ਸਕਦੇ ਹੋ.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "ਮੈਂ ਇੱਥੇ ਕੀ ਵੇਖ ਸਕਦਾ ਹਾਂ?",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "ਬਹੁਤ ਕੁਝ: ਫਿਲਮਾਂ ਟੀਵੀ ਸ਼ੋਅ ਵੈੱਬ ਚੈਨਲ ਸਪੋਰਟ ਟੀਵੀ ਚੈਨਲ ਪੋਡਕਾਸਟ ਅਤੇ ਹੋਰ ਸੁਣੋ.ਸਾਡੇ ਅਡਿਨ ਸਿਸਟਮ ਦਾ ਧੰਨਵਾਦ, ਤੁਸੀਂ ਕਈ ਤਰ੍ਹਾਂ ਦੀਆਂ ਸਮੱਗਰੀਆਂ ਤੱਕ ਪਹੁੰਚ ਕਰ ਸਕਦੇ ਹੋ.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "ਕੀ ਸਟੀਮੋ ਓਪਨ-ਐਸਓਐਸ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "ਹਾਂ ਤੁਸੀਂ ਹੇਠ ਦਿੱਤੇ ਲਿੰਕ ਵੇਖ ਸਕਦੇ ਹੋ: {{1} ਐਪ $ {2} ਅਤੇ $ {3} Github ਕੱਪੜੇ $ {4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "ਕੀ ਸਟ੍ਰਾਮਬੀਨੀ ਸੁਰੱਖਿਅਤ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "ਹਾਂ: ਕਿਉਂਕਿ ਇਹ ਓਪਨ-ਸੋਰਸ ਸਾੱਫਟਵੇਅਰ ਕੋਡ ਹੈ ਜਨਤਕ ਤੌਰ 'ਤੇ ਆਡਿਟ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਅਤੇ ਤੁਸੀਂ ਇਸ ਦੀ ਖੁਦ ਸਮੀਖਿਆ ਕਰ ਸਕਦੇ ਹੋ.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "ਮੇਰੀ ਨਿੱਜਤਾ ਬਾਰੇ ਕਿਵੇਂ?",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "ਅਸੀਂ ਉਪਭੋਗਤਾਵਾਂ ਦੀ ਨਿੱਜਤਾ ਦਾ ਸਨਮਾਨ ਕਰਦੇ ਹਾਂ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਬਣਾਉਣ ਅਤੇ ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਘੱਟੋ ਘੱਟ ਲੋੜੀਂਦਾ ਕੋਈ ਨਿੱਜੀ ਡੇਟਾ ਇਕੱਠਾ ਨਹੀਂ ਕਰਦਾ.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "ਸਾਈਨਅਪ ਵਿੱਚ $ {1} ਗੈਸਟ ਮੋਡ $ {2} ਹਨ ਜਿਸ ਲਈ ਕੋਈ ਡਾਟਾ ਲੋੜੀਂਦਾ ਨਹੀਂ ਹੈ: ਇਸ ਮੋਡ ਵਿੱਚ ਸਾਡੇ ਬੈਕਨ ਵਿੱਚ ਕੋਈ ਕਾਲ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ.ਹਾਲਾਂਕਿ ਇਹ ਲਾਭਦਾਇਕ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਕੀਮਤ 'ਤੇ ਆਉਂਦੀ ਹੈ ਜਿਵੇਂ ਕਿ ਤੁਹਾਡੀ ਲਾਇਬ੍ਰੇਰੀ ਨੂੰ ਡਿਵਾਈਸ ਤੇ ਸਿੰਕ ਕਰਨ ਦੇ ਯੋਗ ਹੋਣਾ.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "ਕੀ ਮੈਂ ਆਪਣੇ ਟੀਵੀ ਵਿਚ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹਾਂ?",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "ਹਾਂ, ਅਸੀਂ ਕਰਾਸਿਸ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ ਅਤੇ ਤੁਹਾਨੂੰ ਡੈਸਕਟਾਪ ਅਤੇ ਮੋਬਾਈਲ ਐਪਸ (ਐਂਡਰਾਇਡ) ਤੋਂ ਸ਼ਾਮਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "ਸਟ੍ਰਾਬੀਓ ਵਿਚ ਕਿੰਨੇ ਇਸ਼ਤਿਹਾਰ ਹਨ?",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ 2019 ਤੋਂ ਵੱਧ ਦੇ ਅੰਤ ਤੱਕ - ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ ਸਾਡੀ ਅਡਿਨ ਕੈਟਾਲਾਗ ਦੀ ਜਾਂਚ ਕਰੋ.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "ਐਟਰੋਨ ਕੈਟਾਲਾਗਾਂ ਵਿੱਚ ਕੀ ਹੈ ਸਟ੍ਰੀਮਿਓ ਵਿੱਚ ਫੈਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "ਹਾਂ ਤੁਹਾਨੂੰ ਉਨ੍ਹਾਂ ਲੋਕਾਂ ਦੀ ਜਾਂਚ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ: $ 1} ਪਿਮਮੀਸਟਰੀਮੋ $ {2} $ {3} rign ੋ sting 4 {5} d ਸਟ੍ਰੀਮੀਓ ਡਾਉਨਲੋਡਰ $ {6} ਆਦਿ.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "ਸਟ੍ਰੀਮਿਓ ਸਪੋਰਟ ਕੀ ਕਰਦਾ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "ਸਾਡੇ ਵਿੰਡੋਜ਼ ਮੈਕ ਅਤੇ ਲੀਨਕਸ ਲਈ ਡੈਸਕਟਾਪ ਐਪਸ ਹਨ.ਅਸੀਂ ਮੋਬਾਈਲ ਲਈ ਐਂਡਰਾਇਡ ਅਤੇ ਆਈਓਐਸ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ, ਹਾਲਾਂਕਿ ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਆਈਓਐਸ ਕਾਰਜਸ਼ੀਲਤਾ ਵਿੱਚ ਸੀਮਤ ਹੈ (ਜ਼ਿਆਦਾਤਰ ਵਿਗਿਆਪਨ ਸਹਾਇਤਾ).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "ਇੱਥੇ ਬਹੁਤ ਸਾਰੇ ਐਂਡਰਾਇਡ-ਅਧਾਰਤ ਉਪਕਰਣ ਹਨ ਜੋ ਤੁਸੀਂ ਐਨਵੀਡੀਆ ਸ਼ੀਲਡ ਅਤੇ ਐਮਾਜ਼ਾਨ ਫਾਇਰ ਸਟਿੱਕ ਵਰਗੇ ਸਟ੍ਰਮੀਓ ਨੂੰ ਚਲਾ ਸਕਦੇ ਹੋ ਪਰ ਅਸੀਂ ਉਨ੍ਹਾਂ ਨੂੰ ਅਧਿਕਾਰਤ ਤੌਰ ਤੇ ਉਨ੍ਹਾਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "ਕੀ ਤੁਸੀਂ ਸਟ੍ਰੀਮਿਓ ਵਿੱਚ ਕੁਝ ਸਮੱਗਰੀ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹੋ?",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "ਮੁਆਫ ਕਰਨਾ, ਅਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਪ੍ਰਦਾਨ ਕਰਦੇ ਪਰ ਤੁਸੀਂ ਵਧੇਰੇ ਸਮੱਗਰੀ ਸਥਾਪਤ ਕੀਤੀ ਹੈ ਜੋ ਤੁਸੀਂ ਲੱਭਣ ਦੇ ਯੋਗ ਹੋਵੋਗੇ.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "ਕੀ ਸਟਰੇਮਿਓ ਚੁੰਬਕੀ ਲਿੰਕਸ ਚਲਾ ਸਕਦਾ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "ਹਾਂ ਅਤੇ ਇਹ ਸਧਾਰਣ HTTP ਲਿੰਕ ਅਤੇ ਟੋਰੈਂਟ ਫਾਈਲਾਂ ਵੀ ਚਲਾ ਸਕਦਾ ਹੈ (ਖਿੱਚੋ ਅਤੇ ਸੁੱਟੋ).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "ਕੀ ਮੈਂ ਇੱਕ ਵੀਡੀਓ ਡਾ line ਨਲੋਡ ਕਰ ਸਕਦਾ ਹਾਂ ਅਤੇ ਫਲਾਈਨ ਵੇਖੋ?",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "ਉਪਲਬਧ offline ਫਲਾਈਨ ਇੱਕ ਅਪਲਾਈਨ ਸਹੂਲਤ ਹੈ ਪਰ ਜੇ ਤੁਸੀਂ ਆਪਣੀ ਡਿਵਾਈਸ ਨੂੰ ਕੈਚੇ ਵਿੱਚ ਕੈਸ਼ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਬਿਨਾਂ ਕੁਨੈਕਸ਼ਨ ਦੇ ਵੀਡੀਓ ਦੇਖ ਸਕਦੇ ਹੋ.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "ਕੁਝ ਵੀ ਮੇਰਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "ਕੀ ਤੁਸੀਂ ਸਚਮੁੱਚ ਸਥਾਪਿਤ ਹੋ?ਜੇ ਹਾਂ ਸਾਡੇ $ {1} ਸਹਾਇਤਾ ਕੇਂਦਰ $ {On 2} ਨਾਲ ਸੰਪਰਕ ਕਰੋ.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "ਸਟ੍ਰੀਮੀਓ ਵਿਕਾਸ ਕਾਰਜਾਂ ਨੂੰ ਕਿਵੇਂ ਬਣਾਈ ਰੱਖਦੀ ਹੈ?",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "ਅਸੀਂ ਕਈ ਵਾਰ ਗੈਰ-ਜਵਾਬ ਦਿੱਤੇ ਮਸ਼ਹੂਰੀ ਚਲਾਉਂਦੇ ਹਾਂ, ਪਰ ਅਸੀਂ ਦਾਨ ਦੇ ਮਾਡਲ ਤੇ ਜਾਣ ਬਾਰੇ ਵਿਚਾਰ ਕਰ ਰਹੇ ਹਾਂ.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "ਵਧੇਰੇ ਪ੍ਰਸ਼ਨਾਂ ਲਈ ਸਾਡੇ $ {1} ਏਡ ਸੈਂਟਰ $ {2} ਤੇ ਜਾਓ.",
+
   "HELP_LEARN_MORE": "ਸਾਡੇ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਵਿਚ ਸਾਡੀ ਮਦਦ ਕਰੋ.",
   "LIFESTYLE": "ਬਾਲੀਵੁੱਡ",
   "SPORTS": "ਖੇਡ",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "ਅੰਤਮ ਖੋਜ",
   "CLEAR_HISTORY": "ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ",
   "CHOOSE_SOME": "ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਚੁਣੋ:",
+
   "NO_WEB_REMOTE": "ਵੈੱਬ ਰਿਮੋਟ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ",
   "STREMIO_OFFLINE": "ਸਟ੍ਰੀਮਿਓ offline ਫਲਾਈਨ ਹੈ",
   "STREMIO_EXPENSIVE_CONNECTION": "ਅਸੀਂ ਪਾਇਆ ਹੈ ਕਿ ਤੁਸੀਂ ਮੋਬਾਈਲ ਡਾਟਾ ਕਨੈਕਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ, ਕੀ ਤੁਸੀਂ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
   "USE_DATA": "ਡੇਟਾ ਦੀ ਵਰਤੋਂ ਕਰੋ",
   "WARNING": "ਚੇਤਾਵਨੀ",
+
   "MORE_INFO": "ਹੋਰ ਜਾਣਕਾਰੀ ...",
+
   "STREMIO_TV_STREMIO": "ਮਿਸ਼ਰਿਤ",
   "STREMIO_TV_LOADING": "ਇਹ ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "ਵਾਪਸ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Show statistics while loading",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "To read Stremio's Privacy Policy, visit:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "To read Stremio's Terms and Conditions, visit:",
+
   "STREMIO_TV_NAV_SEARCH": "ਖੋਜ",
   "STREMIO_TV_NAV_HOME": "Home",
   "STREMIO_TV_NAV_DISCOVER": "Discover",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "Live TV",
   "STREMIO_TV_NAV_SETTINGS": "ਵਿਵਸਥਾ",
   "STREMIO_TV_NAV_ADDONS": "Addons",
+
   "STREMIO_TV_LOGIN_TITLE": "ਲਿੰਕ ਖਾਤਾ",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
   "STREMIO_TV_LOGIN_STEP_ONE": "Scan QR Code above or go to",
   "STREMIO_TV_LOGIN_STEP_TWO": "Log in to your Stremio account",
   "STREMIO_TV_LOGIN_NEW_LINK": "Request a new link",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "Login code refreshed",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "Type something",
   "STREMIO_TV_SEARCH_NO_ADDONS": "No addons were requested for catalogs!",
   "STREMIO_TV_SEARCH_BUTTON": "ਖੋਜ",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "ਖੋਜ ਇਤਿਹਾਸ",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "You can search for Titles, Actors, Channels and more...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "ਖੋਜ ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "ਹੇਠ ਲਿਖਿਆਂ ਵਿੱਚੋਂ ਇੱਕ ਵਿੱਚੋਂ ਇੱਕ ਵਿੱਚੋਂ ਚੁਣੋ",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming Server Is Offline. Check Server Settings.",
+
   "FILTERS": "ਫਿਲਟਰ",
   "SETTINGS": "ਵਿਵਸਥਾ",
   "ACCOUNT": "ਖਾਤਾ",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "ਆਕਾਰ ਨੂੰ ਵਿਵਸਥਤ ਕਰੋ",
   "REMOTE_COULD_NOT_BE_LOADED": "ਵੈੱਬ ਰਿਮੋਟ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ",
   "REMOTE_RETRY": "ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+
   "TORRENT_PROFILE_DEFAULT": "ਮੂਲ",
   "TORRENT_PROFILE_SOFT": "Soft",
   "TORRENT_PROFILE_FAST": "Fast",
   "TORRENT_PROFILE_ULTRA_FAST": "Ultra Fast",
+
   "FAQ_001_H1": "ਸਟਰਾਮੀ ਕੀ ਹੈ?",
   "FAQ_001_P1": "ਸਟ੍ਰੀਮਿਓ ਇਕ ਮੀਡੀਆ ਸੈਂਟਰ ਸੈਂਟਰ ਹੈ ਜਿਸ ਵਿਚ ਦਿਮਾਗ ਵਿਚ ਵਰਤਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਗਿਆ ਹੈ ਵੀਡੀਓ ਮਨੋਰੰਜਨ ਲਈ.ਸਟ੍ਰੀਮਿਓ ਤੁਹਾਨੂੰ & amp ਦਾ ਪ੍ਰਬੰਧ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ;ਫਿਲਮ ਸੀਰੀਜ਼ ਦੇ ਚੈਨਲਾਂ ਅਤੇ ਲਾਈਵ ਟੀਵੀ ਦੇ ਆਪਣੇ ਸੰਗ੍ਰਹਿ ਨੂੰ ਵੇਖੋ.",
   "FAQ_001_P2": "ਸਟ੍ਰੀਮਿਓ ਸਮਗਰੀ ਨੂੰ ਇਕੱਤਰ ਕਰੋ ਜੋ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਸਥਾਨਕ ਡਿਸਕ ਅਤੇ ਸਾਡੇ ਵਿਗਿਆਪਨ ਪ੍ਰਣਾਲੀ ਤੋਂ ਦਿਖਾਉਂਦਾ ਹੈ.",
   "FAQ_001_P3": "ਇਹ ਤੁਹਾਨੂੰ ਸੂਚਿਤ ਕਰੇਗਾ ਕਿ ਨਵੇਂ ਐਪੀਸੋਡ / ਵੀਡੀਓ ਜੋ ਤੁਹਾਡੇ ਲਈ ਦਿਲਚਸਪੀ ਰੱਖਦੇ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਲਈ ਫਿਲਮ ਸਿਫਾਰਸ਼ਾਂ ਪ੍ਰਦਾਨ ਕਰਦੇ ਹਨ.",
+
   "FAQ_02_H1": "ਸਟ੍ਰੀਮਿਓ ਕੋਡੀ ਦੀ ਤੁਲਨਾ ਕਿਵੇਂ ਕਰਦਾ ਹੈ?",
   "FAQ_02_P1": "ਅਸੀਂ ਸਾੱਫਟਵੇਅਰ ਦੇ ਉਨ੍ਹਾਂ ਦੋ ਟੁਕੜਿਆਂ ਤੋਂ ਪ੍ਰੇਰਿਤ ਹਾਂ.ਪਰ ਸਾਡੇ ਵੱਖਰੇ ਟੀਚੇ ਹਨ - ਸਟ੍ਰਾਬੀਓ ਨੂੰ ਵਿਸ਼ੇਸ਼ ਤੌਰ 'ਤੇ ਮਨੋਰੰਜਨ ਦੇ ਵੀਡੀਓ ਨੂੰ ਨਿਸ਼ਾਨਾ ਬਣਾਇਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਵਰਤੋਂ ਕਰਨਾ ਆਸਾਨ ਹੋਣ ਲਈ ਮੁੱਖ ਧਾਰਾ ਬਣਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ.",
   "FAQ_02_P2": "ਸਟ੍ਰਾਬਲਿਓ ਕਦੇ ਅਨੁਕੂਲ ਨਹੀਂ ਹੋਵੇਗਾ ਅਤੇ ਕੋਡੀ ਅਤੇ ਜਗ੍ਹਾ ਦੇ ਤੌਰ ਤੇ ਅਮੀਰ ਨਹੀਂ ਹੁੰਦਾ, ਪਰ ਇਸਦੀ ਵਰਤੋਂ ਕਰਨਾ ਕਾਫ਼ੀ ਸੌਖਾ ਹੈ.ਬੱਸ $ {1 she ਪ੍ਰਾਪਤ ਕਰੋ ਇਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ ਅਤੇ $ {2} ਵੇਖੋ :)",
+
   "FAQ_03_H1": "ਸਟ੍ਰੀਮਿਓ ਨੈੱਟਫਲਿਕਸ ਦੀ ਤੁਲਨਾ ਕਿਵੇਂ ਕਰਦਾ ਹੈ?",
   "FAQ_03_P1": "ਨੈੱਟਫਲਿਕਸ ਦੁਬਾਰਾ ਸਾਡੀ ਪ੍ਰੇਰਣਾ ਹੈ.ਅਸੀਂ ਨੈੱਟਫਲਿਕਸ ਦੇ ਉਪਭੋਗਤਾ ਤਜ਼ਰਬੇ ਨੂੰ ਬਹੁਤ ਸਾਰੇ ਵਾਧੂ ਤੋਹਫ਼ਿਆਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ.ਪਰ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਣ ਗੱਲ ਇਹ ਹੈ ਕਿ ਅਸੀਂ ਤੁਹਾਨੂੰ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਅਤੇ ਸਾਡੇ ਅਡਿਨ ਸਿਸਟਮ ਨਾਲ ਨਵੇਂ ਸਮਗਰੀ ਦੇ ਸਰੋਤ ਜੋੜਨ ਦੀ ਆਜ਼ਾਦੀ ਦੇ ਰਹੇ ਹਾਂ.",
   "FAQ_03_P2": "ਇਹ ਸਟ੍ਰਾਬੀਓ ਅਸੀਮਿਤ ਵਿਸਥਾਰ ਯੋਗ ਬਣਾਉਂਦਾ ਹੈ, ਇਸ ਲਈ ਜਦੋਂ ਤੁਸੀਂ ਸਟ੍ਰੈਂਬੀਓ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਕਦੇ ਵੀ ਸਮੱਗਰੀ ਤੱਕ ਸੀਮਿਤ ਨਹੀਂ ਹੋ ਜਾਂਦੇ. ਨੈੱਟਫਲਿਕਸ ਲਾਇਸੈਂਸ ਨੂੰ ਫੈਸਲਾ ਕਰਦਾ ਹੈ.ਉਦਾਹਰਣ ਦੇ ਲਈ, ਤੁਹਾਡੇ ਦੁਆਰਾ {1} ਫਿਲਮਾਂਨ.ਟੀਵੀ $ {2} $ 2 {3} {4 {5} youtuse $ {6 {6} ਵਡੋ $ 7 {6} ਵਡੋ / {6} ਵਡੋ / ਸਮੱਗਰੀ ਵੀ $ {{} ਨੈੱਟਫਲਿਕਸ $ {10} ਵੇਖ ਸਕਦੇ ਹੋ!",
+
   "FAQ_04_H1": "ਸਟ੍ਰਾਬੀਬੀਆ ਫਲਿੱਪਬੋਰਡ ਦੀ ਤੁਲਨਾ ਕਿਵੇਂ ਕਰਦਾ ਹੈ?",
   "FAQ_04_P1": "ਸਾਨੂੰ ਉਹ ਪ੍ਰਸ਼ਨ ਨਹੀਂ ਮਿਲਦਾ ਜੋ ਅਕਸਰ ਲੋਕਾਂ ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਇਲਾਵਾ ਕਰਦਾ ਹੈ :)",
   "FAQ_04_P2": "ਇੱਕ ਸਮੂਹਿਕਾਰੀ ਡਿਜ਼ਾਈਨ ਦੁਆਰਾ ਸਟ੍ਰੀਮਿਓ ਇੱਕ ਸਮੱਗਰੀ ਹੈ ਜੋ ਇਸ ਨੂੰ ਵੀਡੀਓ ਲਈ ਇੱਕ ਫਲਿੱਪਬੋਰਡ ਬਣਾਉਂਦਾ ਹੈ.ਇਹ ਸਾਡੇ ਬੋਰਡ ਭਾਗ ਵਿੱਚ ਬਹੁਤ ਸਪਸ਼ਟ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਇੱਕ ਫਲਿੱਪਬੋਰਡ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਇੱਕ ਕੈਟਾਲਾਗ ਅਤੇ ਨਵੀਂ ਐਪੀਸੋਡ / ਨਵੀਂ ਵੀਡੀਓ ਨੋਟੀਫਿਕੇਸ਼ਨ ਦਿੰਦਾ ਹੈ.",
+
   "FAQ_05_H1": "ਸਟ੍ਰੀਮਿਓ ਨੂੰ ਪੌਪਕੌਰਨ ਟਾਈਮ ਦੀ ਤੁਲਨਾ ਕਿਵੇਂ ਕਰਦਾ ਹੈ?",
   "FAQ_05_P1": "ਸਟ੍ਰੀਮਿਓ ਅਤੇ ਪੌਪਕੌਰਨ ਟਾਈਮ ਉਪਭੋਗਤਾ ਦੇ ਇੰਟਰਫੇਸਾਂ ਵਿੱਚ ਇਕੋ ਜਿਹੇ ਹਨ ਕਿਉਂਕਿ ਵੀਡੀਓ ਮਨੋਰੰਜਨ ਕੈਟਾਲਾਗਾਂ ਨੂੰ ਠੀਕ ਕਰਨ ਦੇ ਬਹੁਤ ਸਾਰੇ ਤਰੀਕੇ ਹਨ :)",
   "FAQ_05_P2": "ਪਰ ਪੌਪਕਾਰਨ ਦਾ ਸਮਾਂ ਖਾਸ ਸਰੋਤਾਂ ਤੋਂ ਟੋਰੈਂਟ ਸਟ੍ਰੀਮਿੰਗ 'ਤੇ ਕੇਂਦ੍ਰਤ ਕਰਦਾ ਹੈ",
   "FAQ_05_P3": "ਨਾਲ ਹੀ ਅਸੀਂ ਮੂਲ ਰੂਪ ਵਿੱਚ ਕੋਈ ਟੋਰੈਂਟ ਵਿਗਿਆਪਨ ਪ੍ਰਦਾਨ ਨਹੀਂ ਕਰਦੇ, ਇਸ ਲਈ ਸਰਕਾਰੀ ਕਾਰਜਸ਼ੀਲਤਾ ਦੇ ਨਾਲ ਪੌਕਰੀਨ ਟਾਈਮ ਵਰਤੋਂ ਦੇ ਸਮੇਂ ਵਿੱਚ ਸ਼ਾਮਲ ਨਹੀਂ ਹੁੰਦਾ.",
   "FAQ_05_P4": "ਇਕ ਹੋਰ ਕਮਾਲ ਦਾ ਅੰਤਰ ਇਹ ਹੈ ਕਿ ਪੌਕਰੀਨ ਦਾ ਸਮਾਂ ਇਕ ਬਿਲਕੁਲ ਖੁੱਲਾ ਸਰੋਤ ਹੈ ਜਦੋਂ ਕਿ ਸਟ੍ਰੀਮਿਓ $ 1} ਅੰਸ਼ਕ ਤੌਰ ਤੇ ਖੁੱਲਾ ਸਰੋਤ $ {2} ਹੈ.",
+
   "FAQ_06_H1": "ਕੀ ਤੁਸੀਂ ਇਸ ਫਿਲਮ / ਲੜੀ ਸ਼ਾਮਲ ਕਰੋਗੇ?",
   "FAQ_06_P1": "ਮਾਫ ਕਰਨਾ :(",
   "FAQ_06_P2": "ਜਿਵੇਂ ਕਿ ਦੂਜੇ ਪ੍ਰਸ਼ਨਾਂ ਵਿੱਚ ਦੱਸਿਆ ਗਿਆ ਹੈ ਕਿ ਸਟ੍ਰੀਮੀਓ ਆਪਣੇ ਆਪ ਤੋਂ ਕੋਈ ਸਮੱਗਰੀ ਨਹੀਂ ਪ੍ਰਦਾਨ ਕਰਦਾ - ਹਰ ਚੀਜ਼ ਵਿਗਿਆਪਨ ਪ੍ਰਣਾਲੀ ਦੁਆਰਾ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ ਹੈ.ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪਦਾਰਥਕ ਬੇਨਤੀ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਉਸ ਖਿਡਾਰੀ ਦੇ ਰਿਪੋਰਟ ਬਟਨ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ ਜੋ ਵਰਤਮਾਨ ਵਿੱਚ ਵਰਤੇ ਜਾ ਰਹੇ ਅਡਿਨ ਦੇ ਲੇਖਕ ਨੂੰ ਇੱਕ ਈਮੇਲ ਭੇਜਣਗੇ.",
+
   "FAQ_07_H1": " ",
   "FAQ_07_P1": " ",
   "FAQ_07_P2": " ",
+
   "FAQ_08_H1": "ਕੀ ਤੁਸੀਂ ਐਕਸ ਲਈ ਅਡਿਨ ਬਣਾਉਗੇ?",
   "FAQ_08_P1": "ਇਹ ਪੂਰੀ ਤਰਾਂ ਸੰਭਵ ਹੈ.",
   "FAQ_08_P2": "ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਐਡਨ ਲਈ ਕੋਈ ਵਿਚਾਰ ਹੈ, ਤਾਂ ਆਓ ਆਪਾਂ {1} onwors@stremio.com 'ਤੇ ਛੱਡੋ, ਪਰ ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਅਦੇਨ ਵਿਚਾਰ ਕਿਸੇ ਵੀ ਕਾਪੀਰ ਜਾਂ ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਦੀ ਉਲੰਘਣਾ ਨਹੀਂ ਕਰੇਗਾ.",
   "FAQ_08_P3": "ਵਰਤਮਾਨ ਵਿੱਚ, ਸਾਡੀ ਰੋਡਮੈਪ ਤੇ ਅਗਲੀਆਂ ਚੀਜ਼ਾਂ ਮੰਗ ਅਤੇ ਫੈਸ਼ਨੋਨੋ ਫਿਲਮਾਂਨ.ਟੀਵੀ ਵੀਡੀਓ ਹਨ.",
+
   "FAQ_09_H1": "ਸਟ੍ਰੀਮਿਓ ਕੁੜੱਤਣ ਕੀ ਵਰਤਦਾ ਹੈ?",
   "FAQ_09_P1": "ਹਾਂ ਸਟ੍ਰਾਬੀਓ ਬਿਟੈਟੋਰ ਨੂੰ ਸਟ੍ਰੀਮਿੰਗ ਪ੍ਰੋਟੋਕੋਲ ਦੇ ਰੂਪ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ.ਤੁਸੀਂ ਜਾਂ ਤਾਂ ਟੋਰੈਂਟ ਅਦੇਨ ਨਾਲ ਜਾਂ ਸਟ੍ਰਮੀਓ ਜਾਂ ਚਾਪ-ਅੰਤ ਦੁਆਰਾ ਸਰਚ-ਐਂਡ ਦੁਆਰਾ ਇੱਕ ਚੁੰਬਕ ਲਿੰਕ ਵਿੱਚ a.torrent ਫਾਈਲ ਨੂੰ ਚਿਪਕ ਕੇ ਕਰ ਸਕਦੇ ਹੋ.",
   "FAQ_09_P2": "ਕਿਰਪਾ ਕਰਕੇ ਯਾਦ ਰੱਖੋ ਕਿ ਬਿਟਟੋਰ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਇਕੱਲੇ ਅਧਿਕਾਰਤ ਅਡੇਨ $ {1} ਵੋਡੋ $ {{} ਨੂੰ ਅਲਟੈਸਟੈਂਟਸ ਨਾਲ ਸਭ ਵੰਡਣ ਦੀ ਆਗਿਆ ਹੈ.",
   "FAQ_09_P3": "ਅਸੀਂ ਤੀਜੀ ਧਿਰ ਦੇ ਇਸ਼ਤਿਹਾਰਾਂ ਦੀ ਵਰਤੋਂ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ ਜੋ ਕਾਪੀਰਾਈਟ ਉਲੰਘਣਾ ਨੂੰ ਸਮਰੱਥ ਕਰ ਸਕਦੇ ਹਨ.",
+
   "FAQ_10_H1": "ਮੈਂ ਅਧਿਕਾਰਤ ਵਿਗਿਆਪਨਾਂ ਨਾਲ ਸਟਰਾਮੀ ਵਿੱਚ ਕੀ ਵੇਖ ਸਕਦਾ ਹਾਂ?",
   "FAQ_10_P1": "ਮੂਲ ਰੂਪ ਵਿੱਚ ਤੁਸੀਂ ਆਪਣੇ ਏਮਬੇਡਡ ਪਲੇਅਰ ਦੇ ਨਾਲ ਸਟ੍ਰਮੀਓ ਦੇ ਅੰਦਰ ਫਿਲਮ -ਨ.ਟਵੀ ਯੂਟਿ ube ਬ ਅਤੇ ਵੋਡੋ ਸਮਗਰੀ ਨੂੰ ਵੇਖ ਸਕਦੇ ਹੋ.ਇਸ ਤੋਂ ਇਲਾਵਾ ਸਾਡੇ ਕੋਲ ਟਵੀਚ.ਟਵੀ ਅਤੇ ਕੁਝ ਹੋਰਾਂ ਲਈ ਇੱਕ ਅਡਿਨ ਹੈ.",
   "FAQ_10_P2": "ਇਹ ਸੰਯੁਕਤ ਦੀ ਚੋਣ ਦੀ ਪੇਸ਼ਕਸ਼ ਕਰਦਾ ਹੈ:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "ਵੋਡੋ ਨਾਲ ਇੰਡੀ ਫਿਲਮਾਂ",
   "FAQ_10_L4": "ਟਵੀਚ.ਟੀਵੀ ਨਾਲ g ਨਲਾਈਨ ਗੇਮਿੰਗ ਦਾ ਪ੍ਰਸਾਰਣ",
   "FAQ_10_P3": "ਇਸ ਤੋਂ ਇਲਾਵਾ, ਗਾਈਡਬੌਕਸ ਅਤੇ ਨੈੱਟਫਲਿਕਸ ਵਿਗਿਆਪਨ ਦੇ ਨਾਲ ਬਹੁਤ ਸਾਰੇ ਪਦਾਰਥਕ ਸਰੋਤ ਪ੍ਰਦਾਨ ਕੀਤੇ ਗਏ ਹਨ ਜੋ <b> </ b> ਵਰੇਮੀ ਦੇ ਅੰਦਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਖੇਡਦੇ ਹਨ ਪਰ ਦਿੱਤੀ ਗਈ ਸੇਵਾ ਵਿੱਚ ਰਿਡਿਕੈਕਟ ਕਰਨਗੇ.ਉਦਾਹਰਣ ਦੇ ਲਈ, ਗਾਈਡਬਾਕਸ ਅਡਾਨ ਤੁਹਾਨੂੰ ਫਿਲਮਾਂ ਦੀ ਚੋਣ ਕਰੇਗਾ ਜੋ ਤੁਸੀਂ ਟੱਬਿਟਵ ਵਰਗੀਆਂ ਸੇਵਾਵਾਂ ਤੋਂ ਮੁਕਤ ਰਹਿਣ ਲਈ ਦ੍ਰਿੜ ਹੋ ਸਕਦੇ ਹੋ.",
+
   "FAQ_11_H1": "ਸਟ੍ਰੀਮਿਓ ਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ ਕਿ ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?",
   "FAQ_11_P1": "ਜੇ ਤੁਸੀਂ ਵਿੰਡੋਜ਼ ਉੱਤੇ ਇਸ ਬਦਲਵੇਂ ਇੰਸਟੌਲਰ $ {2} ਨੂੰ ਅਜ਼ਮਾਉਂਦੇ ਹੋ.",
   "FAQ_11_P2": "ਜੇ ਤੁਸੀਂ ਮੈਕ ਓਐਸ ਐਕਸ 'ਤੇ ਹੋ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਅਸੀਂ ਓਐਸ ਐਕਸ ਮੇਵਰਾਂ (10.9) ਤੋਂ ਪੁਰਾਣੇ ਕਿਸੇ ਵੀ ਚੀਜ਼ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦੇ.",
   "FAQ_11_P3": "ਜੇ ਤੁਸੀਂ ਲੀਨਕਸ 'ਤੇ ਹੋ ਤਾਂ ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਅਸੀਂ ਇਸ ਸਮੇਂ 64 ਬਿੱਟ (x64) ਲੀਨਕਸ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ.",
   "FAQ_11_P4": "ਜੇ ਤੁਸੀਂ ਆਪਣੀ ਸਮੱਸਿਆ ਦਾ ਹੱਲ ਨਹੀਂ ਕਰ ਸਕਦੇ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ $ {1} ਫੇਸਬੁੱਕ ਸਮੂਹ $ {{2} ਤੇ ਲਿਖੋ.",
+
   "FAQ_12_H1": "ਮੇਰਾ ਐਂਟੀ-ਵਾਇਰਸ ਸ਼ਿਕਾਇਤ ਕਿਉਂ ਕਰਦਾ ਹੈ?ਕੀ ਸਟ੍ਰਾਮਬੀਨੀ ਸੁਰੱਖਿਅਤ ਹੈ?",
   "FAQ_12_P1": "ਅਸੀਂ ਤੁਹਾਨੂੰ ਯਕੀਨ ਦਿਵਾਉਂਦੇ ਹਾਂ ਕਿ ਸਟ੍ਰੀਮਿਓ $ {1} 100% ਕਲੀਨ $ {On 2} ਹੈ.",
   "FAQ_12_P2": "ਤੁਹਾਡਾ ਐਨਟਿਵ਼ਾਇਰਅਸ ਸ਼ਿਕਾਇਤ ਕਰ ਰਿਹਾ ਹੈ ਕਿਉਂਕਿ ਅਸੀਂ ਆਪਣੇ ਇੰਸਟੌਲਰ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਸ਼ਾਮਲ ਕਰਦੇ ਹਾਂ ਜੋ ਕਿ ਕੁਝ ਐਂਟੀ-ਵਾਇਰਸ ਪ੍ਰੋਗਰਾਮ ਇਸ਼ਤਿਹਾਰਬਾਜ਼ੀ ਵਜੋਂ ਜਾਣਦੇ ਹਨ.",
   "FAQ_12_P3": "ਜੇ ਤੁਸੀਂ ਅਜੇ ਵੀ ਅਨਿਸ਼ਚਿਤ ਹੋ ਤਾਂ ਤੁਸੀਂ ਸਾਡੇ $ {1} ਵਿਕਲਪਿਕ ਸਥਾਪਕ $ {2} ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ.",
+
   "FAQ_13_H1": "ਮੈਂ ਅਡੇਨ ਕਿਵੇਂ ਬਣਾ ਸਕਦਾ ਹਾਂ?",
   "FAQ_13_P1": "ਸ਼ੁਰੂਆਤ ਦੇ ਲਈ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਗਾਰਡਾਂ ਤੇ * {1} ਐਡਨਸ ਸਿਸਟਮ ਮੋਡੀ module ਲ $ {2} ਦੀ ਜਾਂਚ ਕਰਦੇ ਹਾਂ.",
   "FAQ_13_P2": "ਬਾਅਦ ਵਿਚ ਤੁਸੀਂ $ {1} ਹੈਲੋ ਵਿਸ਼ਵ ਟਿ utorial ਟੋਰਿਅਲ $ {2 ਦੀ ਪਾਲਣਾ ਕਰ ਸਕਦੇ ਹੋ.",
   "FAQ_13_P3": "ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪ੍ਰੋਗਰਾਮਿੰਗ ਹੁਨਰਾਂ ਨਹੀਂ ਹਨ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਦ੍ਰਿਸ਼ਟੀਕੋਣ $ {1} ਰੈਡਡਿਟ ਕਮਿ Community ਨਿਟੀ $ {2} ਤੇ ਪੋਸਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ.",
+
   "FAQ_14_H1": "ਵਿਗਿਆਪਨ ਕਿਵੇਂ ਪ੍ਰਕਾਸ਼ਤ ਕੀਤੇ ਗਏ ਹਨ?",
   "FAQ_14_P1": "ਜਦੋਂ ਤੁਸੀਂ ਇੱਕ ਅਡਿਨ ਅਤੇ ਹੋਸਟ ਬਣਾਉਂਦੇ ਹੋ ਅਤੇ ਆਪਣੀ ਮੈਨੀਫੈਸਟ ਵਿੱਚ ਅੰਤਮ ਰੂਪ ਵਿੱਚ ਜਾਂ ਅੰਤਮ ਖੇਤਰ ਵਿੱਚ ਆਪਣੇ ਆਪ ਹੀ adence {1} ਅਦੇਨ ਕੈਟਾਲਾਗ $ {2 ਪ੍ਰਕਾਸ਼ਤ ਕਰੋ.",
   "FAQ_14_P2": "ਇਹ ਇਸ ਲਈ ਹੈ ਕਿਉਂਕਿ ਸਟ੍ਰਾਬੀਓ-ਇਸ਼ਤਿਹਾਰਾਂ ਦਾ ਸਰਵਰ ਆਪਣੇ ਆਪ ਹੀ ਸਾਡੀ ਏਪੀਆਈ ਨੂੰ ਅਡੇਨ ਦਾ ਐਲਾਨ ਕਰਨ ਲਈ ਕਹਿੰਦਾ ਹੈ.ਜਦੋਂ ਸਾਡੇ API ਨੇ ਤੁਹਾਡੇ <ਬੀ> ਪੁਆਇੰਟ </ b> ਨੂੰ ਵੈਧ ਅਡਿਨ ਦੇ ਤੌਰ ਤੇ ਪ੍ਰਮਾਣਿਤ ਕੀਤਾ, ਤਾਂ ਇਹ ਕੈਟਾਲਾਗ ਵਿੱਚ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦੇਵੇਗਾ.",
+
   "FAQ_15_H1": "ਕੀ ਮੈਂ ਆਪਣੇ ਬ੍ਰਾ? ਜ਼ਰ ਵਿੱਚ ਇੱਕ ਰਫਤਾਰ ਚਲਾ ਸਕਦਾ ਹਾਂ?",
   "FAQ_15_P1": "ਇਸ ਵੇਲੇ ਨਹੀਂ, ਪਰ ਇਹ ਆ ਰਿਹਾ ਹੈ!",
   "FAQ_15_P2": "ਜੇ ਤੁਸੀਂ ਅਲਫ਼ਾ ਨੂੰ ਵੇਖਣ ਲਈ ਉਤਸੁਕ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇੱਥੇ ਵੇਖ ਸਕਦੇ ਹੋ: $ {1} ਅਲਫ਼ਾ 4.strem.io $ {2}.ਇਹ ਯਾਦ ਰੱਖੋ ਕਿ ਸਟ੍ਰੀਮਿੰਗ ਇਸ ਅਲਫ਼ਾ ਤੇ ਅਯੋਗ ਹੈ.ਅਸੀਂ ਕ੍ਰੋਮ ਫਾਇਰਫਾਕਸ ਓਪੇਰਾ ਅਤੇ ਐਜ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ.",
+
   "FAQ_16_H1": "ਕਸਰਤ ਨੂੰ ਕਾਸਟ ਕਰ ਰਹੇ / ਉਪਸਿਰਲੇਖ ਟੀਵੀ ਲਈ ਕੰਮ ਨਹੀਂ ਕਰਦਾ",
   "FAQ_16_P1": "ਟੀਵੀ ਦੀ ਕਾਸਟਿੰਗ ਡੀਐਲਐਨਏ ਤਕਨਾਲੋਜੀ ਦੀ ਵਰਤੋਂ ਕਰਦੀ ਹੈ ਜੋ ਕਿ ਵੱਖ ਵੱਖ ਟੀਵੀ ਬ੍ਰਾਂਡਾਂ ਅਤੇ ਮਾਡਲਾਂ ਵਿਚਕਾਰ ਬਹੁਤ ਅਨੁਕੂਲ ਹੈ.ਇਸ ਕਾਰਨ ਕਰਕੇ, ਸਾਡੇ ਕੋਲ ਇਸ ਨੂੰ ਹਰ ਕੇਸ ਵਿੱਚ ਟੈਸਟ ਕਰਨ ਦੀ ਯੋਗਤਾ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਇਹ ਬਹੁਤ ਦੂਰ ਹੈ.ਇਸ ਦੇ ਬਾਵਜੂਦ, ਅਸੀਂ ਇਸ ਨੂੰ ਲਗਾਤਾਰ ਬਿਹਤਰ ਬਣਾਉਣ 'ਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ ਪਰ ਅਸੀਂ ਤੁਹਾਨੂੰ ਉਹ ਸਮਾਂ ਅਨੁਮਾਨ ਨਹੀਂ ਦੇ ਸਕਦੇ ਜਦੋਂ dlna ਤੁਹਾਡੇ ਟੀਵੀ ਨਾਲ ਸਹੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਦੇਵੇਗਾ.",
   "FAQ_16_P2": "ਜੇ ਤੁਸੀਂ ਕਾਸਟਿੰਗ ਮੀਨੂ ਵਿੱਚ ਆਪਣਾ ਟੀਵੀ ਵੀ ਨਹੀਂ ਵੇਖਦੇ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਯੋਗ ਕਰੋ ਅਤੇ ਆਪਣੇ ਰਾ ter ਟਰ ਟੀਵੀ ਅਤੇ ਪੀਸੀ ਰੀਸਟੋਰ ਤੇ ਕਲਿਕ ਕਰੋ",
   "FAQ_16_P3": "ਜੇ ਤੁਸੀਂ ਅਜੇ ਵੀ ਮੁੱਦੇ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਆਪਣਾ ਟੀਵੀ ਬ੍ਰਾਂਡ ਅਤੇ ਮਾਡਲ ਜਾਣਕਾਰੀ $ {1 lofficus@stremio.com ਤੇ ਭੇਜ ਕੇ ਸਾਡੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ.",
   "FAQ_16_P4": "ਇਸ ਦੌਰਾਨ ਅਸੀਂ ਕ੍ਰੋਮਾਸਿਡ ਦੀ ਸਿਫਾਰਸ਼ ਕਰਦੇ ਹਾਂ ਕਿ ਕੀ ਅਸੀਂ ਕਿਸੇ ਖੂਹ ਦਾ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ ਜਾਂ ਸਿਰਫ਼ ਐਚਡੀਐਮਆਈ ਕੇਬਲ ਦੇ ਨਾਲ ਆਪਣੇ ਕੰਪਿ in ਟਰ ਵਿੱਚ ਜੋੜ ਰਹੇ ਹਾਂ.",
+
   "FAQ_17_H1": "ਸਟ੍ਰੀਮੀਓ ਫ੍ਰੀਜ਼ ਅਤੇ / ਜਾਂ ਹਾਦਸੇ ਮੈਂ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?",
   "FAQ_17_P1": "ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਜੇ ਤੁਸੀਂ IVG ਐਂਟੀ-ਵਾਇਰਸ ਨਾਲ ਵਿੰਡੋਜ਼ 7 ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ: ਇਸ ਸੁਮੇਲ ਨਾਲ ਸਾਨੂੰ ਕੋਈ ਸਮੱਸਿਆ ਹੈ.ਸਮੱਸਿਆ ਆਪਣੇ ਆਪ ਵਿਚ ਇਕ ਵਿਚ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਹੱਲ ਕਰਨ ਦਾ ਕੋਈ ਸਹੀ ਤਰੀਕਾ ਨਹੀਂ ਹੈ.ਬਦਕਿਸਮਤੀ ਨਾਲ, ਐਂਟੀ-ਵਾਇਰਸ ਦਾ ਅਪਵਾਦ ਜਾਂ ਅਯੋਗ ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ.ਸਿਰਫ ਇਕੋ ਇਕ ਚੀਜ਼ ਨੂੰ ਕਿਸੇ ਹੋਰ ਚੀਜ਼ ਨਾਲ ਬਦਲਣਾ ਹੈ.",
   "FAQ_17_P2": "ਜੇ ਇਹ ਸਮੱਸਿਆ ਨਹੀਂ ਹੈ ਬਲਕਿ ਤੁਸੀਂ ਅਜੇ ਵੀ ਵਿੰਡੋਜ਼ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਨਵੀਨਤਮ ਸਰਵਿਸ ਪੈਕ ਨੂੰ ਅਪਡੇਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਜੀਪੀਯੂ ਡਰਾਈਵਰ ਨੂੰ ਅਪਡੇਟ / ਸਥਾਪਤ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
   "FAQ_17_P3": "ਜੇ ਤੁਸੀਂ ਸਮੱਸਿਆ ਨੂੰ ਹੱਲ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ ਜਾਂ ਤੁਸੀਂ ਮੈਕ ਜਾਂ ਲੀਨਕਸ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ ਤਾਂ ਫਿਰ ਸਾਡੇ ਫੇਸਬੁੱਕ ਸਮੂਹ $ {On 2} 'ਤੇ ਸਮੱਸਿਆ ਦਾ ਸਹੀ ਵੇਰਵਾ ਦਿਓ.",
+
   "FAQ_18_H1": "ਮੈਂ ਅਡੇਨ ਕਿਵੇਂ ਬਣਾ ਸਕਦਾ ਹਾਂ?",
   "FAQ_18_P1": "ਸ਼ੁਰੂਆਤ ਦੇ ਲਈ, ਅਸੀਂ ਤੁਹਾਨੂੰ ਗਾਰਡਾਂ ਤੇ * {1} ਐਡਨਸ ਸਿਸਟਮ ਮੋਡੀ module ਲ $ {2} ਦੀ ਜਾਂਚ ਕਰਦੇ ਹਾਂ.",
   "FAQ_18_P2": "ਬਾਅਦ ਵਿਚ ਤੁਸੀਂ $ {1} ਹੈਲੋ ਵਿਸ਼ਵ ਟਿ utorial ਟੋਰਿਅਲ $ {2 ਦੀ ਪਾਲਣਾ ਕਰ ਸਕਦੇ ਹੋ.",
   "FAQ_18_P3": "ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਪ੍ਰੋਗਰਾਮਿੰਗ ਹੁਨਰਾਂ ਨਹੀਂ ਹਨ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਦ੍ਰਿਸ਼ਟੀਕੋਣ $ {1} ਰੈਡਡਿਟ ਕਮਿ Community ਨਿਟੀ $ {2} ਤੇ ਪੋਸਟ ਕਰੋ ਅਤੇ ਆਪਣੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ.",
+
   "FAQ_19_H1": "ਸਟ੍ਰੀਮਿਓ ਡਿਸਕ ਕਿਉਂ ਹੋ ਰਹੀ ਹੈ?",
   "FAQ_19_P1": "ਸਟ੍ਰੀਮਿਓ ਕੋਲ ਇੱਕ ਸਥਾਨਕ ਕੈਸ਼ </ ਬੀ> ਹੈ ਜੋ ਅਸਥਾਈ ਤੌਰ 'ਤੇ ਸਟ੍ਰੀਮ-ਟ੍ਰਿਪ ਕਰਦਾ ਹੈ.",
   "FAQ_19_P2": "ਇਸ ਦੇ ਦੋ ਫਾਇਦੇ ਹਨ: ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਇਹ ਸਪ੍ਰੋਮਿਓ ਨੂੰ ਹੋਰ ਵੀਡੀਓ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ ਤਾਂ ਜੋ ਨਿਰਵਿਘਨ ਸਟ੍ਰੀਮਿੰਗ ਨੂੰ ਯਕੀਨੀ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ.ਦੂਜਾ, ਇਹ ਵੀਡੀਓ ਨੂੰ ਸਥਾਨਕ ਨਕਦ ਵਿੱਚ ਰੱਖਦਾ ਹੈ ਤਾਂ ਜੋ ਤੁਸੀਂ ਉਨ੍ਹਾਂ ਨੂੰ offline ਫਲਾਈਨ ਵੇਖਣਾ ਜਾਰੀ ਰੱਖ ਸਕੋ.",
   "FAQ_19_P3": "ਸੈੱਟ ਕਰਨ ਵਾਲੇ ਪੈਨਲ ਵਿੱਚ, ਸਟਰੇਮ <ਬੀ> ਕੈਚੇ </ ਬੀ> ਸੈਟਿੰਗਾਂ 'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ.ਸਟ੍ਰਾਬੀਓ ਤੁਹਾਡੀ ਡਿਸਕ ਤੇ ਸੈਟ ਕੀਤੀ ਗਈ ਰਕਮ ਤੇ ਨਿਰਭਰ ਕਰ ਸਕਦੀ ਹੈ (ਜਿਵੇਂ ਕਿ 2 ਜੀਬੀ) ਦੇ ਮਾਮਲੇ ਨਾਲੋਂ ਵੱਡਾ ਨਹੀਂ ਹੁੰਦਾ, ਜਿਸ ਵਿੱਚ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪ੍ਰਵਾਹ ਨਹੀਂ ਕਰ ਰਹੇ.",
+
   "FAQ_20_H1": "ਨਕਦ ਫੋਲਡਰ ਕਿੱਥੇ ਹੈ?",
   "FAQ_20_P1": "ਇਹ ਵਿੰਡੋਜ਼ 'ਤੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚੁਣੀ ਗਈ ਡਰਾਈਵ ਵਿੱਚ ਇਹ ਇੱਕ ਸਟ੍ਰਾਮਿਓ-ਕਾਸ਼ ਹੈ (e. E: starmio-cache)",
   "FAQ_20_P2": "ਇਹ ~ / ਲਾਇਬ੍ਰੇਰੀ / ਐਪਲੀਕੇਸ਼ਨ ਸਪੋਰਟ / ਸਟ੍ਰੀਮਿਓ / ਸਟ੍ਰੀਮਿਓ-ਕੈਚੇ ਮੈਕੋਸਟ ਤੇ",
   "FAQ_20_P3": "ਲੀਨਕਸ ਇਸ 'ਤੇ ~ / .stremio / spremio-cache ਜਾਂ ~ / ਸਟ੍ਰੀਮਿਓ-ਕੈਚੇ",
+
   "FAQ_21_H1": "ਮੈਨੂੰ ਇੱਕ ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ ਗਲਤੀ ਮਿਲਦੀ ਹੈ, ਮੈਂ ਕੀ ਕਰ ਸਕਦਾ ਹਾਂ?",
   "FAQ_21_P1": "ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਗਲਤੀ ਮਿਲਦੀ ਹੈ ਤਾਂ ਇਸਦਾ ਅਰਥ ਹੈ ਕੁਝ ਚੀਜ਼ਾਂ ਵਿਚੋਂ ਇਕ:",
   "FAQ_21_P2": "1) ਤੁਸੀਂ ਸਾਡੀ $ {1} ਵੈੱਬ ਵਰਜ਼ਨ $ {{2} ਦੁਆਰਾ ਸਹਿਯੋਗੀ ਅਡਿਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ.ਇਸ ਸਥਿਤੀ ਵਿੱਚ ਤੁਹਾਨੂੰ ਸਾਡੀ ਵੈਬਸਾਈਟ $ {4} ਤੋਂ ਸਾਡੇ ਡੈਸਕਟਾਪ ਵਰਜ਼ਨ ਨੂੰ ਸਥਾਪਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.",
   "FAQ_21_P3": "2) ਤੁਹਾਡੀ ਸਟ੍ਰੀਮਿਓ ਇੰਸਟਾਲੇਸ਼ਨ ਵਿੱਚ ਕੁਝ ਗਲਤ ਹੈ.ਇਸ ਸਥਿਤੀ ਵਿੱਚ, ਸਾਡੇ ਨਵੀਨਤਮ ਡੈਸਕਟਾਪ ਵਰਜ਼ਨ ਨੂੰ $ {1} ਵੈਬਸਾਈਟ $ {2} ਤੋਂ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ.ਜੇ ਇਹ ਤੁਹਾਡੇ ਕੰਪਿ PC ਟਰ ਨੂੰ ਮੁੜ ਚਾਲੂ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਨਹੀਂ ਕਰਦਾ ਅਤੇ ਐਂਟੀ-ਵਾਇਰਸ ਪ੍ਰੋਗਰਾਮਾਂ ਅਤੇ ਫਾਇਰਵਾਲ ਨੂੰ ਅਯੋਗ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ.ਜੇ ਇਹ ਕੰਮ ਨਹੀਂ ਕਰਦਾ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਆਪਣੇ ਫੇਸਬੁੱਕ ਸਮੂਹ $ {{4} ਤੇ ਲਿਖੋ.",
+
   "FAQ_22_H1": "ਮੈਂ ਆਈਓਐਸ 'ਤੇ ਜ਼ਿਆਦਾਤਰ ਵਿਗਿਆਪਨ ਨਹੀਂ ਦੇਖ ਸਕਦਾ",
   "FAQ_22_P1": "ਐਪਲ ਐਪ ਸਟੋਰ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਸ਼ਰਤਾਂ ਵਿੱਚ ਪਾਬੰਦੀਆਂ ਦੇ ਕਾਰਨ ਅਸੀਂ ਸਿਰਫ ਇਸ਼ਤਿਹਾਰਾਂ ਦੇ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸਮੂਹ ਤੇ ਆਈਓਐਸ ਐਪਲੀਕੇਸ਼ਨ ਤੇ ਪਾਬੰਦੀ ਲਗਾ ਦਿੱਤੀ ਹੈ.",
   "FAQ_22_P2": "ਪਰ ਬਾਕੀ ਭਰੋਸੇ ਦੇ ਦਿੱਤਾ ਗਿਆ ਹੈ - ਭਵਿੱਖ ਵਿੱਚ ਆਈਓਐਸ ਲਈ ਵਧੇਰੇ ਇਸ਼ਤਿਹਾਰ ਹੋਣਗੇ ਅਤੇ ਅਸੀਂ ਇੱਕ ਏਕੀਕਰਣ ਵੀ ਸ਼ਾਮਲ ਕਰ ਸਕਦੇ ਹਾਂ ਜੋ ਸਟ੍ਰੈਮਿਸ਼ੀ ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ ਨੂੰ ਆਈਓਐਸ ਐਪ ਨੂੰ ਜੋੜਨ ਲਈ ਸਾਰੇ ਸਟ੍ਰਿਮਿਓ ਐਡੀਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੇਵੇਗਾ."

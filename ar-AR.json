@@ -4,6 +4,7 @@
   "TYPE_tv": "قنوات تلفاز",
   "TYPE_channel": "القنوات",
   "TYPE_other": "أخرى",
+
   "TYPE_movie_PL": "أفلام",
   "TYPE_series_PL": "مسلسلات",
   "TYPE_tv_PL": "قنوات تلفاز",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "أخرى",
   "TYPE_ALL": "الكل",
   "TYPE": "نوع",
+
   "CATALOG_com_linvo_cinemeta_top": "رائج",
   "CATALOG_com_linvo_cinemeta_imdbRating": "مميز",
   "CATALOG_com_linvo_cinemeta_year": "حديث",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "افلام عامة",
+
   "VIDEO": "فيديو",
+
   "BACK": "رجوع",
   "MORE": "المزيد",
   "DONE": "تم",
   "COPY": "نسخ",
   "SUCCESS": "نجح",
   "ERROR": "خطاء",
+
   "SETTINGS_CASTING_MODE_PICKER": "وضع البث",
   "CASTING_MODE_HLSV2": "الافتراضي",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "لايوجد ترميز",
+
   "Discover": "أكتشف",
   "Board": "الرئيسية",
   "Library": "المكتبة",
   "My Library": "مكتبتي",
   "Calendar": "التقويم",
+
   "NOTIFICATION_ONLINE": "أنت الأن متصل بالأنترنيت",
   "NOTIFICATION_OFFLINE": "أنت الأن غير متصل بالأنترنيت",
   "INTERNET_CONNECTION": "جاري الأتصال بالشكبة",
+
   "STORAGE_FULL_TITLE": "تحذير : مساحة التخزين ممتلئة !",
   "STORAGE_FULL_TEXT": "لن يتمكن Stremio من حفظ الإعدادات أو التفضيلات أو معلومات تسجيل الدخول الخاصة بك. ضع في اعتبارك إعادة تشغيل Stremio أو إعادة تثبيته.",
+
   "SEARCH": "البحث",
   "SEARCH_NO_RESULTS": "لم يتم العثور على نتائح",
   "SEARCH_EXPLANATION_CONTENT": "البحث عن الأفلام والمسلسلات وقنوات يوتيوب والتلفزيون",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "قم بلصق روابط HTTP و Magnet",
   "SEARCH_OR_PASTE_LINK": "أبحث او ألصق رابط",
   "SEARCH_SUGGESTIONS": "اقتراحات البحث",
+
   "ADD_TO_LIB": "اضافة الى المكتبة",
   "REMOVE_FROM_LIB": "ازالة من المكتبة",
   "ADDED_TO_LIB": "تمت الاضافة الى المكتبة",
@@ -53,6 +63,7 @@
   "SHOW": "عرض",
   "SHOW_MOVIE": "شاهد الفيلم",
   "WATCH_RANDOM": "مشاهدة عشوائية",
+
   "IMDB_RATING": "تقييم IMDb",
   "YEAR": "السنة",
   "DIRECTOR": "المخرج",
@@ -75,11 +86,14 @@
   "FEATURED": "متميز",
   "METADATA": "البيانات الوصفية",
   "CATEGORY": "الفئة",
+
   "LINKS_GENRES": "التصنيف",
   "LINKS_CAST": "الطاقم",
   "LINKS_DIRECTORS": "المخرجون",
+
   "SEARCH_VIDEOS": "البحث عن فيديوهات",
   "SEARCH_PLACEHOLDER": "ابحث أو الصق رابط",
+
   "ADDON": "أضافة",
   "ADDONS": "أضافات",
   "OFFICIAL": "رسمية",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "تصدير بيانات المستخدم",
   "ADDON_PULL_FAILED": "فشلت مزامنة الإضافات المثبتة إلى حسابك",
   "REFRESH_ON_CLICK": " إضغط لإعادة تحميل",
+
   "STILL_IN_THEATER": "متواجد في دور العرض",
   "WATCH_IN_CINEMA": "شاهده في دار العرض القريبة منك",
   "IN_THEATER": "حاليا في دور العرض",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "لم يتم مراجعة هذه القناة بعد. <br> يرجى العودة بعد بضع دقائق.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "قم بإضافته إلى مكتبتك ليتم إعلامك بمجرد توفره.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "سيتم إخطارك بمجرد توفرها.",
+
   "WARNING_STREAMING_SERVER": "تحذير: خادم البث المحلي غير موجود. البث من الملفات المحلية ، لن يكون YouTube و BitTorrent متاحين.",
   "WARNING_STREAMING_SERVER_DISMISS": "تجاهل",
   "WARNING_STREAMING_SERVER_LATER": "فيما بعد",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "الفتح في مشغل خارجي",
   "PLAYER_OPEN_IN_NPLAYER": "فتح في nPlayer",
   "PLAYER_PLAY_IN": "تشغيل في {{device}}",
+
   "PLAYER_LIVE": "مباشر",
+
   "PLAYER_NEXT_VIDEO_TITLE": "الفيديو التالي",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "التالي",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "إغلاق",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "شاهد الان",
+
   "PLAYER_COPY_STREAM_SUCCESS": "تم نسخ رابط البث ",
   "PLAYER_COPY_STREAM_ERROR": "فشل في نسخ رابط البث",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "تم نسخ رابط التنزيل ",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "فشل نسخ رابط التنزيل",
+
   "STREAMING_FROM": "يتم البث من",
   "CASTING_TO": "ارسال البث ل",
   "NETWORK_STATUS": "حالة الشبكة",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "متصل :",
   "PEERS_WAITING": "في الأنتطار:",
   "TRANSCODING_WARNING": "تحذير: تحويل ترميز الفيديو.",
+
   "STREAM_LOADING": "جاري التحميل...",
   "PLAYING_LOCAL": "يتم التشغيل من ملف محلي",
   "PLAYING_CACHE": "يتم التشغيل من ملفات التخزين السابقة (Cache)",
+
   "WRONG_SUBS": "ترجمة خاطئة ؟",
   "ERR_SUBS_LOADING_TITLE": "حدث خطأ أثناء تحميل الترجمة",
   "ERR_SUBS_LOADING": "فشل تحميل الترجمة: قد يكون هذا مشكلة في الملحق الذي تستخدمه أو في اتصال الشبكة",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "فشل في تحميل الترجمة من الإضافات التالية",
   "ERR_CASTING_UPDATE_TITLE": "تعذر تحديث معلومات جهاز الإرسال: قد يكون خادم البث غير متصل بالإنترنت",
+
   "CHOOSE_DEVICE": "اختر جهازًا للمشاهدة عليه",
   "NO_CAST_DEVICES": "لا يوجد أجهزة عرض متاحة.",
+
   "NO_SETTINGS": "لا يوجد إعدادات متاحة.",
+
   "PHONE_TABLET": "هاتف / جهاز لوحي",
+
   "SUBTITLES": "الترجمات",
   "SUBTITLES_CHANGE": "قم بتغيير ترجمات ل ",
   "SUBTITLES_CHANGE_NONE": "لا توجد ترجمات أخرى لهذه اللغة ، معذرة.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "جارٍ تحميل الترجمات ...",
   "SUBTITLES_UNAVAILABLE": "لا توجد ترجمات متاحة.",
   "SUBTITLES_DISABLED": "معطل",
+
   "EXTERNAL_PLAYER_DISABLED": "معطل",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "السماح بألاختيار",
   "EXTERNAL_PLAYER_HINT": "تلميح: هناك إعداد للسماح بالفتح دائما مع مشغل خارجي",
+
   "DONT_SHOW_AGAIN": "لا تظهر مرة أخرى",
+
   "SERVICE_INSTALL": "تنزيل",
+
   "AUDIO": "Audio",
+
   "DEFAULT_LANGUAGE": "اللغة الإفتراضية",
   "DEFAULT_SECONDARY_LANGUAGE": "اللغة الثانوية الافتراضية",
+
   "SEASON": "موسم",
   "EPISODE": "حلقة",
   "EPISODE_ABBREVIATION": "ح",
   "SPECIAL": "حلقات خاصة",
+
   "SORT": "ترتيب",
   "SORT_BY": "ترتيب حسب",
   "FILTER": "تصفية",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "حسب مرات المشاهدة",
   "SORT_NOTWATCHED": "لم تشاهده",
+
   "New for You": "جديد من أجلك",
   "New Episodes": "حلقات جديدة",
   "New Videos": "فيديوهات جديدة",
   "Recommendations": "المقترحة",
+
   "LIBRARY_RESUME": "تابع",
   "LIBRARY_PLAY": "تشغيل",
   "LIBRARY_DETAILS": "التفاصيل",
   "LIBRARY_RESUME_DISMISS": "انهاء",
   "LIBRARY_CLEAR_PROGRESS": "مسح التقدم",
   "LIBRARY_REMOVE": "حذف",
+
   "LIBRARY_NOT_LOGGED_IN": "المكتبة متاحة فقط للمستخدمين المسجلين",
   "CALENDAR_NOT_LOGGED_IN": "التقويم متاح فقط للمستخدمين المسجلين",
   "NOT_LOGGED_IN_CLOUD": "استمتع بمشاهدة أفلامك وبرامجك التلفزيونية المفضلة في أي وقت وفي أي مكان",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "توصيات مخصصة استناداً إلى تاريخ مشاهداتك",
   "NOT_LOGGED_IN_NOTIFICATIONS": "لن تفوت أي حلقة بعد الآن",
   "NOT_LOGGED_IN_CALENDAR": "قم بجدولة تقويم مشاهداتك الشخصية",
+
   "DISCOVER_FEATURED": "متميز",
+
   "DISCOVER_TOP": "الأعلى",
   "DISCOVER_OSCAR": "حاصلة على جائزة الأوسكار",
+
   "DISCOVER_WARNING_TITLE": "عذرا !",
   "DISCOVER_EMPTY_CATALOG": "هذه الاضافة لاتحتوي على محتوى",
   "DISCOVER_ADULT_WARNING": "هذا المحتوى مخصص للبالغين عمرك اكبر من 18 ؟",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "لم يعد هذا المحتوى متاحًا ، ربما تكون قد قمت بإلغاء تثبيت الأضافة.",
   "UNINSTALL_THIS_ADDON": "الغاء تثبيت الأضافة",
   "ERR_ADDON_NOT_INSTALLED": "هذه الاضافه غير مثبته، هل تريد تثبيتها الان؟",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "تلقي أشعار في حال وجود حلقات جديدة",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "تلقي أشعار في حال وجود فيديوهات جديدة",
+
   "SIDEBAR_SHOW_STREAMS": "إظهار العروض",
+
   "RELAUNCH": "إعادة التشغيل الأن!",
   "UPGRADE": "نسخة جديدة متاحة! قم بالترقية إلى أحدث إصدار من Stremio",
   "RELOAD_UI": "إعادة تحميل الواجهة الأساسية",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "تحديث الأن",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "مستخدم مجهول",
   "DONT_HAVE_ACC": "ليس لديك حساب؟",
   "HAVE_ACC": "هل لديك حساب؟",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "لم ينجح البحث",
   "EMAIL_USED": "تم أستخدام هذا البريد الألكتروني مسبقا",
   "WAITING_FB_LOGIN": "جاري تسجيل الدخول ب أستخدام فيسبوك ...",
+
   "EXTERNAL_PLAYER_TITLE": "تشغيل باستخدام المشغل الخارجي",
   "EXTERNAL_REMEMBER_PLAYER": "هل ترغب في تذكر خيارك",
   "EXTERNAL_ALWAYS_PLAY": "نعم",
   "EXTERNAL_ONLY_ONCE": "لا",
+
   "BEST_FIT": "الأنسب",
   "FIT_SCREEN": "تناسب الشاشة",
   "FILL": "تعبئة",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "اصلي",
+
   "INTRO_TASTE": "أخبرنا بما تحبه",
   "INTRO_TASTE_LONG": "أخبرنا بما تود مشاهدته",
   "INTRO_TASTE_PICK": "اختر {{interestsRemaining}} أهتمامات",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "كيف تصنعها بنفسك",
   "INTRO_TASTE_TECH": "التقنية",
   "INTRO_TASTE_CINEMA": "السينيما",
+
   "ADDON_NOT_SUPPORTED": "الأضافة المحددة غير مدعومة على هذا النظام الأساسي.",
   "ADDON_DISCLAIMER": "سيخضع استخدام أدوات الطرف الثالث دائمًا لمسؤوليتك والقانون الحاكم للولاية القضائية التي توجد بها.",
   "ADDON_ACTIVATE": "تفعيل هذه الأضافة",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "أضافة ملحق",
   "ADD_ADDON_DESCRIPTION": "يمكنك إضافة ملحق عبر رابط خارجي ، والذي سيظهر ضمن الوظائف الإضافية المثبتة.",
   "PASTE_ADDON_URL": "لصق عنوان الملحق",
+
   "WHATS_NEW": "ما الجديد",
+
   "BUTTON_CONTINUE": "متابعة",
   "BUTTON_ACTIVATE": "تفعيل",
   "BUTTON_ACTIVATED": "مفعلة",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "عرض الكل",
   "BUTTON_SEE_ALL": "المزيد..",
   "BUTTON_COLOR_TRANSPARENT": "شفاف",
+
   "OPEN_IN_BROWSER": "افتح في المتصفح",
+
   "LIB_EMPTY": "مكتبتك تبدو فارغة. اكتشف مدى فائدتها :) ",
   "HOW_START": "إليك كيف يمكنك البدء:",
   "LIB_EMPTY_CAL": "يعرض التقويم الخاص بك المسلسلات في مكتبتك.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "اشترك للحصول على كل ما يلي:",
   "LIB_EMPTY_BEST": "قم بالتسجيل للحصول على أفضل ما في Stremio",
   "LIB_EMPTY_OTHER": "قم بالتسجيل لتمكين التقويم والميزات الرائعة الأخرى",
+
   "CALENDAR_ADDED": "تمت إضافة تقويم Stremio إلى تقويم سطح المكتب الافتراضي الخاص بك.",
   "CALENDAR_ADDED_MSG": "إذا لم يفلح ذلك ، يرجى إضافة عنوان URL هذا إلى تطبيق التقويم يدويًا",
+
   "TRAKT_EXPIRED": "انتهت صلاحية مصادقة Trakt ، يرجى الانتقال إلى الإعدادات وإعادة المصادقة",
   "TRAKT_REQUIRES_LOGIN": "خطأ Trakt",
   "TRAKT_REQUIRES_LOGIN_MSG": "تحتاج إلى تسجيل الدخول",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "معطل",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "إشعار اتصال الشبكة",
   "SETTINGS_ANALYTICS": "السماح بالتحليلات",
+
   "SETTINGS_REMOTE_URL": "رابط خارجي",
   "SETTINGS_COPY_REMOTE_URL": "نسخ الرابط الخارجي",
   "SETTINGS_REMOTE_URL_COPIED": "تم نسخ الرابط الخارجي إلى الحافظة",
+
   "SETTINGS_SECTION_SUBTITLES": "الترجمات",
   "SETTINGS_SECTION_AUDIO": "الصوت",
   "SETTINGS_SECTION_CONTROLS": "التحكم",
   "SETTINGS_SECTION_AUTO_PLAY": "التشغيل التلقائي",
   "SETTINGS_SECTION_ADVANCED": "إعدادات متقدمة",
+
   "SUBSPICKER_AUDIO": "الصوت",
   "SUBSPICKER_SUBTITLES": "ملحق الترجمة",
   "SUBSPICKER_BLACK_BACKGROUND": "استخدم لون اسود للخلفية",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "الحجم",
   "SUBSPICKER_DELAY": "التاخير",
   "SUBSPICKER_EMBEDDED_SUBS": "ترجمات مدمجة",
+
   "MOBILE_PRIVACY_POLICY": "سياسة الخصوصية",
   "MOBILE_CRASH_REPORTING": "تقرير الاخطاء",
   "MOBILE_ZOOM_TO_FILL": "تكبير لتعبئة الشاشة",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "تم إنشاء حسابك باستخدام فيسبوك. لحذف حسابك، يرجى استخدام بوابة المستخدم لدينا على www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "يرجى إدخال كلمة المرور الخاصة بك لتأكيد حذف الحساب.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "حذف الحساب",
+
   "NAVIGATION_ON": "تشغيل",
   "NAVIGATION_OFF": "ايقاف",
+
   "MARKETING_AGREE": "أوافق على تلقي رسائل تسويقية من Stremio",
+
   "QUIT": "خروج",
+
   "CONNECTED": "متصل",
   "AUTHENTICATE": "المصادقة",
   "CACHING": "تخزين مؤقت",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "ملف التورنت التعريفي",
   "DATA_CACHING": "تخزين مؤقت البيانات",
   "MAGNET_PARSING": "معالجة رابط تورنيت",
+
   "January": "كانون الثاني (يناير)",
   "February": "شباط (فبراير)",
   "March": "آذار (مارس)",
@@ -609,6 +671,7 @@
   "October": "تشرين الأول (أكتوبر)",
   "November": "تشرين الثاني (نوفمبر)",
   "December": "كانون الأول (ديسمبر)",
+
   "Monday": "الأثنين",
   "Tuesday": "الثلاثاء",
   "Wednesday": "الأربعاء",
@@ -616,6 +679,7 @@
   "Friday": "الجمعة",
   "Saturday": "السبت",
   "Sunday": "الاحد",
+
   "Action": "حركة",
   "Comedy": "كوميديا",
   "War": "حرب",
@@ -691,6 +755,7 @@
   "Science Radio": "راديو علمي",
   "Tech Radio": "راديو للتقنية",
   "Science & Technology Vod": "علوم وتقنية فيديوهات حسب الطلب",
+
   "new video": "فيديو جديد",
   "new episode": "حلقة جديدة",
   "new movie": "فيلم جديد",
@@ -699,6 +764,7 @@
   "offer of the day": "عرض اليوم",
   "news": "اخبار",
   "music video": "فيديو موسيقي",
+
   "CTX_SHOW_HOTKEYS": "اضهار المفاتيح الساخنة",
   "CTX_DISMISS_NOTIF": "اخفاء الاشعار",
   "CTX_DISMISS_ALL": "اخفاء الجميع",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "لصق",
   "CTX_CLEAR": "مسح",
   "CTX_CLEAR_RECENT_SEARCHES": "مسح اخر عمليات البحث",
+
   "HELLO_THERE": "مرحبا بك",
   "HOPE_YOU_ENJOY": "نأمل أن تستمتع بـ Stremio وهو أحد تطبيقاتك المفضلة بالفعل!",
   "WHO_ARE_WE": "من نحن؟ نحن الفريق الذي يقف وراء ذلك - رجلان يعملان بجد كل يوم على مدار السنوات الثلاث الماضية لجعل هذا المنتج أفضل وأفضل.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "شارك مع أصدقائك الآن ، انشر الخبر حول Stremio",
   "MORE_PEOPLE": "كلما زاد عدد الأشخاص الذين يستخدمون Stremio ، كان ذلك أفضل!",
   "SEND_A_LINK": "أو إرسال رابط إلى موقعنا",
+
   "TIP_LOCALFILES": "نصيحة: يمكنك سحب وإسقاط ملفات الفيديو المحلية في Stremio",
+
   "ADDON_MY": "أضافاتي",
   "ADDON_COMMUNITY": "إضافات المجتمع",
   "ADDON_OFFICIAL": "أضافات رسمية",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "شاهد #{types} مجانا",
   "ADDON_PROVIDES_SUBTITLES": "ترجمات ل #{types}",
   "ADDON_CANTDETECT": "لم نتمكن من اكتشاف Stremio قيد التشغيل ، لذلك لم نتمكن من اكتشاف الوظائف الإضافية التي قمت بتثبيتها.",
+
   "ERR_NO_META": "لم يتم العثور على معلومات ",
   "ERR_GETTING_META": "حدث خطا اثناء الحصول على معلومات خاصة بهذا",
   "ERR_CANT_PARSE_MAGNET": "غير ممكن معالجة رابط التورنيت",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "تعذر التشغيل من الحافظة",
   "ERR_CLIPBOARD_READ": "لايمكن قراءة الحافظة على هذه المنصة",
   "ERR_CLIPBOARD_GENERIC": "لم يتم العثور على عنوان URL قابل للتشغيل في الحافظة. يرجى نسخ عنوان URL (على سبيل المثال ، رابط مغناطيسي) إلى مقطع فيديو.",
+
   "BOARD_CONTINUE_WATCHING": "متابعة المشاهدة",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "أفلام منتقاة خصيصًا لك. <br /> هذا الفيلم هو نموذج توصية.",
   "BOARD_EXPLANATION_EPISODES": "تأتي هنا حلقات جديدة من مسلسلاتك المفضلة. <br /> أضف المسلسلات التي تتابعها إلى مكتبتك.",
   "BOARD_EXPLANATION_VIDEOS": "تأتي هنا حلقات جديدة من قنواتك المفضلة. <br /> أضف قنوات YouTube التي تتابعها إلى مكتبتك.",
+
   "WEBSITE_ENJOYED_BY": "يتمتع به أكثر من 30 مليون مستخدم حول العالم",
   "WEBSITE_STREAMING_ENHANCED": "تحسين البث",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "يقدم Stremio تجربة ترفيهية آمنة وحديثة وسلسة. مع واجهته السهلة الاستخدام ومكتبة المحتوى المتنوعة، بما في ذلك دعم 4K HDR، يمكن للمستخدمين الاستمتاع بأفلامهم وبرامجهم المفضلة عبر جميع أجهزتهم. ومع التزامه بالأمان، يعد Stremio الخيار الأمثل لتجربة بث عالية الجودة خالية من القلق.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "دليل Stremio Web على iOS",
   "WEBSITE_LINK_ART_V2": "معرض فن المعجبين",
   "WEBSITE_PARTNERS": "الشركاء",
+
   "WEBSITE_SLOGAN_WATCH": "شاهد على الفور",
   "WEBSITE_SLOGAN_ALL": "كل محتوى الفيديو الذي تستمتع به في مكان واحد",
   "WEBSITE_SLOGAN_NEW": "كل ما يمكنك مشاهدته",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "مسلسلات",
   "WEBSITE_TYPE_tv": "تلفاز مباشر",
   "WEBSITE_TYPE_channel": "قنوات",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio هو تطبيق يساعدك على تنظيم مقاطع الفيديو المفضلة لديك والأفلام والمسلسلات التلفزيونية والقنوات التلفزيونية ومشاهدتها على الفور.",
+
   "WEBSITE_FEATURES_WATCH": "شاهد على الفور بدقة عالية",
   "WEBSITE_FEATURES_WATCH_DETAIL": "انقر لتشغيل الأفلام والبرامج التلفزيونية ومقاطع الفيديو والقنوات التلفزيونية المفضلة لديك.",
+
   "WEBSITE_FEATURES_SUBS": "ترجمة تلقائية",
   "WEBSITE_FEATURES_SUBS_DETAIL": "يختار Stremio تلقائيًا ترجمات متزامنة للغتك.",
   "WEBSITE_FEATURES_SUBS_LABEL": "حركتك ،يارئيس.",
+
   "WEBSITE_FEATURES_CAST": "تشغيل على التلفزيون والأجهزة المحمولة",
   "WEBSITE_FEATURES_CAST_DETAIL": "البث إلى AppleTV و Chromecast والتلفزيون الذكي (DLNA / UPnP) والأجهزة المحمولة.",
+
   "WEBSITE_LIB": "استمتع بمكتبة شخصية متزامنة على جميع أجهزتك",
   "WEBSITE_LIB_COLLECT": "جمع من Stremio",
   "WEBSITE_LIB_IMPORT": "استيراد من فيسبوك",
   "WEBSITE_LIB_LOCAL": "اضافة من القرص الصلب",
+
   "WEBSITE_BOARD": "لوحة التحكم - مكانك الوحيد للإشعارات والتوصيات",
   "WEBSITE_BOARD_RECOMMEND": "برامج تلفاز مقترحة لك",
   "WEBSITE_BOARD_TRENDING": "فيلم شائع",
   "WEBSITE_BOARD_NEW": "فيديو جديد",
   "WEBSITE_BOARD_EPISODE": "حلقة جديدة",
+
   "WEBSITE_BOARD_1": "هل تبحث عن شيء ممتع لمشاهدته؟ احصل على توصيات بناء على ذوقك!",
   "WEBSITE_BOARD_2": "احصل على إشعار عند عرض حلقة جديدة من برنامجك التلفزيوني المفضل أو قناة YouTube!",
+
   "WEBSITE_BOARD_YOUTUBE": "مقاطع فيديو جديدة لقنوات يوتيوب",
   "WEBSITE_BOARD_EPISODES": "حلقات جديدة من مسلسلات تتابعها",
+
   "WEBSITE_ADDONS": "أضافات المحتوى",
+
   "WEBSITE_TECH_DETAIL": "نحن نحب التكنولوجيا ، ونحب العلم المجنون!  تستخدم Stremio تقنيات مفتوحة المصدر التالية:",
   "WEBSITE_TECH_WCJS": "يسمح WebChimera.js لـ Stremio بتشغيل أي تنسيق فيديو بأداء جيد.",
   "WEBSITE_TECH_WCJS_EXTRA": "نحن مساهمون أساسيون في المشروع",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "نحن مساهمون في المشروع",
   "WEBSITE_TECH_LINVODB": "تقنية قواعد البيانات التي تضمن تنظيم بياناتك وإتاحتها في أي مكان تقوم بتسجيل الدخول إليه.",
   "WEBSITE_TECH_LINVODB_EXTRA": "التكنولوجيا الداخلية",
+
   "WEBSITE_CREATE_ADDON": "انشئ اضافتك الخاصة",
   "WEBSITE_CREATE_ADDON_DETAIL": "هل لديك خدمة تقدم محتوى فيديو؟ سنساعدك على الاستفادة من ميزات Stremio من خلال إنشاء الاضافة الخاصة بك.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "فوائد إنشاء أضافة لـ Stremio",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "مهتم؟ مرحبًا بك في <a href='mailto:office@stremio.com'> الاتصال بنا </a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "سنكون سعداء لمساعدتك على دمج المحتوى الخاص بك مع Stremio!",
   "WEBSITE_P2P": "من حين لآخر ، تأتي تقنية تغير اسم اللعبة. لقد استثمرنا الكثير من الوقت والجهد في بناء محرك دفق الفيديو من نظير إلى نظير (P2P) الذي يوفر أداءً رائعًا وتعدد الاستخدامات للتكيف مع أي حالة استخدام. \n اتصل بنا للحصول على فيديو P2P ممكّن بواسطة DRM عند الطلب أو البث المباشر.",
+
   "WEBSITE_THOUGHTS": "الأفكار التي نشاركها:",
   "WEBSITE_SPREAD": "انشر الخبر حول Stremio:",
   "WEBSITE_CONTACT": "اتصل بنا ، يسعدنا أن نسمع منك!",
   "WEBSITE_OPENSOURCE": "لمشاريعنا مفتوحة المصدر ، انتقل إلى",
+
   "WEBSITE_BITCOIN": "تبرع بعملة البيتكوين:",
   "WEBSITE_FAQ": "أسئلة مكررة",
   "WEBSITE_FAQ_SHORT": "FAQ",
   "WEBSITE_QUESTIONS": "أسئلة",
   "WEBSITE_TOS": "تعليمات الاستخدام",
   "WEBSITE_LEGAL": "قانوني",
+
   "WEBSITE_PAGE_ABOUT": "حول",
   "WEBSITE_PAGE_BECOME_PARTNER": "كن شريكا معنا",
   "WEBSITE_ALL_YOU_CAN_WATCH": "حرية المشاهدة \n كل ما تريد.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "مجموعة كبيرة من الفيديوهات يمكنك توسعتها ايضا",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "ميزات رائعة لتنظيم الوسائط الخاصة بك ؛",
   "WEBSITE_AS_SEEN_ON": "كما شوهد على",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "معلومات عنا",
   "WEBSITE_LINK_TECHNOLOGY": "التقنية",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "يمكنك استخدام خدمتنا على أي جهاز وفي أي وقت ، مما يجعل Stremio مركز الترفيه بالفيديو الوحيد الذي ستحتاج إليه على الإطلاق.",
   "WEBSITE_TEAM": "الفريق",
   "WEBSITE_TEAM_P": "فريق Stremio صغير ولكنه قوي: بين العشرة منا ، نقوم بالبرمجة بلغات X ، ونتشارك الخبرات في تطوير البرمجيات ، وتصميم UI و UX ، والتسويق والإعلان ، والأعمال التجارية والشركات الناشئة.",
+
   "WEBSITE_FEATURES": "المميزات",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "اكتشف محتوى جديدًا بسهولة",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "شاهد الفيديو من عدة مصادر مختلفة",
   "WEBSITE_FEATURES_SOURCES_P": "قم بتثبيت الوظائف الإضافية الرسمية والمجتمعية للاستمتاع بمقاطع الفيديو التي يتم الحصول عليها من العديد من المزودين المختلفين - كل ذلك في تطبيق واحد أنيق وسهل الاستخدام.",
   "WEBSITE_CREATE_AN_ADDON": "أنشاء أضافة",
+
   "WEBSITE_FEATURES_SYNC": "قم بمزامنة مكتبتك عبر أجهزة مختلفة واستأنف التشغيل",
   "WEBSITE_FEATURES_SYNC_P1": "قم بتسجيل الدخول بحسابك عبر جميع أجهزتك واستمتع بمكتبتك ووظائفك الإضافية والتشغيل والتقويم المتزامن.",
   "WEBSITE_FEATURES_EXTENDABLE": "كتالوج الفيديو القابل للتوسيع من خلال الإضافات",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "التشغيل على مشغل خارجي",
   "WEBSITE_FEATURES_POWER_USER_P2": "التشغيل من رابط تورنيت",
   "WEBSITE_FEATURES_POWER_USER_P3": "الاستيراد إلى مكتبتك من الإعجابات على Facebook أو القرص المحلي",
+
   "WEBSITE_ADD_ONS": "الأضافات",
   "WEBSITE_ADD_ONS_P1": "يتم الحصول على كل محتوى الفيديو الذي يوفره Stremio من خلال نظام إضافي - لم يتم تضمين أي محتوى أو مزود محتوى في التطبيق.",
   "WEBSITE_ADD_ONS_P2": "هناك مجموعتان من الاضافات المتاحة: الاضافات الرسمية واضافات المجتمع.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "أنشىء أضافة جديدة",
   "WEBSITE_ADDONS_CREATE_P1": "إذا كنت ترغب في ذلك ، يمكنك تطوير الأضافة الخاصة بك. بهذه الطريقة ، يمكنك منح نفسك ومجتمعنا إمكانية الوصول إلى محتوى فيديو جديد والوصول إلى جمهور مستهدف جديد من ملايين المستخدمين حول العالم.",
   "WEBSITE_ADDONS_START_CREATE": "للبدء ، قم بزيارة صفحة Stremio Addon SDK:",
+
   "WEBSITE_DOWNLOADS": "التنزيلات",
   "WEBSITE_DOWNLOADS_P1": "للحصول على الأداء الأمثل ، نوصي باستخدام أحدث إصدار متوفر من تطبيقات Stremio. ومع ذلك ، إذا كنت ترغب في استخدام إصدار أقدم لسبب ما ، فيمكنك تنزيله من هنا.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "لأفضل أداء، نوصي باستخدام أحدث إصدار متاح من تطبيقات Stremio.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "ابحث عن Stremio في متجر التطبيقات على جهاز Xbox الخاص بك",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "دليل لـ Stremio OS على Raspberry Pi",
   "WEBSITE_LINK_GUIDE": "دليل",
+
   "WEBSITE_DOWNLOAD_SERVICE": "تحميل خدمة Stremio",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "خدمة Stremio هي تطبيق مرفق لـ Stremio Web. نوصي باستخدام أحدث إصدار متاح من خدمة Stremio.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "خدمة Stremio لـ Windows",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "أطلقنا Stremio لـ Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "أطلقنا Stremio لـ Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "أطلقنا Stremio 5 لـ Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "منصة Stremio مفتوحة المصدر ويمكنك بسهولة إنشاء أضافات للمحتوى غير المصدر حاليًا.",
   "WEBSITE_CONTRIBUTE_WHY": "لماذا يجب عليك إنشاء أضافة ؟",
   "WEBSITE_CONTRIBUTE_WHY_P1": "الوصول إلى جمهور جديد لمحتوى الفيديو الخاص بك",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "إذا كنت ترغب في الاستمتاع بتطبيقات Stremio بلغات مختلفة ، فيمكنك الانضمام إلى مجتمع المترجمين المتطوعين لدينا. يساعدوننا في إضافة إصدارات من Stremio بعدة لغات مختلفة.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "هل أنت متشوق للبدء؟",
   "WEBSITE_TRANSALTE_STREMIO": "ترجمة Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "المجتمع الرسمي",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "كن جزءًا من مجتمع Stremio المتنامي. تابعنا على وسائل التواصل الاجتماعي ولا تخجل من إلقاء التحية - فنحن نحب أن نسمع من معجبينا!",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "خلفيات الشاشة",
   "WEBSITE_COMMUNITY_ART": "معرض الفنون",
   "WEBSITE_LINK_ART": "معرض الفنون",
+
   "WEBSITE_CONTACT_US": "تواصل معنا",
   "WEBSITE_CONTACT_US_P1": "إذا كان لديك أي أسئلة أو تعليقات أو اقتراحات ، فلا تتردد في الاتصال بنا من خلال نموذج الاتصال أدناه.",
   "WEBSITE_CONTACT_US_P2": "ضع في اعتبارك أننا موجودون في بلغاريا ، لذا قد يكون هناك تأخير في معالجة استفسارك بسبب اختلافات المنطقة الزمنية.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "بريدك الالكتروني",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "رسالتك",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "أرسال",
+
   "WEBSITE_CONTACT_US_Q_1": "كيفية التثبيت ؟",
   "WEBSITE_CONTACT_US_Q_2": "كيفية ألغاء التثبيت ؟",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) كيف تصنع اللازانيا؟",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "لينوكس",
   "WEBSITE_CONTACT_US_OS_4": "أندرويد",
   "WEBSITE_CONTACT_US_OS_5": "أيفون",
+
   "WEBSITE_TECHNOLOGY": "التقنية",
   "WEBSITE_TECHNOLOGY_P1": "نحن نحب التكنولوجيا والعلم المجنون. </br> هنا ما يمدك بالطاقة Stremio (كلها مفتوحة المصدر).",
   "WEBSITE_TECHNOLOGY_P_QT": "تطوير البرامج عبر الأنظمة الأساسية في أفضل حالاتها.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "أو",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... يمكنك توظيف مهاراتك في البرمجة لإنشاء إضافات مجتمعية.",
   "WEBSITE_TRANSLATE_STREMIO": "ترجمة Stremio",
+
   "WEBSITE_404_OH_NO": "عذرًا! الصفحة التي تبحث عنها ليست هنا ...",
   "WEBSITE_GO_HOME": "الرئيسية",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "تنزيلات أخرى",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "منافسة الأضافات",
   "WEBSITE_LINK_ART_CONTEST": "مسابقه الفنون",
   "WEBSITE_MY_ACCOUNT": "حسابي الشخصي",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "ما هو Stremio ؟ ",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio هو مركز وسائط حديث يمنحك حرية مشاهدة كل ما تريد.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "كيف يعمل؟",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "بمجرد تثبيت Stremio على جهازك وإنشاء حساب ، كل ما عليك فعله هو زيارة الكتالوج الإضافي وتثبيت أي أداة إضافية تريدها ، وأنت على ما يرام!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "بعد ذلك ، يمكنك الانتقال إلى قسم الأكتشاف أو لوحة التحكم لبدء استكشاف المحتوى.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "ماذا يمكنني أن أشاهد هنا؟",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "الكثير: الأفلام والبرامج التلفزيونية وقنوات الويب والرياضة والقنوات التلفزيونية والاستماع إلى البودكاست والمزيد. بفضل نظام الأضافات الخاص بنا ، يمكنك الوصول إلى مجموعة متنوعة من المحتويات.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "هل Stremio مفتوح المصدر؟",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "يمكنك التحقق من بعض الروابط : ${1}برنامج سطح المكتب${2} و ${3}GitHub المنظمة${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "هل Stremio آمن؟",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "نعم: نظرًا لأنه برنامج مفتوح المصدر ، فإن الكود قابل للتدقيق بشكل عام ويمكنك مراجعته بنفسك.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "تم تصميم نظام الإضافات في Stremio مع مراعاة أمان المستخدم. الإضافات لا تشغل أي كود محليًا، لذا فهي لا تشكل أي خطر على جهازك.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "ماذا عن خصوصيتي؟",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "نحترم خصوصية المستخدمين ولا نجمع أي بيانات شخصية إلى جانب الحد الأدنى الأساسي لإنشاء حسابك ومزامنته.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "يوجد أيضًا ${1} وضع الضيف ${2} عند التسجيل ، والذي لا يتطلب أي بيانات على الإطلاق: في هذا الوضع ، لا يتم إجراء مكالمات إلى الواجهة الخلفية لدينا. ومع ذلك ، فإنه يأتي على حساب الميزات المفيدة ، مثل القدرة على مزامنة مكتبتك عبر الأجهزة.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "هل يمكنني ارسال البث إلى التلفزيون الخاص بي؟",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "نعم ، نحن ندعم Chromecast ويمكنك الإرسال من تطبيقات سطح المكتب والأجهزة المحمولة (Android).",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "كم عدد الإضافات التي يمتلكها Stremio؟",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "اعتبارًا من أواخر عام 2019 ، أكثر من 50 - لمزيد من المعلومات ، راجع كتالوج الملحقات الخاصة بنا.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "هل يمكن تمديد Stremio بما يتجاوز ما هو موجود في الكتالوج الإضافي؟",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "نعم ، يجب عليك التحقق مما يلي: ${1} PimpMyStremio ${2} ، ${3} مجتمعات Reddit ${4} ، ${5} Stremio Downloader ${6} ، إلخ.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "ما هي الأجهزة التي يدعمها Stremio؟",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "لدينا تطبيقات سطح مكتب لأنظمة Windows و Mac و Linux. بالنسبة للجوال ، ندعم Android و iOS ، على الرغم من أن ضع في اعتبارك أن وظائف iOS محدودة (لا تدعم معظم الوظائف الإضافية).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "هناك العديد من الأجهزة التي تعمل بنظام Android والتي يمكنك تشغيل Stremio عليها ، مثل NVIDIA Shield و Amazon Fire Stick ، ​​لكننا لا ندعمها رسميًا.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "لدينا تطبيقات سطح مكتب لأنظمة Windows وMac وLinux. كما لدينا تطبيقات مخصصة لـ Android Mobile وAndroid TV. بالنسبة لـ iOS و iPadOS، نوصي باستخدام Stremio Web، على الرغم من أنه محدود في الوظائف.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "هل يمكنك إضافة محتوى معين إلى Stremio؟",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "عذرًا ، لا نقدم أي محتوى بأنفسنا ، ولكن كلما قمت بتثبيت المزيد من إضافات Stremio ، ستتمكن من العثور على المزيد من المحتوى.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "هل يستطيع Stremio تشغيل روابط التورنيت ؟",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "نعم ، ويمكنه أيضًا تشغيل روابط HTTP العادية وملفات التورنت (السحب والإفلات).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "هل يمكنني تنزيل مقطع فيديو ومشاهدته بلا إنترنت؟",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "تعد الميزة المتاحة في وضع عدم الاتصال ميزة قادمة ، ولكن إذا سمحت لـ Stremio بالتخزين المؤقت على جهازك (من لوحة الإعدادات) ، يمكنك مشاهدة مقاطع الفيديو لاحقًا دون اتصال.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "لا شيء يعمل ، ساعدني!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "هل أنت متأكد أنك قمت بتثبيت الوظائف الإضافية؟ إذا كانت الإجابة بنعم ، فراجع ${1} مركز المساعدة ${2} الخاص بنا.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "كيف يحافظ Stremio على عمليات التطوير الخاصة به؟",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "نعرض إعلانات غير تدخلية من حين لآخر ، لكننا نفكر في الانتقال إلى نموذج التبرع.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "لمزيد من الأسئلة ، انتقل إلى مركز المساعدة $ {1}${2}.",
+
   "HELP_LEARN_MORE": "ساعدنا في معرفة المزيد عنك.",
   "LIFESTYLE": "أسلوب الحياة",
   "SPORTS": "الرياضة",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "أخر عمليات البحث",
   "CLEAR_HISTORY": "مسح السجل",
   "CHOOSE_SOME": "اختر بعضًا من هذا:",
+
   "NO_WEB_REMOTE": "تعذر تحميل Web Remote",
   "STREMIO_OFFLINE": "Stremio غير متصل",
   "STREMIO_EXPENSIVE_CONNECTION": "لقد اكتشفنا أنك تستخدم اتصال بيانات الجوال ، هل تريد المتابعة؟",
   "USE_DATA": "استخدم البيانات",
   "WARNING": "تحذير",
+
   "MORE_INFO": "مزيد من المعلومات ...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "جار التحميل ...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "رجوع إلى اللغات",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "عرض الإحصائيات أثناء التحميل",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "لقراءت سايسة الخصوصية زر:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "لقراءت الاحكام والشروط زر:",
+
   "STREMIO_TV_NAV_SEARCH": "البحث",
   "STREMIO_TV_NAV_HOME": "الرئيسية",
   "STREMIO_TV_NAV_DISCOVER": "اكتشاف",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "قنوات تلفزيونية مباشرة",
   "STREMIO_TV_NAV_SETTINGS": "الاعدادات",
   "STREMIO_TV_NAV_ADDONS": "اضافات",
+
   "STREMIO_TV_LOGIN_TITLE": "ربط الحساب",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "تنتهي الصلاحية في",
   "STREMIO_TV_LOGIN_STEP_ONE": "امسح QR Code اعلاه او اذهب الى",
   "STREMIO_TV_LOGIN_STEP_TWO": "تسجيل الدحول لحساب Stremio الخاص بك",
   "STREMIO_TV_LOGIN_NEW_LINK": "طلب رابط جديد",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "تم تحديث كود تسجيل الدحول",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "اكتب شيئا ما",
   "STREMIO_TV_SEARCH_NO_ADDONS": "لم يتم طلب اي اضافة لهذا الفهرس!",
   "STREMIO_TV_SEARCH_BUTTON": "بحث",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "سجل البحث",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "يمكنك البحث عن عناوين, ممثلين, قنوات والمزيد ...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "مسح سجل البحث",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "اختر احد الفلترات اسفله",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "خادم البث غير متصل. تحقق من إعدادات الخادم.",
+
   "FILTERS": "قلترات",
   "SETTINGS": "الاعدادات",
   "ACCOUNT": "الحساب",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "ضبط الحجم",
   "REMOTE_COULD_NOT_BE_LOADED": "تعذر تحميل Web Remote",
   "REMOTE_RETRY": "أعادة المحاولة",
+
   "TORRENT_PROFILE_DEFAULT": "إفتراضي",
   "TORRENT_PROFILE_SOFT": "معتدل",
   "TORRENT_PROFILE_FAST": "سريع",
   "TORRENT_PROFILE_ULTRA_FAST": "فائقة السرعة",
+
   "FAQ_001_H1": "ما هو Stremio؟",
   "FAQ_001_P1": "Stremio هو برنامج مركز وسائط مصمم للترفيه بالفيديو مع وضع سهولة الاستخدام في الاعتبار. يسمح لك Stremio بتنظيم شاهد مجموعتك الخاصة من الأفلام والمسلسلات والقنوات والبث التلفزيوني المباشر.",
   "FAQ_001_P2": "يقوم Stremio بجمع المحتوى الذي يعرضه لك من القرص المحلي ونظام الوظائف الإضافية الخاص بنا.",
   "FAQ_001_P3": "سيُعلمك أيضًا عند ظهور حلقات / مقاطع فيديو / أفلام جديدة تهتم بها ، ويقدم لك توصيات بشأن الأفلام.",
+
   "FAQ_02_H1": "كيف يقارن Stremio بـ Kodi و Plex؟",
   "FAQ_02_P1": "نحن مستوحون من هذين البرنامجين. لكن لدينا أهدافًا مختلفة - يستهدف Stremio بشكل خاص الفيديو الترفيهي ، ويسعى جاهداً ليصبح الحل السائد لذلك من خلال كونه سهل الاستخدام للغاية.",
   "FAQ_02_P2": "لن يكون Stremio أبدًا قابلاً للتخصيص وغنيًا بالميزات مثل Kodi و Plex ، ولكنه أسهل كثيرًا في الاستخدام. فقط ${1} احصل عليه واطلع على ${2} :)",
+
   "FAQ_03_H1": "كيف يقارن Stremio بـ Netflix؟",
   "FAQ_03_P1": "مرة أخرى ، يعد Netflix أحد مصادر إلهامنا. نحن نسعى جاهدين لتحقيق تجربة مستخدم Netflix ، بالإضافة إلى الكثير من الأشياء الجيدة المضافة. ولكن الأهم من ذلك ، أننا نمنحك حرية إدارة مكتبتك الخاصة وإضافة مصادر محتوى جديدة باستخدام نظام الملحق الخاص بنا.",
   "FAQ_03_P2": "هذا يجعل Stremio قابلًا للتمديد بشكل لا نهائي ، لذلك عندما تستخدم Stremio ، فأنت لا تقتصر أبدًا على المحتوى الذي تقرر Netflix ترخيصه. على سبيل المثال ، من خلال Stremio ، يمكنك مشاهدة محتوى من $ {1} Filmon.tv ${2} ، ${3} Twitch.tv ${4} ، ${5} YouTube ${6} ، ${7} Vodo ${8} وحتى ${9} Netflix ${10} نفسها!",
+
   "FAQ_04_H1": "كيف يقارن Stremio بـ Flipboard؟",
   "FAQ_04_P1": "لا نتلقى هذا السؤال كثيرًا ، إلا عند التحدث إلى أشخاص مبتدئين :)",
   "FAQ_04_P2": "يعد Stremio عن طريق تصميم مجمع محتوى ، مما يجعله بشكل أساسي Flipboard للفيديو. هذا واضح جدًا في قسم Board الخاص بنا ، والذي يمنحك كتالوجات وإشعارات حلقة جديدة / فيديو جديد لما تتابعه ، تمامًا مثل Flipboard.",
+
   "FAQ_05_H1": "كيف يقارن Stremio بـ Popcorn Time؟",
   "FAQ_05_P1": "يتشابه كل من Stremio و Popcorn Time في واجهة المستخدم ، لأنه لا توجد طرق عديدة لعمل كتالوجات فيديو ترفيهية بشكل صحيح :)",
   "FAQ_05_P2": "ولكن بينما يركز Popcorn Time على بث التورنت من مصادر محددة ، فإن Stremio غير مقيد وهو مجرد مجمع محتوى - فهو غير مقيد بمصدر محتوى معين.",
   "FAQ_05_P3": "علاوة على ذلك ، نحن لا نقدم أي إضافات تورنت افتراضيًا ، لذلك لا يغطي Stremio حالة استخدام Popcorn Time بالوظائف الرسمية.",
   "FAQ_05_P4": "الفرق الملحوظ الآخر هو أن Popcorn Time مفتوح المصدر بالكامل ، بينما Stremio ${1} مفتوح المصدر جزئيًا ${2}.",
+
   "FAQ_06_H1": "هل ستضيف هذا الفيلم / المسلسل؟",
   "FAQ_06_P1": "لا آسف :(",
   "FAQ_06_P2": "كما هو مذكور في معظم الأسئلة الأخرى ، لا يوفر Stremio أي محتوى بمفرده - تتم إضافة كل شيء من خلال نظام الوظائف الإضافية. في حالة وجود طلب محتوى ، يمكنك استخدام الزر إبلاغ في المشغل ، والذي سيرسل بريدًا إلكترونيًا إلى مؤلف الوظيفة الإضافية التي تستخدمها حاليًا.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "هل ستقوم بإنشاء أضافة لـ X؟",
   "FAQ_08_P1": "إنه ممكن تمامًا.",
   "FAQ_08_P2": "إذا كانت لديك فكرة عن أضافة ، فأرسل لنا سطرًا على ${1}office@stremio.com ${2} ، ولكن يُرجى التأكد من أن فكرة الملحق لن تنتهك أي حقوق طبع ونشر أو شروط استخدام.",
   "FAQ_08_P3": "في الوقت الحالي ، الأشياء التالية في خارطة الطريق هي الإضافات لـ FandangoNOW ، فيديو Filmon.tv عند الطلب و Crunchyroll.",
+
   "FAQ_09_H1": "هل يستخدم Stremio برنامج BitTorrent؟",
   "FAQ_09_P1": "نعم ، يدعم Stremio BitTorrent كبروتوكول دفق. يمكنك استخدام ذلك إما مع أضافة تورنت ، أو عن طريق سحب وإفلات ملف .torrent في Stremio ، أو عن طريق لصق رابط تورينت في شريط البحث.",
   "FAQ_09_P2": "يرجى ملاحظة أن الملحق الرسمي الوحيد الذي يستخدم BitTorrent هو ${1} Vodo ${2} ، والذي يوفر محتوى مستقل ، وكلها مسموح بتوزيعها باستخدام BitTorrent.",
   "FAQ_09_P3": "نحن لا ندعم استخدام أي أدوات إضافية لطرف ثالث والتي قد تتيح انتهاك حقوق النشر.",
+
   "FAQ_10_H1": "ما الذي يمكنني مشاهدته في Stremio باستخدام الإضافات الرسمية؟",
   "FAQ_10_P1": "بشكل افتراضي ، يمكنك مشاهدة محتوى Filmon.tv و YouTube و Vodo داخل Stremio نفسها ، باستخدام مشغلها المضمن. بالإضافة إلى ذلك ، لدينا ملحق لـ Twitch.tv وعدد قليل من البرامج الأخرى.",
   "FAQ_10_P2": "يوفر هذا مجتمعة مجموعة مختارة من:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "الأفلام المستقلة مع Vodo",
   "FAQ_10_L4": "يتم بث الألعاب عبر الإنترنت باستخدام Twitch.tv",
   "FAQ_10_P3": "بالإضافة إلى ذلك ، هناك العديد من مصادر المحتوى المتوفرة مع Guidebox ووظائف Netflix الإضافية ، والتي <b> لا تعمل </ b> بالكامل داخل Stremio ، ولكنها ستعيد التوجيه إلى الخدمة المحددة. على سبيل المثال ، ستمنحك الوظيفة الإضافية Guidebox مجموعة مختارة من الأفلام التي يمكنك بثها في الولايات المتحدة مجانًا ، من خدمات مثل TubiTV و Crackle.",
+
   "FAQ_11_H1": "لن يتم تثبيت Stremio ، فماذا أفعل؟",
   "FAQ_11_P1": "إذا كنت تستخدم نظام التشغيل Windows ، فجرّب ${1} أداة التثبيت البديلة هذه ${2}.",
   "FAQ_11_P2": "إذا كنت تستخدم نظام التشغيل Mac OS X ، فيرجى العلم أننا لا ندعم أي شيء أقدم من OS X Mavericks (10.9).",
   "FAQ_11_P3": "إذا كنت تستخدم نظام Linux ، فاعلم أننا ندعم نظام Linux 64 بت (x64) فقط في الوقت الحالي.",
   "FAQ_11_P4": "إذا كنت لا تزال غير قادر على حل مشكلتك ، فيرجى مراسلتنا على ${1} Facebook group ${2}.",
+
   "FAQ_12_H1": "لماذا يشتكي برنامج مكافحة الفيروسات الخاص بي؟ هل Stremio آمن؟",
   "FAQ_12_P1": "نؤكد لك أن Stremio هو ${1} 100٪ نظيف ${2}.",
   "FAQ_12_P2": "يشكو برنامج مكافحة الفيروسات الخاص بك لأننا نقوم بتضمين إعلانات في أداة التثبيت الخاصة بنا ، والتي تتعرف عليها بعض برامج مكافحة الفيروسات على أنها أدوات إعلانية.",
   "FAQ_12_P3": "إذا كنت لا تزال غير متأكد ، فيمكنك تجربة ${1} المثبت البديل ${2}.",
+
   "FAQ_13_H1": "كيف يمكنني عمل أضافة جديدة ؟",
   "FAQ_13_P1": "بالنسبة للمبتدئين ، نوصيك بالتحقق من وحدة نظام الإضافات ${1} الخاصة بنا ${2} على GitHub.",
   "FAQ_13_P2": "بعد ذلك ، يمكنك اتباع البرنامج التعليمي ${1} Hello World ${2}.",
   "FAQ_13_P3": "إذا لم تكن لديك أي مهارات برمجية ، فالرجاء نشر فكرتك على ${1} مجتمع Reddit ${2} والاتصال بنا لتقديم فكرة الملحق الخاص بك على ${3}office@stremio.com${4}.",
+
   "FAQ_14_H1": "كيف يتم نشر الإضافات؟",
   "FAQ_14_P1": "عندما تنشئ ملحقًا ومضيفًا ، وتضع حقل <b> نقطة نهاية </b> في البيان الخاص بك ، والذي يشير إلى عنوان ملحق يعمل ، فإن الوظيفة الإضافية ستنشر نفسها تلقائيًا في كتالوج ${1} Addon ${2} .",
   "FAQ_14_P2": "يحدث هذا لأن جزء الخادم من وحدة stremio-addons يقوم تلقائيًا بإجراء مكالمة إلى واجهة برمجة التطبيقات الخاصة بنا للإعلان عن الملحق. عندما تتحقق واجهة برمجة التطبيقات الخاصة بنا من <b> نقطة النهاية </ b> كإضافة صالحة ، ستبدأ في الظهور في الكتالوج.",
+
   "FAQ_15_H1": "هل يمكنني تشغيل Stremio في المتصفح الخاص بي؟",
   "FAQ_15_P1": "ليس في الوقت الحالي ، لكن هذا قادم!",
   "FAQ_15_P2": "إذا كنت مهتمًا برؤية ألفا ، فيمكنك رؤيته هنا: ${1} alpha4.strem.io ${2}. ضع في اعتبارك أن البث معطل في هذا الإصدار ألفا. نحن ندعم Chrome و Firefox و Opera و Edge.",
+
   "FAQ_16_H1": "الإرسال إلى التلفزيون لا يعمل / لا تعمل الترجمة",
   "FAQ_16_P1": "يستخدم Casting to TV تقنية DLNA وهي غير متسقة للغاية بين مختلف العلامات التجارية والموديلات. لهذا السبب ، ليس لدينا القدرة على اختباره في كل حالة ، لذا فهو بعيد عن الكمال. على الرغم من ذلك ، نحن نعمل على تحسينه باستمرار ولكن لا يمكننا منحك تقديرًا للوقت حول موعد بدء DLNA في العمل بشكل صحيح مع تلفزيونك.",
   "FAQ_16_P2": "إذا كنت لا ترى التلفزيون الخاص بك في قائمة الإرسال ، فالرجاء محاولة تعطيل اتصال الشبكة وإعادة تمكينه (في Windows ، انقر بزر الماوس الأيمن فوق الشبكة واستخدم تمكين / تعطيل) ، وكذلك إعادة تشغيل جهاز التوجيه والتلفزيون والكمبيوتر .",
   "FAQ_16_P3": "إذا كنت لا تزال تواجه مشكلات ، فيمكنك مساعدتنا عن طريق إرسال معلومات الطراز والعلامة التجارية التلفزيونية الخاصة بك على ${1}office@stremio.com${2}.",
   "FAQ_16_P4": "في غضون ذلك ، نوصي باستخدام Chromecast ، الذي ندعمه جيدًا ، أو ببساطة قم بتوصيل التلفزيون بجهاز الكمبيوتر باستخدام كابل HDMI.",
+
   "FAQ_17_H1": "يتجمد Stremio و / أو يتعطل ، ماذا يمكنني أن أفعل؟",
   "FAQ_17_P1": "بادئ ذي بدء ، إذا كنت تستخدم Windows 7 مع برنامج مكافحة الفيروسات AVG: لدينا مشكلة في هذه المجموعة. المشكلة في AVG نفسه ، وليس هناك طريقة معقولة لحلها من جانبنا. لسوء الحظ ، لن تعمل الاستثناءات أو تعطيل برنامج مكافحة الفيروسات. الحل الوحيد هو استبدال AVG بشيء آخر.",
   "FAQ_17_P2": "إذا لم تكن هذه هي المشكلة ، ولكنك لا تزال تستخدم Windows ، فيرجى التحديث إلى أحدث حزمة خدمة وتحديث / إعادة تثبيت برامج تشغيل GPU ، ثم حاول مرة أخرى.",
   "FAQ_17_P3": "إذا لم يتم حل المشكلة بعد ، أو إذا كنت تستخدم نظام التشغيل Mac أو Linux ، فيرجى مراسلتنا للإبلاغ عن التفاصيل الدقيقة للمشكلة على ${1} مجموعة Facebook ${2}.",
+
   "FAQ_18_H1": "كيف يمكنني عمل أضافة ؟",
   "FAQ_18_P1": "بالنسبة للمبتدئين ، نوصيك بالتحقق من وحدة نظام الإضافات ${1} الخاصة بنا ${2} على GitHub.",
   "FAQ_18_P2": "بعد ذلك ، يمكنك اتباع البرنامج التعليمي ${1} Hello World ${2}.",
   "FAQ_18_P3": "إذا لم تكن لديك أي مهارات برمجية ، فالرجاء نشر فكرتك على ${1} مجتمع Reddit ${2} والاتصال بنا لتقديم فكرة الملحق الخاص بك على ${3}office@stremio.com${4}.",
+
   "FAQ_19_H1": "لماذا يشغل Stremio مساحة على القرص؟",
   "FAQ_19_P1": "يحتوي Stremio على <b> ذاكرة تخزين مؤقت محلية </ b> للاحتفاظ مؤقتًا بملفات الفيديو التي تقوم بدفقها.",
   "FAQ_19_P2": "هذا له فائدتان: أولاً ، يسمح لـ Stremio بالتخزين المؤقت للفيديو مسبقًا لضمان تدفق أكثر سلاسة. ثانيًا ، يحتفظ بمقاطع الفيديو في ذاكرة التخزين المؤقت المحلية حتى تتمكن من متابعة مشاهدتها في وضع عدم الاتصال.",
   "FAQ_19_P3": "يعتمد مقدار ما يحتفظ به Stremio على إعداد <b> ذاكرة التخزين المؤقت </ b> في لوحة الإعدادات. قد يحافظ Stremio على الكمية المحددة (على سبيل المثال 2 جيجا بايت) على القرص الخاص بك ، ما لم يكن الفيديو المتدفق حاليًا أكبر من ذلك ، وفي هذه الحالة يجب عليه تخصيص مساحة تخزين كافية للاحتفاظ به حتى تقوم بدفقه.",
+
   "FAQ_20_H1": "أين هو مجلد ذاكرة التخزين المؤقت؟",
   "FAQ_20_P1": "في Windows ، يكون stremio-cache في محرك الأقراص الذي اخترته في الإعدادات (مثال \"E:\\stremio-cache\")",
   "FAQ_20_P2": "على MacOS ، إنه \"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "على Linux ، إنه \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
+
   "FAQ_21_H1": "تلقيت خطأ لم يتم العثور على خادم البث  ، فماذا أفعل؟",
   "FAQ_21_P1": "إذا تلقيت هذا الخطأ ، فهذا يعني أحد الأشياء القليلة:",
   "FAQ_21_P2": "1) أنت تحاول استخدام ملحق مدعوم من مصدر YouTube / BitTorrent ، من خلال إصدار الويب ${1} الخاص بنا ${2}. في هذه الحالة ، يجب عليك تثبيت إصدار سطح المكتب من $ {3} موقعنا $ {4}.",
   "FAQ_21_P3": "2) هناك خطأ ما في تثبيت Stremio. في هذه الحالة ، حاول إعادة تثبيت أحدث إصدار لسطح المكتب من ${1} موقع الويب ${2}. إذا لم يساعدك ذلك ، فحاول تعطيل برامج مكافحة الفيروسات والجدران النارية وإعادة تشغيل الكمبيوتر والمحاولة مرة أخرى. إذا لم يفلح هذا أيضًا ، يرجى مراسلتنا على ${3} مجموعتنا على Facebook ${4}.",
+
   "FAQ_22_H1": "لا يمكنني رؤية / استخدام معظم الوظائف الإضافية على iOS",
   "FAQ_22_P1": "نظرًا للقيود الواردة في شروط وأحكام متجر تطبيقات Apple ، فقد قصرنا تطبيق iOS على مجموعة معينة من الوظائف الإضافية.",
   "FAQ_22_P2": "لكن كن مطمئنًا - سيكون هناك المزيد من الوظائف الإضافية لنظام iOS في المستقبل ، وقد نضيف أيضًا تكاملًا يسمح لك باستخدام جميع إضافات Stremio بفضل توصيل تطبيق iOS بخادم Stremio Streaming Server."

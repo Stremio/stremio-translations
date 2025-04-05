@@ -4,6 +4,7 @@
   "TYPE_tv": "Telekanal",
   "TYPE_channel": "Kanal",
   "TYPE_other": "Muu",
+
   "TYPE_movie_PL": "Filmid",
   "TYPE_series_PL": "Seriaalid",
   "TYPE_tv_PL": "Telekanalid",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "Muu",
   "TYPE_ALL": "Kõik",
   "TYPE": "Tüüp",
+
   "CATALOG_com_linvo_cinemeta_top": "Populaarne",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Esiletõstetud",
   "CATALOG_com_linvo_cinemeta_year": "Uus",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Avalikult saadaval filmid",
+
   "VIDEO": "Video",
+
   "BACK": "Tagasi",
   "MORE": "Veel",
   "DONE": "Tehtud",
   "COPY": "Kopeeri",
   "SUCCESS": "Õnnestus",
   "ERROR": "Viga",
+
   "SETTINGS_CASTING_MODE_PICKER": "Ekraaniülekande viis",
   "CASTING_MODE_HLSV2": "Tavaline",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "Ümberkodeerimiseta",
+
   "Discover": "Avasta",
   "Board": "Kodu",
   "Library": "Teek",
   "My Library": "Minu teek",
   "Calendar": "Kalender",
+
   "NOTIFICATION_ONLINE": "Oled võrgus",
   "NOTIFICATION_OFFLINE": "Sa ei ole hetkel võrgus",
   "INTERNET_CONNECTION": "Netiühendus",
+
   "STORAGE_FULL_TITLE": "Tähelepanu: maht on täis!",
   "STORAGE_FULL_TEXT": "Stremio ei saa salvestada su sätteid, eelistusi ega kontoandmeid. Palun taaskäivitage või taaspaigaldage rakendus.",
+
   "SEARCH": "otsi",
   "SEARCH_NO_RESULTS": "Tulemusi ei leitud",
   "SEARCH_EXPLANATION_CONTENT": "Otsi filme, sarju, YouTube-i ja telekanaleid",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "Kleebi HTTP või magnet-lingid",
   "SEARCH_OR_PASTE_LINK": "Otsi või kleebi link",
   "SEARCH_SUGGESTIONS": "Otsi soovitusi",
+
   "ADD_TO_LIB": "Lisa teeki",
   "REMOVE_FROM_LIB": "Eemalda teegist",
   "ADDED_TO_LIB": "Lisatud teeki",
@@ -53,6 +63,7 @@
   "SHOW": "Näita",
   "SHOW_MOVIE": "Näita filmi",
   "WATCH_RANDOM": "Vaata suvalist",
+
   "IMDB_RATING": "IMDb reiting",
   "YEAR": "Aasta",
   "DIRECTOR": "Lavastaja",
@@ -75,11 +86,14 @@
   "FEATURED": "Esiletõstetud",
   "METADATA": "Meta-andmed",
   "CATEGORY": "Kategooria",
+
   "LINKS_GENRES": "Žanrid",
   "LINKS_CAST": "Näitlejad",
   "LINKS_DIRECTORS": "Lavastajad",
+
   "SEARCH_VIDEOS": "otsi videoid",
   "SEARCH_PLACEHOLDER": "otsi või kleebi URL",
+
   "ADDON": "laiendus",
   "ADDONS": "Laiendused",
   "OFFICIAL": "Ametlik",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "Ekspordi kasutaja-andmed",
   "ADDON_PULL_FAILED": "Laienduste sünkroniseerimine ebaõnnestus",
   "REFRESH_ON_CLICK": "Proovi uuesti",
+
   "STILL_IN_THEATER": "Film veel kinodes",
   "WATCH_IN_CINEMA": "Vaata kohalikus kinos",
   "IN_THEATER": "Kinodes",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "Seda kanalit pole veel kraabitud.<br>Tulge tagasi mõne minuti pärast.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lisa teeki, et saada teavitus, kui see on saadaval.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "Saad teavituse, kui see on saadaval.",
+
   "WARNING_STREAMING_SERVER": "Hoiatus: kohalikku serverit ei leitud.",
   "WARNING_STREAMING_SERVER_DISMISS": "Eira",
   "WARNING_STREAMING_SERVER_LATER": "Hiljem",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "Ava välises esitajas",
   "PLAYER_OPEN_IN_NPLAYER": "Ava nPlayeris",
   "PLAYER_PLAY_IN": "Esita seadmes {{device}}",
+
   "PLAYER_LIVE": "Otse",
+
   "PLAYER_NEXT_VIDEO_TITLE": "Järgmine video",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Järgmine",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Loobu",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Vaata kohe",
+
   "PLAYER_COPY_STREAM_SUCCESS": "Esituslink kopeeriti lõikelauale",
   "PLAYER_COPY_STREAM_ERROR": "Esituslinki ei õnnestunud kopeerida",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Allalaadimislink kopeeriti lõikelauale",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Allalaadimislinki ei õnnestunud kopeerida",
+
   "STREAMING_FROM": "esitab allikast",
   "CASTING_TO": "Kuvatakse seadmes",
   "NETWORK_STATUS": "Võrguseisund",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "Ühendatud:",
   "PEERS_WAITING": "Ootab:",
   "TRANSCODING_WARNING": "Hoiatus: video kodeerimine.",
+
   "STREAM_LOADING": "laadimine...",
   "PLAYING_LOCAL": "esitamine kohalikust failist",
   "PLAYING_CACHE": "esitamine vahemälust",
+
   "WRONG_SUBS": "Valed subtiitrid?",
   "ERR_SUBS_LOADING_TITLE": "Viga subtiitrite laadimisel",
   "ERR_SUBS_LOADING": "Subtiitreid ei õnnestunud laadida: probleem võib olla teie kasutatavas laienduses või võrgus.",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "Järgmised subtiitrite laiendused ebaõnnestusid",
   "ERR_CASTING_UPDATE_TITLE": "Edastusseadet ei õnnestunud värskendada: server võib olla võrguühenduseta",
+
   "CHOOSE_DEVICE": "Valige seade, millel vaadata",
   "NO_CAST_DEVICES": "Edastus-seadmeid pole saadaval.",
+
   "NO_SETTINGS": "Seadmed puuduvad.",
+
   "PHONE_TABLET": "Telefon / Tahvelarvuti",
+
   "SUBTITLES": "Subtiitrid",
   "SUBTITLES_CHANGE": "Muuda subtiitreid",
   "SUBTITLES_CHANGE_NONE": "Selle keele jaoks pole muid subtiitreid, vabandame.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "Subtiitrid laaditakse...",
   "SUBTITLES_UNAVAILABLE": "Väliseid subtiitreid pole saadaval",
   "SUBTITLES_DISABLED": "Keelatud",
+
   "EXTERNAL_PLAYER_DISABLED": "Keelatud",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "Luba valik",
   "EXTERNAL_PLAYER_HINT": "Vihje: Seade, mis võimaldab alati avada välises esitajas",
+
   "DONT_SHOW_AGAIN": "Ära näita enam",
+
   "SERVICE_INSTALL": "Paigalda",
+
   "AUDIO": "Heli",
+
   "DEFAULT_LANGUAGE": "Eelistatud keel",
   "DEFAULT_SECONDARY_LANGUAGE": "Teine eelistatud keel",
+
   "SEASON": "Hooaeg",
   "EPISODE": "Osa",
   "EPISODE_ABBREVIATION": "EP",
   "SPECIAL": "Eriosa",
+
   "SORT": "sorteeri",
   "SORT_BY": "Sorteeri",
   "FILTER": "filtreeri",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "enim vaadatud",
   "SORT_NOTWATCHED": "pole vaadatud",
+
   "New for You": "Uus sulle",
   "New Episodes": "Uued osad",
   "New Videos": "Uued videod",
   "Recommendations": "Soovitused",
+
   "LIBRARY_RESUME": "Jätka",
   "LIBRARY_PLAY": "Esita",
   "LIBRARY_DETAILS": "Üksikasjad",
   "LIBRARY_RESUME_DISMISS": "Loobu",
   "LIBRARY_CLEAR_PROGRESS": "Kustuta progress",
   "LIBRARY_REMOVE": "Eemalda",
+
   "LIBRARY_NOT_LOGGED_IN": "Teek on saadaval ainult sisselogitud kasutajatele",
   "CALENDAR_NOT_LOGGED_IN": "Kalender on saadaval ainult sisselogitud kasutajatele",
   "NOT_LOGGED_IN_CLOUD": "Pääsete oma lemmikfilmidele ja -sarjadele ligi igal ajal ja igal pool",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "Soovitused teie vaatamisajaloo põhjal",
   "NOT_LOGGED_IN_NOTIFICATIONS": "Ärge jätke ühtegi episoodi vahele",
   "NOT_LOGGED_IN_CALENDAR": "Planeerige oma vaatamiskalender",
+
   "DISCOVER_FEATURED": "Esiletõstetud",
+
   "DISCOVER_TOP": "Top",
   "DISCOVER_OSCAR": "Oscarite võitjad",
+
   "DISCOVER_WARNING_TITLE": "Oih!",
   "DISCOVER_EMPTY_CATALOG": "See laiendus tagastas tühja sisu.",
   "DISCOVER_ADULT_WARNING": "Sisu on nähtav ainult täiskasvanutele. Kas olete üle 18?",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "See sisu pole enam saadaval, võib-olla olete laienduse eemaldanud.",
   "UNINSTALL_THIS_ADDON": "Eemalda see laiendus",
   "ERR_ADDON_NOT_INSTALLED": "See laiendus pole paigaldatud. Paigalda nüüd?",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "Saa teavitusi uute osade kohta",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "Saa teavitusi uute videote kohta",
+
   "SIDEBAR_SHOW_STREAMS": "Kuva edastusvood",
+
   "RELAUNCH": "Käivita uuesti!",
   "UPGRADE": "Uus versioon on saadaval! Uuenda Stremio viimase versioonini",
   "RELOAD_UI": "Laadi kasutajaliides uuesti",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "Uuenda",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "Anonüümne kasutaja",
   "DONT_HAVE_ACC": "Ei ole veel kontot?",
   "HAVE_ACC": "Juba on konto?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "Otsing ebaõnnestus",
   "EMAIL_USED": "See e-posti aadress on juba kasutusel.",
   "WAITING_FB_LOGIN": "Sisselogimine Facebookiga...",
+
   "EXTERNAL_PLAYER_TITLE": "Esita välises Esitajas",
   "EXTERNAL_REMEMBER_PLAYER": "Kas soovid seda valikut meeles pidada",
   "EXTERNAL_ALWAYS_PLAY": "Jah",
   "EXTERNAL_ONLY_ONCE": "Ei",
+
   "BEST_FIT": "Parim sobivus",
   "FIT_SCREEN": "Mahutle ekraanile",
   "FILL": "Täida",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "Originaal",
+
   "INTRO_TASTE": "Räägi meile oma huvidest",
   "INTRO_TASTE_LONG": "Räägi meile, mida tahaksid vaadata",
   "INTRO_TASTE_PICK": "Vali {{interestsRemaining}} huvi",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "Teeme ise (DIY)",
   "INTRO_TASTE_TECH": "Tehnoloogia",
   "INTRO_TASTE_CINEMA": "Kino",
+
   "ADDON_NOT_SUPPORTED": "Valitud laiendust ei toetata sellel platvormil.",
   "ADDON_DISCLAIMER": "Kolmandate osapoolte laienduste kasutamine on alati sinu enda vastutus ja sõltub sinu asukohariigi õigusaktidest.",
   "ADDON_ACTIVATE": "Kas aktiveerida see laiendus?",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "Lisa laiendus",
   "ADD_ADDON_DESCRIPTION": "Saad lisada laienduse välise lingi kaudu, mis kuvatakse paigaldatud laienduste all.",
   "PASTE_ADDON_URL": "Kleebi laienduse URL",
+
   "WHATS_NEW": "Mis on uut",
+
   "BUTTON_CONTINUE": "Jätka",
   "BUTTON_ACTIVATE": "Aktiveeri",
   "BUTTON_ACTIVATED": "Aktiveeritud",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "kuva kõik",
   "BUTTON_SEE_ALL": "Vaata kõiki",
   "BUTTON_COLOR_TRANSPARENT": "Läbipaistev",
+
   "OPEN_IN_BROWSER": "Ava veebilehitsejas",
+
   "LIB_EMPTY": "Sinu teek paistab tühi olevat. Avasta, kui kasulik see on :) ",
   "HOW_START": "Siin on kirjas, kuidas saad alustada:",
   "LIB_EMPTY_CAL": "Sinu kalender näitab sarjasid, mis on sinu teegis.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "Registreeru, et saada kõike seda:",
   "LIB_EMPTY_BEST": "Registreeru, et saada parim kogemus",
   "LIB_EMPTY_OTHER": "Registreeru, et lubada kalendrit ja muid põnevaid funktsioone",
+
   "CALENDAR_ADDED": "Stremio kalender on lisatud sinu vaikimisi töölauakalendriks.",
   "CALENDAR_ADDED_MSG": "Kui see ei tööta, palun lisa see URL-i käsitsi oma kalendrirakendusse",
+
   "TRAKT_EXPIRED": "Trakti autentimine aegus, palun mine Seadetesse ja authenticakse uuesti",
   "TRAKT_REQUIRES_LOGIN": "Trakti viga",
   "TRAKT_REQUIRES_LOGIN_MSG": "Pead sisse logima",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Keelatud",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Võrguga ühenduse teavitamine",
   "SETTINGS_ANALYTICS": "Luba analüütika",
+
   "SETTINGS_REMOTE_URL": "Kaugjuhtimise URL",
   "SETTINGS_COPY_REMOTE_URL": "Kopeeri kaugjuhtimise URL",
   "SETTINGS_REMOTE_URL_COPIED": "Kaugjuhtimise URL on kopeeritud lõikelauale",
+
   "SETTINGS_SECTION_SUBTITLES": "Subtiitrid",
   "SETTINGS_SECTION_AUDIO": "Heli",
   "SETTINGS_SECTION_CONTROLS": "Juhtnupud",
   "SETTINGS_SECTION_AUTO_PLAY": "Automaatne esitamine",
   "SETTINGS_SECTION_ADVANCED": "Täpsemalt",
+
   "SUBSPICKER_AUDIO": "Heli",
   "SUBSPICKER_SUBTITLES": "Lisa subtiitrid",
   "SUBSPICKER_BLACK_BACKGROUND": "Kasuta musta taustavärvi",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "Suurus",
   "SUBSPICKER_DELAY": "Viivitus",
   "SUBSPICKER_EMBEDDED_SUBS": "Sisseehitatud subtiitrid",
+
   "MOBILE_PRIVACY_POLICY": "Privaatsuspoliitika",
   "MOBILE_CRASH_REPORTING": "Vigadest teavitamine",
   "MOBILE_ZOOM_TO_FILL": "Suumi täisekraanile",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Sinu konto on loodud Facebooki kaudu. Konto kustutamiseks kasuta meie kasutajaportaali aadressil www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "Palun sisesta oma parool konto kustutamise kinnitamiseks.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "Kustuta konto",
+
   "NAVIGATION_ON": "Sees",
   "NAVIGATION_OFF": "Väljas",
+
   "MARKETING_AGREE": "Nõustun saama Stremio turunduskommunikatsioone",
+
   "QUIT": "Lahku",
+
   "CONNECTED": "Ühendatud",
   "AUTHENTICATE": "Autendi",
   "CACHING": "Vahemällu salvestamine",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrentiprofiil",
   "DATA_CACHING": "Andmete vahemällu salvestamine",
   "MAGNET_PARSING": "Magnetlingi töötlemine",
+
   "January": "Jaanuar",
   "February": "Veebruar",
   "March": "Märts",
@@ -609,6 +671,7 @@
   "October": "Oktoober",
   "November": "November",
   "December": "Detsember",
+
   "Monday": "Esmaspäev",
   "Tuesday": "Teisipäev",
   "Wednesday": "Kolmapäev",
@@ -616,6 +679,7 @@
   "Friday": "Reede",
   "Saturday": "Laupäev",
   "Sunday": "Pühapäev",
+
   "Action": "Märul",
   "Comedy": "Komöödia",
   "War": "Sõda",
@@ -691,6 +755,7 @@
   "Science Radio": "Teaduse Raadio",
   "Tech Radio": "Tehnikaraadio",
   "Science & Technology Vod": "Teadus ja Tehnoloogia VOD",
+
   "new video": "uus video",
   "new episode": "uus osa",
   "new movie": "uus film",
@@ -699,6 +764,7 @@
   "offer of the day": "päeva pakkumine",
   "news": "uudised",
   "music video": "muusikavideo",
+
   "CTX_SHOW_HOTKEYS": "Näita kiirklahve",
   "CTX_DISMISS_NOTIF": "Eemalda teavitused",
   "CTX_DISMISS_ALL": "Eemalda kõik",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "Kleebi",
   "CTX_CLEAR": "Kustuta",
   "CTX_CLEAR_RECENT_SEARCHES": "Kustuta hiljutised otsingud",
+
   "HELLO_THERE": "Tere",
   "HOPE_YOU_ENJOY": "Loodame, et naudid Stremiot ja see on juba üks sinu lemmikrakendusi!",
   "WHO_ARE_WE": "Kes me oleme? Oleme meeskond selle taga - kaks meest, kes töötavad igapäevaselt, et muuta see toode järjest paremaks viimase kolme aasta jooksul.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "Jaga oma sõpradega, levita infot Stremio kohta",
   "MORE_PEOPLE": "Mida rohkem inimesi Stremiot kasutab, seda paremaks see muutub!",
   "SEND_A_LINK": "Või saada link meie veebilehele",
+
   "TIP_LOCALFILES": "Nõuanne: Sa võid Stremiosse kohalikud videofailid lohistada",
+
   "ADDON_MY": "Minu laiendused",
   "ADDON_COMMUNITY": "Kogukonna laiendused",
   "ADDON_OFFICIAL": "Ametlikud laiendused",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "Vaata #{types} TASUTA",
   "ADDON_PROVIDES_SUBTITLES": "Subtiitrid #{types} jaoks",
   "ADDON_CANTDETECT": "Me ei suutnud tuvastada töötavat Stremiot, seetõttu ei saa me tuvastada, millised laiendused sul on paigaldatud.",
+
   "ERR_NO_META": "Selle kohta pole teavet leitud",
   "ERR_GETTING_META": "Viga teabe hankimisel.",
   "ERR_CANT_PARSE_MAGNET": "Ei saa magnetlinki töödelda",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "Ei saa mängida lõikelaualt",
   "ERR_CLIPBOARD_READ": "Ei saa lõikelaua sisu lugeda sellel platvormil",
   "ERR_CLIPBOARD_GENERIC": "Lõikelaual ei leitud ühtegi esitatavat URL-i. Palun kopeeri URL (nt. magnetlink) videole.",
+
   "BOARD_CONTINUE_WATCHING": "Jätka vaatamist",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "Filmid, mis on valitud spetsiaalselt sinu jaoks.<br />See film on soovitusnäide.",
   "BOARD_EXPLANATION_EPISODES": "Sinu lemmikseriaalide uued osad ilmuvad siia.<br />Lisa jälgitavad seriaalid oma raamatukokku.",
   "BOARD_EXPLANATION_VIDEOS": "Sinu lemmikkanalite uued videod ilmuvad siia.<br />Lisa jälgitavad YouTube'i kanalid oma raamatukokku.",
+
   "WEBSITE_ENJOYED_BY": "Naudivad üle 30 miljoni kasutaja üle maailma",
   "WEBSITE_STREAMING_ENHANCED": "Parendatud voogesitus",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio pakub turvalist, modernset ja sujuvat meelelahutuskogemust. Tänu kasutajasõbralikule liidesele ja mitmekesisele sisuraamatukogule, sealhulgas 4K HDR tugi, saavad kasutajad nautida oma lemmikfilme ja -sarju kõigis oma seadmetes. Tänu turvalisusele on Stremio ideaalne valik muretuks, kvaliteetseks voogesituseks.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "Juhend Stremio Webi jaoks iOS-is",
   "WEBSITE_LINK_ART_V2": "Fännikunsti galerii",
   "WEBSITE_PARTNERS": "Partnerid",
+
   "WEBSITE_SLOGAN_WATCH": "Vaata kohe",
   "WEBSITE_SLOGAN_ALL": "Kõik video-sisu, mida naudid, ühes kohas",
   "WEBSITE_SLOGAN_NEW": "Kõik, mida saad vaadata",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "Sarjad",
   "WEBSITE_TYPE_tv": "Otse-TV",
   "WEBSITE_TYPE_channel": "Kanalid",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio on rakendus, mis aitab vaadata teie lemmikvideoid, -filme, -sarju ja -kanaleid.",
+
   "WEBSITE_FEATURES_WATCH": "Vaata kohe HD kvaliteediga",
   "WEBSITE_FEATURES_WATCH_DETAIL": "Esita oma lemmikfilme, TV-saateid, videoid ja TV-kanaleid.",
+
   "WEBSITE_FEATURES_SUBS": "Automaatne subtiitrite tugi",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio valib automaatselt sünkroonitud subtiitrid teie keeles.",
   "WEBSITE_FEATURES_SUBS_LABEL": "Sinu käik, pealik.",
+
   "WEBSITE_FEATURES_CAST": "Esita teleris ja mobiilseadmetes",
   "WEBSITE_FEATURES_CAST_DETAIL": "Kuvage AppleTV-s, Chromecasti, nutitelevisioonis (DLNA/UPnP) ja mobiilseadmetes.",
+
   "WEBSITE_LIB": "Nautige oma isiklikku raamatukogu sünkroonituna kõigis seadmetes",
   "WEBSITE_LIB_COLLECT": "Kogu Stremiost",
   "WEBSITE_LIB_IMPORT": "Impordi Facebookist",
   "WEBSITE_LIB_LOCAL": "Lisa oma kohalikult kettalt",
+
   "WEBSITE_BOARD": "Töölaud - teie keskne koht teavituste ja soovituste jaoks",
   "WEBSITE_BOARD_RECOMMEND": "Soovitatud TV-saade",
   "WEBSITE_BOARD_TRENDING": "Populaarne film",
   "WEBSITE_BOARD_NEW": "Uus video",
   "WEBSITE_BOARD_EPISODE": "Uus osa",
+
   "WEBSITE_BOARD_1": "Otsid midagi huvitavat, mida vaadata? Saa soovitusi vastavalt oma maitsele!",
   "WEBSITE_BOARD_2": "Saate teate, kui teie lemmik TV-saate või YouTube'i kanali uus osa ilmub!",
+
   "WEBSITE_BOARD_YOUTUBE": "Uued videod YouTube'i kanalitest",
   "WEBSITE_BOARD_EPISODES": "Uued osad sarjadest, mida jälgite",
+
   "WEBSITE_ADDONS": "Sisu laiendused",
+
   "WEBSITE_TECH_DETAIL": "Me armastame tehnoloogiat, me armastame pöörast teadust! \nStremio kasutab järgmisi avatud lähtekoodiga tehnoloogiaid:",
   "WEBSITE_TECH_WCJS": "WebChimera.js võimaldab Stremiol mängida kõiki videoformaate hea jõudlusega.",
   "WEBSITE_TECH_WCJS_EXTRA": "Me oleme projekti peamised kaastöötajad",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "Me oleme projekti kaastöötajad",
   "WEBSITE_TECH_LINVODB": "Andmebaasi tehnoloogia, mis tagab teie andmete korrastamise ja kättesaadavuse kõikjal, kus logite sisse.",
   "WEBSITE_TECH_LINVODB_EXTRA": "Kohapealne tehnoloogia",
+
   "WEBSITE_CREATE_ADDON": "Loo oma laiendus",
   "WEBSITE_CREATE_ADDON_DETAIL": "Kas teil on teenus, mis pakub videosisu? Aitame teil Stremio funktsioonidest kasu saada, luues teie laienduse.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "Laienduse loomise eelised Stremiole",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "Huvitatud? Olete oodatud <a href='mailto:office@stremio.com'>meiega ühendust võtma</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "Aitame teil meeleldi oma sisu Stremioga integreerida!",
   "WEBSITE_P2P": "Aeg-ajalt ilmub tehnoloogia, mis muudab mängureegleid. Oleme investeerinud palju aega ja vaeva oma P2P (peer-to-peer) video voogedastuse mootori ehitamisse, mis tagab suurepärase jõudluse ja kohandatavuse mis tahes kasutusjuhtumi jaoks.\n Võtke meiega ühendust DRM-toega P2P video tellitava või otseülekande jaoks.",
+
   "WEBSITE_THOUGHTS": "Mõtted, mida jagame:",
   "WEBSITE_SPREAD": "Jaga sõna Stremio kohta:",
   "WEBSITE_CONTACT": "Võtke meiega ühendust, meil on hea meel teid kuulda!",
   "WEBSITE_OPENSOURCE": "Meie vabavaraprojektide jaoks mine:",
+
   "WEBSITE_BITCOIN": "Anneta bitcoinis:",
   "WEBSITE_FAQ": "Korduma kippuvad küsimused",
   "WEBSITE_FAQ_SHORT": "KKK",
   "WEBSITE_QUESTIONS": "Küsimused",
   "WEBSITE_TOS": "Kasutustingimused",
   "WEBSITE_LEGAL": "Õiguslik",
+
   "WEBSITE_PAGE_ABOUT": "Teave",
   "WEBSITE_PAGE_BECOME_PARTNER": "Saage partneriks",
   "WEBSITE_ALL_YOU_CAN_WATCH": "Vabadus vaadata\nkõike, mida soovite.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "Lõputult laiendatav videokataloog;",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "Suurepärased funktsioonid oma meedia korraldamiseks;",
   "WEBSITE_AS_SEEN_ON": "Nagu nähtud",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "Meist",
   "WEBSITE_LINK_TECHNOLOGY": "Tehnoloogia",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "Saate kasutada meie teenust igal seadmel ja igal ajal, muutes Stremio ainukeseks videomeelelahutuskeskuseks, mida teil kunagi vaja läheb.",
   "WEBSITE_TEAM": "MEESKOND",
   "WEBSITE_TEAM_P": "Stremio meeskond on väike, kuid võimas: meie kümne vahel kodeerime X keeles ja jagame teadmisi tarkvaraarenduse, UI ja UX disaini, turunduse ja reklaami ning äri ja startup-ide valdkonnas.",
+
   "WEBSITE_FEATURES": "Funktsioonid",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "Avasta uut sisu kergusega",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "Vaadake videoid paljudest erinevatest allikatest",
   "WEBSITE_FEATURES_SOURCES_P": "Paigaldage ametlikud ja kogukonna laiendused, et nautida videoid paljudest erinevatest teenusepakkujatest - kõik ühes klanitud ja kergesti kasutatavas rakenduses.",
   "WEBSITE_CREATE_AN_ADDON": "Loo laiendus",
+
   "WEBSITE_FEATURES_SYNC": "Sünkroniseerige oma teek erinevate seadmete vahel ja jätkake taasesitust",
   "WEBSITE_FEATURES_SYNC_P1": "Logige sisse oma kontoga kõigis oma seadmetes ja nautige oma teeki, laiendusi, taasesitust ja kalendrit sünkroonituna.",
   "WEBSITE_FEATURES_EXTENDABLE": "Laiendatav videokataloog laienduste kaudu",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "Esita välise mängijaga",
   "WEBSITE_FEATURES_POWER_USER_P2": "Esita torrent-faililt või magnetlingilt",
   "WEBSITE_FEATURES_POWER_USER_P3": "Impordi teeki Facebooki meeldimistest või kõvakettalt",
+
   "WEBSITE_ADD_ONS": "Laiendused",
   "WEBSITE_ADD_ONS_P1": "Kogu videosisu, mida Stremio pakub, pärineb laiendusesüsteemist - rakendusse pole sisu ega sisupakkujat integreeritud.",
   "WEBSITE_ADD_ONS_P2": "Saadaval on kahte tüüpi laiendusi: ametlikud ja kogukonna laiendused.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "Loo laiendus",
   "WEBSITE_ADDONS_CREATE_P1": "Kui soovite, saate arendada oma laienduse. Sel moel saate pakkuda endale ja meie kogukonnale juurdepääsu uuele videosisule ning jõuda miljonite kasutajate sihtrühmani üle kogu maailma.",
   "WEBSITE_ADDONS_START_CREATE": "Alustamiseks külastage Stremio Addon SDK lehte:",
+
   "WEBSITE_DOWNLOADS": "Allalaadimised",
   "WEBSITE_DOWNLOADS_P1": "Parima jõudluse saavutamiseks soovitame kasutada uusimat saadaolevat Stremio rakenduste versiooni. Kui mingil põhjusel soovite kasutada vanemat versiooni, saate selle siit alla laadida.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "Parima jõudluse saavutamiseks soovitame kasutada uusimat saadaolevat Stremio rakenduste versiooni.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Otsige Stremiot oma Xboxi seadme rakenduste poest",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Juhend Stremio OS-i jaoks Raspberry Pi-l",
   "WEBSITE_LINK_GUIDE": "Juhend",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Laadi alla Stremio teenus",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio teenus on Stremio Webi kaasrakendus. Soovitame kasutada uusimat saadaolevat versiooni Stremio teenusest.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio teenus Windowsi jaoks",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "Oleme avaldanud Stremio Xboxi jaoks",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "Oleme avaldanud Stremio Raspberry Pi jaoks",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "Stremio platvorm on avatud lähtekoodiga ja saate hõlpsasti luua laienduse sisu jaoks, mida praegu pole lisatud.",
   "WEBSITE_CONTRIBUTE_WHY": "Miks peaksite looma laienduse?",
   "WEBSITE_CONTRIBUTE_WHY_P1": "Jõudke oma videosisuga uue vaatajaskonnani",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Kui soovite nautida Stremio rakendusi erinevates keeltes, saate liituda meie vabatahtlike tõlkijate kogukonnaga. Nad aitavad meil lisada Stremiole versioone paljudes erinevates keeltes.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Kas olete valmis alustama?",
   "WEBSITE_TRANSALTE_STREMIO": "Tõlkige Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "Ametlikud kogukonnad",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "Saage osaks kasvavast Stremio kogukonnast. Jälgige meid sotsiaalmeedias ja tervitage julgelt - meile meeldib kuulda oma fännidelt!",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "Taustapildid",
   "WEBSITE_COMMUNITY_ART": "Kogukonna kunstigalerii",
   "WEBSITE_LINK_ART": "Kogukonna kunstigalerii",
+
   "WEBSITE_CONTACT_US": "Võtke meiega ühendust",
   "WEBSITE_CONTACT_US_P1": "Kui teil on küsimusi, kommentaare või ettepanekuid, võtke meiega ühendust alloleva kontaktvormi kaudu.",
   "WEBSITE_CONTACT_US_P2": "Pidage meeles, et asume Bulgaarias, seega võib ajavööndi erinevuste tõttu teie päringule vastamisega viibida.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "Teie e-mail",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "Sõnum",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "SAADA",
+
   "WEBSITE_CONTACT_US_Q_1": "Kuidas paigaldada?",
   "WEBSITE_CONTACT_US_Q_2": "Kuidas eemaldada?",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) Kuidas teha lasanjet?",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "Tehnoloogia",
   "WEBSITE_TECHNOLOGY_P1": "Me armastame tehnoloogiat ja hullu teadust. </br> Siin on see, mis Stremiot jõustab (kõik on avatud lähtekoodiga).",
   "WEBSITE_TECHNOLOGY_P_QT": "Parim platvormidevaheline tarkvaraarendus.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "või",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... saate kasutada oma koodimisoskusi kogukonna laienduste loomiseks.",
   "WEBSITE_TRANSLATE_STREMIO": "Tõlkige Stremio",
+
   "WEBSITE_404_OH_NO": "Oh ei! Otsitud lehekülge siin pole...",
   "WEBSITE_GO_HOME": "Mine avalehele",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "Muud allalaadimised",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "Laienduste võistlus",
   "WEBSITE_LINK_ART_CONTEST": "Kunstivõistlus",
   "WEBSITE_MY_ACCOUNT": "Minu konto",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "Mis on Stremio?",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio on kaasaegne meediakeskus, mis annab teile vabaduse vaadata kõike, mida soovite.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "Kuidas see töötab?",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "Kui olete Stremio oma seadmesse paigaldanud ja konto loonud, peate külastama ainult laienduste kataloogi ja installima soovitud laiendused ning oletegi valmis!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "Pärast seda võite alustada sisu uurimist ja avastamist Discover või Board sektsioonides.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "Mida ma siin vaadata saan?",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "Palju: filme, telesaateid, veebikanaleid, sporti, telekanaleid, kuulata taskuhäälinguid ja palju muud. Tänu meie laienduste süsteemile pääsete juurde erinevale sisule.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Kas Stremio on avatud lähtekoodiga?",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "Jah, vaadake järgmisi linke: ${1}töölauarakendus${2} ja ${3}GitHubi organisatsioon${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Kas Stremio on turvaline?",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "Jah: kuna tegemist on avatud lähtekoodiga tarkvaraga, on kood avalikult auditeeritav ja saate seda ise üle vaadata.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio laienduste süsteem on loodud ka kasutaja turvalisust silmas pidades. Laiendused ei käivita kohapeal koodi, seega ei kujuta need teie seadmele ohtu.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "Kuidas on minu privaatsusega?",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "Austame kasutajate privaatsust ja ei kogu isikuandmeid peale minimaalse vajaliku konto loomiseks ja sünkroonimiseks.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "Samuti on olemas ${1}Külalisrežiim${2} registreerimisel, mis ei nõua mingeid andmeid: selles režiimis pole meie taustsüsteemiga ühendust. Kuid see piirab mõningaid kasulikke funktsioone, näiteks raamatukogu sünkroonimist seadmete vahel.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "Kas saan oma telerisse edastada?",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "Jah, toetame Chromecast'i ning saate edastada nii töölaua- kui mobiilirakendustest (Android).",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Mitu laiendust Stremiol on?",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "2019. aasta lõpuks üle 50 - lisateabe saamiseks külastage meie laienduste kataloogi.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Kas Stremiot saab laiendada rohkem kui on laienduste kataloogis?",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "Jah, tutvuge nendega: ${1}PimpMyStremio${2}, ${3}Redditi kogukonnad${4}, ${5}Stremio Downloader${6} jne.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Milliseid seadmeid Stremio toetab?",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "Meil on töölauarakendused Windowsi, Maci ja Linuxi jaoks. Mobiili jaoks toetame Androidi ja iOS-i, kuigi pidage meeles, et iOS on piiratud funktsionaalsusega (enamik laiendusi pole toetatud).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "On palju Androidi-põhiseid seadmeid, nagu NVIDIA Shield ja Amazon Fire Stick, millel saate Stremiot kasutada, kuid me ei toeta neid ametlikult.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "Meil on töölauarakendused Windowsi, Maci ja Linuxi jaoks. Meil on ka spetsiaalsed rakendused Android Mobile'ile ja Android TV-le. iOS-i ja iPadOS-i jaoks soovitame kasutada Stremio Webi, kuigi selle funktsionaalsus on piiratum.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "Kas te saate lisada Stremiosse teatud sisu?",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "Kahjuks me ise sisu ei paku, kuid mida rohkem Stremio laiendusi olete installinud, seda rohkem sisu leiate.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Kas Stremio suudab esitada magnetlinke?",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "Jah, samuti saab esitada tavalisi HTTP linke ja torrentifaile (lohistades ja asetades).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "Kas ma saan video alla laadida ja seda ilma internetita vaadata?",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "Võimalus vaadata ilma internetita on tulemas, kuid kui lubate Stremiol seadetesse vahemälu salvestada, saate videoid hiljem ühenduseta vaadata.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "Miski ei tööta, aidake mind!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "Kas olete kindel, et olete laiendusi installinud? Kui jah, vaadake meie ${1}abikeskust${2}.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Kuidas Stremio oma arendustegevust toetab?",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "Aeg-ajalt kuvame mittepealetükkivaid reklaame, kuid kaalume annetuste mudelile üleminekut.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "Rohkemate küsimuste puhul külastage meie ${1}abikeskust${2}.",
+
   "HELP_LEARN_MORE": "Aita meil sinust rohkem teada saada.",
   "LIFESTYLE": "Elustiil",
   "SPORTS": "Sport",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "Viimased otsingud",
   "CLEAR_HISTORY": "Tühjenda ajalugu",
   "CHOOSE_SOME": "VALI MIDAGI NENDEST:",
+
   "NO_WEB_REMOTE": "Veebipult ei saanud laadida",
   "STREMIO_OFFLINE": "Stremio on ühenduseta",
   "STREMIO_EXPENSIVE_CONNECTION": "Oleme tuvastanud, et kasutate mobiilset andmesidet. Kas soovite jätkata?",
   "USE_DATA": "Kasuta andmesidet",
   "WARNING": "Hoiatus",
+
   "MORE_INFO": "Rohkem infot...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "Laadimine ...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "Tagasi keelte juurde",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Näita statistikat laadimise ajal",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremio privaatsuspoliitika lugemiseks külastage:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "Stremio tingimuste ja eeskirjade lugemiseks külastage:",
+
   "STREMIO_TV_NAV_SEARCH": "Otsing",
   "STREMIO_TV_NAV_HOME": "Avaleht",
   "STREMIO_TV_NAV_DISCOVER": "Avasta",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "Otse-TV",
   "STREMIO_TV_NAV_SETTINGS": "Seaded",
   "STREMIO_TV_NAV_ADDONS": "Laiendused",
+
   "STREMIO_TV_LOGIN_TITLE": "Konto linkimine",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "Aegub",
   "STREMIO_TV_LOGIN_STEP_ONE": "Skaneeri QR-kood või mine aadressile",
   "STREMIO_TV_LOGIN_STEP_TWO": "Logi sisse oma Stremio kontole",
   "STREMIO_TV_LOGIN_NEW_LINK": "Küsi uus link",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "Sisselogimiskood uuendatud",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "Sisestage midagi",
   "STREMIO_TV_SEARCH_NO_ADDONS": "Laiendusi kataloogide jaoks ei leitud!",
   "STREMIO_TV_SEARCH_BUTTON": "Otsi",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "Otsinguajalugu",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Saate otsida pealkirju, näitlejaid, kanaleid ja palju muud...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "Tühjenda otsinguajalugu",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "Valige üks allolevatest filtritest",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "Voogedastuse server on võrguühenduseta. Kontrollige serveri seadeid.",
+
   "FILTERS": "Filtrid",
   "SETTINGS": "Seaded",
   "ACCOUNT": "Konto",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "Kohanda suurust",
   "REMOTE_COULD_NOT_BE_LOADED": "Veebipult ei laaditud",
   "REMOTE_RETRY": "Proovi uuesti",
+
   "TORRENT_PROFILE_DEFAULT": "Vaikimisi",
   "TORRENT_PROFILE_SOFT": "Aeglane",
   "TORRENT_PROFILE_FAST": "Kiire",
   "TORRENT_PROFILE_ULTRA_FAST": "Ülikiire",
+
   "FAQ_001_H1": "Mis on Stremio?",
   "FAQ_001_P1": "Stremio on meediakeskuse tarkvara, mis on loodud videomeelelahutuse jaoks ja mille kasutusmugavus on esikohal. Stremio võimaldab sul korraldada ja vaadata oma filmide, sarjade, kanalite ja otse-TV kogu.",
   "FAQ_001_P2": "Stremio kogub sisu sinu kohalikust kettast ja meie laienduste süsteemist.",
   "FAQ_001_P3": "See teavitab sind ka siis, kui tulevad välja uued episoodid/videod/filmid, mis sind huvitavad, ning pakub filmisoovitusi.",
+
   "FAQ_02_H1": "Kuidas on Stremio võrreldav Kodi ja Plexiga?",
   "FAQ_02_P1": "Oleme inspiratsiooni saanud neist kahest tarkvarast. Kuid meil on erinevad eesmärgid - Stremio on suunatud spetsiaalselt meelelahutusvideole ja püüab saada peamiseks lahenduseks.",
   "FAQ_02_P2": "Stremio ei ole kunagi nii kohandatav ja funktsionaalselt rikkalik kui Kodi ja Plex, kuid seda on oluliselt lihtsam kasutada. Lihtsalt ${1} proovi järele ja vaata ise ${2} :)",
+
   "FAQ_03_H1": "Kuidas on Stremio võrreldav Netflixiga?",
   "FAQ_03_P1": "Ka Netflix on meie inspiratsiooniallikas. Püüame pakkuda Netflixi kasutuskogemust, lisades juurde mitmesuguseid lisavõimalusi. Kuid mis veelgi olulisem - anname sulle vabaduse hallata oma raamatukogu ja lisada uusi allikaid meie laiendustesüsteemi kaudu.",
   "FAQ_03_P2": "See teeb Stremio lõputult laiendatavaks, nii et Stremio kasutamisel pole sa kunagi piiratud ainult Netflixi litsentsitud sisuga. Näiteks saad Stremio kaudu vaadata sisu ${1} Filmon.tv${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} ja isegi ${9}Netflix${10} enda teenusest!",
+
   "FAQ_04_H1": "Kuidas on Stremio võrreldav Flipboardiga?",
   "FAQ_04_P1": "Meile seda küsimust sageli ei esitata, välja arvatud siis, kui räägime start-up inimestega :)",
   "FAQ_04_P2": "Stremio on sisuliselt sisu agregaat, mis muudab selle Flipboardiks video jaoks. See on väga ilmne meie Teadete sektsioonis, mis annab sulle kataloogid ja teavitused uutest episoodidest/videotest, mida jälgid, sarnaselt Flipboardile.",
+
   "FAQ_05_H1": "Kuidas on Stremio võrreldav Popcorn Time'iga?",
   "FAQ_05_P1": "Stremio ja Popcorn Time on sarnased kasutajaliidese poolest, kuna videomeelelahutuse kataloogide tegemiseks pole palju võimalusi :)",
   "FAQ_05_P2": "Kuid samas kui Popcorn Time keskendub konkreetsetest allikatest torrentite voogesitusele, on Stremio piiranguteta ja lihtsalt sisu kogujana - see pole seotud kindla sisuteenusepakkujaga.",
   "FAQ_05_P3": "Lisaks ei paku me vaikimisi ühtegi torrent-laiendust, nii et Stremio ei kata Popcorn Time'i kasutusjuhtumit ametliku funktsionaalsusega.",
   "FAQ_05_P4": "Veel üks märkimisväärne erinevus on see, et Popcorn Time on täiesti avatud lähtekoodiga, samas kui Stremio on ${1} osaliselt avatud lähtekoodiga${2}.",
+
   "FAQ_06_H1": "Kas te lisate selle filmi/sarja?",
   "FAQ_06_P1": "Ei, kahjuks mitte :(",
   "FAQ_06_P2": "Nagu mainitud enamikus teistes küsimustes, ei paku Stremio iseseisvalt sisu - kõik lisatakse laienduste süsteemi kaudu. Kui sul on sisu soov, saad Playeris kasutada nuppu „Teata”, mis saadab e-kirja laienduse autorile, mida hetkel kasutad.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "Kas te loote laienduse X jaoks?",
   "FAQ_08_P1": "See on täiesti võimalik.",
   "FAQ_08_P2": "Kui sul on idee laienduse jaoks, võta meiega ühendust aadressil ${1}office@stremio.com${2}, kuid palun veendu, et sinu laienduse idee ei rikuks autoriõigusi ega kasutustingimusi.",
   "FAQ_08_P3": "Praegu on meie plaanis järgmised laiendused FandangoNOW, Filmon.tv nõudmisvideod ja Crunchyroll.",
+
   "FAQ_09_H1": "Kas Stremio kasutab BitTorrent'i?",
   "FAQ_09_P1": "Jah, Stremio toetab BitTorrent'i voogesitusprotokollina. Sa saad seda kasutada kas torrent-laiendusega või .torrent-faili lohistamisega Stremiosse või magnetlingi kleepimisega Otsingu riba.",
   "FAQ_09_P2": "Palun pange tähele, et ainus ametlik laiendus, mis kasutab BitTorrent'i, on ${1}Vodo${2}, mis pakub indie-sisu, mis on lubatud levitada BitTorrent'iga.",
   "FAQ_09_P3": "Me ei toeta kolmandate osapoolte laienduste kasutamist, mis võivad võimaldada autoriõiguste rikkumist.",
+
   "FAQ_10_H1": "Mida saab Stremios vaadata ametlike laiendustega?",
   "FAQ_10_P1": "Vaikimisi saad vaadata Filmon.tv, YouTube ja Vodo sisu otse Stremio sees, kasutades sisseehitatud mängijat. Lisaks on meil laiendus Twitch.tv jaoks ja mõned teised.",
   "FAQ_10_P2": "See kombinatsioon pakub valikut:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Indie-filmid Vodost",
   "FAQ_10_L4": "Veebimängude ülekanded Twitch.tv kaudu",
   "FAQ_10_P3": "Lisaks on Guideboxi ja Netflixi laiendustega saadaval palju sisuallikaid, mis <b>ei</b> mängi täielikult Stremio sees, vaid suunatakse edasi antud teenusele. Näiteks pakub Guideboxi laiendus valiku filme, mida saad USA-s tasuta voogedastada teenustest nagu TubiTV ja Crackle.",
+
   "FAQ_11_H1": "Stremiot ei saa installida, mida peaksin tegema?",
   "FAQ_11_P1": "Kui kasutad Windowsi, proovi ${1}seda alternatiivset installerit${2}.",
   "FAQ_11_P2": "Kui kasutad Mac OS X-i, siis teadmiseks, et me ei toeta midagi vanemat kui OS X Mavericks (10.9).",
   "FAQ_11_P3": "Kui kasutad Linuxit, siis arvestage, et praegu toetame ainult 64-bitist (x64) Linuxit.",
   "FAQ_11_P4": "Kui sa ikka ei suuda probleemi lahendada, kirjuta meile ${1}meie Facebooki gruppi${2}.",
+
   "FAQ_12_H1": "Miks minu viirusetõrje kaebab? Kas Stremio on ohutu?",
   "FAQ_12_P1": "Kinnitame, et Stremio on ${1}100% puhas${2}.",
   "FAQ_12_P2": "Sinu viirusetõrje kaebab, sest meie installer sisaldab reklaame, mida mõned viirusetõrje programmid tuvastavad reklaamvarana.",
   "FAQ_12_P3": "Kui oled endiselt kahtleval seisukohal, võid proovida meie ${1}alternatiivset installerit${2}.",
+
   "FAQ_13_H1": "Kuidas ma saan teha laienduse?",
   "FAQ_13_P1": "Algajatele soovitame tutvuda meie ${1}'laienduste' süsteemi mooduliga${2} GitHubis.",
   "FAQ_13_P2": "Seejärel saad järgida ${1}Hello World õpetust${2}.",
   "FAQ_13_P3": "Kui sul puuduvad programmeerimisoskused, postita oma idee ${1}Redditi kogukonda${2} ja võta meiega ühendust oma laienduse ideega aadressil ${3}office@stremio.com${4}.",
+
   "FAQ_14_H1": "Kuidas laiendusi avaldatakse?",
   "FAQ_14_P1": "Kui sa lood laienduse ja hostid seda ning lisad oma manifestile <b>endpoint</b> väljale toimiva laienduse aadressi, siis laiendus avaldatakse automaatselt meie ${1}Laienduste kataloogis${2}.",
   "FAQ_14_P2": "See juhtub seetõttu, et stremio-addons mooduli serveripool teeb automaatselt kõne meie API-sse, et laiendusest teada anda. Kui meie API valideerib su <b>endpoint</b> kui kehtiva laienduse, siis hakkab see kataloogis kuvama.",
+
   "FAQ_15_H1": "Kas ma saan Stremiot kasutada oma brauseris?",
   "FAQ_15_P1": "Praegu mitte, kuid see on tulemas!",
   "FAQ_15_P2": "Kui oled uudishimulik nägema Alpha versiooni, võid seda vaadata siit: ${1}alpha4.strem.io${2}. Pidage meeles, et voogesitus on selles alfas keelatud. Toetame Chrome'i, Firefoxi, Opera ja Edge'i.",
+
   "FAQ_16_H1": "Telerisse edastamine ei tööta / subtiitrid ei tööta",
   "FAQ_16_P1": "Telerisse edastamine kasutab DLNA-tehnoloogiat, mis on väga ebajärjekindel erinevate telekaubamärkide ja -mudelite vahel. Seetõttu ei saa me seda igal juhul testida, nii et see pole kaugeltki täiuslik. Sellest hoolimata töötame selle pideva täiustamise kallal, kuid ei saa anda tähtaega, millal DLNA hakkab korralikult tööle sinu teleriga.",
   "FAQ_16_P2": "Kui sa ei näe isegi oma telerit edastusmenüüs, proovi oma võrguühendust välja ja uuesti sisse lülitada (Windowsis paremklõpsa Võrku ja kasuta Luba/Keela) ning taaskäivita oma ruuter, teler ja arvuti.",
   "FAQ_16_P3": "Kui probleemid jätkuvad, saad meid aidata, saates oma teleka brändi ja mudeli teabe aadressil ${1}office@stremio.com${2}.",
   "FAQ_16_P4": "Seniks soovitame Chromecasti, mida toetame väga hästi, või lihtsalt ühendada teleri HDMI-kaabliga arvutiga.",
+
   "FAQ_17_H1": "Stremio hangub ja/või jookseb kokku, mida ma saan teha?",
   "FAQ_17_P1": "Esiteks, kui kasutad Windows 7 AVG viirusetõrjega: meil on selle kombinatsiooniga probleem. Probleem on AVG-s endas ja meil pole mõistlikku lahendust selle lahendamiseks. Kahjuks ei aita erandid ega viirusetõrje keelamine. Ainus lahendus on AVG millegi muuga asendamine.",
   "FAQ_17_P2": "Kui see pole probleem, kuid kasutad endiselt Windowsi, uuenda uusimale teeninduspaketile ja uuenda/paigalda uuesti oma GPU draiverid ning proovi uuesti.",
   "FAQ_17_P3": "Kui probleem pole ikka lahendatud või kasutad Maci või Linuxit, siis kirjuta meile probleemist täpselt meie ${1}Facebooki gruppi${2}.",
+
   "FAQ_18_H1": "Kuidas ma saan teha laienduse?",
   "FAQ_18_P1": "Algajatele soovitame tutvuda meie ${1}'laienduste' süsteemi mooduliga${2} GitHubis.",
   "FAQ_18_P2": "Seejärel saad järgida ${1}Hello World õpetust${2}.",
   "FAQ_18_P3": "Kui sul puuduvad programmeerimisoskused, postita oma idee ${1}Redditi kogukonda${2} ja võta meiega ühendust oma laienduse ideega aadressil ${3}office@stremio.com${4}.",
+
   "FAQ_19_H1": "Miks Stremio võtab kettaruumi?",
   "FAQ_19_P1": "Stremiol on <b>kohalik vahemälu</b>, et ajutiselt hoida voogesitatud videofaile.",
   "FAQ_19_P2": "Sellel on kaks eelist: esiteks võimaldab see Stremiol videot ette puhverdada, et tagada sujuvam voogesitus. Teiseks hoiab see videoid kohalikus vahemälus, et saaksid neid hiljem võrguühenduseta vaadata.",
   "FAQ_19_P3": "Kui palju Stremio hoiab, sõltub <b>Vahemälu</b> seadetest Seadete paneelil. Stremio võib hoida kuni määratud suuruseni (nt 2GB) kettal, välja arvatud juhul, kui praegu voogesitatav video on sellest suurem, sel juhul peab see määrama piisavalt salvestusruumi selle hoidmiseks, kuni sa seda voogesitad.",
+
   "FAQ_20_H1": "Kus on vahemälukaust?",
   "FAQ_20_P1": "Windowsis asub see stremio-cache kettal, mille valisid Seadetes (nt \"E:\\stremio-cache\")",
   "FAQ_20_P2": "MacOS-is on see \"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "Linuxis on see \"~/.stremio/stremio-cache\" või \"~/stremio-cache\"",
+
   "FAQ_21_H1": "Ma saan veateate \"Voogesituse serverit ei leitud\", mida ma saan teha?",
   "FAQ_21_P1": "Kui sa saad selle veateate, tähendab see ühte järgmistest:",
   "FAQ_21_P2": "1) Sa üritad kasutada YouTube/BitTorrent allikat kasutavat laiendust meie ${1}veebiversiooni${2} kaudu. Sel juhul tuleks paigaldada meie lauaarvuti versioon ${3}meie veebisaidilt${4}.",
   "FAQ_21_P3": "2) Midagi on Stremio installatsiooniga valesti. Sel juhul proovi uuesti paigaldada meie uusim versioon ${1}veebisaidilt${2}. Kui see ei aita, proovi viirusetõrjeprogrammid ja tulemüürid välja lülitada, arvuti taaskäivitada ja uuesti proovida. Kui see ikka ei aita, kirjuta meile ${3}meie Facebooki gruppi${4}.",
+
   "FAQ_22_H1": "Enamikku laiendusi ei saa kasutada iOS-is",
   "FAQ_22_P1": "Apple'i App Store'i tingimuste piirangute tõttu oleme iOS-i rakenduse piiranud ainult kindla hulga laiendustega.",
   "FAQ_22_P2": "Aga ole mureta - tulevikus lisame iOS-ile rohkem laiendusi ning võime lisada ka integratsiooni, mis võimaldab kasutada kõiki Stremio laiendusi, ühendades iOS-i rakenduse Stremio Voogesituse Serveriga."

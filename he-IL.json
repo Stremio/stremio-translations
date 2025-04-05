@@ -4,6 +4,7 @@
   "TYPE_tv": "ערוץ טלויזיה",
   "TYPE_channel": "ערוץ",
   "TYPE_other": "אחר",
+
   "TYPE_movie_PL": "סרטים",
   "TYPE_series_PL": "סדרות",
   "TYPE_tv_PL": "ערוצי טלויזיה",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "אחרים",
   "TYPE_ALL": "הכל",
   "TYPE": "סוג",
+
   "CATALOG_com_linvo_cinemeta_top": "פופולרי",
   "CATALOG_com_linvo_cinemeta_imdbRating": "מומלצים",
   "CATALOG_com_linvo_cinemeta_year": "חדש",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "סרטים פומביים",
+
   "VIDEO": "וידאו",
+
   "BACK": "חזור",
   "MORE": "עוד",
   "DONE": "סיום",
   "COPY": "העתקה",
   "SUCCESS": "הצלחה",
   "ERROR": "שגיאה",
+
   "SETTINGS_CASTING_MODE_PICKER": "מצב ליהוק",
   "CASTING_MODE_HLSV2": "ברירת מחדל",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "לא מקודד",
+
   "Discover": "גלה",
   "Board": "לוח",
   "Library": "ספרייה",
   "My Library": "הספרייה שלי",
   "Calendar": "לוח שנה",
+
   "NOTIFICATION_ONLINE": "הנך כרגע מחובר",
   "NOTIFICATION_OFFLINE": "הנך כרגע מנותק",
   "INTERNET_CONNECTION": "חיבור רשת",
+
   "STORAGE_FULL_TITLE": "אזהרה: כונן האחסון מלא!",
   "STORAGE_FULL_TEXT": "Stremio לא תוכל לשמור את ההגדרות שלך, אפשרויות או פרטי ההתחברות. נא לשקול הסרה והתקנה מחדש של Stremio.",
+
   "SEARCH": "חיפוש",
   "SEARCH_NO_RESULTS": "לא נמצאו תוצאות",
   "SEARCH_EXPLANATION_CONTENT": "YouTube-חפש סרטים, סדרות ועורצי טלויזיה ו",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "הדבקת קישורים ישירים ומגנט",
   "SEARCH_OR_PASTE_LINK": "חפש או הדבק קישור",
   "SEARCH_SUGGESTIONS": "המלצות חיפוש",
+
   "ADD_TO_LIB": "הוסף לספרייה",
   "REMOVE_FROM_LIB": "הסר מהספרייה",
   "ADDED_TO_LIB": "נוסף לספרייה",
@@ -53,6 +63,7 @@
   "SHOW": "הצג",
   "SHOW_MOVIE": "הצגת סרט",
   "WATCH_RANDOM": "צפייה אקראית",
+
   "IMDB_RATING": "דירוג IMDb",
   "YEAR": "שנה",
   "DIRECTOR": "במאי",
@@ -75,11 +86,14 @@
   "FEATURED": "מומלצים",
   "METADATA": "מידע",
   "CATEGORY": "קטגוריה",
+
   "LINKS_GENRES": "ז'אנר",
   "LINKS_CAST": "שחקנים",
   "LINKS_DIRECTORS": "מפיקים",
+
   "SEARCH_VIDEOS": "חפש וידאו",
   "SEARCH_PLACEHOLDER": "חיפוש או שימוש בקישור מגנט",
+
   "ADDON": "תוסף",
   "ADDONS": "תוספים",
   "OFFICIAL": "רשמי",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "ייצוא מידע",
   "ADDON_PULL_FAILED": "משיכת התוסף נכשל",
   "REFRESH_ON_CLICK": "נא ללחוץ כאן כדי לנסות שוב",
+
   "STILL_IN_THEATER": "הסרט עדיין בקולנוע",
   "WATCH_IN_CINEMA": "צפה בו בקולנוע",
   "IN_THEATER": "בקולנוע",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "ערוץ זה עדיין לא מוכן.<br>אנא חזור בעוד כמה דקות.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "הוסף לסיפריה וקבל התרעה מתי שיהיה מוכן.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "אתה תקבל התרעה שהוא יהיה מוכן.",
+
   "WARNING_STREAMING_SERVER": "אזהרה: שרת שידור מקומי לא נמצא. שידור מ-YouTube ומ-BitTorrent אינו אפשרי.",
   "WARNING_STREAMING_SERVER_DISMISS": "התעלמות",
   "WARNING_STREAMING_SERVER_LATER": "מאוחר יותר",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "פתח בנגן וידאו חיצוני",
   "PLAYER_OPEN_IN_NPLAYER": "פתיחה בnPlayer",
   "PLAYER_PLAY_IN": "נגן ב {{device}}",
+
   "PLAYER_LIVE": "חי",
+
   "PLAYER_NEXT_VIDEO_TITLE": "הוידאו הבא",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "בהמשך",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "הסתרה",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "צפייה כעת",
+
   "PLAYER_COPY_STREAM_SUCCESS": "הלינק של ההזרמה הועתק למקלדת",
   "PLAYER_COPY_STREAM_ERROR": "העתקת לינק ההזרמה נכשל",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "קישור ההורדה הועתק",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "נכשל בהעתקת קישור הורדה",
+
   "STREAMING_FROM": "מזרים מ",
   "CASTING_TO": "משדר ל",
   "NETWORK_STATUS": "מצב הרשת",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "מחוברים:",
   "PEERS_WAITING": "ממתינים:",
   "TRANSCODING_WARNING": "אזהרה: מקודד וידאו.",
+
   "STREAM_LOADING": "טוען...",
   "PLAYING_LOCAL": "מנגן מקובץ מקומי",
   "PLAYING_CACHE": "מנגן ממטמון",
+
   "WRONG_SUBS": "כתוביות שגויות?",
   "ERR_SUBS_LOADING_TITLE": "שגיאה בטעינת כתוביות",
   "ERR_SUBS_LOADING": "טעינת כתוביות נכשלה: זאת יכולה להיות בעיה של תוסף, או חיבור לאינטרנט",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "תוספי הכתוביות הבאים כשלו",
   "ERR_CASTING_UPDATE_TITLE": "לא ניתן לעדכן מידע של מכשיר המשודר: שרת שידור ככל הנראה כבוי",
+
   "CHOOSE_DEVICE": "בחר מכשיר לצפות בו",
   "NO_CAST_DEVICES": "אין מכירים להזרמה.",
+
   "NO_SETTINGS": "אין הגדרות זמינות.",
+
   "PHONE_TABLET": "סלולארי / טאבלט",
+
   "SUBTITLES": "כתוביות",
   "SUBTITLES_CHANGE": "שנה כתוביות עבור",
   "SUBTITLES_CHANGE_NONE": "לא קיימים כתוביות אחרות לשפה זו, מתנצלים.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "טוען כתוביות...",
   "SUBTITLES_UNAVAILABLE": "אין כתוביות חיצוניות זמינות",
   "SUBTITLES_DISABLED": "מבוטל",
+
   "EXTERNAL_PLAYER_DISABLED": "מבוטל",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "אפשר בחירה",
   "EXTERNAL_PLAYER_HINT": "טיפ: יש הגדרה לאפשר פתיחה תמיד עם נגן חיצוני",
+
   "DONT_SHOW_AGAIN": "אל תציג שוב",
+
   "SERVICE_INSTALL": "התקנה",
+
   "AUDIO": "אודיו",
+
   "DEFAULT_LANGUAGE": "שפת ברירת מחדל",
   "DEFAULT_SECONDARY_LANGUAGE": "שפה משנית כברירת מחדל",
+
   "SEASON": "עונה",
   "EPISODE": "פרק",
   "EPISODE_ABBREVIATION": "EP",
   "SPECIAL": "מיוחד",
+
   "SORT": "מיון",
   "SORT_BY": "מיון לפי",
   "FILTER": "סינון",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "לפי פעמים שנצפה",
   "SORT_NOTWATCHED": "לא נצפה",
+
   "New for You": "חדש בשבילך",
   "New Episodes": "פרקים חדשים",
   "New Videos": "סרטים חדשים",
   "Recommendations": "המלצות",
+
   "LIBRARY_RESUME": "המשך",
   "LIBRARY_PLAY": "ניגון",
   "LIBRARY_DETAILS": "פרטים",
   "LIBRARY_RESUME_DISMISS": "הסר",
   "LIBRARY_CLEAR_PROGRESS": "ניקוי תהליך",
   "LIBRARY_REMOVE": "הסרה",
+
   "LIBRARY_NOT_LOGGED_IN": "הספרייה מאופשרת רק למשתמשים מחוברים",
   "CALENDAR_NOT_LOGGED_IN": "היומן מאופשר רק למשתמשים מחוברים",
   "NOT_LOGGED_IN_CLOUD": "תיגש לסרטים ולסדרות שלך, בכל מקום, בכל זמן",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "המלצות בעקבות היסטוריית הצפיה שלך",
   "NOT_LOGGED_IN_NOTIFICATIONS": "אל תפספס פרק עוד פעם",
   "NOT_LOGGED_IN_CALENDAR": "תזמן את יומן הצפייה האישי שלך",
+
   "DISCOVER_FEATURED": "מומלץ",
+
   "DISCOVER_TOP": "מומלץ",
   "DISCOVER_OSCAR": "זוכי אוסקר",
+
   "DISCOVER_WARNING_TITLE": "אבוי!",
   "DISCOVER_EMPTY_CATALOG": "תוסף זה החזיר תוכן ריק.",
   "DISCOVER_ADULT_WARNING": "תוכן זה מיועד למבוגרים. האם גילך הוא 18 ומעלה?",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "תוכן זה אינו זמין יותר, ייתכן שהתוסף הוסר.",
   "UNINSTALL_THIS_ADDON": "הסרת תוסף זה",
   "ERR_ADDON_NOT_INSTALLED": "תוסף זה אינו מותקן. האם להתקין אותו כעת?",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "קבלת התראות עבור פרקים חדשים",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "קבלת התראות עבור סרטים חדשים",
+
   "SIDEBAR_SHOW_STREAMS": "הצגת זרימות",
+
   "RELAUNCH": "הפעל מחדש כעת!",
   "UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
   "RELOAD_UI": "טעינה מחדש של ממשק המשתמש",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "עדכון",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "משתמש אנונימי",
   "DONT_HAVE_ACC": "אין לך חשבון?",
   "HAVE_ACC": "כבר יש לך חשבון?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "חיפוש כשל",
   "EMAIL_USED": "כתובת מייל זו כבר בשימוש.",
   "WAITING_FB_LOGIN": "מתחבר עם פייסבוק...",
+
   "EXTERNAL_PLAYER_TITLE": "שימוש בנגן חיצוני",
   "EXTERNAL_REMEMBER_PLAYER": "האם לזכור בחירה זו",
   "EXTERNAL_ALWAYS_PLAY": "כן",
   "EXTERNAL_ONLY_ONCE": "לא",
+
   "BEST_FIT": "התאמה טובה ביותר",
   "FIT_SCREEN": "התאמה למסך",
   "FILL": "מילוי",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "מקורי",
+
   "INTRO_TASTE": "ספרו לנו מה אתם אוהבים",
   "INTRO_TASTE_LONG": "תספרו לנו במה תרצו לצפות",
   "INTRO_TASTE_PICK": "בחירת {{interestsRemaining}} נושאים",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "עשה זאת בעצמך",
   "INTRO_TASTE_TECH": "טכנולוגיה",
   "INTRO_TASTE_CINEMA": "קולנוע",
+
   "ADDON_NOT_SUPPORTED": "התוסף הנבחר אינו תומך בפלטפורמה זו.",
   "ADDON_DISCLAIMER": "שימוש בתוספים צד שלישי תמיד יהיו תחת אחריותך ותחת החוק הקיים באזור מגוריך.",
   "ADDON_ACTIVATE": "הפעלת תוסף זה?",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "הוספת תוסף",
   "ADD_ADDON_DESCRIPTION": "ניתן להוסיף תוסף באמצעות קישור חיצוני, התוסף יופיע תחת התוספים המותקנים",
   "PASTE_ADDON_URL": "קישור לתוסף",
+
   "WHATS_NEW": "מה חדש",
+
   "BUTTON_CONTINUE": "המשך",
   "BUTTON_ACTIVATE": "הפעל",
   "BUTTON_ACTIVATED": "מופעל",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "הצגת הכל",
   "BUTTON_SEE_ALL": "להציג הכל",
   "BUTTON_COLOR_TRANSPARENT": "שקוף",
+
   "OPEN_IN_BROWSER": "פתח בדפדפן",
+
   "LIB_EMPTY": "הספרייה שלך נראית ריקה. גלו כמה זה שימושי :) ",
   "HOW_START": "ככה תוכל להתחיל:",
   "LIB_EMPTY_CAL": "לוח השנה מציג סדרות בספרייה שלך",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "הירשמו כדי לקבל את כל זה:",
   "LIB_EMPTY_BEST": "הירשמו בכדי לקבל את הטוב ביותר מStremio",
   "LIB_EMPTY_OTHER": "הרשמה בכדי להפעיל לוח שנה לצפיה ועוד דברים מגניבים",
+
   "CALENDAR_ADDED": "הלוח שנה של Stremio התווסף ללוח שנה של שולחן העבודה.",
   "CALENDAR_ADDED_MSG": "אם זה לא עובד, אנא השתמש בקישור כדי להוסיף את לוח השנה בצורה ידנית",
+
   "TRAKT_EXPIRED": "קישוריות עם Trakt פגה, אנא עבור להגדרות והתחבר שוב",
   "TRAKT_REQUIRES_LOGIN": "Trakt שגיאה",
   "TRAKT_REQUIRES_LOGIN_MSG": "חובה להתחבר",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "השבת",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "הודעת חיבור לרשת",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "URL חיצוני",
   "SETTINGS_COPY_REMOTE_URL": "העתק URL חיצוני",
   "SETTINGS_REMOTE_URL_COPIED": "URL חיצוני הועתק למקלדת",
+
   "SETTINGS_SECTION_SUBTITLES": "כתוביות",
   "SETTINGS_SECTION_AUDIO": "שמע",
   "SETTINGS_SECTION_CONTROLS": "בקרה",
   "SETTINGS_SECTION_AUTO_PLAY": "ניגון אוטומטי",
   "SETTINGS_SECTION_ADVANCED": "מתקדם",
+
   "SUBSPICKER_AUDIO": "אודיו",
   "SUBSPICKER_SUBTITLES": "תוסף כתוביות",
   "SUBSPICKER_BLACK_BACKGROUND": "שימוש ברקע שחור",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "גודל",
   "SUBSPICKER_DELAY": "עיכוב",
   "SUBSPICKER_EMBEDDED_SUBS": "כתוביות מוטבעות",
+
   "MOBILE_PRIVACY_POLICY": "מדיניות הפרטיות",
   "MOBILE_CRASH_REPORTING": "דיווח קריסות",
   "MOBILE_ZOOM_TO_FILL": "זום למילוי מסך",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Your account has been created using Facebook. To delete your account, please use our user portal at www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "בבקשה ספר את סיסמתך עבור מחיקת המשתמש",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "הסרת חשבון",
+
   "NAVIGATION_ON": "פועל",
   "NAVIGATION_OFF": "כבוי",
+
   "MARKETING_AGREE": "אני מסכים לקבל תוכן מאת Stremio",
+
   "QUIT": "יציאה",
+
   "CONNECTED": "מחובר",
   "AUTHENTICATE": "אימות",
   "CACHING": "מטמון",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "פרופיל Torrent",
   "DATA_CACHING": "מידע זמני",
   "MAGNET_PARSING": "מנתח קישור מגנט",
+
   "January": "ינואר",
   "February": "פברואר",
   "March": "מרץ",
@@ -609,6 +671,7 @@
   "October": "אוקטובר",
   "November": "נובמבר",
   "December": "דצמבר",
+
   "Monday": "שני",
   "Tuesday": "שלישי",
   "Wednesday": "רביעי",
@@ -616,6 +679,7 @@
   "Friday": "שישי",
   "Saturday": "שבת",
   "Sunday": "ראשון",
+
   "Action": "פעולה",
   "Comedy": "קומדיה",
   "War": "מלחמה",
@@ -691,6 +755,7 @@
   "Science Radio": "רדיו מדע",
   "Tech Radio": "רדיו טכנולוגיה",
   "Science & Technology Vod": "מדע וטכנולוגיה VOD",
+
   "new video": "וידאו חדש",
   "new episode": "פרק חדש",
   "new movie": "סרט חדש",
@@ -699,6 +764,7 @@
   "offer of the day": "הצעת היום",
   "news": "חדשות",
   "music video": "קליפ מוסיקה",
+
   "CTX_SHOW_HOTKEYS": "הצג מקשי קיצור",
   "CTX_DISMISS_NOTIF": "התעלמות מהתראות",
   "CTX_DISMISS_ALL": "התעלמות מהכל",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "הדבק",
   "CTX_CLEAR": "נקה",
   "CTX_CLEAR_RECENT_SEARCHES": "נקה חיפושים אחרונים",
+
   "HELLO_THERE": "היי שם",
   "HOPE_YOU_ENJOY": "אנו מקווים שאתם נהנים מהתוכנה Stremio ושהיא אחת המועדפות שלכם!",
   "WHO_ARE_WE": "מי אנחנו? אנחנו צוות מאחורי זה - שני בחורים שעובדים קשה מאוד כבר 3 שנים, עם מטרה אחת - לשפר את המוצר עוד ועוד.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "תשתפו עם חברים שלכם, הפיצו את המילה על Stremio",
   "MORE_PEOPLE": "אמרו לעוד אנשים להשתמש ב-Stremio, וכך נשתפר!",
   "SEND_A_LINK": "או שליחת קישור אל האתר שלנו",
+
   "TIP_LOCALFILES": "טיפ: אפשר לגרור ולשחרר מדיה מתיקיה אל תוך Stremio",
+
   "ADDON_MY": "תוספים שלי",
   "ADDON_COMMUNITY": "תוספים של הקהילה",
   "ADDON_OFFICIAL": "תוספים רשמיים",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "צפיה ב-#{types} בחינם",
   "ADDON_PROVIDES_SUBTITLES": "כתוביות עבור #{types}",
   "ADDON_CANTDETECT": "Stremio לא נמצא עובד, אז לא הצלחנו למצוא את התוספים המותקים.",
+
   "ERR_NO_META": "לא נמצא מידע על זה ",
   "ERR_GETTING_META": "שגיאה בהבאת מידע עבור זה.",
   "ERR_CANT_PARSE_MAGNET": "לא ניתן לנתח קישור מגנט",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "לא ניתן לנגן מלוח הגזירים",
   "ERR_CLIPBOARD_READ": "לא ניתן לקרוא את לוח הגזירים בפלטפורמה זו",
   "ERR_CLIPBOARD_GENERIC": "לא נמצא קישור שהועקת ניתן לצפיה. נא להעתיק קישור (למשל, קישור magnet) של וידאו.",
+
   "BOARD_CONTINUE_WATCHING": "המשך לצפות",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "סרטים נבחרים במיוחד בשבילך.<br />הסרט הזה הוא דוגמא להמלצה.",
   "BOARD_EXPLANATION_EPISODES": "פרקים חדשים של הסדרות האהובות עליך יופיעו כאן.<br />הוסף סדרות שאתה עוקב אחריהן לספריה שלך.",
   "BOARD_EXPLANATION_VIDEOS": "פרקים חדשים של הערוצים האהובים עליך יופיעו כאן.<br />הוסף ערוצי YouTube שאתה עוקב אחריהן לספריה שלך.",
+
   "WEBSITE_ENJOYED_BY": "אתר זה נהנה ושומש על ידיד יותר מ-30 מיליון משתמשים ברחבי העולם",
   "WEBSITE_STREAMING_ENHANCED": "סטרימינג משופר",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "מדריכים עבור Stremio Web על iOS",
   "WEBSITE_LINK_ART_V2": "גלריית Fanart",
   "WEBSITE_PARTNERS": "שותפים",
+
   "WEBSITE_SLOGAN_WATCH": "צפיה מיידית",
   "WEBSITE_SLOGAN_ALL": "כל תוכן הוידאו במקום אחד להנאה מלאה",
   "WEBSITE_SLOGAN_NEW": "כל מה שאתה יכול לצפות",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "סדרות",
   "WEBSITE_TYPE_tv": "שידורים חיים",
   "WEBSITE_TYPE_channel": "ערוצים",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio היא אפליקציה שעוזרת לך לארגן ולצפות מייד בסרטונים, סרטים, סדרות טלוויזיה וערוצי טלוויזיה האהובים עליך.",
+
   "WEBSITE_FEATURES_WATCH": "צפיה מיידית באיכות HD",
   "WEBSITE_FEATURES_WATCH_DETAIL": "לחץ ונגן את הסרטונים, סרטים, סדרות טלוויזיה וערוצי טלוויזיה האהובים עליך.",
+
   "WEBSITE_FEATURES_SUBS": "כתוביות אוטומטיות",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio בוחרת לבד את הכתוביות על בסיס שפה שנבחרה.",
   "WEBSITE_FEATURES_SUBS_LABEL": "הצעד שלך, בוס.",
+
   "WEBSITE_FEATURES_CAST": "נגינה בטלויזיה & מכשירים ניידים",
   "WEBSITE_FEATURES_CAST_DETAIL": "שידור בAppleTV, Chromecast, טלויזיה חכמה (DLNA/UPnP) ומכשירים ניידים.",
+
   "WEBSITE_LIB": "תהנה מהספריה הפרטית שלך מסונכרת לכל מכשירך.",
   "WEBSITE_LIB_COLLECT": "איסוף מStremio",
   "WEBSITE_LIB_IMPORT": "ייבוא מFacebook",
   "WEBSITE_LIB_LOCAL": "הוספה מכונן מקומי",
+
   "WEBSITE_BOARD": "הלוח - נקודת העצירה להודעות וההמלצות שלך",
   "WEBSITE_BOARD_RECOMMEND": "סדרות מומלצות",
   "WEBSITE_BOARD_TRENDING": "סרט חם",
   "WEBSITE_BOARD_NEW": "וידאו חדש",
   "WEBSITE_BOARD_EPISODE": "פרק חדש",
+
   "WEBSITE_BOARD_1": "מחפש משהו מעניין לצפות? קבל המלצות על בסיס טמעך האישי!",
   "WEBSITE_BOARD_2": "קבל הודעה כאשר פרק חדש של הסדרה או ערוץ YouTube יוצא!",
+
   "WEBSITE_BOARD_YOUTUBE": "סרטונים חדשים של ערוצי YouTube",
   "WEBSITE_BOARD_EPISODES": "פרקים חדשים של הסדרות שהינך עוקב אחריהן",
+
   "WEBSITE_ADDONS": "תוספי תוכן",
+
   "WEBSITE_TECH_DETAIL": "אנחנו אוהבים טכנולוגיה, אנחנו אוהבים מדע משוגע!\nStremio משתמש בטכנולוגיות קוד פתוח הבאות:",
   "WEBSITE_TECH_WCJS": "WebChimera.js-מאפשר ל-Stremio להפעיל כל פורמט וידאו עם ביצועים טובים.",
   "WEBSITE_TECH_WCJS_EXTRA": "אנחנו תורמים מרכזיים לפרויקט",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "אנחנו תורמים לפרויקט",
   "WEBSITE_TECH_LINVODB": "טכנולוגיית מסד נתונים המבטיחה שהנתונים שלך מאורגנים וזמינים בכל מקום שבו אתה מתחבר.",
   "WEBSITE_TECH_LINVODB_EXTRA": "טכנולוגיה פנימית",
+
   "WEBSITE_CREATE_ADDON": "צור את התוסף שלך",
   "WEBSITE_CREATE_ADDON_DETAIL": "יש לך שירות המספק תוכן וידאו? נעזור לך להפיק תועלת מהתכונות של Stremio על ידי יצירת התוסף שלך.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "יתרונות של יצירת תוסף ל-Stremio",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "מתעניינים? אתם מוזמנים <a href='mailto:office@stremio.com'>ליצור איתנו קשר</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "נשמח לעזור לכם לשלב את התוכן שלכם בסטרמיו!",
   "WEBSITE_P2P": "מדי פעם מגיעה טכנולוגיה שמשנה את כללי המשחק. השקענו המון זמן ומאמץ בבניית מנוע הזרמת הווידאו עמית-לעמית (P2P) שלנו, המספק ביצועים מעולים וורסטיליות להתאמה לכל מקרה שימוש.\nצרו איתנו קשר עבור וידאו P2P מוגן DRM לפי דרישה או בשידור חי.",
+
   "WEBSITE_THOUGHTS": "מחשבות שאנחנו משתפים:",
   "WEBSITE_SPREAD": "הפיצו את הבשורה על סטרמיו:",
   "WEBSITE_CONTACT": "אם אתם מעוניינים ליצור איתנו קשר, פנו אלינו ב",
   "WEBSITE_OPENSOURCE": "לפרויקטים בקוד פתוח שלנו, בקרו ב",
+
   "WEBSITE_BITCOIN": "תרומת ביטקוין:",
   "WEBSITE_FAQ": "שאלות נפוצות",
   "WEBSITE_FAQ_SHORT": "שו״ת",
   "WEBSITE_QUESTIONS": "שאלות",
   "WEBSITE_TOS": "תנאי שימוש",
   "WEBSITE_LEGAL": "Legal",
+
   "WEBSITE_PAGE_ABOUT": "עלינו",
   "WEBSITE_PAGE_BECOME_PARTNER": "הפוך לשותף",
   "WEBSITE_ALL_YOU_CAN_WATCH": "חופש לצפות\nבכל מה שתרצה.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "קטלוג וידאו הניתן להרחבה אינסופית;",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "תכונות נהדרות לארגון המדיה שלך;",
   "WEBSITE_AS_SEEN_ON": "כמו שנצפה ב",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "עלינו",
   "WEBSITE_LINK_TECHNOLOGY": "טכנולוגיה",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "אתם יכולים להשתמש בשירות שלנו בכל מכשיר ובכל זמן, מה שהופך את Stremio למרכז הבידור הוידאו היחיד שתצטרכו אי פעם.",
   "WEBSITE_TEAM": "צוות",
   "WEBSITE_TEAM_P": "The Stremio team is small but powerful: between the ten of us, we code in X languages, and share expertise in software development, UI and UX design, marketing and advertising, and business and startups.",
+
   "WEBSITE_FEATURES": "Features",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "Discover new content with ease",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "Watch video from many different sources",
   "WEBSITE_FEATURES_SOURCES_P": "Install official and community addons to enjoy video sourced from many different providers - all in one sleek, easy to use app.",
   "WEBSITE_CREATE_AN_ADDON": "יצירת תוסף",
+
   "WEBSITE_FEATURES_SYNC": "Sync your library across different devices and resume your playback",
   "WEBSITE_FEATURES_SYNC_P1": "Login with your account across all your devices and enjoy your library, addons, playback and calendar synchronized.",
   "WEBSITE_FEATURES_EXTENDABLE": "Extendable video catalog by addons",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "ניגון בנגן חיצוני",
   "WEBSITE_FEATURES_POWER_USER_P2": "Play from a torrent file or magnet link",
   "WEBSITE_FEATURES_POWER_USER_P3": "Import to your library from Facebook likes or local disk",
+
   "WEBSITE_ADD_ONS": "תוספים",
   "WEBSITE_ADD_ONS_P1": "All of the video content Stremio provides get sourced through an addon system - no content or content provider has been built into the app.",
   "WEBSITE_ADD_ONS_P2": "There are two groups of addons available: official and community addons.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "יצירת תוסף",
   "WEBSITE_ADDONS_CREATE_P1": "If you wish, you can develop your own addon. This way, you can give yourself and our community access to new video content, and reach a new, targeted audience of millions of users around the world.",
   "WEBSITE_ADDONS_START_CREATE": "להתחלה, בקרו בעמוד Stremio Addon SDK:",
+
   "WEBSITE_DOWNLOADS": "הורדות",
   "WEBSITE_DOWNLOADS_P1": "For optimal performance, we recommend that you use the latest available version of the Stremio apps. If for some reason, however, you would like to use an older version, you can download it here.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "For optimal performance, we recommend that you use the latest available version of the Stremio apps.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Search for Stremio in the App Store of your Xbox device",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "מדריך עבור Stremio OS על RPI",
   "WEBSITE_LINK_GUIDE": "מדריך",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Download Stremio Service",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service is a companion app for Stremio Web. We recommend using the latest available version of Stremio Service.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service עבור Windows",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "The Stremio platform is open source and you can easily create an addon for content that is currently not sourced.",
   "WEBSITE_CONTRIBUTE_WHY": "Why should you create an addon?",
   "WEBSITE_CONTRIBUTE_WHY_P1": "Reach new audience for your video content",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "If you want to enjoy the Stremio apps in different languages, you can join our community of volunteer translators. They help us add versions of the Stremio in many different languages.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Are you eager to get started?",
   "WEBSITE_TRANSALTE_STREMIO": "תרגום Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "קהילות רשמיות",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "Become a part of the growing Stremio community. Follow us on social media and don't be shy to say hello - we love hearing from our fans! ",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "רקעים",
   "WEBSITE_COMMUNITY_ART": "Community Art Gallery",
   "WEBSITE_LINK_ART": "Community art gallery",
+
   "WEBSITE_CONTACT_US": "צור קשר",
   "WEBSITE_CONTACT_US_P1": "If you have any questions, comments or suggestions, feel free to get in touch with us through the contact form below.",
   "WEBSITE_CONTACT_US_P2": "Keep in mind that we are located in Bulgaria so there may be a delay in addressing your query due to time zone differences.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "כתובת דואר האלקטרוני שלך",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "הודעה",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "שליחה",
+
   "WEBSITE_CONTACT_US_Q_1": "איך להתקין?",
   "WEBSITE_CONTACT_US_Q_2": "איך להסיר?",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) איך לעשות lasagna?",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "טכנולוגיה",
   "WEBSITE_TECHNOLOGY_P1": "We love technology and mad science. </br> Here is what powers Stremio (it's all open-source).",
   "WEBSITE_TECHNOLOGY_P_QT": "Cross-platform software development at its best.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "או",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... you can employ your coding skills for creating community addons. ",
   "WEBSITE_TRANSLATE_STREMIO": "תרגום Stremio",
+
   "WEBSITE_404_OH_NO": "אוי לא! העמוד שחיפשת לא נמצא כאן...",
   "WEBSITE_GO_HOME": "מעבר לבית",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "הורדות אחרות",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "תחרות התוספים",
   "WEBSITE_LINK_ART_CONTEST": "Art contest",
   "WEBSITE_MY_ACCOUNT": "חשבון שלי",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "What is Stremio?",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio is a modern media center that gives you the freedom to watch everything you want.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "How does it work?",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "Once you install Stremio on your device and create an account, all you have to do is to visit the addon catalog and install any addon you want, and you're good to go!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "After that, you can go to the Discover or Board sections to start exploring content.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "What can I watch here?",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "A lot: Movies, TV shows, Web channels, Sport, TV channels, listen to Podcasts and more. Thanks to our addon system, you can accss a variety of content.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Is Stremio open-source?",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "Yes, you can check the following links: ${1}desktop app${2} and ${3}GitHub organization${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Is Stremio safe?",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "Yes: because it is open-source software, the code is publically auditable and you can review it yourself.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "How about my privacy?",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "We respect users' privacy and do not collect any personal data besides the essential minimum to create and sync your account.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "There is also a ${1}Guest mode${2} at signup, which requires no data whatsoever: in this mode, no calls are made to our backend. However, it comes at the expense of useful features, such as being able to sync your library across devices.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "Can I cast to my TV?",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "Yes, we support Chromecast and you can cast both from desktop and mobile apps (Android).",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "How many addons does Stremio have?",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "As of late 2019, over 50 - for more information, check our addon catalog.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Can Stremio be extended beyond what's in the addon catalog?",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "Yes, you should check those: ${1}PimpMyStremio${2}, ${3}Reddit communities${4}, ${5}Stremio Downloader${6}, etc.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "What devices does Stremio support?",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "We have desktop apps for Windows, Mac and Linux. For mobile, we support Android and iOS, although keep in mind that the iOS is limited in functionality (does not support most addons).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "There are many Android-based devices which you can run Stremio on, like NVIDIA Shield and Amazon Fire Stick, but we do not support them officially.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "Can you add certain content to Stremio?",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "Sorry, we provide no content ourselves, but the more Stremio addons you have installed, the more content you will be able to find.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Can Stremio play magnet links?",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "Yes, and it can also play normal HTTP links and torrent files (drag and drop).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "Can I download a video and watch offline?",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "Available offline is an upcoming feature, but if you allow Stremio to cache on your device (from the settings panel) you can watch the videos later without a connection.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "Nothing works, help me!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "Are you sure you have installed addons? If yes, check with our ${1}help center${2}.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "How does Stremio sustain it's development operations?",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "We run non-intrusive ads occassionally, but we're considering moving to a donation model.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "For more questions, go to our ${1}help center${2}.",
+
   "HELP_LEARN_MORE": "עזרו לנו ללמוד עליכם יותר.",
   "LIFESTYLE": "סגנון חיים",
   "SPORTS": "ספורט",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "חיפושים אחרונים",
   "CLEAR_HISTORY": "נקה היסטוריה",
   "CHOOSE_SOME": "בחירה של משהו מכאן:",
+
   "NO_WEB_REMOTE": "שימוש מרוחק לא ניתן לטעינה",
   "STREMIO_OFFLINE": "Stremio מנותק",
   "STREMIO_EXPENSIVE_CONNECTION": "חיבור לאינטרנט הוא יקר",
   "USE_DATA": "השתמש בנתונים ניידים",
   "WARNING": "אזהרה",
+
   "MORE_INFO": "מידע נוסף ...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "טוען ...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "חזרה לשפות",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "הצג סטיסטיקות בזמן הטעינה",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "לקריאת תנאי הפרטיות של Stremio, בקרו ב:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "לקריאת תנאי השימוש של Stremio, בקרו ב:",
+
   "STREMIO_TV_NAV_SEARCH": "חיפוש",
   "STREMIO_TV_NAV_HOME": "דף הבית",
   "STREMIO_TV_NAV_DISCOVER": "גלה",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "שידורים חיים",
   "STREMIO_TV_NAV_SETTINGS": "הגדרות",
   "STREMIO_TV_NAV_ADDONS": "תוספים",
+
   "STREMIO_TV_LOGIN_TITLE": "חבר משתמש",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "פג תוקף ב-",
   "STREMIO_TV_LOGIN_STEP_ONE": "סרקו את קוד ה-QR או גשו ל:",
   "STREMIO_TV_LOGIN_STEP_TWO": "התחברות למשתמש Stremio",
   "STREMIO_TV_LOGIN_NEW_LINK": "בקש קישור חדש",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "קישור ההתחברות חודש",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "הקלד משהו",
   "STREMIO_TV_SEARCH_NO_ADDONS": "לא התבקשו תוספים לקטלוגים!",
   "STREMIO_TV_SEARCH_BUTTON": "חיפוש",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "היסטוריית החיפושים",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "אפשר לחפש כותרים, שחקנים, ערוצים ועוד...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "נקה את היסטוריית החיפושים",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "בחרו אחד מהפילטרים מטה",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "שרת הסטרימינג במצב לא מקוון, בדוק את הגדרות השרת.",
+
   "FILTERS": "פילטרים",
   "SETTINGS": "הגדרות",
   "ACCOUNT": "משתמש",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "שינוי גודל",
   "REMOTE_COULD_NOT_BE_LOADED": "שליטה מרחוק לא אפשרית",
   "REMOTE_RETRY": "לנסות שוב",
+
   "TORRENT_PROFILE_DEFAULT": "ברירת המחדל",
   "TORRENT_PROFILE_SOFT": "עדין",
   "TORRENT_PROFILE_FAST": "מהיר",
   "TORRENT_PROFILE_ULTRA_FAST": "מהיר במיוחד",
+
   "FAQ_001_H1": "?Stremio מה זה",
   "FAQ_001_P1": "Stremio is a media center software designed for video entertainment with ease of use in mind. Stremio allows you to organize &amp; watch your own collection of movies, series, channels and live TV.",
   "FAQ_001_P2": "Stremio collect the content it shows you from your local disk and our addons system.",
   "FAQ_001_P3": "It will also notify you when new episodes/videos/movies you're interested in come out, and provide movie recommendations for you.",
+
   "FAQ_02_H1": "How does Stremio compare to Kodi and Plex?",
   "FAQ_02_P1": "We are inspired by those two pieces of software. But we have different goals - Stremio is specifically targeted towards entertainment video, and strives to become the mainstream solution for that by being very easy to use.",
   "FAQ_02_P2": "Stremio will never be as customizable and feature-rich as Kodi and Plex, but it is significantly easier to use. Just ${1} get it and see ${2} :)",
+
   "FAQ_03_H1": "How does Stremio compare to Netflix?",
   "FAQ_03_P1": "Again, Netflix is one of our inspirations. We strive to achieve the user experience of Netflix, plus a lot of added goodies. But most importantly, we're giving you the freedom to manage your own library and add new content sources with our addon system.",
   "FAQ_03_P2": "That makes Stremio infinitely extendable, so when you use Stremio, you're never limited to the content Netflix decides to license. For example, through Stremio you can watch content from ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} and even ${9}Netflix${10} itself!",
+
   "FAQ_04_H1": "How does Stremio compare to Flipboard?",
   "FAQ_04_P1": "We don't get that question that often, except when talking to start-up people :)",
   "FAQ_04_P2": "Stremio is by design a content aggregator, which essentially makes it Flipboard for video. This is very apparent in our Board section, which gives you catalogues and new episode/new video notifications for what you follow, just like Flipboard.",
+
   "FAQ_05_H1": "How does Stremio compare to Popcorn Time?",
   "FAQ_05_P1": "Stremio and Popcorn Time are similar in user interface, because there aren't many ways to do video entertainment catalogues right :)",
   "FAQ_05_P2": "But while Popcorn Time is focused on streaming torrents from specific sources, Stremio is unrestricted and is merely a content aggregator - it's not locked into a specific content source.",
   "FAQ_05_P3": "Furthermore, we do not provide any torrent addons by default, so Stremio does not cover the Popcorn Time use-case with official functionality.",
   "FAQ_05_P4": "Another notable difference is that Popcorn Time is completely open source, while Stremio is ${1} partially open source${2}.",
+
   "FAQ_06_H1": "Will you add this movie/series?",
   "FAQ_06_P1": "No, sorry :(",
   "FAQ_06_P2": "As is mentioned in most of the other questions, Stremio does not provide any content by itself - everything is added through the addons system. In case you have a content request, you can use the “Report” button in the Player, which will send an email to the author of the addon you're currently using.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "Will you create addon for X?",
   "FAQ_08_P1": "It's entirely possible.",
   "FAQ_08_P2": "If you have an idea for an addon, drop us a line at ${1}office@stremio.com${2}, but please make sure your addon idea will not infringe on any copyrights or terms of use.",
   "FAQ_08_P3": "At the moment, the next things on our roadmap are addons for FandangoNOW, Filmon.tv video on demand and Crunchyroll.",
+
   "FAQ_09_H1": "Does Stremio use BitTorrent?",
   "FAQ_09_P1": "Yes, Stremio supports BitTorrent as a streaming protocol. You can use that either with a torrent addon, or by drag-and-dropping a .torrent file into Stremio, or by pasting a magnet link into the Search Bar.",
   "FAQ_09_P2": "Please note that the only official addon using BitTorrent is ${1}Vodo${2}, which provides indie content, all permitted to be distributed with BitTorrent.",
   "FAQ_09_P3": "We do not support use of any third-party addons which may enable copyright infringement.",
+
   "FAQ_10_H1": "What can I watch in Stremio with the official addons?",
   "FAQ_10_P1": "By default, you can watch Filmon.tv, YouTube and Vodo content within Stremio itself, with it's embedded player. Additionally, we have an addon for Twitch.tv and a few others.",
   "FAQ_10_P2": "This combined provides a selection of:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Indie movies with Vodo",
   "FAQ_10_L4": "Online gaming broadcasts with Twitch.tv",
   "FAQ_10_P3": "Additionally, there are many content sources provided with Guidebox and the Netflix addons, which <b>do not</b> play entirely inside Stremio, but would redirect to the given service. For example, the Guidebox addon would give you a selection of movies you can stream in the US for free, from services like TubiTV and Crackle.",
+
   "FAQ_11_H1": "Stremio won't install, what should I do?",
   "FAQ_11_P1": "If you're on Windows, try ${1}this alternative installer${2}.",
   "FAQ_11_P2": "If you're on Mac OS X, please be aware that we don't support anything older than OS X Mavericks (10.9).",
   "FAQ_11_P3": "If you're on Linux, be aware that we only support 64 bit (x64) Linux at the moment.",
   "FAQ_11_P4": "If you still can't resolve your problem, please write us at our ${1}Facebook group${2}.",
+
   "FAQ_12_H1": "Why does my anti-virus complain? Is Stremio safe?",
   "FAQ_12_P1": "We assure you Stremio is ${1}100% clean${2}.",
   "FAQ_12_P2": "Your antivirus is complaining because we include advertising in our installer, which some anti-virus programs recognize as ad-ware.",
   "FAQ_12_P3": "If you're still unsure, you can try our ${1}alternative installer${2}.",
+
   "FAQ_13_H1": "How can I make an addon?",
   "FAQ_13_P1": "For starters, we recommend you check our ${1}addons system module${2} on GitHub.",
   "FAQ_13_P2": "Afterwards, you can follow the ${1}Hello World tutorial${2}.",
   "FAQ_13_P3": "If you don't have any programming skills, please post your idea on ${1}the Reddit community${2} and contact us with your addon idea on ${3}office@stremio.com${4}.",
+
   "FAQ_14_H1": "How are addons published?",
   "FAQ_14_P1": "When you create an addon and host, and put a <b>endpoint</b> field in your manifest, which points to a working addon address, the addon will automatically publish itself to our ${1}Addon catalogue${2}.",
   "FAQ_14_P2": "This happens because the server part of the stremio-addons module automatically makes a call to our API to announce the addon. When our API validates your <b>endpoint</b> as a valid addon, it will start showing in the catalogue.",
+
   "FAQ_15_H1": "Can I run Stremio in my browser?",
   "FAQ_15_P1": "Not at the moment, but this is coming!",
   "FAQ_15_P2": "If you're curious to see an Alpha, you can see it here: ${1}alpha4.strem.io${2}. Keep in mind streaming is disabled on this alpha. We support Chrome, Firefox, Opera and Edge.",
+
   "FAQ_16_H1": "Casting to TV doesn't work / subtitles don't work",
   "FAQ_16_P1": "Casting to TV uses the DLNA technology which is very inconsistent between different TV brands and models. For that reason, we do not have the ability to test it in every case, so it's far from perfect. Despite this, we're working on improving it constantly but we cannot give you a time estimate on when DLNA will start working properly with your TV.",
   "FAQ_16_P2": "If you don't even see your TV in the casting menu, please try disabling your network connection and re-enabling it (on Windows, right click the Network and use Enable/Disable), as well as restarting your router, TV and PC.",
   "FAQ_16_P3": "If you are still encountering issues, you can help us by sending your TV brand and model information at ${1}office@stremio.com${2}.",
   "FAQ_16_P4": "In the meantime, we recommend Chromecast, which we support very well, or simply plugging in your TV to your PC with an HDMI cable.",
+
   "FAQ_17_H1": "Stremio freezes and/or crashes, what can I do?",
   "FAQ_17_P1": "First of all, if you're using Windows 7 with AVG anti-virus: we have a problem with that combination. The problem is in AVG itself, and there's no reasonable way to resolve it on our end. Unfortunately, exceptions or disabling the anti-virus won't work. The only solution is to replace AVG with something else.",
   "FAQ_17_P2": "If that's not the issue, but you're still using Windows, please update to the latest service pack and update/re-install your GPU drivers, then try again.",
   "FAQ_17_P3": "If you're problem is still not resolved, or you're using a Mac or Linux, please write us reporting the exact details of the problem at ${1}our Facebook group${2}.",
+
   "FAQ_18_H1": "How can I make an addon?",
   "FAQ_18_P1": "For starters, we recommend you check our ${1}addons system module${2} on GitHub.",
   "FAQ_18_P2": "Afterwards, you can follow the ${1}Hello World tutorial${2}.",
   "FAQ_18_P3": "If you don't have any programming skills, please post your idea on ${1}the Reddit community${2} and contact us with your addon idea on ${3}office@stremio.com${4}.",
+
   "FAQ_19_H1": "Why is Stremio taking disk space?",
   "FAQ_19_P1": "Stremio has a <b>local cache</b> to temporarily keep the video files you stream.",
   "FAQ_19_P2": "This has two benefits: first, it allows Stremio to pre-buffer the video ahead so as to ensure smoother streaming. Second, it keeps the videos in the local cache so you can continue watching them offline.",
   "FAQ_19_P3": "How much Stremio keeps depends on the <b>Cache</b> setting in the Settings panel. Stremio may keep up to the set amount (e.g. 2GB) on your disk, unless the currently streamed video is larger than that, in which case it has to allocate enough storage to keep it until you're streaming it.",
+
   "FAQ_20_H1": "Where is the cache folder?",
   "FAQ_20_P1": "On Windows, it's stremio-cache in the drive you picked in Settings (e.g. \"E:\\stremio-cache\")",
   "FAQ_20_P2": "On MacOS, it's \"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "On Linux, it's \"~/.stremio/stremio-cache\" or \"~/stremio-cache\"",
+
   "FAQ_21_H1": "I get \"Streaming server is not found\" error, what can I do?",
   "FAQ_21_P1": "If you get this error, it means one of few things:",
   "FAQ_21_P2": "1) You are trying to use an addon backed by YouTube/BitTorrent source, through our ${1}web version${2}. In this case, you should install our desktop version from ${3}our website${4}.",
   "FAQ_21_P3": "2) Something is wrong with your Stremio installation. In this case, try re-installing our latest desktop version from ${1}the website${2}. If this does not help, try disabling anti-virus programs and firewalls, restarting your PC and trying again. If this does not work too, please write us at our ${3}our Facebook group${4}.",
+
   "FAQ_22_H1": "I cannot see/use most addons on iOS",
   "FAQ_22_P1": "Because of restrictions in the Apple App Store terms and conditions, we have restricted the iOS application only to a particular set of addons.",
   "FAQ_22_P2": "But rest assured - there will be more addons for iOS in the future, and we may also add an integration that will allow you to use all Stremio addons thanks to connecting the iOS app to the Stremio Streaming Server."

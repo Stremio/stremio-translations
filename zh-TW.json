@@ -4,6 +4,7 @@
   "TYPE_tv": "電影片道",
   "TYPE_channel": "頻道",
   "TYPE_other": "其他",
+
   "TYPE_movie_PL": "電影",
   "TYPE_series_PL": "劇集",
   "TYPE_tv_PL": "電影片道",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "其他",
   "TYPE_ALL": "全部",
   "TYPE": "型別",
+
   "CATALOG_com_linvo_cinemeta_top": "Popular",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Featured",
   "CATALOG_com_linvo_cinemeta_year": "New",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Public Domain Movies",
+
   "VIDEO": "影片",
+
   "BACK": "返回",
   "MORE": "更多",
   "DONE": "完成",
   "COPY": "複製",
   "SUCCESS": "成功",
   "ERROR": "錯誤",
+
   "SETTINGS_CASTING_MODE_PICKER": "投屏模式",
   "CASTING_MODE_HLSV2": "預設",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "不轉碼",
+
   "Discover": "發現",
   "Board": "首頁",
   "Library": "庫",
   "My Library": "我的庫",
   "Calendar": "日曆",
+
   "NOTIFICATION_ONLINE": "您當前處於線上狀態",
   "NOTIFICATION_OFFLINE": "您當前處於離線狀態",
   "INTERNET_CONNECTION": "網路連線",
+
   "STORAGE_FULL_TITLE": "警告：儲存空間已滿！",
   "STORAGE_FULL_TEXT": "Stremio將無法儲存您的設定、首選項或登入資訊，考慮重新啟動或重新安裝Stremio。",
+
   "SEARCH": "搜尋",
   "SEARCH_NO_RESULTS": "未找到結果",
   "SEARCH_EXPLANATION_CONTENT": "搜尋電影、劇集、YouTube和電影片道",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "貼上HTTP和Magnet連結",
   "SEARCH_OR_PASTE_LINK": "搜尋或貼上連結",
   "SEARCH_SUGGESTIONS": "Search Suggestions",
+
   "ADD_TO_LIB": "新增到庫中",
   "REMOVE_FROM_LIB": "從庫中刪除",
   "ADDED_TO_LIB": "新增到庫中",
@@ -53,6 +63,7 @@
   "SHOW": "檢視",
   "SHOW_MOVIE": "檢視電影",
   "WATCH_RANDOM": "隨機觀看",
+
   "IMDB_RATING": "IMDb評分",
   "YEAR": "年份",
   "DIRECTOR": "導演",
@@ -75,11 +86,14 @@
   "FEATURED": "功能",
   "METADATA": "後設資料",
   "CATEGORY": "類別",
+
   "LINKS_GENRES": "流派",
   "LINKS_CAST": "演員",
   "LINKS_DIRECTORS": "導演",
+
   "SEARCH_VIDEOS": "搜尋影片",
   "SEARCH_PLACEHOLDER": "搜尋或貼上URL",
+
   "ADDON": "外掛",
   "ADDONS": "外掛",
   "OFFICIAL": "官方",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "匯出使用者資料",
   "ADDON_PULL_FAILED": "從您的帳戶同步已安裝的外掛失敗",
   "REFRESH_ON_CLICK": "點選重試",
+
   "STILL_IN_THEATER": "電影還在影院上映",
   "WATCH_IN_CINEMA": "請到您本地的影院觀看",
   "IN_THEATER": "在影院上映",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "這個頻道還沒有被削刮，請過幾分鐘再來。",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "將其新增到庫中，以便在可用時收到通知。",
   "GET_NOTIFIED_WHEN_AVAILABLE": "一旦可用，您將會收到通知。",
+
   "WARNING_STREAMING_SERVER": "警告：找不到本地流媒體伺服器，來自本地檔案、YouTube、和BitTorrent的流媒體將不可用。",
   "WARNING_STREAMING_SERVER_DISMISS": "忽略",
   "WARNING_STREAMING_SERVER_LATER": "推遲",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "在外部播放器中開啟",
   "PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
   "PLAYER_PLAY_IN": "在{{device}}上播放",
+
   "PLAYER_LIVE": "直播",
+
   "PLAYER_NEXT_VIDEO_TITLE": "下個影片",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "關閉",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "現在觀看",
+
   "PLAYER_COPY_STREAM_SUCCESS": "流媒體連結已複製到您的剪貼簿",
   "PLAYER_COPY_STREAM_ERROR": "複製流媒體連結失敗",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+
   "STREAMING_FROM": "流媒體",
   "CASTING_TO": "投屏到",
   "NETWORK_STATUS": "網路狀態",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "已連線：",
   "PEERS_WAITING": "等待：",
   "TRANSCODING_WARNING": "警告：轉碼影片。",
+
   "STREAM_LOADING": "載入...",
   "PLAYING_LOCAL": "從本地檔案播放",
   "PLAYING_CACHE": "從快取播放",
+
   "WRONG_SUBS": "字幕錯誤？",
   "ERR_SUBS_LOADING_TITLE": "載入字幕時出錯",
   "ERR_SUBS_LOADING": "字幕載入失敗：這可能是您正在使用的外掛或網路連線的問題",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "以下字幕外掛失敗",
   "ERR_CASTING_UPDATE_TITLE": "無法更新投屏裝置資訊：流媒體伺服器可能離線",
+
   "CHOOSE_DEVICE": "選擇在哪個裝置上播放",
   "NO_CAST_DEVICES": "無可用投屏裝置。",
+
   "NO_SETTINGS": "無可用設定。",
+
   "PHONE_TABLET": "手機/平板電腦",
+
   "SUBTITLES": "字幕",
   "SUBTITLES_CHANGE": "調整字幕",
   "SUBTITLES_CHANGE_NONE": "抱歉，這種語言沒有其他字幕。",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "載入字幕...",
   "SUBTITLES_UNAVAILABLE": "沒有可用的外部字幕",
   "SUBTITLES_DISABLED": "關閉",
+
   "EXTERNAL_PLAYER_DISABLED": "關閉",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "允許選擇",
   "EXTERNAL_PLAYER_HINT": "提示：有一個設定允許總是在外部播放器中開啟",
+
   "DONT_SHOW_AGAIN": "不再顯示",
+
   "SERVICE_INSTALL": "安裝",
+
   "AUDIO": "音訊",
+
   "DEFAULT_LANGUAGE": "預設語言",
   "DEFAULT_SECONDARY_LANGUAGE": "預設第二語言",
+
   "SEASON": "季",
   "EPISODE": "集",
   "EPISODE_ABBREVIATION": "情節提要",
   "SPECIAL": "特別篇",
+
   "SORT": "排序",
   "SORT_BY": "排序按照",
   "FILTER": "篩選",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "按觀看次數",
   "SORT_NOTWATCHED": "not watched",
+
   "New for You": "新的",
   "New Episodes": "新劇集",
   "New Videos": "新影片",
   "Recommendations": "推薦",
+
   "LIBRARY_RESUME": "簡介",
   "LIBRARY_PLAY": "播放",
   "LIBRARY_DETAILS": "詳情",
   "LIBRARY_RESUME_DISMISS": "清除",
   "LIBRARY_CLEAR_PROGRESS": "清除進度",
   "LIBRARY_REMOVE": "移除",
+
   "LIBRARY_NOT_LOGGED_IN": "庫僅適用於已登入的使用者",
   "CALENDAR_NOT_LOGGED_IN": "日曆僅適用於已登入的使用者",
   "NOT_LOGGED_IN_CLOUD": "隨時隨地訪問您喜愛的電影和劇集",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "根據您的觀看歷史量身定製的建議",
   "NOT_LOGGED_IN_NOTIFICATIONS": "再也不要錯過任何一集",
   "NOT_LOGGED_IN_CALENDAR": "定製個人觀看日曆",
+
   "DISCOVER_FEATURED": "功能",
+
   "DISCOVER_TOP": "熱門",
   "DISCOVER_OSCAR": "奧斯卡獲獎作品",
+
   "DISCOVER_WARNING_TITLE": "糟糕！",
   "DISCOVER_EMPTY_CATALOG": "此外掛返回空內容。",
   "DISCOVER_ADULT_WARNING": "此內容僅對成人可見，您是否已滿18週歲？",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "此內容不再可用，您可能已解除安裝外掛。",
   "UNINSTALL_THIS_ADDON": "解除安裝此外掛",
   "ERR_ADDON_NOT_INSTALLED": "未安裝此外掛，立即安裝？",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "接受新劇集的通知",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "接受新影片的通知",
+
   "SIDEBAR_SHOW_STREAMS": "顯示流媒體",
+
   "RELAUNCH": "立即重新啟動！",
   "UPGRADE": "新版本可用！升級至Stremio的最新版本",
   "RELOAD_UI": "重新載入使用者介面",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "更新",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "匿名使用者",
   "DONT_HAVE_ACC": "還沒有賬戶？",
   "HAVE_ACC": "已經有賬戶了?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "搜尋失敗",
   "EMAIL_USED": "此電子郵箱已被使用。",
   "WAITING_FB_LOGIN": "使用Facebook登入...",
+
   "EXTERNAL_PLAYER_TITLE": "在外部播放器中播放",
   "EXTERNAL_REMEMBER_PLAYER": "您想記住您的選擇嗎",
   "EXTERNAL_ALWAYS_PLAY": "是",
   "EXTERNAL_ONLY_ONCE": "不是",
+
   "BEST_FIT": "最佳",
   "FIT_SCREEN": "適合螢幕",
   "FILL": "填充",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "原始",
+
   "INTRO_TASTE": "告訴我們您喜歡什麼",
   "INTRO_TASTE_LONG": "告訴我們您想看什麼",
   "INTRO_TASTE_PICK": "選擇{{interestsRemaining}}興趣",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "DIY",
   "INTRO_TASTE_TECH": "技術",
   "INTRO_TASTE_CINEMA": "影院",
+
   "ADDON_NOT_SUPPORTED": "此平臺不支援選定的外掛。",
   "ADDON_DISCLAIMER": "使用第三方外掛將始終受到您的責任和您所在的司法管轄區的法律的約束。",
   "ADDON_ACTIVATE": "啟用此外掛？",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "新增外掛",
   "ADD_ADDON_DESCRIPTION": "您可以透過外部連結新增外掛，該連結將顯示在“已安裝的外掛”下。",
   "PASTE_ADDON_URL": "貼上外掛URL",
+
   "WHATS_NEW": "最新訊息",
+
   "BUTTON_CONTINUE": "繼續",
   "BUTTON_ACTIVATE": "啟用",
   "BUTTON_ACTIVATED": "已啟用",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "檢視全部",
   "BUTTON_SEE_ALL": "檢視全部",
   "BUTTON_COLOR_TRANSPARENT": "透明度",
+
   "OPEN_IN_BROWSER": "在瀏覽器中開啟",
+
   "LIB_EMPTY": "您的庫看起來是空的，看看它有多有用:)",
   "HOW_START": "您可以從這裡開始：",
   "LIB_EMPTY_CAL": "您的日曆顯示您庫中的劇集。",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "註冊以獲取所有這些：",
   "LIB_EMPTY_BEST": "註冊以獲得最佳的Stremio",
   "LIB_EMPTY_OTHER": "註冊以啟用日曆和其他炫酷功能",
+
   "CALENDAR_ADDED": "Stremio日曆已新增到預設桌面日曆中。",
   "CALENDAR_ADDED_MSG": "如果這不起作用，請手動將此URL新增到日曆應用程式中",
+
   "TRAKT_EXPIRED": "Trakt驗證已過期，請轉到設定並重新驗證",
   "TRAKT_REQUIRES_LOGIN": "Trakt錯誤",
   "TRAKT_REQUIRES_LOGIN_MSG": "您需要登入",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Disabled",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "Remote URL",
   "SETTINGS_COPY_REMOTE_URL": "Copy remote URL",
   "SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",
+
   "SETTINGS_SECTION_SUBTITLES": "字幕",
   "SETTINGS_SECTION_AUDIO": "音訊",
   "SETTINGS_SECTION_CONTROLS": "控制元件",
   "SETTINGS_SECTION_AUTO_PLAY": "自動播放",
   "SETTINGS_SECTION_ADVANCED": "高階",
+
   "SUBSPICKER_AUDIO": "音訊",
   "SUBSPICKER_SUBTITLES": "外掛字幕",
   "SUBSPICKER_BLACK_BACKGROUND": "使用黑色背景色",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "大小",
   "SUBSPICKER_DELAY": "延遲",
   "SUBSPICKER_EMBEDDED_SUBS": "內嵌字幕",
+
   "MOBILE_PRIVACY_POLICY": "隱私政策",
   "MOBILE_CRASH_REPORTING": "崩潰報告",
   "MOBILE_ZOOM_TO_FILL": "縮放填充螢幕",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "您的帳戶是使用Facebook建立的。要刪除您的帳戶，請使用我們的使用者入口網站www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "請提供您的密碼以確認帳戶刪除。",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "刪除帳戶",
+
   "NAVIGATION_ON": "開啟",
   "NAVIGATION_OFF": "關閉",
+
   "MARKETING_AGREE": "我同意接收Stremio的營銷通知",
+
   "QUIT": "退出",
+
   "CONNECTED": "已連線",
   "AUTHENTICATE": "驗證",
   "CACHING": "快取",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrent配置",
   "DATA_CACHING": "資料快取",
   "MAGNET_PARSING": "分析Magnet連結",
+
   "January": "一月",
   "February": "二月",
   "March": "三月",
@@ -609,6 +671,7 @@
   "October": "十月",
   "November": "十一月",
   "December": "十二月",
+
   "Monday": "星期一",
   "Tuesday": "星期二",
   "Wednesday": "星期三",
@@ -616,6 +679,7 @@
   "Friday": "星期五",
   "Saturday": "星期六",
   "Sunday": "星期天",
+
   "Action": "動作",
   "Comedy": "喜劇",
   "War": "戰爭",
@@ -691,6 +755,7 @@
   "Science Radio": "科學電臺",
   "Tech Radio": "科技電臺",
   "Science & Technology Vod": "科技影片點播",
+
   "new video": "新影片",
   "new episode": "新一集",
   "new movie": "新電影",
@@ -699,6 +764,7 @@
   "offer of the day": "當日優惠",
   "news": "新聞",
   "music video": "音樂影片",
+
   "CTX_SHOW_HOTKEYS": "顯示快捷鍵",
   "CTX_DISMISS_NOTIF": "清除通知",
   "CTX_DISMISS_ALL": "全部清除",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "貼上",
   "CTX_CLEAR": "清除",
   "CTX_CLEAR_RECENT_SEARCHES": "清除最近搜尋記錄",
+
   "HELLO_THERE": "您好",
   "HOPE_YOU_ENJOY": "我們希望您喜歡Stremio，也許它已經是您最喜歡的應用之一了！",
   "WHO_ARE_WE": "我們是誰？我們是它背後的團隊。在過去三年裡的每天，我們兩個努力工作使這個產品越來越好。",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "現在與您的朋友分享傳播關於Stremio的資訊",
   "MORE_PEOPLE": "使用Stremio的人越多，效果就越好！",
   "SEND_A_LINK": "或傳送一個連結到我們的網站",
+
   "TIP_LOCALFILES": "提示：您可以將本地影片檔案拖放到Stremio中",
+
   "ADDON_MY": "我的外掛",
   "ADDON_COMMUNITY": "社群外掛",
   "ADDON_OFFICIAL": "官方外掛",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "免費觀看#{types}",
   "ADDON_PROVIDES_SUBTITLES": "#{types}的字幕",
   "ADDON_CANTDETECT": "我們無法檢測到正在執行的Stremio，因此我們無法檢測您安裝了哪些外掛。",
+
   "ERR_NO_META": "找不到有關於此的資訊",
   "ERR_GETTING_META": "檢索有關於此的資訊時出錯",
   "ERR_CANT_PARSE_MAGNET": "無法分析Magnet",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "無法從剪下板播放",
   "ERR_CLIPBOARD_READ": "無法讀取此平臺上的剪下板",
   "ERR_CLIPBOARD_GENERIC": "在剪下板中找不到可播放的URL. 請將URL（例如Magnet連結）複製到影片。",
+
   "BOARD_CONTINUE_WATCHING": "繼續觀看",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "專門為您挑選的電影。<br />這部電影是一個推薦樣例。",
   "BOARD_EXPLANATION_EPISODES": "這裡是您最喜愛的劇集的新一集。<br />將您關注的劇集新增到庫中。",
   "BOARD_EXPLANATION_VIDEOS": "這裡是您最喜愛的頻道的新一集。<br />將您關注的YouTube頻道新增到庫中。",
+
   "WEBSITE_ENJOYED_BY": "在全球擁有超過3000萬使用者",
   "WEBSITE_STREAMING_ENHANCED": "流媒體增強",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio提供安全、現代、無縫的娛樂體驗。憑藉其易於使用的介面和多樣化的內容庫，包括4K HDR支援，使用者可以在所有裝置上欣賞他們喜愛的電影和電視節目。Stremio致力於安全，是無憂、高質量流媒體體驗的終極選擇。",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "iOS版Stremio Web指南",
   "WEBSITE_LINK_ART_V2": "粉絲藝術畫廊",
   "WEBSITE_PARTNERS": "合作伙伴",
+
   "WEBSITE_SLOGAN_WATCH": "立即觀看",
   "WEBSITE_SLOGAN_ALL": "一站式影片娛樂解決方案",
   "WEBSITE_SLOGAN_NEW": "您能觀看一切",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "劇集",
   "WEBSITE_TYPE_tv": "直播電視",
   "WEBSITE_TYPE_channel": "頻道",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio是一款幫助您管理和隨時觀看您喜愛的影片、電影、劇集和電影片道的應用程式",
+
   "WEBSITE_FEATURES_WATCH": "立即觀看高畫質影片",
   "WEBSITE_FEATURES_WATCH_DETAIL": "點選並播放您喜愛的電影、劇集、影片和電影片道。",
+
   "WEBSITE_FEATURES_SUBS": "自動載入字幕",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio會自動為您的語言選擇同步字幕。",
   "WEBSITE_FEATURES_SUBS_LABEL": "Your move, chief.",
+
   "WEBSITE_FEATURES_CAST": "在電視和移動裝置上播放",
   "WEBSITE_FEATURES_CAST_DETAIL": "適用於AppleTV、Chromecast、智慧電視（DLNA/UPnP）和移動裝置。",
+
   "WEBSITE_LIB": "享受在所有裝置上同步的個人庫",
   "WEBSITE_LIB_COLLECT": "從Stremio收集",
   "WEBSITE_LIB_IMPORT": "從Facebook匯入",
   "WEBSITE_LIB_LOCAL": "從本地磁碟新增",
+
   "WEBSITE_BOARD": "首頁 - 通知和推薦的一站式場所",
   "WEBSITE_BOARD_RECOMMEND": "推薦電視節目",
   "WEBSITE_BOARD_TRENDING": "流行電影",
   "WEBSITE_BOARD_NEW": "新影片",
   "WEBSITE_BOARD_EPISODE": "新一集",
+
   "WEBSITE_BOARD_1": "想看些有趣的東西嗎？根據您的喜好得到推薦！",
   "WEBSITE_BOARD_2": "當您最喜愛的電視節目或YouTube頻道的新一集播出時獲得通知！",
+
   "WEBSITE_BOARD_YOUTUBE": "YouTube頻道的新影片",
   "WEBSITE_BOARD_EPISODES": "您關注的劇集的新一集",
+
   "WEBSITE_ADDONS": "內容外掛",
+
   "WEBSITE_TECH_DETAIL": "我們熱愛科技，我們熱愛瘋狂的科學！\nStremio使用了以下開源技術：",
   "WEBSITE_TECH_WCJS": "WebChimera.js允許Stremio以良好的效能播放任何影片格式。",
   "WEBSITE_TECH_WCJS_EXTRA": "我們是專案的核心貢獻者",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "我們是專案貢獻者",
   "WEBSITE_TECH_LINVODB": "一種資料庫技術，確保您的資料在任何地方登入都受管理和可用。",
   "WEBSITE_TECH_LINVODB_EXTRA": "內部技術",
+
   "WEBSITE_CREATE_ADDON": "建立您的外掛",
   "WEBSITE_CREATE_ADDON_DETAIL": "您有提供影片內容的服務嗎？我們將透過建立外掛來幫助您從Stremio的功能中獲益。",
   "WEBSITE_CREATE_ADDON_BENEFITS": "為Stremio建立外掛的好處",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "有興趣嗎？歡迎您透過<a href='mailto:office@stremio.com'>聯絡我們</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "我們很樂意幫助您將您的內容整合到Stremio！",
   "WEBSITE_P2P": "偶然間出現了一種改變遊戲名稱的技術。 我們投入了大量的時間和精力來構建我們的點對點（P2P）影片流媒體引擎，該引擎可提供出色的效能和多功能性，以適應任何用例。\n請聯絡我們以獲取支援DRM的P2P影片點播或實時流媒體。",
+
   "WEBSITE_THOUGHTS": "我們分享的想法：",
   "WEBSITE_SPREAD": "傳播關於Stremio的資訊：",
   "WEBSITE_CONTACT": "聯絡我們，我們很高興收到您的來信！",
   "WEBSITE_OPENSOURCE": "有關我們的開源專案，請轉到：",
+
   "WEBSITE_BITCOIN": "捐贈比特幣：",
   "WEBSITE_FAQ": "常見問題",
   "WEBSITE_FAQ_SHORT": "常見問題",
   "WEBSITE_QUESTIONS": "問題",
   "WEBSITE_TOS": "使用條款",
   "WEBSITE_LEGAL": "法律",
+
   "WEBSITE_PAGE_ABOUT": "關於",
   "WEBSITE_PAGE_BECOME_PARTNER": "成為合作伙伴",
   "WEBSITE_ALL_YOU_CAN_WATCH": "自由觀看\n您想看的一切。",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "可無限擴充套件的影片目錄；",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "強大的媒體管理功能；",
   "WEBSITE_AS_SEEN_ON": "如圖所示",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "關於我們",
   "WEBSITE_LINK_TECHNOLOGY": "技術",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "您可以隨時在任何裝置上使用我們的服務，使Stremio成為您唯一需要的影片娛樂中心。",
   "WEBSITE_TEAM": "團隊",
   "WEBSITE_TEAM_P": "Stremio團隊雖小但很強大：我們10個人用X語言編寫程式碼，分享軟體開發、UI和UX設計、營銷和廣告、商業和初創企業方面的專業知識。",
+
   "WEBSITE_FEATURES": "功能",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "輕鬆發現新內容",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "觀看不同來源的影片",
   "WEBSITE_FEATURES_SOURCES_P": "安裝官方和社群外掛，欣賞來自多個不同供應商的影片。",
   "WEBSITE_CREATE_AN_ADDON": "建立外掛",
+
   "WEBSITE_FEATURES_SYNC": "跨裝置同步庫並恢復播放",
   "WEBSITE_FEATURES_SYNC_P1": "使用您的帳戶在所有裝置上登入，享受同步的庫、外掛、播放和日曆。",
   "WEBSITE_FEATURES_EXTENDABLE": "透過外掛擴充套件影片目錄",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "在外部播放器中播放",
   "WEBSITE_FEATURES_POWER_USER_P2": "從Torrent檔案或Magnet連結播放",
   "WEBSITE_FEATURES_POWER_USER_P3": "從Facebook喜愛或本地磁碟匯入您的庫",
+
   "WEBSITE_ADD_ONS": "外掛",
   "WEBSITE_ADD_ONS_P1": "Stremio提供的所有影片內容都是透過外掛系統獲取的，應用程式中沒有內建任何內容或內容提供商。",
   "WEBSITE_ADD_ONS_P2": "有兩組外掛可用：官方和社群外掛。",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "建立外掛",
   "WEBSITE_ADDONS_CREATE_P1": "如果您願意，您可以開發自己的外掛。透過這種方式，您可以讓自己和我們的社群訪問新的影片內容，並接觸到全球數百萬使用者的新目標受眾。",
   "WEBSITE_ADDONS_START_CREATE": "要開始，請訪問Stremio外掛SDK頁面：",
+
   "WEBSITE_DOWNLOADS": "下載",
   "WEBSITE_DOWNLOADS_P1": "為了獲得最佳效能，我們建議您使用最新版本的Stremio應用程式。但是，如果出於某種原因，您想使用舊版本，可以在此處下載。",
   "WEBSITE_DOWNLOADS_P1_SHORT": "為了獲得最佳效能，我們建議您使用最新版本的Stremio應用程式，",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Search for Stremio in the App Store of your Xbox device",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
   "WEBSITE_LINK_GUIDE": "Guide",
+
   "WEBSITE_DOWNLOAD_SERVICE": "下載Stremio服務",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service是Stremio Web的配套應用程式。我們建議使用最新版本的Stremio Service。",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service for Windows",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "Stremio平臺是開源的，您可以輕鬆地為當前沒有來源的內容建立一個外掛。",
   "WEBSITE_CONTRIBUTE_WHY": "為什麼要建立外掛？",
   "WEBSITE_CONTRIBUTE_WHY_P1": "為您的影片內容吸引新觀眾",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "如果您想享受不同語言的Stremio應用程式，您可以加入我們的志願翻譯者社群。他們幫助我們新增多種不同語言的Stremio版本。",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "您想開始嗎？",
   "WEBSITE_TRANSALTE_STREMIO": "翻譯Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "官方社群",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "成為不斷增長的Stremio社群的一部分。在社交媒體上關注我們，不要害羞地打招呼，我們喜歡聽到粉絲的聲音！",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "桌布",
   "WEBSITE_COMMUNITY_ART": "社群藝術畫廊",
   "WEBSITE_LINK_ART": "社群藝術畫廊",
+
   "WEBSITE_CONTACT_US": "聯絡我們",
   "WEBSITE_CONTACT_US_P1": "如果您有任何問題、意見或建議，請隨時透過下面的聯絡方式與我們聯絡。",
   "WEBSITE_CONTACT_US_P2": "請記住，我們位於保加利亞，因此可能會由於時區差異而延遲處理您的問題。",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "您的電子郵箱",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "簡訊",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "傳送",
+
   "WEBSITE_CONTACT_US_Q_1": "如何安裝？",
   "WEBSITE_CONTACT_US_Q_2": "如何解除安裝？",
   "WEBSITE_CONTACT_US_Q_3": "(HTML)如何製作千層麵？",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "技術",
   "WEBSITE_TECHNOLOGY_P1": "我們熱愛科技，熱愛科學。</br>這是Stremio的動力（它都是開源的）。",
   "WEBSITE_TECHNOLOGY_P_QT": "最佳跨平臺軟體開發工具。",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "或",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... 您可以利用您的程式設計技巧來建立社群外掛。",
   "WEBSITE_TRANSLATE_STREMIO": "翻譯Stremio",
+
   "WEBSITE_404_OH_NO": "糟糕！您要找的頁面不在這裡...",
   "WEBSITE_GO_HOME": "回到主頁",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "其他下載",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "外掛比賽",
   "WEBSITE_LINK_ART_CONTEST": "藝術比賽",
   "WEBSITE_MY_ACCOUNT": "我的賬戶",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "什麼是Stremio？",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio是一個現代化的媒體中心，讓您可以自由觀看任何您想要的東西。",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "它是如何工作的？",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "一旦您在裝置上安裝了Stremio並建立了一個帳戶，您所要做的就是訪問外掛目錄並安裝任何您想要的外掛，就可以開始了！",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "之後，您可以進入“發現”或“板”部分，開始探索內容。",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "我可以在這裡看什麼？",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "很多：電影、電視節目、網路頻道、體育、電影片道、收聽播客等等。感謝我們的外掛系統，您可以訪問各種內容。",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Stremio是開源的嗎？",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "是的，您可以檢視以下連結：${1}桌面應用${2}和${3}GitHub組織${4}。",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Stremio安全嗎？",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "是：因為它是開源軟體，所以程式碼可以公開稽核，您可以自己檢視。",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio's addon system was also created with the user's security in mind. The addons do not run any code locally, so they pose no risks to your device.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "我的隱私如何？",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "我們尊重使用者隱私，除了建立和同步您的帳戶所必需的最低限度外，不收集任何個人資料。",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "註冊時還有一個${1}訪客模式${2}，它不需要任何資料：在這種模式下，不會呼叫我們的後端。然而，這是以犧牲有用的功能為代價的，比如能夠跨裝置同步您的庫。",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "我可以投屏到電視嗎？",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "是的，我們支援Chromecast，您可以從桌面和移動應用程式（Android）進行強制轉換。",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio有多少外掛？",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "截至2019年末，超過50個。有關更多資訊，請檢視我們的外掛目錄。",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Stremio是否可以擴充套件到外掛目錄之外？",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "是的，您應該檢視這些：${1}PimpMyStremio${2}，${3}Reddit communities${4}，${5}Stremio Downloader${6}，等等。",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio支援哪些裝置？",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "我們有適用於Windows、Mac和Linux的桌面應用程式。對於移動裝置，我們支援Android和iOS，但請記住iOS的功能有限（不支援大多數外掛）。",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "有很多基於Android的裝置可以在上面執行Stremio，比如NVIDIA Shield和Amazon Fire Stick，但我們並不正式支援它們。",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "We have desktop apps for Windows, Mac and Linux. We also have dedicated apps for Android Mobile and Android TV. For iOS and iPadOS we suggest using Stremio Web, although it is more limited in functionality.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "您們能為Stremio新增某些內容嗎？",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "抱歉，我們本身不提供任何內容，但是您安裝的Stremio外掛越多，您可以找到的內容就越多。",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Stremio可以播放Magnet連結嗎？",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "是的，它還可以播放正常的HTTP連結和Torrent檔案（拖放）。",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "我可以下載影片並離線觀看嗎？",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "離線可用是一項即將推出的功能，但如果您允許Stremio在裝置上快取（從“設定”面板），您可以稍後在沒有連線的情況下觀看影片。",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "什麼都不能用，幫幫我！",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "您確定已安裝外掛嗎？如果是，請與我們的${1}幫助中心${2}聯絡",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio如何維持其開發運營？",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "我們偶爾會播放非侵入性廣告，但我們正在考慮轉向捐贈模式。",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "有關更多問題，請訪問我們的${1}幫助中心${2}。",
+
   "HELP_LEARN_MORE": "幫助我們瞭解更多有關您的資訊。",
   "LIFESTYLE": "生活方式",
   "SPORTS": "體育",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "上次搜尋",
   "CLEAR_HISTORY": "清除歷史記錄",
   "CHOOSE_SOME": "選擇其中一些：",
+
   "NO_WEB_REMOTE": "無法載入Web Remote",
   "STREMIO_OFFLINE": "Stremio離線",
   "STREMIO_EXPENSIVE_CONNECTION": "我們檢測到您正在使用移動資料連線，是否繼續？",
   "USE_DATA": "使用移動資料",
   "WARNING": "警告",
+
   "MORE_INFO": "更多資訊...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "載入...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "返回語言",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "載入時顯示統計資訊",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "要閱讀Stremio的隱私政策，請訪問：",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "要閱讀Stremio的條款和條件，請訪問：",
+
   "STREMIO_TV_NAV_SEARCH": "搜尋",
   "STREMIO_TV_NAV_HOME": "主頁",
   "STREMIO_TV_NAV_DISCOVER": "發現",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "電視直播",
   "STREMIO_TV_NAV_SETTINGS": "設定",
   "STREMIO_TV_NAV_ADDONS": "外掛",
+
   "STREMIO_TV_LOGIN_TITLE": "連結賬戶",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "過期日期到",
   "STREMIO_TV_LOGIN_STEP_ONE": "掃描上方的二維碼或轉到",
   "STREMIO_TV_LOGIN_STEP_TWO": "登入您的Stremio帳戶",
   "STREMIO_TV_LOGIN_NEW_LINK": "請求新連結",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "登入程式碼已重新整理",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "輸入一些東西",
   "STREMIO_TV_SEARCH_NO_ADDONS": "沒有為目錄請求外掛！",
   "STREMIO_TV_SEARCH_BUTTON": "搜尋",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "搜尋歷史",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "您可以搜尋標題、演員、頻道...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "清除搜尋歷史",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "從以下過濾器中選擇一個",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "流媒體伺服器離線，檢查伺服器設定。",
+
   "FILTERS": "過濾器",
   "SETTINGS": "設定",
   "ACCOUNT": "賬戶",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "調整大小",
   "REMOTE_COULD_NOT_BE_LOADED": "無法載入Web Remote",
   "REMOTE_RETRY": "重試",
+
   "TORRENT_PROFILE_DEFAULT": "預設",
   "TORRENT_PROFILE_SOFT": "慢",
   "TORRENT_PROFILE_FAST": "快",
   "TORRENT_PROFILE_ULTRA_FAST": "超快",
+
   "FAQ_001_H1": "什麼是Stremio？",
   "FAQ_001_P1": "Stremio是專為影片娛樂而設計的多媒體中心軟體，易於使用。Stremio允許您管理和觀看自己的電影，劇集，頻道和實況電視收藏。",
   "FAQ_001_P2": "Stremio從本地磁碟和外掛系統中收集顯示給您的內容。",
   "FAQ_001_P3": "它還會在您感興趣的新劇集/影片/電影播出時通知您，併為您提供電影推薦。",
+
   "FAQ_02_H1": "Stremio與Kodi和Plex相比如何？",
   "FAQ_02_P1": "我們受到這兩種軟體的啟發。但是我們有不同的目標——Stremio專門針對娛樂影片，並透過易於使用成為其主流解決方案。",
   "FAQ_02_P2": "Stremio將永遠不會像Kodi和Plex那樣具有可定製性和豐富的功能，但它更易於使用。只需${1}就可以獲取它，並檢視${2}:)",
+
   "FAQ_03_H1": "Stremio與Netflix相比如何？",
   "FAQ_03_P1": "同樣，Netflix是我們的靈感之一。我們努力實現Netflix的使用者體驗，再加上許多附加的好處。但最重要的是，我們讓您可以自由管理自己的庫，並使用我們的外掛系統新增新的內容源。",
   "FAQ_03_P2": "這使得Stremio可以無限擴充套件，因此當您使用Stremio時，您永遠不會侷限於Netflix決定許可的內容。例如，您可以透過Stremio觀看${1}中的內容電影電視${2}, ${3} Twitch.tv${4}，${5}YouTube${6}，${7}Vodo${8}甚至${9}Netflix${10}本身！",
+
   "FAQ_04_H1": "Stremio與Flipboard相比如何？",
   "FAQ_04_P1": "我們不常聽到這個問題，除非與初創企業的人交談:)",
   "FAQ_04_P2": "Stremio是透過設計一個內容聚合器來實現的，它本質上就是影片的Flipboard。這一點在我們的首頁部分非常明顯，它為您提供目錄和新的插曲/新的影片通知，讓您瞭解您所關注的內容，就像Flipboard一樣。",
+
   "FAQ_05_H1": "Stremio與Popcorn Time相比如何？",
   "FAQ_05_P1": "Stremio和Popcorn Time在使用者介面上很相似，因為沒有很多方法可以正確製作影片娛樂目錄:)",
   "FAQ_05_P2": "Popcorn Time主要集中在特定來源的流媒體上，但Stremio是不受限制的，只是一個內容聚合器，它沒有鎖定到特定的內容源。",
   "FAQ_05_P3": "此外，我們預設不提供任何Torrent外掛，因此Stremio不提供官方功能的Popcorn Time用例。",
   "FAQ_05_P4": "另一個顯著的區別是Popcorn Time是完全開源的，而Stremio是${1}部分開源的${2}。",
+
   "FAQ_06_H1": "是否要新增此電影/系列？",
   "FAQ_06_P1": "不，對不起 :(",
   "FAQ_06_P2": "正如大多數其他問題中提到的，Stremio本身不提供任何內容,所有內容都是透過外掛系統新增的。如果您有內容請求，您可以使用播放器中的“報告”按鈕，它將向您當前使用的外掛的作者傳送電子郵件。",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "能否為X建立外掛？",
   "FAQ_08_P1": "完全有可能。",
   "FAQ_08_P2": "如果您有一個外掛的想法，請在${1}office@stremio.com${2}給我們留言，但請確保您的外掛想法不會侵犯任何版權或使用條款。",
   "FAQ_08_P3": "目前，我們路線圖上的下一件事是FandangoNOW，Filmon.tv video on demand和Crunchyroll的外掛。",
+
   "FAQ_09_H1": "Stremio是否使用BitTorrent？",
   "FAQ_09_P1": "是的，Stremio支援BitTorrent作為流媒體協議。您可以將其與Torrent外掛一起使用，也可以將.Torrent檔案拖放到Stremio中，或者將磁鐵連結貼上到搜尋欄中。",
   "FAQ_09_P2": "請注意，使用BitTorrent的唯一官方外掛是${1}Vodo${2}，它提供獨立內容，所有內容都允許與BitTorrent一起分發。",
   "FAQ_09_P3": "我們不支援使用任何可能導致版權侵權的第三方外掛。",
+
   "FAQ_10_H1": "我可以在Stremio中透過官方外掛觀看什麼節目？",
   "FAQ_10_P1": "預設情況下，您可以在Stremio與它的嵌入式播放器觀看Filmon.tv，YouTube和Vodo的內容。另外，我們還有一個Twitch.tv外掛，以及其他一些外掛。",
   "FAQ_10_P2": "此組合提供以下選項：",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Vodo上的獨立電影",
   "FAQ_10_L4": "Twitch.tv上的線上遊戲廣播",
   "FAQ_10_P3": "此外，Guidebox和Netflix外掛提供了許多內容源，它們不完全在Stremio中播放，而是重定向到給定的服務。例如，Guidebox外掛將為您提供可在美國免費播放的精選電影，這些電影來自TubiTV和Crackle等服務。",
+
   "FAQ_11_H1": "Stremio無法安裝，我該怎麼辦？",
   "FAQ_11_P1": "如果您在Windows上，請嘗試${1}此替代安裝程式${2}。",
   "FAQ_11_P2": "如果您使用的是Mac OS X，請注意，我們不支援任何比OS X Mavericks（10.9）更舊的版本。",
   "FAQ_11_P3": "如果您使用的是Linux，請注意，我們目前只支援64位（x64）Linux。",
   "FAQ_11_P4": "如果您仍然無法解決您的問題，請寫信給我們的${1}Facebook群組${2}。",
+
   "FAQ_12_H1": "為什麼我的防毒軟體會報毒？Stremio安全嗎？",
   "FAQ_12_P1": "我們向您保證Stremio是${1}100%安全的${2}。",
   "FAQ_12_P2": "您的防毒軟體報毒是因為我們的安裝程式中包含廣告，一些防毒軟體將其識別為廣告軟體。",
   "FAQ_12_P3": "如果您仍然不確定，可以嘗試我們的${1}替代安裝程式${2}。",
+
   "FAQ_13_H1": "如何製作外掛？",
   "FAQ_13_P1": "對於初學者，我們建議您檢視GitHub上的${1}外掛系統模組${2}。",
   "FAQ_13_P2": "之後，您可以按照${1}Hello World教程${2}進行操作。",
   "FAQ_13_P3": "如果您沒有任何程式設計技能，請在${1}Reddit社群${2}上釋出您的想法，並在${3}office@stremio.com${4}上與我們聯絡您的外掛想法。",
+
   "FAQ_14_H1": "外掛是如何釋出的？",
   "FAQ_14_P1": "當您建立一個外掛和主機，並在清單中放置一個指向工作外掛地址的<b>終端節點</b>欄位時，該外掛將自動釋出到我們的${1}外掛目錄${2}。",
   "FAQ_14_P2": "發生這種情況是因為Stremio外掛模組的伺服器部分會自動呼叫我們的API來宣告外掛。當我們的API驗證您的<b>終端節點</b>為有效的外掛時，它將開始顯示在目錄中。",
+
   "FAQ_15_H1": "我可以在瀏覽器中執行Stremio嗎？",
   "FAQ_15_P1": "目前還沒有，但即將到來！",
   "FAQ_15_P2": "如果您想看到Alpha版本，可以在這裡看到：${1}alpha4.strem.io${2}. 請記住，此Alpha版本上已禁用流式處理。我們支援Chrome、Firefox、Opera和Edge",
+
   "FAQ_16_H1": "電視投屏不起作用/字幕不起作用",
   "FAQ_16_P1": "電視投屏使用DLNA技術，這在不同的電視品牌和型號之間非常不一致。由於這個原因，我們沒有能力在每種情況下都測試它，所以它還遠遠不夠完美。儘管如此，我們仍在不斷改進，但我們無法為您提供DLNA能夠在您的電視上開始正常工作的預計時間。",
   "FAQ_16_P2": "如果您在“投屏”選單中看不到您的電視，請嘗試禁用網路連線並重新啟用它（在Windows上，右鍵單擊網路並使用“啟用/禁用”），以及重新啟動路由器、電視和PC。",
   "FAQ_16_P3": "如果您仍然遇到問題，您可以透過將您的電視品牌和型號資訊傳送到${1}來幫助我們”office@stremio.com${2}。",
   "FAQ_16_P4": "同時，我們推薦Chromecast，我們非常支援Chromecast，或者直接用HDMI線將電視與PC連線。",
+
   "FAQ_17_H1": "Stremio卡死和/或崩潰，我能做什麼？",
   "FAQ_17_P1": "首先，如果您使用的是帶有AVG防毒軟體的Windows 7，這種組合會產生問題。問題出在AVG本身，我們這邊沒有合理的辦法解決。不幸的是，去除或禁用防毒軟體將不起作用。唯一的解決辦法是用別的東西代替AVG",
   "FAQ_17_P2": "如果不是這個問題，但您仍在使用Windows，請更新到最新的service pack並更新/重新安裝您的GPU驅動程式，然後重試。",
   "FAQ_17_P3": "如果您的問題仍未解決，或者您使用的是Mac或Linux，請寫信給我們，在${1}我們的Facebook群組${2}報告問題的確切細節。",
+
   "FAQ_18_H1": "如何製作外掛？",
   "FAQ_18_P1": "對於初學者，我們建議您檢視GitHub上的${1}外掛系統模組${2}。",
   "FAQ_18_P2": "之後，您可以按照${1}Hello World教程${2}進行操作。",
   "FAQ_18_P3": "如果您沒有任何程式設計技能，請在${1}Reddit社群${2}上釋出您的想法，並在${3}上與我們聯絡您的外掛想法。”office@stremio.com${4}。",
+
   "FAQ_19_H1": "為什麼Stremio佔用磁碟空間？",
   "FAQ_19_P1": "Stremio有一個<b>本地快取</b>來臨時儲存您流式傳輸的影片檔案。",
   "FAQ_19_P2": "這有兩個好處：第一，它允許Stremio預先緩衝影片，以確保流媒體更流暢。其次，它將影片儲存在本地快取中，以便您可以繼續離線觀看。",
   "FAQ_19_P3": "Stremio保留了多少取決於“設定”面板中的<b>快取設定。Stremio可能會在您的磁碟上保留到設定的數量（例如2GB），除非當前流式傳輸的影片大於該數量，在這種情況下，必須分配足夠的儲存來保留它，直到您結束流式傳輸。",
+
   "FAQ_20_H1": "快取資料夾在哪裡？",
   "FAQ_20_P1": "在Windows上，Stremio快取位於您在設定中選擇的驅動器中（例如\"E:\\stremio-cache\"）",
   "FAQ_20_P2": "在MacOS上，它位於\"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "在Linux上，它位於\"~/.stremio/stremio-cache\"或\"~/stremio-cache\"",
+
   "FAQ_21_H1": "我得到\"流媒體伺服器未找到\"錯誤，我能做什麼？",
   "FAQ_21_P1": "如果出現此錯誤，則表示以下幾點之一：",
   "FAQ_21_P2": "1）您正試圖透過我們的${1}web版本${2}使用一個由YouTube/BitTorrent原始碼支援的外掛。在這種情況下，您應該從${3}我們的網站${4}安裝我們的桌面版本",
   "FAQ_21_P3": "2）Stremio安裝有問題。在這種情況下，請嘗試從${1}網站${2}重新安裝我們的最新桌面版本。如果這沒有幫助，請嘗試禁用防毒軟體和防火牆，重新啟動電腦，然後重試。如果這依然不起作用，請寫信給我們的${3}Facebook群組${4}",
+
   "FAQ_22_H1": "我無法在iOS上看到/使用大多數外掛",
   "FAQ_22_P1": "由於Apple App Store條款和條件中的限制，我們限制iOS應用程式只能使用一組特定的外掛。",
   "FAQ_22_P2": "不過，請放心，將來會有更多的iOS外掛，我們還可能新增一個整合，透過將iOS應用程式連線到Stremio流媒體伺服器，您將可以使用所有Stremio外掛。"

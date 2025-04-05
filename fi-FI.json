@@ -4,6 +4,7 @@
   "TYPE_tv": "TV-kanava",
   "TYPE_channel": "Kanava",
   "TYPE_other": "Muu",
+
   "TYPE_movie_PL": "Elokuvat",
   "TYPE_series_PL": "Sarjat",
   "TYPE_tv_PL": "TV-kanavat",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "Muut",
   "TYPE_ALL": "Kaikki",
   "TYPE": "Tyyppi",
+
   "CATALOG_com_linvo_cinemeta_top": "Popular",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Featured",
   "CATALOG_com_linvo_cinemeta_year": "New",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Public Domain Movies",
+
   "VIDEO": "Video",
+
   "BACK": "Takaisin",
   "MORE": "Lisää",
   "DONE": "Valmis",
   "COPY": "Kopioi",
   "SUCCESS": "Onnistui",
   "ERROR": "Virhe",
+
   "SETTINGS_CASTING_MODE_PICKER": "Heijastustila",
   "CASTING_MODE_HLSV2": "Oletus",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "Ei muunnosta",
+
   "Discover": "Tutustu",
   "Board": "Lauta",
   "Library": "Kirjasto",
   "My Library": "Oma kirjasto",
   "Calendar": "Kalenteri",
+
   "NOTIFICATION_ONLINE": "Olet nyt verkossa",
   "NOTIFICATION_OFFLINE": "Olet tällä hetkellä offline-tilassa",
   "INTERNET_CONNECTION": "Verkkoyhteys",
+
   "STORAGE_FULL_TITLE": "Varoitus: Tallennustila täynnä!",
   "STORAGE_FULL_TEXT": "Stremio ei pysty tallentamaan asetuksiasi, mieltymyksiäsi tai kirjautumistietojasi. Harkitse Stremion uudelleenkäynnistämistä tai uudelleenasentamista.",
+
   "SEARCH": "haku",
   "SEARCH_NO_RESULTS": "Ei tuloksia",
   "SEARCH_EXPLANATION_CONTENT": "Etsi elokuvia, sarjoja, YouTube- ja TV-kanavia",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "Liitä HTTP- ja Magnet-linkkejä",
   "SEARCH_OR_PASTE_LINK": "Etsi tai liitä linkki",
   "SEARCH_SUGGESTIONS": "Search Suggestions",
+
   "ADD_TO_LIB": "Lisää kirjastoon",
   "REMOVE_FROM_LIB": "Poista kirjastosta",
   "ADDED_TO_LIB": "Lisätty kirjastoon",
@@ -53,6 +63,7 @@
   "SHOW": "Näytä",
   "SHOW_MOVIE": "Näytä elokuva",
   "WATCH_RANDOM": "Katso satunnainen",
+
   "IMDB_RATING": "IMDb-arvosana",
   "YEAR": "Vuosi",
   "DIRECTOR": "Ohjaaja",
@@ -75,11 +86,14 @@
   "FEATURED": "Esittelyssä",
   "METADATA": "Metatiedot",
   "CATEGORY": "kategoria",
+
   "LINKS_GENRES": "Lajit",
   "LINKS_CAST": "Näyttelijät",
   "LINKS_DIRECTORS": "Ohjaajat",
+
   "SEARCH_VIDEOS": "etsi videoita",
   "SEARCH_PLACEHOLDER": "etsi tai liitä URL",
+
   "ADDON": "lisäosa",
   "ADDONS": "Lisäosat",
   "OFFICIAL": "virallinen",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "Vie käyttäjätiedot",
   "ADDON_PULL_FAILED": "Asennettujen lisäosien synkronointi tililtäsi epäonnistui",
   "REFRESH_ON_CLICK": "Klikkaa yrittääksesi uudelleen",
+
   "STILL_IN_THEATER": "Elokuva yhä teattereissa",
   "WATCH_IN_CINEMA": "Katso se paikallisessa elokuvateatterissa",
   "IN_THEATER": "Teatterissa",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "Tätä kanavaa ei ole vielä haettu.<br>Palaa takaisin muutaman minuutin kuluttua.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Lisää se kirjastoosi, niin saat ilmoituksen, kun se on saatavilla.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "Saat ilmoituksen, kun se on saatavilla.",
+
   "WARNING_STREAMING_SERVER": "Varoitus: paikallista stream-palvelinta ei löytynyt. Paikallisista tiedostoista, YouTube- ja BitTorrent-streamauksesta ei ole saatavilla.",
   "WARNING_STREAMING_SERVER_DISMISS": "Hylkää",
   "WARNING_STREAMING_SERVER_LATER": "Myöhemmin",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "Avaa ulkoisessa soittimessa",
   "PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
   "PLAYER_PLAY_IN": "Toista laitteessa {{device}}",
+
   "PLAYER_LIVE": "Suora lähetys",
+
   "PLAYER_NEXT_VIDEO_TITLE": "Seuraavaksi",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Hylkää",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Katso nyt",
+
   "PLAYER_COPY_STREAM_SUCCESS": "Virtalinkki kopioitu leikepöydälle",
   "PLAYER_COPY_STREAM_ERROR": "Virhe kopioitaessa virtalinkkiä",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+
   "STREAMING_FROM": "suoratoistetaan",
   "CASTING_TO": "Heijastetaan",
   "NETWORK_STATUS": "Verkon tila",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "Yhdistetyt:",
   "PEERS_WAITING": "Odottavat:",
   "TRANSCODING_WARNING": "Varoitus: videon transkoodaus.",
+
   "STREAM_LOADING": "ladataan...",
   "PLAYING_LOCAL": "toistetaan paikallisesta tiedostosta",
   "PLAYING_CACHE": "toistetaan välimuistista",
+
   "WRONG_SUBS": "Väärät tekstitykset?",
   "ERR_SUBS_LOADING_TITLE": "Virhe ladattaessa tekstityksiä",
   "ERR_SUBS_LOADING": "Tekstitysten lataaminen epäonnistui: tämä voi johtua käyttämästäsi lisäosasta tai verkkoyhteydestäsi",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "Seuraavat tekstityslisäosat epäonnistuivat",
   "ERR_CASTING_UPDATE_TITLE": "Ei voitu päivittää heijastuslaitteen tietoja: suoratoistopalvelin saattaa olla poissa käytöstä",
+
   "CHOOSE_DEVICE": "Valitse laite, jolla katsot",
   "NO_CAST_DEVICES": "Ei heijastuslaitteita saatavilla.",
+
   "NO_SETTINGS": "Ei asetuksia saatavilla.",
+
   "PHONE_TABLET": "Puhelin / Tabletti",
+
   "SUBTITLES": "Tekstitykset",
   "SUBTITLES_CHANGE": "Vaihda tekstityksiä kielelle ",
   "SUBTITLES_CHANGE_NONE": "Tälle kielelle ei ole muita tekstityksiä, pahoittelut.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "Ladataan tekstityksiä...",
   "SUBTITLES_UNAVAILABLE": "Ei saatavilla olevia ulkoisia tekstityksiä",
   "SUBTITLES_DISABLED": "Poissa käytöstä",
+
   "EXTERNAL_PLAYER_DISABLED": "Poissa käytöstä",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "Salli valitseminen",
   "EXTERNAL_PLAYER_HINT": "Vinkki: asetuksista voi sallia aina avaamisen ulkoisessa soittimessa",
+
   "DONT_SHOW_AGAIN": "Älä näytä uudelleen",
+
   "SERVICE_INSTALL": "Asenna",
+
   "AUDIO": "Ääni",
+
   "DEFAULT_LANGUAGE": "Oletuskieli",
   "DEFAULT_SECONDARY_LANGUAGE": "Oletus toissijainen kieli",
+
   "SEASON": "Kausi",
   "EPISODE": "Jakso",
   "EPISODE_ABBREVIATION": "Jk",
   "SPECIAL": "Erikoisjakso",
+
   "SORT": "lajittele",
   "SORT_BY": "Lajittele",
   "FILTER": "suodata",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "Katselukertojen mukaan",
   "SORT_NOTWATCHED": "not watched",
+
   "New for You": "Uutta sinulle",
   "New Episodes": "Uudet jaksot",
   "New Videos": "Uudet videot",
   "Recommendations": "Suositukset",
+
   "LIBRARY_RESUME": "Jatka",
   "LIBRARY_PLAY": "Toista",
   "LIBRARY_DETAILS": "Tiedot",
   "LIBRARY_RESUME_DISMISS": "Hylkää",
   "LIBRARY_CLEAR_PROGRESS": "Tyhjennä edistyminen",
   "LIBRARY_REMOVE": "Poista",
+
   "LIBRARY_NOT_LOGGED_IN": "Kirjasto on käytettävissä vain kirjautuneille käyttäjille",
   "CALENDAR_NOT_LOGGED_IN": "Kalenteri on käytettävissä vain kirjautuneille käyttäjille",
   "NOT_LOGGED_IN_CLOUD": "Pääsy suosikkielokuviisi ja TV-ohjelmiisi milloin tahansa, missä tahansa",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "Suositukset katseluhistoriasi perusteella",
   "NOT_LOGGED_IN_NOTIFICATIONS": "Älä missaa yhtään jaksoa",
   "NOT_LOGGED_IN_CALENDAR": "Aikatauluta henkilökohtainen katselukalenterisi",
+
   "DISCOVER_FEATURED": "Esittelyssä",
+
   "DISCOVER_TOP": "Parhaat",
   "DISCOVER_OSCAR": "Oscar-voittajat",
+
   "DISCOVER_WARNING_TITLE": "Hups!",
   "DISCOVER_EMPTY_CATALOG": "Tämä lisäosa palautti tyhjän sisällön.",
   "DISCOVER_ADULT_WARNING": "Sisältö on näkyvissä vain aikuisille. Oletko yli 18-vuotias?",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "Tämä sisältö ei ole enää saatavilla, olet ehkä poistanut lisäosan.",
   "UNINSTALL_THIS_ADDON": "Poista tämä lisäosa",
   "ERR_ADDON_NOT_INSTALLED": "Tätä lisäosaa ei ole asennettu. Asennetaanko nyt?",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "Vastaanota ilmoituksia uusista jaksoista",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "Vastaanota ilmoituksia uusista videoista",
+
   "SIDEBAR_SHOW_STREAMS": "Näytä streamit",
+
   "RELAUNCH": "Käynnistä uudelleen nyt!",
   "UPGRADE": "Uusi versio on saatavilla! Päivitä uusimpaan Stremio-versioon",
   "RELOAD_UI": "Lataa käyttöliittymä uudelleen",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "Päivitä",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "Anonyymi käyttäjä",
   "DONT_HAVE_ACC": "Ei tiliä?",
   "HAVE_ACC": "Onko sinulla jo tili?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "Haku epäonnistui",
   "EMAIL_USED": "Tämä sähköposti on jo käytössä.",
   "WAITING_FB_LOGIN": "Kirjaudutaan Facebookilla...",
+
   "EXTERNAL_PLAYER_TITLE": "Toista ulkoisessa soittimessa",
   "EXTERNAL_REMEMBER_PLAYER": "Haluatko muistaa valintasi",
   "EXTERNAL_ALWAYS_PLAY": "Kyllä",
   "EXTERNAL_ONLY_ONCE": "Ei",
+
   "BEST_FIT": "Paras sovitus",
   "FIT_SCREEN": "Sovita näyttöön",
   "FILL": "Täytä",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "Alkuperäinen",
+
   "INTRO_TASTE": "Kerro meille mistä pidät",
   "INTRO_TASTE_LONG": "Kerro meille mitä haluaisit katsoa",
   "INTRO_TASTE_PICK": "Valitse {{interestsRemaining}} kiinnostusta",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "Tee se itse",
   "INTRO_TASTE_TECH": "Tekniikka",
   "INTRO_TASTE_CINEMA": "Elokuvat",
+
   "ADDON_NOT_SUPPORTED": "Valittu lisäosa ei ole tuettu tällä alustalla.",
   "ADDON_DISCLAIMER": "Kolmannen osapuolen lisäosien käyttö on aina vastuullasi ja säännelty sen lain mukaan, jossa sijaitset.",
   "ADDON_ACTIVATE": "Aktivoidaanko tämä lisäosa?",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "Lisää lisäosa",
   "ADD_ADDON_DESCRIPTION": "Voit lisätä lisäosan ulkoisen linkin kautta, joka näkyy Asennetut lisäosat -osiossa.",
   "PASTE_ADDON_URL": "Liitä lisäosan URL-osoite",
+
   "WHATS_NEW": "Mitä uutta",
+
   "BUTTON_CONTINUE": "Jatka",
   "BUTTON_ACTIVATE": "Aktivoi",
   "BUTTON_ACTIVATED": "Aktivoitu",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "näytä kaikki",
   "BUTTON_SEE_ALL": "Katso kaikki",
   "BUTTON_COLOR_TRANSPARENT": "Läpinäkyvä",
+
   "OPEN_IN_BROWSER": "Avaa selaimessa",
+
   "LIB_EMPTY": "Kirjastosi näyttää tyhjältä. Selvitä kuinka hyödyllinen se on :)",
   "HOW_START": "Tässä on miten voit aloittaa:",
   "LIB_EMPTY_CAL": "Kalenterisi näyttää sarjoja kirjastossasi.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "Rekisteröidy saadaksesi kaikki nämä:",
   "LIB_EMPTY_BEST": "Rekisteröidy saadaksesi parhaat Stremio-ominaisuudet",
   "LIB_EMPTY_OTHER": "Rekisteröidy mahdollistaaksesi kalenterin ja muita hienoja ominaisuuksia",
+
   "CALENDAR_ADDED": "Stremio-kalenteri on lisätty oletuskalenteriisi.",
   "CALENDAR_ADDED_MSG": "Jos tämä ei toimi, lisää tämä URL-kalenterisovellukseesi manuaalisesti.",
+
   "TRAKT_EXPIRED": "Traktin todennus vanhentunut, mene Asetuksiin ja todenna uudelleen",
   "TRAKT_REQUIRES_LOGIN": "Trakt-virhe",
   "TRAKT_REQUIRES_LOGIN_MSG": "Sinun täytyy kirjautua sisään",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Disabled",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "Remote URL",
   "SETTINGS_COPY_REMOTE_URL": "Copy remote URL",
   "SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",
+
   "SETTINGS_SECTION_SUBTITLES": "Tekstitykset",
   "SETTINGS_SECTION_AUDIO": "Ääni",
   "SETTINGS_SECTION_CONTROLS": "Ohjaimet",
   "SETTINGS_SECTION_AUTO_PLAY": "Automaattinen toisto",
   "SETTINGS_SECTION_ADVANCED": "Edistyneet",
+
   "SUBSPICKER_AUDIO": "Ääni",
   "SUBSPICKER_SUBTITLES": "Lisäosien tekstitykset",
   "SUBSPICKER_BLACK_BACKGROUND": "Käytä mustaa taustaväriä",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "Koko",
   "SUBSPICKER_DELAY": "Viive",
   "SUBSPICKER_EMBEDDED_SUBS": "Upotetut tekstitykset",
+
   "MOBILE_PRIVACY_POLICY": "Tietosuojakäytäntö",
   "MOBILE_CRASH_REPORTING": "Kaatumisraportointi",
   "MOBILE_ZOOM_TO_FILL": "Zoomaa täyttämään näyttö",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Tilisi on luotu Facebookin kautta. Tilin poistamiseksi käytä käyttäjäportaalia osoitteessa www.stremio.com/login",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "Vahvista tilin poisto antamalla salasanasi.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "Poista tili",
+
   "NAVIGATION_ON": "Päällä",
   "NAVIGATION_OFF": "Pois päältä",
+
   "MARKETING_AGREE": "Hyväksyn Stremion markkinointiviestinnän",
+
   "QUIT": "Lopeta",
+
   "CONNECTED": "Yhdistetty",
   "AUTHENTICATE": "Todennus",
   "CACHING": "Välimuisti",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrent-profiili",
   "DATA_CACHING": "Tietojen välimuisti",
   "MAGNET_PARSING": "Magneettilinkin jäsentäminen",
+
   "January": "Tammikuu",
   "February": "Helmikuu",
   "March": "Maaliskuu",
@@ -609,6 +671,7 @@
   "October": "Lokakuu",
   "November": "Marraskuu",
   "December": "Joulukuu",
+
   "Monday": "Maanantai",
   "Tuesday": "Tiistai",
   "Wednesday": "Keskiviikko",
@@ -616,6 +679,7 @@
   "Friday": "Perjantai",
   "Saturday": "Lauantai",
   "Sunday": "Sunnuntai",
+
   "Action": "Toiminta",
   "Comedy": "Komedia",
   "War": "Sota",
@@ -691,6 +755,7 @@
   "Science Radio": "Tiede radio",
   "Tech Radio": "Tekniikka radio",
   "Science & Technology Vod": "Tiede ja teknologia VOD",
+
   "new video": "uusi video",
   "new episode": "uusi jakso",
   "new movie": "uusi elokuva",
@@ -699,6 +764,7 @@
   "offer of the day": "päivän tarjous",
   "news": "uutiset",
   "music video": "musiikkivideo",
+
   "CTX_SHOW_HOTKEYS": "Näytä pikanäppäimet",
   "CTX_DISMISS_NOTIF": "Hylkää ilmoitukset",
   "CTX_DISMISS_ALL": "Hylkää kaikki",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "Liitä",
   "CTX_CLEAR": "Tyhjennä",
   "CTX_CLEAR_RECENT_SEARCHES": "Tyhjennä viimeisimmät haut",
+
   "HELLO_THERE": "Hei siellä",
   "HOPE_YOU_ENJOY": "Toivomme, että nautit Stremiosta ja se on jo yksi suosikki sovelluksistasi!",
   "WHO_ARE_WE": "Kuka me olemme? Olemme sen takana oleva tiimi - kaksi kaveria, jotka ovat työskennelleet kovasti joka päivä viimeiset 3 vuotta tehdäkseen tästä tuotteesta paremman ja paremman.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "Jaa nyt ystäviesi kanssa, levitä sanaa Stremiosta",
   "MORE_PEOPLE": "Mitä enemmän ihmisiä käyttää Stremiota, sitä paremmaksi se tulee!",
   "SEND_A_LINK": "Tai lähetä linkki verkkosivustollemme",
+
   "TIP_LOCALFILES": "Vinkki: voit raahata ja pudottaa paikallisia videotiedostoja Stremioon",
+
   "ADDON_MY": "Omat lisäosat",
   "ADDON_COMMUNITY": "Yhteisön lisäosat",
   "ADDON_OFFICIAL": "Viralliset lisäosat",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "Katso #{types} ilmaiseksi",
   "ADDON_PROVIDES_SUBTITLES": "#{types} tekstitykset",
   "ADDON_CANTDETECT": "Emme voineet havaita käynnissä olevaa Stremiota, joten emme voineet havaita, mitä lisäosia sinulla on asennettuna.",
+
   "ERR_NO_META": "Tietoja ei löytynyt tästä",
   "ERR_GETTING_META": "Virhe tietojen noutamisessa",
   "ERR_CANT_PARSE_MAGNET": "Magnetin jäsentäminen ei onnistu",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "Ei voi toistaa leikepöydältä",
   "ERR_CLIPBOARD_READ": "Leikepöytää ei voi lukea tällä alustalla",
   "ERR_CLIPBOARD_GENERIC": "Leikepöydältä ei löytynyt toistettavaa URL-osoitetta. Kopioi URL-osoite (esim. magnet-linkki) videolle.",
+
   "BOARD_CONTINUE_WATCHING": "Jatka katsomista",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "Elokuvia valittu erityisesti sinulle.<br />Tämä elokuva on esimerkki suosituksesta.",
   "BOARD_EXPLANATION_EPISODES": "Uudet jaksot suosikkisarjoistasi tulevat tänne.<br />Lisää seurattavat sarjat kirjastoosi.",
   "BOARD_EXPLANATION_VIDEOS": "Uudet jaksot suosikkikanaviltasi tulevat tänne.<br />Lisää seurattavat YouTube-kanavat kirjastoosi.",
+
   "WEBSITE_ENJOYED_BY": "Nauttii yli 30 miljoonaa käyttäjää ympäri maailmaa",
   "WEBSITE_STREAMING_ENHANCED": "Suoratoisto parannettu",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio tarjoaa turvallisen, modernin ja saumattoman viihdekokemuksen. Helppokäyttöisen käyttöliittymän ja monipuolisen sisältökirjaston, mukaan lukien 4K HDR -tuki, ansiosta käyttäjät voivat nauttia suosikkielokuvistaan ja TV-ohjelmistaan kaikilla laitteillaan. Ja sitoutumalla turvallisuuteen Stremio on paras valinta huoleton, korkealaatuinen suoratoistokokemus.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "Opas Stremio Webille iOS:lla",
   "WEBSITE_LINK_ART_V2": "Fanitaidegalleria",
   "WEBSITE_PARTNERS": "Kumppanit",
+
   "WEBSITE_SLOGAN_WATCH": "Katso heti",
   "WEBSITE_SLOGAN_ALL": "Kaikki videosisältö, josta nautit, yhdessä paikassa",
   "WEBSITE_SLOGAN_NEW": "Kaikki, mitä voit katsoa",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "Sarjat",
   "WEBSITE_TYPE_tv": "Live TV",
   "WEBSITE_TYPE_channel": "Kanavat",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremio on sovellus, joka auttaa sinua järjestämään ja katsomaan suosikki videoitasi, elokuviasi, TV-sarjojasi ja TV-kanavia heti.",
+
   "WEBSITE_FEATURES_WATCH": "Katso välittömästi HD-laadulla",
   "WEBSITE_FEATURES_WATCH_DETAIL": "Klikkaa ja toista suosikki elokuvasi, TV-ohjelmasi, videot ja TV-kanavasi.",
+
   "WEBSITE_FEATURES_SUBS": "Automaattiset tekstitykset",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremio valitsee automaattisesti synkronoidut tekstitykset kielellesi.",
   "WEBSITE_FEATURES_SUBS_LABEL": "Sinun vuorosi, pomo.",
+
   "WEBSITE_FEATURES_CAST": "Toista TV:ssä ja mobiililaitteissa",
   "WEBSITE_FEATURES_CAST_DETAIL": "Toista AppleTV:ssä, Chromecastissa, Smart TV:ssä (DLNA/UPnP) ja mobiililaitteissa.",
+
   "WEBSITE_LIB": "Nauti henkilökohtaisesta kirjastostasi synkronoituna kaikilla laitteillasi",
   "WEBSITE_LIB_COLLECT": "Kerää Stremiosta",
   "WEBSITE_LIB_IMPORT": "Tuo Facebookista",
   "WEBSITE_LIB_LOCAL": "Lisää paikalliselta asemalta",
+
   "WEBSITE_BOARD": "Board - Yksi paikka ilmoituksille ja suosituksille",
   "WEBSITE_BOARD_RECOMMEND": "Suositeltu TV-ohjelma",
   "WEBSITE_BOARD_TRENDING": "Trendaava elokuva",
   "WEBSITE_BOARD_NEW": "Uusi video",
   "WEBSITE_BOARD_EPISODE": "Uusi jakso",
+
   "WEBSITE_BOARD_1": "Etsitkö jotain mielenkiintoista katsottavaa? Saat suosituksia makusi mukaan!",
   "WEBSITE_BOARD_2": "Saat ilmoituksen, kun uusi jakso suosikki TV-ohjelmastasi tai YouTube-kanavaltasi on ulkona!",
+
   "WEBSITE_BOARD_YOUTUBE": "Uudet videot YouTube-kanavilta",
   "WEBSITE_BOARD_EPISODES": "Uudet jaksot sarjoista, joita seuraat",
+
   "WEBSITE_ADDONS": "Sisältölisäosat",
+
   "WEBSITE_TECH_DETAIL": "Rakastamme teknologiaa, rakastamme hullua tiedettä!\nStremio käyttää seuraavia avoimen lähdekoodin teknologioita:",
   "WEBSITE_TECH_WCJS": "WebChimera.js mahdollistaa Stremion toistavan mitä tahansa videomuotoa hyvällä suorituskyvyllä.",
   "WEBSITE_TECH_WCJS_EXTRA": "Olemme ydintiimin jäseniä",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "Olemme projektin jäseniä",
   "WEBSITE_TECH_LINVODB": "Tietokantateknologia, joka varmistaa, että tietosi ovat järjestettyjä ja saatavilla missä tahansa kirjaudut sisään.",
   "WEBSITE_TECH_LINVODB_EXTRA": "Sisäinen teknologia",
+
   "WEBSITE_CREATE_ADDON": "Luo lisäosa",
   "WEBSITE_CREATE_ADDON_DETAIL": "Onko sinulla palvelu, joka tarjoaa videosisältöä? Autamme sinua hyötymään Stremion ominaisuuksista luomalla lisäosan.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "Hyödyt Stremion lisäosan luomisesta",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "Kiinnostunut? Ota <a href='mailto:office@stremio.com'>yhteyttä</a>.",
   "WEBSITE_P2P_CONTACT_EXTRA": "Autamme mielellämme integroimaan sisältösi Stremioon!",
   "WEBSITE_P2P": "Joskus tulee teknologia, joka muuttaa pelin nimen. Investoimme valtavasti aikaa ja vaivaa rakentaessamme vertaisverkkoon perustuvan (P2P) videon suoratoistomoottorimme, joka tarjoaa erinomaisen suorituskyvyn ja monipuolisuuden sopeutua mihin tahansa käyttötapaukseen.\nOta yhteyttä DRM-yhteensopivaan P2P-videoon pyynnöstä tai suorana suoratoistoon.",
+
   "WEBSITE_THOUGHTS": "Ajatuksia, joita jaamme:",
   "WEBSITE_SPREAD": "Levitä sanaa Stremiosta:",
   "WEBSITE_CONTACT": "Ota yhteyttä, olemme iloisia kuullessamme sinusta!",
   "WEBSITE_OPENSOURCE": "Avointen lähdekoodiprojektien osalta siirry sivustollemme",
+
   "WEBSITE_BITCOIN": "Lahjoita bitcoinilla:",
   "WEBSITE_FAQ": "Usein kysytyt kysymykset",
   "WEBSITE_FAQ_SHORT": "UKK",
   "WEBSITE_QUESTIONS": "Kysymykset",
   "WEBSITE_TOS": "Käyttöehdot",
   "WEBSITE_LEGAL": "Lakiasiat",
+
   "WEBSITE_PAGE_ABOUT": "Tietoja",
   "WEBSITE_PAGE_BECOME_PARTNER": "Tule kumppaniksi",
   "WEBSITE_ALL_YOU_CAN_WATCH": "Vapaus katsoa Kaikkea mitä haluat.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "Loputtomasti laajennettavissa oleva videoluettelo;",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "Mahtavia ominaisuuksia videoidesi järjestämiseen;",
   "WEBSITE_AS_SEEN_ON": "Kuten nähty",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "Tietoa meistä",
   "WEBSITE_LINK_TECHNOLOGY": "Teknologia",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "Voit käyttää palveluamme millä tahansa laitteella ja milloin tahansa, joten Stremio on ainoa videoviihdekeskus, jota koskaan tarvitset.",
   "WEBSITE_TEAM": "TIIMI",
   "WEBSITE_TEAM_P": "Stremio-tiimi on pieni mutta voimakas: meitä on kymmenen, ja koodaamme X kielellä. Jaamme asiantuntemusta ohjelmistokehityksestä, käyttöliittymä- ja käyttökokemussuunnittelusta, markkinoinnista ja mainonnasta sekä liiketoiminnasta ja startupeista.",
+
   "WEBSITE_FEATURES": "Ominaisuudet",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "Löydä uutta sisältöä helposti",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "Katso videoita monista eri lähteistä",
   "WEBSITE_FEATURES_SOURCES_P": "Asenna virallisia ja yhteisölisäosia nauttiaksesi videoista, jotka ovat peräisin monilta eri tarjoajilta - kaikki yhdessä tyylikkäässä ja helppokäyttöisessä sovelluksessa.",
   "WEBSITE_CREATE_AN_ADDON": "Luo lisäosa",
+
   "WEBSITE_FEATURES_SYNC": "Synkronoi kirjastosi eri laitteiden välillä ja jatka toistoa",
   "WEBSITE_FEATURES_SYNC_P1": "Kirjaudu tilillesi kaikilla laitteillasi ja nauti kirjastostasi, lisäosistasi, toistostasi ja kalenteristasi synkronoituna.",
   "WEBSITE_FEATURES_EXTENDABLE": "Laajennettava videoluettelo lisäosilla",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "Toista ulkoisessa soittimessa",
   "WEBSITE_FEATURES_POWER_USER_P2": "Toista torrent-tiedostosta tai magnet-linkistä",
   "WEBSITE_FEATURES_POWER_USER_P3": "Tuo kirjastoosi Facebook-tykkäyksistä tai paikalliselta levyltä",
+
   "WEBSITE_ADD_ONS": "Lisäosat",
   "WEBSITE_ADD_ONS_P1": "Kaikki Stremion tarjoama videosisältö hankitaan lisäosajärjestelmän kautta - sovellukseen ei ole rakennettu sisältöä tai sisällöntarjoajaa.",
   "WEBSITE_ADD_ONS_P2": "Saatavilla on kaksi lisäosaryhmää: viralliset ja yhteisölisäosat.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "Luo lisäosa",
   "WEBSITE_ADDONS_CREATE_P1": "Jos haluat, voit kehittää oman lisäosan. Tällä tavalla voit antaa itsellesi ja yhteisöllemme pääsyn uuteen videosisältöön ja tavoittaa uuden, kohdennetun yleisön miljoonien käyttäjien ympäri maailmaa.",
   "WEBSITE_ADDONS_START_CREATE": "Aloittaaksesi, käy Stremio Addon SDK -sivulla:",
+
   "WEBSITE_DOWNLOADS": "Lataukset",
   "WEBSITE_DOWNLOADS_P1": "Optimaalisen suorituskyvyn saavuttamiseksi suosittelemme käyttämään Stremio-sovelluksen uusinta saatavilla olevaa versiota. Jos kuitenkin jostain syystä haluat käyttää vanhempaa versiota, voit ladata sen täältä.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "Optimaalisen suorituskyvyn saavuttamiseksi suosittelemme käyttämään Stremio-sovelluksen uusinta saatavilla olevaa versiota.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Search for Stremio in the App Store of your Xbox device",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
   "WEBSITE_LINK_GUIDE": "Guide",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Lataa Stremio-palvelu",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio-palvelu on kumppanisovellus Stremio Webille. Suosittelemme käyttämään Stremio-palvelun uusinta saatavilla olevaa versiota.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio-palvelu Windowsille",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "We released Stremio for Xbox",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "We released Stremio for Raspberry Pi",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "Stremio-alusta on avoimen lähdekoodin ja voit helposti luoda lisäosan sisällölle, jota ei tällä hetkellä ole saatavilla.",
   "WEBSITE_CONTRIBUTE_WHY": "Miksi sinun pitäisi luoda lisäosa?",
   "WEBSITE_CONTRIBUTE_WHY_P1": "Tavoita uusi yleisö videosisällöllesi",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Jos haluat nauttia Stremio-sovelluksista eri kielillä, voit liittyä vapaaehtoisten kääntäjien yhteisöömme. He auttavat meitä lisäämään Stremion versioita monilla eri kielillä.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Haluatko aloittaa?",
   "WEBSITE_TRANSALTE_STREMIO": "Käännä Stremio",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "Viralliset yhteisöt",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "Tule osaksi kasvavaa Stremio-yhteisöä. Seuraa meitä sosiaalisessa mediassa ja älä ole ujo sanoa hei - rakastamme kuulla faneiltamme! ",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "Taustakuvat",
   "WEBSITE_COMMUNITY_ART": "Yhteisön taidegalleria",
   "WEBSITE_LINK_ART": "Yhteisön taidegalleria",
+
   "WEBSITE_CONTACT_US": "Ota yhteyttä",
   "WEBSITE_CONTACT_US_P1": "Jos sinulla on kysyttävää, kommentteja tai ehdotuksia, ota meihin yhteyttä alla olevan yhteydenottolomakkeen kautta.",
   "WEBSITE_CONTACT_US_P2": "Pidä mielessä, että sijaitsemme Bulgariassa, joten kyselyysi vastaaminen voi kestää aikavyöhyke-erojen vuoksi.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "Sähköpostiosoitteesi",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "Viesti",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "LÄHETÄ",
+
   "WEBSITE_CONTACT_US_Q_1": "Miten asennetaan?",
   "WEBSITE_CONTACT_US_Q_2": "Miten poistetaan?",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) Miten tehdään lasagnea?",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "Teknologia",
   "WEBSITE_TECHNOLOGY_P1": "Rakastamme teknologiaa ja hullua tiedettä. </br> Tässä on mitä Stremio käyttää (kaikki on avoimen lähdekoodin).",
   "WEBSITE_TECHNOLOGY_P_QT": "Ristiin alustan ohjelmistokehitys parhaimmillaan.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "tai",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... voit käyttää koodaustaitojasi yhteisön lisäosien luomiseen.",
   "WEBSITE_TRANSLATE_STREMIO": "Käännä Stremio",
+
   "WEBSITE_404_OH_NO": "Voi ei! Etsimääsi sivua ei löydy...",
   "WEBSITE_GO_HOME": "Mene kotiin",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "Muut lataukset",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "Lisäosakilpailu",
   "WEBSITE_LINK_ART_CONTEST": "Taidekilpailu",
   "WEBSITE_MY_ACCOUNT": "Oma tili",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "Mikä on Stremio?",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio on moderni mediasoitin, joka antaa sinulle vapauden katsoa kaikkea mitä haluat.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "Miten se toimii?",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "Kun olet asentanut Stremion laitteellesi ja luonut tilin, sinun tarvitsee vain käydä lisäosakatalogissa ja asentaa haluamasi lisäosa, ja olet valmis!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "Sen jälkeen voit siirtyä Löydä tai Board -osioihin aloittaaksesi sisällön tutkimisen.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "Mitä voin katsoa täällä?",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "Paljon: elokuvia, TV-ohjelmia, verkkokanavia, urheilua, TV-kanavia, podcasteja ja paljon muuta. Lisäosajärjestelmämme ansiosta voit käyttää monipuolista sisältöä.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Onko Stremio avoimen lähdekoodin ohjelmisto?",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "Kyllä, voit tarkistaa seuraavat linkit: ${1}työpöytäsovellus${2} ja ${3}GitHub-organisaatio${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Onko Stremio turvallinen?",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "Kyllä: koska se on avoimen lähdekoodin ohjelmisto, koodi on julkisesti tarkastettavissa ja voit tarkistaa sen itse.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremion lisäosajärjestelmä on myös luotu käyttäjän turvallisuus mielessä. Lisäosat eivät suorita mitään koodia paikallisesti, joten ne eivät aiheuta riskejä laitteellesi.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "Entä yksityisyyteni?",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "Kunnioitamme käyttäjien yksityisyyttä emmekä kerää mitään henkilökohtaisia tietoja paitsi välttämättömimmät tiedot tilin luomiseen ja synkronointiin.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "On myös ${1}Vieras-tila${2} rekisteröitymisen yhteydessä, joka ei vaadi mitään tietoja: tässä tilassa ei tehdä mitään kutsuja taustajärjestelmäämme. Se tulee kuitenkin kustannuksella hyödyllisiä ominaisuuksia, kuten kirjaston synkronointia laitteiden välillä.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "Voinko heijastaa TV:hen?",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "Kyllä, tuemme Chromecastia ja voit heijastaa sekä työpöytä- että mobiilisovelluksista (Android).",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Kuinka monta lisäosaa Stremiolla on?",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "Vuoden 2019 lopulla yli 50 - lisätietoja löytyy lisäosakatalogistamme.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Voiko Stremiota laajentaa lisäosakatalogin ulkopuolelle?",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "Kyllä, sinun pitäisi tarkistaa nämä: ${1}PimpMyStremio${2}, ${3}Reddit-yhteisöt${4}, ${5}Stremio Downloader${6}, jne.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Mitä laitteita Stremio tukee?",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "Meillä on työpöytäsovelluksia Windowsille, Macille ja Linuxille. Mobiililaitteille tuemme Androidia ja iOS:ia, vaikka iOS onkin rajoitettu toiminnallisuudessaan (ei tue suurinta osaa lisäosista).",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "On monia Android-pohjaisia laitteita, joilla voit käyttää Stremiota, kuten NVIDIA Shield ja Amazon Fire Stick, mutta emme tue niitä virallisesti.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "Meillä on työpöytäsovelluksia Windowsille, Macille ja Linuxille. Meillä on myös omistetut sovellukset Android Mobilelle ja Android TV:lle. iOS:lle ja iPadOS:lle suosittelemme käyttämään Stremio Webiä, vaikka se onkin rajoitetumpi toiminnallisuudessaan.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "Voitko lisätä tiettyä sisältöä Stremioon?",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "Pahoittelut, emme tarjoa sisältöä itse, mutta mitä enemmän Stremio-lisäosia sinulla on asennettuna, sitä enemmän sisältöä löydät.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Voiko Stremio toistaa magnet-linkkejä?",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "Kyllä, ja se voi myös toistaa normaaleja HTTP-linkkejä ja torrent-tiedostoja (vedä ja pudota).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "Voinko ladata videon ja katsoa sitä offline-tilassa?",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "Offline-tila on tulossa, mutta jos sallit Stremion välimuistin laitteellasi (asetuspaneelista), voit katsoa videoita myöhemmin ilman yhteyttä.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "Mikään ei toimi, auta minua!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "Oletko varma, että olet asentanut lisäosia? Jos kyllä, tarkista ${1}apukeskuksestamme${2}.",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Kuinka Stremio ylläpitää kehitystoimintaansa?",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "Ajastamme ei-häiritseviä mainoksia satunnaisesti, mutta harkitsemme siirtymistä lahjoitusmalliin.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "Lisää kysymyksiä varten siirry ${1}apukeskukseemme${2}.",
+
   "HELP_LEARN_MORE": "Auttakaa meitä oppimaan lisää sinusta.",
   "LIFESTYLE": "Elämäntyyli",
   "SPORTS": "Urheilu",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "Viimeiset haut",
   "CLEAR_HISTORY": "Tyhjennä historia",
   "CHOOSE_SOME": "VALITSE JOITAIN TÄSTÄ:",
+
   "NO_WEB_REMOTE": "Web Remote ei voitu ladata",
   "STREMIO_OFFLINE": "Stremio on offline-tilassa",
   "STREMIO_EXPENSIVE_CONNECTION": "Havaitsemme, että käytät matkapuhelinverkkoyhteyttä. Haluatko jatkaa?",
   "USE_DATA": "Käytä dataa",
   "WARNING": "Varoitus",
+
   "MORE_INFO": "Lisätietoja ...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "Ladataan...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "Takaisin kielivalintoihin",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Näytä tilastot latauksen aikana",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremion tietosuojakäytännön lukemiseksi käy osoitteessa:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "Stremion käyttöehtojen lukemiseksi käy osoitteessa:",
+
   "STREMIO_TV_NAV_SEARCH": "Haku",
   "STREMIO_TV_NAV_HOME": "Koti",
   "STREMIO_TV_NAV_DISCOVER": "Löydä",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "Live TV",
   "STREMIO_TV_NAV_SETTINGS": "Asetukset",
   "STREMIO_TV_NAV_ADDONS": "Lisäosat",
+
   "STREMIO_TV_LOGIN_TITLE": "Linkitä tili",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "Vanhenee",
   "STREMIO_TV_LOGIN_STEP_ONE": "Skannaa yllä oleva QR-koodi tai siirry osoitteeseen",
   "STREMIO_TV_LOGIN_STEP_TWO": "Kirjaudu sisään Stremio-tilillesi",
   "STREMIO_TV_LOGIN_NEW_LINK": "Pyydä uutta linkkiä",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "Kirjautumiskoodi päivitetty",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "Kirjoita jotain",
   "STREMIO_TV_SEARCH_NO_ADDONS": "Ei lisäosia pyydetty katalogeille!",
   "STREMIO_TV_SEARCH_BUTTON": "Hae",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "Hakuhistoria",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Voit hakea otsikoita, näyttelijöitä, kanavia ja paljon muuta...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "Tyhjennä hakuhistoria",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "Valitse yksi alla olevista suodattimista",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "Suoratoistopalvelin ei ole käytössä. Tarkista palvelimen asetukset.",
+
   "FILTERS": "Suodattimet",
   "SETTINGS": "Asetukset",
   "ACCOUNT": "Tili",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "Säädä kokoa",
   "REMOTE_COULD_NOT_BE_LOADED": "Verkkokaukosäädin ei voitu ladata",
   "REMOTE_RETRY": "Yritä uudelleen",
+
   "TORRENT_PROFILE_DEFAULT": "Oletus",
   "TORRENT_PROFILE_SOFT": "Hidas",
   "TORRENT_PROFILE_FAST": "Nopea",
   "TORRENT_PROFILE_ULTRA_FAST": "Erittäin nopea",
+
   "FAQ_001_H1": "Mikä on Stremio?",
   "FAQ_001_P1": "Stremio on mediasoitinohjelmisto, joka on suunniteltu videoviihdettä ajatellen. Stremio mahdollistaa oman elokuva-, sarja-, kanava- ja suoratoistokokoelman järjestämisen ja katsomisen.",
   "FAQ_001_P2": "Stremio kerää näyttämänsä sisällön paikalliselta levyltäsi ja lisäosajärjestelmästämme.",
   "FAQ_001_P3": "Se myös ilmoittaa sinulle, kun uusia jaksoja/videoita/elokuvia, joista olet kiinnostunut, tulee ulos, ja antaa sinulle elokuvasuosituksia.",
+
   "FAQ_02_H1": "Miten Stremio vertautuu Kodiin ja Plexiin?",
   "FAQ_02_P1": "Olemme saaneet inspiraatiota näistä kahdesta ohjelmistosta. Mutta meillä on erilaiset tavoitteet - Stremio on suunnattu erityisesti viihdevideoille ja pyrkii olemaan pääasiallinen ratkaisu tähän tarjoamalla erittäin helppokäyttöisen käyttöliittymän.",
   "FAQ_02_P2": "Stremio ei koskaan tule olemaan yhtä muokattava ja ominaisuuksiltaan rikas kuin Kodi ja Plex, mutta se on merkittävästi helpompi käyttää. ${1} Hanki se ja katso ${2} :)",
+
   "FAQ_03_H1": "Miten Stremio vertautuu Netflixiin?",
   "FAQ_03_P1": "Netflix on jälleen yksi inspiraatioistamme. Pyrimme saavuttamaan Netflixin käyttökokemuksen, plus paljon lisäominaisuuksia. Mutta ennen kaikkea annamme sinulle vapauden hallita omaa kirjastoasi ja lisätä uusia sisältölähteitä lisäosajärjestelmämme avulla.",
   "FAQ_03_P2": "Tämä tekee Stremiosta äärettömän laajennettavan, joten kun käytät Stremiota, et ole koskaan rajoitettu Netflixin lisensioimaan sisältöön. Esimerkiksi Stremion kautta voit katsoa sisältöä ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} ja jopa ${9}Netflix${10} itsestään!",
+
   "FAQ_04_H1": "Miten Stremio vertautuu Flipboardiin?",
   "FAQ_04_P1": "Emme saa sitä kysymystä kovin usein, paitsi kun puhumme aloittaville ihmisille :)",
   "FAQ_04_P2": "Stremio on suunniteltu sisällön kerääjäksi, mikä tekee siitä käytännössä Flipboardin videolle. Tämä on erittäin ilmeistä Board-osiossamme, joka antaa sinulle katalogeja ja uusien jaksojen/uusien videoiden ilmoituksia siitä, mitä seuraat, aivan kuten Flipboard.",
+
   "FAQ_05_H1": "Miten Stremio vertautuu Popcorn Timeen?",
   "FAQ_05_P1": "Stremio ja Popcorn Time ovat samanlaisia käyttöliittymän suhteen, koska videoviihdekatalogeja ei ole monia tapoja tehdä oikein :)",
   "FAQ_05_P2": "Mutta kun Popcorn Time keskittyy tiettyjen lähteiden torrentien suoratoistoon, Stremio on rajoittamaton ja on vain sisällön kerääjä - se ei ole lukittautunut tiettyyn sisältölähteeseen.",
   "FAQ_05_P3": "Lisäksi emme tarjoa mitään torrent-lisäosia oletusarvoisesti, joten Stremio ei kata Popcorn Time -käyttötapaa virallisella toiminnallisuudella.",
   "FAQ_05_P4": "Toinen huomattava ero on, että Popcorn Time on täysin avoimen lähdekoodin ohjelmisto, kun taas Stremio on ${1} osittain avoimen lähdekoodin${2}.",
+
   "FAQ_06_H1": "Lisäättekö tämän elokuvan/sarjan?",
   "FAQ_06_P1": "Ei, pahoittelut :(",
   "FAQ_06_P2": "Kuten useimmissa muissa kysymyksissä mainitaan, Stremio ei tarjoa sisältöä itse - kaikki lisätään lisäosajärjestelmän kautta. Jos sinulla on sisältöpyyntö, voit käyttää “Report” -painiketta Soittimessa, joka lähettää sähköpostin käyttämäsi lisäosan tekijälle.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "Luotteko lisäosan X:lle?",
   "FAQ_08_P1": "Se on täysin mahdollista.",
   "FAQ_08_P2": "Jos sinulla on idea lisäosalle, lähetä meille viesti osoitteeseen ${1}office@stremio.com${2}, mutta varmista, että lisäosa-ideasi ei loukkaa tekijänoikeuksia tai käyttöehtoja.",
   "FAQ_08_P3": "Tällä hetkellä seuraavat asiat ovat tienhaarassamme: lisäosat FandangoNOW:lle, Filmon.tv videon tilaukselle ja Crunchyroll:lle.",
+
   "FAQ_09_H1": "Käyttääkö Stremio BitTorrentia?",
   "FAQ_09_P1": "Kyllä, Stremio tukee BitTorrentia suoratoistoprotokollana. Voit käyttää sitä joko torrent-lisäosan kanssa, raahaamalla ja pudottamalla .torrent-tiedoston Stremioon tai liittämällä magneettilinkin Haku-palkkiin.",
   "FAQ_09_P2": "Huomaa, että ainoa virallinen BitTorrentia käyttävä lisäosa on ${1}Vodo${2}, joka tarjoaa indie-sisältöä, joka on kaikki sallittu jaettavaksi BitTorrentin kanssa.",
   "FAQ_09_P3": "Emme tue kolmannen osapuolen lisäosien käyttöä, jotka saattavat mahdollistaa tekijänoikeusrikkomuksen.",
+
   "FAQ_10_H1": "Mitä voin katsoa Stremiossa virallisilla lisäosilla?",
   "FAQ_10_P1": "Oletusarvoisesti voit katsoa Filmon.tv:n, YouTuben ja Vodon sisältöä Stremiossa sen upotetulla soittimella. Lisäksi meillä on lisäosa Twitch.tv:lle ja muutamille muille.",
   "FAQ_10_P2": "Tämä yhdistettynä tarjoaa valikoiman:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Indie-elokuvia Vodolla",
   "FAQ_10_L4": "Online-pelilähetyksiä Twitch.tv:ltä",
   "FAQ_10_P3": "Lisäksi on monia sisältölähteitä, jotka on tarjottu Guideboxin ja Netflix-lisäosien kanssa, jotka <b>eivät</b> soita kokonaan Stremiossa, vaan ohjaisivat annettuun palveluun. Esimerkiksi Guidebox-lisäosa antaisi sinulle valikoiman elokuvia, joita voit suoratoistaa Yhdysvalloissa ilmaiseksi palveluista, kuten TubiTV ja Crackle.",
+
   "FAQ_11_H1": "Stremio ei asennu, mitä minun pitäisi tehdä?",
   "FAQ_11_P1": "Jos käytät Windowsia, kokeile ${1}tätä vaihtoehtoista asennusohjelmaa${2}.",
   "FAQ_11_P2": "Jos käytät Mac OS X:ää, huomaa, että emme tue mitään vanhempaa kuin OS X Mavericks (10.9).",
   "FAQ_11_P3": "Jos käytät Linuxia, huomaa, että tuemme tällä hetkellä vain 64-bittistä (x64) Linuxia.",
   "FAQ_11_P4": "Jos et vieläkään pysty ratkaisemaan ongelmaasi, kirjoita meille ${1}Facebook-ryhmässämme${2}.",
+
   "FAQ_12_H1": "Miksi anti-virusohjelmani valittaa? Onko Stremio turvallinen?",
   "FAQ_12_P1": "Vakuutamme sinulle, että Stremio on ${1}100% puhdas${2}.",
   "FAQ_12_P2": "Anti-virusohjelmasi valittaa, koska sisällytämme mainoksia asennusohjelmaamme, jonka jotkut anti-virusohjelmat tunnistavat mainosohjelmaksi.",
   "FAQ_12_P3": "Jos olet edelleen epävarma, voit kokeilla ${1}vaihtoehtoista asennusohjelmaamme${2}.",
+
   "FAQ_13_H1": "Kuinka voin tehdä lisäosan?",
   "FAQ_13_P1": "Aluksi suosittelemme tarkistamaan ${1}lisäosajärjestelmän moduulin${2} GitHubista.",
   "FAQ_13_P2": "Sen jälkeen voit seurata ${1}Hello World -opetusohjelmaa${2}.",
   "FAQ_13_P3": "Jos sinulla ei ole ohjelmointitaitoja, julkaise idea Reddit-yhteisössä ja ota yhteyttä meihin lisäosa-ideallasi osoitteessa ${1}office@stremio.com${2}.",
+
   "FAQ_14_H1": "Kuinka lisäosat julkaistaan?",
   "FAQ_14_P1": "Kun luot lisäosan ja isännöit sen, ja laitat <b>endpoint</b>-kentän manifestiisi, joka osoittaa toimivan lisäosan osoitteen, lisäosa julkaisee itsensä automaattisesti ${1}lisäosakatalogiimme${2}.",
   "FAQ_14_P2": "Tämä tapahtuu, koska stremio-addons-moduulin palvelinosa tekee automaattisesti kutsun API:lle ilmoittaakseen lisäosasta. Kun API validoi <b>endpoint</b>-osoitteesi kelvolliseksi lisäosaksi, se alkaa näkyä katalogissa.",
+
   "FAQ_15_H1": "Voinko käyttää Stremiota selaimessani?",
   "FAQ_15_P1": "Ei tällä hetkellä, mutta tämä on tulossa!",
   "FAQ_15_P2": "Jos olet utelias näkemään Alphan, voit nähdä sen täällä: ${1}alpha4.strem.io${2}. Huomaa, että suoratoisto on poistettu käytöstä tässä alfa-versiossa. Tuemme Chromea, Firefoxia, Operaa ja Edgeä.",
+
   "FAQ_16_H1": "Heijastaminen TV:lle ei toimi / tekstitykset eivät toimi",
   "FAQ_16_P1": "TV:lle heijastaminen käyttää DLNA-teknologiaa, joka on erittäin epäjohdonmukainen eri TV-merkkien ja -mallien välillä. Tämän vuoksi meillä ei ole mahdollisuutta testata sitä jokaisessa tapauksessa, joten se on kaukana täydellisestä. Siitä huolimatta työskentelemme sen parantamiseksi jatkuvasti, mutta emme voi antaa aikatauluarviota siitä, milloin DLNA alkaa toimia kunnolla TV:si kanssa.",
   "FAQ_16_P2": "Jos et näe TV:täsi heijastusvalikossa, yritä poistaa verkkoyhteys käytöstä ja ottaa se uudelleen käyttöön (Windowsissa napsauta hiiren kakkospainikkeella Verkkoa ja käytä Käytä/Poista käytöstä), samoin kuin käynnistämällä reititin, TV ja tietokone uudelleen.",
   "FAQ_16_P3": "Jos kohtaat edelleen ongelmia, voit auttaa meitä lähettämällä TV:si merkki- ja mallitiedot osoitteeseen ${1}office@stremio.com${2}.",
   "FAQ_16_P4": "Sillä välin suosittelemme Chromecastia, jota tuemme erittäin hyvin, tai yksinkertaisesti liittämällä TV:si tietokoneeseesi HDMI-kaapelilla.",
+
   "FAQ_17_H1": "Stremio jäätyy ja/tai kaatuu, mitä voin tehdä?",
   "FAQ_17_P1": "Ensinnäkin, jos käytät Windows 7:ää AVG-antivirusohjelman kanssa: meillä on ongelma tämän yhdistelmän kanssa. Ongelma on AVG:ssä, eikä sitä ole järkevää ratkaista meidän puoleltamme. Valitettavasti poikkeukset tai anti-virusohjelman poistaminen käytöstä eivät toimi. Ainoa ratkaisu on korvata AVG jollain muulla.",
   "FAQ_17_P2": "Jos tämä ei ole ongelma, mutta käytät edelleen Windowsia, päivitä uusimpaan palvelupakettiin ja päivitä/uudelleenasenna GPU-ohjaimet, ja yritä sitten uudelleen.",
   "FAQ_17_P3": "Jos ongelmasi ei ole vielä ratkaistu tai käytät Macia tai Linuxia, kirjoita meille raportoiden ongelman tarkat tiedot ${1}Facebook-ryhmässämme${2}.",
+
   "FAQ_18_H1": "Kuinka voin tehdä lisäosan?",
   "FAQ_18_P1": "Aluksi suosittelemme tarkistamaan ${1}lisäosajärjestelmän moduulin${2} GitHubista.",
   "FAQ_18_P2": "Sen jälkeen voit seurata ${1}Hello World -opetusohjelmaa${2}.",
   "FAQ_18_P3": "Jos sinulla ei ole ohjelmointitaitoja, julkaise idea Reddit-yhteisössä ja ota yhteyttä meihin lisäosa-ideallasi osoitteessa ${1}office@stremio.com${2}.",
+
   "FAQ_19_H1": "Miksi Stremio vie levytilaa?",
   "FAQ_19_P1": "Stremiolla on <b>paikallinen välimuisti</b> videoiden tilapäiseen säilyttämiseen, joita suoratoistat.",
   "FAQ_19_P2": "Tämä on kaksi etua: ensinnäkin se mahdollistaa Stremion esipuskuroinnin videon edessä, jotta varmistetaan sujuvampi suoratoisto. Toiseksi se pitää videot paikallisessa välimuistissa, jotta voit jatkaa niiden katselua offline-tilassa.",
   "FAQ_19_P3": "Kuinka paljon Stremio pitää riippuu <b>välimuisti</b>-asetuksesta Asetukset-paneelissa. Stremio voi pitää jopa asetetun määrän (esim. 2 Gt) levyltäsi, ellei tällä hetkellä suoratoistettava video ole suurempi kuin se, jolloin sen on varattava tarpeeksi tallennustilaa, jotta voit suoratoistaa sen.",
+
   "FAQ_20_H1": "Missä välimuistikansio on?",
   "FAQ_20_P1": "Windowsissa se on stremio-cache asemassa, jonka valitsit Asetuksissa (esim. \"E:\\stremio-cache\")",
   "FAQ_20_P2": "MacOS:ssa se on \"~/Kirjasto/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "Linuxissa se on \"~/.stremio/stremio-cache\" tai \"~/stremio-cache\"",
+
   "FAQ_21_H1": "Saan \"Suoratoistopalvelinta ei löydy\" -virheen, mitä voin tehdä?",
   "FAQ_21_P1": "Jos saat tämän virheen, se tarkoittaa yhtä muutamaa asiaa:",
   "FAQ_21_P2": "1) Yrität käyttää YouTube/BitTorrent-lähteellä varustettua lisäosaa, web-versiomme kautta. Tässä tapauksessa sinun pitäisi asentaa pöytäversiomme ${1}verkkosivustoltamme${2}.",
   "FAQ_21_P3": "2) Jotain on vialla Stremio-asennuksessasi. Tässä tapauksessa kokeile uudelleenasentaa uusin pöytäversiomme ${1}verkkosivustoltamme${2}. Jos tämä ei auta, kokeile poistaa käytöstä anti-virusohjelmat ja palomuurit, käynnistä tietokone uudelleen ja yritä uudelleen. Jos tämäkään ei toimi, kirjoita meille Facebook-ryhmässämme.",
+
   "FAQ_22_H1": "En voi nähdä/käyttää useimpia lisäosia iOS:lla",
   "FAQ_22_P1": "Apple App Storen ehtojen rajoitusten vuoksi olemme rajoittaneet iOS-sovelluksen vain tiettyyn joukkoon lisäosia.",
   "FAQ_22_P2": "Mutta ole varma - tulevaisuudessa on enemmän lisäosia iOS:lle, ja voimme myös lisätä integraation, joka mahdollistaa kaikkien Stremio-lisäosien käytön yhdistämällä iOS-sovelluksen Stremio Streaming Serveriin."

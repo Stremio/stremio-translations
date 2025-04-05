@@ -4,6 +4,7 @@
   "TYPE_tv": "テレビチャンネル",
   "TYPE_channel": "チャンネル",
   "TYPE_other": "その他",
+
   "TYPE_movie_PL": "映画",
   "TYPE_series_PL": "シリーズ",
   "TYPE_tv_PL": "テレビチャンネル",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "その他",
   "TYPE_ALL": "すべて",
   "TYPE": "タイプ",
+
   "CATALOG_com_linvo_cinemeta_top": "人気",
   "CATALOG_com_linvo_cinemeta_imdbRating": "注目",
   "CATALOG_com_linvo_cinemeta_year": "新着",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "パブリックドメイン映画",
+
   "VIDEO": "ビデオ",
+
   "BACK": "戻る",
   "MORE": "もっと見る",
   "DONE": "完了",
   "COPY": "コピー",
   "SUCCESS": "成功",
   "ERROR": "エラー",
+
   "SETTINGS_CASTING_MODE_PICKER": "キャスティングモード",
   "CASTING_MODE_HLSV2": "デフォルト",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "トランスコーディングなし",
+
   "Discover": "探す",
   "Board": "ボード",
   "Library": "ライブラリ",
   "My Library": "マイライブラリ",
   "Calendar": "カレンダー",
+
   "NOTIFICATION_ONLINE": "オンラインです",
   "NOTIFICATION_OFFLINE": "現在オフラインです",
   "INTERNET_CONNECTION": "ネットワーク接続",
+
   "STORAGE_FULL_TITLE": "警告：ストレージがいっぱいです！",
   "STORAGE_FULL_TEXT": "Stremioは設定、プリファレンス、ログイン情報を保存できません。Stremioの再起動または再インストールを検討してください。",
+
   "SEARCH": "検索",
   "SEARCH_NO_RESULTS": "結果が見つかりませんでした",
   "SEARCH_EXPLANATION_CONTENT": "映画、シリーズ、YouTube、テレビチャンネルを検索",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "HTTPとMagnetのリンクを貼り付け",
   "SEARCH_OR_PASTE_LINK": "検索またはリンクを貼り付け",
   "SEARCH_SUGGESTIONS": "検索候補",
+
   "ADD_TO_LIB": "ライブラリに追加",
   "REMOVE_FROM_LIB": "ライブラリから削除",
   "ADDED_TO_LIB": "ライブラリに追加されました",
@@ -53,6 +63,7 @@
   "SHOW": "表示",
   "SHOW_MOVIE": "映画を表示",
   "WATCH_RANDOM": "ランダムに視聴",
+
   "IMDB_RATING": "IMDb評価",
   "YEAR": "年",
   "DIRECTOR": "監督",
@@ -75,11 +86,14 @@
   "FEATURED": "注目",
   "METADATA": "メタデータ",
   "CATEGORY": "カテゴリ",
+
   "LINKS_GENRES": "ジャンル",
   "LINKS_CAST": "キャスト",
   "LINKS_DIRECTORS": "監督",
+
   "SEARCH_VIDEOS": "動画を検索",
   "SEARCH_PLACEHOLDER": "検索またはURLを貼り付け",
+
   "ADDON": "アドオン",
   "ADDONS": "アドオン",
   "OFFICIAL": "公式",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "ユーザーデータをエクスポート",
   "ADDON_PULL_FAILED": "あなたのアカウントからインストールしたアドオンを同期することができませんでした",
   "REFRESH_ON_CLICK": "クリックして再試行",
+
   "STILL_IN_THEATER": "映画はまだ劇場で上映中です",
   "WATCH_IN_CINEMA": "あなたの地元の映画館で観る",
   "IN_THEATER": "劇場で",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "このチャンネルはまだスクレイプされていません。<br>数分後にもう一度お越しください。",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "利用可能になったら通知を受けるために、ライブラリに追加してください。",
   "GET_NOTIFIED_WHEN_AVAILABLE": "利用可能になったら通知を受け取ります。",
+
   "WARNING_STREAMING_SERVER": "警告: ローカルストリーミングサーバーが見つかりません。ローカルファイル、YouTube、BitTorrentからのストリーミングは利用できません。",
   "WARNING_STREAMING_SERVER_DISMISS": "閉じる",
   "WARNING_STREAMING_SERVER_LATER": "後で",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "外部プレーヤーで開く",
   "PLAYER_OPEN_IN_NPLAYER": "nPlayerで開く",
   "PLAYER_PLAY_IN": "{{device}}で再生",
+
   "PLAYER_LIVE": "ライブ",
+
   "PLAYER_NEXT_VIDEO_TITLE": "次に放送予定の",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "次へ",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "閉じる",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "今すぐ見る",
+
   "PLAYER_COPY_STREAM_SUCCESS": "ストリームのリンクがクリップボードにコピーされました",
   "PLAYER_COPY_STREAM_ERROR": "ストリームのリンクのコピーに失敗しました",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "ダウンロードリンクがクリップボードにコピーされました",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "ダウンロードリンクのコピーに失敗しました",
+
   "STREAMING_FROM": "ストリーミング元",
   "CASTING_TO": "キャスト先",
   "NETWORK_STATUS": "ネットワーク状態",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "接続済み:",
   "PEERS_WAITING": "待機中:",
   "TRANSCODING_WARNING": "警告: 動画を転送しています。",
+
   "STREAM_LOADING": "読み込み中...",
   "PLAYING_LOCAL": "ローカルファイルから再生中",
   "PLAYING_CACHE": "キャッシュから再生中",
+
   "WRONG_SUBS": "字幕が間違っていますか？",
   "ERR_SUBS_LOADING_TITLE": "字幕の読み込みエラー",
   "ERR_SUBS_LOADING": "字幕の読み込みに失敗しました: 使用中のアドオン、またはネットワーク接続に問題がある可能性があります",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "次の字幕アドオンが失敗しました",
   "ERR_CASTING_UPDATE_TITLE": "キャストデバイス情報を更新できませんでした: ストリーミングサーバーがオフラインである可能性があります",
+
   "CHOOSE_DEVICE": "視聴するデバイスを選択",
   "NO_CAST_DEVICES": "利用可能なキャスティングデバイスがありません。",
+
   "NO_SETTINGS": "利用可能な設定がありません。",
+
   "PHONE_TABLET": "電話 / タブレット",
+
   "SUBTITLES": "字幕",
   "SUBTITLES_CHANGE": "字幕を変更 ",
   "SUBTITLES_CHANGE_NONE": "申し訳ありませんが、この言語の他の字幕はありません。",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "字幕を読み込んでいます...",
   "SUBTITLES_UNAVAILABLE": "利用可能な外部字幕はありません",
   "SUBTITLES_DISABLED": "無効化",
+
   "EXTERNAL_PLAYER_DISABLED": "無効化",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "選択を許可",
   "EXTERNAL_PLAYER_HINT": "ヒント: 常に外部プレーヤーで開くことができる設定があります",
+
   "DONT_SHOW_AGAIN": "再度表示しない",
+
   "SERVICE_INSTALL": "インストール",
+
   "AUDIO": "オーディオ",
+
   "DEFAULT_LANGUAGE": "デフォルトの言語",
   "DEFAULT_SECONDARY_LANGUAGE": "デフォルトの第二言語",
+
   "SEASON": "シーズン",
   "EPISODE": "エピソード",
   "EPISODE_ABBREVIATION": "エピソード",
   "SPECIAL": "スペシャル",
+
   "SORT": "並び替え",
   "SORT_BY": "並び順",
   "FILTER": "フィルター",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "アルファベット逆順(z-a)",
   "SORT_TIMESWATCHED": "視聴回数が多い順",
   "SORT_NOTWATCHED": "視聴していません",
+
   "New for You": "あなたのための新着",
   "New Episodes": "新着エピソード",
   "New Videos": "新着ビデオ",
   "Recommendations": "おすすめ",
+
   "LIBRARY_RESUME": "再開",
   "LIBRARY_PLAY": "再生",
   "LIBRARY_DETAILS": "詳細",
   "LIBRARY_RESUME_DISMISS": "閉じる",
   "LIBRARY_CLEAR_PROGRESS": "進行状況をクリア",
   "LIBRARY_REMOVE": "削除",
+
   "LIBRARY_NOT_LOGGED_IN": "ライブラリはログインしたユーザーのみ利用可能です",
   "CALENDAR_NOT_LOGGED_IN": "カレンダーはログインしたユーザーのみ利用可能です",
   "NOT_LOGGED_IN_CLOUD": "いつでもどこでもお気に入りの映画やテレビ番組にアクセスできます",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "視聴履歴に基づいたおすすめ",
   "NOT_LOGGED_IN_NOTIFICATIONS": "二度とエピソードを見逃すことはありません",
   "NOT_LOGGED_IN_CALENDAR": "視聴カレンダーをスケジュールしましょう",
+
   "DISCOVER_FEATURED": "注目",
+
   "DISCOVER_TOP": "トップ",
   "DISCOVER_OSCAR": "オスカー受賞",
+
   "DISCOVER_WARNING_TITLE": "おっと！",
   "DISCOVER_EMPTY_CATALOG": "このアドオンは空のコンテンツを返しました。",
   "DISCOVER_ADULT_WARNING": "このコンテンツは18歳以上のみが閲覧可能です。あなたは18歳以上ですか？",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "このコンテンツはもう利用できません、アドオンをアンインストールした可能性があります。",
   "UNINSTALL_THIS_ADDON": "このアドオンをアンインストール",
   "ERR_ADDON_NOT_INSTALLED": "このアドオンはインストールされていません。今すぐインストールしますか？",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "新エピソードの通知を受け取る",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "新ビデオの通知を受け取る",
+
   "SIDEBAR_SHOW_STREAMS": "ストリームを表示",
+
   "RELAUNCH": "今すぐ再起動！",
   "UPGRADE": "新バージョンが利用可能です！最新のStremioバージョンにアップグレード",
   "RELOAD_UI": "ユーザーインターフェースをリロード",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "更新",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "匿名ユーザー",
   "DONT_HAVE_ACC": "アカウントをお持ちでないですか？",
   "HAVE_ACC": "すでにアカウントをお持ちですか？",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "検索に失敗しました",
   "EMAIL_USED": "このメールアドレスはすでに使用されています。",
   "WAITING_FB_LOGIN": "Facebookでログイン中...",
+
   "EXTERNAL_PLAYER_TITLE": "外部プレーヤーで再生",
   "EXTERNAL_REMEMBER_PLAYER": "あなたの選択を記憶しますか",
   "EXTERNAL_ALWAYS_PLAY": "はい",
   "EXTERNAL_ONLY_ONCE": "いいえ",
+
   "BEST_FIT": "最適フィット",
   "FIT_SCREEN": "画面に合わせる",
   "FILL": "塗りつぶす",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "オリジナル",
+
   "INTRO_TASTE": "あなたの好みについて教えてください",
   "INTRO_TASTE_LONG": "あなたが見たいものについて教えてください",
   "INTRO_TASTE_PICK": "{{interestsRemaining}}つの興味を選んでください",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "DIYの方法",
   "INTRO_TASTE_TECH": "テクノロジー",
   "INTRO_TASTE_CINEMA": "映画",
+
   "ADDON_NOT_SUPPORTED": "選択したアドオンはこのプラットフォームではサポートされていません。",
   "ADDON_DISCLAIMER": "サードパーティのアドオンを使用することは、常にあなたの責任と、あなたが所在する管轄区域の法律に従うことになります。",
   "ADDON_ACTIVATE": "このアドオンを有効にしますか？",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "アドオンを追加",
   "ADD_ADDON_DESCRIPTION": "外部リンクからアドオンを追加することができます。それはインストール済みのアドオンの下に表示されます。",
   "PASTE_ADDON_URL": "アドオンのURLを貼り付け",
+
   "WHATS_NEW": "新着情報",
+
   "BUTTON_CONTINUE": "続ける",
   "BUTTON_ACTIVATE": "有効化",
   "BUTTON_ACTIVATED": "有効化済み",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "すべて表示",
   "BUTTON_SEE_ALL": "すべて見る",
   "BUTTON_COLOR_TRANSPARENT": "透明",
+
   "OPEN_IN_BROWSER": "ブラウザで開く",
+
   "LIB_EMPTY": "あなたのライブラリは空っぽのようです。その有用性を見つけてみてください :)",
   "HOW_START": "ここから始める方法: ",
   "LIB_EMPTY_CAL": "あなたのカレンダーはライブラリのシリーズを表示します。",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "これらのすべてを取得するにはサインアップしてください:",
   "LIB_EMPTY_BEST": "Stremioを最大限に活用するためにサインアップしましょう",
   "LIB_EMPTY_OTHER": "カレンダーと他のクールな機能を有効にするためにサインアップしましょう",
+
   "CALENDAR_ADDED": "Stremioのカレンダーがあなたのデフォルトのデスクトップカレンダーに追加されました。",
   "CALENDAR_ADDED_MSG": "これが機能しない場合は、手動でこのURLをカレンダーアプリケーションに追加してください",
+
   "TRAKT_EXPIRED": "Traktの認証が期限切れです、設定に移動して再認証してください",
   "TRAKT_REQUIRES_LOGIN": "Traktエラー",
   "TRAKT_REQUIRES_LOGIN_MSG": "ログインが必要です",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "無効",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "ネットワーク接続の通知",
   "SETTINGS_ANALYTICS": "アナリティクスを許可",
+
   "SETTINGS_REMOTE_URL": "リモートURL",
   "SETTINGS_COPY_REMOTE_URL": "リモートURLをコピー",
   "SETTINGS_REMOTE_URL_COPIED": "リモートURLがクリップボードにコピーされました",
+
   "SETTINGS_SECTION_SUBTITLES": "字幕",
   "SETTINGS_SECTION_AUDIO": "オーディオ",
   "SETTINGS_SECTION_CONTROLS": "コントロール",
   "SETTINGS_SECTION_AUTO_PLAY": "自動再生",
   "SETTINGS_SECTION_ADVANCED": "高度",
+
   "SUBSPICKER_AUDIO": "オーディオ",
   "SUBSPICKER_SUBTITLES": "アドオン字幕",
   "SUBSPICKER_BLACK_BACKGROUND": "黒の背景色を使用",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "サイズ",
   "SUBSPICKER_DELAY": "遅延",
   "SUBSPICKER_EMBEDDED_SUBS": "埋め込み字幕",
+
   "MOBILE_PRIVACY_POLICY": "プライバシーポリシー",
   "MOBILE_CRASH_REPORTING": "クラッシュレポート",
   "MOBILE_ZOOM_TO_FILL": "画面に合わせてズーム",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "あなたのアカウントはFacebookを使用して作成されました。アカウントを削除するには、www.stremio.com/loginのユーザーポータルをご利用ください。",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "アカウントの削除を確認するためにパスワードを入力してください。",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "アカウントを削除する",
+
   "NAVIGATION_ON": "オン",
   "NAVIGATION_OFF": "オフ",
+
   "MARKETING_AGREE": "Stremioからのマーケティングコミュニケーションを受け取ることに同意します",
+
   "QUIT": "終了",
+
   "CONNECTED": "接続済み",
   "AUTHENTICATE": "認証",
   "CACHING": "キャッシング",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrentプロファイル",
   "DATA_CACHING": "データキャッシュ",
   "MAGNET_PARSING": "マグネットリンクの解析",
+
   "January": "1月",
   "February": "2月",
   "March": "3月",
@@ -609,6 +671,7 @@
   "October": "10月",
   "November": "11月",
   "December": "12月",
+
   "Monday": "月曜日",
   "Tuesday": "火曜日",
   "Wednesday": "水曜日",
@@ -616,6 +679,7 @@
   "Friday": "金曜日",
   "Saturday": "土曜日",
   "Sunday": "日曜日",
+
   "Action": "アクション",
   "Comedy": "コメディ",
   "War": "戦争",
@@ -691,6 +755,7 @@
   "Science Radio": "科学ラジオ",
   "Tech Radio": "テクノロジーラジオ",
   "Science & Technology Vod": "科学と技術のビデオオンデマンド",
+
   "new video": "新しい動画",
   "new episode": "新しいエピソード",
   "new movie": "新しい映画",
@@ -699,6 +764,7 @@
   "offer of the day": "本日のオファー",
   "news": "ニュース",
   "music video": "音楽ビデオ",
+
   "CTX_SHOW_HOTKEYS": "ホットキーを表示",
   "CTX_DISMISS_NOTIF": "通知を消去",
   "CTX_DISMISS_ALL": "すべて消す",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "貼り付け",
   "CTX_CLEAR": "クリア",
   "CTX_CLEAR_RECENT_SEARCHES": "最近の検索をクリア",
+
   "HELLO_THERE": "こんにちは",
   "HOPE_YOU_ENJOY": "Stremioを楽しんでいただけて、すでにお気に入りのアプリの一つになっていることを願っています！",
   "WHO_ARE_WE": "私たちは誰でしょうか？私たちはそれを背後に持つチームです - 過去3年間、毎日一生懸命働いて、この製品をより良くするために。",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "今すぐ友達と共有し、Stremioについて広めてください",
   "MORE_PEOPLE": "Stremioを使う人が増えれば増えるほど、それはより良くなります！",
   "SEND_A_LINK": "または、私たちのウェブサイトへのリンクを送信します",
+
   "TIP_LOCALFILES": "ヒント: ローカルのビデオファイルをStremioにドラッグ＆ドロップできます",
+
   "ADDON_MY": "自分のアドオン",
   "ADDON_COMMUNITY": "コミュニティアドオン",
   "ADDON_OFFICIAL": "公式アドオン",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "#{types}を無料で視聴",
   "ADDON_PROVIDES_SUBTITLES": "#{types}の字幕",
   "ADDON_CANTDETECT": "Stremioが実行中であることを検出できなかったため、インストールされているアドオンを検出できませんでした。",
+
   "ERR_NO_META": "この情報が見つかりません ",
   "ERR_GETTING_META": "この情報の取得中にエラーが発生しました。",
   "ERR_CANT_PARSE_MAGNET": "マグネットを解析できません",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "クリップボードから再生できません",
   "ERR_CLIPBOARD_READ": "このプラットフォームではクリップボードを読み取ることができません",
   "ERR_CLIPBOARD_GENERIC": "クリップボードに再生可能なURLが見つかりません。ビデオへのURL（例えば、マグネットリンク）をコピーしてください。",
+
   "BOARD_CONTINUE_WATCHING": "視聴を続ける",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "あなたのために特別に選ばれた映画。<br />この映画はサンプルの推奨です。",
   "BOARD_EXPLANATION_EPISODES": "お気に入りのシリーズの新エピソードはここに来ます。<br />ライブラリにフォローしているシリーズを追加してください。",
   "BOARD_EXPLANATION_VIDEOS": "お気に入りのチャンネルの新エピソードはここに来ます。<br />ライブラリにフォローしているYouTubeチャンネルを追加してください。",
+
   "WEBSITE_ENJOYED_BY": "世界中の3000万人以上のユーザーに楽しまれています",
   "WEBSITE_STREAMING_ENHANCED": "ストリーミングが強化されました",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremioは安全でモダンでシームレスなエンターテイメント体験を提供します。使いやすいインターフェースと多様なコンテンツライブラリ、4K HDRサポートを含む、ユーザーはお気に入りの映画やテレビ番組をすべてのデバイスで楽しむことができます。そして、セキュリティへのコミットメントにより、Stremioは安心して高品質なストリーミング体験を選ぶための究極の選択肢です。",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "iOS上のStremio Webのガイド",
   "WEBSITE_LINK_ART_V2": "ファンアートギャラリー",
   "WEBSITE_PARTNERS": "パートナー",
+
   "WEBSITE_SLOGAN_WATCH": "すぐに視聴",
   "WEBSITE_SLOGAN_ALL": "あなたが楽しむすべてのビデオコンテンツが一つの場所に",
   "WEBSITE_SLOGAN_NEW": "あなたが観ることができるすべて",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "シリーズ",
   "WEBSITE_TYPE_tv": "ライブTV",
   "WEBSITE_TYPE_channel": "チャンネル",
+
   "WEBSITE_STREMIO_WHAT_IS": "Stremioは、お気に入りのビデオ、映画、テレビシリーズ、テレビチャンネルを整理し、すぐに視聴するのに役立つアプリです。",
+
   "WEBSITE_FEATURES_WATCH": "HDで即時視聴",
   "WEBSITE_FEATURES_WATCH_DETAIL": "お気に入りの映画、テレビ番組、ビデオ、テレビチャンネルをクリックして再生します。",
+
   "WEBSITE_FEATURES_SUBS": "自動字幕",
   "WEBSITE_FEATURES_SUBS_DETAIL": "Stremioは自動的にあなたの言語に合わせた字幕を選択します。",
   "WEBSITE_FEATURES_SUBS_LABEL": "あなたの番です、チーフ。",
+
   "WEBSITE_FEATURES_CAST": "TV＆モバイルデバイスで再生",
   "WEBSITE_FEATURES_CAST_DETAIL": "AppleTV、Chromecast、Smart TV（DLNA/UPnP）およびモバイルデバイスにキャストします。",
+
   "WEBSITE_LIB": "すべてのデバイスで同期された個人のライブラリを楽しむ",
   "WEBSITE_LIB_COLLECT": "Stremioから収集",
   "WEBSITE_LIB_IMPORT": "Facebookからインポート",
   "WEBSITE_LIB_LOCAL": "ローカルドライブから追加",
+
   "WEBSITE_BOARD": "ボード - 通知と推奨のためのワンストップの場所",
   "WEBSITE_BOARD_RECOMMEND": "推奨されるテレビ番組",
   "WEBSITE_BOARD_TRENDING": "トレンドの映画",
   "WEBSITE_BOARD_NEW": "新しいビデオ",
   "WEBSITE_BOARD_EPISODE": "新しいエピソード",
+
   "WEBSITE_BOARD_1": "何か面白いものを観るためのものを探していますか？あなたの好みに基づいて推奨を得ます！",
   "WEBSITE_BOARD_2": "お気に入りのテレビ番組やYouTubeチャンネルの新しいエピソードが出たときに通知を受け取ります！",
+
   "WEBSITE_BOARD_YOUTUBE": "YouTubeチャンネルの新しい動画",
   "WEBSITE_BOARD_EPISODES": "フォローしているシリーズの新エピソード",
+
   "WEBSITE_ADDONS": "コンテンツアドオン",
+
   "WEBSITE_TECH_DETAIL": "私たちはテクノロジーが大好き、マッドサイエンスが大好き！\nStremioは以下のオープンソース技術を使用しています：",
   "WEBSITE_TECH_WCJS": "WebChimera.jsは、Stremioがあらゆるビデオ形式を高性能で再生できるようにします。",
   "WEBSITE_TECH_WCJS_EXTRA": "私たちはコアプロジェクトの貢献者です",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "私たちはプロジェクトの貢献者です",
   "WEBSITE_TECH_LINVODB": "あなたのデータが整理され、どこでもログインできるようにするデータベース技術。",
   "WEBSITE_TECH_LINVODB_EXTRA": "自社技術",
+
   "WEBSITE_CREATE_ADDON": "あなたのアドオンを作成する",
   "WEBSITE_CREATE_ADDON_DETAIL": "ビデオコンテンツを提供するサービスを持っていますか？ Stremioの機能を活用して、あなたのアドオンを作成するのをお手伝いします。",
   "WEBSITE_CREATE_ADDON_BENEFITS": "Stremioのアドオンを作成する利点",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "興味がありますか？ <a href='mailto:office@stremio.com'>お問い合わせ</a>していただければ幸いです。",
   "WEBSITE_P2P_CONTACT_EXTRA": "Stremioとあなたのコンテンツを統合するのをお手伝いします！",
   "WEBSITE_P2P": "時々、ゲームの名前を変える技術が登場します。私たちは、あらゆるユースケースに適応する素晴らしいパフォーマンスと多様性を提供するピアツーピア(P2P)ビデオストリーミングエンジンの構築に多くの時間と労力を投資しました。\nDRM対応のP2Pビデオオンデマンドまたはライブストリーミングについてお問い合わせください。",
+
   "WEBSITE_THOUGHTS": "私たちが共有する考え:",
   "WEBSITE_SPREAD": "Stremioについて広める:",
   "WEBSITE_CONTACT": "お問い合わせください、あなたからの声をお待ちしています！",
   "WEBSITE_OPENSOURCE": "私たちのオープンソースプロジェクトについては、こちらをご覧ください",
+
   "WEBSITE_BITCOIN": "ビットコインを寄付する：",
   "WEBSITE_FAQ": "よくある質問",
   "WEBSITE_FAQ_SHORT": "FAQ(よくある質問)",
   "WEBSITE_QUESTIONS": "質問",
   "WEBSITE_TOS": "利用規約",
   "WEBSITE_LEGAL": "法的",
+
   "WEBSITE_PAGE_ABOUT": "紹介",
   "WEBSITE_PAGE_BECOME_PARTNER": "パートナーになる",
   "WEBSITE_ALL_YOU_CAN_WATCH": "見たいものは何でも\n自由に見る。",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "無限に拡張可能なビデオカタログ；",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "メディアを整理する素晴らしい機能；",
   "WEBSITE_AS_SEEN_ON": "以下で紹介されました：",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "私たちについて",
   "WEBSITE_LINK_TECHNOLOGY": "技術",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "私たちのサービスは、どのデバイスでも、いつでも利用できるため、Stremioは唯一のビデオエンターテイメントハブになります。",
   "WEBSITE_TEAM": "チーム",
   "WEBSITE_TEAM_P": "Stremioのチームは小さくてパワフルです：私たち10人の間で、X言語でコードを書き、ソフトウェア開発、UIとUXデザイン、マーケティングと広告、ビジネスとスタートアップの専門知識を共有します。",
+
   "WEBSITE_FEATURES": "特徴",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "新しいコンテンツを簡単に発見",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "さまざまなソースからビデオを視聴する",
   "WEBSITE_FEATURES_SOURCES_P": "公式およびコミュニティのアドオンをインストールして、さまざまなプロバイダからのビデオを楽しむことができます。これらはすべて、洗練された使いやすいアプリで利用できます。",
   "WEBSITE_CREATE_AN_ADDON": "アドオンを作成する",
+
   "WEBSITE_FEATURES_SYNC": "ライブラリを異なるデバイス間で同期し、再生を再開する",
   "WEBSITE_FEATURES_SYNC_P1": "すべてのデバイスでアカウントにログインし、ライブラリ、アドオン、再生、カレンダーを同期して楽しみます。",
   "WEBSITE_FEATURES_EXTENDABLE": "アドオンによる拡張可能なビデオカタログ",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "外部プレーヤーで再生",
   "WEBSITE_FEATURES_POWER_USER_P2": "トレントファイルまたはマグネットリンクから再生",
   "WEBSITE_FEATURES_POWER_USER_P3": "Facebookの「いいね」やローカルディスクからライブラリにインポート",
+
   "WEBSITE_ADD_ONS": "アドオン",
   "WEBSITE_ADD_ONS_P1": "Stremioが提供するすべてのビデオコンテンツは、アドオンシステムを通じて供給されます。コンテンツやコンテンツプロバイダはアプリに組み込まれていません。",
   "WEBSITE_ADD_ONS_P2": "利用可能なアドオンは2つのグループに分かれています：公式とコミュニティのアドオン。",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "アドオンを作成する",
   "WEBSITE_ADDONS_CREATE_P1": "ご希望であれば、自分自身のアドオンを開発することができます。これにより、自分自身とコミュニティに新しいビデオコンテンツへのアクセスを提供し、世界中の何百万人もの新しいターゲットオーディエンスに到達することができます。",
   "WEBSITE_ADDONS_START_CREATE": "始めるには、Stremio Addon SDKページを訪れてください：",
+
   "WEBSITE_DOWNLOADS": "ダウンロード",
   "WEBSITE_DOWNLOADS_P1": "最適なパフォーマンスを得るために、Stremioアプリの最新の利用可能なバージョンを使用することをお勧めします。ただし、何らかの理由で古いバージョンを使用したい場合は、ここからダウンロードできます。",
   "WEBSITE_DOWNLOADS_P1_SHORT": "最適なパフォーマンスを得るために、Stremioアプリの最新の利用可能なバージョンを使用することをお勧めします。",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "XboxデバイスのApp StoreでStremioを検索",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "RPIのStremio OS用ガイド",
   "WEBSITE_LINK_GUIDE": "ガイド",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Stremio Serviceをダウンロード",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio ServiceはStremio Webのコンパニオンアプリです。Stremio Serviceの最新の利用可能なバージョンを使用することをお勧めします。",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Windows用Stremio Service",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "Xbox用Stremioをリリースしました",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "Raspberry Pi用Stremioをリリースしました",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "Stremioプラットフォームはオープンソースで、現在供給されていないコンテンツのためのアドオンを簡単に作成することができます。",
   "WEBSITE_CONTRIBUTE_WHY": "なぜアドオンを作成するべきなのか？",
   "WEBSITE_CONTRIBUTE_WHY_P1": "ビデオコンテンツの新しい視聴者を獲得する",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Stremioのアプリをさまざまな言語で楽しみたい場合は、ボランティアの翻訳者のコミュニティに参加できます。彼らは私たちがStremioを多くの異なる言語に追加するのを助けてくれます。",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "始めるのが待ちきれませんか？",
   "WEBSITE_TRANSALTE_STREMIO": "Stremioを翻訳する",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "公式コミュニティ",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "成長するStremioコミュニティの一部になりましょう。ソーシャルメディアで私たちをフォローし、こんにちはと言うのをためらわないでください - 私たちはファンからの声を聞くのが大好きです！",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "壁紙",
   "WEBSITE_COMMUNITY_ART": "コミュニティアートギャラリー",
   "WEBSITE_LINK_ART": "コミュニティアートギャラリー",
+
   "WEBSITE_CONTACT_US": "お問い合わせ",
   "WEBSITE_CONTACT_US_P1": "ご質問、コメント、提案がありましたら、以下のお問い合わせフォームからお気軽にお問い合わせください。",
   "WEBSITE_CONTACT_US_P2": "私たちはブルガリアに位置しているため、タイムゾーンの違いにより、お問い合わせの対応に遅れが生じることがあります。",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "あなたのEメール",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "メッセージ",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "送信",
+
   "WEBSITE_CONTACT_US_Q_1": "インストール方法は？",
   "WEBSITE_CONTACT_US_Q_2": "アンインストール方法は？",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) ラザニアの作り方は？",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "テクノロジー",
   "WEBSITE_TECHNOLOGY_P1": "私たちはテクノロジーと狂気の科学が大好きです。 </br> これがStremioを動かしているものです（すべてオープンソースです）。",
   "WEBSITE_TECHNOLOGY_P_QT": "最高のクロスプラットフォームソフトウェア開発。",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "または",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... コミュニティアドオンの作成にコーディングスキルを活用することができます。",
   "WEBSITE_TRANSLATE_STREMIO": "Stremioを翻訳する",
+
   "WEBSITE_404_OH_NO": "おっと！探しているページはここにはありません...",
   "WEBSITE_GO_HOME": "ホームに戻る",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "その他のダウンロード",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "アドオンコンペティション",
   "WEBSITE_LINK_ART_CONTEST": "アートコンテスト",
   "WEBSITE_MY_ACCOUNT": "マイアカウント",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "Stremioとは何ですか？",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "Stremioは、あなたが何でも見たいと思う自由を与えてくれる現代的なメディアセンターです。",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "それはどのように動作しますか？",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "Stremioをデバイスにインストールし、アカウントを作成すると、あなたがしなければならないのは、アドオンカタログを訪れて任意のアドオンをインストールすることだけで、準備完了です！",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "その後、DiscoverセクションやBoardセクションに移動してコンテンツの探索を開始できます。",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "ここで何を見ることができますか？",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "たくさん：映画、テレビ番組、ウェブチャンネル、スポーツ、テレビチャンネル、ポッドキャストを聴くなど。私たちのアドオンシステムのおかげで、さまざまなコンテンツにアクセスできます。",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "Stremioはオープンソースですか？",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "はい、次のリンクをご覧ください：${1}デスクトップアプリ${2} および ${3}GitHubの組織${4}。",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "Stremioは安全ですか？",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "はい：オープンソースソフトウェアであるため、コードは公開されており、自分でレビューすることができます。",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "Stremioのアドオンシステムも、ユーザーのセキュリティを考慮して作成されました。アドオンはローカルでコードを実行しないため、デバイスにリスクをもたらすことはありません。",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "プライバシーはどうですか？",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "私たちはユーザーのプライバシーを尊重し、アカウントの作成と同期に必要な最小限の個人データしか収集しません。",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "また、サインアップ時に${1}ゲストモード${2}があり、これにはデータが一切必要ありません：このモードでは、バックエンドに対する呼び出しが行われません。ただし、デバイス間でライブラリを同期するなどの便利な機能が利用できなくなります。",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "私のテレビにキャストすることはできますか？",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "はい、Chromecastをサポートしており、デスクトップアプリとモバイルアプリ（Android）の両方からキャストすることができます。",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Stremioにはいくつのアドオンがありますか？",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "2019年末現在、50以上あります - 詳細はアドオンカタログをご覧ください。",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Stremioはアドオンカタログの範囲を超えて拡張できますか？",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "はい、次のものをチェックしてみてください：${1}PimpMyStremio${2}、${3}Redditのコミュニティ${4}、${5}Stremio Downloader${6}など。",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Stremioはどのデバイスをサポートしていますか？",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "Windows、Mac、Linux用のデスクトップアプリがあります。モバイルでは、AndroidとiOSをサポートしていますが、iOSは機能が限定されていることに注意してください（ほとんどのアドオンをサポートしていません）。",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "NVIDIA ShieldやAmazon Fire Stickなど、Stremioを実行できるAndroidベースのデバイスがたくさんありますが、公式にはサポートしていません。",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "Windows、Mac、Linux用のデスクトップアプリがあります。また、Android MobileとAndroid TV専用のアプリもあります。iOSとiPadOSでは、Stremio Webの使用をおすすめしますが、機能は限定されています。",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "特定のコンテンツをStremioに追加できますか？",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "申し訳ありませんが、私たちは自身でコンテンツを提供していませんが、Stremioにインストールしたアドオンが多ければ多いほど、見つけることができるコンテンツが増えます。",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "Stremioはマグネットリンクを再生できますか？",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "はい、通常のHTTPリンクとトレントファイル（ドラッグアンドドロップ）も再生できます。",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "ビデオをダウンロードしてオフラインで視聴することはできますか？",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "オフライン利用可能は今後の機能ですが、設定パネルからStremioにデバイス上にキャッシュを許可すると、後で接続なしでビデオを視聴することができます。",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "何も動作しない、助けて！",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "アドオンをインストールしたことは確認しましたか？もしインストールしたなら、私たちの${1}ヘルプセンター${2}をチェックしてみてください。",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Stremioは開発業務をどのように維持していますか？",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "私たちは時折、邪魔にならない広告を表示しますが、寄付モデルへの移行を検討しています。",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "他の質問については、私たちの${1}ヘルプセンター${2}にアクセスしてください。",
+
   "HELP_LEARN_MORE": "私たちがあなたについてもっと学ぶのを助けてください。",
   "LIFESTYLE": "ライフスタイル",
   "SPORTS": "スポーツ",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "最後の検索",
   "CLEAR_HISTORY": "履歴をクリア",
   "CHOOSE_SOME": "これらの中から選んでください：",
+
   "NO_WEB_REMOTE": "Webリモートを読み込むことができませんでした",
   "STREMIO_OFFLINE": "Stremioはオフラインです",
   "STREMIO_EXPENSIVE_CONNECTION": "モバイルデータ接続を使用していることを検出しました。続行しますか？",
   "USE_DATA": "データを使用",
   "WARNING": "警告",
+
   "MORE_INFO": "詳細情報...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "読み込み中...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "言語に戻る",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "ロード中に統計情報を表示",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremioのプライバシーポリシーを読むには、以下を参照してください:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "Stremioの利用規約を読むには、以下を参照してください:",
+
   "STREMIO_TV_NAV_SEARCH": "検索",
   "STREMIO_TV_NAV_HOME": "ホーム",
   "STREMIO_TV_NAV_DISCOVER": "発見",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "生放送",
   "STREMIO_TV_NAV_SETTINGS": "設定",
   "STREMIO_TV_NAV_ADDONS": "アドオン",
+
   "STREMIO_TV_LOGIN_TITLE": "アカウントを連携",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "有効期限",
   "STREMIO_TV_LOGIN_STEP_ONE": "上のQRコードをスキャンするか、次のURLにアクセス",
   "STREMIO_TV_LOGIN_STEP_TWO": "Stremioアカウントにログイン",
   "STREMIO_TV_LOGIN_NEW_LINK": "新しいリンクをリクエスト",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "ログインコードが更新されました",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "何か入力してください",
   "STREMIO_TV_SEARCH_NO_ADDONS": "カタログのためのアドオンが要求されませんでした！",
   "STREMIO_TV_SEARCH_BUTTON": "検索",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "検索履歴",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "タイトル、俳優、チャンネルなどを検索できます...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "検索履歴をクリア",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "以下のフィルターから選択してください",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "ストリーミングサーバーがオフラインです。サーバー設定を確認してください。",
+
   "FILTERS": "フィルター",
   "SETTINGS": "設定",
   "ACCOUNT": "アカウント",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "サイズを調整",
   "REMOTE_COULD_NOT_BE_LOADED": "Webリモートを読み込めませんでした",
   "REMOTE_RETRY": "再試行",
+
   "TORRENT_PROFILE_DEFAULT": "デフォルト",
   "TORRENT_PROFILE_SOFT": "ソフト",
   "TORRENT_PROFILE_FAST": "高速",
   "TORRENT_PROFILE_ULTRA_FAST": "超高速",
+
   "FAQ_001_H1": "Stremioとは何ですか？",
   "FAQ_001_P1": "Stremioは、ビデオエンターテイメントを使いやすくするために設計されたメディアセンターソフトウェアです。Stremioを使用すると、映画、シリーズ、チャンネル、ライブTVのコレクションを整理して視聴することができます。",
   "FAQ_001_P2": "Stremioは、表示するコンテンツをあなたのローカルディスクとアドオンシステムから収集します。",
   "FAQ_001_P3": "また、新しいエピソード/ビデオ/映画が出たときに通知を送り、映画の推薦を提供します。",
+
   "FAQ_02_H1": "StremioはKodiとPlexとどう違いますか？",
   "FAQ_02_P1": "私たちはそれらのソフトウェアに触発されました。しかし、私たちは異なる目標を持っています - Stremioはエンターテイメントビデオに特化しており、非常に使いやすいことで主流の解決策になることを目指しています。",
   "FAQ_02_P2": "StremioはKodiやPlexほどカスタマイズ可能で機能豊富ではありませんが、使いやすさでは大幅に優れています。ただ${1}取得して見て${2} :)",
+
   "FAQ_03_H1": "StremioはNetflixとどう違いますか？",
   "FAQ_03_P1": "再び、Netflixは私たちのインスピレーションの一つです。私たちはNetflixのユーザーエクスペリエンスを達成することを目指しており、さらに多くの付加価値を提供しています。しかし、最も重要なのは、私たちがあなたに自分のライブラリを管理し、アドオンシステムで新しいコンテンツソースを追加する自由を与えていることです。",
   "FAQ_03_P2": "それにより、Stremioは無限に拡張可能になり、Stremioを使用するときにはNetflixがライセンスを決定するコンテンツに制限されることはありません。例えば、Stremioを通じて、${1}Filmon.tv${2}、${3}Twitch.tv${4}、${5}YouTube${6}、${7}Vodo${8}、さらには${9}Netflix${10}自体のコンテンツを視聴することができます！",
+
   "FAQ_04_H1": "StremioはFlipboardとどう違いますか？",
   "FAQ_04_P1": "私たちはその質問をあまり受けません、スタートアップの人々と話しているときを除いて：)",
   "FAQ_04_P2": "Stremioは、設計上、コンテンツの集約者であり、それは基本的にビデオ用のFlipboardとなります。これは、私たちのボードセクションで非常に明らかで、あなたがフォローしているものに対してカタログと新しいエピソード/新しいビデオの通知を提供します、まさにFlipboardのように。",
+
   "FAQ_05_H1": "StremioはPopcorn Timeとどう違いますか？",
   "FAQ_05_P1": "StremioとPopcorn Timeは、ユーザーインターフェースが似ています。なぜなら、ビデオエンターテイメントのカタログを正しく行う方法はそれほど多くないからです :)",
   "FAQ_05_P2": "しかし、Popcorn Timeが特定のソースからのトレントのストリーミングに焦点を当てているのに対し、Stremioは制限がなく、単なるコンテンツの集約者であり、特定のコンテンツソースにロックされていません。",
   "FAQ_05_P3": "さらに、私たちはデフォルトでトレントアドオンを提供していないため、Stremioは公式の機能でPopcorn Timeのユースケースをカバーしていません。",
   "FAQ_05_P4": "もう一つの注目すべき違いは、Popcorn Timeが完全にオープンソースであるのに対し、Stremioは${1}部分的にオープンソース${2}であることです。",
+
   "FAQ_06_H1": "この映画/シリーズを追加しますか？",
   "FAQ_06_P1": "いいえ、ごめんなさい :(",
   "FAQ_06_P2": "他のほとんどの質問で言及されているように、Stremioは自体は何もコンテンツを提供していません - すべてはアドオンシステムを通じて追加されます。コンテンツのリクエストがある場合は、プレーヤーの「報告」ボタンを使用して、現在使用しているアドオンの作者にメールを送ることができます。",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "Xのためのアドオンを作成しますか？",
   "FAQ_08_P1": "それは十分に可能です。",
   "FAQ_08_P2": "アドオンのアイデアがある場合は、${1}office@stremio.com${2}までご連絡ください。ただし、あなたのアドオンのアイデアが著作権や利用規約を侵害しないことを確認してください。",
   "FAQ_08_P3": "現時点では、私たちのロードマップ上の次のものは、FandangoNOW、Filmon.tvのビデオ・オン・デマンド、Crunchyrollのアドオンです。",
+
   "FAQ_09_H1": "StremioはBitTorrentを使用しますか？",
   "FAQ_09_P1": "はい、StremioはストリーミングプロトコルとしてBitTorrentをサポートしています。それは、トレントアドオンを使用するか、.torrentファイルをStremioにドラッグアンドドロップするか、またはマグネットリンクを検索バーに貼り付けることで使用できます。",
   "FAQ_09_P2": "唯一の公式アドオンでBitTorrentを使用しているのは${1}Vodo${2}で、すべてのインディーコンテンツがBitTorrentで配布されることを許可されていることに注意してください。",
   "FAQ_09_P3": "私たちは、著作権侵害の可能性のある第三者のアドオンの使用をサポートしていません。",
+
   "FAQ_10_H1": "公式のアドオンを使用してStremioで何を見ることができますか？",
   "FAQ_10_P1": "デフォルトでは、Stremio自体でFilmon.tv、YouTube、Vodoのコンテンツを埋め込みプレーヤーで見ることができます。さらに、Twitch.tv用のアドオンといくつかのアドオンがあります。",
   "FAQ_10_P2": "これを組み合わせると、以下の選択肢があります。",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Vodoのインディームービー",
   "FAQ_10_L4": "Twitch.tvのオンラインゲーム放送",
   "FAQ_10_P3": "さらに、GuideboxとNetflixのアドオンで提供される多くのコンテンツソースがありますが、それらは<b>完全に</b>Stremio内で再生されるわけではなく、指定されたサービスにリダイレクトされます。例えば、Guideboxのアドオンは、TubiTVやCrackleなどのサービスから無料でストリームできる映画の選択肢を提供します。",
+
   "FAQ_11_H1": "Stremioがインストールできない場合、どうすればいいですか？",
   "FAQ_11_P1": "Windowsを使用している場合は、${1}この代替インストーラ${2}を試してみてください。",
   "FAQ_11_P2": "Mac OS Xを使用している場合は、OS X Mavericks（10.9）より古いものはサポートしていないことにご注意ください。",
   "FAQ_11_P3": "Linuxを使用している場合は、現時点では64ビット（x64）Linuxのみをサポートしていることに注意してください。",
   "FAQ_11_P4": "それでも問題が解決しない場合は、${1}Facebookグループ${2}で私たちに書いてください。",
+
   "FAQ_12_H1": "なぜ私のアンチウイルスが文句を言うのですか？ Stremioは安全ですか？",
   "FAQ_12_P1": "私たちはStremioが${1}100％クリーン${2}であることを保証します。",
   "FAQ_12_P2": "あなたのアンチウイルスが文句を言っているのは、私たちがインストーラに広告を含めているからで、一部のアンチウイルスプログラムはそれをアドウェアと認識します。",
   "FAQ_12_P3": "まだ不安な場合は、${1}代替インストーラ${2}を試してみてください。",
+
   "FAQ_13_H1": "どのようにしてアドオンを作成できますか？",
   "FAQ_13_P1": "初めての方は、GitHubの${1}アドオンシステムモジュール${2}をチェックすることをお勧めします。",
   "FAQ_13_P2": "その後、${1}Hello Worldチュートリアル${2}に従って進めることができます。",
   "FAQ_13_P3": "プログラミングのスキルがない場合は、あなたのアイデアを${1}Redditコミュニティ${2}に投稿し、アドオンのアイデアを${3}office@stremio.com${4}で私たちに連絡してください。",
+
   "FAQ_14_H1": "アドオンはどのように公開されますか？",
   "FAQ_14_P1": "アドオンを作成してホストし、マニフェストに<b>エンドポイント</b>フィールドを設定し、それが動作するアドオンアドレスを指すと、アドオンは自動的に私たちの${1}アドオンカタログ${2}に自身を公開します。",
   "FAQ_14_P2": "これは、stremio-addonsモジュールのサーバーパートが自動的にAPIにアドオンを発表するための呼び出しを行うためです。APIがあなたの<b>エンドポイント</b>を有効なアドオンとして検証すると、カタログに表示され始めます。",
+
   "FAQ_15_H1": "私はブラウザでStremioを実行できますか？",
   "FAQ_15_P1": "現時点ではできませんが、これから実現する予定です！",
   "FAQ_15_P2": "アルファ版を見てみたい場合は、こちらで見ることができます：${1}alpha4.strem.io${2}。ただし、このアルファ版ではストリーミングは無効になっています。Chrome、Firefox、Opera、Edgeをサポートしています。",
+
   "FAQ_16_H1": "テレビへのキャスティングが機能しない / 字幕が機能しない",
   "FAQ_16_P1": "テレビへのキャスティングはDLNA技術を使用しており、これはテレビのブランドやモデルによって非常に一貫性がありません。そのため、すべてのケースでテストする能力はありませんので、完全ではありません。それにもかかわらず、私たちは常に改善に努めていますが、DLNAがあなたのテレビで正常に動作するようになる時期を見積もることはできません。",
   "FAQ_16_P2": "キャスティングメニューでテレビが表示されない場合は、ネットワーク接続を無効にして再度有効にする（Windowsでは、ネットワークを右クリックして有効/無効を選択）、ルーター、テレビ、PCを再起動するなどを試してみてください。",
   "FAQ_16_P3": "それでも問題が解決しない場合は、テレビのブランドとモデル情報を${1}office@stremio.com${2}まで送信して私たちを助けていただけます。",
   "FAQ_16_P4": "その間、私たちはChromecastを推奨します。これは私たちが非常によくサポートしています。または、単純にテレビをHDMIケーブルでPCに接続することもできます。",
+
   "FAQ_17_H1": "Stremioがフリーズしたりクラッシュしたりする場合、何をすればいいですか？",
   "FAQ_17_P1": "まず最初に、Windows 7とAVGアンチウイルスを使用している場合：その組み合わせに問題があります。問題はAVG自体にあり、私たちの側でそれを解決する合理的な方法はありません。残念ながら、例外を設定したりアンチウイルスを無効にしたりしても効果はありません。唯一の解決策は、AVGを他のものに置き換えることです。",
   "FAQ_17_P2": "それが問題でない場合でも、まだWindowsを使用している場合は、最新のサービスパックに更新し、GPUドライバーを更新/再インストールしてから再試行してください。",
   "FAQ_17_P3": "問題がまだ解決しない場合、またはMacまたはLinuxを使用している場合は、問題の詳細を報告して${1}Facebookグループ${2}に書いてください。",
+
   "FAQ_18_H1": "どのようにしてアドオンを作成できますか？",
   "FAQ_18_P1": "初めての方は、GitHubの${1}アドオンシステムモジュール${2}をチェックすることをお勧めします。",
   "FAQ_18_P2": "その後、${1}Hello Worldチュートリアル${2}に従って進めることができます。",
   "FAQ_18_P3": "プログラミングのスキルがない場合は、あなたのアイデアを${1}Redditコミュニティ${2}に投稿し、アドオンのアイデアを${3}office@stremio.com${4}で私たちに連絡してください。",
+
   "FAQ_19_H1": "Stremioがストレージを占有しているのはなぜですか？",
   "FAQ_19_P1": "Stremioには<b>ローカルキャッシュ</b>があり、ストリームした動画ファイルを一時的に保持します。",
   "FAQ_19_P2": "これには2つの利点があります。最初に、Stremioが動画を事前にバッファリングして、スムーズなストリーミングを保証することができます。また、動画をローカルキャッシュに保持してオフラインで視聴を続けることができます。",
   "FAQ_19_P3": "Stremioがどれだけ保持するかは、設定パネルの<b>キャッシュ</b>設定によります。Stremioは、ディスク上に設定された量(例えば2GB)まで保持することができます。ただし、現在ストリーミングしているビデオがそれより大きい場合は、ストリーミングしている間それを保持するために十分なストレージを確保する必要があります。",
+
   "FAQ_20_H1": "キャッシュフォルダはどこにありますか？",
   "FAQ_20_P1": "Windowsでは、設定で選択したドライブのstremio-cache(例: ｢E:\\stremio-cache｣)にあります",
   "FAQ_20_P2": "MacOSでは、「~/Library/Application Support/Stremio/stremio-cache」にあります",
   "FAQ_20_P3": "Linuxでは、「~/.stremio/stremio-cache」または「~/stremio-cache」にあります",
+
   "FAQ_21_H1": "「ストリーミングサーバーが見つかりません」というエラーが表示されます。どうすればいいですか？",
   "FAQ_21_P1": "このエラーが発生した場合は、次のいずれかを意味します:",
   "FAQ_21_P2": "1) YouTube/BitTorrentソースをバックアップに使用したアドオンを、私たちの${1}ウェブ版${2}を通じて使用しようとしています。この場合、${3}私たちのウェブサイト${4}からデスクトップ版をインストールする必要があります。",
   "FAQ_21_P3": "2) Stremioのインストールに何か問題があります。この場合、${1}ウェブサイト${2}から最新のデスクトップバージョンを再インストールしてみてください。それでも解決しない場合は、アンチウイルスプログラムとファイアウォールを無効にし、PCを再起動して再試行してみてください。それでもうまくいかない場合は、${3}私たちのFacebookグループ${4}に書き込んでください。",
+
   "FAQ_22_H1": "iOSではほとんどのアドオンを表示/使用できません",
   "FAQ_22_P1": "AppleのApp Storeの利用規約に制限があるため、iOS版Stremioは特定のアドオンのみに制限されています。",
   "FAQ_22_P2": "しかし、ご安心ください - 将来的にはiOS用のアドオンが増え、iOSアプリをStremioストリーミングサーバーに接続することで、すべてのStremioアドオンを使用できるようになるかもしれません。"

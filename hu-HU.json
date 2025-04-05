@@ -4,6 +4,7 @@
   "TYPE_tv": "TV csatorna",
   "TYPE_channel": "Csatorna",
   "TYPE_other": "Egyéb",
+
   "TYPE_movie_PL": "Filmek",
   "TYPE_series_PL": "Sorozatok",
   "TYPE_tv_PL": "TV csatornák",
@@ -11,31 +12,39 @@
   "TYPE_other_PL": "Egyebek",
   "TYPE_ALL": "Minden",
   "TYPE": "Típus",
+
   "CATALOG_com_linvo_cinemeta_top": "Népszerű",
   "CATALOG_com_linvo_cinemeta_imdbRating": "Kiemelt",
   "CATALOG_com_linvo_cinemeta_year": "Új",
   "CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Nyilvánosan Elérhető Filmek",
+
   "VIDEO": "Videó",
+
   "BACK": "Vissza",
   "MORE": "Több",
   "DONE": "Kész",
   "COPY": "Másolás",
   "SUCCESS": "Siker",
   "ERROR": "Hiba",
+
   "SETTINGS_CASTING_MODE_PICKER": "Vezeték nélküli kivetítés mód",
   "CASTING_MODE_HLSV2": "Alapértelmezett",
   "CASTING_MODE_VLC": "libVLC",
   "CASTING_MODE_NO_TRANSCODING": "Nincs átkódolás",
+
   "Discover": "Felfedezés",
   "Board": "Ajánlatok",
   "Library": "Könyvtár",
   "My Library": "Könyvtáram",
   "Calendar": "Naptár",
+
   "NOTIFICATION_ONLINE": "Jelenleg online vagy",
   "NOTIFICATION_OFFLINE": "Jelenleg offline vagy",
   "INTERNET_CONNECTION": "Hálózat csatlakoztatva",
+
   "STORAGE_FULL_TITLE": "Figyelem: a tárhelye megtelt!",
   "STORAGE_FULL_TEXT": "A Stremio nem tudja menteni az Ön beállításait, preferenciáit vagy bejelentkezési adatait. Próbálja meg újraindítani vagy újratelepíteni a Stremio-t.",
+
   "SEARCH": "Keresés",
   "SEARCH_NO_RESULTS": "Nincs találat",
   "SEARCH_EXPLANATION_CONTENT": "Keressen filmeket, sorozatokat, YouTube- és TV-csatornákat",
@@ -43,6 +52,7 @@
   "SEARCH_PASTE_LINKS": "Másoljon be HTTP vagy Mágnes linket",
   "SEARCH_OR_PASTE_LINK": "Keressen vagy illesszen be linket",
   "SEARCH_SUGGESTIONS": "Search Suggestions",
+
   "ADD_TO_LIB": "Hozzáadás a könyvtárhoz",
   "REMOVE_FROM_LIB": "Eltávolítás a könyvtárból",
   "ADDED_TO_LIB": "Hozzáadva a könyvtárhoz",
@@ -53,6 +63,7 @@
   "SHOW": "Tovább",
   "SHOW_MOVIE": "Film megtekintése",
   "WATCH_RANDOM": "Random tartalom megtekintése",
+
   "IMDB_RATING": "IMDb értékelés",
   "YEAR": "Év",
   "DIRECTOR": "Rendező",
@@ -75,11 +86,14 @@
   "FEATURED": "Kiemelt",
   "METADATA": "Metaadat",
   "CATEGORY": "kategória",
+
   "LINKS_GENRES": "Műfajok",
   "LINKS_CAST": "Szereplők",
   "LINKS_DIRECTORS": "Rendezők",
+
   "SEARCH_VIDEOS": "Videó keresése",
   "SEARCH_PLACEHOLDER": "Keresés vagy URL bemásolása",
+
   "ADDON": "bővítmény",
   "ADDONS": "Bővítmények",
   "OFFICIAL": "hivatalos",
@@ -113,6 +127,7 @@
   "SETTINGS_DATA_EXPORT": "Felhasználói adatok exportálása",
   "ADDON_PULL_FAILED": "A bővítmények szinkronizálása a fiókodból sikertelen volt",
   "REFRESH_ON_CLICK": "Kattintson az újrapróbálkozáshoz",
+
   "STILL_IN_THEATER": "A filmet még moziban játsszák",
   "WATCH_IN_CINEMA": "Elérhető a közeli moziban",
   "IN_THEATER": "A moziban",
@@ -124,6 +139,7 @@
   "CHANNEL_NOT_SCRAPED": "Ez a csatorna még nincs tárolva.<br>Kérem, térj vissza pár perc múlva.",
   "ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Add hozzá a könyvtáradhoz és értesítünk, amikor elérhetővé válik.",
   "GET_NOTIFIED_WHEN_AVAILABLE": "Értesítünk, amikor elérhetővé válik.",
+
   "WARNING_STREAMING_SERVER": "Figyelmeztetés: a helyi streaming szerver nem található. Helyi fájlok, YouTube és BitTorrent streamelése nem elérhető.",
   "WARNING_STREAMING_SERVER_DISMISS": "Elvetés",
   "WARNING_STREAMING_SERVER_LATER": "Később",
@@ -160,15 +176,19 @@
   "PLAYER_OPEN_IN_EXTERNAL": "Megnyitás külső lejátszóban",
   "PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
   "PLAYER_PLAY_IN": "Lejátszás ezzel: {{device}}",
+
   "PLAYER_LIVE": "Élő",
+
   "PLAYER_NEXT_VIDEO_TITLE": "Következik",
   "PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
   "PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Elvetés",
   "PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Nézd meg most",
+
   "PLAYER_COPY_STREAM_SUCCESS": "Az stream linkje a vágólapra másolva",
   "PLAYER_COPY_STREAM_ERROR": "Az stream linkjének másolása sikertelen",
   "PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
   "PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+
   "STREAMING_FROM": "lejtászás innen",
   "CASTING_TO": "Kivetítve erre",
   "NETWORK_STATUS": "Hálózati státusz",
@@ -179,18 +199,24 @@
   "PEERS_CONNECTED": "Kapcsolódva:",
   "PEERS_WAITING": "Várakoznak:",
   "TRANSCODING_WARNING": "Figyelmeztetés: videó átkódolása.",
+
   "STREAM_LOADING": "betöltés...",
   "PLAYING_LOCAL": "lejátszás helyi fájlból",
   "PLAYING_CACHE": "lejátszás gyorsítótárból",
+
   "WRONG_SUBS": "Hibás felirat?",
   "ERR_SUBS_LOADING_TITLE": "Hiba a feliratok betöltése közben",
   "ERR_SUBS_LOADING": "Nem sikerült betölteni a feliratokat: a problémát az Ön által használt bővítmény vagy a hálózati kapcsolata okozhatja",
   "WARN_FOLLOWING_SUB_ADDONS_FAILED": "A következő felirat-bővítmények hibára futottak",
   "ERR_CASTING_UPDATE_TITLE": "Nem sikerült frissíteni az kivetítő eszköz adatait: lehet, hogy a streaming szerver offline állapotban van",
+
   "CHOOSE_DEVICE": "Válassz egy készüléket a lejátszáshoz",
   "NO_CAST_DEVICES": "Nincsenek kivetítésre alkalmas eszközök.",
+
   "NO_SETTINGS": "Nincsenek elérhető beállítások.",
+
   "PHONE_TABLET": "Telefon / Táblagép",
+
   "SUBTITLES": "Feliratok",
   "SUBTITLES_CHANGE": "Másik felirat választása a következő nyelvhez: ",
   "SUBTITLES_CHANGE_NONE": "Sajnáljuk, nincs másik elérhető felirat ehhez a nyelvhez.",
@@ -203,18 +229,25 @@
   "SUBTITLES_LOADING": "Feliratok betöltése...",
   "SUBTITLES_UNAVAILABLE": "Nem érhető el külső felirat",
   "SUBTITLES_DISABLED": "Tiltva",
+
   "EXTERNAL_PLAYER_DISABLED": "Tiltva",
   "EXTERNAL_PLAYER_ALLOW_CHOOSING": "Választás engedélyezése",
   "EXTERNAL_PLAYER_HINT": "Tipp: Van egy beállítás, amely lehetővé teszi a mindig külső lejátszóval való megnyitást",
+
   "DONT_SHOW_AGAIN": "Ne mutasd újra",
+
   "SERVICE_INSTALL": "Telepítés",
+
   "AUDIO": "Hang",
+
   "DEFAULT_LANGUAGE": "Alapértelmezett nyelv",
   "DEFAULT_SECONDARY_LANGUAGE": "Alapértelmezett másodlagos nyelv",
+
   "SEASON": "Évad",
   "EPISODE": "Epizód",
   "EPISODE_ABBREVIATION": "EP",
   "SPECIAL": "Különleges",
+
   "SORT": "rendez",
   "SORT_BY": "Rendezés",
   "FILTER": "szűrő",
@@ -234,25 +267,31 @@
   "SORT_NAMEREVERSE": "z-a",
   "SORT_TIMESWATCHED": "Nézett idők szerint",
   "SORT_NOTWATCHED": "not watched",
+
   "New for You": "Újdonságok Neked",
   "New Episodes": "Új Epizódok",
   "New Videos": "Új Videók",
   "Recommendations": "Ajánlások",
+
   "LIBRARY_RESUME": "Folytatás",
   "LIBRARY_PLAY": "Lejátszás",
   "LIBRARY_DETAILS": "Részletek",
   "LIBRARY_RESUME_DISMISS": "Elvetés",
   "LIBRARY_CLEAR_PROGRESS": "Eddigiek törlése",
   "LIBRARY_REMOVE": "Eltávolítás",
+
   "LIBRARY_NOT_LOGGED_IN": "A könyvtár csak bejelentkezett felhasználók számára érhető el",
   "CALENDAR_NOT_LOGGED_IN": "A naptár csak bejelentkezett felhasználók számára érhető el",
   "NOT_LOGGED_IN_CLOUD": "Bármikor, bárhol elérheti kedvenc filmjeit és TV-műsorait",
   "NOT_LOGGED_IN_RECOMMENDATIONS": "A megtekintési előzményekhez szabott ajánlások",
   "NOT_LOGGED_IN_NOTIFICATIONS": "Soha többé ne hagyj ki egy epizódot",
   "NOT_LOGGED_IN_CALENDAR": "Ütemezze be személyes megtekintési naptárát",
+
   "DISCOVER_FEATURED": "Kiemelt",
+
   "DISCOVER_TOP": "Népszerűek",
   "DISCOVER_OSCAR": "Oscar nyertesek",
+
   "DISCOVER_WARNING_TITLE": "Hoppá!",
   "DISCOVER_EMPTY_CATALOG": "Ez a bővítmény üres tartalmat adott vissza.",
   "DISCOVER_ADULT_WARNING": "A tartalom csak felnőttek számára látható. Elmúltál 18 éves?",
@@ -261,9 +300,12 @@
   "DISCOVER_ADDON_UNINSTALLED": "Ez a tartalom már nem érhető el, előfordulhat, hogy eltávolítottad a bővítményt.",
   "UNINSTALL_THIS_ADDON": "Távolítsa el ezt a bővítményt",
   "ERR_ADDON_NOT_INSTALLED": "Ez a bővítmény nincs telepítve. ",
+
   "DETAIL_RECEIVE_NOTIF_SERIES": "Kapj értesítéseket új epizódokról",
   "DETAIL_RECEIVE_NOTIF_VIDEOS": "Kapj értesítéseket új videókról",
+
   "SIDEBAR_SHOW_STREAMS": "Streamek megjelenítése",
+
   "RELAUNCH": "Újraindítás most!",
   "UPGRADE": "Új verzió érhető el! Frissíts a legújabb Stremio verzióra",
   "RELOAD_UI": "Felhasználói felület újratöltése",
@@ -274,6 +316,7 @@
   "BUTTON_UPDATE_NOW": "Frissítés",
   "UPDATER_TITLE": "A new version of Stremio is available",
   "UPDATER_INSTALL_BUTTON": "Install now",
+
   "ANONYMOUS_USER": "Névtelen felhasználó",
   "DONT_HAVE_ACC": "Nincs fiókod?",
   "HAVE_ACC": "Van már fiókod?",
@@ -322,16 +365,19 @@
   "SEARCH_FAILED": "A keresés sikertelen",
   "EMAIL_USED": "Ez az email cím már foglalt.",
   "WAITING_FB_LOGIN": "Bejelentkezés Facebookkal...",
+
   "EXTERNAL_PLAYER_TITLE": "Lejátszás külső lejátszóban",
   "EXTERNAL_REMEMBER_PLAYER": "Szeretnél emlékezni a választásodra",
   "EXTERNAL_ALWAYS_PLAY": "Igen",
   "EXTERNAL_ONLY_ONCE": "Nem",
+
   "BEST_FIT": "Legjobban illeszkedő",
   "FIT_SCREEN": "Képernyőhöz igazítás",
   "FILL": "Kitöltés",
   "16:9": "16:9",
   "4:3": "4:3",
   "Original": "Eredeti",
+
   "INTRO_TASTE": "Mondd el nekünk, hogy mit szeretsz",
   "INTRO_TASTE_LONG": "Mondd el nekünk, hogy mit szeretnél nézni",
   "INTRO_TASTE_PICK": "Válassz {{interestsRemaining}} érdeklődési kört",
@@ -355,6 +401,7 @@
   "INTRO_TASTE_DIY": "Hogyan barkácsoljunk",
   "INTRO_TASTE_TECH": "Tech",
   "INTRO_TASTE_CINEMA": "Mozi",
+
   "ADDON_NOT_SUPPORTED": "A kiválasztott bővítmény nem támogatott ezen a felületen.",
   "ADDON_DISCLAIMER": "Harmadik féltől származó bővítmények használata mindig a felhasználó felelőssége, a felhasználó tartózkodási területén életben lévő törvényeket tiszteletben tartva.",
   "ADDON_ACTIVATE": "Bekapcsolod ezt a bővítményt?",
@@ -364,7 +411,9 @@
   "ADD_ADDON": "Bővítmény hozzáadása",
   "ADD_ADDON_DESCRIPTION": "Külső hivatkozáson keresztül is hozzáadhat bővítményt, amely a Telepített bővítmények alatt jelenik meg.",
   "PASTE_ADDON_URL": "Illessze be a bővítmény URL-címét",
+
   "WHATS_NEW": "Újdonságok",
+
   "BUTTON_CONTINUE": "Folytatás",
   "BUTTON_ACTIVATE": "Aktiválás",
   "BUTTON_ACTIVATED": "Aktív",
@@ -374,7 +423,9 @@
   "BUTTON_VIEW_ALL": "összes megtekintése",
   "BUTTON_SEE_ALL": "Összes megtekintése",
   "BUTTON_COLOR_TRANSPARENT": "Átlátszó",
+
   "OPEN_IN_BROWSER": "Megnyitás böngészőben",
+
   "LIB_EMPTY": "A könyvtárad üres.  ",
   "HOW_START": "Használatához ennyit kell tenned:",
   "LIB_EMPTY_CAL": "A naptárad a könyvtáradban található sorozatokat mutatja.",
@@ -399,8 +450,10 @@
   "LIB_EMPTY_ALL": "Regisztráljon, hogy mindezt megkapja:",
   "LIB_EMPTY_BEST": "Regisztráljon, hogy a legtöbbet hozhassa ki a Stremióból",
   "LIB_EMPTY_OTHER": "Regisztrálj a naptár és további király funkciók engedélyezéséhez",
+
   "CALENDAR_ADDED": "A Stremio naptár hozzáadásra került az alapértelmezett asztali naptárhoz.",
   "CALENDAR_ADDED_MSG": "Ha ez nem működik, kérjük, kézzel adja hozzá ezt az URL-t a naptáralkalmazáshoz",
+
   "TRAKT_EXPIRED": "A Trakt hitelesítés lejárt, lépjen a Beállításokba, és hitelesítse újra",
   "TRAKT_REQUIRES_LOGIN": "Trakt hiba",
   "TRAKT_REQUIRES_LOGIN_MSG": "Be kell jelentkezned",
@@ -535,14 +588,17 @@
   "SETTINGS_DISABLED": "Tiltva",
   "SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Network connection notification",
   "SETTINGS_ANALYTICS": "Allow analytics",
+
   "SETTINGS_REMOTE_URL": "Távoli szerver URL-je",
   "SETTINGS_COPY_REMOTE_URL": "Távoli szerver URL másolása",
   "SETTINGS_REMOTE_URL_COPIED": "A távoli szerver URL-jét a vágólapodra másoltuk",
+
   "SETTINGS_SECTION_SUBTITLES": "Feliratok",
   "SETTINGS_SECTION_AUDIO": "Hang",
   "SETTINGS_SECTION_CONTROLS": "Vezérlők",
   "SETTINGS_SECTION_AUTO_PLAY": "Automatikus lejátszás",
   "SETTINGS_SECTION_ADVANCED": "Fejlett",
+
   "SUBSPICKER_AUDIO": "Hang",
   "SUBSPICKER_SUBTITLES": "Bővítmények feliratai",
   "SUBSPICKER_BLACK_BACKGROUND": "Használjon fekete háttérszínt",
@@ -550,6 +606,7 @@
   "SUBSPICKER_SIZE": "Méret",
   "SUBSPICKER_DELAY": "Késleltetés",
   "SUBSPICKER_EMBEDDED_SUBS": "Beágyazott feliratok",
+
   "MOBILE_PRIVACY_POLICY": "Adatvédelmi irányelvek",
   "MOBILE_CRASH_REPORTING": "Összeomlás jelentése",
   "MOBILE_ZOOM_TO_FILL": "Nagyítás a képernyő kitöltéséhez",
@@ -583,10 +640,14 @@
   "MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Fiókod a Facebook használatával jött létre. Ha törölni szeretné fiókját, kérjük, használja felhasználói portálunkat a www.stremio.com/login címen.",
   "MOBILE_DELETE_ACCOUNT_MESSAGE": "Kérjük, adja meg jelszavát a fiók törlésének megerősítéséhez.",
   "MOBILE_DELETE_ACCOUNT_BUTTON": "Fiók törlése",
+
   "NAVIGATION_ON": "Be",
   "NAVIGATION_OFF": "Ki",
+
   "MARKETING_AGREE": "Hozzájárulok ahhoz, hogy marketingkommunikációt kapjak a Stremiótól",
+
   "QUIT": "Kilépés",
+
   "CONNECTED": "Csatlakoztatva",
   "AUTHENTICATE": "Bejelentkezés",
   "CACHING": "Gyorsítótárazás",
@@ -597,6 +658,7 @@
   "TORRENT_PROFILE": "Torrent profil",
   "DATA_CACHING": "Adatgyorsítótár",
   "MAGNET_PARSING": "Mágnes link elemzése",
+
   "January": "január",
   "February": "február",
   "March": "március",
@@ -609,6 +671,7 @@
   "October": "október",
   "November": "november",
   "December": "december",
+
   "Monday": "hétfő",
   "Tuesday": "kedd",
   "Wednesday": "szerda",
@@ -616,6 +679,7 @@
   "Friday": "péntek",
   "Saturday": "szombat",
   "Sunday": "vasárnap",
+
   "Action": "Akció",
   "Comedy": "Vígjáték",
   "War": "Háborús",
@@ -691,6 +755,7 @@
   "Science Radio": "Tudományos rádió",
   "Tech Radio": "Technológiai rádió",
   "Science & Technology Vod": "Tudomány és technológia Vod",
+
   "new video": "új videó",
   "new episode": "új epizód",
   "new movie": "új film",
@@ -699,6 +764,7 @@
   "offer of the day": "a nap ajánlata",
   "news": "hírek",
   "music video": "zene videó",
+
   "CTX_SHOW_HOTKEYS": "Gyorsbillentyűk megjelenítése",
   "CTX_DISMISS_NOTIF": "Értesítések elvetése",
   "CTX_DISMISS_ALL": "Mindet elutasít",
@@ -742,6 +808,7 @@
   "CTX_PASTE": "Beillesztés",
   "CTX_CLEAR": "Törlés",
   "CTX_CLEAR_RECENT_SEARCHES": "Legutóbbi keresések törlése",
+
   "HELLO_THERE": "Szia",
   "HOPE_YOU_ENJOY": "Reméljük, hogy élvezed a Stremio használatát, és ez már az egyik kedvenc alkalmazásod!",
   "WHO_ARE_WE": "Kik vagyunk mi? Mi vagyunk a mögötte álló csapat - két srác, akik az elmúlt 3 évben minden nap keményen dolgoznak, hogy egyre jobbá és jobbá tegyék ezt a terméket.",
@@ -749,7 +816,9 @@
   "SPREAD_THE_WORD": "Oszd meg barátaiddal, terjeszd a Stremio hírét!",
   "MORE_PEOPLE": "Minél többen használják a Stremiót, annál jobb lesz!",
   "SEND_A_LINK": "Vagy küldd el a weboldalunkra vezető linket",
+
   "TIP_LOCALFILES": "Tipp: behúzhatsz helyi videó fájlokat a Stremio-ba",
+
   "ADDON_MY": "Saját bővítményeim",
   "ADDON_COMMUNITY": "Közösségi bővítmények",
   "ADDON_OFFICIAL": "Hivatalos bővítmények",
@@ -780,6 +849,7 @@
   "ADDON_PROVIDES_STREAMS_FREE": "Nézz #{types} INGYENESEN",
   "ADDON_PROVIDES_SUBTITLES": "Feliratok a ehhez: #{types}",
   "ADDON_CANTDETECT": "Nem tudtuk észlelni a futó Stremiót, így nem tudtuk észlelni, hogy milyen bővítményeket telepített.",
+
   "ERR_NO_META": "Erről nem található információ ",
   "ERR_GETTING_META": "Hiba történt az ezzel kapcsolatos információk lekérésekor.",
   "ERR_CANT_PARSE_MAGNET": "Nem sikerült elemezni a mágnest",
@@ -793,10 +863,12 @@
   "ERR_CLIPBOARD": "Nem lehet lejátszani a vágólapról",
   "ERR_CLIPBOARD_READ": "A vágólap nem olvasható ezen a platformon",
   "ERR_CLIPBOARD_GENERIC": "Nem található lejátszható URL a vágólapon. Kérjük másolj ki egy videóhoz vezető URL-t (pl. mágnes linket).",
+
   "BOARD_CONTINUE_WATCHING": "Megtekintés folytatása",
   "BOARD_EXPLANATION_RECOMMENDATIONS": "Kifejezetten az Ön számára kiválasztott filmek.<br />Ez a film egy mintaajánlás.",
   "BOARD_EXPLANATION_EPISODES": "Ide érkeznek kedvenc sorozatod új epizódjai.<br />Add hozzá a követett sorozatokat a könyvtáradhoz.",
   "BOARD_EXPLANATION_VIDEOS": "Ide érkeznek kedvenc csatornáid új epizódjai.<br />Add hozzá a követett YouTube-csatornákat a könyvtáradhoz.",
+
   "WEBSITE_ENJOYED_BY": "Világszerte több mint 30 millió felhasználó élvezi",
   "WEBSITE_STREAMING_ENHANCED": "Továbbfejlesztett streamelés",
   "WEBSITE_STREAMING_ENHANCED_DETAILS": "A Stremio biztonságos, modern és zökkenőmentes szórakozási élményt kínál. Könnyen használható felületének és változatos tartalomkönyvtárának köszönhetően - beleértve a 4K HDR támogatást is - a felhasználók minden eszközükön élvezhetik kedvenc filmjeiket és tévéműsoraikat. A biztonság iránti elkötelezettségével pedig a Stremio a tökéletes választás a gondtalan, kiváló minőségű streaming élményhez.",
@@ -886,6 +958,7 @@
   "WEBSITE_STREMIO_WEB_ON_IOS": "Útmutató a Stremio Web használatához iOS rendszeren",
   "WEBSITE_LINK_ART_V2": "Fanart Galéria",
   "WEBSITE_PARTNERS": "Partnerek",
+
   "WEBSITE_SLOGAN_WATCH": "Azonnali megtekintés",
   "WEBSITE_SLOGAN_ALL": "Minden kedvenc videó tartalmad egy helyen",
   "WEBSITE_SLOGAN_NEW": "Nézd, amennyit csak szeretnél",
@@ -908,28 +981,38 @@
   "WEBSITE_TYPE_series_PL": "Sorozatok",
   "WEBSITE_TYPE_tv": "Élő tv",
   "WEBSITE_TYPE_channel": "Csatornák",
+
   "WEBSITE_STREMIO_WHAT_IS": "A Stremio egy olyan alkalmazás, amely segít rendszerezni és azonnal megtekinteni kedvenc videóidat, filmjeidet, tévésorozataidat és TV-csatornáidat.",
+
   "WEBSITE_FEATURES_WATCH": "Nézze meg azonnal HD minőségben",
   "WEBSITE_FEATURES_WATCH_DETAIL": "Kattints és játszd le kedvenc filmjeidet, TV-műsoraidat, videóidat és TV-csatornáidat.",
+
   "WEBSITE_FEATURES_SUBS": "Automatikus feliratok",
   "WEBSITE_FEATURES_SUBS_DETAIL": "A Stremio automatikusan kiválasztja a szinkronizált feliratokat a te nyelvedhez.",
   "WEBSITE_FEATURES_SUBS_LABEL": "Nálad a labda, főnök.",
+
   "WEBSITE_FEATURES_CAST": "Játszd le TV-n és mobil eszközökön",
   "WEBSITE_FEATURES_CAST_DETAIL": "Kivetítés AppleTV-re, Chromecastra, Smart TV-re (DLNA/UPnP) és mobileszközökre.",
+
   "WEBSITE_LIB": "Élvezze az összes eszközén szinkronizált személyes könyvtárát",
   "WEBSITE_LIB_COLLECT": "Gyűjtse a Stremióból",
   "WEBSITE_LIB_IMPORT": "Importálás a Facebookról",
   "WEBSITE_LIB_LOCAL": "Hozzáadás a helyi meghajtóról",
+
   "WEBSITE_BOARD": "A tábla – Az értesítések és ajánlások egy helyen",
   "WEBSITE_BOARD_RECOMMEND": "Ajánlott tévéműsor",
   "WEBSITE_BOARD_TRENDING": "Felkapott film",
   "WEBSITE_BOARD_NEW": "Új Videó",
   "WEBSITE_BOARD_EPISODE": "Új epizód",
+
   "WEBSITE_BOARD_1": "Valami érdekes néznivalót keresel? Kapj ajánlásokat az ízléseid alapján!",
   "WEBSITE_BOARD_2": "Értesítést kaphatsz kedvenc tévéműsoraid vagy YouTube-csatornáid új epizódjairól!",
+
   "WEBSITE_BOARD_YOUTUBE": "Új videók a YouTube csatornákról",
   "WEBSITE_BOARD_EPISODES": "Az általad követett sorozatok új epizódjai",
+
   "WEBSITE_ADDONS": "Tartalom-bővítmények",
+
   "WEBSITE_TECH_DETAIL": "Szeretjük a technológiát, szeretjük az őrült tudományt! A Stremio a következő nyílforráskódú technológiákat használja:\n",
   "WEBSITE_TECH_WCJS": "A WebChimera.js lehetővé teszi a Stremio számára, hogy bármilyen videóformátumot jó teljesítménnyel játsszon le.",
   "WEBSITE_TECH_WCJS_EXTRA": "A projekt fő közreműködői vagyunk",
@@ -937,6 +1020,7 @@
   "WEBSITE_TECH_ELECTRON_EXTRA": "A projekt közreműködői vagyunk",
   "WEBSITE_TECH_LINVODB": "Egy adatbázis-technológia, amely biztosítja, hogy adatai rendszerezve legyenek, és bárhol elérhetők legyenek, ahol bejelentkezik.",
   "WEBSITE_TECH_LINVODB_EXTRA": "Házon belüli technológia",
+
   "WEBSITE_CREATE_ADDON": "Hozz létre saját bővítményt",
   "WEBSITE_CREATE_ADDON_DETAIL": "Van saját videó szolgáltatásod? Segítünk kihasználni a Stremio által nyújtott funkciókat azzal, hogy elkészítjük a bővítményedet.",
   "WEBSITE_CREATE_ADDON_BENEFITS": "A Stremio bővítmény létrehozásának előnyei",
@@ -947,16 +1031,19 @@
   "WEBSITE_P2P_CONTACT": "Érdekel?  <a href='mailto:office@stremio.com'>Lépjen kapcsolatba velünk</a>!",
   "WEBSITE_P2P_CONTACT_EXTRA": "Szívesen segítünk a tartalma integrálásában a Stremio platformra!",
   "WEBSITE_P2P": "Egyszer-egyszer jön egy technológia, amely teljesen felforgatja a játékszabályokat. Rengeteg időt és energiát fektettünk a Peer-to-Peer (P2P) videostreaming motorunk megalkotásába, amely nagyszerű teljesítményt és sokoldalúságot biztosít, hogy bármilyen felhasználási esethez alkalmazkodni tudjon.\nForduljon hozzánk a DRM-képes P2P-videó igény szerinti vagy élő streaming szolgáltatásért.",
+
   "WEBSITE_THOUGHTS": "Megosztjuk gondolatainkat:",
   "WEBSITE_SPREAD": "Terjeszd a hírt a Stremióról:",
   "WEBSITE_CONTACT": "Vedd fel velünk a kapcsolatot, örömmel várjuk megkeresésedet!",
   "WEBSITE_OPENSOURCE": "Nyílt forráskódú projektjeinkért látogass el a ",
+
   "WEBSITE_BITCOIN": "Adományozz bitcoint:",
   "WEBSITE_FAQ": "Gyakran Ismételt Kérdések",
   "WEBSITE_FAQ_SHORT": "GYIK",
   "WEBSITE_QUESTIONS": "Kérdések",
   "WEBSITE_TOS": "Használati feltételek",
   "WEBSITE_LEGAL": "Jogi",
+
   "WEBSITE_PAGE_ABOUT": "Rólunk",
   "WEBSITE_PAGE_BECOME_PARTNER": "Légy partnerünk",
   "WEBSITE_ALL_YOU_CAN_WATCH": "Szabadon nézheted.",
@@ -975,6 +1062,7 @@
   "WEBSITE_EXTENDABLE_CATALOG": "Végtelenül bővíthető videokatalógus;",
   "WEBSITE_ORGANIZE_YOUR_MEDIA": "Nagyszerű funkciók a média rendszerezéséhez;",
   "WEBSITE_AS_SEEN_ON": "Amint látható",
+
   "WEBSITE_STREMIO": "Stremio",
   "WEBSITE_LINK_ABOUT_US": "Rólunk",
   "WEBSITE_LINK_TECHNOLOGY": "Technológia",
@@ -1002,6 +1090,7 @@
   "WEBSITE_WHY_P3": "Szolgáltatásunkat bármilyen eszközön és bármikor használhatod, így a Stremio az egyetlen videó szórakoztató központ, amelyre valaha szükséged lesz.",
   "WEBSITE_TEAM": "CSAPAT",
   "WEBSITE_TEAM_P": "A Stremio csapata kicsi, de erős: tízen vagyunk, X nyelven kódolunk, és megosztjuk egymással tapasztalatainkat a szoftverfejlesztés, a felhasználói felület és a UX tervezés, a marketing és a reklámozás, valamint az üzleti élet és a startupok terén.",
+
   "WEBSITE_FEATURES": "Funkciók",
   "WEBSITE_FEATURES_P1": "",
   "WEBSITE_FEATURES_DISCOVER": "Fedezz fel új tartalmat könnyedén",
@@ -1017,6 +1106,7 @@
   "WEBSITE_FEATURES_SOURCES": "Nézz videókat sok különböző forrásból",
   "WEBSITE_FEATURES_SOURCES_P": "Telepíts hivatalos és közösségi bővítményeket, hogy több különböző szolgáltatótól származó videókat élvezhess – mindezt egyetlen elegáns, könnyen használható alkalmazásban.",
   "WEBSITE_CREATE_AN_ADDON": "Hozz létre bővítményt",
+
   "WEBSITE_FEATURES_SYNC": "Szinkronizáld könyvtáradat különböző eszközök között, és folytasd a lejátszást",
   "WEBSITE_FEATURES_SYNC_P1": "Jelentkezz be fiókoddal minden eszközön, és élvezd a könyvtáradat, a bővítményeket, a lejátszást és a szinkronizált naptárat.",
   "WEBSITE_FEATURES_EXTENDABLE": "Bővítményekkel bővíthető videó katalógus",
@@ -1031,6 +1121,7 @@
   "WEBSITE_FEATURES_POWER_USER_P1": "Lejátszás külső lejátszóban",
   "WEBSITE_FEATURES_POWER_USER_P2": "Lejátszás torrent fájlból vagy mágnes linkből",
   "WEBSITE_FEATURES_POWER_USER_P3": "Importálás a könyvtáradba a Facebook kedveléseid alapján vagy a helyi lemezről",
+
   "WEBSITE_ADD_ONS": "Bővítmények",
   "WEBSITE_ADD_ONS_P1": "A Stremio által kínált összes videótartalom forrása egy bővítmény rendszeren keresztül történik – az alkalmazásban nincsenek beépített tartalmk vagy szolgáltatók.",
   "WEBSITE_ADD_ONS_P2": "A bővítmények két csoportja érhető el: hivatalos és közösségi bővítmények.",
@@ -1048,6 +1139,7 @@
   "WEBSITE_ADDONS_CREATE": "Hozz létre egy bővítményt",
   "WEBSITE_ADDONS_CREATE_P1": "Ha szeretnél, fejleszthetsz saját bővítményt. Így új videótartalmakhoz biztosíthatsz hozzáférést magadnak és közösségünknek, és világszerte több millió felhasználóból álló új, célzott közönséget érhetsz el.",
   "WEBSITE_ADDONS_START_CREATE": "A kezdéshez keresd fel a Stremio Addon SDK oldalát:",
+
   "WEBSITE_DOWNLOADS": "Letöltések",
   "WEBSITE_DOWNLOADS_P1": "Az optimális teljesítmény érdekében javasoljuk, hogy a Stremio alkalmazások legújabb elérhető verzióját használd. Ha azonban valamilyen oknál fogva egy régebbi verziót szeretnél használni, akkor azt letöltheted innen.",
   "WEBSITE_DOWNLOADS_P1_SHORT": "Az optimális teljesítmény érdekében javasoljuk, hogy a Stremio alkalmazások legújabb elérhető verzióját használd.",
@@ -1078,6 +1170,7 @@
   "WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Keresd a Stremio alkalmazást az Xbox alkalmazásboltban.",
   "WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
   "WEBSITE_LINK_GUIDE": "Guide",
+
   "WEBSITE_DOWNLOAD_SERVICE": "Stremio Service letöltése",
   "WEBSITE_DOWNLOAD_SERVICE_P1": "A Stremio Service a Stremio Web társalkalmazása. A Stremio Service legfrissebb verziójának használatát ajánljuk.",
   "WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service Windows-ra",
@@ -1093,6 +1186,7 @@
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "Megjelent a Stremio Xbox-ra",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "Megjelent a Stremio Raspberry Pi-ra",
   "WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "We released Stremio 5 for Windows",
+
   "WEBSITE_CONTRIBUTE_P1": "A Stremio platform nyílt forráskódú, és egyszerűen létrehozhatsz bővítményeket a jelenleg nem elérhető tartalomhoz.",
   "WEBSITE_CONTRIBUTE_WHY": "Miért érdemes bővítményt létrehozni?",
   "WEBSITE_CONTRIBUTE_WHY_P1": "Új közönséget érhetsz el a videó tartalmaidnak",
@@ -1109,6 +1203,7 @@
   "WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Ha szeretnéd a Stremio-alkalmazásokat különböző nyelveken élvezni, csatlakozhatsz önkéntes fordítóink közösségéhez. Ők segítenek nekünk abban, hogy a Stremio számos különböző nyelven elérhető legyen.",
   "WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Szívesen kezdesz már?",
   "WEBSITE_TRANSALTE_STREMIO": "Stremio fordítása",
+
   "WEBSITE_COMMUNITY_P1": "",
   "WEBSITE_COMMUNITY_OFFICIALS": "Hivatalos közösségek",
   "WEBSITE_COMMUNITY_OFFICIALS_P1": "Légy része a Stremio növekvő közösségének. Kövess minket a közösségi médiában, és ne félj köszönni nekünk - szeretünk hallani a rajongóinkról! ",
@@ -1130,6 +1225,7 @@
   "WEBSITE_COMMUNITY_WALLPAPERS": "Háttérképek",
   "WEBSITE_COMMUNITY_ART": "Közösségi Művészeti Galéria",
   "WEBSITE_LINK_ART": "Közösségi művészeti galéria",
+
   "WEBSITE_CONTACT_US": "Kapcsolat",
   "WEBSITE_CONTACT_US_P1": "Ha bármilyen kérdésed, észrevételed vagy javaslatod van, fordulj hozzánk bizalommal az alábbi kapcsolatfelvételi űrlapon keresztül.",
   "WEBSITE_CONTACT_US_P2": "Ne feledd, hogy Bulgáriában vagyunk, ezért előfordulhat, hogy az időzónák eltérései miatt az üzenet megválaszolása késni fog.",
@@ -1140,6 +1236,7 @@
   "WEBSITE_CONTACT_US_PH_EMAIL": "Az email címed",
   "WEBSITE_CONTACT_US_PH_MESSAGE": "Üzenet",
   "WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "KÜLDÉS",
+
   "WEBSITE_CONTACT_US_Q_1": "Hogyan kell telepíteni?",
   "WEBSITE_CONTACT_US_Q_2": "Hogyan kell eltávolítani?",
   "WEBSITE_CONTACT_US_Q_3": "(HTML) Hogyan készítsünk lasagnét?",
@@ -1149,6 +1246,7 @@
   "WEBSITE_CONTACT_US_OS_3": "Linux",
   "WEBSITE_CONTACT_US_OS_4": "Android",
   "WEBSITE_CONTACT_US_OS_5": "iOS",
+
   "WEBSITE_TECHNOLOGY": "Technológia",
   "WEBSITE_TECHNOLOGY_P1": "Szeretjük a technológiát és az őrült tudományt. </br> Ezek hajtják a Stremiot (mind nyílt forráskódú).",
   "WEBSITE_TECHNOLOGY_P_QT": "Többplatformos szoftverfejlesztés a javából.",
@@ -1164,6 +1262,7 @@
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "vagy",
   "WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... felhasználhatod kódolási készségeidet közösségi bővítmények létrehozásához. ",
   "WEBSITE_TRANSLATE_STREMIO": "Stremio fordítása",
+
   "WEBSITE_404_OH_NO": "Hoppá! A keresett oldal nem található...",
   "WEBSITE_GO_HOME": "A kezdőlapra",
   "WEBSITE_LINK_OTHER_DOWNLOADS": "Egyéb letöltések",
@@ -1174,42 +1273,58 @@
   "WEBSITE_LINK_ADDON_COMPETITION": "Bővítmény verseny",
   "WEBSITE_LINK_ART_CONTEST": "Művészeti verseny",
   "WEBSITE_MY_ACCOUNT": "A fiókom",
+
   "WEBSITE_MAINPAGE_FAQ_001_H1": "Mi az a Stremio?",
   "WEBSITE_MAINPAGE_FAQ_001_P1": "A Stremio egy modern médiaközpont, amellyel szabadon nézhetsz, amit csak akarsz.",
+
   "WEBSITE_MAINPAGE_FAQ_002_H1": "Hogyan működik?",
   "WEBSITE_MAINPAGE_FAQ_002_P1": "Miután telepítetted a Stremiot az eszközödre, és létrehoztad a fiókodat, mindössze annyit kell tenned, hogy felkeresed a bővítmény katalógust, és telepíted a kívánt bővítményt, és már mehet is!",
   "WEBSITE_MAINPAGE_FAQ_002_P2": "Ezt követően a Felfedezés vagy a Tábla részre léphetsz a tartalom felfedezésének megkezdéséhez.",
+
   "WEBSITE_MAINPAGE_FAQ_003_H1": "Mit nézhetek itt?",
   "WEBSITE_MAINPAGE_FAQ_003_P1": "Sokat: filmek, tévéműsorok, webcsatornák, sport, TV-csatornák, podcastok hallgatása és még sok más. A bővítmény rendszerünknek köszönhetően rengeteg tartalmat elérhetsz.",
+
   "WEBSITE_MAINPAGE_FAQ_004_H1": "A Stremio nyílt forráskódú?",
   "WEBSITE_MAINPAGE_FAQ_004_P1": "Igen, megnézheted a következő linkeken: ${1}asztali alkalmazás${2} és ${3}GitHub org${4}.",
+
   "WEBSITE_MAINPAGE_FAQ_005_H1": "A Stremio biztonságos?",
   "WEBSITE_MAINPAGE_FAQ_005_P1": "Igen: mivel nyílt forráskódú szoftverről van szó, a kód nyilvánosan auditálható, és Te is ellenőrizheted.",
   "WEBSITE_MAINPAGE_FAQ_005_P2": "A Stremio addon rendszerét is a felhasználó biztonságát szem előtt tartva hoztuk létre. A bővítmények nem futtatnak kódot helyileg, így nem okoznak biztonsági kockázatot az eszközökben.",
+
   "WEBSITE_MAINPAGE_FAQ_006_H1": "Mi a helyzet az adatbiztonsággal?",
   "WEBSITE_MAINPAGE_FAQ_006_P1": "Tiszteletben tartjuk a felhasználók adatait, és a fiók létrehozásához és szinkronizálásához szükséges minimumon kívül semmilyen személyes adatot nem gyűjtünk.",
   "WEBSITE_MAINPAGE_FAQ_006_P2": "A regisztráció során ${1}Vendég mód${2} is elérhető, amelyhez nincs szükség semmilyen adatra: ebben a módban nem történik hívás a háttérrendszerünkbe. Azonban ezzel hasznos funkciókról maradsz le, mint a könyvtár szinkronizálása készülékek között.",
+
   "WEBSITE_MAINPAGE_FAQ_007_H1": "Kivetíthetem a tévémre?",
   "WEBSITE_MAINPAGE_FAQ_007_P1": "Igen, támogatjuk a Chromecastot, és kivetíthetsz asztali és mobilalkalmazásokból is (Android).",
+
   "WEBSITE_MAINPAGE_FAQ_008_H1": "Hány bővítménye van a Stremiónak?",
   "WEBSITE_MAINPAGE_FAQ_008_P1": "2019 végén több mint 50 – további információkért tekintsd meg bővítmény katalógusunkat.",
+
   "WEBSITE_MAINPAGE_FAQ_009_H1": "Bővíthető-e a Stremio a böngésző katalógusban foglaltakon túl?",
   "WEBSITE_MAINPAGE_FAQ_009_P1": "Igen, nézd meg ezeket: ${1}PimpMyStremio${2}, ${3}Reddit communities${4}, ${5}Stremio Downloader${6} stb.",
+
   "WEBSITE_MAINPAGE_FAQ_010_H1": "Milyen eszközöket támogat a Stremio?",
   "WEBSITE_MAINPAGE_FAQ_010_P1": "Vannak asztali alkalmazásaink Windowsra, Macre és Linuxra. ",
   "WEBSITE_MAINPAGE_FAQ_010_P2": "Számos Android-alapú eszköz létezik, amelyeken a Stremio futtatható, például az NVIDIA Shield és az Amazon Fire Stick, de hivatalosan nem támogatjuk őket.",
   "WEBSITE_MAINPAGE_FAQ_010_P1_2": "Vannak asztali alkalmazásaink Windows, Mac és Linux operációs rendszerekhez. Dedikált alkalmazásaink vannak Android Mobile és Android TV platformokra is. iOS és iPadOS esetén a Stremio Web használatát javasoljuk, bár ez korlátozottabb funkcionalitású.",
+
   "WEBSITE_MAINPAGE_FAQ_011_H1": "Hozzá tudnátok adni bizonyos tartalmakat a Stremióhoz?",
   "WEBSITE_MAINPAGE_FAQ_011_P1": "Sajnáljuk, mi magunk nem biztosítunk tartalmat, de minél több Stremio bővítményt telepítesz, annál több tartalmat találsz.",
+
   "WEBSITE_MAINPAGE_FAQ_012_H1": "A Stremio le tudja játszani a mágnes linkeket?",
   "WEBSITE_MAINPAGE_FAQ_012_P1": "Igen, és normál HTTP hivatkozásokat és torrent fájlokat is le tud játszani (csak húzd be az alkalmazásba).",
+
   "WEBSITE_MAINPAGE_FAQ_013_H1": "Letölthetek videót és megnézhetem offline módban?",
   "WEBSITE_MAINPAGE_FAQ_013_P1": "Az offline elérhetőség egy hamarosan elérhető funkció, de ha engedélyezed a Stremio számára, hogy gyorsítótárat tároljon az eszközödön (a beállítások panelről), később kapcsolat nélkül is megnézheted a videókat.",
+
   "WEBSITE_MAINPAGE_FAQ_014_H1": "Semmi sem működik, segíts!",
   "WEBSITE_MAINPAGE_FAQ_014_P1": "Biztos, hogy telepítetted a bővítményeket? Ha igen, keresd fel a ${1}segítség központot${2}",
+
   "WEBSITE_MAINPAGE_FAQ_015_H1": "Hogyan tartja fenn a Stremio fejlesztési tevékenységét?",
   "WEBSITE_MAINPAGE_FAQ_015_P1": "Alkalmanként nem tolakodó hirdetéseket jelenítünk meg, de fontolgatjuk az adományozási modellre való átállást.",
   "WEBSITE_MAINPAGE_FAQ_015_P2": "Ha további kérdéseid vannak, keresd fel ${1}súgónkat${2}.",
+
   "HELP_LEARN_MORE": "Segíts nekünk többet megtudni magadról.",
   "LIFESTYLE": "Életmód",
   "SPORTS": "Sport",
@@ -1245,12 +1360,15 @@
   "LAST_SEARCHES": "Keresési előzmények",
   "CLEAR_HISTORY": "Előzmények törlése",
   "CHOOSE_SOME": "VÁLASSZ EZEKBŐL:",
+
   "NO_WEB_REMOTE": "A Web Remote nem tölthető be",
   "STREMIO_OFFLINE": "A Stremio offline",
   "STREMIO_EXPENSIVE_CONNECTION": "Azt észleltük, hogy mobil adatkapcsolatot használsz, folytatod?",
   "USE_DATA": "Mobilkapcsolat használata",
   "WARNING": "Figyelem",
+
   "MORE_INFO": "Több információ ...",
+
   "STREMIO_TV_STREMIO": "Stremio",
   "STREMIO_TV_LOADING": "Betöltés ...",
   "STREMIO_TV_BACK_TO_LANGUAGES": "Vissza a nyelvekhez",
@@ -1331,6 +1449,7 @@
   "STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Statisztikák megjelenítése betöltés közben",
   "STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "A Stremio adatvédelmi szabályzatának elolvasásához látogasson el:",
   "STREMIO_TV_SETTINGS_TOS_TEXT": "A Stremio Általános Szerződési Feltételeinek elolvasásához látogasson el a következő oldalra:",
+
   "STREMIO_TV_NAV_SEARCH": "Keresés",
   "STREMIO_TV_NAV_HOME": "Kezdőlap",
   "STREMIO_TV_NAV_DISCOVER": "Felfedezés",
@@ -1341,12 +1460,14 @@
   "STREMIO_TV_NAV_TV": "Élő TV",
   "STREMIO_TV_NAV_SETTINGS": "Beállítások",
   "STREMIO_TV_NAV_ADDONS": "Bővítmények",
+
   "STREMIO_TV_LOGIN_TITLE": "Fiók összekapcsolása",
   "STREMIO_TV_LOGIN_EXPIRES_IN": "Lejár ekkor: ",
   "STREMIO_TV_LOGIN_STEP_ONE": "Olvasd be a fenti QR-kódot, vagy nyisd meg a következő címet:",
   "STREMIO_TV_LOGIN_STEP_TWO": "Jelentkezz be Stremio-fiókodba",
   "STREMIO_TV_LOGIN_NEW_LINK": "Új link kérése",
   "STREMIO_TV_LOGIN_LINK_REFRESHED": "A bejelentkezési kód frissítve",
+
   "STREMIO_TV_SEARCH_PLACEHOLDER": "Írj valamit",
   "STREMIO_TV_SEARCH_NO_ADDONS": "A katalógusokhoz nem lettek bővítmények hívva!",
   "STREMIO_TV_SEARCH_BUTTON": "Keresés",
@@ -1356,8 +1477,11 @@
   "STREMIO_TV_SEARCH_HISTORY_TITLE": "Keresési előzmények",
   "STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Címekre, színészekre, csatornákra és egyebekre kereshetsz...",
   "STREMIO_TV_SEARCH_HISTORY_CLEAR": "Keresési előzmények törlése",
+
   "STREMIO_TV_FILTERS_DESCRIPTION": "Válassz az alábbi szűrők közül",
+
   "STREMIO_TV_STREAMING_SERVER_OFFLINE": "A streaming szerver offline állapotban van. Ellenőrizd a szerver beállításokat!",
+
   "FILTERS": "Szűrők",
   "SETTINGS": "Beállítások",
   "ACCOUNT": "Fiók",
@@ -1405,42 +1529,53 @@
   "REMOTE_ADJUST_SIZE": "Méret beállítása",
   "REMOTE_COULD_NOT_BE_LOADED": "A Web Távirányító nem tölthető be",
   "REMOTE_RETRY": "Újrapróbálkozás",
+
   "TORRENT_PROFILE_DEFAULT": "Alapértelmezett",
   "TORRENT_PROFILE_SOFT": "Puha",
   "TORRENT_PROFILE_FAST": "Gyors",
   "TORRENT_PROFILE_ULTRA_FAST": "Ultra gyors",
+
   "FAQ_001_H1": "Mi az a Stremio?",
   "FAQ_001_P1": "A Stremio egy olyan médiaközpont-szoftver, amelyet videós szórakoztatásra terveztek, szem előtt tartva a könnyű kezelhetőséget. A Stremio lehetővé teszi a rendszerezést &amp; nézd a saját film-, sorozat-, csatorna- és élő TV-gyűjteményedet.",
   "FAQ_001_P2": "A Stremio a megjelenített tartalmat a helyi lemezről és a bővítmény rendszerünkről gyűjti össze.",
   "FAQ_001_P3": "Ezenkívül értesít Téged, ha új epizódok/videók/filmek jelennek meg, amelyek érdekelnek, és filmajánlásokat is kínál.",
+
   "FAQ_02_H1": "Hogyan hasonlítható a Stremio a Kodihoz és a Plexhez?",
   "FAQ_02_P1": "Ez a két szoftver inspirált minket. De a céljaink különböznek - a Stremio kifejezetten a szórakoztató videókat célozza meg, és arra törekszik, hogy nagyon könnyen kezelhető megoldása révén a mainstream megoldássá váljon.",
   "FAQ_02_P2": "A Stremio soha nem lesz olyan testreszabható és funkciókban gazdag, mint a Kodi és a Plex, de lényegesen könnyebben használható. Egyszerűen ${1} töltsd le és próbáld ki ${2} :)",
+
   "FAQ_03_H1": "Hogyan hasonlítható a Stremio a Netflixhez?",
   "FAQ_03_P1": "Ismételten, a Netflix az egyik inspirációnk. Arra törekszünk, hogy elérjük a Netflix felhasználói élményét, plusz egy csomó hozzáadott finomsággal. De ami a legfontosabb, megadjuk a szabadságot, hogy saját könyvtáradat kezelhesd és új tartalomforrásokat adj hozzá a bővítményrendszerünkkel.",
   "FAQ_03_P2": "Ez végtelenül bővíthetővé teszi a Stremio-t, így a használata soha nem korlátozódik a Netflix által licencelt tartalomra. A Stremio segítségével például a ${1} Filmon.tv ${2}, ${3}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} és még maga a ${9}Netflix${10} is elérhető!",
+
   "FAQ_04_H1": "Hogyan hasonlítható a Stremio a Flipboardhoz?",
   "FAQ_04_P1": "Ritkán kapjuk ezt a kérdést, kivéve ha startup-osokkal beszélgetünk :)",
   "FAQ_04_P2": "A Stremio eleve egy tartalomaggregátor, így tulajdonképpen a Flipboard, a videók számára. Ez jól látható a Tábla szekciónkban, amely katalógusokat és új epizód/új videó értesítéseket ad az általad követett videókról, akárcsak a Flipboard.",
+
   "FAQ_05_H1": "Hogyan hasonlítható a Stremio a Popcorn Time-hoz?",
   "FAQ_05_P1": "A Stremio és a Popcorn Time felhasználói felületben hasonló, mert nem sok módja van a szórakoztató videókatalógusok helyes elkészítésének :)",
   "FAQ_05_P2": "Azonban míg a Popcorn Time bizonyos forrásokból származó torrentek streamelésére összpontosít, a Stremio nem korlátolt, és csupán egy tartalomgyűjtő – nincs egy adott tartalomforráshoz kötve.",
   "FAQ_05_P3": "Ezenkívül alapértelmezés szerint nem biztosítunk torrent-bővítményeket, így a Stremio nem fedi le a Popcorn Time használati esetét hivatalos funkcionalitással.",
   "FAQ_05_P4": "Egy másik figyelemre méltó különbség, hogy a Popcorn Time teljesen nyílt forráskódú, míg a Stremio ${1} részben nyílt forráskódú${2}.",
+
   "FAQ_06_H1": "Hozzá tudnátok ezt a filmet/sorozatot?",
   "FAQ_06_P1": "Nem sajnáljuk :(",
   "FAQ_06_P2": "Ahogy a legtöbb más kérdésben is említettük, a Stremio önmagában nem nyújt semmilyen tartalmat - mindent a bővítményrendszerrel adunk hozzá. Amennyiben tartalmi kérésed van, használhatod a \"Report\" gombot a lejátszóban, amely egy e-mailt küld az éppen használt bővítmény készítőjének.",
+
   "FAQ_07_H1": "",
   "FAQ_07_P1": "",
   "FAQ_07_P2": "",
+
   "FAQ_08_H1": "Készítenétek bővítményt az X-hez?",
   "FAQ_08_P1": "Ez teljes mértékben lehetséges.",
   "FAQ_08_P2": "Ha van bővítmény ötleted, írj nekünk a ${1}office@stremio.com${2} címre, de ügyelj arra, hogy bővítményötleted ne sértse a szerzői jogokat vagy a használati feltételeket.",
   "FAQ_08_P3": "Jelenleg az ütemtervünk következő részei a FandangoNOW, a Filmon.tv video on demand és a Crunchyroll bővítmények.",
+
   "FAQ_09_H1": "A Stremio BitTorrentet használ?",
   "FAQ_09_P1": "Igen, a Stremio támogatja a BitTorrentet mint streaming protokollt. Ezt vagy egy torrent bővítménnyel, vagy egy .torrent fájl Stremio-ba történő behúzásával, vagy egy mágneses link beillesztésével a keresősávba használhatod.",
   "FAQ_09_P2": "Kérjük, vedd figyelembe, hogy az egyetlen BitTorrentet használó hivatalos bővítmény a ${1}Vodo${2}, amely független (indie) tartalmakat biztosít, amelyek mind a BitTorrenttel legálisan terjeszthetőek.",
   "FAQ_09_P3": "Nem támogatjuk olyan harmadik féltől származó bővítmények használatát, amelyek lehetővé tehetik a szerzői jogok megsértését.",
+
   "FAQ_10_H1": "Mit nézhetek meg a Stremióban a hivatalos bővítményekkel?",
   "FAQ_10_P1": "Alapértelmezés szerint a Filmon.tv, a YouTube és a Vodo tartalmait magán a Stremio-n belül nézheted meg, annak beágyazott lejátszójával. ",
   "FAQ_10_P2": "Ez a kombináció a következőket kínálja:",
@@ -1449,50 +1584,62 @@
   "FAQ_10_L3": "Független (indie) filmek a Vodóval",
   "FAQ_10_L4": "Online játékközvetítések a Twitch.tv-vel",
   "FAQ_10_P3": "Ezenkívül számos olyan tartalomforrás van, amelyet a Guidebox és a Netflix bővítmények biztosítanak, amelyek <b>nem</b> játszanak le teljesen a Stremio-n belül, hanem átirányítanak az adott szolgáltatásra. A Guidebox addon például az USA-ban ingyenesen streamelhető filmekből ad válogatást, olyan szolgáltatásokból, mint a TubiTV és a Crackle.",
+
   "FAQ_11_H1": "A Stremio nem települ, mit tegyek?",
   "FAQ_11_P1": "Ha Windows-ot használsz, próbáld ki ${1}ezt az alternatív telepítőt${2}.",
   "FAQ_11_P2": "Ha Mac OS X-et használsz, ne feledd, hogy az OS X Mavericks (10.9)-nél régebbi rendszereket nem támogatjuk.",
   "FAQ_11_P3": "Ha Linuxot használsz, ne feledd, hogy jelenleg csak a 64 bites (x64) Linuxot támogatjuk.",
   "FAQ_11_P4": "Ha továbbra sem tudod megoldani a problémát, kérjük, írj nekünk ${1}Facebook csoportunkba${2}.",
+
   "FAQ_12_H1": "Miért panaszkodik a vírusirtóm? A Stremio biztonságos?",
   "FAQ_12_P1": "Biztosíthatunk, hogy a Stremio ${1}100%-ban tiszta${2}.",
   "FAQ_12_P2": "A vírusirtód azért panaszkodik, mert a telepítőnkben olyan hirdetéseket helyezünk el, amelyeket egyes vírusirtó programok reklámanyagként ismernek fel.",
   "FAQ_12_P3": "Ha még mindig nem vagy biztos benne, próbáld ki az ${1}alternatív telepítőnket${2}.",
+
   "FAQ_13_H1": "Hogyan készíthetek bővítményt?",
   "FAQ_13_P1": "Kezdetnek javasoljuk, hogy tekintsd meg ${1}bővítmény rendszermodulunkat${2} a GitHubon.",
   "FAQ_13_P2": "Ezt követően követheted a ${1}Hello World tutorial-t${2}.",
   "FAQ_13_P3": "Ha nem rendelkezel programozási ismeretekkel, kérjük, tedd közzé ötletedet a ${1}a Reddit közösségben${2}, és vedd fel velünk a kapcsolatot a bővítmény ötletével a ${3}office@stremio.com${4} címen.",
+
   "FAQ_14_H1": "Hogyan jelennek meg a bővítmények?",
   "FAQ_14_P1": "Amikor létrehozol egy bővítményt és egy hosztot, és egy <b>endpoint</b> mezőt teszel a manifesztedbe, amely egy működő bővítmény címére mutat, az bővítmény automatikusan közzéteszi magát a ${1}Bővítmény katalógus${2}-ban.",
   "FAQ_14_P2": "Ez azért történik, mert a stremio-addons modul szerver része automatikusan meghívja az API-t, hogy bejelentse a bővítményt.   Amikor az API érvényesíti az <b>endpoint</b>-odat, az megjelenik a katalógusban.",
+
   "FAQ_15_H1": "Futtathatom a Stremiót a böngészőmben?",
   "FAQ_15_P1": "Jelenleg nem, de hamarosan érkezik!",
   "FAQ_15_P2": "Ha kíváncsi vagy egy alfa verzióra, itt megtekintheted: ${1}alpha4.strem.io${2}. Ne feledd, hogy a streamelés nincs engedélyezve az alfa verzióban. Támogatjuk a Chrome, Firefox, Opera és Edge böngészőket.",
+
   "FAQ_16_H1": "Nem működik a kivetítés a tévére / a feliratok nem működnek",
   "FAQ_16_P1": "A tévére való kivetítés a DLNA technológiát használja, amely a különböző tévémárkák és modellek között nagyon eltérő. Emiatt nem áll módunkban minden esetben tesztelni, így messze nem tökéletes. Ennek ellenére folyamatosan dolgozunk a javításán, de nem tudunk becsült időt mondani arra vonatkozóan, hogy a DLNA mikor kezd el megfelelően működni a tévével.",
   "FAQ_16_P2": "Ha nem látod a tévét a kivetítés menüben sem, próbáld meg letiltani a hálózati kapcsolatot, majd újra engedélyezni (Windowson a jobb gombbal kattints a hálózatra, és használd az Enable/Disable (Engedélyezés/Tiltás) lehetőséget), valamint indítsd újra a routert, a tévét és a számítógépet.",
   "FAQ_16_P3": "Ha továbbra is problémákat tapasztalsz, segíthetsz nekünk, ha elküldöd tévéd márkájára és modelljére vonatkozó információkat a ${1}office@stremio.com${2} címre.",
   "FAQ_16_P4": "Addig is javasoljuk a Chromecastot, amit nagyon jól támogatunk, vagy egyszerűen csak csatlakoztasd a tévét a számítógéphez HDMI-kábellel.",
+
   "FAQ_17_H1": "A Stremio lefagy és/vagy összeomlik, mit tehetek?",
   "FAQ_17_P1": "Először is, ha Windows 7-et használsz AVG vírusirtóval: van egy problémánk ezzel a kombinációval. A probléma magában az AVG-ben van, és nincs ésszerű megoldás a mi oldalunkon. Sajnos a kivételek vagy a vírusirtó letiltása nem fog működni. Az egyetlen megoldás az AVG lecserélése valami másra.",
   "FAQ_17_P2": "Ha nem ez a probléma, de Windows-t használsz, frissítsd a legújabb szervizcsomagra és frissítsd/telepítsd újra a GPU-illesztőprogramokat, majd próbáld meg újra.",
   "FAQ_17_P3": "Ha a probléma továbbra sem oldódott meg, vagy Mac-et vagy Linuxot használsz, kérjük, írd meg nekünk a probléma pontos részleteit ${1}Facebook-csoportunkban${2}.",
+
   "FAQ_18_H1": "Hogyan készíthetek bővítményt?",
   "FAQ_18_P1": "Kezdetnek javasoljuk, hogy tekintsd meg a ${1}bővítmény rendszermodulunkat${2} a GitHubon.",
   "FAQ_18_P2": "Ezt követően követheted a ${1}Hello World oktatóprogramot${2}.",
   "FAQ_18_P3": "Ha nem rendelkezel programozási ismeretekkel, kérjük, tedd közzé ötletedet a ${1}a Reddit közösségben${2}, és vedd fel velünk a kapcsolatot a bővítmény ötletével a ${3}office@stremio.com${4} címen.",
+
   "FAQ_19_H1": "Miért foglal helyet a Stremio a lemezen?",
   "FAQ_19_P1": "A Stremio rendelkezik egy <b>helyi gyorsítótárral</b> a streamelt videofájlok ideiglenes megtartásához.",
   "FAQ_19_P2": "Ennek két előnye van: először is, lehetővé teszi a Stremio számára, hogy előre pufferelje a videót, így biztosítva a zökkenőmentesebb streaminget. Másodszor, a videókat a helyi gyorsítótárban tartja, így offline is nézheted őket.",
   "FAQ_19_P3": "Az, hogy a Stremio mennyi adatot tart meg, a Beállítások panelen található <b>Gyorsítótár</b> beállítástól függ. A Stremio a beállított mennyiségig (pl. 2 GB) tárolhatja a lemezen, kivéve, ha az éppen streamelt videó ennél nagyobb, ebben az esetben elegendő tárhelyet kell elkülöníteni ahhoz, hogy a streamelés végéig tárolja.",
+
   "FAQ_20_H1": "Hol van a gyorsítótár mappa?",
   "FAQ_20_P1": "Windows rendszeren a stremio-cache a Beállításokban kiválasztott meghajtón található (pl. \"E:\\stremio-cache\").",
   "FAQ_20_P2": "MacOS rendszeren ez a \"~/Library/Application Support/Stremio/stremio-cache\"",
   "FAQ_20_P3": "Linuxon ez \"~/.stremio/stremio-cache\" vagy \"~/stremio-cache\"",
+
   "FAQ_21_H1": "\"A streaming szerver nem található\" hibaüzenetet kapok, mit tehetek?",
   "FAQ_21_P1": "Ha ezt a hibát kapod, az a több dolgot jelenthet:",
   "FAQ_21_P2": "1) Egy YouTube/BitTorrent forrás által támogatott bővítményt próbálsz használni a ${1}web verzió${2} segítségével. Ebben az esetben telepítsd az asztali verziónkat a ${3}weboldalunkról${4}.",
   "FAQ_21_P3": "2) Valami baj van a Stremio telepítésével. Ebben az esetben próbáld meg újra telepíteni a legújabb asztali verziónkat a ${1}a weboldalról${2}. Ha ez nem segít, próbáld meg kikapcsolni a vírusirtó programokat és a tűzfalat, indítsd újra a számítógépet, és próbáld meg újra. Ha ez sem működik, kérjük, írj nekünk a ${3}Facebook-csoportunkba${4}.",
+
   "FAQ_22_H1": "Nem látom/nem tudom használni a legtöbb bővítményt az iOS rendszeren",
   "FAQ_22_P1": "Az Apple App Store általános szerződési feltételeiben foglalt korlátozások miatt az iOS-alkalmazást csak a bővítmények egy adott készletére korlátoztuk.",
   "FAQ_22_P2": "De nyugodt lehetsz - a jövőben több bővítményt fogunk készíteni iOS-re, és lehet, hogy egy olyan integrációt is hozzáadunk, amely lehetővé teszi az összes Stremio bővítmény használatát az iOS alkalmazás és a Stremio Streaming Server összekapcsolásának köszönhetően."
