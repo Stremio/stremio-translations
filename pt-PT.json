@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Desfocar a imagem de episódios não vistos",
 	"SETTINGS_QUIT_ON_CLOSE": "Sair ao fechar",
 	"SETTINGS_TRAKT": "Recomendações do Trakt",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Terminar sessão do Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Terminar sessão do Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Lê o código QR para abrir remotamente",

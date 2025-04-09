@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Ixtean gendu",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Amaitu saioa Trakt.tv-tik",
 	"SETTINGS_TRAKT_LOGOUT_2": "Amaitu saioa Trakt-tik",
 	"SETTINGS_SCAN_FOR_REMOTE": "Eskaneatu QR kodea urrunekoa irekitzeko",

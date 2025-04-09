@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "İzlenmemiş bölümlerin resmini bulanıklaştır",
 	"SETTINGS_QUIT_ON_CLOSE": "Kapatmada çık",
 	"SETTINGS_TRAKT": "Trakt Skroblama",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Trakt.tv oturumunu kapat",
 	"SETTINGS_TRAKT_LOGOUT_2": "Trakt oturumunu kapat",
 	"SETTINGS_SCAN_FOR_REMOTE": "Uzaktan açmak için QR kodu tara",

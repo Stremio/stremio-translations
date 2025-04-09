@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Записване&Препоръки",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Изход от Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Изход от Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Сканирайте QR кода, за да отворите дистанционното управление",

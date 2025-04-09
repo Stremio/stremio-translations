@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Déconnexion de Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "Déconnexion de Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "Scanner le code QR pour ouvrir la télécommande",

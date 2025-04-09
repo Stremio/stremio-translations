@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Megtekintési szokások megosztása a Trakt-tal",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "Jelentkezzen ki a Trakt.tv-ből",
 	"SETTINGS_TRAKT_LOGOUT_2": "Jelentkezzen ki a Traktból",
 	"SETTINGS_SCAN_FOR_REMOTE": "A távirányító megnyitásához olvassa be a QR-kódot",

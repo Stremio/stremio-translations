@@ -506,6 +506,7 @@
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
+	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
 	"SETTINGS_TRAKT_LOGOUT": "تسجيل الخروج من Trakt.tv",
 	"SETTINGS_TRAKT_LOGOUT_2": "تسجيل الخروج من Trakt",
 	"SETTINGS_SCAN_FOR_REMOTE": "امسح رمز الاستجابة السريعة QR لفتح جهاز التحكم عن بعد",
