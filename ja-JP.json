@@ -1076,6 +1076,7 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_LG": "2020年以降のLG TVモデルのApp StoreでStremioを検索",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Androidを実行しているSony TVでPlayストアアプリでStremioを検索",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Androidを実行しているPhilips TVでPlayストアアプリでStremioを検索",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Search for Stremio in the app store on Philips TV running TitanOS (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "XboxデバイスのApp StoreでStremioを検索",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "RPIのStremio OS用ガイド",
 	"WEBSITE_LINK_GUIDE": "ガイド",
