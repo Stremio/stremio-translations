@@ -1076,6 +1076,7 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_LG": "Cerca Stremio nell'App Store di modelli TV LG 2020+",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Search for Stremio in the Play Store app on Sony TV running Android",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Search for Stremio in the Play Store app on Philips TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Search for Stremio in the app store on Philips TV running TitanOS (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Cerca Stremio nell'App Store del tuo dispositivo Xbox",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Guide for Stremio OS on RPI",
 	"WEBSITE_LINK_GUIDE": "Guide",
@@ -1397,7 +1398,6 @@
 	"OFF": "SPENTO",
 	"RELOAD": "Ricarica",
 	"EDIT_URL": "Modifica URL",
-	
 	"NONE": "Niente",
 	"EMBEDDED": "Integrato",
 	"LOCAL": "Local",
