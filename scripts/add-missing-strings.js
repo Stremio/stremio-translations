@@ -7,30 +7,100 @@ const fs = require("fs");
 const MISSING_PREFIX = "MISSING_TRANSLATION ";
 const COMMON_EXCEPTIONS = [
   // Brand names and proper nouns
-  "Stremio", "YouTube", "IMDb", "Netflix", "Trakt", "VLC", "Plex", "Kodi",
-  "Chromecast", "Facebook", "Twitter", "BitTorrent", "GitHub", "Android",
-  "iOS", "Windows", "macOS", "Linux", "HD", "4K", "WiFi", "URL", "HTTP",
-  "HLS", "EP", "API", "SDK", "VPN", "DNS", "HTML", "CSS", "JS", "MP4",
-  "MKV", "AVI", "MP3", "AAC", "H.264", "H.265", "HEVC", "Dolby", "DTS",
-  "Android TV", "Fire TV", "Apple TV", "Roku", "Smart TV", "AirPlay", "DLNA",
+  "Stremio",
+  "YouTube",
+  "IMDb",
+  "Netflix",
+  "Trakt",
+  "VLC",
+  "Plex",
+  "Kodi",
+  "Chromecast",
+  "Facebook",
+  "Twitter",
+  "BitTorrent",
+  "GitHub",
+  "Android",
+  "iOS",
+  "Windows",
+  "macOS",
+  "Linux",
+  "HD",
+  "4K",
+  "WiFi",
+  "URL",
+  "HTTP",
+  "HLS",
+  "EP",
+  "API",
+  "SDK",
+  "VPN",
+  "DNS",
+  "HTML",
+  "CSS",
+  "JS",
+  "MP4",
+  "MKV",
+  "AVI",
+  "MP3",
+  "AAC",
+  "H.264",
+  "H.265",
+  "HEVC",
+  "Dolby",
+  "DTS",
+  "Android TV",
+  "Fire TV",
+  "Apple TV",
+  "Roku",
+  "Smart TV",
+  "AirPlay",
+  "DLNA",
   // Common technical terms
-  "cache", "stream", "torrent", "addon", "addons", "metadata",
+  "cache",
+  "stream",
+  "torrent",
+  "addon",
+  "addons",
+  "metadata",
   // UI elements often kept in English
-  "Series", "Video", "Error", "Director", "Similar", "Sensor", "Audio",
-  "a-z", "z-a", "Top", "No", "16:9", "4:3", "Original", "Personal",
-  "General", "Shift", "Esc", "Drama", "Musical", "Bikini babe", "Legal", "Local"
+  "Series",
+  "Video",
+  "Error",
+  "Director",
+  "Similar",
+  "Sensor",
+  "Audio",
+  "a-z",
+  "z-a",
+  "Top",
+  "No",
+  "16:9",
+  "4:3",
+  "Original",
+  "Personal",
+  "General",
+  "Shift",
+  "Esc",
+  "Drama",
+  "Musical",
+  "Bikini babe",
+  "Legal",
+  "Local",
 ];
 
 // Precompute lowercase exceptions for case-insensitive comparison
-const COMMON_EXCEPTIONS_LC = COMMON_EXCEPTIONS.map(word => word.toLowerCase());
+const COMMON_EXCEPTIONS_LC = COMMON_EXCEPTIONS.map((word) =>
+  word.toLowerCase()
+);
 
 function shouldSkipTranslation(englishValue) {
   // Remove case-insensitive check to preserve original case
-  return COMMON_EXCEPTIONS.some(word => englishValue.includes(word));
+  return COMMON_EXCEPTIONS.some((word) => englishValue.includes(word));
 }
 
 // Read and parse source language file (en-US)
-const enPath = path.resolve(process.cwd(), "en-US.json");  // Changed to uppercase "US"
+const enPath = path.resolve(process.cwd(), "en-US.json"); // Changed to uppercase "US"
 let en, enContent, enLines;
 try {
   enContent = fs.readFileSync(enPath, "utf8");
@@ -57,7 +127,8 @@ if (!process.argv[2]) {
 const targetPath = path.resolve(process.cwd(), process.argv[2]);
 
 // Prevent modifying en-US.json
-if (path.basename(targetPath).toLowerCase() === 'en-us.json') {  // Changed to lowercase check
+if (path.basename(targetPath).toLowerCase() === "en-us.json") {
+  // Changed to lowercase check
   console.error("Error: Cannot modify en-US.json - this is the source file");
   process.exit(1);
 }
@@ -66,7 +137,9 @@ console.log(`Syncing translations for ${targetPath}`);
 
 let targetContent, target;
 try {
-  targetContent = fs.existsSync(targetPath) ? fs.readFileSync(targetPath, "utf8") : "{}";
+  targetContent = fs.existsSync(targetPath)
+    ? fs.readFileSync(targetPath, "utf8")
+    : "{}";
   target = JSON.parse(targetContent);
 } catch (err) {
   console.error(`Error reading/parsing ${targetPath}:`, err.message);
@@ -98,7 +171,10 @@ enLines.forEach((line) => {
     let translatedValue = target[key];
     const englishValue = JSON.parse(originalValue);
 
-    if (!translatedValue || (!shouldSkipTranslation(englishValue) && translatedValue === englishValue)) {
+    if (
+      !translatedValue ||
+      (!shouldSkipTranslation(englishValue) && translatedValue === englishValue)
+    ) {
       if (englishValue == "") {
         translatedValue = englishValue;
       } else {
