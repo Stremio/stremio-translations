@@ -1317,7 +1317,7 @@
 	"STREMIO_TV_SETTINGS_EXTERNAL_PLAYER": "Εξωτερική εφαρμογή αναπαραγωγής",
 	"STREMIO_TV_SETTINGS_PREFERRED_LANGUAGE": "Προτιμητέα γλώσσα",
 	"STREMIO_TV_SETTINGS_SECONDARY_PREFERRED_LANGUAGE": "Εναλλακτική Γλώσσα",
-	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK": "Tunnelled Playback",
+	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK": "Αναπαραγωγή μέσω διαμεσολαβητή",
 	"STREMIO_TV_SETTINGS_TUNNELLED_PLAYBACK_HINT": "Πιθανά προβλήματα αναπαραγωγής σε ορισμένες συσκευές",
 	"STREMIO_TV_SETTINGS_HW_DECODING_HINT": "Ορισμένες μορφές βίντεο ενδέχεται να μην λειτουργούν",
 	"STREMIO_TV_SETTINGS_FRAME_RATE_MATCHING_STRATEGY": "Ταίριασμα ρυθμού καρέ",
