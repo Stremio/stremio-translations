@@ -24,7 +24,7 @@ var languages = [
 	"it-IT",
 	"ja-JP",
 	"ko-KR",
-  "lv-LV",
+	"lv-LV",
 	"mk-MK",
 	"my-BM",
 	"nb-NO",
