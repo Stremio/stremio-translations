@@ -572,7 +572,7 @@
 	"MOBILE_NO_ADDON_ACTIVE": "Nenhum Addon Stremio ativo para este tipo.",
 	"MOBILE_ORGANIZER_WARNING": "O aplicativo Stremio Organizer oferece funcionalidade limitada. Para obter uma lista de streams reproduzíveis e a experiência completa do Stremio, use o Stremio no desktop.",
 	"MOBILE_ADDON_LOADING": "ainda está carregando",
-	"MOBILE_ADDONS_LOADING": "os Addons ainda estão carregando",
+	"MOBILE_ADDONS_LOADING": "dos Addons ainda carregando",
 	"MOBILE_ADDON": "Addon",
 	"MOBILE_CONFIGURE_ADDON": "Configure seu Addon",
 	"MOBILE_CONFIGURE_ADDON_LABEL": "Configurar Addon",
