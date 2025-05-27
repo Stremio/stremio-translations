@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Idioma per Defecte",
 	"DEFAULT_SECONDARY_LANGUAGE": "Idioma Secundari per Defecte",
 	"SEASON": "Temporada",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Episodi",

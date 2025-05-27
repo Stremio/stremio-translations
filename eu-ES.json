@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Defektuzko hizkuntza",
 	"DEFAULT_SECONDARY_LANGUAGE": "Defektuzko Bigarren Hizkuntza",
 	"SEASON": "Denboraldia",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Atala",

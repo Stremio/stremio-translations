@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "স্বয়ংক্রিয় ভাষা",
 	"DEFAULT_SECONDARY_LANGUAGE": "স্বয়ংক্রিয় দ্বিতীয় ভাষা",
 	"SEASON": "সিজন",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "এপিসোড",

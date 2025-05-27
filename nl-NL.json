@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Standaardtaal",
 	"DEFAULT_SECONDARY_LANGUAGE": "Standaard secundaire taal",
 	"SEASON": "Seizoen",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Aflevering",

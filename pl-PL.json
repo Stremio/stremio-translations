@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Domyślny język",
 	"DEFAULT_SECONDARY_LANGUAGE": "Domyślny drugorzędny język",
 	"SEASON": "Sezon",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Odcinek",

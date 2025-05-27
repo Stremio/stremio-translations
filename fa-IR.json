@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "زبان پیش فرض",
 	"DEFAULT_SECONDARY_LANGUAGE": "زبان ثانویه پیش فرض",
 	"SEASON": "فصل",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "قسمت",

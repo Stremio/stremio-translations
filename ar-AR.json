@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "اللغة الإفتراضية",
 	"DEFAULT_SECONDARY_LANGUAGE": "اللغة الثانوية الافتراضية",
 	"SEASON": "موسم",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "حلقة",

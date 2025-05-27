@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Προεπιλεγμένη γλώσσα",
 	"DEFAULT_SECONDARY_LANGUAGE": "Δευτερεύουσα προεπιλεγμένη γλώσσα",
 	"SEASON": "Κύκλος",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Επεισόδιο",

@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Мова за замовчуванням",
 	"DEFAULT_SECONDARY_LANGUAGE": "Додаткова мова за умовчанням",
 	"SEASON": "Сезон",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Серія",

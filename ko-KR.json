@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Default Language",
 	"DEFAULT_SECONDARY_LANGUAGE": "Default Secondary Language",
 	"SEASON": "Season",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "에피소드",

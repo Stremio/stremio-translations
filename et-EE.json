@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Eelistatud keel",
 	"DEFAULT_SECONDARY_LANGUAGE": "Teine eelistatud keel",
 	"SEASON": "Hooaeg",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Osa",

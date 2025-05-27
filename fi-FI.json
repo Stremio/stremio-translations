@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Oletuskieli",
 	"DEFAULT_SECONDARY_LANGUAGE": "Oletus toissijainen kieli",
 	"SEASON": "Kausi",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Jakso",

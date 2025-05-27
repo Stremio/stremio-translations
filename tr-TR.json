@@ -222,7 +222,7 @@
 	"DEFAULT_LANGUAGE": "Varsayılan Dil",
 	"DEFAULT_SECONDARY_LANGUAGE": "Varsayılan İkincil Dil",
 	"SEASON": "Sezon",
-	"SEASON {{season}}": "Season {{season}}",
+	"SEASON_NUMBER": "Season {{season}}",
 	"PREV_SEASON": "Previous season",
 	"NEXT_SEASON": "Next season",
 	"EPISODE": "Bölüm",
