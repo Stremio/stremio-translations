@@ -275,6 +275,7 @@
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
+	"SELECT": "Select",
 	"SELECT_TYPE": "Select type",
 	"SELECT_SORT": "Select sort",
 	"SELECT_CATALOG": "Select catalog",

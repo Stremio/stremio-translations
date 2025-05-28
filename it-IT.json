@@ -239,6 +239,7 @@
 	"SORT_RATING": "voto",
 	"SORT_WATCHED": "visto",
 	"SORT_YEAR": "anno",
+	"SELECT": "Select",
 	"SELECT_TYPE": "Seleziona tipo",
 	"SELECT_SORT": "Seleziona ordinamento",
 	"SELECT_CATALOG": "Seleziona catalogo ",

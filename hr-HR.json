@@ -239,6 +239,7 @@
 	"SORT_RATING": "ocjena",
 	"SORT_WATCHED": "gledano",
 	"SORT_YEAR": "godina",
+	"SELECT": "Select",
 	"SELECT_TYPE": "Select type",
 	"SELECT_SORT": "Select sort",
 	"SELECT_CATALOG": "Select catalog",
