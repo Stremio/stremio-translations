@@ -623,6 +623,7 @@
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "アカウントを削除する",
 	"NAVIGATION_ON": "オン",
 	"NAVIGATION_OFF": "オフ",
+	"READ_AND_AGREE": "I have read and agree with the Stremio",
 	"MARKETING_AGREE": "Stremioからのマーケティングコミュニケーションを受け取ることに同意します",
 	"QUIT": "終了",
 	"CONNECTED": "接続済み",
