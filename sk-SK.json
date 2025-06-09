@@ -129,7 +129,7 @@
 	"WARNING_STREAMING_SERVER_LATER": "Later",
 	"DECODER_WARNING": "Upozornenie: Toto video nemusí byť podporované vaším hardvérom. Majte na pamäti, že prehrávanie môže byť pomalé.",
 	"GENERIC_ERROR_MESSAGE": "Niečo sa pokazilo!",
-		"TRY_AGAIN": "Skúsiť znova",
+	"TRY_AGAIN": "Skúsiť znova",
 	"CLEAR_DATA": "Vymazať dáta",
 	"PLAYER_ERROR": "Ups, chyba prehrávača",
 	"PLAYER_ERROR_LOOKSLIKE": "Vyzerá to, že",
