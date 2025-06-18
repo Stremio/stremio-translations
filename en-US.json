@@ -81,6 +81,7 @@
 	"SHOW_MORE": "Show More",
 	"SIMILAR": "Similar",
 	"UPCOMING": "Upcoming",
+	"TBA": "TBA",
 	"ENDED": "Ended",
 	"DURATION": "Duration",
 	"FEATURED": "Featured",
@@ -127,6 +128,9 @@
 	"SETTINGS_DATA_EXPORT" : "Export user data",
 	"ADDON_PULL_FAILED" : "Syncing installed addons from your account failed",
 	"REFRESH_ON_CLICK" : "Click to retry",
+	"ADDON_LOADING_MANIFEST": "Loading addon manifest",
+	"ADDON_LOADING_MANIFEST_FROM": "Loading addon manifest from {{origin}}",
+	"ADDON_LOADING_MANIFEST_FAILED": "Failed to get addon manifest from {{origin}}",
 
 	"STILL_IN_THEATER": "Movie still in theaters",
 	"WATCH_IN_CINEMA": "Watch it in your local cinema",
@@ -189,6 +193,12 @@
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
 
+	"PLAYER_STATISTICS": "Statistics",
+	"PLAYER_PEERS": "Peers",
+	"PLAYER_SPEED": "Speed",
+	"PLAYER_COMPLETED": "Completed",
+	"PLAYER_INFO_HASH": "Info hash",
+
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
 	"NETWORK_STATUS": "Network status",
@@ -215,7 +225,11 @@
 
 	"NO_SETTINGS": "No settings available.",
 
+	"NO_OPTIONS": "No options available",
+
 	"PHONE_TABLET": "Phone / Tablet",
+	
+	"DISABLED_LABEL": "{{label}} is not configurable",
 
     "SUBTITLES": "Subtitles",
 	"SUBTITLES_CHANGE": "Change subtitles for ",
@@ -244,6 +258,9 @@
 	"DEFAULT_SECONDARY_LANGUAGE": "Default Secondary Language",
 
 	"SEASON": "Season",
+	"SEASON_NUMBER": "Season {{season}}",
+	"PREV_SEASON": "Previous season",
+	"NEXT_SEASON": "Next season",
 	"EPISODE": "Episode",
 	"EPISODE_ABBREVIATION": "EP",
 	"SPECIAL": "Special",
@@ -258,9 +275,13 @@
 	"SORT_RATING": "rating",
 	"SORT_WATCHED": "watched",
 	"SORT_YEAR": "year",
+	"SELECT": "Select",
 	"SELECT_TYPE": "Select type",
 	"SELECT_SORT": "Select sort",
 	"SELECT_CATALOG": "Select catalog",
+	"NO_CATALOG_SELECTED": "No catalog selected!",
+	"CATALOG_FILTERS": "Catalog filters",
+	"ALL_FILTERS": "All filters",
 	"SELECT_GENRE": "Select genre",
 	"SORT_LASTWATCHED": "last watched",
 	"SORT_NAME": "a-z",
@@ -281,11 +302,14 @@
 	"LIBRARY_REMOVE": "Remove",
 
 	"LIBRARY_NOT_LOGGED_IN": "Library is only available for logged in users",
+	"LIBRARY_NOT_LOADED": "Library not loaded!",
+	"LIBRARY_EMPTY": "Empty Library",
 	"CALENDAR_NOT_LOGGED_IN": "Calendar is only available for logged in users",
 	"NOT_LOGGED_IN_CLOUD": "Access your favorite movies and TV shows anytime, anywhere",
 	"NOT_LOGGED_IN_RECOMMENDATIONS": "Recommendations tailored to your viewing history",
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Never miss an episode again",
 	"NOT_LOGGED_IN_CALENDAR": "Schedule your personal watching calendar",
+	"CALENDAR_NO_NEW_EPISODES": "No new episodes for this day",
 
 	"DISCOVER_FEATURED": "Featured",
 
@@ -324,6 +348,7 @@
 	"PASSWORD_CONFIRM": "Confirm password",
 	"EMAIL": "E-mail",
 	"FB_LOGIN": "Continue with Facebook",
+	"APPLE_LOGIN": "Continue with Apple",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
 	"FB_NOPOST": "We won’t post anything on your behalf",
 	"OR": "or",
@@ -353,6 +378,7 @@
 	"WRONG_PASSWORD": "Wrong email or password. In case you have forgotten your password, ",
 	"SET_A_PASS": "set a password",
 	"RESET_PASSWORD": "Reset password",
+	"PASSWORD_RESET": "Password reset",
 	"FORGOT_PASSWORD": "Forgot password?",
 	"EMAIL_USED_WITH_FB": "This email was used with a Facebook login.",
 	"INVALID_EMAIL": "Please enter a valid email address",
@@ -405,6 +431,8 @@
 	"INTRO_TASTE_TECH": "Tech",
 	"INTRO_TASTE_CINEMA": "Cinema",
 
+	"NO_ADDONS": "No addons were installed!",
+	"NO_ADDONS_FOR_TYPE": "No addons were installed for this type!",
 	"ADDON_NOT_SUPPORTED": "Selected addon is not supported on this platform.",
 	"ADDON_DISCLAIMER": "Using third-party addons will always be subject to your responsibility and the governing law of the jurisdiction you are located.",
 	"ADDON_ACTIVATE": "Activate this addon?",
@@ -414,6 +442,7 @@
 	"ADD_ADDON": "Add addon",
 	"ADD_ADDON_DESCRIPTION": "You can add an addon via an external link, which will appear under Installed addons.",
 	"PASTE_ADDON_URL": "Paste addon URL",
+	"ADDONS_FILTERS": "Addons filters",
 
 	"WHATS_NEW": "What's new",
 
@@ -422,10 +451,14 @@
 	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
 	"BUTTON_SUBMIT": "Submit",
+	"BUTTON_SEND": "Send",
 	"BUTTON_DISMISS_ALL": "Dismiss All",
 	"BUTTON_VIEW_ALL": "view all",
 	"BUTTON_SEE_ALL": "See All",
 	"BUTTON_COLOR_TRANSPARENT": "Transparent",
+	"BUTTON_PREV": "Prev",
+	"BUTTON_NEXT": "Next",
+	"BUTTON_CLOSE": "Close",
 
 	"OPEN_IN_BROWSER": "Open in browser",
 
@@ -464,6 +497,12 @@
 	"THEME": "Theme",
 	"THEME_DEFAULT": "Default",
 	"THEME_ADAPTIVE": "Adaptive",
+	"CHOOSE_COLOR": "Choose a color:",
+	"SETTINGS_APP_VERSION": "App Version",
+	"SETTINGS_BUILD_VERSION": "Build Version",
+	"SETTINGS_SERVER_VERSION": "Server Version",
+	"SETTINGS_SHELL_VERSION": "Shell Version",
+	"SETTINGS_SOURCE_CODE": "Source code",
 	"SETTINGS_LABEL": "Settings",
 	"SETTINGS_NAV_GENERAL": "General",
 	"SETTINGS_NAV_PLAYER": "Player",
@@ -648,14 +687,14 @@
 	"NAVIGATION_ON": "On",
 	"NAVIGATION_OFF": "Off",
 
+	"READ_AND_AGREE": "I have read and agree with the Stremio",
 	"MARKETING_AGREE": "I agree to receive marketing communications from Stremio",
-
-
 
 	"QUIT": "Quit",
 
 	"CONNECTED": "Connected",
 	"AUTHENTICATE": "Authenticate",
+	"AUTHENTICATING": "Authenticating...",
 	"CACHING": "Caching",
 	"SETTINGS_CACHING_DRIVE": "Caching drive",
 	"ENABLE_LOCAL_FILES_ADDON": "Enable the local files addon (requires restart)",
@@ -811,6 +850,7 @@
 	"CTX_WRONG_SUBS": "Wrong subtitles?",
 	"CTX_REPORT_ISSUES": "Report issue",
 	"CTX_COPY": "Copy",
+	"CTX_COPY_TO_CLIPBOARD": "Copy to clipboard",
 	"CTX_PASTE": "Paste",
 	"CTX_CLEAR": "Clear",
 	"CTX_CLEAR_RECENT_SEARCHES": "Clear recent searches",
@@ -855,9 +895,15 @@
 	"ADDON_PROVIDES_STREAMS_FREE": "Watch #{types} for FREE",
 	"ADDON_PROVIDES_SUBTITLES": "Subtitles for #{types}",
 	"ADDON_CANTDETECT": "We couldn't detect a running Stremio, so we couldn't detect what addons you have installed.",
+	"ADDON_VERSION_SHORT": "v.{{version}}",
 
     "ERR_APPLE_TORRENT_NOT_SUPPORTED" : "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "No information found about this ",
+	"ERR_NO_META_SELECTED": "No meta was selected!",
+	"ERR_NO_META_FOUND": "No metadata was found!",
+	"ERR_NO_ADDONS_FOR_META": "No addons were requested for this meta!",
+	"ERR_NO_ADDONS_FOR_STREAMS": "No addons were requested for streams!",
+	"ERR_NO_VIDEOS_FOR_META": "No videos found for this meta!",
 	"ERR_GETTING_META": "Error retrieving information about this.",
 	"ERR_CANT_PARSE_MAGNET": "Unable to parse magnet",
 	"ERR_NO_MAGNET_INFOHASH": "No valid info hash for magnet",
@@ -872,6 +918,8 @@
 	"ERR_CLIPBOARD_GENERIC": "No playable URL found in the clipboard. Please copy a URL (e.g. a magnet link) to a video.",
 
 	"BOARD_CONTINUE_WATCHING": "Continue watching",
+	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
+	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Movies picked specially for you.<br />This movie is a sample recommendation.",
 	"BOARD_EXPLANATION_EPISODES": "New episodes of your favorite Series come here.<br />Add series you follow to your Library.",
 	"BOARD_EXPLANATION_VIDEOS": "New episodes of your favorite Channels come here.<br />Add YouTube channels you follow to your Library.",
@@ -922,7 +970,7 @@
 	"WEBSITE_FREE_AND_SECURE_DETAILS": "Stremio offers unmatched security and privacy for users. With its unique feature of running addons remotely, Stremio provides a safer way to stream your favorite content compared to other platforms. Your security and privacy are top priorities, and the platform ensures that all your data is protected.",
 	"WEBSITE_FREE_AND_SECURE_DETAILS_2": "Say goodbye to worries about security and privacy and say hello to a world of endless entertainment with Stremio.",
 	"WEBSITE_INFORMATION_PROVIDED_BY": "Information provided by",
-	"WEBSITE_CONTRIBUTE": "Contribute",
+
 	"WEBSITE_CONTRIBUTE_DESC": "to the project & help us make Stremio even better",
 	"WEBSITE_COMMUNITY_DESC": "We believe that the best way to create a truly amazing streaming experience is by involving our community in the process. Whether you are a programmer, an artist, or just a fan - you could help Stremio grow.",
 	"WEBSITE_COMMUNITY_DESC_2": "So join us today and become a part of the Stremio community and keep shaping the future of streaming.",
@@ -1234,6 +1282,7 @@
 	"STREMIO_COMMUNITY_USA": "Stremio USA",
 	"STREMIO_COMMUNITY_MEXICO": "Stremio Mexico",
 	"STREMIO_COMMUNITY_ADDONS": "Stremio Addons",
+	"STREMIO_COMMUNITY_ADDON": "Stremio Addon",
 	"STREMIO_COMMUNITY_AWESOME": "Awesome Stremio",
 	"WEBSITE_COMMUNITY_PARTNERS": "Partners and supporters",
 	"WEBSITE_COMMUNITY_GOODIES": "Stremio goodies",
@@ -1375,6 +1424,7 @@
 	"LAST_SEARCHES" : "Last searches",
 	"CLEAR_HISTORY" : "Clear history",
 	"CHOOSE_SOME" : "CHOOSE SOME OF THIS:",
+	"PAGE_NOT_FOUND": "Page not found!",
 
 	"NO_WEB_REMOTE": "Web Remote could not be loaded",
 	"STREMIO_OFFLINE": "Stremio is offline",
@@ -1535,6 +1585,7 @@
 	"OFF": "OFF",
 	"RELOAD": "Reload",
 	"EDIT_URL": "Edit URL",
+	"URL": "URL",
 	"NONE": "None",
 	"EMBEDDED": "Embedded",
 	"LOCAL": "Local",
@@ -1549,6 +1600,8 @@
 	"TORRENT_PROFILE_SOFT": "Soft",
 	"TORRENT_PROFILE_FAST": "Fast",
 	"TORRENT_PROFILE_ULTRA_FAST": "Ultra Fast",
+
+	"MB_S": "MB/s",
 
 	"FAQ_001_H1": "What is Stremio?",
 	"FAQ_001_P1": "Stremio is a media center software designed for video entertainment with ease of use in mind. Stremio allows you to organize &amp; watch your own collection of movies, series, channels and live TV.",
