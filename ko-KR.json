@@ -397,6 +397,7 @@
 	"BUTTON_ACTIVATE": "활성화",
 	"BUTTON_ACTIVATED": "활성화된",
 	"BUTTON_CANCEL": "취소",
+	"BUTTON_CONFIRM": "Confirm",
 	"BUTTON_SUBMIT": "제출",
 	"BUTTON_SEND": "Send",
 	"BUTTON_DISMISS_ALL": "모두 제거",

@@ -397,6 +397,7 @@
 	"BUTTON_ACTIVATE": "激活",
 	"BUTTON_ACTIVATED": "已激活",
 	"BUTTON_CANCEL": "取消",
+	"BUTTON_CONFIRM": "Confirm",
 	"BUTTON_SUBMIT": "提交",
 	"BUTTON_SEND": "Send",
 	"BUTTON_DISMISS_ALL": "清除全部",

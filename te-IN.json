@@ -397,6 +397,7 @@
 	"BUTTON_ACTIVATE": "Activate",
 	"BUTTON_ACTIVATED": "Activated",
 	"BUTTON_CANCEL": "Cancel",
+	"BUTTON_CONFIRM": "Confirm",
 	"BUTTON_SUBMIT": "Submit",
 	"BUTTON_SEND": "Send",
 	"BUTTON_DISMISS_ALL": "Dismiss All",
