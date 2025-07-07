@@ -397,6 +397,7 @@
 	"BUTTON_ACTIVATE": "有効化",
 	"BUTTON_ACTIVATED": "有効化済み",
 	"BUTTON_CANCEL": "キャンセル",
+	"BUTTON_CONFIRM": "Confirm",
 	"BUTTON_SUBMIT": "送信",
 	"BUTTON_SEND": "Send",
 	"BUTTON_DISMISS_ALL": "すべて閉じる",
