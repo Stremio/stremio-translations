@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "ヒント: ローカルのビデオファイルをStremioにドラッグ＆ドロップできます",
 	"ADDON_MY": "自分のアドオン",
 	"ADDON_COMMUNITY": "コミュニティアドオン",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "公式アドオン",
 	"ADDON_REPOS": "アドオンコレクション",
 	"ADDON_SEARCH": "アドオンを検索",

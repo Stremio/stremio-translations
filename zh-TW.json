@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "提示：您可以將本地影片檔案拖放到Stremio中",
 	"ADDON_MY": "我的外掛",
 	"ADDON_COMMUNITY": "社群外掛",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "官方外掛",
 	"ADDON_REPOS": "外掛集合",
 	"ADDON_SEARCH": "搜尋外掛",

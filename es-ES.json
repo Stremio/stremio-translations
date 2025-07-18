@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Consejo: puede arrastrar y soltar archivos de vídeo locales en Stremio",
 	"ADDON_MY": "Mis complementos",
 	"ADDON_COMMUNITY": "Complementos de la comunidad",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Complementos oficiales",
 	"ADDON_REPOS": "Repositorios de complementos",
 	"ADDON_SEARCH": "Buscar complementos",

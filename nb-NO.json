@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Tips: du kan dra og slippe lokale videoer inn i Stremio",
 	"ADDON_MY": "Mine utvidelser",
 	"ADDON_COMMUNITY": "Samfunnets utvidelser",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Offisielle utvidelser",
 	"ADDON_REPOS": "Addon repositories",
 	"ADDON_SEARCH": "Søk etter utvidelser",

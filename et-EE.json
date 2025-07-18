@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Nõuanne: Sa võid Stremiosse kohalikud videofailid lohistada",
 	"ADDON_MY": "Minu laiendused",
 	"ADDON_COMMUNITY": "Kogukonna laiendused",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Ametlikud laiendused",
 	"ADDON_REPOS": "Laiendusekollektsioonid",
 	"ADDON_SEARCH": "Otsi laiendusi",

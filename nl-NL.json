@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Tip: je kan lokale videobestanden in Stremio slepen om af te spelen",
 	"ADDON_MY": "Mijn Addons",
 	"ADDON_COMMUNITY": "Community Addons",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Officiële Addons",
 	"ADDON_REPOS": "Addon repositories",
 	"ADDON_SEARCH": "Zoek addons",

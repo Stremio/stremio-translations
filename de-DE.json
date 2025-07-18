@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Tipp: Sie können lokale Videodateien per Drag & Drop in Stremio verschieben",
 	"ADDON_MY": "Meine Addons",
 	"ADDON_COMMUNITY": "Community Addons",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Offizielle Addons",
 	"ADDON_REPOS": "Addon-Quellen",
 	"ADDON_SEARCH": "Addons suchen",

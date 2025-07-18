@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Совет: вы можете перетаскивать локальные видеофайлы в Stremio.",
 	"ADDON_MY": "Мои дополнения",
 	"ADDON_COMMUNITY": "Дополнения от сообщества",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Официальные дополнения",
 	"ADDON_REPOS": "Репозитории дополнений",
 	"ADDON_SEARCH": "Искать плагины",

@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "İpucu: yerel görüntü dosyalarınızı Stremio'ya sürükleyip bırakabilirsiniz",
 	"ADDON_MY": "Eklentilerim",
 	"ADDON_COMMUNITY": "Topluluk Eklentileri",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Resmi Eklentiler",
 	"ADDON_REPOS": "Eklenti koleksiyonları",
 	"ADDON_SEARCH": "Eklentileri ara",

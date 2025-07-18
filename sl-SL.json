@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Tip: you can drag & drop local video files into Stremio",
 	"ADDON_MY": "My Add-ons",
 	"ADDON_COMMUNITY": "Community Add-ons",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Official Add-ons",
 	"ADDON_REPOS": "Addon collections",
 	"ADDON_SEARCH": "Search add-ons",

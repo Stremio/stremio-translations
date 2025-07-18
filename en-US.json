@@ -871,6 +871,7 @@
 
 	"ADDON_MY": "My Addons",
 	"ADDON_COMMUNITY": "Community Addons",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Official Addons",
 	"ADDON_REPOS": "Addon collections",
 	"ADDON_SEARCH": "Search addons",

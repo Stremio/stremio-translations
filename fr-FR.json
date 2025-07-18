@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Astuce : vous pouvez glisser-déposer des fichiers vidéo locaux dans Stremio",
 	"ADDON_MY": "Mes addons",
 	"ADDON_COMMUNITY": "Addons communautaires",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Addons officiels",
 	"ADDON_REPOS": "Dépôts d’addons",
 	"ADDON_SEARCH": "Rechercher des addons",

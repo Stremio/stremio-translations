@@ -798,6 +798,7 @@
 	"TIP_LOCALFILES": "Tips: du kan dra och släppa lokala videofiler till Stremio",
 	"ADDON_MY": "Mina tillägg",
 	"ADDON_COMMUNITY": "Community-tillägg",
+	"ADDON_SECONDARY": "Secondary Addons",
 	"ADDON_OFFICIAL": "Officiella tillägg",
 	"ADDON_REPOS": "Tilläggs-repos",
 	"ADDON_SEARCH": "Sök efter tillägg",
