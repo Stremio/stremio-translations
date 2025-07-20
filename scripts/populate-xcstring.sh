@@ -35,6 +35,7 @@ LANG_JSON_PAIRS=(
   "it ../it-IT.json $EN_JSON_PATH"
   "ja ../ja-JP.json $EN_JSON_PATH"
   "ko ../ko-KR.json $EN_JSON_PATH"
+  "lv ../lv-LV.json $EN_JSON_PATH"
   "mk ../mk-MK.json $EN_JSON_PATH"
   "my ../my-BM.json $EN_JSON_PATH"
   "nb ../nb-NO.json $EN_JSON_PATH"
