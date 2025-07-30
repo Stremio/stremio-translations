@@ -39,6 +39,7 @@ var languages = [
 	"sl-SL",
 	"sr-RS",
 	"sv-SE",
+	"sk-SK",
 	"te-IN",
 	"tr-TR",
 	"uk-UA",
