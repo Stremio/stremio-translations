@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "כתוביות עבור #{types}",
 	"ADDON_CANTDETECT": "Stremio לא נמצא עובד, אז לא הצלחנו למצוא את התוספים המותקים.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "לא נמצא מידע על זה ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "ਕਿਸਮ ਲਈ ਉਪਸਿਰਲੇਖ",
 	"ADDON_CANTDETECT": "ਅਸੀਂ ਇੱਕ ਚੱਲ ਰਹੇ ਟਰੇਮਿਓ ਦਾ ਪਤਾ ਨਹੀਂ ਲਗਾ ਸਕੇ ਤਾਂ ਜੋ ਅਸੀਂ ਇਹ ਪਤਾ ਲਗਾ ਸਕੀਏ ਕਿ ਤੁਸੀਂ ਕਿਹੜੇ ਵਿਗਿਆਪਨ ਸਥਾਪਤ ਕੀਤੇ ਹਨ.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "ਇਸ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਈ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

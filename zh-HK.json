@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types}的字幕",
 	"ADDON_CANTDETECT": "我們無法檢測到正在運行的Stremio，因此我們無法檢測您安裝了哪些插件。",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "找不到有關於此的信息",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

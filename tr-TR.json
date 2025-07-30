@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types} için altyazılar",
 	"ADDON_CANTDETECT": "Çalışan bir Stremio algılayamadık, bu yüzden hangi eklentileri yüklediğinizi tespit edemedik.",
 	"ADDON_VERSION_SHORT": "s.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent akışı, App Store kurallarından dolayı bu cihazda desteklenmiyor",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent akışı, App Store kurallarından dolayı bu cihazda desteklenmiyor",
 	"ERR_NO_META": "Hiçbir bilgi bulunamayan konu ",
 	"ERR_NO_META_SELECTED": "Hiç üstveri seçilmedi!",

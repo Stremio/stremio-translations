@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Undertexter för #{types}",
 	"ADDON_CANTDETECT": "Vi kunde inte upptäcka en startat Stremio, så vi kunde inte identifiera vilka tillägg du har installerat.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrentströmning stöds inte på den här enheten på grund av App Store-regler",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrentströmning stöds inte på den här enheten på grund av App Store-regler",
 	"ERR_NO_META": "Ingen information hittades om detta ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

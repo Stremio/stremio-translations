@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types} এর জন্য সাবটাইটেল",
 	"ADDON_CANTDETECT": "আমরা একটি চলমান স্ট্রেমিও সনাক্ত করতে পারিনি, তাই আমরা আপনার কোন অ্যাডঅন ইনস্টল করা আছে তা সনাক্ত করতে পারিনি।",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "App Store নিয়মাবলীর কারণে এই ডিভাইসে টরেন্ট স্ট্রিমিং সমর্থিত নয়",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "App Store নিয়মাবলীর কারণে এই ডিভাইসে টরেন্ট স্ট্রিমিং সমর্থিত নয়",
 	"ERR_NO_META": "এই সম্পর্কে কোন তথ্য পাওয়া যায়নি ",
 	"ERR_NO_META_SELECTED": "কোনো মেটা নির্বাচিত হয়নি!",

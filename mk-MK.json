@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Преводи за #{types}",
 	"ADDON_CANTDETECT": "Не можевме да откриеме дали Stremio работи, така што не можевме да откриеме какви додатоци сте инсталирале.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "Не се најдени информации за ова ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

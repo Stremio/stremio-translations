@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Sottotitoli per #{types}",
 	"ADDON_CANTDETECT": "Non siamo riusciti ad individuare alcun Stremio in esecuzione, perciò non siamo stati in grado di scoprire quali addon sono installati.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Lo streaming torrent non è supportato su questo dispositivo a causa delle regole dell'App Store",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Lo streaming torrent non è supportato su questo dispositivo a causa delle regole dell'App Store",
 	"ERR_NO_META": "Nessun informazione trovata riguardo a questo",
 	"ERR_NO_META_SELECTED": "Nessun metadato selezionato!",
