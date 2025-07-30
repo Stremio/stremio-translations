@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Titulky pre #{types}",
 	"ADDON_CANTDETECT": "Nepodarilo sa zistiť bežiace Stremio, preto nevieme, aké doplnky máš nainštalované.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Streamovanie torrentov nie je na tomto zariadení podporované kvôli pravidlám App Store",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Streamovanie torrentov nie je na tomto zariadení podporované kvôli pravidlám App Store",
 	"ERR_NO_META": "Neboli nájdené žiadne informácie o tomto obsahu",
 	"ERR_NO_META_SELECTED": "No meta was selected!",
