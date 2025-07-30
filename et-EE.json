@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Subtiitrid #{types} jaoks",
 	"ADDON_CANTDETECT": "Me ei suutnud tuvastada töötavat Stremiot, seetõttu ei saa me tuvastada, millised laiendused sul on paigaldatud.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "Selle kohta pole teavet leitud",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

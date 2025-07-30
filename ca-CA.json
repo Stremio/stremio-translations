@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Subtítols per #{types}",
 	"ADDON_CANTDETECT": "No hem pogut detectar un Stremio en execució, de manera que no hem pogut detectar quins complements heu instal·lat.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Aquest dispositiu no admet la reproducció de torrents a causa de les regles de l'App Store",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Aquest dispositiu no admet la reproducció de torrents a causa de les regles de l'App Store",
 	"ERR_NO_META": "No s'ha trobat informació sobre això ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

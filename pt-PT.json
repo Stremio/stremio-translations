@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Legendas para #{types}",
 	"ADDON_CANTDETECT": "Não foi possível encontrar o Stremio em execução, assim sendo, não é possível determinar os addons que tens instalados.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "O streaming de torrents não é suportado neste dispositivo devido às regras da App Store",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "O streaming de torrents não é suportado neste dispositivo devido às regras da App Store",
 	"ERR_NO_META": "Não encontrámos nenhuma informação sobre isto.",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

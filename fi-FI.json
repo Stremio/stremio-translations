@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types} tekstitykset",
 	"ADDON_CANTDETECT": "Emme voineet havaita käynnissä olevaa Stremiota, joten emme voineet havaita, mitä lisäosia sinulla on asennettuna.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "Tietoja ei löytynyt tästä",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

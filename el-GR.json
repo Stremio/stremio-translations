@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "Υπότιτλοι για «#{types}»",
 	"ADDON_CANTDETECT": "Δεν μπορέσαμε να εντοπίσουμε κάποια εκτέλεση του Stremio, επομένως δεν μπορέσαμε να προσδιορίσουμε τα εγκατεστημένα σας πρόσθετα.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Η αναπαραγωγή torrent δεν υποστηρίζεται σε αυτή τη συσκευή λόγω κανόνων του App Store",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Η αναπαραγωγή torrent δεν υποστηρίζεται σε αυτή τη συσκευή λόγω κανόνων του App Store",
 	"ERR_NO_META": "Δεν βρέθηκε καμία πληροφορία σχετικά με αυτό ",
 	"ERR_NO_META_SELECTED": "Δεν επιλέχθηκε στοιχείο!",

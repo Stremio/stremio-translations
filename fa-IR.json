@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "زیرنویس برای #{types}",
 	"ADDON_CANTDETECT": "ما نتوانستیم Stremio در حال اجرا را شناسایی کنیم، بنابراین نتوانستیم افزونه هایی را که نصب کرده اید تشخیص دهیم.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "پخش تورنت به دلیل قوانین اپ استور در این دستگاه پشتیبانی نمی شود",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "پخش تورنت به دلیل قوانین اپ استور در این دستگاه پشتیبانی نمی شود",
 	"ERR_NO_META": "هیچ اطلاعاتی در این مورد یافت نشد ",
 	"ERR_NO_META_SELECTED": "No meta was selected!",

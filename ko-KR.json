@@ -828,6 +828,7 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types}의 부제목",
 	"ADDON_CANTDETECT": "실행 중인 Stremio를 검출할 수 없었기 때문에 설치한 애드온을 검출할 수 없었습니다.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Torrent streaming is not supported on this device due to App Store rules",
 	"ERR_NO_META": "이것에 대한 정보를 찾을 수 없습니다.",
 	"ERR_NO_META_SELECTED": "No meta was selected!",
