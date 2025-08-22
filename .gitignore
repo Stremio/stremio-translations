@@ -10,3 +10,6 @@ local.properties
 # generated source files
 android/src/androidMain/res
 android/src/commonMain/**/translations
+project.inlang/settings.json
+project.inlang/project_id
+project.inlang/.gitignore
