@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Нажимая кнопку выше, я подтверждаю, что принимаю ",
 	"TOS": "Условия и положения",
 	"MUST_ACCEPT_TERMS": "Вы должны принять условия",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Пароли не совпадают",
 	"SIGN_UP": "Регистрация",
 	"SIGN_UP_EMAIL": "Зарегистроваться с эл. почтой",

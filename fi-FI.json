@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Klikkaamalla yllä olevaa painiketta vahvistan hyväksyväni ",
 	"TOS": "Käyttöehdot",
 	"MUST_ACCEPT_TERMS": "Sinun on hyväksyttävä ehdot",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Salasanat eivät täsmää",
 	"SIGN_UP": "Rekisteröidy",
 	"SIGN_UP_EMAIL": "Rekisteröidy sähköpostilla",

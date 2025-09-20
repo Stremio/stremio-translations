@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Poprzez kliknięcie powyższego przycisku świadczę, że akceptuję ",
 	"TOS": "Warunki Umowy",
 	"MUST_ACCEPT_TERMS": "Musisz zaakceptować regulamin",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Podane hasła nie są takie same",
 	"SIGN_UP": "Zarejestruj się",
 	"SIGN_UP_EMAIL": "Zarejestruj się za pomocą email",

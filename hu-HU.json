@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "A fenti gombra kattintva tanúsítom, hogy elfogadom a ",
 	"TOS": "felhasználói feltételeket",
 	"MUST_ACCEPT_TERMS": "El kell fogadnod a feltételeket",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Jelszó nem egyezik",
 	"SIGN_UP": "Regisztráció",
 	"SIGN_UP_EMAIL": "Regisztráció email-lel",

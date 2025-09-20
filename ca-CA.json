@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "En fer clic al botó superior, declaro que accepto els ",
 	"TOS": "Termes i condicions",
 	"MUST_ACCEPT_TERMS": "Heu d'acceptar els termes",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Les contrasenyes no coincideixen",
 	"SIGN_UP": "Registra't",
 	"SIGN_UP_EMAIL": "Registra't amb el correu electrònic",

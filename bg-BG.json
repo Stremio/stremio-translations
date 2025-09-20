@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Със натискането на бутона, се съгласявате, че приемате ",
 	"TOS": "Общите условия",
 	"MUST_ACCEPT_TERMS": "Вие трябва да се съгласите с условията",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Паролите се различават",
 	"SIGN_UP": "Регистрирайте се",
 	"SIGN_UP_EMAIL": "Регистрирайте се с email",
