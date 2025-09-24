@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "ਟ੍ਰੈਕਟ ਤੋਂ ਦਰਾਮਦ",
 	"SETTINGS_PAUSE_MINIMIZED": "ਘੱਟੋ ਘੱਟ ਪਲੇਬੈਕ ਰੋਕੋ",
 	"SETTINGS_HWDEC": "ਹਾਰਡਵੇਅਰ-ਚਾਰਜਡ ਡੀਕੋਡਿੰਗ",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "ਬੈਕਗਰਾ ground ਂਡ ਪਲੇਅਬੈਕ",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "ਕੈਲੰਡਰ ਦੀ ਗਾਹਕੀ",
 	"SETTINGS_REQ_EXPORT": "ਡਾਟਾ ਨਿਰਯਾਤ ਦੀ ਬੇਨਤੀ ਕਰੋ",

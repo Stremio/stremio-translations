@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "ייבא מ-Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "השהיית ניגון כאשר החלון ממוזער",
 	"SETTINGS_HWDEC": "קידוד מואץ בחומרה",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "רקע נגן",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "הרשמה ללוח שנה",
 	"SETTINGS_REQ_EXPORT": "בקשה לייצוא מידע",

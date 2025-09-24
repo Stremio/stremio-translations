@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Імпортувати із Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Призупинити відтворення, коли згорнуто",
 	"SETTINGS_HWDEC": "Декодування з апаратним прискоренням",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Фонове відтворення",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Підписатися на календар",
 	"SETTINGS_REQ_EXPORT": "Запит на експорт даних",

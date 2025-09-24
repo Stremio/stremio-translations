@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Traktからインポート",
 	"SETTINGS_PAUSE_MINIMIZED": "最小化したときに再生を一時停止",
 	"SETTINGS_HWDEC": "ハードウェアアクセラレーションデコード",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "バックグラウンド再生",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "カレンダーに登録",
 	"SETTINGS_REQ_EXPORT": "データのエクスポートを要求",

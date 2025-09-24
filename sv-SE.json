@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importera från Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pausa uppspelningen när den är minimerad",
 	"SETTINGS_HWDEC": "Hårdvaruaccelererad avkodning",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Bakgrundsuppspelning",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Prenumerera på kalender",
 	"SETTINGS_REQ_EXPORT": "Begär dataexport",

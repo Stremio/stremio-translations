@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Inportatu Trakt-etik",
 	"SETTINGS_PAUSE_MINIMIZED": "Pausatu erreprodukzioa minimizatutakoan",
 	"SETTINGS_HWDEC": "Hardwarea azeleratutako deskodetzea",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Atzeko planoaren erreprodukzioa",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Egutegira harpidetu",
 	"SETTINGS_REQ_EXPORT": "Datuak esportatzeko eskatu",

@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Εισαγωγή από Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Παύση αναπαραγωγής κατά την ελαχιστοποίηση",
 	"SETTINGS_HWDEC": "Αποκωδικοποίηση με επιτάχυνση υλικού",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Αναπαραγωγή στο παρασκήνιο",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Εγγραφή σε ημερολόγιο",
 	"SETTINGS_REQ_EXPORT": "Αίτημα εξαγωγής δεδομένων",

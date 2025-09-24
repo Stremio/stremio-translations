@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Trakt থেকে আমদানি করুন",
 	"SETTINGS_PAUSE_MINIMIZED": "মিনিমাইজ করা হলে প্লেব্যাক বিরতি দিন",
 	"SETTINGS_HWDEC": "হার্ডওয়্যার-অ্যাক্সিলারেটেড ডিকোডিং",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "পটভূমিতে প্লেব্যাক",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "ক্যালেন্ডারে সাবস্ক্রাইব করুন",
 	"SETTINGS_REQ_EXPORT": "ডেটা রপ্তানির অনুরোধ করুন",

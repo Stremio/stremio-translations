@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "واردا کردن از Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "توقف پخش هنگام کوچک کردن",
 	"SETTINGS_HWDEC": "رمزگشایی با شتاب سخت افزاری",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "پخش در پس زمینه",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "مشترک شدن در تقویم",
 	"SETTINGS_REQ_EXPORT": "درخواست صادر کردن  داده‌ها",

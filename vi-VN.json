@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Nhập từ Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Tạm dừng phát lại khi thu nhỏ",
 	"SETTINGS_HWDEC": "Giải mã tăng tốc phần cứng",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Phát lại trong nền",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Đăng ký lịch",
 	"SETTINGS_REQ_EXPORT": "Yêu cầu xuất dữ liệu",

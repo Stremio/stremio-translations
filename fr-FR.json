@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importer depuis Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Mettre en pause la lecture lorsque la fenêtre est réduite",
 	"SETTINGS_HWDEC": "Décodage accéléré par le matériel",
+	"SETTINGS_HWREN": "Rendu accéléré par le matériel",
 	"SETTINGS_BACKGROUND": "Lecture en arrière-plan",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Inscrire au calendrier",
 	"SETTINGS_REQ_EXPORT": "Demande d’exportation de données",

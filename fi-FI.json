@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Tuo Traktista",
 	"SETTINGS_PAUSE_MINIMIZED": "Tauko toistossa, kun sovellus on pienennetty",
 	"SETTINGS_HWDEC": "Laitteistokiihdytetty dekoodaus",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Toista taustalla",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Tilaa kalenteri",
 	"SETTINGS_REQ_EXPORT": "Pyydä tietojen vientiä",

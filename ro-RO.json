@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importați din Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pauzați redarea când este minimizată",
 	"SETTINGS_HWDEC": "Decodificare accelerată de hardware",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Redare în fundal",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonați-vă la calendar",
 	"SETTINGS_REQ_EXPORT": "Solicitați exportul datelor",

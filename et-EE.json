@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Impordi Traktist",
 	"SETTINGS_PAUSE_MINIMIZED": "Peata esitus, kui aken on minimeeritud",
 	"SETTINGS_HWDEC": "Riistvarakiirendusega dekodeerimine",
+	"SETTINGS_HWREN": "Hardware-accelerated rendering",
 	"SETTINGS_BACKGROUND": "Taustaesitus",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Telli kalender",
 	"SETTINGS_REQ_EXPORT": "Nõua andmete eksporti",
