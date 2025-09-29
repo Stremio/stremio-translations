@@ -150,7 +150,7 @@
 	"PLAYER_SUBTITLES_VARIANTS": "Tekstitysversiot",
 	"PLAYER_SUBTITLES_SETTINGS": "Tekstitysasetukset",
 	"PLAYER_SUBTITLES_DISABLED": "Tekstitykset pois päältä",
-	"PLAYER_SUBTITLES_VERTICAL_POSIITON": "Pystysuuntainen sijainti",
+	"PLAYER_SUBTITLES_VERTICAL_POSITION": "Pystysuuntainen sijainti",
 	"PLAYER_SUBTITLES_LOADED": "Tekstitykset ladattu",
 	"PLAYER_SUBTITLES_LOADED_EMBEDDED": "Upotetut tekstitykset ladattu",
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Yksinoikeudella olevat tekstitykset ladattu",
