@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importeren van Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pauzeer afspelen bij minimaliseren",
 	"SETTINGS_HWDEC": "Door hardware versnelde decodering",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Achtergrondweergave",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonneer op agenda",
 	"SETTINGS_REQ_EXPORT": "Vraag gegevens export aan",

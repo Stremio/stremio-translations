@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "ट्रैक्ट से आयात",
 	"SETTINGS_PAUSE_MINIMIZED": "कम से कम प्लेबैक रोकें",
 	"SETTINGS_HWDEC": "हार्डवेयर-त्वरित डिकोडिंग",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "पृष्ठभूमि प्लेबैक",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "कैलेंडर की सदस्यता लें",
 	"SETTINGS_REQ_EXPORT": "डेटा निर्यात का अनुरोध करें",

@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importar do Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Colocar a reprodução em pausa quando minimizado",
 	"SETTINGS_HWDEC": "Transcodificação acelerada por hardware",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Reprodução em segundo plano",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscrever calendário",
 	"SETTINGS_REQ_EXPORT": "Exportar dados",

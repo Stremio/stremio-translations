@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Import from Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pause playback when minimized",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Background playback",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på ein kalender",
 	"SETTINGS_REQ_EXPORT": "Request data export",

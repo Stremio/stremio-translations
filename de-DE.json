@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Von Trakt importieren",
 	"SETTINGS_PAUSE_MINIMIZED": "Wiedergabe pausieren, wenn die Anwendung minimiert wird",
 	"SETTINGS_HWDEC": "Hardwarebeschleunigte Dekodierung",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Hintergrund-Wiedergabe",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Kalender abonnieren",
 	"SETTINGS_REQ_EXPORT": "Datenexport anfordern",

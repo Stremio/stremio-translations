@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Увези од Тракт",
 	"SETTINGS_PAUSE_MINIMIZED": "Паузирај ја репродукцијата кога е минимизирана",
 	"SETTINGS_HWDEC": "Хардверски забрзано декодирање",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Репродукција во позадина",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Претплати се на календарот",
 	"SETTINGS_REQ_EXPORT": "Побарај извоз на податоци",

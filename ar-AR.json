@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "استيراد من Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "وقف الفيديو عند تصغير النافذة",
 	"SETTINGS_HWDEC": "فك تسريع الأجهزة",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "تشغيل في الخلفية",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "الأشتراك بالتقويم",
 	"SETTINGS_REQ_EXPORT": "طلب تصدير الداتا",

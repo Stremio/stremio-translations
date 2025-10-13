@@ -537,6 +537,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Uvezi sa Trakt-a",
 	"SETTINGS_PAUSE_MINIMIZED": "Pauziraj video kada je prozor minimized",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
+	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_BACKGROUND": "Pozadinsko pokretanje",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Pretplati se na Kalendar",
 	"SETTINGS_REQ_EXPORT": "Zatraži izvoz podataka",
