@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "최소화 시 재생 일시정지",
 	"SETTINGS_HWDEC": "하드웨어 가속 디코딩",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "백그라운드 재생",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "일정표 구독",
 	"SETTINGS_REQ_EXPORT": "데이터 내보내기 요청",

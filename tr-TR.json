@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Simge durumunda oynatmayı duraklat",
 	"SETTINGS_HWDEC": "Donanım hızlandırmalı kod çözme",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Arka planda oynatma",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Takvime abone ol",
 	"SETTINGS_REQ_EXPORT": "Veriyi dışa aktarmayı iste",

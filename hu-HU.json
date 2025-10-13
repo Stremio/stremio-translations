@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Lejátszás szüneteltetése lekicsinyítés során",
 	"SETTINGS_HWDEC": "Hardveresen gyorsított dekódolás",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Lejátszás a háttérben",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Feliratkozás naptárra",
 	"SETTINGS_REQ_EXPORT": "Adatexportálás kérése",

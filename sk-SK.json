@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Pozastaviť pri minimalizácii",
 	"SETTINGS_HWDEC": "Hardvérové dekódovanie",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Prehrávanie na pozadí",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Prihlásiť sa na odber kalendára",
 	"SETTINGS_REQ_EXPORT": "Požiadať o export údajov",

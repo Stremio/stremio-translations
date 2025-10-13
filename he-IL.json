@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "השהיית ניגון כאשר החלון ממוזער",
 	"SETTINGS_HWDEC": "קידוד מואץ בחומרה",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "רקע נגן",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "הרשמה ללוח שנה",
 	"SETTINGS_REQ_EXPORT": "בקשה לייצוא מידע",

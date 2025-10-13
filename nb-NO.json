@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Pause playback when minimized",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Background playback",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på en kalender",
 	"SETTINGS_REQ_EXPORT": "Request data export",

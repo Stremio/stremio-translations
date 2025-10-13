@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Aturar la reproducció quan es minimitzi",
 	"SETTINGS_HWDEC": "Descodificació accelerada per maquinari",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Reproducció en segon pla",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Subscriu-te al calendari",
 	"SETTINGS_REQ_EXPORT": "Sol·licitar l'exportació de dades",

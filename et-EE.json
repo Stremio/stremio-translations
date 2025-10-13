@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Peata esitus, kui aken on minimeeritud",
 	"SETTINGS_HWDEC": "Riistvarakiirendusega dekodeerimine",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Taustaesitus",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Telli kalender",
 	"SETTINGS_REQ_EXPORT": "Nõua andmete eksporti",

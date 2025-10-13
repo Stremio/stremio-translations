@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Menjeda pemutaran saat diminimalkan",
 	"SETTINGS_HWDEC": "Dekode yang dipercepat perangkat keras",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Pemutaran latar belakang",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Berlangganan kalender",
 	"SETTINGS_REQ_EXPORT": "Minta ekspor data",

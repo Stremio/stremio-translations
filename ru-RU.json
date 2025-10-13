@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Приостановить воспроизведение при сворачивании",
 	"SETTINGS_HWDEC": "Декодирование с аппаратным ускорением",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Фоновое воспроизведение",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Подписаться на календарь",
 	"SETTINGS_REQ_EXPORT": "Запросить экспорт данных",

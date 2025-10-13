@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Пауза на плейбекa при минимализиране",
 	"SETTINGS_HWDEC": "Хардуерно ускорено декодиране",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Пускане на заден фон",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Абонирайте се за календара",
 	"SETTINGS_REQ_EXPORT": "Заявка за експорт на данните",

@@ -538,6 +538,8 @@
 	"SETTINGS_PAUSE_MINIMIZED": "Pauziraj video kada je prozor minimized",
 	"SETTINGS_HWDEC": "Hardware-accelerated decoding",
 	"SETTINGS_VIDEO_MODE": "Video mode",
+	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
+	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",
 	"SETTINGS_BACKGROUND": "Pozadinsko pokretanje",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Pretplati se na Kalendar",
 	"SETTINGS_REQ_EXPORT": "Zatraži izvoz podataka",
