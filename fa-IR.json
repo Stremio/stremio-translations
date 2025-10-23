@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "با کلیک بر روی دکمه بالا شهادت می دهم که این را قبول دارم ",
 	"TOS": "شرایط و ضوابط",
 	"MUST_ACCEPT_TERMS": "شما باید شرایط را بپذیرید",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "گذرواژه ها مطابقت ندارند",
 	"SIGN_UP": "ثبت نام",
 	"SIGN_UP_EMAIL": "ثبت نام با ایمیل",

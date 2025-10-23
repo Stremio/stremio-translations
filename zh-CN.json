@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "通过点击上面的按钮，我声明我接受",
 	"TOS": "条款和条件",
 	"MUST_ACCEPT_TERMS": "您必须接受条款",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "密码不匹配",
 	"SIGN_UP": "注册",
 	"SIGN_UP_EMAIL": "使用电子邮箱注册",

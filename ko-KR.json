@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "위 버튼을 클릭함으로써 에 동의함을 증명합니다. ",
 	"TOS": "약관 및 조건",
 	"MUST_ACCEPT_TERMS": "약관에 동의해야 합니다",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "비밀번호가 일치하지 않습니다",
 	"SIGN_UP": "가입",
 	"SIGN_UP_EMAIL": "이메일로 가입",

@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "En cliquant sur le bouton ci-dessus, je certifie que j’accepte les ",
 	"TOS": "Conditions d’utilisation",
 	"MUST_ACCEPT_TERMS": "Vous devez accepter les conditions",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Les mots de passe ne correspondent pas",
 	"SIGN_UP": "Inscription",
 	"SIGN_UP_EMAIL": "S’inscrire par email",

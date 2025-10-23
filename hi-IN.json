@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "उपरोक्त बटन पर क्लिक करके मैं प्रमाणित करता हूं कि मैं स्वीकार करता हूं",
 	"TOS": "नियम और शर्तें",
 	"MUST_ACCEPT_TERMS": "आपको शर्तों को स्वीकार करना होगा",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "पासवर्ड मेल नहीं खाते",
 	"SIGN_UP": "साइन अप करें",
 	"SIGN_UP_EMAIL": "ईमेल के लिए साइन इन करें",

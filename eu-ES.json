@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Goiko botoian klik eginda onartzen dudala deklaratzen dut",
 	"TOS": "Terminoak eta baldintzak",
 	"MUST_ACCEPT_TERMS": "Baldintzak onartu behar dituzu",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Pasahitzak ez datoz bat",
 	"SIGN_UP": "Izena eman",
 	"SIGN_UP_EMAIL": "Eman izena posta elektronikoz",

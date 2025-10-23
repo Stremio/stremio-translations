@@ -310,6 +310,7 @@
 	"I_ACCEPT_BY_CLICKING": "Klikkides eelnimetatud nupule kinnitan, et nõustun ",
 	"TOS": "Kasutustingimustega",
 	"MUST_ACCEPT_TERMS": "Pead nõustuma tingimustega",
+	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Paroolid ei ühti",
 	"SIGN_UP": "Registreeru",
 	"SIGN_UP_EMAIL": "Registreeru e-posti teel",
