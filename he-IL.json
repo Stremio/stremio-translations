@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "שתף את ההרחבות",
 	"AVAILABLE_STREAMS": "מקורות זמינים",
 	"NO_STREAM": "לא נמצאו מקורות",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "הכל",
 	"INSTALL_MORE_ADDONS": "לעוד אפשרויות הזרמה, אנא התקינו תוספים נוספים",
 	"STREAM_NOT_SUPPORTED": "ההזרמה שנבחרה אינה נתמכת בפלטפורמה זו.",

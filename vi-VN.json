@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Chia sẻ add-on",
 	"AVAILABLE_STREAMS": "Luồng khả dụng",
 	"NO_STREAM": "Không tìm thấy luồng nào",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Tất cả",
 	"INSTALL_MORE_ADDONS": "Để có nhiều luồng hơn, vui lòng cài đặt thêm add-on",
 	"STREAM_NOT_SUPPORTED": "Luồng đã chọn không được hỗ trợ trên nền tảng này.",

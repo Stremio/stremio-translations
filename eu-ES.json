@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Partekatu gehigarria",
 	"AVAILABLE_STREAMS": "Eskuragarri dauden stream-ak",
 	"NO_STREAM": "Ez da stream-ik aurkitu",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Denak",
 	"INSTALL_MORE_ADDONS": "Stream gehiagorako, instalatu gehigarriak",
 	"STREAM_NOT_SUPPORTED": "Aukeratutako stream-a ez da onartzen plataforma honetan.",

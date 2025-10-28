@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Споделяне на добавка",
 	"AVAILABLE_STREAMS": "Достъпни източници",
 	"NO_STREAM": "Няма достъпни източници",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Всички",
 	"INSTALL_MORE_ADDONS": "За повече източници, моля инсталирайте повече добавки",
 	"STREAM_NOT_SUPPORTED": "Избраният източник не е подържан на тази платформа.",

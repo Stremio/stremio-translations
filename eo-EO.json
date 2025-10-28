@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Konigi Aldonaĵon",
 	"AVAILABLE_STREAMS": "Disponeblaj elsendfluoj",
 	"NO_STREAM": "Neniu elsendfluo estis trovita",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "All",
 	"INSTALL_MORE_ADDONS": "Por trovi pli elsendfluojn, bonvolu instalu pli aldonaĵojn",
 	"STREAM_NOT_SUPPORTED": "La elektita elsendfluo ne estas suportata en ĉi plataformo.",

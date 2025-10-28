@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Partager cet addon",
 	"AVAILABLE_STREAMS": "Flux disponibles",
 	"NO_STREAM": "Aucun flux n’a été trouvé",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Tous",
 	"INSTALL_MORE_ADDONS": "Pour plus de flux, veuillez installer plus d’addons",
 	"STREAM_NOT_SUPPORTED": "Le flux sélectionné n’est pas supporté par la plateforme",

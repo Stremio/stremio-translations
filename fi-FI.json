@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Jaa lisäosa",
 	"AVAILABLE_STREAMS": "Saatavilla olevat streamit",
 	"NO_STREAM": "Streamia ei löytynyt",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Kaikki",
 	"INSTALL_MORE_ADDONS": "Asenna lisää lisäosia saadaksesi lisää streamejä",
 	"STREAM_NOT_SUPPORTED": "Valittu stream ei ole tuettu tällä alustalla.",

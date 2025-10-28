@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Compartir complemento",
 	"AVAILABLE_STREAMS": "Transmisiones Disponibles",
 	"NO_STREAM": "No se encontraron transmisiones ",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Todo",
 	"INSTALL_MORE_ADDONS": "Para más transmisiones, por favor instale más complementos",
 	"STREAM_NOT_SUPPORTED": "La transmisión seleccionada no tiene soporte en esta plataforma.",

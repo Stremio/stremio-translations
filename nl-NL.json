@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Deel addon",
 	"AVAILABLE_STREAMS": "Beschikbare streams",
 	"NO_STREAM": "Geen streams beschikbaar",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "All",
 	"INSTALL_MORE_ADDONS": "Voor meer streams, installeer meer addons",
 	"STREAM_NOT_SUPPORTED": "Geselecteerde stream is niet ondersteund op dit platform.",

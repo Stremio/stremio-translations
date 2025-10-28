@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Поділитися доповненням",
 	"AVAILABLE_STREAMS": "Доступні трансляції",
 	"NO_STREAM": "Трансляцій не знайдено",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Все",
 	"INSTALL_MORE_ADDONS": "Щоб отримати більше трансляцій, встановіть більше доповнень",
 	"STREAM_NOT_SUPPORTED": "Обрана трансляція не підтримується на цій платформі.",

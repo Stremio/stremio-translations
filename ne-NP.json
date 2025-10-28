@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "शेयर एडोन",
 	"AVAILABLE_STREAMS": "उपलब्ध स्ट्रिमहरू",
 	"NO_STREAM": "कुनै स्ट्रिमहरू फेला परेन",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "सबै",
 	"INSTALL_MORE_ADDONS": "थप स्ट्रिमहरूको लागि, कृपया थप एडोनहरू इन्स्टल गर्नुहोस्",
 	"STREAM_NOT_SUPPORTED": "चयन गरिएको स्ट्रिम यो प्लेटफर्ममा समर्थित छैन",

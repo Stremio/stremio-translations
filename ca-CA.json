@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Comparteix el complement",
 	"AVAILABLE_STREAMS": "Streams disponibles",
 	"NO_STREAM": "No s'ha trobat cap stream",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Tot",
 	"INSTALL_MORE_ADDONS": "Per obtenir més streams, instal·leu més complements",
 	"STREAM_NOT_SUPPORTED": "El stream seleccionat no és compatible amb aquesta plataforma.",

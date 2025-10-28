@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Berbagi Tambahan",
 	"AVAILABLE_STREAMS": "Siaran yang Tersedia",
 	"NO_STREAM": "Tidak Tersedia Siaran",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Semua",
 	"INSTALL_MORE_ADDONS": "Untuk lebih banyak siaran, pasang lebih banyak tambahan",
 	"STREAM_NOT_SUPPORTED": "Siaran yang dipilih tidak didukung di platform ini.",
