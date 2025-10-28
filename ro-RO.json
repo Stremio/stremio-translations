@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Distribuie extensia",
 	"AVAILABLE_STREAMS": "Stream-uri disponibile",
 	"NO_STREAM": "Nu au fost găsite stream-uri",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Toate",
 	"INSTALL_MORE_ADDONS": "Pentru mai multe stream-uri, instalează mai multe extensii",
 	"STREAM_NOT_SUPPORTED": "Stream-ul selectat nu este suportat pe această platformă.",

@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Zdieľať doplnok",
 	"AVAILABLE_STREAMS": "Dostupné streamy",
 	"NO_STREAM": "Neboli nájdené žiadne streamy",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Všetky",
 	"INSTALL_MORE_ADDONS": "Pre viac streamov si prosím nainštalujte ďalšie doplnky",
 	"STREAM_NOT_SUPPORTED": "Vybraný stream nie je na tejto platforme podporovaný.",

@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "ਅਡੇਨ ਨੂੰ ਸਾਂਝਾ ਕਰੋ",
 	"AVAILABLE_STREAMS": "ਉਪਲਬਧ ਕਰੰਟ",
 	"NO_STREAM": "ਕੋਈ ਭਾਗ ਨਹੀਂ ਮਿਲਿਆ",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "All",
 	"INSTALL_MORE_ADDONS": "ਹੋਰ ਸਟ੍ਰੀਮਜ਼ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਐਡਨਾਂ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ",
 	"STREAM_NOT_SUPPORTED": "ਚੁਣੀ ਗਈ ਧਾਰਾ ਇਸ ਪਲੇਟਫਾਰਮ ਤੇ ਸਮਰਥਤ ਨਹੀਂ ਹੈ.",

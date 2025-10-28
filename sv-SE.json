@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Dela tillägg",
 	"AVAILABLE_STREAMS": "Tillgängliga strömmar",
 	"NO_STREAM": "Ingen ström",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Alla",
 	"INSTALL_MORE_ADDONS": "För fler strömmar, installera gärna fler tillägg",
 	"STREAM_NOT_SUPPORTED": "Den valda strömmen stöds inte på denna plattform.",

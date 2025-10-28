@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "애드온 공유",
 	"AVAILABLE_STREAMS": "사용 가능한 스트림",
 	"NO_STREAM": "스트림을 찾을 수 없습니다.",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "All",
 	"INSTALL_MORE_ADDONS": "더 많은 스트림을 보려면 더 많은 애드온을 설치하십시오.",
 	"STREAM_NOT_SUPPORTED": "선택한 스트림은 이 플랫폼에서 지원되지 않습니다.",

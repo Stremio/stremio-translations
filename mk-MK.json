@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Споделете додаток",
 	"AVAILABLE_STREAMS": "Достапни извори",
 	"NO_STREAM": "Нема достапни извори",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Сите",
 	"INSTALL_MORE_ADDONS": "За повеќе преноси, инсталирајте повеќе додатоци",
 	"STREAM_NOT_SUPPORTED": "Избраниот пренос не е поддржан на оваа платформа.",

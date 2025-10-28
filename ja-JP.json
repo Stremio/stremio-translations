@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "アドオンを共有",
 	"AVAILABLE_STREAMS": "利用可能なストリーム",
 	"NO_STREAM": "ストリームが見つかりませんでした",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "すべて",
 	"INSTALL_MORE_ADDONS": "より多くのストリームを利用するために、より多くのアドオンをインストールしてください",
 	"STREAM_NOT_SUPPORTED": "選択したストリームはこのプラットフォームではサポートされていません。",

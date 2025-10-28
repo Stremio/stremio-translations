@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Κοινοποίηση προσθέτου",
 	"AVAILABLE_STREAMS": "Διαθέσιμες ροές",
 	"NO_STREAM": "Δεν βρέθηκαν ροές",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Όλα τα",
 	"INSTALL_MORE_ADDONS": "Για περισσότερες ροές, παρακαλώ εγκαταστήστε περισσότερα πρόσθετα",
 	"STREAM_NOT_SUPPORTED": "Η επιλεγμένη ροή δεν υποστηρίζεται σε αυτήν την πλατφόρμα.",

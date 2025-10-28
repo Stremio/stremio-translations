@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Udostępnij dodatek",
 	"AVAILABLE_STREAMS": "Dostępne źródła",
 	"NO_STREAM": "Nie ma dostępnych źródeł",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Wszystko",
 	"INSTALL_MORE_ADDONS": "Dla większej ilości źródeł zainstaluj więcej dodatków",
 	"STREAM_NOT_SUPPORTED": "Wybrane źródło nie jest dostępne na tej platformie",

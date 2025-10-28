@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "Addon megosztása",
 	"AVAILABLE_STREAMS": "Elérhető streamek",
 	"NO_STREAM": "Nincs elérhető stream",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "Minden",
 	"INSTALL_MORE_ADDONS": "További streamekért telepítsen további bővítményeket",
 	"STREAM_NOT_SUPPORTED": "A kiválasztott stream nem támogatott ezen a felületen.",

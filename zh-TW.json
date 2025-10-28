@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "分享外掛",
 	"AVAILABLE_STREAMS": "可用流媒體",
 	"NO_STREAM": "未找到流媒體",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "全部",
 	"INSTALL_MORE_ADDONS": "要獲取更多流媒體，請安裝更多外掛",
 	"STREAM_NOT_SUPPORTED": "此平臺不支援所選流媒體。",

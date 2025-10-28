@@ -95,6 +95,8 @@
 	"SHARE_ADDON": "অ্যাড-অন শেয়ার করুন",
 	"AVAILABLE_STREAMS": "উপলব্ধ স্ট্রিমসমূহ",
 	"NO_STREAM": "কোনো স্ট্রিম পাওয়া যায়নি",
+	"NO_STREAMS_FROM_ADDON": "This addon was unable to provide streams.",
+	"NO_STREAMS_FROM_ADDONS": "No addons were able to provide streams.",
 	"ALL_ADDONS": "সমস্ত",
 	"INSTALL_MORE_ADDONS": "আরও স্ট্রিমের জন্য, অনুগ্রহ করে আরও অ্যাড-অন ইনস্টল করুন",
 	"STREAM_NOT_SUPPORTED": "নির্বাচিত স্ট্রিম এই প্ল্যাটফর্মে সমর্থিত নয়।",
