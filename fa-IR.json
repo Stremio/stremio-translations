@@ -612,7 +612,7 @@
 	"MOBILE_NO_ADDON_ACTIVE": "هیچ افزونه Stremio برای این نوع فعال نیست.",
 	"MOBILE_ORGANIZER_WARNING": "برنامه Stremio Organizer عملکرد محدودی را ارائه می دهد. برای لیستی از جریان های قابل پخش و تجربه کامل Stremio، از Stremio در دسکتاپ استفاده کنید.",
 	"MOBILE_ADDON_LOADING": "هنوز در حال بارگذاری است",
-	"MOBILE_ADDONS_LOADING": "افزونه ها هنوز در حال بارگیری هستند",
+	"MOBILE_ADDONS_LOADING": "افزونه هنوز در حال بارگیری هست",
 	"MOBILE_ADDON": "افزونه",
 	"MOBILE_CONFIGURE_ADDON": "افزونه خود را پیکربندی کنید",
 	"MOBILE_CONFIGURE_ADDON_LABEL": "پیکربندی افزونه",
