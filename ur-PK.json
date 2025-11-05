@@ -4,7 +4,6 @@
 	"TYPE_tv": "ٹی وی چینل",
 	"TYPE_channel": "چینل",
 	"TYPE_other": "دیگر",
-
 	"TYPE_movie_PL": "فلمیں",
 	"TYPE_series_PL": "سیریز",
 	"TYPE_tv_PL": "ٹی وی چینلز",
@@ -12,39 +11,31 @@
 	"TYPE_other_PL": "دیگر",
 	"TYPE_ALL": "تمام",
 	"TYPE": "قسم",
-
 	"CATALOG_com_linvo_cinemeta_top": "مقبول",
 	"CATALOG_com_linvo_cinemeta_imdbRating": "نمایاں",
 	"CATALOG_com_linvo_cinemeta_year": "نیا",
 	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "پبلک ڈومین فلمیں",
-
 	"VIDEO": "ویڈیو",
-
 	"BACK": "واپس",
 	"MORE": "مزید",
 	"DONE": "مکمل",
 	"COPY": "کاپی",
 	"SUCCESS": "کامیابی",
 	"ERROR": "خرابی",
-
 	"SETTINGS_CASTING_MODE_PICKER": "کاسٹنگ موڈ",
 	"CASTING_MODE_HLSV2": "ڈیفالٹ",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "کوئی ٹرانسکوڈنگ نہیں",
-
 	"Discover": "دریافت کریں",
 	"Board": "بورڈ",
 	"Library": "لائبریری",
 	"My Library": "میری لائبریری",
 	"Calendar": "کیلنڈر",
-
 	"NOTIFICATION_ONLINE": "آپ اب آن لائن ہیں",
 	"NOTIFICATION_OFFLINE": "آپ فی الوقت آف لائن ہیں",
 	"INTERNET_CONNECTION": "نیٹ ورک کنکشن",
-
 	"STORAGE_FULL_TITLE": "انتباہ: اسٹوریج بھر گئی!",
 	"STORAGE_FULL_TEXT": "Stremio آپ کی سیٹنگز، ترجیحات یا لاگ ان کی معلومات محفوظ نہیں کر سکے گا۔ Stremio کو دوبارہ شروع کرنے یا دوبارہ انسٹال کرنے پر غور کریں۔",
-
 	"SEARCH": "تلاش",
 	"SEARCH_NO_RESULTS": "کوئی نتائج نہیں ملے",
 	"SEARCH_EXPLANATION_CONTENT": "فلمیں، سیریز، یوٹیوب اور ٹی وی چینلز تلاش کریں",
@@ -52,7 +43,6 @@
 	"SEARCH_PASTE_LINKS": "HTTP اور میگنیٹ لنکس پیسٹ کریں",
 	"SEARCH_OR_PASTE_LINK": "تلاش کریں یا لنک پیسٹ کریں",
 	"SEARCH_SUGGESTIONS": "تلاش کی تجاویز",
-
 	"ADD_TO_LIB": "لائبریری میں شامل کریں",
 	"REMOVE_FROM_LIB": "لائبریری سے ہٹائیں",
 	"ADDED_TO_LIB": "لائبریری میں شامل کر دیا گیا",
@@ -63,7 +53,6 @@
 	"SHOW": "دکھائیں",
 	"SHOW_MOVIE": "فلم دکھائیں",
 	"WATCH_RANDOM": "بے ترتیب دیکھیں",
-
 	"IMDB_RATING": "IMDb ریٹنگ",
 	"YEAR": "سال",
 	"DIRECTOR": "ہدایت کار",
@@ -87,14 +76,11 @@
 	"FEATURED": "نمایاں",
 	"METADATA": "میٹاڈیٹا",
 	"CATEGORY": "کیٹگری",
-
 	"LINKS_GENRES": "اصناف",
 	"LINKS_CAST": "کاسٹ",
 	"LINKS_DIRECTORS": "ہدایت کار",
-
 	"SEARCH_VIDEOS": "ویڈیوز تلاش کریں",
 	"SEARCH_PLACEHOLDER": "تلاش کریں یا URL پیسٹ کریں",
-
 	"ADDON": "ایڈآن",
 	"ADDONS": "ایڈآنز",
 	"OFFICIAL": "سرکاری",
@@ -133,7 +119,6 @@
 	"ADDON_LOADING_MANIFEST": "ایڈآن مینیفیسٹ لوڈ ہو رہا ہے",
 	"ADDON_LOADING_MANIFEST_FROM": "{{origin}} سے ایڈآن مینیفیسٹ لوڈ ہو رہا ہے",
 	"ADDON_LOADING_MANIFEST_FAILED": "{{origin}} سے ایڈآن مینیفیسٹ حاصل کرنے میں ناکام",
-
 	"STILL_IN_THEATER": "فلم ابھی بھی سینما میں ہے",
 	"WATCH_IN_CINEMA": "اپنے مقامی سینما میں دیکھیں",
 	"IN_THEATER": "سینما میں",
@@ -145,7 +130,6 @@
 	"CHANNEL_NOT_SCRAPED": "یہ چینل ابھی اسکریپ نہیں ہوا۔<br>براہ کرم کچھ منٹوں میں واپس آئیں۔",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "دستیاب ہونے پر اطلاع پانے کے لیے اسے اپنی لائبریری میں شامل کریں۔",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "دستیاب ہونے پر آپ کو اطلاع مل جائے گی۔",
-
 	"WARNING_STREAMING_SERVER": "انتباہ: مقامی سٹریمنگ سرور نہیں ملا۔ مقامی فائلوں، یوٹیوب اور بٹ ٹورنٹ سے سٹریمنگ دستیاب نہیں ہوگی۔",
 	"WARNING_STREAMING_SERVER_DISMISS": "مسترد کریں",
 	"WARNING_STREAMING_SERVER_LATER": "بعد میں",
@@ -182,25 +166,20 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "بیرونی پلیئر میں کھولیں",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer میں کھولیں",
 	"PLAYER_PLAY_IN": "{{device}} میں چلائیں",
-
 	"PLAYER_LIVE": "لائیو",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "اگلا آ رہا ہے",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "اگلا",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "مسترد کریں",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "ابھی دیکھیں",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "سٹریم لنک آپ کے کلپ بورڈ میں کاپی ہو گیا",
 	"PLAYER_COPY_STREAM_ERROR": "سٹریم لنک کاپی کرنے میں ناکام",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "ڈاؤن لوڈ لنک آپ کے کلپ بورڈ میں کاپی ہو گیا",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "ڈاؤن لوڈ لنک کاپی کرنے میں ناکام",
-
 	"PLAYER_STATISTICS": "شماریات",
 	"PLAYER_PEERS": "پیئرز",
 	"PLAYER_SPEED": "رفتار",
 	"PLAYER_COMPLETED": "مکمل",
 	"PLAYER_INFO_HASH": "انفو ہیش",
-
 	"STREAMING_FROM": "سے سٹریمنگ",
 	"CASTING_TO": "کاسٹ کر رہے ہیں",
 	"NETWORK_STATUS": "نیٹ ورک کی حالت",
@@ -211,29 +190,21 @@
 	"PEERS_CONNECTED": "جڑے ہوئے:",
 	"PEERS_WAITING": "انتظار میں:",
 	"TRANSCODING_WARNING": "انتباہ: ویڈیو ٹرانسکوڈ ہو رہا ہے۔",
-
 	"STREAM_LOADING": "لوڈ ہو رہا ہے...",
 	"PLAYING_LOCAL": "مقامی فائل سے چل رہا ہے",
 	"PLAYING_CACHE": "کیش سے چل رہا ہے",
-
 	"WRONG_SUBS": "غلط سب ٹائٹل؟",
 	"ERR_SUBS_LOADING_TITLE": "سب ٹائٹل لوڈ کرنے میں خرابی",
 	"ERR_SUBS_LOADING": "سب ٹائٹل لوڈ کرنے میں ناکام: یہ آپ کے استعمال کردہ ایڈآن یا آپ کے نیٹ ورک کنکشن کا مسئلہ ہو سکتا ہے",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "مندرجہ ذیل سب ٹائٹل ایڈآنز ناکام ہوئے",
 	"ERR_CASTING_UPDATE_TITLE": "کاسٹنگ ڈیوائس کی معلومات اپڈیٹ نہیں ہو سکیں: سٹریمنگ سرور آف لائن ہو سکتا ہے",
-
 	"CHOOSE_DEVICE": "دیکھنے کے لیے ڈیوائس منتخب کریں",
 	"NO_CAST_DEVICES": "کوئی کاسٹنگ ڈیوائس دستیاب نہیں۔",
-
 	"NO_SETTINGS": "کوئی سیٹنگز دستیاب نہیں۔",
-
 	"NO_OPTIONS": "کوئی آپشن دستیاب نہیں",
-
 	"PHONE_TABLET": "فون / ٹیبلٹ",
-	
 	"DISABLED_LABEL": "{{label}} قابل تشکیل نہیں ہے",
-
-    "SUBTITLES": "سب ٹائٹل",
+	"SUBTITLES": "سب ٹائٹل",
 	"SUBTITLES_CHANGE": "سب ٹائٹل تبدیل کریں ",
 	"SUBTITLES_CHANGE_NONE": "اس زبان کے لیے کوئی دوسرے سب ٹائٹل نہیں ہیں، معذرت۔",
 	"SUBTITLES_CHANGE_ACIVE": "فی الوقت سب ٹائٹل &#35;{{subtitlesDialog.activeIdx + 1}} فعال ہیں۔ سب ٹائٹل &#35;{{subtitlesDialog.pickedIdx + 1}} کو فعال کرنے کے لیے \"جاری رکھیں\" پر کلک کریں۔",
@@ -248,16 +219,11 @@
 	"EXTERNAL_PLAYER_DISABLED": "غیر فعال",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "انتخاب کی اجازت دیں",
 	"EXTERNAL_PLAYER_HINT": "اشارہ: بیرونی پلیئر کے ساتھ ہمیشہ کھولنے کی سیٹنگ موجود ہے",
-
 	"DONT_SHOW_AGAIN": "دوبارہ نہ دکھائیں",
-
 	"SERVICE_INSTALL": "انسٹال کریں",
-
 	"AUDIO": "آڈیو",
-
 	"DEFAULT_LANGUAGE": "ڈیفالٹ زبان",
 	"DEFAULT_SECONDARY_LANGUAGE": "ڈیفالٹ ثانوی زبان",
-
 	"SEASON": "سیزن",
 	"SEASON_NUMBER": "سیزن {{season}}",
 	"PREV_SEASON": "پچھلا سیزن",
@@ -265,7 +231,6 @@
 	"EPISODE": "ایپیسوڈ",
 	"EPISODE_ABBREVIATION": "EP",
 	"SPECIAL": "خصوصی",
-
 	"SORT": "ترتیب",
 	"SORT_BY": "ترتیب دیں",
 	"FILTER": "فلٹر",
@@ -289,19 +254,16 @@
 	"SORT_NAMEREVERSE": "ی-الف",
 	"SORT_TIMESWATCHED": "سب سے زیادہ دیکھا گیا",
 	"SORT_NOTWATCHED": "نہیں دیکھا گیا",
-
 	"New for You": "آپ کے لیے نیا",
 	"New Episodes": "نئے ایپیسوڈز",
 	"New Videos": "نئے ویڈیوز",
 	"Recommendations": "تجاویز",
-
 	"LIBRARY_RESUME": "جاری رکھیں",
 	"LIBRARY_PLAY": "چلائیں",
 	"LIBRARY_DETAILS": "تفصیلات",
 	"LIBRARY_RESUME_DISMISS": "مسترد کریں",
 	"LIBRARY_CLEAR_PROGRESS": "پیش قدمی صاف کریں",
 	"LIBRARY_REMOVE": "ہٹائیں",
-
 	"LIBRARY_NOT_LOGGED_IN": "لائبریری صرف لاگ ان صارفین کے لیے دستیاب ہے",
 	"LIBRARY_NOT_LOADED": "لائبریری لوڈ نہیں ہوئی!",
 	"LIBRARY_EMPTY": "خالی لائبریری",
@@ -311,12 +273,9 @@
 	"NOT_LOGGED_IN_NOTIFICATIONS": "کبھی کوئی ایپیسوڈ نہ چھوڑیں",
 	"NOT_LOGGED_IN_CALENDAR": "اپنا ذاتی دیکھنے کا کیلنڈر بنائیں",
 	"CALENDAR_NO_NEW_EPISODES": "اس دن کے لیے کوئی نئے ایپیسوڈز نہیں",
-
 	"DISCOVER_FEATURED": "نمایاں",
-
 	"DISCOVER_TOP": "ٹاپ",
 	"DISCOVER_OSCAR": "آسکر فاتحین",
-
 	"DISCOVER_WARNING_TITLE": "اوپس!",
 	"DISCOVER_EMPTY_CATALOG": "اس ایڈآن نے خالی مواد واپس کیا۔",
 	"DISCOVER_ADULT_WARNING": "مواد صرف بالغوں کے لیے نظر آتا ہے۔ کیا آپ 18+ ہیں؟",
@@ -325,12 +284,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "یہ مواد اب دستیاب نہیں، آپ نے ایڈآن ان انسٹال کیا ہو سکتا ہے۔",
 	"UNINSTALL_THIS_ADDON": "یہ ایڈآن ان انسٹال کریں",
 	"ERR_ADDON_NOT_INSTALLED": "یہ ایڈآن انسٹال نہیں ہے۔ اب انسٹال کریں؟",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "نئے ایپیسوڈز کے لیے اطلاعات حاصل کریں",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "نئے ویڈیوز کے لیے اطلاعات حاصل کریں",
-
 	"SIDEBAR_SHOW_STREAMS": "سٹریمز دکھائیں",
-
 	"RELAUNCH": "اب دوبارہ شروع کریں!",
 	"UPGRADE": "نیا ورژن دستیاب ہے! Stremio کے تازہ ترین ورژن میں اپگریڈ کریں",
 	"RELOAD_UI": "یوزر انٹرفیس دوبارہ لوڈ کریں",
@@ -341,7 +297,6 @@
 	"BUTTON_UPDATE_NOW": "اپڈیٹ کریں",
 	"UPDATER_TITLE": "Stremio کا نیا ورژن دستیاب ہے",
 	"UPDATER_INSTALL_BUTTON": "ابھی انسٹال کریں",
-
 	"ANONYMOUS_USER": "گمنام صارف",
 	"DONT_HAVE_ACC": "اکاؤنٹ نہیں ہے؟",
 	"HAVE_ACC": "پہلے سے اکاؤنٹ ہے؟",
@@ -393,26 +348,23 @@
 	"SEARCH_FAILED": "تلاش ناکام",
 	"EMAIL_USED": "یہ ای میل پہلے سے استعمال میں ہے۔",
 	"WAITING_FB_LOGIN": "Facebook کے ساتھ لاگ ان ہو رہے ہیں...",
-
-    "EXTERNAL_OPENING_YOUTUBE": "آپ Stremio چھوڑ کر YouTube کھول رہے ہیں۔ کیا آپ واقعی چاہتے ہیں؟",
-    "EXTERNAL_OPENING_APP": "آپ Stremio چھوڑ کر دوسری ایپ کھول رہے ہیں۔ کیا آپ واقعی چاہتے ہیں؟",
+	"EXTERNAL_OPENING_YOUTUBE": "آپ Stremio چھوڑ کر YouTube کھول رہے ہیں۔ کیا آپ واقعی چاہتے ہیں؟",
+	"EXTERNAL_OPENING_APP": "آپ Stremio چھوڑ کر دوسری ایپ کھول رہے ہیں۔ کیا آپ واقعی چاہتے ہیں؟",
 	"EXTERNAL_PLAYER_TITLE": "بیرونی پلیئر میں چلائیں",
 	"EXTERNAL_REMEMBER_PLAYER": "کیا آپ اپنا انتخاب یاد رکھنا چاہتے ہیں",
 	"EXTERNAL_ALWAYS_PLAY": "ہاں",
 	"EXTERNAL_ONLY_ONCE": "نہیں",
-
 	"BEST_FIT": "بہترین فٹ",
 	"FIT_SCREEN": "اسکرین فٹ",
 	"FILL": "بھریں",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "اصل",
-
 	"INTRO_TASTE": "ہمیں بتائیں آپ کیا پسند کرتے ہیں",
 	"INTRO_TASTE_LONG": "ہمیں بتائیں آپ کیا دیکھنا چاہیں گے",
 	"INTRO_TASTE_PICK": "{{interestsRemaining}} دلچسپیاں منتخب کریں",
 	"INTRO_TASTE_PICK_MORE": "{{interestsRemaining}} مزید دلچسپیاں منتخب کریں",
-  	"INTRO_TASTE_HELP_US": "آپ کے بارے میں مزید جاننے میں ہماری مدد کریں۔",
+	"INTRO_TASTE_HELP_US": "آپ کے بارے میں مزید جاننے میں ہماری مدد کریں۔",
 	"INTRO_TASTE_CHOOSE_THESE": "ان میں سے کچھ منتخب کریں:",
 	"INTRO_TASTE_CHOOSE_MIN": "کم از کم 3 کیٹگریز منتخب کریں",
 	"INTRO_TASTE_CHOOSE_MIN_ERR": "آپ کو کم از کم 3 کیٹگریز منتخب کرنی ہوں گی!",
@@ -431,7 +383,6 @@
 	"INTRO_TASTE_DIY": "خود کریں",
 	"INTRO_TASTE_TECH": "ٹیکنالوجی",
 	"INTRO_TASTE_CINEMA": "سینما",
-
 	"NO_ADDONS": "کوئی ایڈآنز انسٹال نہیں ہوئے!",
 	"NO_ADDONS_FOR_TYPE": "اس قسم کے لیے کوئی ایڈآنز انسٹال نہیں ہوئے!",
 	"ADDON_NOT_SUPPORTED": "منتخب کردہ ایڈآن اس پلیٹ فارم پر سپورٹ نہیں ہے۔",
@@ -444,9 +395,7 @@
 	"ADD_ADDON_DESCRIPTION": "آپ بیرونی لنک کے ذریعے ایڈآن شامل کر سکتے ہیں، جو انسٹال شدہ ایڈآنز کے تحت نظر آئے گا۔",
 	"PASTE_ADDON_URL": "ایڈآن URL پیسٹ کریں",
 	"ADDONS_FILTERS": "ایڈآنز فلٹرز",
-
 	"WHATS_NEW": "کیا نیا ہے",
-
 	"BUTTON_CONTINUE": "جاری رکھیں",
 	"BUTTON_ACTIVATE": "فعال کریں",
 	"BUTTON_ACTIVATED": "فعال شدہ",
@@ -461,9 +410,7 @@
 	"BUTTON_PREV": "پچھلا",
 	"BUTTON_NEXT": "اگلا",
 	"BUTTON_CLOSE": "بند کریں",
-
 	"OPEN_IN_BROWSER": "براؤزر میں کھولیں",
-
 	"LIB_EMPTY": "آپ کی لائبریری خالی نظر آتی ہے۔ جانیں یہ کتنی مفید ہے :) ",
 	"HOW_START": "آپ یوں شروع کر سکتے ہیں:",
 	"LIB_EMPTY_CAL": "آپ کا کیلنڈر آپ کی لائبریری میں سیریز دکھاتا ہے۔",
@@ -488,10 +435,8 @@
 	"LIB_EMPTY_ALL": "یہ سب حاصل کرنے کے لیے سائن اپ کریں:",
 	"LIB_EMPTY_BEST": "Stremio کا بہترین حاصل کرنے کے لیے سائن اپ کریں",
 	"LIB_EMPTY_OTHER": "کیلنڈر اور دیگر شاندار خصوصیات کو فعال کرنے کے لیے سائن اپ کریں",
-
 	"CALENDAR_ADDED": "Stremio کیلنڈر آپ کے ڈیفالٹ ڈیسک ٹاپ کیلنڈر میں شامل کر دیا گیا ہے۔",
 	"CALENDAR_ADDED_MSG": "اگر یہ کام نہیں کرتا، براہ کرم یہ URL اپنی کیلنڈر ایپلیکیشن میں دستی طور پر شامل کریں",
-
 	"TRAKT_EXPIRED": "Trakt تصدیق ختم ہو گئی، براہ کرم سیٹنگز میں جائیں اور دوبارہ تصدیق کریں",
 	"TRAKT_REQUIRES_LOGIN": "Trakt ایرر",
 	"TRAKT_REQUIRES_LOGIN_MSG": "آپ کو لاگ ان کرنا ہوگا",
@@ -642,17 +587,14 @@
 	"SETTINGS_DISABLED": "غیر فعال",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "نیٹ ورک کنکشن کی اطلاع",
 	"SETTINGS_ANALYTICS": "تجزیات کی اجازت دیں",
-
 	"SETTINGS_REMOTE_URL": "ریموٹ URL",
 	"SETTINGS_COPY_REMOTE_URL": "ریموٹ URL کاپی کریں",
 	"SETTINGS_REMOTE_URL_COPIED": "ریموٹ URL آپ کے کلپ بورڈ میں کاپی ہو گیا ہے",
-
 	"SETTINGS_SECTION_SUBTITLES": "سب ٹائٹل",
 	"SETTINGS_SECTION_AUDIO": "آڈیو",
 	"SETTINGS_SECTION_CONTROLS": "کنٹرولز",
 	"SETTINGS_SECTION_AUTO_PLAY": "خودکار چلائیں",
 	"SETTINGS_SECTION_ADVANCED": "ایڈوانسڈ",
-
 	"SUBSPICKER_AUDIO": "آڈیو",
 	"SUBSPICKER_SUBTITLES": "ایڈآنز سب ٹائٹل",
 	"SUBSPICKER_BLACK_BACKGROUND": "سیاہ بیک گراؤنڈ رنگ استعمال کریں",
@@ -660,7 +602,6 @@
 	"SUBSPICKER_SIZE": "سائز",
 	"SUBSPICKER_DELAY": "تاخیر",
 	"SUBSPICKER_EMBEDDED_SUBS": "ایمبیڈڈ سب ٹائٹل",
-
 	"MOBILE_PRIVACY_POLICY": "پرائیویسی پالیسی",
 	"MOBILE_CRASH_REPORTING": "کریش رپورٹنگ",
 	"MOBILE_ZOOM_TO_FILL": "اسکرین بھرنے کے لیے زوم کریں",
@@ -694,15 +635,11 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "آپ کا اکاؤنٹ Facebook استعمال کرتے ہوئے بنایا گیا تھا۔ اپنا اکاؤنٹ حذف کرنے کے لیے، براہ کرم www.stremio.com/login پر ہمارا یوزر پورٹل استعمال کریں",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "اکاؤنٹ حذف کرنے کی تصدیق کے لیے براہ کرم اپنا پاس ورڈ فراہم کریں۔",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "اکاؤنٹ حذف کریں",
-
 	"NAVIGATION_ON": "آن",
 	"NAVIGATION_OFF": "آف",
-
 	"READ_AND_AGREE": "میں نے Stremio کے ساتھ پڑھا اور اتفاق کیا",
 	"MARKETING_AGREE": "میں Stremio سے مارکیٹنگ مواصلات حاصل کرنے پر راضی ہوں",
-
 	"QUIT": "چھوڑیں",
-
 	"CONNECTED": "جڑا ہوا",
 	"AUTHENTICATE": "تصدیق کریں",
 	"AUTHENTICATING": "تصدیق ہو رہی ہے...",
@@ -714,7 +651,6 @@
 	"TORRENT_PROFILE": "ٹورنٹ پروفائل",
 	"DATA_CACHING": "ڈیٹا کیشنگ",
 	"MAGNET_PARSING": "میگنیٹ لنک پارس ہو رہا ہے",
-
 	"January": "جنوری",
 	"February": "فروری",
 	"March": "مارچ",
@@ -727,7 +663,6 @@
 	"October": "اکتوبر",
 	"November": "نومبر",
 	"December": "دسمبر",
-
 	"Monday": "پیر",
 	"Tuesday": "منگل",
 	"Wednesday": "بدھ",
@@ -735,7 +670,6 @@
 	"Friday": "جمعہ",
 	"Saturday": "ہفتہ",
 	"Sunday": "اتوار",
-
 	"Action": "ایکشن",
 	"Comedy": "کامیڈی",
 	"War": "جنگ",
@@ -811,7 +745,6 @@
 	"Science Radio": "سائنس ریڈیو",
 	"Tech Radio": "ٹیک ریڈیو",
 	"Science & Technology Vod": "سائنس اور ٹیکنالوجی VOD",
-
 	"new video": "نیا ویڈیو",
 	"new episode": "نیا ایپیسوڈ",
 	"new movie": "نئی فلم",
@@ -864,7 +797,6 @@
 	"CTX_PASTE": "پیسٹ کریں",
 	"CTX_CLEAR": "صاف کریں",
 	"CTX_CLEAR_RECENT_SEARCHES": "حالیہ تلاشیں صاف کریں",
-
 	"HELLO_THERE": "ہیلو",
 	"HOPE_YOU_ENJOY": "ہمیں امید ہے کہ آپ Stremio سے لطف اندوز ہو رہے ہیں اور یہ آپ کی پسندیدہ ایپس میں سے ایک ہے!",
 	"WHO_ARE_WE": "ہم کون ہیں؟ ہم اس کے پیچھے ٹیم ہیں - دو لوگ جو پچھلے 3 سالوں سے ہر روز اس پروڈکٹ کو بہتر سے بہتر بنانے کے لیے محنت کر رہے ہیں۔",
@@ -872,9 +804,7 @@
 	"SPREAD_THE_WORD": "ابھی اپنے دوستوں کے ساتھ شیئر کریں، Stremio کے بارے میں بات پھیلائیں",
 	"MORE_PEOPLE": "جتنے زیادہ لوگ Stremio استعمال کریں گے، یہ اتنا ہی بہتر ہوگا!",
 	"SEND_A_LINK": "یا ہماری ویب سائٹ کا لنک بھیجیں",
-
 	"TIP_LOCALFILES": "ٹپ: آپ مقامی ویڈیو فائلوں کو Stremio میں ڈریگ اینڈ ڈراپ کر سکتے ہیں",
-
 	"ADDON_MY": "میرے ایڈآنز",
 	"ADDON_COMMUNITY": "کمیونٹی ایڈآنز",
 	"ADDON_SECONDARY": "ثانوی ایڈآنز",
@@ -907,9 +837,8 @@
 	"ADDON_PROVIDES_SUBTITLES": "#{types} کے لیے سب ٹائٹل",
 	"ADDON_CANTDETECT": "ہم چلتا ہوا Stremio نہیں ڈھونڈ سکے، اس لیے ہم یہ نہیں جان سکے کہ آپ نے کون سے ایڈآنز انسٹال کیے ہیں۔",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
-
 	"ERR_APPLE_STREAM_NOT_SUPPORTED": "App Store کے قوانین کی وجہ سے اس ڈیوائس پر ٹورنٹ سٹریمنگ سپورٹ نہیں ہے",
-    "ERR_APPLE_TORRENT_NOT_SUPPORTED": "App Store کے قوانین کی وجہ سے اس ڈیوائس پر ٹورنٹ سٹریمنگ سپورٹ نہیں ہے",
+	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "App Store کے قوانین کی وجہ سے اس ڈیوائس پر ٹورنٹ سٹریمنگ سپورٹ نہیں ہے",
 	"ERR_NO_META": "اس کے بارے میں کوئی معلومات نہیں ملیں ",
 	"ERR_NO_META_SELECTED": "کوئی میٹا منتخب نہیں کیا گیا!",
 	"ERR_NO_META_FOUND": "کوئی میٹاڈیٹا نہیں ملا!",
@@ -928,14 +857,12 @@
 	"ERR_CLIPBOARD": "کلپ بورڈ سے نہیں چلا سکتے",
 	"ERR_CLIPBOARD_READ": "اس پلیٹ فارم پر کلپ بورڈ نہیں پڑھ سکتے",
 	"ERR_CLIPBOARD_GENERIC": "کلپ بورڈ میں کوئی قابل چلانے والا URL نہیں ملا۔ براہ کرم ویڈیو کا URL (مثلاً میگنیٹ لنک) کاپی کریں۔",
-
 	"BOARD_CONTINUE_WATCHING": "دیکھنا جاری رکھیں",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "دیکھنا جاری رکھیں لوڈ نہیں ہوا!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "دیکھنا جاری رکھیں خالی",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "خاص طور پر آپ کے لیے منتخب کردہ فلمیں۔<br />یہ فلم ایک نمونہ تجویز ہے۔",
 	"BOARD_EXPLANATION_EPISODES": "آپ کی پسندیدہ سیریز کے نئے ایپیسوڈز یہاں آتے ہیں۔<br />اپنی لائبریری میں سیریز شامل کریں جن کی آپ پیروی کرتے ہیں۔",
 	"BOARD_EXPLANATION_VIDEOS": "آپ کے پسندیدہ چینلز کے نئے ایپیسوڈز یہاں آتے ہیں۔<br />اپنی لائبریری میں یوٹیوب چینلز شامل کریں جن کی آپ پیروی کرتے ہیں۔",
-
 	"WEBSITE_ENJOYED_BY": "دنیا بھر میں 30 ملین سے زیادہ صارفین کی طرف سے پسند کیا گیا",
 	"WEBSITE_STREAMING_ENHANCED": "سٹریمنگ بہتر بنائی گئی",
 	"WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio ایک محفوظ، جدید اور بغیر رکاوٹ تفریحی تجربہ پیش کرتا ہے۔ اپنے استعمال میں آسان انٹرفیس اور متنوع مواد کی لائبریری کے ساتھ، بشمول 4K HDR سپورٹ، صارفین اپنی تمام ڈیوائسز پر اپنی پسندیدہ فلمیں اور ٹی وی شوز سے لطف اندوز ہو سکتے ہیں۔ اور سیکیورٹی کے عزم کے ساتھ، Stremio فکر سے پاک، اعلیٰ معیار کے سٹریمنگ تجربے کے لیے حتمی انتخاب ہے۔",
@@ -982,7 +909,6 @@
 	"WEBSITE_FREE_AND_SECURE_DETAILS": "Stremio صارفین کے لیے بے مثال سیکیورٹی اور پرائیویسی پیش کرتا ہے۔ ایڈآنز کو دور سے چلانے کی اپنی منفرد خصوصیت کے ساتھ، Stremio دوسرے پلیٹ فارمز کے مقابلے میں آپ کے پسندیدہ مواد کو سٹریم کرنے کا ایک محفوظ طریقہ فراہم کرتا ہے۔ آپ کی سیکیورٹی اور پرائیویسی اولین ترجیحات ہیں، اور پلیٹ فارم یقینی بناتا ہے کہ آپ کا تمام ڈیٹا محفوظ ہے۔",
 	"WEBSITE_FREE_AND_SECURE_DETAILS_2": "سیکیورٹی اور پرائیویسی کی فکروں کو الوداع کہیں اور Stremio کے ساتھ لامتناہی تفریح کی دنیا کو ہیلو کہیں۔",
 	"WEBSITE_INFORMATION_PROVIDED_BY": "معلومات فراہم کردہ",
-
 	"WEBSITE_CONTRIBUTE_DESC": "پروجیکٹ میں حصہ ڈالیں اور Stremio کو مزید بہتر بنانے میں ہماری مدد کریں",
 	"WEBSITE_COMMUNITY_DESC": "ہمارا ماننا ہے کہ واقعی حیرت انگیز سٹریمنگ تجربہ بنانے کا بہترین طریقہ اپنی کمیونٹی کو اس عمل میں شامل کرنا ہے۔ چاہے آپ پروگرامر ہوں، آرٹسٹ ہوں، یا صرف ایک پرستار - آپ Stremio کو بڑھنے میں مدد کر سکتے ہیں۔",
 	"WEBSITE_COMMUNITY_DESC_2": "تو آج ہی ہمارے ساتھ شامل ہوں اور Stremio کمیونٹی کا حصہ بنیں اور سٹریمنگ کے مستقبل کو تشکیل دیتے رہیں۔",
@@ -1047,38 +973,28 @@
 	"WEBSITE_TYPE_series_PL": "سیریز",
 	"WEBSITE_TYPE_tv": "لائیو ٹی وی",
 	"WEBSITE_TYPE_channel": "چینلز",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio ایک ایپ ہے جو آپ کو اپنے پسندیدہ ویڈیوز، فلموں، ٹی وی سیریز اور ٹی وی چینلز کو منظم کرنے اور فوری طور پر دیکھنے میں مدد کرتی ہے۔",
-
 	"WEBSITE_FEATURES_WATCH": "HD میں فوری طور پر دیکھیں",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "اپنی پسندیدہ فلمیں، ٹی وی شوز، ویڈیوز اور ٹی وی چینلز کلک کریں اور چلائیں۔",
-
 	"WEBSITE_FEATURES_SUBS": "خودکار سب ٹائٹل",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio خودکار طور پر آپ کی زبان کے لیے سنک شدہ سب ٹائٹل منتخب کرتا ہے۔",
 	"WEBSITE_FEATURES_SUBS_LABEL": "آپ کی باری، چیف۔",
-
 	"WEBSITE_FEATURES_CAST": "ٹی وی اور موبائل ڈیوائسز پر چلائیں",
 	"WEBSITE_FEATURES_CAST_DETAIL": "AppleTV، Chromecast، Smart TV (DLNA/UPnP) اور موبائل ڈیوائسز پر کاسٹ کریں۔",
-
 	"WEBSITE_LIB": "اپنی تمام ڈیوائسز پر سنک شدہ اپنی ذاتی لائبریری سے لطف اندوز ہوں",
 	"WEBSITE_LIB_COLLECT": "Stremio سے جمع کریں",
 	"WEBSITE_LIB_IMPORT": "Facebook سے امپورٹ کریں",
 	"WEBSITE_LIB_LOCAL": "اپنی مقامی ڈرائیو سے شامل کریں",
-
 	"WEBSITE_BOARD": "بورڈ - اطلاعات اور تجاویز کے لیے آپ کی ایک جگہ",
 	"WEBSITE_BOARD_RECOMMEND": "تجویز کردہ ٹی وی شو",
 	"WEBSITE_BOARD_TRENDING": "رجحان ساز فلم",
 	"WEBSITE_BOARD_NEW": "نیا ویڈیو",
 	"WEBSITE_BOARD_EPISODE": "نیا ایپیسوڈ",
-
 	"WEBSITE_BOARD_1": "دیکھنے کے لیے کچھ دلچسپ تلاش کر رہے ہیں؟ اپنے ذوق کی بنیاد پر تجاویز حاصل کریں!",
 	"WEBSITE_BOARD_2": "جب آپ کے پسندیدہ ٹی وی شو یا یوٹیوب چینل کا نیا ایپیسوڈ آئے تو اطلاع حاصل کریں!",
-
 	"WEBSITE_BOARD_YOUTUBE": "یوٹیوب چینلز کے نئے ویڈیوز",
 	"WEBSITE_BOARD_EPISODES": "سیریز کے نئے ایپیسوڈز جن کی آپ پیروی کرتے ہیں",
-
 	"WEBSITE_ADDONS": "مواد ایڈآنز",
-
 	"WEBSITE_TECH_DETAIL": "ہم ٹیکنالوجی سے محبت کرتے ہیں، ہم پاگل سائنس سے محبت کرتے ہیں!\nStremio مندرجہ ذیل اوپن سورس ٹیکنالوجیز استعمال کر رہا ہے:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js Stremio کو اچھی کارکردگی کے ساتھ کوئی بھی ویڈیو فارمیٹ چلانے کی اجازت دیتا ہے۔",
 	"WEBSITE_TECH_WCJS_EXTRA": "ہم بنیادی پروجیکٹ کے تعاون کار ہیں",
@@ -1086,7 +1002,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "ہم پروجیکٹ کے تعاون کار ہیں",
 	"WEBSITE_TECH_LINVODB": "ایک ڈیٹا بیس ٹیکنالوجی جو یقینی بناتی ہے کہ آپ کا ڈیٹا منظم ہے اور جہاں بھی آپ لاگ ان کریں دستیاب ہے۔",
 	"WEBSITE_TECH_LINVODB_EXTRA": "اندرونی ٹیکنالوجی",
-
 	"WEBSITE_CREATE_ADDON": "اپنا ایڈآن بنائیں",
 	"WEBSITE_CREATE_ADDON_DETAIL": "کیا آپ کے پاس ویڈیو مواد فراہم کرنے والی سروس ہے؟ ہم آپ کا ایڈآن بنا کر Stremio کی خصوصیات سے فائدہ اٹھانے میں آپ کی مدد کریں گے۔",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Stremio کے لیے ایڈآن بنانے کے فوائد",
@@ -1097,19 +1012,16 @@
 	"WEBSITE_P2P_CONTACT": "دلچسپی ہے؟ آپ <a href='mailto:office@stremio.com'>ہم سے رابطہ</a> کرنے کے لیے خوش آمدید ہیں۔",
 	"WEBSITE_P2P_CONTACT_EXTRA": "ہم آپ کے مواد کو Stremio کے ساتھ مربوط کرنے میں آپ کی مدد کرنے میں خوش ہوں گے!",
 	"WEBSITE_P2P": "کبھی کبھار، ایک ایسی ٹیکنالوجی آتی ہے جو کھیل کا نام بدل دیتی ہے۔ ہم نے اپنے پیئر ٹو پیئر (P2P) ویڈیو سٹریمنگ انجن کی تعمیر میں بہت وقت اور محنت لگائی ہے جو بہترین کارکردگی اور کسی بھی استعمال کے معاملے کے ساتھ ڈھلنے کی استعداد فراہم کرتا ہے۔\nDRM فعال P2P ویڈیو آن ڈیمانڈ یا لائیو سٹریمنگ کے لیے ہم سے رابطہ کریں۔",
-
 	"WEBSITE_THOUGHTS": "خیالات جو ہم شیئر کرتے ہیں:",
 	"WEBSITE_SPREAD": "Stremio کے بارے میں بات پھیلائیں:",
 	"WEBSITE_CONTACT": "ہم سے رابطہ کریں، ہمیں آپ سے سننے میں خوشی ہوگی!",
 	"WEBSITE_OPENSOURCE": "ہمارے اوپن سورس پروجیکٹس کے لیے، ہمارے پر جائیں",
-
 	"WEBSITE_BITCOIN": "بٹ کوائن عطیہ کریں:",
 	"WEBSITE_FAQ": "اکثر پوچھے جانے والے سوالات",
 	"WEBSITE_FAQ_SHORT": "FAQ",
 	"WEBSITE_QUESTIONS": "سوالات",
 	"WEBSITE_TOS": "استعمال کی شرائط",
 	"WEBSITE_LEGAL": "قانونی",
-
 	"WEBSITE_PAGE_ABOUT": "کے بارے میں",
 	"WEBSITE_PAGE_BECOME_PARTNER": "شراکت دار بنیں",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "دیکھنے کی آزادی\nجو کچھ آپ چاہیں۔",
@@ -1128,7 +1040,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "لامحدود قابل توسیع ویڈیو کیٹالاگ؛",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "اپنے میڈیا کو منظم کرنے کی بہترین خصوصیات؛",
 	"WEBSITE_AS_SEEN_ON": "جیسا کہ دیکھا گیا",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "ہمارے بارے میں",
 	"WEBSITE_LINK_TECHNOLOGY": "ٹیکنالوجی",
@@ -1156,7 +1067,6 @@
 	"WEBSITE_WHY_P3": "آپ ہماری سروس کو کسی بھی ڈیوائس پر اور کسی بھی وقت استعمال کر سکتے ہیں، Stremio کو واحد ویڈیو تفریحی حب بناتے ہوئے جس کی آپ کو کبھی ضرورت ہوگی۔",
 	"WEBSITE_TEAM": "ٹیم",
 	"WEBSITE_TEAM_P": "Stremio ٹیم چھوٹی لیکن طاقتور ہے: ہم دس میں سے، ہم X زبانوں میں کوڈ کرتے ہیں، اور سافٹ ویئر ڈیولپمنٹ، UI اور UX ڈیزائن، مارکیٹنگ اور اشتہارات، اور کاروبار اور اسٹارٹ اپس میں مہارت شیئر کرتے ہیں۔",
-
 	"WEBSITE_FEATURES": "خصوصیات",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "آسانی سے نیا مواد دریافت کریں",
@@ -1172,7 +1082,6 @@
 	"WEBSITE_FEATURES_SOURCES": "بہت سے مختلف سورسز سے ویڈیو دیکھیں",
 	"WEBSITE_FEATURES_SOURCES_P": "بہت سے مختلف فراہم کنندگان سے حاصل کردہ ویڈیو سے لطف اندوز ہونے کے لیے سرکاری اور کمیونٹی ایڈآنز انسٹال کریں - سب ایک شاندار، استعمال میں آسان ایپ میں۔",
 	"WEBSITE_CREATE_AN_ADDON": "ایک ایڈآن بنائیں",
-
 	"WEBSITE_FEATURES_SYNC": "مختلف ڈیوائسز میں اپنی لائبریری سنک کریں اور اپنا پلے بیک دوبارہ شروع کریں",
 	"WEBSITE_FEATURES_SYNC_P1": "اپنی تمام ڈیوائسز پر اپنے اکاؤنٹ کے ساتھ لاگ ان کریں اور اپنی لائبریری، ایڈآنز، پلے بیک اور کیلنڈر سنک شدہ سے لطف اندوز ہوں۔",
 	"WEBSITE_FEATURES_EXTENDABLE": "ایڈآنز کے ذریعے قابل توسیع ویڈیو کیٹالاگ",
@@ -1187,7 +1096,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "بیرونی پلیئر میں چلائیں",
 	"WEBSITE_FEATURES_POWER_USER_P2": "ٹورنٹ فائل یا میگنیٹ لنک سے چلائیں",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Facebook لائکس یا مقامی ڈسک سے اپنی لائبریری میں امپورٹ کریں",
-
 	"WEBSITE_ADD_ONS": "ایڈآنز",
 	"WEBSITE_ADD_ONS_P1": "Stremio جو تمام ویڈیو مواد فراہم کرتا ہے وہ ایڈآن سسٹم کے ذریعے حاصل ہوتا ہے - کوئی مواد یا مواد فراہم کنندہ ایپ میں بلٹ ان نہیں ہے۔",
 	"WEBSITE_ADD_ONS_P2": "ایڈآنز کے دو گروپ دستیاب ہیں: سرکاری اور کمیونٹی ایڈآنز۔",
@@ -1205,7 +1113,6 @@
 	"WEBSITE_ADDONS_CREATE": "ایک ایڈآن بنائیں",
 	"WEBSITE_ADDONS_CREATE_P1": "اگر آپ چاہیں تو، آپ اپنا ایڈآن تیار کر سکتے ہیں۔ اس طرح، آپ اپنے آپ کو اور ہماری کمیونٹی کو نئے ویڈیو مواد تک رسائی دے سکتے ہیں، اور دنیا بھر میں لاکھوں صارفین کے نئے، ہدف شدہ سامعین تک پہنچ سکتے ہیں۔",
 	"WEBSITE_ADDONS_START_CREATE": "شروع کرنے کے لیے، Stremio Addon SDK صفحہ پر جائیں:",
-
 	"WEBSITE_DOWNLOADS": "ڈاؤن لوڈز",
 	"WEBSITE_DOWNLOADS_P1": "بہترین کارکردگی کے لیے، ہم تجویز کرتے ہیں کہ آپ Stremio ایپس کا تازہ ترین دستیاب ورژن استعمال کریں۔ اگر کسی وجہ سے، تاہم، آپ پرانا ورژن استعمال کرنا چاہتے ہیں، تو آپ اسے یہاں ڈاؤن لوڈ کر سکتے ہیں۔",
 	"WEBSITE_DOWNLOADS_P1_SHORT": "بہترین کارکردگی کے لیے، ہم تجویز کرتے ہیں کہ آپ Stremio ایپس کا تازہ ترین دستیاب ورژن استعمال کریں۔",
@@ -1217,6 +1124,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobile کے لیے Stremio",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Steam Deck کے لیے Stremio",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS کے لیے Stremio (محدود ورژن)",
+	"WEBSITE_DOWNLOADS_FOR_TVOS": "Stremio for tvOS (limited version)",
 	"WEBSITE_DOWNLOADS_FOR_SAMSUNG_TV": "Samsung TV کے لیے Stremio",
 	"WEBSITE_DOWNLOADS_FOR_LG_TV": "LG TV کے لیے Stremio",
 	"WEBSITE_DOWNLOADS_FOR_SONY_TV_ANDROID": "Sony TV کے لیے Stremio (Android)",
@@ -1239,7 +1147,6 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "اپنے Xbox ڈیوائس کے App Store میں Stremio تلاش کریں",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "RPI پر Stremio OS کے لیے گائیڈ",
 	"WEBSITE_LINK_GUIDE": "گائیڈ",
-
 	"WEBSITE_DOWNLOAD_SERVICE": "Stremio Service ڈاؤن لوڈ کریں",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service، Stremio Web کے لیے ایک ساتھی ایپ ہے۔ ہم Stremio Service کا تازہ ترین دستیاب ورژن استعمال کرنے کی تجویز کرتے ہیں۔",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Windows کے لیے Stremio Service",
@@ -1255,7 +1162,6 @@
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "ہم نے Xbox کے لیے Stremio ریلیز کیا",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "ہم نے Raspberry Pi کے لیے Stremio ریلیز کیا",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "ہم نے Windows کے لیے Stremio 5 ریلیز کیا",
-
 	"WEBSITE_CONTRIBUTE": "حصہ ڈالیں",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio پلیٹ فارم اوپن سورس ہے اور آپ آسانی سے ایسے مواد کے لیے ایڈآن بنا سکتے ہیں جو فی الوقت حاصل نہیں ہے۔",
 	"WEBSITE_CONTRIBUTE_WHY": "آپ کو ایڈآن کیوں بنانا چاہیے؟",
@@ -1273,7 +1179,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "اگر آپ مختلف زبانوں میں Stremio ایپس سے لطف اندوز ہونا چاہتے ہیں، تو آپ رضاکار مترجمین کی ہماری کمیونٹی میں شامل ہو سکتے ہیں۔ وہ بہت سی مختلف زبانوں میں Stremio کے ورژن شامل کرنے میں ہماری مدد کرتے ہیں۔",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "کیا آپ شروع کرنے کے لیے بے تاب ہیں؟",
 	"WEBSITE_TRANSALTE_STREMIO": "Stremio کا ترجمہ کریں",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "سرکاری کمیونٹیز",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "بڑھتی ہوئی Stremio کمیونٹی کا حصہ بنیں۔ سوشل میڈیا پر ہماری پیروی کریں اور ہیلو کہنے میں شرمائیں نہیں - ہمیں اپنے پرستاروں سے سننا پسند ہے! ",
@@ -1296,7 +1201,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "وال پیپرز",
 	"WEBSITE_COMMUNITY_ART": "کمیونٹی آرٹ گیلری",
 	"WEBSITE_LINK_ART": "کمیونٹی آرٹ گیلری",
-
 	"WEBSITE_CONTACT_US": "ہم سے رابطہ کریں",
 	"WEBSITE_CONTACT_US_P1": "اگر آپ کے کوئی سوالات، تبصرے یا تجاویز ہیں، تو نیچے دیے گئے رابطہ فارم کے ذریعے ہم سے رابطہ کرنے میں آزاد محسوس کریں۔",
 	"WEBSITE_CONTACT_US_P2": "یاد رکھیں کہ ہم بلغاریہ میں واقع ہیں لہذا ٹائم زون کے فرق کی وجہ سے آپ کے سوال کو حل کرنے میں تاخیر ہو سکتی ہے۔",
@@ -1307,7 +1211,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "آپ کا ای میل",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "پیغام",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "بھیجیں",
-
 	"WEBSITE_CONTACT_US_Q_1": "کیسے انسٹال کریں؟",
 	"WEBSITE_CONTACT_US_Q_2": "کیسے ان انسٹال کریں؟",
 	"WEBSITE_CONTACT_US_Q_3": "(HTML) لازانیا کیسے بنائیں؟",
@@ -1317,7 +1220,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "ٹیکنالوجی",
 	"WEBSITE_TECHNOLOGY_P1": "ہم ٹیکنالوجی اور پاگل سائنس سے محبت کرتے ہیں۔ </br> یہ ہے جو Stremio کو طاقت دیتا ہے (یہ سب اوپن سورس ہے)۔",
 	"WEBSITE_TECHNOLOGY_P_QT": "کراس پلیٹ فارم سافٹ ویئر ڈیولپمنٹ اپنے بہترین میں۔",
@@ -1333,7 +1235,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "یا",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... آپ کمیونٹی ایڈآنز بنانے کے لیے اپنی کوڈنگ کی مہارت استعمال کر سکتے ہیں۔ ",
 	"WEBSITE_TRANSLATE_STREMIO": "Stremio کا ترجمہ کریں",
-
 	"WEBSITE_404_OH_NO": "اوہ نہیں! جو صفحہ آپ تلاش کر رہے ہیں وہ یہاں نہیں ہے...",
 	"WEBSITE_GO_HOME": "ہوم پر جائیں",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "دیگر ڈاؤن لوڈز",
@@ -1344,54 +1245,39 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "ایڈآن مقابلہ",
 	"WEBSITE_LINK_ART_CONTEST": "آرٹ مقابلہ",
 	"WEBSITE_MY_ACCOUNT": "میرا اکاؤنٹ",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Stremio کیا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio ایک جدید میڈیا سینٹر ہے جو آپ کو جو کچھ چاہیں دیکھنے کی آزادی دیتا ہے۔",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "یہ کیسے کام کرتا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "ایک بار جب آپ اپنی ڈیوائس پر Stremio انسٹال کر لیں اور اکاؤنٹ بنا لیں، تو آپ کو بس ایڈآن کیٹالاگ پر جانا ہے اور جو بھی ایڈآن آپ چاہیں انسٹال کرنا ہے، اور آپ تیار ہیں!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "اس کے بعد، آپ مواد تلاش کرنا شروع کرنے کے لیے دریافت کریں یا بورڈ سیکشنز پر جا سکتے ہیں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "میں یہاں کیا دیکھ سکتا ہوں؟",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "بہت کچھ: فلمیں، ٹی وی شوز، ویب چینلز، کھیل، ٹی وی چینلز، پوڈکاسٹ سنیں اور مزید۔ ہمارے ایڈآن سسٹم کی بدولت، آپ مختلف قسم کے مواد تک رسائی حاصل کر سکتے ہیں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "کیا Stremio اوپن سورس ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "ہاں، آپ مندرجہ ذیل لنکس چیک کر سکتے ہیں: ${1}ڈیسک ٹاپ ایپ${2} اور ${3}GitHub تنظیم${4}۔",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "کیا Stremio محفوظ ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "ہاں: کیونکہ یہ اوپن سورس سافٹ ویئر ہے، کوڈ عوامی طور پر قابل آڈٹ ہے اور آپ خود اس کا جائزہ لے سکتے ہیں۔",
 	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio کا ایڈآن سسٹم بھی صارف کی سیکیورٹی کو ذہن میں رکھ کر بنایا گیا تھا۔ ایڈآنز مقامی طور پر کوئی کوڈ نہیں چلاتے، لہذا وہ آپ کی ڈیوائس کے لیے کوئی خطرہ نہیں رکھتے۔",
-
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "میری پرائیویسی کے بارے میں کیا خیال ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "ہم صارفین کی پرائیویسی کا احترام کرتے ہیں اور آپ کا اکاؤنٹ بنانے اور سنک کرنے کے لیے ضروری کم سے کم کے علاوہ کوئی ذاتی ڈیٹا جمع نہیں کرتے۔",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "سائن اپ پر ${1}مہمان موڈ${2} بھی ہے، جس میں کسی ڈیٹا کی ضرورت نہیں ہوتی: اس موڈ میں، ہمارے بیک اینڈ پر کوئی کالز نہیں کی جاتیں۔ تاہم، یہ مفید خصوصیات کی قیمت پر آتا ہے، جیسے کہ اپنی لائبریری کو ڈیوائسز میں سنک کرنے کے قابل ہونا۔",
-
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "کیا میں اپنے ٹی وی پر کاسٹ کر سکتا ہوں؟",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "ہاں، ہم Chromecast کو سپورٹ کرتے ہیں اور آپ ڈیسک ٹاپ اور موبائل ایپس (Android) دونوں سے کاسٹ کر سکتے ہیں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Stremio کے کتنے ایڈآنز ہیں؟",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "2019 کے آخر تک، 50 سے زیادہ - مزید معلومات کے لیے، ہمارا ایڈآن کیٹالاگ دیکھیں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "کیا Stremio کو ایڈآن کیٹالاگ میں موجود چیزوں سے آگے بڑھایا جا سکتا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "ہاں، آپ کو یہ چیک کرنی چاہئیں: ${1}PimpMyStremio${2}، ${3}Reddit کمیونٹیز${4}، ${5}Stremio Downloader${6}، وغیرہ۔",
-
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Stremio کون سی ڈیوائسز کو سپورٹ کرتا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "ہمارے پاس Windows، Mac اور Linux کے لیے ڈیسک ٹاپ ایپس ہیں۔ موبائل کے لیے، ہم Android اور iOS کو سپورٹ کرتے ہیں، حالانکہ یاد رکھیں کہ iOS فعالیت میں محدود ہے (زیادہ تر ایڈآنز کو سپورٹ نہیں کرتا)۔",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "بہت سے Android پر مبنی ڈیوائسز ہیں جن پر آپ Stremio چلا سکتے ہیں، جیسے NVIDIA Shield اور Amazon Fire Stick، لیکن ہم انہیں سرکاری طور پر سپورٹ نہیں کرتے۔",
 	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "ہمارے پاس Windows، Mac اور Linux کے لیے ڈیسک ٹاپ ایپس ہیں۔ ہمارے پاس Android Mobile اور Android TV کے لیے مخصوص ایپس بھی ہیں۔ iOS اور iPadOS کے لیے ہم Stremio Web استعمال کرنے کی تجویز کرتے ہیں، حالانکہ یہ فعالیت میں زیادہ محدود ہے۔",
-
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "کیا آپ Stremio میں کچھ مواد شامل کر سکتے ہیں؟",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "معذرت، ہم خود کوئی مواد فراہم نہیں کرتے، لیکن جتنے زیادہ Stremio ایڈآنز آپ نے انسٹال کیے ہوں گے، اتنا ہی زیادہ مواد آپ تلاش کر سکیں گے۔",
-
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "کیا Stremio میگنیٹ لنکس چلا سکتا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "ہاں، اور یہ عام HTTP لنکس اور ٹورنٹ فائلیں بھی چلا سکتا ہے (ڈریگ اینڈ ڈراپ)۔",
-
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "کیا میں ویڈیو ڈاؤن لوڈ کر کے آف لائن دیکھ سکتا ہوں؟",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "آف لائن دستیاب ایک آنے والی خصوصیت ہے، لیکن اگر آپ Stremio کو اپنی ڈیوائس پر کیش کرنے کی اجازت دیتے ہیں (سیٹنگز پینل سے) تو آپ بعد میں کنکشن کے بغیر ویڈیوز دیکھ سکتے ہیں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "کچھ بھی کام نہیں کر رہا، میری مدد کریں!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "کیا آپ کو یقین ہے کہ آپ نے ایڈآنز انسٹال کیے ہیں؟ اگر ہاں، تو ہمارے ${1}مدد کے مرکز${2} سے چیک کریں۔",
-
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Stremio اپنی ترقیاتی کارروائیوں کو کیسے برقرار رکھتا ہے؟",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "ہم کبھی کبھار غیر مداخلت کرنے والے اشتہارات چلاتے ہیں، لیکن ہم عطیہ کے ماڈل پر جانے پر غور کر رہے ہیں۔",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "مزید سوالات کے لیے، ہمارے ${1}مدد کے مرکز${2} پر جائیں۔",
@@ -1416,7 +1302,7 @@
 	"I_GIVE_UP": "میں ہار مان لیتا ہوں",
 	"LEARN_MORE": "مزید جانیں",
 	"POOR_SOURCE": "یہ سورس خراب طریقے سے دستیاب ہے یا آپ کا انٹرنیٹ کنکشن کافی تیز نہیں ہے",
-	"PICK_CATEGORIESERR": "آپ کو کم از کم 3 کیٹگریز منتخب کرنی ہوں گی",
+	"PICK_CATEGORIES_ERR": "You have to pick at least 3 categories",
 	"ADJUST_TIMING": "ٹائمنگ ایڈجسٹ کریں ",
 	"ADJUST_SIZE": "سائز ایڈجسٹ کریں ",
 	"SEARCH_ANYTHING": "آپ کچھ بھی تلاش کر سکتے ہیں...",
@@ -1431,15 +1317,12 @@
 	"CLEAR_HISTORY": "تاریخ صاف کریں",
 	"CHOOSE_SOME": "ان میں سے کچھ منتخب کریں:",
 	"PAGE_NOT_FOUND": "صفحہ نہیں ملا!",
-
 	"NO_WEB_REMOTE": "ویب ریموٹ لوڈ نہیں ہو سکا",
 	"STREMIO_OFFLINE": "Stremio آف لائن ہے",
 	"STREMIO_EXPENSIVE_CONNECTION": "ہم نے پتہ لگایا ہے کہ آپ موبائل ڈیٹا کنکشن استعمال کر رہے ہیں، کیا آپ جاری رکھنا چاہتے ہیں؟",
 	"USE_DATA": "ڈیٹا استعمال کریں",
 	"WARNING": "انتباہ",
-
 	"MORE_INFO": "مزید معلومات ...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "لوڈ ہو رہا ہے ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "زبانوں پر واپس",
@@ -1489,7 +1372,7 @@
 	"STREMIO_TV_ADDONS_TITLE": "ایڈآنز انسٹال یا کنفیگر کرنے کے لیے اپنے فون یا PC پر Stremio استعمال کریں اور \"ایڈآنز سنک کریں\" دبائیں",
 	"STREMIO_TV_ADDONS_SUBTITLE": "نوٹ: یقینی بنائیں کہ آپ ایک ہی Stremio اکاؤنٹ استعمال کر رہے ہیں",
 	"STREMIO_TV_ADDONS_SYNC_ADDONS": "ایڈآنز سنک کریں",
-	"STREMIO_TV_AD_SUCCESS": "ایڈآنز کامیابی سے سنک ہو گئے",
+	"STREMIO_TV_ADDONS_SYNC_SUCCESS": "Addons successfully synchronized",
 	"STREMIO_TV_ADDONS_SYNC_FAILED": "ایڈآنز سنک کرنے میں ناکام",
 	"STREMIO_TV_META_LINK_FAILED": "میٹا لنک کھولنے میں ناکام",
 	"STREMIO_TV_CATALOG_LOADING": "کیٹالاگ ابھی لوڈ ہو رہا ہے...",
@@ -1520,7 +1403,6 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "لوڈ ہوتے وقت شماریات دکھائیں",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Stremio کی پرائیویسی پالیسی پڑھنے کے لیے، ملاحظہ کریں:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Stremio کی شرائط و ضوابط پڑھنے کے لیے، ملاحظہ کریں:",
-
 	"STREMIO_TV_NAV_SEARCH": "تلاش",
 	"STREMIO_TV_NAV_HOME": "ہوم",
 	"STREMIO_TV_NAV_DISCOVER": "دریافت کریں",
@@ -1531,14 +1413,12 @@
 	"STREMIO_TV_NAV_TV": "لائیو ٹی وی",
 	"STREMIO_TV_NAV_SETTINGS": "سیٹنگز",
 	"STREMIO_TV_NAV_ADDONS": "ایڈآنز",
-
 	"STREMIO_TV_LOGIN_TITLE": "اکاؤنٹ لنک کریں",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "ختم ہو رہا ہے",
 	"STREMIO_TV_LOGIN_STEP_ONE": "اوپر QR کوڈ اسکین کریں یا جائیں",
 	"STREMIO_TV_LOGIN_STEP_TWO": "اپنے Stremio اکاؤنٹ میں لاگ ان کریں",
 	"STREMIO_TV_LOGIN_NEW_LINK": "نیا لنک کی درخواست کریں",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "لاگ ان کوڈ ریفریش ہو گیا",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "کچھ ٹائپ کریں",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "کیٹالاگز کے لیے کوئی ایڈآنز کی درخواست نہیں کی گئی!",
 	"STREMIO_TV_SEARCH_BUTTON": "تلاش کریں",
@@ -1548,11 +1428,8 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "تلاش کی تاریخ",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "آپ عنوانات، اداکاروں، چینلز اور مزید تلاش کر سکتے ہیں...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "تلاش کی تاریخ صاف کریں",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "نیچے دیے گئے فلٹرز میں سے ایک منتخب کریں",
-
 	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "سٹریمنگ سرور آف لائن ہے۔ سرور سیٹنگز چیک کریں۔",
-
 	"FILTERS": "فلٹرز",
 	"SETTINGS": "سیٹنگز",
 	"ACCOUNT": "اکاؤنٹ",
@@ -1602,27 +1479,21 @@
 	"REMOTE_ADJUST_SIZE": "سائز ایڈجسٹ کریں",
 	"REMOTE_COULD_NOT_BE_LOADED": "ویب ریموٹ لوڈ نہیں ہو سکا",
 	"REMOTE_RETRY": "دوبارہ کوشش کریں",
-
 	"TORRENT_PROFILE_DEFAULT": "ڈیفالٹ",
 	"TORRENT_PROFILE_SOFT": "نرم",
 	"TORRENT_PROFILE_FAST": "تیز",
 	"TORRENT_PROFILE_ULTRA_FAST": "انتہائی تیز",
-
 	"MB_S": "MB/s",
-
 	"FAQ_001_H1": "Stremio کیا ہے؟",
 	"FAQ_001_P1": "Stremio ایک میڈیا سینٹر سافٹ ویئر ہے جو استعمال میں آسانی کو ذہن میں رکھتے ہوئے ویڈیو تفریح کے لیے ڈیزائن کیا گیا ہے۔ Stremio آپ کو اپنی فلموں، سیریز، چینلز اور لائیو ٹی وی کے اپنے مجموعے کو منظم اور دیکھنے کی اجازت دیتا ہے۔",
 	"FAQ_001_P2": "Stremio جو مواد دکھاتا ہے وہ آپ کی مقامی ڈسک اور ہمارے ایڈآنز سسٹم سے جمع کرتا ہے۔",
 	"FAQ_001_P3": "یہ آپ کو بھی مطلع کرے گا جب آپ کے دلچسپی والے ٹی وی شو یا یوٹیوب چینل کا نیا ایپیسوڈ/ویڈیو/فلم آئے، اور آپ کے لیے فلم کی تجاویز فراہم کرے گا۔",
-
 	"FAQ_02_H1": "Stremio کا Kodi اور Plex سے موازنہ کیسے ہے؟",
 	"FAQ_02_P1": "ہم ان دو سافٹ ویئر سے متاثر ہیں۔ لیکن ہمارے مختلف اہداف ہیں - Stremio خاص طور پر تفریحی ویڈیو کی طرف ہدف ہے، اور استعمال میں بہت آسان ہونے سے اس کا مرکزی دھارے کا حل بننے کی کوشش کرتا ہے۔",
 	"FAQ_02_P2": "Stremio کبھی بھی Kodi اور Plex جتنا قابل تخصیص اور خصوصیات سے بھرپور نہیں ہوگا، لیکن یہ استعمال میں نمایاں طور پر آسان ہے۔ بس ${1} اسے حاصل کریں اور دیکھیں ${2} :)",
-
 	"FAQ_03_H1": "Stremio کا Netflix سے موازنہ کیسے ہے؟",
 	"FAQ_03_P1": "دوبارہ، Netflix ہماری تحریکوں میں سے ایک ہے۔ ہم Netflix کے صارف تجربے کو حاصل کرنے کی کوشش کرتے ہیں، اور بہت سی اضافی چیزیں۔ لیکن سب سے اہم بات، ہم آپ کو اپنی لائبریری کا انتظام کرنے اور ہمارے ایڈآن سسٹم کے ساتھ نئے مواد کے سورسز شامل کرنے کی آزادی دے رہے ہیں۔",
 	"FAQ_03_P2": "یہ Stremio کو لامحدود قابل توسیع بناتا ہے، لہذا جب آپ Stremio استعمال کرتے ہیں، تو آپ کبھی بھی اس مواد تک محدود نہیں ہوتے جو Netflix لائسنس دینے کا فیصلہ کرتا ہے۔ مثال کے طور پر، Stremio کے ذریعے آپ ${1} Filmon.tv ${2}، ${3} Twitch.tv${4}، ${5}YouTube${6}، ${7}Vodo${8} اور یہاں تک کہ ${9}Netflix${10} خود سے مواد دیکھ سکتے ہیں!",
-
 	"FAQ_04_H1": "Stremio کا Flipboard سے موازنہ کیسے ہے؟",
 	"FAQ_04_P1": "ہمیں یہ سوال اکثر نہیں ملتا، سوائے اس کے جب اسٹارٹ اپ لوگوں سے بات کرتے ہیں :)",
 	"FAQ_04_P2": "Stremio ڈیزائن کے لحاظ سے ایک مواد جمع کرنے والا ہے، جو اسے بنیادی طور پر ویڈیو کے لیے Flipboard بناتا ہے۔ یہ ہمارے بورڈ سیکشن میں بہت واضح ہے، جو آپ کو کیٹالاگز اور نئے ایپیسوڈ/نئے ویڈیو کی اطلاعات دیتا ہے جن کی آپ پیروی کرتے ہیں، بالکل Flipboard کی طرح۔",
@@ -1631,25 +1502,20 @@
 	"FAQ_05_P2": "لیکن جبکہ Popcorn Time مخصوص سورسز سے ٹورنٹس سٹریم کرنے پر مرکوز ہے، Stremio غیر محدود ہے اور محض ایک مواد جمع کرنے والا ہے - یہ کسی مخصوص مواد کے سورس میں بند نہیں ہے۔",
 	"FAQ_05_P3": "مزید برآں، ہم ڈیفالٹ طور پر کوئی ٹورنٹ ایڈآنز فراہم نہیں کرتے، لہذا Stremio سرکاری فعالیت کے ساتھ Popcorn Time کے استعمال کے معاملے کا احاطہ نہیں کرتا۔",
 	"FAQ_05_P4": "ایک اور قابل ذکر فرق یہ ہے کہ Popcorn Time مکمل طور پر اوپن سورس ہے، جبکہ Stremio ${1} جزوی طور پر اوپن سورس${2} ہے۔",
-
 	"FAQ_06_H1": "کیا آپ یہ فلم/سیریز شامل کریں گے؟",
 	"FAQ_06_P1": "نہیں، معذرت :(",
 	"FAQ_06_P2": "جیسا کہ زیادہ تر دوسرے سوالات میں ذکر کیا گیا ہے، Stremio خود کوئی مواد فراہم نہیں کرتا - سب کچھ ایڈآنز سسٹم کے ذریعے شامل کیا جاتا ہے۔ اگر آپ کے پاس مواد کی درخواست ہے، تو آپ پلیئر میں \"رپورٹ\" بٹن استعمال کر سکتے ہیں، جو آپ کے استعمال کردہ ایڈآن کے مصنف کو ای میل بھیجے گا۔",
-
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
 	"FAQ_08_H1": "کیا آپ X کے لیے ایڈآن بنائیں گے؟",
 	"FAQ_08_P1": "یہ بالکل ممکن ہے۔",
 	"FAQ_08_P2": "اگر آپ کے پاس ایڈآن کے لیے کوئی خیال ہے، تو ہمیں ${1}office@stremio.com${2} پر ایک لائن دیں، لیکن براہ کرم یقینی بنائیں کہ آپ کا ایڈآن خیال کسی کاپی رائٹ یا استعمال کی شرائط کی خلاف ورزی نہیں کرے گا۔",
 	"FAQ_08_P3": "اس وقت، ہمارے روڈ میپ پر اگلی چیزیں FandangoNOW، Filmon.tv ویڈیو آن ڈیمانڈ اور Crunchyroll کے لیے ایڈآنز ہیں۔",
-
 	"FAQ_09_H1": "کیا Stremio BitTorrent استعمال کرتا ہے؟",
 	"FAQ_09_P1": "ہاں، Stremio BitTorrent کو سٹریمنگ پروٹوکول کے طور پر سپورٹ کرتا ہے۔ آپ اسے یا تو ٹورنٹ ایڈآن کے ساتھ استعمال کر سکتے ہیں، یا .torrent فائل کو Stremio میں ڈریگ اینڈ ڈراپ کرکے، یا میگنیٹ لنک پیسٹ کرکے۔",
 	"FAQ_09_P2": "براہ کرم نوٹ کریں کہ BitTorrent استعمال کرنے والا واحد سرکاری ایڈآن ${1}Vodo${2} ہے، جو انڈی مواد فراہم کرتا ہے، سب کو BitTorrent کے ساتھ تقسیم کرنے کی اجازت ہے۔",
 	"FAQ_09_P3": "ہم کسی بھی تیسرے فریق کے ایڈآنز کے استعمال کو سپورٹ نہیں کرتے جو کاپی رائٹ کی خلاف ورزی کو فعال کر سکتے ہیں۔",
-
 	"FAQ_10_H1": "سرکاری ایڈآنز کے ساتھ میں Stremio میں کیا دیکھ سکتا ہوں؟",
 	"FAQ_10_P1": "ڈیفالٹ طور پر، آپ Stremio کے اندر، اس کے ایمبیڈڈ پلیئر کے ساتھ Filmon.tv، YouTube اور Vodo مواد دیکھ سکتے ہیں۔ اضافی طور پر، ہمارے پاس Twitch.tv اور کچھ دیگر کے لیے ایڈآن ہے۔",
 	"FAQ_10_P2": "یہ مل کر ایک انتخاب فراہم کرتا ہے:",
@@ -1658,64 +1524,51 @@
 	"FAQ_10_L3": "Vodo کے ساتھ انڈی فلمیں",
 	"FAQ_10_L4": "Twitch.tv کے ساتھ آن لائن گیمنگ براڈکاسٹس",
 	"FAQ_10_P3": "اضافی طور پر، Guidebox اور Netflix ایڈآنز کے ساتھ فراہم کردہ بہت سے مواد کے سورسز ہیں، جو Stremio کے اندر مکمل طور پر <b>نہیں</b> چلتے، لیکن دی گئی سروس پر ری ڈائریکٹ کریں گے۔ مثال کے طور پر، Guidebox ایڈآن آپ کو فلموں کا انتخاب دے گا جو آپ US میں مفت سٹریم کر سکتے ہیں، TubiTV اور Crackle جیسی سروسز سے۔",
-
 	"FAQ_11_H1": "Stremio انسٹال نہیں ہوگا، میں کیا کروں؟",
 	"FAQ_11_P1": "اگر آپ Windows پر ہیں، تو ${1}یہ متبادل انسٹالر${2} آزمائیں۔",
 	"FAQ_11_P2": "اگر آپ Mac OS X پر ہیں، تو براہ کرم آگاہ رہیں کہ ہم OS X Mavericks (10.9) سے پرانے کو سپورٹ نہیں کرتے۔",
 	"FAQ_11_P3": "اگر آپ Linux پر ہیں، تو آگاہ رہیں کہ ہم اس وقت صرف 64 بٹ (x64) Linux کو سپورٹ کرتے ہیں۔",
 	"FAQ_11_P4": "اگر آپ اب بھی اپنا مسئلہ حل نہیں کر سکتے، تو براہ کرم ہمیں ہمارے ${1}Facebook گروپ${2} پر لکھیں۔",
-
 	"FAQ_12_H1": "میرا اینٹی وائرس کیوں شکایت کر رہا ہے؟ کیا Stremio محفوظ ہے؟",
 	"FAQ_12_P1": "ہم آپ کو یقین دلاتے ہیں کہ Stremio ${1}100% صاف${2} ہے۔",
 	"FAQ_12_P2": "آپ کا اینٹی وائرس شکایت کر رہا ہے کیونکہ ہم اپنے انسٹالر میں اشتہارات شامل کرتے ہیں، جسے کچھ اینٹی وائرس پروگرام ایڈ ویئر کے طور پر پہچانتے ہیں۔",
 	"FAQ_12_P3": "اگر آپ اب بھی غیر یقینی ہیں، تو آپ ہمارا ${1}متبادل انسٹالر${2} آزما سکتے ہیں۔",
-
 	"FAQ_13_H1": "میں ایڈآن کیسے بنا سکتا ہوں؟",
 	"FAQ_13_P1": "شروعات کرنے والوں کے لیے، ہم تجویز کرتے ہیں کہ آپ GitHub پر ہمارا ${1}ایڈآنز سسٹم ماڈیول${2} چیک کریں۔",
 	"FAQ_13_P2": "اس کے بعد، آپ ${1}Hello World ٹیوٹوریل${2} کی پیروی کر سکتے ہیں۔",
 	"FAQ_13_P3": "اگر آپ کے پاس کوئی پروگرامنگ کی مہارت نہیں ہے، تو براہ کرم ${1}Reddit کمیونٹی${2} پر اپنا خیال پوسٹ کریں اور ${3}office@stremio.com${4} پر اپنے ایڈآن خیال کے ساتھ ہم سے رابطہ کریں۔",
-
 	"FAQ_14_H1": "ایڈآنز کیسے شائع ہوتے ہیں؟",
 	"FAQ_14_P1": "جب آپ ایک ایڈآن بناتے اور ہوسٹ کرتے ہیں، اور اپنے مینیفیسٹ میں ایک <b>endpoint</b> فیلڈ ڈالتے ہیں، جو کام کرنے والے ایڈآن ایڈریس کی طرف اشارہ کرتا ہے، تو ایڈآن خودکار طور پر ہمارے ${1}Addon کیٹالاگ${2} میں خود کو شائع کر دے گا۔",
 	"FAQ_14_P2": "یہ اس لیے ہوتا ہے کیونکہ stremio-addons ماڈیول کا سرور حصہ خودکار طور پر ایڈآن کا اعلان کرنے کے لیے ہمارے API کو کال کرتا ہے۔ جب ہمارا API آپ کے <b>endpoint</b> کو درست ایڈآن کے طور پر تصدیق کرتا ہے، تو یہ کیٹالاگ میں دکھانا شروع کر دے گا۔",
-
 	"FAQ_15_H1": "کیا میں Stremio کو اپنے براؤزر میں چلا سکتا ہوں؟",
 	"FAQ_15_P1": "اس وقت نہیں، لیکن یہ آ رہا ہے!",
 	"FAQ_15_P2": "اگر آپ الفا دیکھنے کے خواہشمند ہیں، تو آپ اسے یہاں دیکھ سکتے ہیں: ${1}alpha4.strem.io${2}۔ یاد رکھیں کہ اس الفا پر سٹریمنگ غیر فعال ہے۔ ہم Chrome، Firefox، Opera اور Edge کو سپورٹ کرتے ہیں۔",
-
 	"FAQ_16_H1": "ٹی وی پر کاسٹنگ کام نہیں کر رہی / سب ٹائٹل کام نہیں کر رہے",
 	"FAQ_16_P1": "ٹی وی پر کاسٹنگ DLNA ٹیکنالوجی استعمال کرتی ہے جو مختلف ٹی وی برانڈز اور ماڈلز کے درمیان بہت غیر مستقل ہے۔ اس وجہ سے، ہمارے پاس ہر معاملے میں اس کی جانچ کرنے کی صلاحیت نہیں ہے، لہذا یہ کامل سے بہت دور ہے۔ اس کے باوجود، ہم اسے مسلسل بہتر بنانے پر کام کر رہے ہیں لیکن ہم آپ کو وقت کا تخمینہ نہیں دے سکتے کہ DLNA آپ کے ٹی وی کے ساتھ صحیح طریقے سے کب کام کرنا شروع کرے گا۔",
 	"FAQ_16_P2": "اگر آپ کاسٹنگ مینو میں اپنا ٹی وی بھی نہیں دیکھتے، تو براہ کرم اپنے نیٹ ورک کنکشن کو غیر فعال اور دوبارہ فعال کرنے کی کوشش کریں (Windows پر، نیٹ ورک پر دائیں کلک کریں اور Enable/Disable استعمال کریں)، اور ساتھ ہی اپنے راؤٹر، ٹی وی اور PC کو دوبارہ شروع کریں۔",
 	"FAQ_16_P3": "اگر آپ اب بھی مسائل کا سامنا کر رہے ہیں، تو آپ ${1}office@stremio.com${2} پر اپنے ٹی وی کے برانڈ اور ماڈل کی معلومات بھیج کر ہماری مدد کر سکتے ہیں۔",
 	"FAQ_16_P4": "اس دوران، ہم Chromecast کی تجویز کرتے ہیں، جسے ہم بہت اچھی طرح سپورٹ کرتے ہیں، یا صرف اپنے ٹی وی کو HDMI کیبل کے ساتھ اپنے PC سے جوڑیں۔",
-
 	"FAQ_17_H1": "Stremio منجمد ہو جاتا ہے اور/یا کریش ہو جاتا ہے، میں کیا کر سکتا ہوں؟",
 	"FAQ_17_P1": "سب سے پہلے، اگر آپ AVG اینٹی وائرس کے ساتھ Windows 7 استعمال کر رہے ہیں: ہمیں اس مجموعے کے ساتھ مسئلہ ہے۔ مسئلہ خود AVG میں ہے، اور ہماری طرف سے اسے حل کرنے کا کوئی معقول طریقہ نہیں ہے۔ بدقسمتی سے، استثناء یا اینٹی وائرس کو غیر فعال کرنا کام نہیں کرے گا۔ واحد حل AVG کو کسی اور چیز سے بدلنا ہے۔",
 	"FAQ_17_P2": "اگر یہ مسئلہ نہیں ہے، لیکن آپ اب بھی Windows استعمال کر رہے ہیں، تو براہ کرم تازہ ترین سروس پیک میں اپڈیٹ کریں اور اپنے GPU ڈرائیورز کو اپڈیٹ/دوبارہ انسٹال کریں، پھر دوبارہ کوشش کریں۔",
 	"FAQ_17_P3": "اگر آپ کا مسئلہ اب بھی حل نہیں ہوا، یا آپ Mac یا Linux استعمال کر رہے ہیں، تو براہ کرم ${1}ہمارے Facebook گروپ${2} پر مسئلے کی صحیح تفصیلات کے ساتھ ہمیں لکھیں۔",
-
 	"FAQ_18_H1": "میں ایڈآن کیسے بنا سکتا ہوں؟",
 	"FAQ_18_P1": "شروعات کرنے والوں کے لیے، ہم تجویز کرتے ہیں کہ آپ GitHub پر ہمارا ${1}ایڈآنز سسٹم ماڈیول${2} چیک کریں۔",
 	"FAQ_18_P2": "اس کے بعد، آپ ${1}Hello World ٹیوٹوریل${2} کی پیروی کر سکتے ہیں۔",
 	"FAQ_18_P3": "اگر آپ کے پاس کوئی پروگرامنگ کی مہارت نہیں ہے، تو براہ کرم ${1}Reddit کمیونٹی${2} پر اپنا خیال پوسٹ کریں اور ${3}office@stremio.com${4} پر اپنے ایڈآن خیال کے ساتھ ہم سے رابطہ کریں۔",
-
 	"FAQ_19_H1": "Stremio ڈسک کی جگہ کیوں لے رہا ہے؟",
 	"FAQ_19_P1": "Stremio کے پاس ایک <b>مقامی کیش</b> ہے جو آپ کے سٹریم کردہ ویڈیو فائلوں کو عارضی طور پر رکھتا ہے۔",
 	"FAQ_19_P2": "اس کے دو فوائد ہیں: پہلا، یہ Stremio کو ویڈیو کو آگے پری بفر کرنے کی اجازت دیتا ہے تاکہ ہموار سٹریمنگ کو یقینی بنایا جا سکے۔ دوسرا، یہ مقامی کیش میں ویڈیوز رکھتا ہے تاکہ آپ انہیں آف لائن دیکھنا جاری رکھ سکیں۔",
 	"FAQ_19_P3": "Stremio کتنا رکھتا ہے یہ سیٹنگز پینل میں <b>کیش</b> سیٹنگ پر منحصر ہے۔ Stremio آپ کی ڈسک پر مقرر کردہ رقم تک (مثلاً 2GB) رکھ سکتا ہے، جب تک کہ فی الوقت سٹریم کردہ ویڈیو اس سے بڑا نہ ہو، اس صورت میں اسے اتنی اسٹوریج مختص کرنی ہوگی کہ جب تک آپ اسے سٹریم کر رہے ہیں اسے رکھ سکے۔",
-
 	"FAQ_20_H1": "کیش فولڈر کہاں ہے؟",
 	"FAQ_20_P1": "Windows پر، یہ اس ڈرائیو میں stremio-cache ہے جو آپ نے سیٹنگز میں منتخب کی (مثلاً \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "MacOS پر، یہ \"~/Library/Application Support/Stremio/stremio-cache\" ہے",
 	"FAQ_20_P3": "Linux پر، یہ \"~/.stremio/stremio-cache\" یا \"~/stremio-cache\" ہے",
-
 	"FAQ_21_H1": "مجھے \"سٹریمنگ سرور نہیں ملا\" ایرر مل رہا ہے، میں کیا کر سکتا ہوں؟",
 	"FAQ_21_P1": "اگر آپ کو یہ ایرر ملتا ہے، تو اس کا مطلب چند چیزوں میں سے ایک ہے:",
 	"FAQ_21_P2": "1) آپ ہمارے ${1}ویب ورژن${2} کے ذریعے YouTube/BitTorrent سورس کے ذریعے تعاون یافتہ ایڈآن استعمال کرنے کی کوشش کر رہے ہیں۔ اس صورت میں، آپ کو ${3}ہماری ویب سائٹ${4} سے ہمارا ڈیسک ٹاپ ورژن انسٹال کرنا چاہیے۔",
 	"FAQ_21_P3": "2) آپ کی Stremio انسٹالیشن میں کچھ غلط ہے۔ اس صورت میں، ${1}ویب سائٹ${2} سے ہمارا تازہ ترین ڈیسک ٹاپ ورژن دوبارہ انسٹال کرنے کی کوشش کریں۔ اگر یہ مدد نہیں کرتا، تو اینٹی وائرس پروگرامز اور فائر والز کو غیر فعال کرنے، اپنے PC کو دوبارہ شروع کرنے اور دوبارہ کوشش کرنے کی کوشش کریں۔ اگر یہ بھی کام نہیں کرتا، تو براہ کرم ${3}ہمارے Facebook گروپ${4} پر ہمیں لکھیں۔",
-
 	"FAQ_22_H1": "میں iOS پر زیادہ تر ایڈآنز نہیں دیکھ/استعمال کر سکتا",
 	"FAQ_22_P1": "Apple App Store کی شرائط و ضوابط میں پابندیوں کی وجہ سے، ہم نے iOS ایپلیکیشن کو صرف ایڈآنز کے ایک خاص سیٹ تک محدود کر دیا ہے۔",
 	"FAQ_22_P2": "لیکن یقین رکھیں - مستقبل میں iOS کے لیے مزید ایڈآنز ہوں گے، اور ہم ایک انٹیگریشن بھی شامل کر سکتے ہیں جو iOS ایپ کو Stremio سٹریمنگ سرور سے جوڑنے کی بدولت تمام Stremio ایڈآنز استعمال کرنے کی اجازت دے گا۔"
-
 }

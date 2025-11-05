@@ -1124,6 +1124,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobil için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Steam Deck için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS için Stremio (sınırlı sürüm)",
+	"WEBSITE_DOWNLOADS_FOR_TVOS": "Stremio for tvOS (limited version)",
 	"WEBSITE_DOWNLOADS_FOR_SAMSUNG_TV": "Samsung TV için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_LG_TV": "LG TV için Stremio",
 	"WEBSITE_DOWNLOADS_FOR_SONY_TV_ANDROID": "Sony TV için Stremio (Android)",
