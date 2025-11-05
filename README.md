@@ -46,7 +46,7 @@ Thank you!
 | sr-RS   | Serbian              | [@nexiRS](https://github.com/nexiRS), [@m0k1](https://github.com/m0k1)) and [@RyanLinford](https://github.com/RyanLinford)                                                                                                                                                                                                                                                                                                                                                                                                                        
 | tr-TR   | Turkish              | [@ali-demirtas](https://github.com/ali-demirtas), [@rozehan](https://github.com/rozehan) and [@orkunnnn](https://github.com/orkunnnn)
 | uk-UA   | Ukrainian            | [@landiadeto](https://github.com/landiadeto)
-| ur-PK   | Urdu (Pakistan)      | [@QwertyOfficial](https://github.com/QwertyOfficial)
+| ur-PK   | Urdu                 | [@QwertyOfficial](https://github.com/QwertyOfficial)
 | zh-CN   | Chinese              | [@shanyan-wcx](https://github.com/shanyan-wcx)    
 | ar-AR   | Arabic               | [@nalabdou](https://github.com/nalabdou), [@firassziedan](https://github.com/firassziedan) and [@dexter21767](https://github.com/dexter21767)
 | sl-SL   | Slovenian            | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
