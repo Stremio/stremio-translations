@@ -4,7 +4,7 @@
 var languages = [
 	"ar-AR",
 	"bg-BG",
-	"ca-CA",
+	"ca-ES",
 	"cs-CZ",
 	"da-DK",
 	"de-DE",
@@ -56,7 +56,7 @@ module.exports = function () {
 	return {
     "ar-AR": require("./ar-AR.json"),
     "bg-BG": require("./bg-BG.json"),
-    "ca-CA": require("./ca-CA.json"),
+    "ca-ES": require("./ca-ES.json"),
     "cs-CZ": require("./cs-CZ.json"),
     "da-DK": require("./da-DK.json"),
     "de-DE": require("./de-DE.json"),

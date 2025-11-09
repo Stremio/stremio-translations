@@ -15,7 +15,7 @@ LANG_JSON_PAIRS=(
   "ar ../ar-AR.json $EN_JSON_PATH"
   "bg ../bg-BG.json $EN_JSON_PATH"
   "bn ../bn-BD.json $EN_JSON_PATH"
-  "ca ../ca-CA.json $EN_JSON_PATH"
+  "ca ../ca-ES.json $EN_JSON_PATH"
   "cs ../cs-CZ.json $EN_JSON_PATH"
   "da ../da-DK.json $EN_JSON_PATH"
   "de ../de-DE.json $EN_JSON_PATH"
