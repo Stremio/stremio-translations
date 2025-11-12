@@ -91,6 +91,7 @@ module.exports = function () {
     "sl-SL": require("./sl-SL.json"),
     "sr-RS": require("./sr-RS.json"),
     "sv-SE": require("./sv-SE.json"),
+    "sk-SK": require("./sk-SK.json"),
     "te-IN": require("./te-IN.json"),
     "tr-TR": require("./tr-TR.json"),
     "uk-UA": require("./uk-UA.json"),
