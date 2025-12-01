@@ -1124,6 +1124,7 @@
 	"WEBSITE_DOWNLOADS_FOR_ANDROID_MOBILE": "Android Mobile用Stremio",
 	"WEBSITE_DOWNLOADS_FOR_STEAM_DECK": "Steam Deck用Stremio",
 	"WEBSITE_DOWNLOADS_FOR_IOS": "iOS用Stremio（限定版）",
+	"WEBSITE_DOWNLOADS_FOR_TVOS": "Stremio for tvOS (limited version)",
 	"WEBSITE_DOWNLOADS_FOR_SAMSUNG_TV": "Samsung TV用Stremio",
 	"WEBSITE_DOWNLOADS_FOR_LG_TV": "LG TV用Stremio",
 	"WEBSITE_DOWNLOADS_FOR_SONY_TV_ANDROID": "Sony TV用Stremio(Android)",

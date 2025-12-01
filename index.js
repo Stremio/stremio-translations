@@ -43,11 +43,13 @@ var languages = [
 	"te-IN",
 	"tr-TR",
 	"uk-UA",
+	"ur-PK",
 	"vi-VN",
 	"zh-CN",
 	"zh-HK",
 	"zh-TW",
 	"bn-BD",
+	"tl-TM",
 	"et-EE"
 ];
 
@@ -90,14 +92,17 @@ module.exports = function () {
     "sl-SL": require("./sl-SL.json"),
     "sr-RS": require("./sr-RS.json"),
     "sv-SE": require("./sv-SE.json"),
+    "sk-SK": require("./sk-SK.json"),
     "te-IN": require("./te-IN.json"),
     "tr-TR": require("./tr-TR.json"),
     "uk-UA": require("./uk-UA.json"),
+    "ur-PK": require("./ur-PK.json"),
     "vi-VN": require("./vi-VN.json"),
     "zh-CN": require("./zh-CN.json"),
     "zh-HK": require("./zh-HK.json"),
     "zh-TW": require("./zh-TW.json"),
     "bn-BD": require("./bn-BD.json"),
+	"tl-TM": require("./tl-TM.json"),	
     "et-EE": require("./et-EE.json"),
   };
 };

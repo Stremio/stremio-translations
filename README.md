@@ -51,5 +51,6 @@ Thank you!
 | ar-AR   | Arabic               | [@nalabdou](https://github.com/nalabdou), [@firassziedan](https://github.com/firassziedan) and [@dexter21767](https://github.com/dexter21767)
 | sl-SL   | Slovenian            | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
 | ne-NP   | Nepali               | [@kooolarpan](https://github.com/kooolarpan)
+| tl-TM   | Tamil               | [@bigoninja](https://github.com/bigoninja)
 
 Feel free to add yourself!
