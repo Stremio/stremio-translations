@@ -468,6 +468,7 @@
 	"SETTINGS_SHORTCUT_MENU_SUBTITLES": "Vaihda tekstitysvalikko",
 	"SETTINGS_SHORTCUT_MENU_AUDIO": "Toggle Audio Menu",
 	"SETTINGS_SHORTCUT_MENU_INFO": "Vaihda infovalikko",
+	"SETTINGS_SHORTCUT_MENU_STATISTICS": "Toggle Statistics Menu",
 	"SETTINGS_SHORTCUT_FULLSCREEN": "Vaihda koko näyttöön",
 	"SETTINGS_SHORTCUT_SHOW_CONTROLS": "Näytä ohjaimet",
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "Toista / Tauko",

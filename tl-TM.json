@@ -468,6 +468,7 @@
 	"SETTINGS_SHORTCUT_MENU_SUBTITLES": "வசனங்கள் பட்டியலை மாற்று",
 	"SETTINGS_SHORTCUT_MENU_AUDIO": "ஆடியோ பட்டியலை மாற்று",
 	"SETTINGS_SHORTCUT_MENU_INFO": "தகவல் பட்டியலை மாற்று",
+	"SETTINGS_SHORTCUT_MENU_STATISTICS": "Toggle Statistics Menu",
 	"SETTINGS_SHORTCUT_FULLSCREEN": "முழுத் திரையை மாற்று",
 	"SETTINGS_SHORTCUT_SHOW_CONTROLS": "கட்டுப்பாடுகளைக் காட்டு",
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "இயக்கு / இடைநிறுத்து",

@@ -468,6 +468,7 @@
 	"SETTINGS_SHORTCUT_MENU_SUBTITLES": "Toggle Subtitles Menu",
 	"SETTINGS_SHORTCUT_MENU_AUDIO": "Toggle Audio Menu",
 	"SETTINGS_SHORTCUT_MENU_INFO": "Toggle Info Menu",
+	"SETTINGS_SHORTCUT_MENU_STATISTICS": "Toggle Statistics Menu",
 	"SETTINGS_SHORTCUT_FULLSCREEN": "Переключить полноэкранный режим",
 	"SETTINGS_SHORTCUT_SHOW_CONTROLS": "Показать элементы управления",
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "Воспроизведение/Пауза",

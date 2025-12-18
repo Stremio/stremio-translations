@@ -468,6 +468,7 @@
 	"SETTINGS_SHORTCUT_MENU_SUBTITLES": "Μενού ρυθμίσεων υποτίτλων",
 	"SETTINGS_SHORTCUT_MENU_AUDIO": "Μενού ρυθμίσεων Ήχου",
 	"SETTINGS_SHORTCUT_MENU_INFO": "Μενού πληροφοριών",
+	"SETTINGS_SHORTCUT_MENU_STATISTICS": "Toggle Statistics Menu",
 	"SETTINGS_SHORTCUT_FULLSCREEN": "Λειτουργία πλήρους οθόνης",
 	"SETTINGS_SHORTCUT_SHOW_CONTROLS": "Εμφάνιση στοιχείων ελέγχου",
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "Αναπαραγωγή / Παύση",
