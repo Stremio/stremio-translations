@@ -1165,6 +1165,8 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Stremio را در برنامه Play Store در Sony TV دارای Android جستجو کنید",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Stremio را در برنامه Play Store در Philips TV دارای Android جستجو کنید",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Stremio را در فروشگاه برنامه در تلویزیون فیلیپس با TitanOS (نسخه محدود) جستجو کنید",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_ANDROID": "Search for Stremio in the Play Store app on Hisense TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_VIDAA_LIMITED": "Search for Stremio in the app store on Hisense TV running Vidaa (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Stremio را در App Store دستگاه Xbox خود جستجو کنید",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "راهنمای سیستم عامل Stremio در RPI",
 	"WEBSITE_LINK_GUIDE": "راهنما",

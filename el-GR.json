@@ -1165,6 +1165,8 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Αναζήτησε το Stremio στην εφαρμογή Play Store σε τηλεόραση Sony που λειτουργεί με Android.",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Αναζήτησε το Stremio στην εφαρμογή Play Store σε τηλεόραση Philips που λειτουργεί με Android",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Αναζήτησε το Stremio στο κατάστημα εφαρμογών σε τηλεόραση Philips που λειτουργεί με TitanOS (περιορισμένη έκδοση)",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_ANDROID": "Search for Stremio in the Play Store app on Hisense TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_VIDAA_LIMITED": "Search for Stremio in the app store on Hisense TV running Vidaa (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Αναζητήστε το Stremio στο App Store της συσκευής σας Xbox",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Οδηγός για το Stremio OS σε RPI",
 	"WEBSITE_LINK_GUIDE": "Οδηγός",

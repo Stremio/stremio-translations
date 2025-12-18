@@ -1165,6 +1165,8 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Vyhľadajte Stremio v obchode Play na Sony TV s Androidom",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Vyhľadajte Stremio v obchode Play na Philips TV s Androidom",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Vyhľadajte Stremio v obchode s aplikáciami na Philips TV s TitanOS (obmedzená verzia)",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_ANDROID": "Search for Stremio in the Play Store app on Hisense TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_VIDAA_LIMITED": "Search for Stremio in the app store on Hisense TV running Vidaa (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Vyhľadajte Stremio v obchode s aplikáciami na vašom zariadení Xbox",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Sprievodca pre Stremio OS na RPI",
 	"WEBSITE_LINK_GUIDE": "Sprievodca",

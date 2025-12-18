@@ -1165,6 +1165,8 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Ieškokite Stremio Play Store programoje Sony TV (Android)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Ieškokite Stremio Play Store programoje Philips TV (Android)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "Ieškokite Stremio TitanOS (ribota versija) programų parduotuvėje Philips TV",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_ANDROID": "Search for Stremio in the Play Store app on Hisense TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_VIDAA_LIMITED": "Search for Stremio in the app store on Hisense TV running Vidaa (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Ieškokite Stremio savo Xbox įrenginio parduotuvėje",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Gidas Stremio OS naudotojams RPI",
 	"WEBSITE_LINK_GUIDE": "Gidas",

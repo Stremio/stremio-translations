@@ -1165,6 +1165,8 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_SONY_ANDROID": "Android چلانے والے Sony TV پر Play Store ایپ میں Stremio تلاش کریں",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_ANDROID": "Android چلانے والے Philips TV پر Play Store ایپ میں Stremio تلاش کریں",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_PHILIPS_TITANOS_LIMITED": "TitanOS چلانے والے Philips TV پر ایپ اسٹور میں Stremio تلاش کریں (محدود ورژن)",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_ANDROID": "Search for Stremio in the Play Store app on Hisense TV running Android",
+	"WEBSITE_DOWNLOADS_SEARCH_ON_HISENSE_VIDAA_LIMITED": "Search for Stremio in the app store on Hisense TV running Vidaa (limited version)",
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "اپنے Xbox ڈیوائس کے App Store میں Stremio تلاش کریں",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "RPI پر Stremio OS کے لیے گائیڈ",
 	"WEBSITE_LINK_GUIDE": "گائیڈ",
