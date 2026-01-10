@@ -535,6 +535,7 @@
 	"SETTINGS_SUBTITLES_COLOR_YELLOW": "Yellow",
 	"SETTINGS_SUBTITLES_COLOR_MAGENTA": "Magenta",
 	"SETTINGS_SUBTITLES_INFO_INFERRED_APPLE": "By default, subtitles are styled according to the system settings. If you want to have similar subtitles across all apps, you can change the system subtitle preferences from System Settings -> Accessibility -> Subtitles & Captioning",
+	"SETTINGS_ASS_SUBTITLES_STYLING": "Style ASS subtitles",
 	"SETTINGS_SEEK_KEY": "Les tecles de fletxa et mouen en el temps",
 	"SETTINGS_SEEK_KEY_SHIFT": "Les tecles de fletxa et mouen en el temps quan es manté premuda la tecla Shift",
 	"SETTINGS_REWIND_FAST_FORWARD_DURATION": "Durada del rebobinat i de l'avançament ràpid",
