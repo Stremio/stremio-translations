@@ -3,6 +3,7 @@
 
 var languages = [
 	"ar-AR",
+	"be-BY",
 	"bg-BG",
 	"ca-ES",
 	"cs-CZ",
@@ -57,6 +58,7 @@ var languages = [
 module.exports = function () {
 	return {
     "ar-AR": require("./ar-AR.json"),
+    "be-BY": require("./be-BY.json"),
     "bg-BG": require("./bg-BG.json"),
     "ca-ES": require("./ca-ES.json"),
     "cs-CZ": require("./cs-CZ.json"),
@@ -78,7 +80,7 @@ module.exports = function () {
     "it-IT": require("./it-IT.json"),
     "ja-JP": require("./ja-JP.json"),
     "ko-KR": require("./ko-KR.json"),
-	'lt-LT': require('./lt-LT.json'),
+    'lt-LT': require('./lt-LT.json'),
     "mk-MK": require("./mk-MK.json"),
     "my-BM": require("./my-BM.json"),
     "nb-NO": require("./nb-NO.json"),
@@ -104,7 +106,7 @@ module.exports = function () {
     "zh-HK": require("./zh-HK.json"),
     "zh-TW": require("./zh-TW.json"),
     "bn-BD": require("./bn-BD.json"),
-	"tl-TM": require("./tl-TM.json"),	
+    "tl-TM": require("./tl-TM.json"),
     "et-EE": require("./et-EE.json"),
   };
 };
