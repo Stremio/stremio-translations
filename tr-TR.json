@@ -535,7 +535,7 @@
 	"SETTINGS_SUBTITLES_COLOR_YELLOW": "Sarı",
 	"SETTINGS_SUBTITLES_COLOR_MAGENTA": "Morumsu kırmızı",
 	"SETTINGS_SUBTITLES_INFO_INFERRED_APPLE": "Varsayılan olarak altyazıların stili sistem ayarlarına göre belirlenir. Eğer tüm uygulamalar arasında benzer altyazılara sahip olmak istiyorsanız, sistem altyazı tercihlerini Sistem Ayarları -> Erişilebilirlik -> Altyazılar ve Altyazı Koyma bölümünden değiştirebilirsiniz.",
-	"SETTINGS_ASS_SUBTITLES_STYLING": "ASS stili altyazılar",
+	"SETTINGS_ASS_SUBTITLES_STYLING": "ASS Stil altyazılar",
 	"SETTINGS_SEEK_KEY": "Ok tuşlarıyla atlanacak süre",
 	"SETTINGS_SEEK_KEY_SHIFT": "Shift tuşu basılı tutulduğunda Ok tuşlarıyla atlanacak süre",
 	"SETTINGS_REWIND_FAST_FORWARD_DURATION": "Geri sarma ve İleri sarma süresi",
