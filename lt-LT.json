@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Atidaryta kalendoriaus programa. Prenumeruokite kalendorių rankiniu būdu.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Atsisiųstas kalendoriaus failas. Importuokite jį į savo kalendoriaus programą.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Sąsajos kalba",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Paleisti startuojant",
 	"SETTINGS_VLC_DEFAULT": "Leisti su VLC",
 	"SETTINGS_UI_LANGUAGE": "UI kalba",

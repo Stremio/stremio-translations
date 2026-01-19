@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalendrirakendus avati. Tellige kalendriteavitused käsitsi.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Kalendrifail laaditi alla. Avage see oma kalendrirakenduses.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Kasutajaliidese keel",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Ava käivitamisel",
 	"SETTINGS_VLC_DEFAULT": "Esita VLC-ga",
 	"SETTINGS_UI_LANGUAGE": "Kasutajaliidese keel",

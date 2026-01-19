@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "برنامه تقویم باز شد. لطفاً به صورت دستی در تقویم مشترک شوید.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "فایل تقویم بارگیری شد. لطفاً آن را به برنامه تقویم خود وارد کنید.",
 	"SETTINGS_INTERFACE_LANGUAGE": "زبان رابط",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "راه اندازی در هنگام شروع به کار",
 	"SETTINGS_VLC_DEFAULT": "پخش با VLC",
 	"SETTINGS_UI_LANGUAGE": "زبان رابط کاربری",

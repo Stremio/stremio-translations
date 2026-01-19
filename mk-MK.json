@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Апликацијата Календар беше отворена. Ве молиме рачно да се претплатите на календарот.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Датотеката со календарот е преземена. Увезете го во вашата апликација за календар.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Јазик на интерфејс",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Вклучи при стартување",
 	"SETTINGS_VLC_DEFAULT": "Пушти со VLC",
 	"SETTINGS_UI_LANGUAGE": "Јазик на UI",
