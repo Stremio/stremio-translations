@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "کیلنڈر ایپ کھول دی گئی۔ براہ کرم کیلنڈر کو دستی طور پر سبسکرائب کریں۔",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "کیلنڈر فائل ڈاؤن لوڈ ہو گئی۔ براہ کرم اسے اپنی کیلنڈر ایپ میں امپورٹ کریں۔",
 	"SETTINGS_INTERFACE_LANGUAGE": "انٹرفیس کی زبان",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "شروع ہونے پر لانچ کریں",
 	"SETTINGS_VLC_DEFAULT": "VLC کے ساتھ چلائیں",
 	"SETTINGS_UI_LANGUAGE": "UI زبان",

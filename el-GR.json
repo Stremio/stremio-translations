@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Η εφαρμογή Ημερολογίου άνοιξε. Παρακαλώ εγγραφείτε στο ημερολόγιο χειροκίνητα.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Το αρχείο ημερολογίου κατεβάστηκε. Παρακαλώ εισαγάγετέ το στην εφαρμογή ημερολογίου σας.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Γλώσσα εφαρμογής",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Άνοιγμα κατά την εκκίνηση",
 	"SETTINGS_VLC_DEFAULT": "Αναπαραγωγή με VLC",
 	"SETTINGS_UI_LANGUAGE": "Γλώσσα εφαρμογής",

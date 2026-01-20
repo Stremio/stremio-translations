@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Aplikácia kalendára bola otvorená. Prosím, prihláste sa manuálne.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Súbor kalendára bol stiahnutý. Importujte ho do aplikácie kalendára.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Jazyk rozhrania",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Spustiť pri štarte",
 	"SETTINGS_VLC_DEFAULT": "Prehrať pomocou VLC",
 	"SETTINGS_UI_LANGUAGE": "Jazyk rozhrania",

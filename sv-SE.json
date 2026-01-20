@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalenderapp öppnades. Prenumerera på kalendern manuellt.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Kalenderfil laddades ned. Importera den till din kalenderapp.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Gränssnittsspråk",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Starta vid uppstart",
 	"SETTINGS_VLC_DEFAULT": "Spela upp med VLC",
 	"SETTINGS_UI_LANGUAGE": "Gränssnittsspråk",

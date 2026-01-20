@@ -501,6 +501,8 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "L'application Calendrier a été ouverte. Veuillez vous abonner au calendrier manuellement.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Le fichier de calendrier a été téléchargé. Veuillez l'importer dans votre application de calendrier.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Langage de l’interface",
+	"SETTINGS_PLAYER_SHOW_CLOCK": "Afficher l'heure sur le lecteur",
+	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Afficher uniquement les langues préférées pour les sous-titres",
 	"SETTINGS_LAUNCH_STARTUP": "Lancer au démarrage",
 	"SETTINGS_VLC_DEFAULT": "Lire avec VLC",
 	"SETTINGS_UI_LANGUAGE": "Langue de l’interface",
