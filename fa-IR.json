@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "افزایش صدا",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "کاهش صدا",
 	"SETTINGS_SHORTCUT_MUTE": "قطع/وصل صدا",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "جابجایی به بعدی",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "جابجایی به قبلی",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "جابجایی به عقب",

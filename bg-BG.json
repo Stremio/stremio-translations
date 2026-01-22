@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Увеличаване на звука",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Намаляне на звука",
 	"SETTINGS_SHORTCUT_MUTE": "Спиране / пускане на звука",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Превъртане на следващ",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Превъртане на предишен",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Превъртане назад",

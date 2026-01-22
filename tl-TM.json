@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "ஒலியை அதிகரி",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "ஒலியை குறை",
 	"SETTINGS_SHORTCUT_MUTE": "ஒலியை நிறுத்து / இயக்கு",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "அடுத்ததைத் தேடு",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "முந்தையதைத் தேடு",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "பின்னோக்கி தேடு",

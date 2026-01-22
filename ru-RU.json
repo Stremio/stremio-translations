@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Громче",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Тише",
 	"SETTINGS_SHORTCUT_MUTE": "Включить/выключить звук",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Следующее видео",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Предыдущее видео",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Перемотать назад",

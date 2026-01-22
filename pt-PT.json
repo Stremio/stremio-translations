@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Aumentar o volume",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Diminuir o volume",
 	"SETTINGS_SHORTCUT_MUTE": "Ativar/desativar o som",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Avançar na reprodução",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Recuar na reprodução",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Retroceder",
