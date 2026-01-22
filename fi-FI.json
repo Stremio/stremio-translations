@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Äänenvoimakkuus ylös",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Äänenvoimakkuus alas",
 	"SETTINGS_SHORTCUT_MUTE": "Toggle Mute",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Etsi seuraava",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Etsi edellinen",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Etsi taaksepäin",

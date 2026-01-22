@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "زيادة الصوت",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "انقاص الصوت",
 	"SETTINGS_SHORTCUT_MUTE": "تبدل الكتم",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "ابحث عن التالي",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "ابحث عن السابق",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "التحريك للخلف",

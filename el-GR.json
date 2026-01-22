@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Ανεβάστε την ένταση",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Χαμηλώστε την ένταση",
 	"SETTINGS_SHORTCUT_MUTE": "Εναλλαγή Σίγασης",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Πηγαίνετε στο επόμενο επεισόδιο",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Πηγαίνετε στο προηγούμενο επεισόδιο",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Πηγαίνετε προς τα πίσω κατά 10 δευτερόλεπτα",

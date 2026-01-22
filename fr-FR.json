@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Augmenter le volume",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Réduire le volume",
 	"SETTINGS_SHORTCUT_MUTE": "Activer/Désactiver le Son",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Avancer la lecture",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Reculer la lecture",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Reculer dans la lecture",

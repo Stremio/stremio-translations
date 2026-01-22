@@ -475,6 +475,7 @@
 	"SETTINGS_SHORTCUT_VOLUME_UP": "ভলিউম বাড়ান",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "ভলিউম কমান",
 	"SETTINGS_SHORTCUT_MUTE": "Toggle Mute",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "পরবর্তী দিকে যান",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "আগের দিকে যান",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "পেছনের দিকে যান",
