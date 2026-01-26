@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Takvim uygulaması açıldı. Lütfen takvime el ile abone olun.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Takvim dosyası indirildi. Lütfen bunu takvim uygulamanıza aktarın.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Arayüz Dili",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Oynatıcıda süreyi göster",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Altyazılar için yalnızca tercih edilen dilleri göster",
 	"SETTINGS_LAUNCH_STARTUP": "Başlangıçta çalıştır",

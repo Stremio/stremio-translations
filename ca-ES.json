@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "S'ha obert l'aplicació Calendari. Si us plau, subscriviu-vos al calendari manualment.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "S'ha baixat el fitxer del calendari. Importeu-lo en la vostra aplicació de calendari.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Llenguatge de la interfície",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Iniciar a l'arrancar l'equip",
