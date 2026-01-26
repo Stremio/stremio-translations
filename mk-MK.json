@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Стандардна аудио трака",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "Простран звук",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "сметка",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "верзија",
