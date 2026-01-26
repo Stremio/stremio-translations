@@ -50,6 +50,7 @@ LANG_JSON_PAIRS=(
   "sl ../sl-SL.json $EN_JSON_PATH"
   "sr ../sr-RS.json $EN_JSON_PATH"
   "sv ../sv-SE.json $EN_JSON_PATH"
+  "ta ../ta-IN.json $EN_JSON_PATH"
   "te ../te-IN.json $EN_JSON_PATH"
   "tr ../tr-TR.json $EN_JSON_PATH"
   "uk ../uk-UA.json $EN_JSON_PATH"
