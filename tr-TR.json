@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Varsayılan Ses İzi",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "İkincil Ses İzi",
 	"SETTINGS_SURROUND_SOUND": "Çevresel ses",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "hesap",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "sürüm",

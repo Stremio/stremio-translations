@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Standard lydspor",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Sekundært lydspor",
 	"SETTINGS_SURROUND_SOUND": "Surround sound",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "Konto",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "Version",
