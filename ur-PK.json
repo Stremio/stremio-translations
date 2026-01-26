@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "کیلنڈر ایپ کھول دی گئی۔ براہ کرم کیلنڈر کو دستی طور پر سبسکرائب کریں۔",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "کیلنڈر فائل ڈاؤن لوڈ ہو گئی۔ براہ کرم اسے اپنی کیلنڈر ایپ میں امپورٹ کریں۔",
 	"SETTINGS_INTERFACE_LANGUAGE": "انٹرفیس کی زبان",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "شروع ہونے پر لانچ کریں",

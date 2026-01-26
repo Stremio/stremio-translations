@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalenderappen blev åbnet. Abonner venligst på kalenderen manuelt.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Kalenderfilen blev downloadet. Importer den venligst til din kalenderapp.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Sprog for brugergrænseflade",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Kør ved opstart",

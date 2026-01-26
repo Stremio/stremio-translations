@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "تم فتح تطبيق التقويم. يرجى الاشتراك في التقويم يدويًا.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "تم تنزيل ملف التقويم. يرجى استيراده إلى تطبيق التقويم الخاص بك.",
 	"SETTINGS_INTERFACE_LANGUAGE": "لغة الواجهة",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "ابدأ عند بدء التشغيل",

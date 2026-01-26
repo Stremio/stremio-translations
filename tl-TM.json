@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "நாட்காட்டி பயன்பாடு திறக்கப்பட்டது. தயவுசெய்து நாட்காட்டியில் கைமுறையாகச் சந்தா செலுத்துங்கள்.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "நாட்காட்டி கோப்பு பதிவிறக்கம் செய்யப்பட்டது. தயவுசெய்து அதை உங்கள் நாட்காட்டி பயன்பாட்டில் இறக்குமதி செய்யவும்.",
 	"SETTINGS_INTERFACE_LANGUAGE": "இடைமுக மொழி",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "துவக்கத்தில் துவக்கவும்",

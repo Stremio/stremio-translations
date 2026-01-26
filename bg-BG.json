@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Приложението календар е отворено. Моля абонирайте се в календара ръчно.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Файлът за календар е изтеглен. Моля импортирайте го във вашето приложение календар.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Език на интерфейса",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "Зареждане при стартиране на компютъра",
