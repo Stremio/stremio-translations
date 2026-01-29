@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "இயல்புநிலை ஆடியோ தடம்",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "இரண்டாம் நிலை ஆடியோ தடம்",
 	"SETTINGS_SURROUND_SOUND": "சரவுண்ட் சவுண்ட்",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "கணக்கு",
 	"SETTINGS_PLATFORM": "தளம்",
 	"SETTINGS_VERSION": "பதிப்பு",

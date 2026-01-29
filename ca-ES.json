@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Pista d'Àudio Predeterminada",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Pista d'Àudio Secundària",
 	"SETTINGS_SURROUND_SOUND": "So envoltant",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "compte",
 	"SETTINGS_PLATFORM": "Plataforma",
 	"SETTINGS_VERSION": "Versió",

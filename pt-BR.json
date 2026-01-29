@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Trilha de áudio padrão",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Faixa de áudio secundária",
 	"SETTINGS_SURROUND_SOUND": "Som surround",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "Conta",
 	"SETTINGS_PLATFORM": "Plataforma",
 	"SETTINGS_VERSION": "Versão",

@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "ਮੂਲ ਆਡੀਓ ਟਰੈਕ",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "Surround sound",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "ਕਾਰਨ",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "ਵਰਜਨ",

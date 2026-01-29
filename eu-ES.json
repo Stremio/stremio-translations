@@ -594,6 +594,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Audio pista lehenetsia",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Bigarren Audio Track-a",
 	"SETTINGS_SURROUND_SOUND": "Inguruko soinua",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "kontua",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "bertsioa",
