@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аудиодорожка по умолчанию",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Вторичная аудиодорожка",
 	"SETTINGS_SURROUND_SOUND": "Объемный звук",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "аккаунт",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "Версия",

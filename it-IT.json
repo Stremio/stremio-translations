@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Traccia Audio Predefinita",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Traccia Audio Secondaria",
 	"SETTINGS_SURROUND_SOUND": "Audio surround",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_PLATFORM": "Piattaforma TV",
 	"SETTINGS_VERSION": "versione",

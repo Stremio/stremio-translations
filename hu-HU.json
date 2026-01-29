@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Alapértelmezett hangsáv",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "Térbeli hangzás",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "fiókot",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "Verzió",

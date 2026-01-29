@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Trek audio bawaan",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Trek audio sekunder",
 	"SETTINGS_SURROUND_SOUND": "Surround sound",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "akun",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "versi",

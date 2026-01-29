@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "デフォルトのオーディオトラック",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "サラウンドサウンド",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "アカウント",
 	"SETTINGS_PLATFORM": "プラットフォーム",
 	"SETTINGS_VERSION": "バージョン",

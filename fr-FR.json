@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Piste audio par défaut",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Piste audio secondaire",
 	"SETTINGS_SURROUND_SOUND": "Son surround",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Passthrough Audio",
 	"SETTINGS_ACCOUNT": "Compte",
 	"SETTINGS_PLATFORM": "Plateforme",
 	"SETTINGS_VERSION": "Version",

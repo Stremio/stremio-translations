@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "স্বয়ংক্রিয় অডিও ট্র্যাক",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "দ্বিতীয় অডিও ট্র্যাক",
 	"SETTINGS_SURROUND_SOUND": "সারাউন্ড সাউন্ড",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "অ্যাকাউন্ট",
 	"SETTINGS_PLATFORM": "প্ল্যাটফর্ম",
 	"SETTINGS_VERSION": "সংস্করণ",

@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Аўдыядарожка па змаўчанні",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Другасная аўдыядарожка",
 	"SETTINGS_SURROUND_SOUND": "Аб'ёмны гук",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "уліковы запіс",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "Версія",

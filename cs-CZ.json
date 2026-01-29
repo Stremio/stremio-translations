@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Výchozí zvuková stopa",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Sekundární zvuková stopa",
 	"SETTINGS_SURROUND_SOUND": "Prostorový zvuk",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "účet",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "verze",

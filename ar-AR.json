@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "مسار الصوت الافتراضي",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "مسار الصوت الثانوي",
 	"SETTINGS_SURROUND_SOUND": "صوت محيطي",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "الحساب",
 	"SETTINGS_PLATFORM": "المنصة",
 	"SETTINGS_VERSION": "الأصدار",

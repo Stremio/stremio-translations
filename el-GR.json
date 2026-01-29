@@ -596,6 +596,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Προεπιλεγμένο κομμάτι ήχου",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Δευτερεύον κομμάτι ήχου",
 	"SETTINGS_SURROUND_SOUND": "Ήχος surround",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "Λογαριασμός",
 	"SETTINGS_PLATFORM": "Πλατφόρμα",
 	"SETTINGS_VERSION": "Έκδοση",
