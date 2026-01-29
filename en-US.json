@@ -155,6 +155,7 @@
 	"CLEAR_DATA": "Clear data",
 	"PLAYER_ERROR": "Oops, Player Error",
 	"PLAYER_ERROR_LOOKSLIKE": "It looks like",
+	"PLAYER_ERROR_PLAYBACK": "%s failed to play this video",
 	"PLAYER_ORIENTATION": "Player orientation",
 	"PLAYER_ORIENTATION_LANDSCAPE_SHORT": "Locked",
 	"PLAYER_ORIENTATION_SENSOR_SHORT": "Sensor",
@@ -182,6 +183,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Open in external player",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Play in {{device}}",
+	"PLAYER_SWITCH_TO": "Swtich to %s",
 
 	"PLAYER_LIVE": "Live",
 
