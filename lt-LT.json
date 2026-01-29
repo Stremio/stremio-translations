@@ -595,6 +595,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Numatytasis garso takelis",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Antrinis garso takelis",
 	"SETTINGS_SURROUND_SOUND": "Erdvinis garsas",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "paskyra",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "Versija",

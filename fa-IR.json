@@ -595,6 +595,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "صدای پیش فرض صوتی",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "صدای صوتی دوم",
 	"SETTINGS_SURROUND_SOUND": "صدای فراگیر",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "حساب کاربری",
 	"SETTINGS_PLATFORM": "پلت فرم",
 	"SETTINGS_VERSION": "نسخه",

@@ -595,6 +595,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "Luồng âm thanh mặc định",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "Âm thanh vòm",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "tài khoản",
 	"SETTINGS_PLATFORM": "Nền tảng",
 	"SETTINGS_VERSION": "phiên bản",

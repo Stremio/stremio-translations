@@ -595,6 +595,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "ڈیفالٹ آڈیو ٹریک",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "ثانوی آڈیو ٹریک",
 	"SETTINGS_SURROUND_SOUND": "سراؤنڈ ساؤنڈ",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "اکاؤنٹ",
 	"SETTINGS_PLATFORM": "پلیٹ فارم",
 	"SETTINGS_VERSION": "ورژن",

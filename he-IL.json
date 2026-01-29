@@ -595,6 +595,7 @@
 	"SETTINGS_DEFAULT_AUDIO_TRACK": "פס קול ברירת מחדל",
 	"SETTINGS_SECONDARY_AUDIO_TRACK": "Secondary Audio Track",
 	"SETTINGS_SURROUND_SOUND": "קול היקפי",
+	"SETTINGS_AUDIO_PASSTHROUGH": "Audio passthrough",
 	"SETTINGS_ACCOUNT": "חשבון",
 	"SETTINGS_PLATFORM": "פלטפורמה",
 	"SETTINGS_VERSION": "גרסה",
