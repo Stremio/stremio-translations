@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "ক্যালেন্ডার অ্যাপ খোলা হয়েছে। অনুগ্রহ করে ক্যালেন্ডারটিতে ম্যানুয়ালি সাবস্ক্রাইব করুন।",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "ক্যালেন্ডার ফাইল ডাউনলোড করা হয়েছে। অনুগ্রহ করে এটি আপনার ক্যালেন্ডার অ্যাপে আমদানি করুন।",
 	"SETTINGS_INTERFACE_LANGUAGE": "ইন্টারফেস ভাষা",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Show the time on the player",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Show only preferred languages for subtitles",
 	"SETTINGS_LAUNCH_STARTUP": "স্টার্টআপে চালু করুন",

@@ -502,6 +502,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Se abrió aplicación de Calendario. Por favor, suscríbase al calendario manualmente.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Se bajó el fichero de calndario. Por favor, impórtelo a su app de calendario.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Lenguaje de Interfaz",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Mostrar hora en el reproductor",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Sólo mostrar lenguajes preferidos en subtítulos",
 	"SETTINGS_LAUNCH_STARTUP": "Abrir cuando arranque el equipo",

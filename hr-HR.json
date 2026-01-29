@@ -559,6 +559,7 @@
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Aplikacija Kalendar je otvorena. Molimo ručno se pretplatite na kalendar.",
 	"SETTINGS_SUBSCRIBE_CALENDAR_TOAST": "Datoteka kalendara je preuzeta. Molimo uvezite je u svoju aplikaciju za kalendar.",
 	"SETTINGS_INTERFACE_LANGUAGE": "Jezik sučelja",
+	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Show title under catalog items",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Prikaži sat u playeru",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Prikaži samo preferirane jezike za titlove",
 	"SETTINGS_LAUNCH_STARTUP": "Pokreni pri podizanju sustava",
