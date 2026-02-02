@@ -4,7 +4,6 @@
 	"TYPE_tv": "TV kanal",
 	"TYPE_channel": "Kanal",
 	"TYPE_other": "Ostalo",
-
 	"TYPE_movie_PL": "Filmovi",
 	"TYPE_series_PL": "Serije",
 	"TYPE_tv_PL": "TV kanali",
@@ -12,47 +11,38 @@
 	"TYPE_other_PL": "Ostalo",
 	"TYPE_ALL": "Sve",
 	"TYPE": "Vrsta",
-
 	"CATALOG_com_linvo_cinemeta_top": "Popularno",
 	"CATALOG_com_linvo_cinemeta_imdbRating": "Izdvojeno",
 	"CATALOG_com_linvo_cinemeta_year": "Novo",
 	"CATALOG_org_stremio_pubdomainmovies_publicdomainmovies": "Filmovi u javnoj domeni",
-
 	"VIDEO": "Video",
-
 	"BACK": "Natrag",
 	"MORE": "Više",
 	"DONE": "Gotovo",
 	"COPY": "Kopiraj",
 	"SUCCESS": "Uspješno",
 	"ERROR": "Pogreška",
-
 	"SETTINGS_CASTING_MODE_PICKER": "Način emitiranja",
 	"CASTING_MODE_HLSV2": "Zadano",
 	"CASTING_MODE_VLC": "libVLC",
 	"CASTING_MODE_NO_TRANSCODING": "Bez transkodiranja",
-
 	"Discover": "Otkrij",
 	"Board": "Naslovnica",
 	"Library": "Knjižnica",
 	"My Library": "Moja knjižnica",
 	"Calendar": "Kalendar",
-
 	"NOTIFICATION_ONLINE": "Ponovno ste na mreži",
 	"NOTIFICATION_OFFLINE": "Trenutno ste izvan mreže",
 	"INTERNET_CONNECTION": "Internetska veza",
-
 	"STORAGE_FULL_TITLE": "Upozorenje: Memorija je puna!",
 	"STORAGE_FULL_TEXT": "Stremio neće moći spremiti vaše postavke, preference ili podatke o prijavi. Razmislite o ponovnom pokretanju ili ponovnoj instalaciji aplikacije.",
-
 	"SEARCH": "pretraži",
 	"SEARCH_NO_RESULTS": "Nema rezultata",
 	"SEARCH_EXPLANATION_CONTENT": "Pretražite filmove, serije, YouTube i TV kanale",
 	"SEARCH_EXPLANATION_PEOPLE": "Pretražite glumce, redatelje i scenariste",
 	"SEARCH_PASTE_LINKS": "Zalijepite HTTP ili Magnet poveznice",
-	"SEARCH_OR_PASTE_LINK" : "Pretraži ili zalijepi poveznicu",
+	"SEARCH_OR_PASTE_LINK": "Pretraži ili zalijepi poveznicu",
 	"SEARCH_SUGGESTIONS": "Prijedlozi pretraživanja",
-
 	"ADD_TO_LIB": "Dodaj u knjižnicu",
 	"REMOVE_FROM_LIB": "Ukloni iz knjižnice",
 	"ADDED_TO_LIB": "Dodano u knjižnicu",
@@ -63,7 +53,6 @@
 	"SHOW": "Prikaži",
 	"SHOW_MOVIE": "Prikaži film",
 	"WATCH_RANDOM": "Gledaj nasumično",
-
 	"IMDB_RATING": "IMDb ocjena",
 	"YEAR": "Godina",
 	"DIRECTOR": "Redatelj",
@@ -87,14 +76,11 @@
 	"FEATURED": "Istaknuto",
 	"METADATA": "Metapodaci",
 	"CATEGORY": "kategorija",
-
 	"LINKS_GENRES": "Žanrovi",
 	"LINKS_CAST": "Glumci",
 	"LINKS_DIRECTORS": "Redatelji",
-
 	"SEARCH_VIDEOS": "pretraži videozapise",
 	"SEARCH_PLACEHOLDER": "pretraži ili zalijepi URL",
-
 	"ADDON": "dodatak",
 	"ADDONS": "Dodaci",
 	"OFFICIAL": "službeno",
@@ -120,20 +106,19 @@
 	"ADDON_REPO_EXIST_ERR": "Ova kolekcija dodataka već postoji",
 	"ADDON_REPO_ERR": "Došlo je do pogreške prilikom dodavanja kolekcije",
 	"ADDON_ADD_ERR": "Došlo je do pogreške prilikom dodavanja dodatka",
-	"ERR_ADDON_PROTECTED" : "Nije moguće ukloniti dodatak jer je zaštićen",
+	"ERR_ADDON_PROTECTED": "Nije moguće ukloniti dodatak jer je zaštićen",
 	"ERR_ADDON_INTERNAL_SOMETHING_WRONG": "Nešto je pošlo po krivu – autentifikacija možda nije uspjela",
-	"ERR_NOT_COLLECTION_URL" : "Nije valjan URL kolekcije",
-	"ERR_NOT_ADDON_URL" : "Nije valjan URL dodatka",
-	"ERR_DETECTFROMURL" : "Nije moguće pronaći dodatak/kolekciju na ovom URL-u",
-	"ADDON_DUPLICATE_WARNING" : "Upozorenje: duplicirani dodatak",
-	"ADDON_COLLECTION_SET_FAILED" : "Sinkronizacija instaliranih dodataka s vašim računom nije uspjela",
-	"SETTINGS_DATA_EXPORT" : "Izvezi korisničke podatke",
-	"ADDON_PULL_FAILED" : "Preuzimanje instaliranih dodataka s vašeg računa nije uspjelo",
-	"REFRESH_ON_CLICK" : "Kliknite za ponovni pokušaj",
+	"ERR_NOT_COLLECTION_URL": "Nije valjan URL kolekcije",
+	"ERR_NOT_ADDON_URL": "Nije valjan URL dodatka",
+	"ERR_DETECTFROMURL": "Nije moguće pronaći dodatak/kolekciju na ovom URL-u",
+	"ADDON_DUPLICATE_WARNING": "Upozorenje: duplicirani dodatak",
+	"ADDON_COLLECTION_SET_FAILED": "Sinkronizacija instaliranih dodataka s vašim računom nije uspjela",
+	"SETTINGS_DATA_EXPORT": "Izvezi korisničke podatke",
+	"ADDON_PULL_FAILED": "Preuzimanje instaliranih dodataka s vašeg računa nije uspjelo",
+	"REFRESH_ON_CLICK": "Kliknite za ponovni pokušaj",
 	"ADDON_LOADING_MANIFEST": "Učitavanje manifesta dodatka",
 	"ADDON_LOADING_MANIFEST_FROM": "Učitavanje manifesta dodatka s {{origin}}",
 	"ADDON_LOADING_MANIFEST_FAILED": "Dohvaćanje manifesta dodatka s {{origin}} nije uspjelo",
-
 	"STILL_IN_THEATER": "Film je još u kinima",
 	"WATCH_IN_CINEMA": "Pogledajte u lokalnom kinu",
 	"IN_THEATER": "U kinima",
@@ -145,7 +130,6 @@
 	"CHANNEL_NOT_SCRAPED": "Sadržaj ovog kanala još nije obrađen.<br>Molimo vratite se za nekoliko minuta.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Dodajte u knjižnicu kako biste primili obavijest kada postane dostupno.",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Primit ćete obavijest čim postane dostupno.",
-
 	"WARNING_STREAMING_SERVER": "Upozorenje: lokalni streaming poslužitelj nije pronađen. Reprodukcija s lokalnih datoteka, YouTubea i BitTorrenta neće biti dostupna.",
 	"WARNING_STREAMING_SERVER_DISMISS": "Zatvori",
 	"WARNING_STREAMING_SERVER_LATER": "Kasnije",
@@ -184,25 +168,24 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Otvori u nPlayeru",
 	"PLAYER_PLAY_IN": "Reproduciraj na: {{device}}",
 	"PLAYER_SWITCH_TO": "Swtich to %s",
-
 	"PLAYER_LIVE": "Uživo",
-
 	"PLAYER_NEXT_VIDEO_TITLE": "Sljedeće na redu",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Sljedeće",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Zatvori",
 	"PLAYER_NEXT_VIDEO_BUTTON_WATCH": "Gledaj odmah",
-
 	"PLAYER_COPY_STREAM_SUCCESS": "Poveznica izvora kopirana je u međuspremnik",
 	"PLAYER_COPY_STREAM_ERROR": "Kopiranje poveznice izvora nije uspjelo",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Poveznica za preuzimanje kopirana je u međuspremnik",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Kopiranje poveznice za preuzimanje nije uspjelo",
-
 	"PLAYER_STATISTICS": "Statistika",
 	"PLAYER_PEERS": "Peerovi",
 	"PLAYER_SPEED": "Brzina",
 	"PLAYER_COMPLETED": "Završeno",
 	"PLAYER_INFO_HASH": "Info hash",
-
+	"PLAYER_SCALE_FIT": "Fit",
+	"PLAYER_SCALE_CROP": "Crop",
+	"PLAYER_SCALE_STRETCH": "Stretch",
+	"PLAYER_SCALE_ORIGINAL": "Original",
 	"STREAMING_FROM": "izvor:",
 	"CASTING_TO": "Emitiranje na",
 	"NETWORK_STATUS": "Status mreže",
@@ -213,29 +196,21 @@
 	"PEERS_CONNECTED": "Povezano:",
 	"PEERS_WAITING": "Na čekanju:",
 	"TRANSCODING_WARNING": "Upozorenje: videozapis se transkodira.",
-
 	"STREAM_LOADING": "učitavanje...",
 	"PLAYING_LOCAL": "reproduciranje lokalne datoteke",
 	"PLAYING_CACHE": "reproduciranje iz predmemorije",
-
 	"WRONG_SUBS": "Pogrešni titlovi?",
 	"ERR_SUBS_LOADING_TITLE": "Pogreška pri učitavanju titlova",
 	"ERR_SUBS_LOADING": "Učitavanje titlova nije uspjelo: problem može biti u dodatku koji koristite ili u vašoj mrežnoj vezi",
 	"WARN_FOLLOWING_SUB_ADDONS_FAILED": "Sljedeći dodaci za titlove nisu uspjeli",
-	"ERR_CASTING_UPDATE_TITLE" : "Ažuriranje informacija o uređaju za emitiranje nije uspjelo: streaming poslužitelj je možda isključen",
-
+	"ERR_CASTING_UPDATE_TITLE": "Ažuriranje informacija o uređaju za emitiranje nije uspjelo: streaming poslužitelj je možda isključen",
 	"CHOOSE_DEVICE": "Odaberite uređaj za gledanje",
 	"NO_CAST_DEVICES": "Nema dostupnih uređaja za emitiranje.",
-
 	"NO_SETTINGS": "Nema dostupnih postavki.",
-
 	"NO_OPTIONS": "Nema dostupnih opcija",
-
 	"PHONE_TABLET": "Telefon / Tablet",
-	
 	"DISABLED_LABEL": "{{label}} se ne može konfigurirati",
-
-    "SUBTITLES": "Titlovi",
+	"SUBTITLES": "Titlovi",
 	"SUBTITLES_CHANGE": "Promijeni titlove za ",
 	"SUBTITLES_CHANGE_NONE": "Nažalost, nema drugih titlova za ovaj jezik.",
 	"SUBTITLES_CHANGE_ACIVE": "Trenutno su aktivni titlovi br. {{subtitlesDialog.activeIdx + 1}}. Kliknite \"Nastavi\" za aktivaciju titlova br. {{subtitlesDialog.pickedIdx + 1}}.",
@@ -247,20 +222,14 @@
 	"SUBTITLES_LOADING": "Učitavanje titlova...",
 	"SUBTITLES_UNAVAILABLE": "Nema dostupnih vanjskih titlova",
 	"SUBTITLES_DISABLED": "Isključeno",
-
 	"EXTERNAL_PLAYER_DISABLED": "Isključeno",
 	"EXTERNAL_PLAYER_ALLOW_CHOOSING": "Dopusti odabir",
 	"EXTERNAL_PLAYER_HINT": "Savjet: U postavkama možete omogućiti stalno otvaranje u vanjskom playeru",
-
 	"DONT_SHOW_AGAIN": "Ne prikazuj više",
-
 	"SERVICE_INSTALL": "Instaliraj",
-
 	"AUDIO": "Audio",
-
 	"DEFAULT_LANGUAGE": "Zadani jezik",
 	"DEFAULT_SECONDARY_LANGUAGE": "Zadani sekundarni jezik",
-
 	"SEASON": "Sezona",
 	"SEASON_NUMBER": "Sezona {{season}}",
 	"PREV_SEASON": "Prethodna sezona",
@@ -268,7 +237,6 @@
 	"EPISODE": "Epizoda",
 	"EPISODE_ABBREVIATION": "E",
 	"SPECIAL": "Poseban dodatak",
-
 	"SORT": "poredaj",
 	"SORT_BY": "Poredaj po",
 	"FILTER": "filtriraj",
@@ -292,19 +260,16 @@
 	"SORT_NAMEREVERSE": "z-a",
 	"SORT_TIMESWATCHED": "najgledanije",
 	"SORT_NOTWATCHED": "nepogledano",
-
 	"New for You": "Novo za vas",
 	"New Episodes": "Nove epizode",
 	"New Videos": "Novi videozapisi",
 	"Recommendations": "Preporuke",
-
 	"LIBRARY_RESUME": "Nastavi",
 	"LIBRARY_PLAY": "Reproduciraj",
 	"LIBRARY_DETAILS": "Pojedinosti",
 	"LIBRARY_RESUME_DISMISS": "Zatvori",
 	"LIBRARY_CLEAR_PROGRESS": "Očisti napredak",
 	"LIBRARY_REMOVE": "Ukloni",
-
 	"LIBRARY_NOT_LOGGED_IN": "Knjižnica je dostupna samo prijavljenim korisnicima",
 	"LIBRARY_NOT_LOADED": "Knjižnica nije učitana!",
 	"LIBRARY_EMPTY": "Knjižnica je prazna",
@@ -314,12 +279,9 @@
 	"NOT_LOGGED_IN_NOTIFICATIONS": "Nikada više ne propustite epizodu",
 	"NOT_LOGGED_IN_CALENDAR": "Isplanirajte vlastiti kalendar gledanja",
 	"CALENDAR_NO_NEW_EPISODES": "Nema novih epizoda za ovaj dan",
-
 	"DISCOVER_FEATURED": "Izdvojeno",
-
 	"DISCOVER_TOP": "Najbolje ocijenjeno",
 	"DISCOVER_OSCAR": "Dobitnici Oscara",
-
 	"DISCOVER_WARNING_TITLE": "Ups!",
 	"DISCOVER_EMPTY_CATALOG": "Ovaj dodatak nije vratio nikakav sadržaj.",
 	"DISCOVER_ADULT_WARNING": "Sadržaj je vidljiv samo odraslim osobama. Imate li više od 18 godina?",
@@ -328,12 +290,9 @@
 	"DISCOVER_ADDON_UNINSTALLED": "Ovaj sadržaj više nije dostupan, vjerojatno ste deinstalirali dodatak.",
 	"UNINSTALL_THIS_ADDON": "Deinstaliraj ovaj dodatak",
 	"ERR_ADDON_NOT_INSTALLED": "Ovaj dodatak nije instaliran. Želite li ga instalirati sada?",
-
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primaj obavijesti o novim epizodama",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primaj obavijesti o novim videozapisima",
-
 	"SIDEBAR_SHOW_STREAMS": "Prikaži izvore",
-
 	"RELAUNCH": "Ponovno pokreni!",
 	"UPGRADE": "Dostupna je nova verzija! Nadogradite na najnoviji Stremio",
 	"RELOAD_UI": "Osvježi sučelje",
@@ -344,7 +303,6 @@
 	"BUTTON_UPDATE_NOW": "Ažuriraj",
 	"UPDATER_TITLE": "Dostupna je nova verzija Stremija",
 	"UPDATER_INSTALL_BUTTON": "Instaliraj odmah",
-
 	"ANONYMOUS_USER": "Anonimni korisnik",
 	"DONT_HAVE_ACC": "Nemate račun?",
 	"HAVE_ACC": "Već imate račun?",
@@ -396,27 +354,23 @@
 	"SEARCH_FAILED": "Pretraživanje nije uspjelo",
 	"EMAIL_USED": "Ovaj e-mail se već koristi.",
 	"WAITING_FB_LOGIN": "Prijava putem Facebooka...",
-
-    "EXTERNAL_OPENING_YOUTUBE": "Napuštate Stremio i otvarate YouTube. Jeste li sigurni?",
-    "EXTERNAL_OPENING_APP": "Napuštate Stremio kako biste otvorili drugu aplikaciju. Jeste li sigurni?",
+	"EXTERNAL_OPENING_YOUTUBE": "Napuštate Stremio i otvarate YouTube. Jeste li sigurni?",
+	"EXTERNAL_OPENING_APP": "Napuštate Stremio kako biste otvorili drugu aplikaciju. Jeste li sigurni?",
 	"EXTERNAL_PLAYER_TITLE": "Reproduciraj u vanjskom playeru",
 	"EXTERNAL_REMEMBER_PLAYER": "Želite li zapamtiti svoj odabir?",
 	"EXTERNAL_ALWAYS_PLAY": "Da",
 	"EXTERNAL_ONLY_ONCE": "Ne",
-
 	"BEST_FIT": "Najbolje pristajanje",
 	"FIT_SCREEN": "Prilagodi zaslonu",
 	"FILL": "Ispuni",
 	"16:9": "16:9",
 	"4:3": "4:3",
 	"Original": "Izvorno",
-
-
 	"INTRO_TASTE": "Recite nam što volite",
 	"INTRO_TASTE_LONG": "Recite nam što biste željeli gledati",
 	"INTRO_TASTE_PICK": "Odaberite još {{interestsRemaining}} interesa",
 	"INTRO_TASTE_PICK_MORE": "Odaberite još {{interestsRemaining}} interesa",
- 	"INTRO_TASTE_HELP_US": "Pomozite nam da vas bolje upoznamo.",
+	"INTRO_TASTE_HELP_US": "Pomozite nam da vas bolje upoznamo.",
 	"INTRO_TASTE_CHOOSE_THESE": "Odaberite nešto od sljedećeg:",
 	"INTRO_TASTE_CHOOSE_MIN": "Odaberite barem 3 kategorije",
 	"INTRO_TASTE_CHOOSE_MIN_ERR": "Morate odabrati barem 3 kategorije!",
@@ -435,7 +389,6 @@
 	"INTRO_TASTE_DIY": "Uradi sam",
 	"INTRO_TASTE_TECH": "Tehnologija",
 	"INTRO_TASTE_CINEMA": "Kino",
-
 	"NO_ADDONS": "Nijedan dodatak nije instaliran!",
 	"NO_ADDONS_FOR_TYPE": "Nema instaliranih dodataka za ovu vrstu!",
 	"ADDON_NOT_SUPPORTED": "Odabrani dodatak nije podržan na ovoj platformi.",
@@ -448,9 +401,7 @@
 	"ADD_ADDON_DESCRIPTION": "Dodatak možete dodati putem vanjske poveznice; on će se pojaviti pod 'Instalirani dodaci'.",
 	"PASTE_ADDON_URL": "Zalijepi URL dodatka",
 	"ADDONS_FILTERS": "Filteri dodataka",
-
-        "WHATS_NEW": "Što je novo",
-
+	"WHATS_NEW": "Što je novo",
 	"BUTTON_CONTINUE": "Nastavi",
 	"BUTTON_ACTIVATE": "Aktiviraj",
 	"BUTTON_ACTIVATED": "Aktivirano",
@@ -465,9 +416,7 @@
 	"BUTTON_PREV": "Prethodno",
 	"BUTTON_NEXT": "Sljedeće",
 	"BUTTON_CLOSE": "Zatvori",
-
 	"OPEN_IN_BROWSER": "Otvori u pregledniku",
-
 	"LIB_EMPTY": "Vaša knjižnica izgleda prazno. Saznajte koliko može biti korisna :)",
 	"HOW_START": "Evo kako možete početi:",
 	"LIB_EMPTY_CAL": "Vaš kalendar prikazuje serije iz vaše knjižnice.",
@@ -492,13 +441,11 @@
 	"LIB_EMPTY_ALL": "Registrirajte se kako biste dobili sve ovo:",
 	"LIB_EMPTY_BEST": "Registrirajte se za najbolje od Stremija",
 	"LIB_EMPTY_OTHER": "Registrirajte se za kalendar i druge super značajke",
-
 	"CALENDAR_ADDED": "Stremio kalendar je dodan u vaš zadani kalendar na računalu.",
 	"CALENDAR_ADDED_MSG": "Ako ovo ne radi, molimo ručno dodajte ovaj URL u svoju aplikaciju za kalendar",
-
 	"TRAKT_EXPIRED": "Trakt autentifikacija je istekla, molimo idite u Postavke i ponovno se prijavite",
-	"TRAKT_REQUIRES_LOGIN" : "Trakt pogreška",
-	"TRAKT_REQUIRES_LOGIN_MSG" : "Potrebna je prijava",
+	"TRAKT_REQUIRES_LOGIN": "Trakt pogreška",
+	"TRAKT_REQUIRES_LOGIN_MSG": "Potrebna je prijava",
 	"TRAKT_IMPORT_WATCHED": "Uvezi",
 	"THEME": "Tema",
 	"THEME_DEFAULT": "Zadana",
@@ -582,22 +529,22 @@
 	"SETTINGS_SUBTITLES_FONT": "Font titlova",
 	"SETTINGS_SUBTITLES_EDGES": "Rubovi titlova",
 	"SETTINGS_SUBTITLES_OPACITY": "Prozirnost titlova",
-	"SETTINGS_SUBTITLES_WINDOW_COLOR" : "Boja prozora titlova",
-	"SETTINGS_SUBTITLES_WINDOW_OPACITY" : "Prozirnost prozora titlova",
-	"SETTINGS_SUBTITLES_EDGES_SHADOW" : "Sjena",
-	"SETTINGS_SUBTITLES_EDGES_RAISED" : "Izdignuto",
-	"SETTINGS_SUBTITLES_EDGES_DEPRESSED" : "Udubljeno",
-	"SETTINGS_SUBTITLES_EDGES_UNIFORM" : "Ujednačeno",
-	"SETTINGS_SUBTITLES_INFERRED" : "Koristi postavke sustava",
-	"SETTINGS_SUBTITLES_COLOR_BLACK" : "Crna",
-	"SETTINGS_SUBTITLES_COLOR_WHITE" : "Bijela",
-	"SETTINGS_SUBTITLES_COLOR_BLUE" : "Plava",
-	"SETTINGS_SUBTITLES_COLOR_RED" : "Crvena",
-	"SETTINGS_SUBTITLES_COLOR_GREEN" : "Zelena",
-	"SETTINGS_SUBTITLES_COLOR_CYAN" : "Cijan",
-	"SETTINGS_SUBTITLES_COLOR_YELLOW" : "Žuta",
-	"SETTINGS_SUBTITLES_COLOR_MAGENTA" : "Magenta",
-	"SETTINGS_SUBTITLES_INFO_INFERRED_APPLE" : "Prema zadanim postavkama, titlovi su stilizirani prema postavkama sustava. Ako želite imati slične titlove u svim aplikacijama, možete promijeniti preference u Postavke sustava -> Pristupačnost -> Titlovi",
+	"SETTINGS_SUBTITLES_WINDOW_COLOR": "Boja prozora titlova",
+	"SETTINGS_SUBTITLES_WINDOW_OPACITY": "Prozirnost prozora titlova",
+	"SETTINGS_SUBTITLES_EDGES_SHADOW": "Sjena",
+	"SETTINGS_SUBTITLES_EDGES_RAISED": "Izdignuto",
+	"SETTINGS_SUBTITLES_EDGES_DEPRESSED": "Udubljeno",
+	"SETTINGS_SUBTITLES_EDGES_UNIFORM": "Ujednačeno",
+	"SETTINGS_SUBTITLES_INFERRED": "Koristi postavke sustava",
+	"SETTINGS_SUBTITLES_COLOR_BLACK": "Crna",
+	"SETTINGS_SUBTITLES_COLOR_WHITE": "Bijela",
+	"SETTINGS_SUBTITLES_COLOR_BLUE": "Plava",
+	"SETTINGS_SUBTITLES_COLOR_RED": "Crvena",
+	"SETTINGS_SUBTITLES_COLOR_GREEN": "Zelena",
+	"SETTINGS_SUBTITLES_COLOR_CYAN": "Cijan",
+	"SETTINGS_SUBTITLES_COLOR_YELLOW": "Žuta",
+	"SETTINGS_SUBTITLES_COLOR_MAGENTA": "Magenta",
+	"SETTINGS_SUBTITLES_INFO_INFERRED_APPLE": "Prema zadanim postavkama, titlovi su stilizirani prema postavkama sustava. Ako želite imati slične titlove u svim aplikacijama, možete promijeniti preference u Postavke sustava -> Pristupačnost -> Titlovi",
 	"SETTINGS_ASS_SUBTITLES_STYLING": "Stiliziraj ASS titlove",
 	"SETTINGS_SEEK_KEY": "Premotavanje strelicama",
 	"SETTINGS_SEEK_KEY_SHIFT": "Premotavanje strelicama uz tipku Shift",
@@ -673,17 +620,14 @@
 	"SETTINGS_DISABLED": "Isključeno",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Obavijest o mrežnoj vezi",
 	"SETTINGS_ANALYTICS": "Dopusti analitiku",
-
 	"SETTINGS_REMOTE_URL": "URL daljinskog upravljača",
 	"SETTINGS_COPY_REMOTE_URL": "Kopiraj URL daljinskog upravljača",
 	"SETTINGS_REMOTE_URL_COPIED": "URL daljinskog upravljača kopiran je u međuspremnik",
-
 	"SETTINGS_SECTION_SUBTITLES": "Titlovi",
 	"SETTINGS_SECTION_AUDIO": "Zvuk",
 	"SETTINGS_SECTION_CONTROLS": "Kontrole",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatska reprodukcija",
 	"SETTINGS_SECTION_ADVANCED": "Napredno",
-
 	"SUBSPICKER_AUDIO": "Zvuk",
 	"SUBSPICKER_SUBTITLES": "Titlovi dodataka",
 	"SUBSPICKER_BLACK_BACKGROUND": "Koristi crnu boju pozadine",
@@ -691,7 +635,6 @@
 	"SUBSPICKER_SIZE": "Veličina",
 	"SUBSPICKER_DELAY": "Odgoda",
 	"SUBSPICKER_EMBEDDED_SUBS": "Ugrađeni titlovi",
-
 	"MOBILE_PRIVACY_POLICY": "Pravila privatnosti",
 	"MOBILE_CRASH_REPORTING": "Izvješćivanje o rušenju",
 	"MOBILE_ZOOM_TO_FILL": "Zumiraj za ispunu zaslona",
@@ -725,15 +668,11 @@
 	"MOBILE_DELETE_FB_ACCOUNT_MESSAGE": "Vaš račun je izrađen putem Facebooka. Za brisanje računa koristite naš korisnički portal na www.stremio.com/login",
 	"MOBILE_DELETE_ACCOUNT_MESSAGE": "Molimo unesite lozinku kako biste potvrdili brisanje računa.",
 	"MOBILE_DELETE_ACCOUNT_BUTTON": "Izbriši račun",
-
 	"NAVIGATION_ON": "Uključeno",
 	"NAVIGATION_OFF": "Isključeno",
-
 	"READ_AND_AGREE": "Pročitao sam i slažem se sa Stremio",
 	"MARKETING_AGREE": "Slažem se s primanjem marketinških obavijesti od Stremija",
-
 	"QUIT": "Izađi",
-
 	"CONNECTED": "Povezano",
 	"AUTHENTICATE": "Autentificiraj",
 	"AUTHENTICATING": "Autentifikacija u tijeku...",
@@ -745,7 +684,6 @@
 	"TORRENT_PROFILE": "Torrent profil",
 	"DATA_CACHING": "Predmemoriranje podataka",
 	"MAGNET_PARSING": "Obrada magnet poveznice",
-
 	"January": "Siječanj",
 	"February": "Veljača",
 	"March": "Ožujak",
@@ -758,7 +696,6 @@
 	"October": "Listopad",
 	"November": "Studeni",
 	"December": "Prosinac",
-
 	"Monday": "Ponedjeljak",
 	"Tuesday": "Utorak",
 	"Wednesday": "Srijeda",
@@ -766,7 +703,6 @@
 	"Friday": "Petak",
 	"Saturday": "Subota",
 	"Sunday": "Nedjelja",
-
 	"Action": "Akcija",
 	"Comedy": "Komedija",
 	"War": "Ratni",
@@ -842,7 +778,6 @@
 	"Science Radio": "Znanost (radio)",
 	"Tech Radio": "Tehnologija (radio)",
 	"Science & Technology Vod": "Znanost i tehnologija (VOD)",
-
 	"new video": "novi videozapis",
 	"new episode": "nova epizoda",
 	"new movie": "novi film",
@@ -851,7 +786,6 @@
 	"offer of the day": "ponuda dana",
 	"news": "vijesti",
 	"music video": "glazbeni spot",
-
 	"CTX_SHOW_HOTKEYS": "Prikaži tipkovne prečace",
 	"CTX_DISMISS_NOTIF": "Odbaci obavijesti",
 	"CTX_DISMISS_ALL": "Odbaci sve",
@@ -896,17 +830,14 @@
 	"CTX_PASTE": "Zalijepi",
 	"CTX_CLEAR": "Očisti",
 	"CTX_CLEAR_RECENT_SEARCHES": "Očisti nedavna pretraživanja",
-
-        "HELLO_THERE": "Pozdrav!",
+	"HELLO_THERE": "Pozdrav!",
 	"HOPE_YOU_ENJOY": "Nadamo se da uživate u Stremiju i da vam je već postao jedna od omiljenih aplikacija!",
 	"WHO_ARE_WE": "Tko smo mi? Mi smo tim koji stoji iza projekta – dvojica entuzijasta koji protekle 3 godine svakodnevno naporno rade kako bi ovaj proizvod učinili boljim.",
 	"SUPPORT_US": "Ako uživate u korištenju Stremija i smatrate ga vrijednim – proširite glas o nama!",
 	"SPREAD_THE_WORD": "Podijelite s prijateljima i proširite glas o Stremiju",
 	"MORE_PEOPLE": "Što više ljudi koristi Stremio, on će postajati bolji!",
 	"SEND_A_LINK": "Ili pošaljite poveznicu na našu web stranicu",
-
 	"TIP_LOCALFILES": "Savjet: možete jednostavno povući i ispustiti lokalne video datoteke u Stremio",
-
 	"ADDON_MY": "Moji dodaci",
 	"ADDON_COMMUNITY": "Dodaci zajednice",
 	"ADDON_SECONDARY": "Sekundarni dodaci",
@@ -939,9 +870,8 @@
 	"ADDON_PROVIDES_SUBTITLES": "Titlovi za #{types}",
 	"ADDON_CANTDETECT": "Nismo uspjeli otkriti pokrenuti Stremio, pa ne možemo vidjeti koje dodatke imate instalirane.",
 	"ADDON_VERSION_SHORT": "v.{{version}}",
-
-	"ERR_APPLE_STREAM_NOT_SUPPORTED" : "Streaming torrenata nije podržan na ovom uređaju zbog pravila App Storea",
-	"ERR_APPLE_TORRENT_NOT_SUPPORTED" : "Streaming torrenata nije podržan na ovom uređaju zbog pravila App Storea",
+	"ERR_APPLE_STREAM_NOT_SUPPORTED": "Streaming torrenata nije podržan na ovom uređaju zbog pravila App Storea",
+	"ERR_APPLE_TORRENT_NOT_SUPPORTED": "Streaming torrenata nije podržan na ovom uređaju zbog pravila App Storea",
 	"ERR_NO_META": "Nisu pronađene informacije o ovome ",
 	"ERR_NO_META_SELECTED": "Metapodaci nisu odabrani!",
 	"ERR_NO_META_FOUND": "Metapodaci nisu pronađeni!",
@@ -954,20 +884,18 @@
 	"ERR_NO_FILE_PATH": "Nije moguće poslati zahtjev bez putanje do datoteke",
 	"ERR_NO_TORRENT": "Torrent nije vraćen",
 	"ERR_NO_SUPPORTERD_FILES": "Nisu pronađene podržane datoteke",
-	"ERR_OPENING_FILES" : "Nije moguće otvoriti vanjske datoteke",
+	"ERR_OPENING_FILES": "Nije moguće otvoriti vanjske datoteke",
 	"ERR_INVALID_LINK": "Neispravna poveznica",
 	"ERR_REGISTERED_ONLY": "Ova opcija dostupna je samo registriranim korisnicima.",
 	"ERR_CLIPBOARD": "Nije moguće reproducirati iz međuspremnika",
 	"ERR_CLIPBOARD_READ": "Nije moguće čitati međuspremnik na ovoj platformi",
 	"ERR_CLIPBOARD_GENERIC": "U međuspremniku nije pronađen URL koji se može reproducirati. Molimo kopirajte URL (npr. magnet poveznicu) videozapisa.",
-
 	"BOARD_CONTINUE_WATCHING": "Nastavi gledati",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Popis 'Nastavi gledati' nije učitan!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Popis 'Nastavi gledati' je prazan",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmovi odabrani posebno za vas.<br />Ovaj film je primjer preporuke.",
 	"BOARD_EXPLANATION_EPISODES": "Ovdje dolaze nove epizode vaših omiljenih serija.<br />Dodajte serije koje pratite u svoju knjižnicu.",
 	"BOARD_EXPLANATION_VIDEOS": "Ovdje dolaze novi videozapisi vaših omiljenih kanala.<br />Dodajte YouTube kanale koje pratite u svoju knjižnicu.",
-
 	"WEBSITE_ENJOYED_BY": "Uživa više od 30 milijuna korisnika diljem svijeta",
 	"WEBSITE_STREAMING_ENHANCED": "Poboljšani streaming",
 	"WEBSITE_STREAMING_ENHANCED_DETAILS": "Stremio nudi sigurno, moderno i besprijekorno iskustvo zabave. Uz sučelje jednostavno za korištenje i raznoliku knjižnicu sadržaja, uključujući podršku za 4K HDR, korisnici mogu uživati u omiljenim filmovima i TV serijama na svim svojim uređajima. Uz predanost sigurnosti, Stremio je vrhunski izbor za bezbrižno i visokokvalitetno streaming iskustvo.",
@@ -1014,7 +942,6 @@
 	"WEBSITE_FREE_AND_SECURE_DETAILS": "Stremio nudi neusporedivu sigurnost i privatnost za korisnike. Uz jedinstvenu značajku daljinskog pokretanja dodataka, Stremio pruža sigurniji način gledanja vašeg omiljenog sadržaja u usporedbi s drugim platformama. Vaša sigurnost i privatnost su glavni prioriteti, a platforma osigurava zaštitu svih vaših podataka.",
 	"WEBSITE_FREE_AND_SECURE_DETAILS_2": "Recite zbogom brigama o sigurnosti i privatnosti i pozdravite svijet beskrajne zabave uz Stremio.",
 	"WEBSITE_INFORMATION_PROVIDED_BY": "Informacije omogućuje",
-
 	"WEBSITE_CONTRIBUTE_DESC": "projektu i pomozite nam da Stremio postane još bolji",
 	"WEBSITE_COMMUNITY_DESC": "Vjerujemo da je najbolji način za stvaranje uistinu nevjerojatnog streaming iskustva uključivanje naše zajednice u proces. Bilo da ste programer, umjetnik ili samo obožavatelj – možete pomoći Stremiju da raste.",
 	"WEBSITE_COMMUNITY_DESC_2": "Zato nam se pridružite danas, postanite dio Stremio zajednice i nastavite oblikovati budućnost streaminga.",
@@ -1057,8 +984,6 @@
 	"WEBSITE_STREMIO_WEB_ON_IOS": "Vodič za Stremio Web na iOS-u",
 	"WEBSITE_LINK_ART_V2": "Fanart galerija",
 	"WEBSITE_PARTNERS": "Partneri",
-
-
 	"WEBSITE_SLOGAN_WATCH": "Gledajte odmah",
 	"WEBSITE_SLOGAN_ALL": "Sav video sadržaj u kojem uživate na jednom mjestu",
 	"WEBSITE_SLOGAN_NEW": "Sve što možete poželjeti gledati",
@@ -1081,39 +1006,28 @@
 	"WEBSITE_TYPE_series_PL": "Serije",
 	"WEBSITE_TYPE_tv": "TV uživo",
 	"WEBSITE_TYPE_channel": "Kanali",
-
 	"WEBSITE_STREMIO_WHAT_IS": "Stremio je aplikacija koja vam pomaže organizirati i odmah gledati vaše omiljene videozapise, filmove, TV serije i TV kanale.",
-
 	"WEBSITE_FEATURES_WATCH": "Gledajte odmah u HD-u",
 	"WEBSITE_FEATURES_WATCH_DETAIL": "Kliknite i reproducirajte svoje omiljene filmove, TV emisije, videozapise i TV kanale.",
-
 	"WEBSITE_FEATURES_SUBS": "Automatski titlovi",
 	"WEBSITE_FEATURES_SUBS_DETAIL": "Stremio automatski odabire sinkronizirane titlove za vaš jezik.",
 	"WEBSITE_FEATURES_SUBS_LABEL": "Vaš potez, šefe.",
-
 	"WEBSITE_FEATURES_CAST": "Reproducirajte na TV-u i mobilnim uređajima",
 	"WEBSITE_FEATURES_CAST_DETAIL": "Emitirajte na AppleTV, Chromecast, Smart TV (DLNA/UPnP) i mobilne uređaje.",
-
 	"WEBSITE_LIB": "Uživajte u svojoj osobnoj knjižnici sinkroniziranoj na svim uređajima",
 	"WEBSITE_LIB_COLLECT": "Sakupljajte unutar Stremija",
 	"WEBSITE_LIB_IMPORT": "Uvezite s Facebooka",
 	"WEBSITE_LIB_LOCAL": "Dodajte s lokalnog diska",
-
 	"WEBSITE_BOARD": "Naslovnica - Vaše središnje mjesto za obavijesti i preporuke",
 	"WEBSITE_BOARD_RECOMMEND": "Preporučena TV serija",
 	"WEBSITE_BOARD_TRENDING": "Popularan film",
 	"WEBSITE_BOARD_NEW": "Novi videozapis",
 	"WEBSITE_BOARD_EPISODE": "Nova epizoda",
-
 	"WEBSITE_BOARD_1": "Tražite nešto zanimljivo za gledanje? Primajte preporuke temeljene na vašem ukusu!",
 	"WEBSITE_BOARD_2": "Primite obavijest kada izađe nova epizoda vaše omiljene serije ili YouTube kanala!",
-
 	"WEBSITE_BOARD_YOUTUBE": "Novi videozapisi s YouTube kanala",
 	"WEBSITE_BOARD_EPISODES": "Nove epizode serija koje pratite",
-
-
 	"WEBSITE_ADDONS": "Dodaci za sadržaj",
-
 	"WEBSITE_TECH_DETAIL": "Volimo tehnologiju, volimo 'ludu' znanost!\nStremio koristi sljedeće open source tehnologije:",
 	"WEBSITE_TECH_WCJS": "WebChimera.js omogućuje Stremiju reprodukciju bilo kojeg video formata s odličnim performansama.",
 	"WEBSITE_TECH_WCJS_EXTRA": "Mi smo ključni suradnici na projektu",
@@ -1121,8 +1035,6 @@
 	"WEBSITE_TECH_ELECTRON_EXTRA": "Mi smo suradnici na projektu",
 	"WEBSITE_TECH_LINVODB": "Tehnologija baze podataka koja osigurava da su vaši podaci organizirani i dostupni gdje god se prijavite.",
 	"WEBSITE_TECH_LINVODB_EXTRA": "Naša vlastita tehnologija",
-
-
 	"WEBSITE_CREATE_ADDON": "Izradite svoj dodatak",
 	"WEBSITE_CREATE_ADDON_DETAIL": "Imate li uslugu koja pruža video sadržaj? Pomoći ćemo vam da iskoristite Stremio značajke izradom vašeg dodatka.",
 	"WEBSITE_CREATE_ADDON_BENEFITS": "Prednosti izrade dodatka za Stremio",
@@ -1133,20 +1045,16 @@
 	"WEBSITE_P2P_CONTACT": "Zainteresirani? Slobodno nas <a href='mailto:office@stremio.com'>kontaktirajte</a>.",
 	"WEBSITE_P2P_CONTACT_EXTRA": "Bit će nam drago pomoći vam integrirati vaš sadržaj u Stremio!",
 	"WEBSITE_P2P": "S vremena na vrijeme pojavi se tehnologija koja mijenja pravila igre. Uložili su gomilu vremena i truda u izgradnju našeg Peer-to-Peer (P2P) video streaming enginea koji pruža sjajne performanse i svestranost za bilo koji slučaj korištenja.\nKontaktirajte nas za P2P video na zahtjev ili prijenos uživo s podrškom za DRM.",
-
-
 	"WEBSITE_THOUGHTS": "Misli koje dijelimo:",
 	"WEBSITE_SPREAD": "Proširite glas o Stremiju:",
 	"WEBSITE_CONTACT": "Kontaktirajte nas, bit će nam drago čuti vas!",
 	"WEBSITE_OPENSOURCE": "Za naše open source projekte posjetite naš",
-
 	"WEBSITE_BITCOIN": "Donirajte bitcoin:",
 	"WEBSITE_FAQ": "Često postavljana pitanja",
 	"WEBSITE_FAQ_SHORT": "ČPP",
 	"WEBSITE_QUESTIONS": "Pitanja",
 	"WEBSITE_TOS": "Uvjeti korištenja",
 	"WEBSITE_LEGAL": "Pravne napomene",
-
 	"WEBSITE_PAGE_ABOUT": "O nama",
 	"WEBSITE_PAGE_BECOME_PARTNER": "Postanite partner",
 	"WEBSITE_ALL_YOU_CAN_WATCH": "Sloboda da gledate\nsve što želite.",
@@ -1165,7 +1073,6 @@
 	"WEBSITE_EXTENDABLE_CATALOG": "Beskonačno proširiv video katalog;",
 	"WEBSITE_ORGANIZE_YOUR_MEDIA": "Sjajne značajke za organizaciju vaših medija;",
 	"WEBSITE_AS_SEEN_ON": "Kao što se vidi na",
-
 	"WEBSITE_STREMIO": "Stremio",
 	"WEBSITE_LINK_ABOUT_US": "O nama",
 	"WEBSITE_LINK_TECHNOLOGY": "Tehnologija",
@@ -1189,12 +1096,11 @@
 	"WEBSITE_LINK_PRAVACY_LEGAL": "Privatnost i pravo",
 	"WEBSITE_WHY": "Zašto to radimo",
 	"WEBSITE_WHY_P1": "U Stremiju dolazimo na posao svaki dan jer želimo riješiti važan problem u industriji videa na zahtjev. Svake minute objavljuje se toliko novog sadržaja da je praktički nemoguće snaći se u tome.",
-	"WEBSITE_WHY_P2":"Pomažemo ljudima kretati se tim ogromnim svijetom video zabave i otkrivati novi sadržaj za uživanje. Naše aplikacije okupljaju filmove, serije, TV uživo, web kanale i još mnogo toga. Posvećeni smo tome da korisnicima nevjerojatno olakšamo pronalaženje naslova i emitera koje vole.",
-	"WEBSITE_WHY_P3":"Našu uslugu možete koristiti na bilo kojem uređaju i u bilo koje vrijeme, što Stremio čini jedinim središtem video zabave koje će vam ikada trebati.",
+	"WEBSITE_WHY_P2": "Pomažemo ljudima kretati se tim ogromnim svijetom video zabave i otkrivati novi sadržaj za uživanje. Naše aplikacije okupljaju filmove, serije, TV uživo, web kanale i još mnogo toga. Posvećeni smo tome da korisnicima nevjerojatno olakšamo pronalaženje naslova i emitera koje vole.",
+	"WEBSITE_WHY_P3": "Našu uslugu možete koristiti na bilo kojem uređaju i u bilo koje vrijeme, što Stremio čini jedinim središtem video zabave koje će vam ikada trebati.",
 	"WEBSITE_TEAM": "TIM",
 	"WEBSITE_TEAM_P": "Stremio tim je malen, ali moćan: nas desetero kodiramo u X jezika i dijelimo stručnost u razvoju softvera, UI i UX dizajnu, marketingu i oglašavanju te poslovanju i startupima.",
-
-        "WEBSITE_FEATURES": "Značajke",
+	"WEBSITE_FEATURES": "Značajke",
 	"WEBSITE_FEATURES_P1": "",
 	"WEBSITE_FEATURES_DISCOVER": "Otkrijte novi sadržaj s lakoćom",
 	"WEBSITE_FEATURES_DISCOVER_P": "Lako otkrijte nove filmove, TV emisije, serije i kanale. Pregledavajte po kategoriji, žanru, ocjeni, novosti itd. ili jednostavno upišite naziv. Stremio čini pronalaženje novog video sadržaja iznimno jednostavnim.",
@@ -1209,7 +1115,6 @@
 	"WEBSITE_FEATURES_SOURCES": "Gledajte videozapise iz mnogo različitih izvora",
 	"WEBSITE_FEATURES_SOURCES_P": "Instalirajte službene dodatke i dodatke zajednice kako biste uživali u videozapisima različitih pružatelja usluga – sve u jednoj elegantnoj aplikaciji jednostavnoj za korištenje.",
 	"WEBSITE_CREATE_AN_ADDON": "Izradite dodatak",
-
 	"WEBSITE_FEATURES_SYNC": "Sinkronizirajte svoju knjižnicu na različitim uređajima i nastavite reprodukciju",
 	"WEBSITE_FEATURES_SYNC_P1": "Prijavite se svojim računom na svim uređajima i uživajte u sinkroniziranoj knjižnici, dodacima, reprodukciji i kalendaru.",
 	"WEBSITE_FEATURES_EXTENDABLE": "Proširiv video katalog putem dodataka",
@@ -1224,7 +1129,6 @@
 	"WEBSITE_FEATURES_POWER_USER_P1": "Reprodukcija u vanjskom playeru",
 	"WEBSITE_FEATURES_POWER_USER_P2": "Reprodukcija iz torrent datoteke ili magnet poveznice",
 	"WEBSITE_FEATURES_POWER_USER_P3": "Uvoz u knjižnicu iz Facebook lajkova ili s lokalnog diska",
-
 	"WEBSITE_ADD_ONS": "Dodaci",
 	"WEBSITE_ADD_ONS_P1": "Sav video sadržaj koji Stremio nudi dolazi putem sustava dodataka – u samu aplikaciju nije ugrađen nikakav sadržaj niti pružatelj sadržaja.",
 	"WEBSITE_ADD_ONS_P2": "Dostupne su dvije skupine dodataka: službeni i dodaci zajednice.",
@@ -1242,7 +1146,6 @@
 	"WEBSITE_ADDONS_CREATE": "Izradite dodatak",
 	"WEBSITE_ADDONS_CREATE_P1": "Ako želite, možete razviti vlastiti dodatak. Na taj način sebi i našoj zajednici možete omogućiti pristup novom video sadržaju i dosegnuti milijune korisnika diljem svijeta.",
 	"WEBSITE_ADDONS_START_CREATE": "Za početak posjetite stranicu Stremio Addon SDK:",
-
 	"WEBSITE_DOWNLOADS": "Preuzimanja",
 	"WEBSITE_DOWNLOADS_P1": "Za optimalne performanse preporučujemo korištenje najnovije dostupne verzije Stremio aplikacija. Ako iz nekog razloga želite koristiti stariju verziju, možete je preuzeti ovdje.",
 	"WEBSITE_DOWNLOADS_P1_SHORT": "Za optimalne performanse preporučujemo korištenje najnovije dostupne verzije Stremio aplikacija.",
@@ -1280,7 +1183,6 @@
 	"WEBSITE_DOWNLOADS_SEARCH_ON_XBOX": "Potražite Stremio u App Storeu na vašem Xbox uređaju",
 	"WEBSITE_DOWNLOADS_GUIDE_FOR_STREMIO_ON_RPI": "Vodič za Stremio OS na Raspberry Pi uređaju",
 	"WEBSITE_LINK_GUIDE": "Vodič",
-
 	"WEBSITE_DOWNLOAD_SERVICE": "Preuzmite Stremio Service",
 	"WEBSITE_DOWNLOAD_SERVICE_P1": "Stremio Service je prateća aplikacija za Stremio Web. Preporučujemo korištenje najnovije dostupne verzije.",
 	"WEBSITE_DOWNLOAD_SERVICE_FOR_WIN": "Stremio Service za Windows",
@@ -1296,7 +1198,6 @@
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_XBOX": "Objavili smo Stremio za Xbox",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_RPI": "Objavili smo Stremio za Raspberry Pi",
 	"WEBSITE_DOWNLOAD_WE_RELEASED_STREMIO_5_WINDOWS": "Objavili smo Stremio 5 za Windows",
-
 	"WEBSITE_CONTRIBUTE": "Doprinesite",
 	"WEBSITE_CONTRIBUTE_P1": "Stremio platforma je otvorenog koda i lako možete izraditi dodatak za sadržaj koji trenutno nije dostupan.",
 	"WEBSITE_CONTRIBUTE_WHY": "Zašto biste trebali izraditi dodatak?",
@@ -1314,7 +1215,6 @@
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P1": "Ako želite uživati u Stremio aplikacijama na različitim jezicima, možete se pridružiti našoj zajednici prevoditelja volontera. Oni nam pomažu dodati verzije Stremija na mnogim jezicima.",
 	"WEBSITE_CONTRIBUTE_TRANSLATE_P2": "Želite li početi?",
 	"WEBSITE_TRANSALTE_STREMIO": "Prevedite Stremio",
-
 	"WEBSITE_COMMUNITY_P1": "",
 	"WEBSITE_COMMUNITY_OFFICIALS": "Službene zajednice",
 	"WEBSITE_COMMUNITY_OFFICIALS_P1": "Postanite dio rastuće Stremio zajednice. Pratite nas na društvenim mrežama i slobodno nam se javite – volimo čuti naše obožavatelje!",
@@ -1337,7 +1237,6 @@
 	"WEBSITE_COMMUNITY_WALLPAPERS": "Pozadine",
 	"WEBSITE_COMMUNITY_ART": "Galerija radova zajednice",
 	"WEBSITE_LINK_ART": "Galerija radova zajednice",
-
 	"WEBSITE_CONTACT_US": "Kontaktirajte nas",
 	"WEBSITE_CONTACT_US_P1": "Ako imate bilo kakvih pitanja, komentara ili prijedloga, slobodno nam se javite putem kontakt obrasca u nastavku.",
 	"WEBSITE_CONTACT_US_P2": "Imajte na umu da se nalazimo u Bugarskoj, pa može doći do kašnjenja u odgovoru zbog vremenske razlike.",
@@ -1348,7 +1247,6 @@
 	"WEBSITE_CONTACT_US_PH_EMAIL": "Vaš e-mail",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Poruka",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "POŠALJI",
-
 	"WEBSITE_CONTACT_US_Q_1": "Kako instalirati?",
 	"WEBSITE_CONTACT_US_Q_2": "Kako deinstalirati?",
 	"WEBSITE_CONTACT_US_Q_3": "Kako napraviti lazanje?",
@@ -1358,7 +1256,6 @@
 	"WEBSITE_CONTACT_US_OS_3": "Linux",
 	"WEBSITE_CONTACT_US_OS_4": "Android",
 	"WEBSITE_CONTACT_US_OS_5": "iOS",
-
 	"WEBSITE_TECHNOLOGY": "Tehnologija",
 	"WEBSITE_TECHNOLOGY_P1": "Volimo tehnologiju i 'ludu' znanost. </br> Evo što pokreće Stremio (sve je otvorenog koda).",
 	"WEBSITE_TECHNOLOGY_P_QT": "Vrhunski razvoj višeplatformskog softvera.",
@@ -1374,7 +1271,6 @@
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_OR": "ili",
 	"WEBSITE_TECHNOLOGY_CONTRIBUTE_P_CREATE": "... možete upotrijebiti svoje vještine kodiranja za izradu dodataka zajednice.",
 	"WEBSITE_TRANSLATE_STREMIO": "Prevedite Stremio",
-
 	"WEBSITE_404_OH_NO": "Ups! Stranica koju tražite nije ovdje...",
 	"WEBSITE_GO_HOME": "Idi na početnu",
 	"WEBSITE_LINK_OTHER_DOWNLOADS": "Ostala preuzimanja",
@@ -1386,103 +1282,84 @@
 	"WEBSITE_LINK_ADDON_COMPETITION": "Natjecanje za dodatke",
 	"WEBSITE_LINK_ART_CONTEST": "Umjetnički natječaj",
 	"WEBSITE_MY_ACCOUNT": "Moj račun",
-
 	"WEBSITE_MAINPAGE_FAQ_001_H1": "Što je Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_001_P1": "Stremio je moderni medijski centar koji vam daje slobodu da gledate sve što želite.",
-
 	"WEBSITE_MAINPAGE_FAQ_002_H1": "Kako radi?",
 	"WEBSITE_MAINPAGE_FAQ_002_P1": "Nakon što instalirate Stremio na svoj uređaj i izradite račun, sve što trebate učiniti je posjetiti katalog dodataka, instalirati bilo koji dodatak i spremni ste!",
 	"WEBSITE_MAINPAGE_FAQ_002_P2": "Nakon toga možete otići u odjeljke Otkrij ili Naslovnica kako biste počeli istraživati sadržaj.",
-
 	"WEBSITE_MAINPAGE_FAQ_003_H1": "Što mogu gledati ovdje?",
 	"WEBSITE_MAINPAGE_FAQ_003_P1": "Puno toga: filmove, TV serije, web kanale, sport, TV kanale uživo, podkaste i još mnogo toga. Zahvaljujući našem sustavu dodataka, možete pristupiti raznolikom sadržaju.",
-
 	"WEBSITE_MAINPAGE_FAQ_004_H1": "Je li Stremio otvorenog koda?",
 	"WEBSITE_MAINPAGE_FAQ_004_P1": "Da, možete provjeriti sljedeće poveznice: ${1}aplikacija za računala${2} i ${3}GitHub organizacija${4}.",
-
 	"WEBSITE_MAINPAGE_FAQ_005_H1": "Je li Stremio siguran?",
 	"WEBSITE_MAINPAGE_FAQ_005_P1": "Da: budući da se radi o softveru otvorenog koda, kod je javno dostupan za reviziju i možete ga sami pregledati.",
 	"WEBSITE_MAINPAGE_FAQ_005_P2": "Stremio sustav dodataka također je kreiran vodeći računa o sigurnosti korisnika. Dodaci ne pokreću nikakav kod lokalno, tako da ne predstavljaju rizik za vaš uređaj.",
-
 	"WEBSITE_MAINPAGE_FAQ_006_H1": "Što je s mojom privatnošću?",
 	"WEBSITE_MAINPAGE_FAQ_006_P1": "Poštujemo privatnost korisnika i ne prikupljamo nikakve osobne podatke osim onog minimuma potrebnog za izradu i sinkronizaciju vašeg računa.",
 	"WEBSITE_MAINPAGE_FAQ_006_P2": "Postoji i ${1}Gostujući način${2} pri registraciji koji ne zahtijeva nikakve podatke: u ovom načinu se ne šalju nikakvi upiti prema našem pozadinskom sustavu. Međutim, to dolazi uz nedostatak korisnih značajki poput sinkronizacije knjižnice.",
-
 	"WEBSITE_MAINPAGE_FAQ_007_H1": "Mogu li emitirati na svoj TV?",
 	"WEBSITE_MAINPAGE_FAQ_007_P1": "Da, podržavamo Chromecast i možete emitirati s aplikacija za računala i mobilnih uređaja (Android).",
-
 	"WEBSITE_MAINPAGE_FAQ_008_H1": "Koliko dodataka ima Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_008_P1": "Više od 50 – za više informacija provjerite naš katalog dodataka.",
-
 	"WEBSITE_MAINPAGE_FAQ_009_H1": "Može li se Stremio proširiti izvan kataloga dodataka?",
 	"WEBSITE_MAINPAGE_FAQ_009_P1": "Da, trebali biste provjeriti: ${1}PimpMyStremio${2}, ${3}Reddit zajednice${4}, ${5}Stremio Downloader${6}, itd.",
-
 	"WEBSITE_MAINPAGE_FAQ_010_H1": "Koje uređaje Stremio podržava?",
 	"WEBSITE_MAINPAGE_FAQ_010_P1": "Imamo aplikacije za Windows, Mac i Linux. Za mobilne uređaje podržavamo Android i iOS, iako imajte na umu da je iOS verzija ograničena u funkcionalnosti (ne podržava većinu dodataka).",
 	"WEBSITE_MAINPAGE_FAQ_010_P2": "Postoje mnogi uređaji temeljeni na Androidu na kojima možete pokrenuti Stremio, poput NVIDIA Shield i Amazon Fire Stick, ali ih ne podržavamo službeno.",
 	"WEBSITE_MAINPAGE_FAQ_010_P1_2": "Imamo aplikacije za Windows, Mac i Linux. Također imamo namjenske aplikacije za Android Mobile i Android TV. Za iOS i iPadOS preporučujemo korištenje Stremio Weba, iako je on ograničenije funkcionalnosti.",
-
 	"WEBSITE_MAINPAGE_FAQ_011_H1": "Možete li dodati određeni sadržaj u Stremio?",
 	"WEBSITE_MAINPAGE_FAQ_011_P1": "Nažalost, mi sami ne pružamo nikakav sadržaj, ali što više dodataka instalirate, to ćete više sadržaja moći pronaći.",
-
 	"WEBSITE_MAINPAGE_FAQ_012_H1": "Može li Stremio reproducirati magnet poveznice?",
 	"WEBSITE_MAINPAGE_FAQ_012_P1": "Da, također može reproducirati normalne HTTP poveznice i torrent datoteke (povuci i ispusti).",
-
 	"WEBSITE_MAINPAGE_FAQ_013_H1": "Mogu li preuzeti video i gledati ga offline?",
 	"WEBSITE_MAINPAGE_FAQ_013_P1": "Izvanmrežno gledanje je nadolazeća značajka, ali ako dopustite Stremiju predmemoriranje (cache) u postavkama, videozapise možete gledati kasnije bez internetske veze.",
-
 	"WEBSITE_MAINPAGE_FAQ_014_H1": "Ništa ne radi, pomozite!",
 	"WEBSITE_MAINPAGE_FAQ_014_P1": "Jeste li sigurni da ste instalirali dodatke? Ako jeste, provjerite naš ${1}centar za pomoć${2}.",
-
 	"WEBSITE_MAINPAGE_FAQ_015_H1": "Kako Stremio održava svoje poslovanje?",
 	"WEBSITE_MAINPAGE_FAQ_015_P1": "Povremeno prikazujemo nenametljive oglase, ali razmišljamo o prelasku na model donacija.",
 	"WEBSITE_MAINPAGE_FAQ_015_P2": "Za dodatna pitanja posjetite naš ${1}centar za pomoć${2}.",
-
 	"HELP_LEARN_MORE": "Pomozite nam da saznamo više o vama.",
-	"LIFESTYLE" : "Životni stil",
+	"LIFESTYLE": "Životni stil",
 	"SPORTS": "Sport",
-	"FOOD_HEALTH" : "Hrana i zdravlje",
-	"BEAUTY_FASHION" : "Ljepota i moda",
-	"NEWS" : "Vijesti",
-	"GAMING" : "Gaming",
-	"SCIENCE_EDUCATION" : "Znanost i obrazovanje",
-	"MUSIC" : "Glazba",
-	"TRAVEL" : "Putovanja",
+	"FOOD_HEALTH": "Hrana i zdravlje",
+	"BEAUTY_FASHION": "Ljepota i moda",
+	"NEWS": "Vijesti",
+	"GAMING": "Gaming",
+	"SCIENCE_EDUCATION": "Znanost i obrazovanje",
+	"MUSIC": "Glazba",
+	"TRAVEL": "Putovanja",
 	"LATE_NIGHT": "Kasni noćni program",
 	"REALITY": "Reality",
 	"COMEDY": "Komedija",
-	"DIY" : "Uradi sam",
-	"TECH" : "Tehnologija",
-	"CINEMA" : "Kino",
-	"CONTINUE" : "Nastavi",
-	"SLOW_LOADING" : "SPORO UČITAVANJE?",
-	"I_GIVE_UP" : "ODUSTAJEM",
-	"LEARN_MORE" : "Saznajte više",
+	"DIY": "Uradi sam",
+	"TECH": "Tehnologija",
+	"CINEMA": "Kino",
+	"CONTINUE": "Nastavi",
+	"SLOW_LOADING": "SPORO UČITAVANJE?",
+	"I_GIVE_UP": "ODUSTAJEM",
+	"LEARN_MORE": "Saznajte više",
 	"POOR_SOURCE": "Ovaj izvor je slabo dostupan ili vaša internetska veza nije dovoljno brza",
-	"PICK_CATEGORIES_ERR" : "Morate odabrati barem 3 kategorije",
-	"ADJUST_TIMING" : "Podesite vrijeme uz ",
-	"ADJUST_SIZE" : "Podesite veličinu uz ",
-	"SEARCH_ANYTHING" : "Možete pretražiti bilo što...",
-	"ALL_CATEGORIES" : "Sve",
-	"SEARCH_CATEGORIES" : "Filmovi, serije, YouTube i TV",
-	"SEARCH_PERSONS" : "Glumci, redatelji i scenaristi",
-	"SEARCH_PROTOCOLS" : "HTTP i magnet poveznice",
-	"SEARCH_TYPES" : "IMDB / TVDB poveznice",
+	"PICK_CATEGORIES_ERR": "Morate odabrati barem 3 kategorije",
+	"ADJUST_TIMING": "Podesite vrijeme uz ",
+	"ADJUST_SIZE": "Podesite veličinu uz ",
+	"SEARCH_ANYTHING": "Možete pretražiti bilo što...",
+	"ALL_CATEGORIES": "Sve",
+	"SEARCH_CATEGORIES": "Filmovi, serije, YouTube i TV",
+	"SEARCH_PERSONS": "Glumci, redatelji i scenaristi",
+	"SEARCH_PROTOCOLS": "HTTP i magnet poveznice",
+	"SEARCH_TYPES": "IMDB / TVDB poveznice",
 	"WATCHED": "Pogledano",
-	"SHOW_LESS" : "Prikaži manje",
-	"LAST_SEARCHES" : "Posljednja pretraživanja",
-	"CLEAR_HISTORY" : "Očisti povijest",
-	"CHOOSE_SOME" : "ODABERITE NEŠTO OD OVOGA:",
+	"SHOW_LESS": "Prikaži manje",
+	"LAST_SEARCHES": "Posljednja pretraživanja",
+	"CLEAR_HISTORY": "Očisti povijest",
+	"CHOOSE_SOME": "ODABERITE NEŠTO OD OVOGA:",
 	"PAGE_NOT_FOUND": "Stranica nije pronađena!",
-
 	"NO_WEB_REMOTE": "Nije moguće učitati daljinski upravljač",
 	"STREMIO_OFFLINE": "Stremio je offline",
 	"STREMIO_EXPENSIVE_CONNECTION": "Otkrili smo da koristite mobilnu mrežu, želite li nastaviti?",
 	"USE_DATA": "Koristi podatke",
 	"WARNING": "Upozorenje",
-
 	"MORE_INFO": "Više informacija ...",
-
 	"STREMIO_TV_STREMIO": "Stremio",
 	"STREMIO_TV_LOADING": "Učitavanje ...",
 	"STREMIO_TV_BACK_TO_LANGUAGES": "Povratak na jezike",
@@ -1563,8 +1440,7 @@
 	"STREMIO_TV_SETTINGS_SERVER_LOADING_STATISTICS": "Prikaži statistiku tijekom učitavanja",
 	"STREMIO_TV_SETTINGS_PRIVACY_POLICY_TEXT": "Da biste pročitali Pravila privatnosti, posjetite:",
 	"STREMIO_TV_SETTINGS_TOS_TEXT": "Da biste pročitali Uvjete korištenja, posjetite:",
-
-        "STREMIO_TV_NAV_SEARCH": "Pretraživanje",
+	"STREMIO_TV_NAV_SEARCH": "Pretraživanje",
 	"STREMIO_TV_NAV_HOME": "Početna",
 	"STREMIO_TV_NAV_DISCOVER": "Otkrij",
 	"STREMIO_TV_NAV_LIBRARY": "Knjižnica",
@@ -1574,14 +1450,12 @@
 	"STREMIO_TV_NAV_TV": "TV uživo",
 	"STREMIO_TV_NAV_SETTINGS": "Postavke",
 	"STREMIO_TV_NAV_ADDONS": "Dodaci",
-
 	"STREMIO_TV_LOGIN_TITLE": "Poveži račun",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Istječe za",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Skenirajte QR kod iznad ili idite na",
 	"STREMIO_TV_LOGIN_STEP_TWO": "Prijavite se u svoj Stremio račun",
 	"STREMIO_TV_LOGIN_NEW_LINK": "Zatraži novu poveznicu",
 	"STREMIO_TV_LOGIN_LINK_REFRESHED": "Kod za prijavu je osvježen",
-
 	"STREMIO_TV_SEARCH_PLACEHOLDER": "Upišite nešto",
 	"STREMIO_TV_SEARCH_NO_ADDONS": "Nisu zatraženi dodaci za kataloge!",
 	"STREMIO_TV_SEARCH_BUTTON": "Traži",
@@ -1591,11 +1465,8 @@
 	"STREMIO_TV_SEARCH_HISTORY_TITLE": "Povijest pretraživanja",
 	"STREMIO_TV_SEARCH_HISTORY_DESCRIPTION": "Možete pretraživati naslove, glumce, kanale i još mnogo toga...",
 	"STREMIO_TV_SEARCH_HISTORY_CLEAR": "Očisti povijest pretraživanja",
-
 	"STREMIO_TV_FILTERS_DESCRIPTION": "Odaberite jedan od filtara u nastavku",
-
 	"STREMIO_TV_STREAMING_SERVER_OFFLINE": "Streaming poslužitelj nije dostupan. Provjerite postavke poslužitelja.",
-
 	"FILTERS": "Filtri",
 	"SETTINGS": "Postavke",
 	"ACCOUNT": "Račun",
@@ -1645,55 +1516,43 @@
 	"REMOTE_ADJUST_SIZE": "Podesi veličinu",
 	"REMOTE_COULD_NOT_BE_LOADED": "Web daljinski nije moguće učitati",
 	"REMOTE_RETRY": "Pokušaj ponovno",
-
 	"TORRENT_PROFILE_DEFAULT": "Zadano",
 	"TORRENT_PROFILE_SOFT": "Meko",
 	"TORRENT_PROFILE_FAST": "Brzo",
 	"TORRENT_PROFILE_ULTRA_FAST": "Ultra brzo",
-
 	"MB_S": "MB/s",
-
 	"FAQ_001_H1": "Što je Stremio?",
 	"FAQ_001_P1": "Stremio je softver za medijski centar dizajniran za video zabavu s fokusom na jednostavnost korištenja. Stremio vam omogućuje organiziranje i gledanje vlastite kolekcije filmova, serija, kanala i TV-a uživo.",
 	"FAQ_001_P2": "Stremio prikuplja sadržaj koji vam prikazuje s vašeg lokalnog diska i putem našeg sustava dodataka.",
 	"FAQ_001_P3": "Također će vas obavijestiti kada izađu nove epizode/videozapisi/filmovi koji vas zanimaju te vam pružiti preporuke filmova.",
-
 	"FAQ_02_H1": "Kako se Stremio može usporediti s Kodijem i Plexom?",
 	"FAQ_02_P1": "Inspirirani smo tim dvama softverima, ali imamo drugačije ciljeve – Stremio je specifično usmjeren na zabavni video sadržaj i nastoji postati rješenje za širu publiku tako što je iznimno jednostavan za korištenje.",
 	"FAQ_02_P2": "Stremio nikada neće biti toliko prilagodljiv i bogat značajkama kao Kodi i Plex, ali je značajno lakši za korištenje. Jednostavno ga ${1} preuzmite i uvjerite se sami ${2} :)",
-
 	"FAQ_03_H1": "Kako se Stremio može usporediti s Netflixom?",
 	"FAQ_03_P1": "Netflix je također jedna od naših inspiracija. Nastojimo postići korisničko iskustvo Netflixa uz mnoge dodatne pogodnosti. Najvažnije je da vam dajemo slobodu upravljanja vlastitom knjižnicom i dodavanja novih izvora sadržaja putem našeg sustava dodataka.",
 	"FAQ_03_P2": "To čini Stremio beskonačno proširivim, pa kada koristite Stremio, nikada niste ograničeni samo na sadržaj za koji Netflix odluči kupiti licencu. Na primjer, preko Stremija možete gledati sadržaj s platformi ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} pa čak i samog ${9}Netflixa${10}!",
-
 	"FAQ_04_H1": "Kako se Stremio može usporediti s Flipboardom?",
 	"FAQ_04_P1": "To nas pitanje ne pitaju često, osim u razgovorima sa start-up ljudima :)",
 	"FAQ_04_P2": "Stremio je po dizajnu agregator sadržaja, što ga u osnovi čini Flipboardom za video. To je vrlo vidljivo u našem odjeljku Naslovnica (Board), koji vam nudi kataloge i obavijesti o novim epizodama/videozapisima za ono što pratite, baš kao i Flipboard.",
-
 	"FAQ_05_H1": "Kako se Stremio može usporediti s Popcorn Timeom?",
 	"FAQ_05_P1": "Stremio i Popcorn Time su slični u korisničkom sučelju jer nema mnogo načina da se katalozi video zabave naprave ispravno :)",
 	"FAQ_05_P2": "No, dok je Popcorn Time fokusiran na streaming torrenta iz specifičnih izvora, Stremio je neograničen i isključivo je agregator sadržaja – nije zaključan na specifičan izvor sadržaja.",
 	"FAQ_05_P3": "Nadalje, mi ne pružamo nikakve torrent dodatke prema zadanim postavkama, tako da Stremio ne pokriva upotrebni slučaj Popcorn Timea putem službenih funkcionalnosti.",
 	"FAQ_05_P4": "Druga značajna razlika je u tome što je Popcorn Time potpuno otvorenog koda, dok je Stremio ${1} djelomično otvorenog koda${2}.",
-
 	"FAQ_06_H1": "Hoćete li dodati ovaj film/seriju?",
 	"FAQ_06_P1": "Nažalost, ne :(",
 	"FAQ_06_P2": "Kao što je spomenuto u većini drugih odgovora, Stremio sam po sebi ne pruža nikakav sadržaj – sve se dodaje putem sustava dodataka. U slučaju da imate zahtjev za sadržajem, možete koristiti gumb „Prijavi” u playeru, što će poslati e-mail autoru dodatka koji trenutno koristite.",
-
 	"FAQ_07_H1": "",
 	"FAQ_07_P1": "",
 	"FAQ_07_P2": "",
-
 	"FAQ_08_H1": "Hoćete li napraviti dodatak za X?",
 	"FAQ_08_P1": "To je sasvim moguće.",
 	"FAQ_08_P2": "Ako imate ideju za dodatak, javite nam se na ${1}office@stremio.com${2}, ali vas molimo da vaša ideja ne krši autorska prava ili uvjete korištenja.",
 	"FAQ_08_P3": "Trenutno su sljedeće stvari na našem planu razvoja dodaci za FandangoNOW, Filmon.tv video na zahtjev i Crunchyroll.",
-
 	"FAQ_09_H1": "Koristi li Stremio BitTorrent?",
 	"FAQ_09_P1": "Da, Stremio podržava BitTorrent kao protokol za streaming. Možete ga koristiti ili putem torrent dodatka, ili povlačenjem .torrent datoteke u Stremio, ili lijepljenjem magnet poveznice u traku za pretraživanje.",
 	"FAQ_09_P2": "Imajte na umu da je jedini službeni dodatak koji koristi BitTorrent ${1}Vodo${2}, koji pruža indie sadržaj čija je distribucija putem BitTorrenta dopuštena.",
 	"FAQ_09_P3": "Ne podržavamo korištenje bilo kakvih dodataka trećih strana koji mogu omogućiti kršenje autorskih prava.",
-
 	"FAQ_10_H1": "Što mogu gledati u Stremiju sa službenim dodacima?",
 	"FAQ_10_P1": "Prema zadanim postavkama, unutar samog Stremija možete gledati sadržaj s Filmon.tv, YouTubea i Voda putem ugrađenog playera. Osim toga, imamo dodatak za Twitch.tv i nekoliko drugih.",
 	"FAQ_10_P2": "To zajedno pruža izbor:",
@@ -1702,64 +1561,51 @@
 	"FAQ_10_L3": "Indie filmova uz Vodo",
 	"FAQ_10_L4": "Prijenosa online igara uz Twitch.tv",
 	"FAQ_10_P3": "Osim toga, postoje mnogi izvori sadržaja koje pružaju Guidebox i Netflix dodaci, koji se <b>ne reproduciraju</b> u potpunosti unutar Stremija, već vas preusmjeravaju na danu uslugu. Na primjer, Guidebox dodatak ponudit će vam izbor filmova koje možete besplatno streamati u SAD-u s usluga kao što su TubiTV i Crackle.",
-
 	"FAQ_11_H1": "Stremio se ne želi instalirati, što da radim?",
 	"FAQ_11_P1": "Ako ste na Windowsima, pokušajte s ${1}ovim alternativnim instalacijskim programom${2}.",
 	"FAQ_11_P2": "Ako ste na Mac OS X-u, imajte na umu da ne podržavamo verzije starije od OS X Mavericks (10.9).",
 	"FAQ_11_P3": "Ako ste na Linuxu, imajte na umu da trenutno podržavamo samo 64-bitni (x64) Linux.",
 	"FAQ_11_P4": "Ako i dalje ne možete riješiti problem, pišite nam u našu ${1}Facebook grupu${2}.",
-
 	"FAQ_12_H1": "Zašto se moj antivirus žali? Je li Stremio siguran?",
 	"FAQ_12_P1": "Uvjeravamo vas da je Stremio ${1}100% čist${2}.",
 	"FAQ_12_P2": "Vaš antivirusni program se žali jer naš instalacijski program uključuje oglašavanje, što neki antivirusni programi prepoznaju kao ad-ware.",
 	"FAQ_12_P3": "Ako ste i dalje nesigurni, možete isprobati naš ${1}alternativni instalacijski program${2}.",
-
 	"FAQ_13_H1": "Kako mogu napraviti dodatak?",
 	"FAQ_13_P1": "Za početak preporučujemo da provjerite naš ${1}modul sustava dodataka${2} na GitHubu.",
 	"FAQ_13_P2": "Nakon toga možete pratiti ${1}Hello World vodič${2}.",
 	"FAQ_13_P3": "Ako nemate nikakvih programerskih vještina, objavite svoju ideju u ${1}Reddit zajednici${2} i kontaktirajte nas sa svojom idejom za dodatak na ${3}office@stremio.com${4}.",
-
 	"FAQ_14_H1": "Kako se dodaci objavljuju?",
 	"FAQ_14_P1": "Kada izradite dodatak, postavite ga na poslužitelj i unesete <b>endpoint</b> polje u svoj manifest koje pokazuje na radnu adresu dodatka, dodatak će se automatski objaviti u našem ${1}Katalogu dodataka${2}.",
 	"FAQ_14_P2": "To se događa jer poslužiteljski dio stremio-addons modula automatski upućuje poziv našem API-ju kako bi najavio dodatak. Kada naš API potvrdi vaš <b>endpoint</b> kao valjan, on će se početi prikazivati u katalogu.",
-
 	"FAQ_15_H1": "Mogu li pokrenuti Stremio u svom pregledniku?",
 	"FAQ_15_P1": "Trenutno ne, ali to uskoro stiže!",
 	"FAQ_15_P2": "Ako vas zanima kako izgleda Alpha verzija, možete je vidjeti ovdje: ${1}alpha4.strem.io${2}. Imajte na umu da je streaming onemogućen u ovoj verziji. Podržavamo Chrome, Firefox, Operu i Edge.",
-
 	"FAQ_16_H1": "Emitiranje na TV ne radi / titlovi ne rade",
 	"FAQ_16_P1": "Emitiranje na TV koristi DLNA tehnologiju koja je vrlo nedosljedna između različitih marki i modela televizora. Iz tog razloga nemamo mogućnost testirati svaki slučaj, pa je daleko od savršenog. Unatoč tome, stalno radimo na poboljšanju, ali vam ne možemo dati procjenu kada će DLNA početi ispravno raditi s vašim televizorom.",
 	"FAQ_16_P2": "Ako uopće ne vidite svoj TV u izborniku za emitiranje, pokušajte isključiti i ponovno uključiti mrežnu vezu (na Windowsima desni klik na Mrežu pa Omogući/Onemogući), kao i ponovno pokrenuti usmjerivač (router), TV i računalo.",
 	"FAQ_16_P3": "Ako i dalje imate problema, možete nam pomoći slanjem podataka o marki i modelu vašeg televizora na ${1}office@stremio.com${2}.",
 	"FAQ_16_P4": "U međuvremenu preporučujemo Chromecast, koji podržavamo vrlo dobro, ili jednostavno povezivanje televizora s računalom putem HDMI kabela.",
-
 	"FAQ_17_H1": "Stremio se zamrzava i/ili ruši, što mogu učiniti?",
 	"FAQ_17_P1": "Prije svega, ako koristite Windows 7 s AVG antivirusom: imamo problem s tom kombinacijom. Problem je u samom AVG-u i nema razumnog načina da se to riješi s naše strane. Nažalost, iznimke ili onemogućavanje antivirusa neće raditi. Jedino rješenje je zamijeniti AVG nečim drugim.",
 	"FAQ_17_P2": "Ako to nije problem, a koristite Windowse, molimo ažurirajte sustav na najnoviji servisni paket i ažurirajte/ponovno instalirajte upravljačke programe za grafičku karticu (GPU), a zatim pokušajte ponovno.",
 	"FAQ_17_P3": "Ako vaš problem i dalje nije riješen, ili koristite Mac ili Linux, molimo pišite nam prijavljujući točne detalje problema u ${1}našoj Facebook grupi${2}.",
-
 	"FAQ_18_H1": "Kako mogu napraviti dodatak?",
 	"FAQ_18_P1": "Za početak preporučujemo da provjerite naš ${1}modul sustava dodataka${2} na GitHubu.",
 	"FAQ_18_P2": "Nakon toga možete pratiti ${1}Hello World vodič${2}.",
 	"FAQ_18_P3": "Ako nemate nikakvih programerskih vještina, objavite svoju ideju u ${1}Reddit zajednici${2} i kontaktirajte nas sa svojom idejom za dodatak na ${3}office@stremio.com${4}.",
-
 	"FAQ_19_H1": "Zašto Stremio zauzima prostor na disku?",
 	"FAQ_19_P1": "Stremio ima <b>lokalnu predmemoriju (cache)</b> kako bi privremeno pohranio video datoteke koje streamate.",
 	"FAQ_19_P2": "To ima dvije prednosti: prvo, omogućuje Stremiju da unaprijed učita video kako bi osigurao glatkiji streaming. Drugo, čuva videozapise u lokalnoj predmemoriji kako biste ih mogli nastaviti gledati izvanmrežno.",
 	"FAQ_19_P3": "Koliko će Stremio zadržati ovisi o postavci <b>Cache</b> u panelu s postavkama. Stremio može zadržati do postavljenog iznosa (npr. 2GB) na vašem disku, osim ako je video koji trenutno streamate veći od toga, u kojem slučaju mora dodijeliti dovoljno prostora dok god ga streamate.",
-
 	"FAQ_20_H1": "Gdje se nalazi mapa predmemorije (cache)?",
 	"FAQ_20_P1": "Na Windowsima, to je stremio-cache na pogonu koji ste odabrali u postavkama (npr. \"E:\\stremio-cache\")",
 	"FAQ_20_P2": "Na MacOS-u, to je \"~/Library/Application Support/Stremio/stremio-cache\"",
 	"FAQ_20_P3": "Na Linuxu, to je \"~/.stremio/stremio-cache\" ili \"~/stremio-cache\"",
-
 	"FAQ_21_H1": "Dobivam pogrešku \"Streaming server is not found\", što mogu učiniti?",
 	"FAQ_21_P1": "Ako dobijete ovu pogrešku, to znači jednu od nekoliko stvari:",
 	"FAQ_21_P2": "1) Pokušavate koristiti dodatak koji se oslanja na YouTube/BitTorrent izvor putem naše ${1}web verzije${2}. U tom slučaju trebali biste instalirati našu verziju za računala s ${3}naše web stranice${4}.",
 	"FAQ_21_P3": "2) Nešto nije u redu s vašom instalacijom Stremija. U tom slučaju pokušajte ponovno instalirati našu najnoviju verziju za računala s ${1}web stranice${2}. Ako to ne pomogne, pokušajte onemogućiti antivirusne programe i vatrozide, ponovno pokrenite računalo i pokušajte ponovno. Ako ni to ne uspije, pišite nam u ${3}našu Facebook grupu${4}.",
-
 	"FAQ_22_H1": "Ne mogu vidjeti/koristiti većinu dodataka na iOS-u",
 	"FAQ_22_P1": "Zbog ograničenja u uvjetima korištenja Apple App Storea, ograničili smo iOS aplikaciju samo na određeni skup dodataka.",
 	"FAQ_22_P2": "Ali budite uvjereni – u budućnosti će biti više dodataka za iOS, a možda ćemo dodati i integraciju koja će vam omogućiti korištenje svih Stremio dodataka zahvaljujući povezivanju iOS aplikacije sa Stremio Streaming poslužiteljem."
-
 }
