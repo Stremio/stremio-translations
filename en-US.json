@@ -203,6 +203,11 @@
 	"PLAYER_COMPLETED": "Completed",
 	"PLAYER_INFO_HASH": "Info hash",
 
+	"PLAYER_SCALE_FIT": "Fit",
+	"PLAYER_SCALE_CROP": "Crop",
+	"PLAYER_SCALE_STRETCH": "Stretch",
+	"PLAYER_SCALE_ORIGINAL": "Original",
+
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
 	"NETWORK_STATUS": "Network status",
