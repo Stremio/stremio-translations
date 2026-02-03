@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "অ্যাকাউন্ট",
 	"SETTINGS_PLATFORM": "প্ল্যাটফর্ম",
 	"SETTINGS_VERSION": "সংস্করণ",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "সম্পর্কে",
 	"SETTINGS_MPV_WINDOW": "প্লেয়ারকে একটি পৃথক উইন্ডোতে চালু করুন (উন্নত)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "সর্বদা বাহ্যিক প্লেয়ারে ভিডিও শুরু করুন",

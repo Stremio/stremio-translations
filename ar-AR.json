@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "الحساب",
 	"SETTINGS_PLATFORM": "المنصة",
 	"SETTINGS_VERSION": "الأصدار",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "حول",
 	"SETTINGS_MPV_WINDOW": "بدء المشغل في صفحة جديدة (متقدم)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "تشغيل الفيديو دائماً باستخدام مشغل خارجي",

@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "paskyra",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "Versija",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Apie",
 	"SETTINGS_MPV_WINDOW": "Paleisti grotuvą atskirame lange (pažengusiems)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Visada pradėti vaizdą išoriniame grotuve",

@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "اکاؤنٹ",
 	"SETTINGS_PLATFORM": "پلیٹ فارم",
 	"SETTINGS_VERSION": "ورژن",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "کے بارے میں",
 	"SETTINGS_MPV_WINDOW": "پلیئر کو الگ ونڈو میں لانچ کریں (ایڈوانسڈ)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "ہمیشہ بیرونی پلیئر میں ویڈیو شروع کریں",

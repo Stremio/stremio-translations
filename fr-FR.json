@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "Compte",
 	"SETTINGS_PLATFORM": "Plateforme",
 	"SETTINGS_VERSION": "Version",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "À propos",
 	"SETTINGS_MPV_WINDOW": "Lancer le lecteur dans une fenêtre séparée (avancé)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Toujours lancer la vidéo dans un lecteur externe",

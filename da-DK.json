@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "Konto",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "Version",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Om",
 	"SETTINGS_MPV_WINDOW": "Start afspiller i et separat vindue (avanceret)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Start altid video i ekstern afspiller",

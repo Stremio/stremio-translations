@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "налог",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "верзија",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "О апликацији",
 	"SETTINGS_MPV_WINDOW": "Покретање плејера у посебном прозору (напредно)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Увек покрени видео снимак у спољном плејеру",

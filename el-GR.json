@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "Λογαριασμός",
 	"SETTINGS_PLATFORM": "Πλατφόρμα",
 	"SETTINGS_VERSION": "Έκδοση",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Πληροφορίες",
 	"SETTINGS_MPV_WINDOW": "Εκκίνηση αναπαραγωγής σε ξεχωριστό παράθυρο (σύνθετο)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Πάντα εκκίνηση του βίντεο σε εξωτερικό πρόγραμμα",

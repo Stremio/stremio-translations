@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_PLATFORM": "Platvorm",
 	"SETTINGS_VERSION": "Versioon",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Teave",
 	"SETTINGS_MPV_WINDOW": "Käivita mängija eraldi aknas (edasijõudnutele)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Alusta videot alati välises mängijas",

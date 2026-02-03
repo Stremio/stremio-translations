@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "kontua",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "bertsioa",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Honi buruz",
 	"SETTINGS_MPV_WINDOW": "Abiarazi erreproduzitzailea beste leiho batean (aurreratua)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Hasi beti bideoa kanpoko erreproduzitzailean",

@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "акаунт",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "версия",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Относно",
 	"SETTINGS_MPV_WINDOW": "Стартиране на плеъра в отделен прозорец (разширено)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Старт. на видеото винаги в външен плеър",

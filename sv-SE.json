@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_PLATFORM": "Plattform",
 	"SETTINGS_VERSION": "version",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Om",
 	"SETTINGS_MPV_WINDOW": "Starta mediaspelare i ett separat fönster (avancerat)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Starta alltid video i extern spelare",

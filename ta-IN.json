@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "கணக்கு",
 	"SETTINGS_PLATFORM": "தளம்",
 	"SETTINGS_VERSION": "பதிப்பு",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "பற்றி",
 	"SETTINGS_MPV_WINDOW": "பிளேயரை ஒரு தனி சாளரத்தில் துவக்கவும் (மேம்பட்டது)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "எப்போதும் வெளிப்புற பிளேயரில் காணொலியைத் தொடங்கு",
