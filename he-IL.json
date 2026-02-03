@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "חשבון",
 	"SETTINGS_PLATFORM": "פלטפורמה",
 	"SETTINGS_VERSION": "גרסה",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "אודות",
 	"SETTINGS_MPV_WINDOW": "הפעלת נגן בחלון חיצוני (מתקדם)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "תמיד התחלת ניגון בנגן חיצוני",

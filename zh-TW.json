@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "賬戶",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "版本",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "在單獨視窗中啟動播放器（高階）",
 	"SETTINGS_PLAY_IN_EXTERNAL": "總是在外部播放器中開啟影片",

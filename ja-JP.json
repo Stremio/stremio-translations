@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "アカウント",
 	"SETTINGS_PLATFORM": "プラットフォーム",
 	"SETTINGS_VERSION": "バージョン",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "情報",
 	"SETTINGS_MPV_WINDOW": "プレーヤーを別のウィンドウで起動する（高度）",
 	"SETTINGS_PLAY_IN_EXTERNAL": "常に外部プレーヤーで再生開始",

@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "حساب کاربری",
 	"SETTINGS_PLATFORM": "پلت فرم",
 	"SETTINGS_VERSION": "نسخه",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "درباره",
 	"SETTINGS_MPV_WINDOW": "باز کردن پخش کننده در یک پنجره جداگانه (پیشرفته)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "همیشه ویدیو را در پخش کننده خارجی شروع کنید",

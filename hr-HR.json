@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "račun",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "Verzija",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "O aplikaciji",
 	"SETTINGS_MPV_WINDOW": "Pokreni player u zasebnom prozoru (napredno)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Uvijek pokreni video u vanjskom playeru",

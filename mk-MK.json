@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "сметка",
 	"SETTINGS_PLATFORM": "Платформа",
 	"SETTINGS_VERSION": "верзија",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "За нас",
 	"SETTINGS_MPV_WINDOW": "Стартувајте плеер во посебен прозорец (напредно)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Секогаш пуштај го видеото со надворешен плеер",

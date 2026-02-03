@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "konto",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "Wersja",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "O aplikacji",
 	"SETTINGS_MPV_WINDOW": "Uruchamiaj odtwarzacz w osobnym oknie (zaawansowane)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Zawsze uruchamiaj wideo w zewnętrznym odtwarzaczu",

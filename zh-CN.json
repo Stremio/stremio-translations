@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "账户",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "版本",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "在单独窗口中启动播放器（高级）",
 	"SETTINGS_PLAY_IN_EXTERNAL": "总是在外部播放器中打开视频",

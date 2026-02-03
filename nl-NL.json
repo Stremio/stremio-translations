@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "account",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "versie",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "Start videospeler in apart scherm (geavanceerd)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Video altijd in externe speler starten",

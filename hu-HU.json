@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "fiókot",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "Verzió",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "Rólunk",
 	"SETTINGS_MPV_WINDOW": "Indítsa el a lejátszót egy külön ablakban (speciális)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Mindig indítsa el a videót a külső lejátszóban",

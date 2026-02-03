@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "계정",
 	"SETTINGS_PLATFORM": "Platform",
 	"SETTINGS_VERSION": "버전",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "About",
 	"SETTINGS_MPV_WINDOW": "다른 창에서 플레이어를 기동합니다(상세설정)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "항상 외부 플레이어에서 비디오를 시작합니다",

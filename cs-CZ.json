@@ -605,6 +605,7 @@
 	"SETTINGS_ACCOUNT": "účet",
 	"SETTINGS_PLATFORM": "Platforma",
 	"SETTINGS_VERSION": "verze",
+	"SETTINGS_VERSION_OF": "%s version",
 	"SETTINGS_ABOUT": "O aplikaci",
 	"SETTINGS_MPV_WINDOW": "Spuštění přehrávače v samostatném okně (pokročilé)",
 	"SETTINGS_PLAY_IN_EXTERNAL": "Vždy spustit video v externím přehrávači",
