@@ -1,5 +1,5 @@
 group = "com.github.Stremio"
-version = "1.44.12"
+version = "1.47.0"
 
 plugins {
     kotlin("multiplatform")
@@ -38,7 +38,7 @@ android {
         compileSdk = 34
     }
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
     }
 }

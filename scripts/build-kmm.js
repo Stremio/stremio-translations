@@ -1,6 +1,6 @@
 const path = require('path');
 const fs = require('fs');
-const { deduplicate } = require('./utils');
+const { deduplicate, filter } = require('./utils');
 const {
   escapePercentageSign,
   replaceNbspToSpace,
@@ -37,7 +37,8 @@ function writeDataClass() {
   let stringClass = `package ${packageName}\n\n`;
   stringClass += 'interface Strings{\n';
   const dedup = deduplicate(defaultTranslation);
-  Object.keys(dedup).forEach(key => stringClass += `  val ${key}: String\n`);
+  const filtered = filter(dedup);
+  Object.keys(filtered).forEach(key => stringClass += `  val ${key}: String\n`);
   stringClass += '  val entries: Map<String, String>\n';
   stringClass += '}';
   fs.writeFileSync(path.join(process.cwd(), rootPath, 'Strings.kt'), stringClass);
@@ -71,12 +72,13 @@ function writeStrings() {
       stringClass += 'import cafe.adriel.lyricist.LyricistStrings\n\n';
       stringClass += `class ${langClassName}Class : Strings {\n`;
       const dedup = deduplicate(translations);
-      Object.keys(dedup).forEach(key => {
+      const filtered = filter(dedup);
+      Object.keys(filtered).forEach(key => {
         const value = escape(dedup[key]);
         stringClass += `  override val ${key} = "${value}"\n`;
       });
       stringClass += '  override val entries = mapOf(\n';
-      Object.entries(dedup).forEach(([key, value]) => {
+      Object.entries(filtered).forEach(([key, value]) => {
         stringClass += `    Pair("${key}", "${escape(value)}"),\n`;
       });
       stringClass += '  )\n';

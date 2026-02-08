@@ -3,8 +3,9 @@
 
 var languages = [
 	"ar-AR",
+	"be-BY",
 	"bg-BG",
-	"ca-CA",
+	"ca-ES",
 	"cs-CZ",
 	"da-DK",
 	"de-DE",
@@ -24,6 +25,7 @@ var languages = [
 	"it-IT",
 	"ja-JP",
 	"ko-KR",
+	"lt-LT",
 	"mk-MK",
 	"my-BM",
 	"nb-NO",
@@ -39,22 +41,26 @@ var languages = [
 	"sl-SL",
 	"sr-RS",
 	"sv-SE",
+	"sk-SK",
 	"te-IN",
 	"tr-TR",
 	"uk-UA",
+	"ur-PK",
 	"vi-VN",
 	"zh-CN",
 	"zh-HK",
 	"zh-TW",
 	"bn-BD",
+	"ta-IN",
 	"et-EE"
 ];
 
 module.exports = function () {
 	return {
     "ar-AR": require("./ar-AR.json"),
+    "be-BY": require("./be-BY.json"),
     "bg-BG": require("./bg-BG.json"),
-    "ca-CA": require("./ca-CA.json"),
+    "ca-ES": require("./ca-ES.json"),
     "cs-CZ": require("./cs-CZ.json"),
     "da-DK": require("./da-DK.json"),
     "de-DE": require("./de-DE.json"),
@@ -74,6 +80,7 @@ module.exports = function () {
     "it-IT": require("./it-IT.json"),
     "ja-JP": require("./ja-JP.json"),
     "ko-KR": require("./ko-KR.json"),
+    'lt-LT': require('./lt-LT.json'),
     "mk-MK": require("./mk-MK.json"),
     "my-BM": require("./my-BM.json"),
     "nb-NO": require("./nb-NO.json"),
@@ -89,14 +96,17 @@ module.exports = function () {
     "sl-SL": require("./sl-SL.json"),
     "sr-RS": require("./sr-RS.json"),
     "sv-SE": require("./sv-SE.json"),
+    "sk-SK": require("./sk-SK.json"),
     "te-IN": require("./te-IN.json"),
     "tr-TR": require("./tr-TR.json"),
     "uk-UA": require("./uk-UA.json"),
+    "ur-PK": require("./ur-PK.json"),
     "vi-VN": require("./vi-VN.json"),
     "zh-CN": require("./zh-CN.json"),
     "zh-HK": require("./zh-HK.json"),
     "zh-TW": require("./zh-TW.json"),
     "bn-BD": require("./bn-BD.json"),
+    "ta-IN": require("./ta-IN.json"),
     "et-EE": require("./et-EE.json"),
   };
 };

@@ -1,6 +1,6 @@
 const path = require('path');
 const fs = require('fs');
-const { deduplicate } = require('./utils');
+const { deduplicate, filter } = require('./utils');
 const {
 	escapePercentageSign,
 	escapeQuestionMark,
@@ -57,8 +57,9 @@ function writeTranslations() {
 			let xml = '<?xml version="1.0" encoding="utf-8"?>\n';
 			xml += '<resources>\n';
 			const dedup = deduplicate(translations);
-			Object.keys(dedup).forEach(key => {
-				xml += `  <string name="${key}">${escapeXmlString(dedup[key])}</string>\n`;
+			const filtered = filter(dedup);
+			Object.keys(filtered).forEach(key => {
+				xml += `  <string name="${key}">${escapeXmlString(filtered[key])}</string>\n`;
 			});
 			xml += '</resources>';
 			fs.mkdirSync(path.join(process.cwd(), rootPath, langFolder), { recursive: true });
