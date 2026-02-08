@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Automatiškai pakeisti lango dydį prieš leidžiant",
 	"SETTINGS_OVERRIDE_SERVER": "Pakeisti transliavimo serverio URL nuorodą (pažengusiems)",
 	"SETTINGS_SERVER_ADD_URL": "Pridėti URL nuorodą",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "Transliavimo serverio URL nuoroda: ",
 	"SETTINGS_SERVER_AVAILABLE": "Transliavimo serveris pasiekiamas.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Transliavimo serveris nepasiekiamas.",

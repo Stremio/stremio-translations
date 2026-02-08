@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Redimensionare automată a ferestrei înainte de redare",
 	"SETTINGS_OVERRIDE_SERVER": "Anulați URL-ul serverului de streaming (avansat)",
 	"SETTINGS_SERVER_ADD_URL": "Add URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "URL server de streaming: ",
 	"SETTINGS_SERVER_AVAILABLE": "Serverul de streaming este disponibil.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Serverul de streaming nu este disponibil.",

@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Ajustar automáticamente el tamaño de la ventana antes de reproducir",
 	"SETTINGS_OVERRIDE_SERVER": "Sobreescribir la URL del servidor de transmisión (avanzado)",
 	"SETTINGS_SERVER_ADD_URL": "Añadir URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "URL del servidor de transmisión: ",
 	"SETTINGS_SERVER_AVAILABLE": "El servidor de transmisión está disponible.",
 	"SETTINGS_SERVER_UNAVAILABLE": "El servidor de transmisión no está disponible.",
