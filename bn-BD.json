@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "চালানোর আগে উইন্ডো স্বয়ংক্রিয়ভাবে পুনরায় আকার দিন",
 	"SETTINGS_OVERRIDE_SERVER": "স্ট্রিমিং সার্ভারের URL ওভাররাইড করুন (উন্নত)",
 	"SETTINGS_SERVER_ADD_URL": "URL যোগ করুন",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "স্ট্রিমিং সার্ভারের URL:",
 	"SETTINGS_SERVER_AVAILABLE": "স্ট্রিমিং সার্ভার উপলব্ধ।",
 	"SETTINGS_SERVER_UNAVAILABLE": "স্ট্রিমিং সার্ভার উপলব্ধ নয়।",

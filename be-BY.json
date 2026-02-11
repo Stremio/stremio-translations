@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Аўтаматычна змяняць памер акна перад прайграваннем",
 	"SETTINGS_OVERRIDE_SERVER": "Перавызначыць URL сервера струменевай перадачы (дадаткова)",
 	"SETTINGS_SERVER_ADD_URL": "Дадаць URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "URL сервера струменевай перадачы: ",
 	"SETTINGS_SERVER_AVAILABLE": "Сервер струменевай перадачы даступны.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Сервер струменевай перадачы недаступны.",
