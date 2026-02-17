@@ -210,6 +210,11 @@
 
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
+	"CAST_TO": "Cast to",
+	"CAST_SEARCHING_DEVICES": "Searching for devices...",
+	"CAST_CONNECTING_TO": "Connecting to {{name}}...",
+	"CAST_NO_DEVICES_FOUND": "No devices found",
+	"CAST_SCAN_AGAIN": "Scan again",
 	"NETWORK_STATUS": "Network status",
 	"STREAM_SPEED": "Stream speed:",
 	"STREAM_BUFFERED": "Buffered:",
