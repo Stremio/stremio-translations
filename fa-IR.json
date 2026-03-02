@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "تغییر اندازه خودکار پنجره قبل از پخش",
 	"SETTINGS_OVERRIDE_SERVER": "نادیده گرفتن URL سرور استریم(پیشرفته)",
 	"SETTINGS_SERVER_ADD_URL": "افزودن URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "URL سرور استریم: ",
 	"SETTINGS_SERVER_AVAILABLE": "سرور استریم در دسترس است.",
 	"SETTINGS_SERVER_UNAVAILABLE": "سرور استریم در دسترس نیست.",

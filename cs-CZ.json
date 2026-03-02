@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Automatická změna velikosti okna před přehráváním",
 	"SETTINGS_OVERRIDE_SERVER": "Přepsání adresy URL streamovacího serveru (pro pokročilé)",
 	"SETTINGS_SERVER_ADD_URL": "Přidat URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "Adresa URL streamovacího serveru",
 	"SETTINGS_SERVER_AVAILABLE": "Streamovací server je k dispozici.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Streamovací server není k dispozici.",

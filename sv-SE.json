@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Anpassa fönsterstorlek automatiskt före uppspelning",
 	"SETTINGS_OVERRIDE_SERVER": "Åsidosätt webbadressen för strömningsserver (avancerat)",
 	"SETTINGS_SERVER_ADD_URL": "Lägg till URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "URL för strömningsserver: ",
 	"SETTINGS_SERVER_AVAILABLE": "Strömningsserver är tillgänglig.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Strömningsserver är inte tillgänglig.",

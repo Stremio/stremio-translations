@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "Muuda akna suurust automaatselt enne esitamist",
 	"SETTINGS_OVERRIDE_SERVER": "Asenda voogesituse serveri URL (edasijõudnutele)",
 	"SETTINGS_SERVER_ADD_URL": "Add URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "Voogesituse serveri URL:",
 	"SETTINGS_SERVER_AVAILABLE": "Voogesituse server on saadaval.",
 	"SETTINGS_SERVER_UNAVAILABLE": "Voogesituse server pole saadaval.",

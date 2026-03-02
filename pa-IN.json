@@ -558,6 +558,7 @@
 	"SETTINGS_RESIZE": "ਖੇਡਣ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਆਪ ਬਦਲੋ",
 	"SETTINGS_OVERRIDE_SERVER": "ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ URL ਨੂੰ ਘਟਾ ਦਿੱਤਾ (ਉੱਨਤ)",
 	"SETTINGS_SERVER_ADD_URL": "Add URL",
+	"SETTINGS_SERVER_ADD_URL_PLACEHOLDER": "Enter URL",
 	"SETTINGS_SERVER_URL": "ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ URL:",
 	"SETTINGS_SERVER_AVAILABLE": "ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ ਉਪਲਬਧ ਹੈ.",
 	"SETTINGS_SERVER_UNAVAILABLE": "ਸਟ੍ਰੀਮਿੰਗ ਸਰਵਰ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.",
