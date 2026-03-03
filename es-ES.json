@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Tecla de escape para salir del modo pantalla completa",
 	"SETTINGS_GAMEPAD": "Habilitar soporte para mando",
 	"SETTINGS_CLOSE_WINDOW": "Cerrar la aplicación cuando se cierra la ventana",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Idioma de subtítulos predeterminado",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Idioma de subtítulos secundario",
 	"SETTINGS_SUBTITLES_SIZE": "Tamaño de Subtítulos Predeterminado",

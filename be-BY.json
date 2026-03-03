@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Выхад з поўнаэкраннага рэжыму клавішай Esc",
 	"SETTINGS_GAMEPAD": "Уключыць падтрымку геймпада",
 	"SETTINGS_CLOSE_WINDOW": "Закрываць праграму пры закрыцці акна",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Мова субтытраў па змаўчанні",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Другасная мова субтытраў",
 	"SETTINGS_SUBTITLES_SIZE": "Памер субтытраў па змаўчанні",

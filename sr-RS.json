@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Тастер Escape за излаз из целог екрана",
 	"SETTINGS_GAMEPAD": "Омогући подршку за гејмпед",
 	"SETTINGS_CLOSE_WINDOW": "Затвори апликацију када је прозор затворен",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Подразумевани језик титлова",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Подразумевана величина титлова",

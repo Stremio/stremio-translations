@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Esc鍵退出全屏",
 	"SETTINGS_GAMEPAD": "啓用遊戲手柄支持",
 	"SETTINGS_CLOSE_WINDOW": "關閉窗口時結束應用程序",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "默認字幕語言",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "默認字幕大小",

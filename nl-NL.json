@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape-toets om volledig scherm te verlaten",
 	"SETTINGS_GAMEPAD": "Gamepadondersteuning inschakelen",
 	"SETTINGS_CLOSE_WINDOW": "Applicatie sluiten als venster wordt gesloten",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Standaard ondertiteltaal",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Standaard ondertitelgrootte",

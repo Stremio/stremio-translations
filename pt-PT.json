@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Clica em ESC para sair do ecrã inteiro",
 	"SETTINGS_GAMEPAD": "Ativar o suporte do comando de jogos (Gamepad)",
 	"SETTINGS_CLOSE_WINDOW": "Fechar o Stremio quando fechar a janela",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Idioma predefinido das legendas",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Idioma das legendas secundário",
 	"SETTINGS_SUBTITLES_SIZE": "Tamanho predefinido das legendas",

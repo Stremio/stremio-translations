@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "ਕੁੰਜੀ ਤੋਂ ਬਾਹਰ ਦੀ ਪੂਰੀ ਸਕ੍ਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾਓ",
 	"SETTINGS_GAMEPAD": "ਗੇਮਪੈਡ ਸਪੋਰਟ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ",
 	"SETTINGS_CLOSE_WINDOW": "ਜਦੋਂ ਵਿੰਡੋ ਬੰਦ ਹੋਵੇ ਤਾਂ ਐਪ ਨੂੰ ਬੰਦ ਕਰੋ",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "ਮੂਲ ਉਪਸਿਰਲੇਖਾਂ ਦੀ ਭਾਸ਼ਾ",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "ਮੂਲ ਉਪਸਿਰਲੇਖ ਅਕਾਰ",

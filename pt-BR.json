@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Aperte ESC para sair da tela cheia",
 	"SETTINGS_GAMEPAD": "Ativar suporte a gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Fechar aplicativo quando a janela for fechada",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Idioma padrão de legendas",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Idioma das legendas secundárias",
 	"SETTINGS_SUBTITLES_SIZE": "Tamanho padrão de legendas",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Tecla per sortir de la pantalla completa",
 	"SETTINGS_GAMEPAD": "Activa la compatibilitat amb el gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Tanca l'aplicació quan la finestra estigui tancada",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Idioma Predeterminat dels Subtítols",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Idioma Secundari dels Subtítols",
 	"SETTINGS_SUBTITLES_SIZE": "Mida Predeterminada dels Subtítols",

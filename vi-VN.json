@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Phím Esc thoát toàn màn hình",
 	"SETTINGS_GAMEPAD": "Bật hỗ trợ gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Đóng ứng dụng khi đóng cửa sổ",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Ngôn ngữ phụ đề mặc định",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Kích thước phụ đề mặc định",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape key exit full screen",
 	"SETTINGS_GAMEPAD": "Enable gamepad support",
 	"SETTINGS_CLOSE_WINDOW": "Close app when window is closed",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Default Subtitles Language",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Default Subtitles Size",

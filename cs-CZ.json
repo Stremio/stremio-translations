@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Klávesa ESC ukončí celou obrazovku",
 	"SETTINGS_GAMEPAD": "Povolení podpory gamepadu",
 	"SETTINGS_CLOSE_WINDOW": "Zavření aplikace při zavření okna",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Výchozí jazyk titulků",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Sekundární jazyk titulků",
 	"SETTINGS_SUBTITLES_SIZE": "Výchozí velikost titulků",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Klawisz Escape powoduje wyjście z trybu pełnoekranowego",
 	"SETTINGS_GAMEPAD": "Włącz obsługę gamepada",
 	"SETTINGS_CLOSE_WINDOW": "Zamyknij aplikację wraz z zamknięciem okna",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Domyślny język napisów",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Domyślny rozmiar napisów",

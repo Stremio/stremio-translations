@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "خروج از تمام صفحه با کلید Escape",
 	"SETTINGS_GAMEPAD": "فعالسازی پشتیبانی از گیم پد",
 	"SETTINGS_CLOSE_WINDOW": "وقتی پنجره بسته شد برنامه هم بسته شود",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "زبان پیش‌فرض زیرنویس",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "زبان زیرنویس ثانویه",
 	"SETTINGS_SUBTITLES_SIZE": "اندازه پیش‌فرض زیرنویس",

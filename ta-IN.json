@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape விசை முழுத் திரையில் இருந்து வெளியேறும்",
 	"SETTINGS_GAMEPAD": "கேம்பேட் ஆதரவை இயக்கு",
 	"SETTINGS_CLOSE_WINDOW": "சாளரம் மூடப்படும்போது பயன்பாட்டை மூடு",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "இயல்புநிலை வசன மொழி",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "இரண்டாம் நிலை வசன மொழி",
 	"SETTINGS_SUBTITLES_SIZE": "இயல்புநிலை வசன அளவு",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "エスケープキーで全画面表示を終了する",
 	"SETTINGS_GAMEPAD": "ゲームパッドのサポートを有効化",
 	"SETTINGS_CLOSE_WINDOW": "ウィンドウを閉じるときにアプリを閉じる",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "デフォルトの字幕言語",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "デフォルトの字幕サイズ",

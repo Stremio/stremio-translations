@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Esc tuşuyla tam ekrandan çık",
 	"SETTINGS_GAMEPAD": "Gamepad desteğini etkinleştir",
 	"SETTINGS_CLOSE_WINDOW": "Pencere kapatıldığında uygulamayı kapat",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Varsayılan Altyazı Dili",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "İkincil Altyazı Dili",
 	"SETTINGS_SUBTITLES_SIZE": "Varsayılan Altyazı Boyutu",

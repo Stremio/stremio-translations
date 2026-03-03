@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "مفتاح Esc للخروج من وضع ملء الشاشة",
 	"SETTINGS_GAMEPAD": "تفعيل دعم ذراع التحكم",
 	"SETTINGS_CLOSE_WINDOW": "إغلاق التطبيق عند إغلاق النافذة",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "لغة الترجمة الافتراضية",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "لغة الترجمات الثانوية",
 	"SETTINGS_SUBTITLES_SIZE": "حجم خط الترجمة الافتراضي",

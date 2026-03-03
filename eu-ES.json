@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Esc teklarekin irten pantaila osotik",
 	"SETTINGS_GAMEPAD": "Gaitu gamepad laguntza",
 	"SETTINGS_CLOSE_WINDOW": "Itxi aplikazioa leihoa itxita dagoenean",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Azpitituluen hizkuntza lehenetsia",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Azpitituluen tamaina lehenetsia",

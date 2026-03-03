@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape کلید فل اسکرین سے باہر نکلے",
 	"SETTINGS_GAMEPAD": "گیم پیڈ سپورٹ فعال کریں",
 	"SETTINGS_CLOSE_WINDOW": "ونڈو بند ہونے پر ایپ بند کریں",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "ڈیفالٹ سب ٹائٹل زبان",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "ثانوی سب ٹائٹل زبان",
 	"SETTINGS_SUBTITLES_SIZE": "ڈیفالٹ سب ٹائٹل سائز",
