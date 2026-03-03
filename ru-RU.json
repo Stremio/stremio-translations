@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Выход из полноэкранного режима клавишей Escape",
 	"SETTINGS_GAMEPAD": "Включить поддержку геймпада",
 	"SETTINGS_CLOSE_WINDOW": "Закрывать приложение, когда окно закрыто",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Язык субтитров по умолчанию",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Второй язык субтитров",
 	"SETTINGS_SUBTITLES_SIZE": "Размер субтитров по умолчанию",

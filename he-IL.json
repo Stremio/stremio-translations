@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "יש ללחוץ על Escape כדי לצאת ממצב מסך מלא",
 	"SETTINGS_GAMEPAD": "הפעלת תמיכה בבקר משחק",
 	"SETTINGS_CLOSE_WINDOW": "סגירת היישום עם סגירת החלון",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "שפת כתוביות ברירת מחדל",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "גודל כתוביות ברירת מחדל",

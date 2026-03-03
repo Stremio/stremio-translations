@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape key за излез од цел екран",
 	"SETTINGS_GAMEPAD": "Овозможете поддршка за gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Затворете ја апликацијата кога прозорецот е затворен",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Стандарден јазик на превод",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Стандардна големина на превод",

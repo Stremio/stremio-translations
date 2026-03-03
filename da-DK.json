@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape key Forlad fuld skærm",
 	"SETTINGS_GAMEPAD": "Aktiver gamepad support",
 	"SETTINGS_CLOSE_WINDOW": "Luk app når vinduet lukkes",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Standard undertekster sprog",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Sekundære undertekster sprog",
 	"SETTINGS_SUBTITLES_SIZE": "Standard undertekster størrelse",

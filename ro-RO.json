@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Tasta Esc iese din modul ecran complet",
 	"SETTINGS_GAMEPAD": "Activați suportul pentru gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Închideți aplicația la închiderea ferestrei",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Limbă implicită pentru subtitrări",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Dimensiune implicită a subtitrărilor",

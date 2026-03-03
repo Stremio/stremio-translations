@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Poistu koko näytöstä Esc-näppäimellä",
 	"SETTINGS_GAMEPAD": "Ota käyttöön peliohjain",
 	"SETTINGS_CLOSE_WINDOW": "Sulje sovellus ikkunan sulkemisen yhteydessä",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Oletuskieli tekstityksille",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Oletuskoko tekstityksille",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape nupp välju täisekraanilt",
 	"SETTINGS_GAMEPAD": "Luba gamepad-i toetus",
 	"SETTINGS_CLOSE_WINDOW": "Sule rakendus, kui aken sulgub",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Eelistatud subtiitrite keel",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Eelistatud subtiitrite suurus",

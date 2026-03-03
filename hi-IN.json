@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "कुंजी से बाहर निकलें पूर्ण स्क्रीन से बाहर निकलें",
 	"SETTINGS_GAMEPAD": "गेमपैड समर्थन सक्षम करें",
 	"SETTINGS_CLOSE_WINDOW": "विंडो बंद होने पर ऐप बंद करें",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "डिफ़ॉल्ट उपशीर्षक भाषा",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "डिफ़ॉल्ट उपशीर्षक आकार",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape কী দিয়ে ফুলস্ক্রিন থেকে বের হন",
 	"SETTINGS_GAMEPAD": "গেমপ্যাড সমর্থন সক্রিয় করুন",
 	"SETTINGS_CLOSE_WINDOW": "উইন্ডো বন্ধ হলে অ্যাপ বন্ধ করুন",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "স্বয়ংক্রিয় সাবটাইটেল ভাষা",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "দ্বিতীয় সাবটাইটেল ভাষা",
 	"SETTINGS_SUBTITLES_SIZE": "স্বয়ংক্রিয় সাবটাইটেল আকার",

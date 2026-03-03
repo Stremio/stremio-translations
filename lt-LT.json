@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape klavišas išeina iš viso ekrano",
 	"SETTINGS_GAMEPAD": "Įjungti žaidimų pulto palaikymą",
 	"SETTINGS_CLOSE_WINDOW": "Uždarius langą - uždaryti programą",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Numatytoji subtitrų kalba",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Antrinė subtitrų kalba",
 	"SETTINGS_SUBTITLES_SIZE": "Numatytas subtitrų dydis",

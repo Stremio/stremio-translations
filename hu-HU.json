@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Kilépés a teljes képernyőről",
 	"SETTINGS_GAMEPAD": "Játékvezérlő támogatás engedélyezése",
 	"SETTINGS_CLOSE_WINDOW": "Zárja be az alkalmazást, ha az ablak be van zárva",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Feliratok alapértelmezett nyelve",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Secondary Subtitles Language",
 	"SETTINGS_SUBTITLES_SIZE": "Alapértelmezett feliratméret",

@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Escape-tangenten avslutar helskärm",
 	"SETTINGS_GAMEPAD": "Aktivera stöd för spelkontroll",
 	"SETTINGS_CLOSE_WINDOW": "Stäng appen när fönstret är stängt",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Standardspråk för undertexter",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Sekundärt språk för undertexter",
 	"SETTINGS_SUBTITLES_SIZE": "Standardstorlek för undertexter",

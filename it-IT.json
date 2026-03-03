@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Tasto Esc esce da schermo intero",
 	"SETTINGS_GAMEPAD": "Abilita supporto controller",
 	"SETTINGS_CLOSE_WINDOW": "Chiudi app quando la finestra è chiusa",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Lingua sottotitoli predefinita",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Lingua sottotitoli secondaria",
 	"SETTINGS_SUBTITLES_SIZE": "Dimensione sottotitoli predefinita",

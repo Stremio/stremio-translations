@@ -518,6 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Έξοδος από πλήρη οθόνη με το πλήκτρο Escape",
 	"SETTINGS_GAMEPAD": "Ενεργοποίηση υποστήριξης για gamepad",
 	"SETTINGS_CLOSE_WINDOW": "Κλείσιμο εφαρμογής όταν κλείνει το παράθυρο",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Προεπιλεγμένη γλώσσα υποτίτλων",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Δευτερευόντων γλώσσα υποτίτλων",
 	"SETTINGS_SUBTITLES_SIZE": "Προεπιλεγμένο μέγεθος υποτίτλων",
