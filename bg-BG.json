@@ -518,7 +518,7 @@
 	"SETTINGS_FULLSCREEN_EXIT": "Бутонът Esc изключва цял екран",
 	"SETTINGS_GAMEPAD": "Включване на поддръжка за геймпад",
 	"SETTINGS_CLOSE_WINDOW": "Затваряне на приложението, когато прозорецът е затворен",
-	"SETTINGS_SUBTITLES_AUTO_SELECT": "Automatic subtitles selection",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Автоматичен избор на субтитри",
 	"SETTINGS_SUBTITLES_LANGUAGE": "Език на субтитрите по подразбиране",
 	"SETTINGS_SECONDARY_SUBTITLES_LANGUAGE": "Втори език на субтитрите",
 	"SETTINGS_SUBTITLES_SIZE": "Размер на субтитрите по подразбиране",
