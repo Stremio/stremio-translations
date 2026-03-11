@@ -511,6 +511,7 @@
 	"SETTINGS_SHOW_TITLE_UNDER_CATALOG_ITEMS": "Показвай заглавие под елементите в каталога",
 	"SETTINGS_PLAYER_SHOW_CLOCK": "Показвай часа в плеъра",
 	"SETTINGS_SUBTITLES_SHOW_ONLY_PREFERRED_LANGS": "Показвай само предпочитаните езици за субтитри",
+	"SETTINGS_SUBTITLES_AUTO_SELECT": "Автоматичен избор на субтитри",
 	"SETTINGS_LAUNCH_STARTUP": "Зареждане при стартиране на компютъра",
 	"SETTINGS_VLC_DEFAULT": "Пускане във VLC",
 	"SETTINGS_UI_LANGUAGE": "Език на потребителския интерфейс",
