@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Σφάλμα αντιγραφής συνδέσμου ροής",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Ο σύνδεσμος λήψης αντιγράφηκε στο πρόχειρό σας",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Αποτυχία αντιγραφής συνδέσμου λήψης",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Στατιστικά",
 	"PLAYER_PEERS": "Χρήστες",
 	"PLAYER_SPEED": "Ταχύτητα",

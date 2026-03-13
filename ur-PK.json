@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "سٹریم لنک کاپی کرنے میں ناکام",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "ڈاؤن لوڈ لنک آپ کے کلپ بورڈ میں کاپی ہو گیا",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "ڈاؤن لوڈ لنک کاپی کرنے میں ناکام",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "شماریات",
 	"PLAYER_PEERS": "پیئرز",
 	"PLAYER_SPEED": "رفتار",

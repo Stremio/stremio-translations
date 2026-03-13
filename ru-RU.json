@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Не удалось скопировать ссылку трансляции",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Ссылка на загрузку скопирована в буфер обмена",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Не удалось копировать ссылку на загрузку",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Статистика",
 	"PLAYER_PEERS": "Пиры",
 	"PLAYER_SPEED": "Скорость",

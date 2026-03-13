@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Échec de la copie du lien de flux",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Le lien de téléchargement a été copié dans votre presse-papiers",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Échec de la copie du lien de téléchargement",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistiques",
 	"PLAYER_PEERS": "Pairs",
 	"PLAYER_SPEED": "Vitesse",

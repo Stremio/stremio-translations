@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "ஸ்ட்ரீம் இணைப்பை நகலெடுக்கத் தவறிவிட்டது",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "பதிவிறக்க இணைப்பு உங்கள் கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "பதிவிறக்க இணைப்பை நகலெடுக்கத் தவறிவிட்டது",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "புள்ளிவிவரங்கள்",
 	"PLAYER_PEERS": "பியர்ஸ் (Peers)",
 	"PLAYER_SPEED": "வேகம்",

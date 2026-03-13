@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "فشل في نسخ رابط البث",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "تم نسخ رابط التحميل ",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "فشل نسخ رابط التحميل",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "الإحصائيات",
 	"PLAYER_PEERS": "المشاركون",
 	"PLAYER_SPEED": "السرعة",

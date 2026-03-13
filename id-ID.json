@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Gagal menyalin tautan siaran",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Tautan unduhan telah disalin ke papan klip Anda",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Gagal menyalin tautan",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",

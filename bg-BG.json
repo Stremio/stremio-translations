@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Неуспешно копиране на връзката за поточно предаване",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Връзката за изтегляне е копирана в клипборда",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Неуспешно копиране на връзката за изтегляне",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Статистика",
 	"PLAYER_PEERS": "Пиъри",
 	"PLAYER_SPEED": "Скорост",

@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Kunne ikke kopiere stream link",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link blev kopieret til din udklipsholder",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Kunne ikke kopiere download link",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistikker",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Hastighed",

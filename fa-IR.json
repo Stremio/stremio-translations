@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "پیوند استریم کپی نشد",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "لینک دانلود در کلیپ بورد شما کپی شد",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "لینک دانلود کپی نشد",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "آمار",
 	"PLAYER_PEERS": "همتاها",
 	"PLAYER_SPEED": "سرعت",

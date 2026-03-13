@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Impossibile copiare il collegamento dello streaming",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Il link per il download è stato copiato negli appunti",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Impossibile copiare il link per il download",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistiche",
 	"PLAYER_PEERS": "Peer",
 	"PLAYER_SPEED": "Velocità",
