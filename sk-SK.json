@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Nepodarilo sa skopírovať odkaz na stream",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Odkaz na stiahnutie bol skopírovaný do schránky",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Nepodarilo sa skopírovať odkaz na stiahnutie",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",

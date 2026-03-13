@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Error al copiar el enlace de la transmisión",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "El enlace de descarga se copió en su portapapeles",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Error al copiar el enlace de descarga",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Estadísticas",
 	"PLAYER_PEERS": "Pares",
 	"PLAYER_SPEED": "Velocidad",

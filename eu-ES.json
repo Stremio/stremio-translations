@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Stream-aren linka kopiatzen akats bat gertatu da",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Deskargako linka zure arbelera kopiatu da",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Deskarga linka kopiatzen errorea gertatu da",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",

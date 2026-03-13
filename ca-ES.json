@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "No s'ha pogut copiar l'enllaç",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "L'enllaç de baixada s'ha copiat al porta-retalls",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "No s'ha pogut copiar l'enllaç de baixada",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Estadístiques",
 	"PLAYER_PEERS": "Usuaris connectats",
 	"PLAYER_SPEED": "Velocitat",

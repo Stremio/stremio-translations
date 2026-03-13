@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Не ўдалося скапіраваць спасылку на паток",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Спасылка на спампоўку скапіравана ў буфер абмену",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Не ўдалося скапіраваць спасылку на спампоўку",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Статыстыка",
 	"PLAYER_PEERS": "Піры",
 	"PLAYER_SPEED": "Хуткасць",

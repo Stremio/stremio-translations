@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Stream-Link konnte nicht kopiert werden",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download-Link wurde in die Zwischenablage kopiert",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Download-Link konnte nicht kopiert werden",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",

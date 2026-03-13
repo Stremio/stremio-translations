@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "স্ট্রিম লিংক কপি করতে ব্যর্থ হয়েছে",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "ডাউনলোড লিংক আপনার ক্লিপবোর্ডে কপি করা হয়েছে",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "ডাউনলোড লিংক কপি করতে ব্যর্থ হয়েছে",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "পরিসংখ্যান",
 	"PLAYER_PEERS": "সঙ্গী",
 	"PLAYER_SPEED": "গতি",

@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Не успеа да се копира врската за стримот",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Врската за преземање е копирана на вашата таблата со исечоци",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Не успеа да се копира врската за преземање",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",

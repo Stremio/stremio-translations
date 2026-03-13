@@ -177,6 +177,8 @@
 	"PLAYER_COPY_STREAM_ERROR": "Nu s-a putut copia linkul de stream",
 	"PLAYER_COPY_DOWNLOAD_LINK_SUCCESS": "Download link was copied to your clipboard",
 	"PLAYER_COPY_DOWNLOAD_LINK_ERROR": "Failed to copy download link",
+	"PLAYER_COPY_MAGNET_LINK_SUCCESS": "Magnet link was copied to your clipboard",
+	"PLAYER_COPY_MAGNET_LINK_ERROR": "Failed to copy magnet link",
 	"PLAYER_STATISTICS": "Statistics",
 	"PLAYER_PEERS": "Peers",
 	"PLAYER_SPEED": "Speed",
