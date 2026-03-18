@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Otvori u nPlayeru",
 	"PLAYER_PLAY_IN": "Reproduciraj na: {{device}}",
 	"PLAYER_SWITCH_TO": "Swtich to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "Uživo",
 	"PLAYER_NEXT_VIDEO_TITLE": "Sljedeće na redu",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Sljedeće",

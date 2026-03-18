@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Atidaryti su nPlayer",
 	"PLAYER_PLAY_IN": "Leisti įrenginyje {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "Tiesiogiai",
 	"PLAYER_NEXT_VIDEO_TITLE": "Toliau rodoma per",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Toliau per",

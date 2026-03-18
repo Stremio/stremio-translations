@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Отворете во nPlayer",
 	"PLAYER_PLAY_IN": "Пушти во {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "Во живо",
 	"PLAYER_NEXT_VIDEO_TITLE": "Доаѓа следно на",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Следно на",

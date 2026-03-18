@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Apri su nPlayer",
 	"PLAYER_PLAY_IN": "In riproduzione su {{device}}",
 	"PLAYER_SWITCH_TO": "Passa a %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "Dal vivo",
 	"PLAYER_NEXT_VIDEO_TITLE": "Prossimo",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Prossimo",
