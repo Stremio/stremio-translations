@@ -489,6 +489,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Перемотать назад",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Перемотать вперед",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Воспроизвести следующее",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Увеличить размер субтитров",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Уменьшить размер субтитров",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Увеличить задержку субтитров",

@@ -489,6 +489,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Барај назад",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Барај напред",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Пушти следно",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Зголеми големина на превод",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Намали големина на превод",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Зголеми доцнење на превод",

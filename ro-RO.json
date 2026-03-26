@@ -489,6 +489,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Salt înapoi",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Salt înainte",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Redați următorul",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Măriți dimensiunea subtitrărilor",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Micsorați dimensiunea subtitrărilor",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Creșteți întârzierea subtitrărilor",

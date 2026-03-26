@@ -489,6 +489,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Reculer dans la lecture",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Avancer dans la lecture",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Lancer la vidéo suivante",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Augmenter la taille des sous-titres",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Réduire la taille des sous-titres",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Augmenter le délai des sous-titres",
