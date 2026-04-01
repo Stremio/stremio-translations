@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Syötä suoratoistopalvelimen URL-osoite",
 	"SETTINGS_SERVER_CACHE_SIZE": "Välimuistin koko",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent-profiili",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Suoratoiston HTTPS-päätepiste: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Käytä aina uusinta beta-versiota",

@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Unesite URL streaming poslužitelja",
 	"SETTINGS_SERVER_CACHE_SIZE": "Veličina predmemorije",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profil",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS krajnja točka: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Profil transkodiranja",
 	"SETTINGS_USE_BETA": "Uvijek koristi najnoviju Beta verziju",

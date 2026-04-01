@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Nhập url máy chủ truyền trực tuyến",
 	"SETTINGS_SERVER_CACHE_SIZE": "Kích thước bộ nhớ đệm",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Hồ sơ torrent",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Truyền trực tuyến máy cuối HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Hồ sơ chuyển mã",
 	"SETTINGS_USE_BETA": "Luôn sử dụng bản Beta mới nhất",

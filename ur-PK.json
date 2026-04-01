@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "سٹریمنگ سرور url داخل کریں",
 	"SETTINGS_SERVER_CACHE_SIZE": "کیش سائز",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "ٹورنٹ پروفائل",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "سٹریمنگ HTTPS اینڈ پوائنٹ: ",
 	"SETTINGS_TRANSCODE_PROFILE": "ٹرانسکوڈ پروفائل",
 	"SETTINGS_USE_BETA": "ہمیشہ تازہ ترین بیٹا استعمال کریں",

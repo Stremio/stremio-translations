@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Zadejte adresu URL streamovacího serveru",
 	"SETTINGS_SERVER_CACHE_SIZE": "Velikost mezipaměti",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Profil torrentu",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Koncový bod HTTPS pro streamování",
 	"SETTINGS_TRANSCODE_PROFILE": "Profil transkódování",
 	"SETTINGS_USE_BETA": "Vždy používejte nejnovější betaverzi",

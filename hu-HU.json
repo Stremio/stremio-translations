@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Adja meg a streaming szerver URL-címét",
 	"SETTINGS_SERVER_CACHE_SIZE": "Gyorsítótár mérete",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profil",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS végpont: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Mindig használja a legújabb Bétát",

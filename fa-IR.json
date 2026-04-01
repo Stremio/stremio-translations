@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "وارد کردن URL سرور استریم",
 	"SETTINGS_SERVER_CACHE_SIZE": "اندازه کش",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "پروفایل تورنت",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "نقطه پایانی استریم HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "پروفایل رمزگذاری",
 	"SETTINGS_USE_BETA": "همیشه از آخرین نسخه بتا استفاده کنید",

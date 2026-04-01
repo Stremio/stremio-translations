@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "ஒரு ஸ்ட்ரீமிங் சேவையக URL-ஐ உள்ளிடவும்",
 	"SETTINGS_SERVER_CACHE_SIZE": "தற்காலிக சேமிப்பு அளவு",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "டொரண்ட் சுயவிவரம்",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "ஸ்ட்ரீமிங் HTTPS இறுதிப்புள்ளி:",
 	"SETTINGS_TRANSCODE_PROFILE": "குறியீட்டு மாற்ற சுயவிவரம்",
 	"SETTINGS_USE_BETA": "எப்போதும் சமீபத்திய பீட்டாவைப் பயன்படுத்து",

@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Enter a streaming server url",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPSTPSTPSTPSTPSTOPTES",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "ਹਮੇਸ਼ਾ ਤਾਜ਼ਾ ਬੀਟਾ ਦੀ ਵਰਤੋਂ ਕਰੋ",

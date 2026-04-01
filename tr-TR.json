@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Bir yayın akış sunucusu URL'si girin",
 	"SETTINGS_SERVER_CACHE_SIZE": "Önbellek boyutu",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profili",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Yayın akışı HTTPS uç noktası: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Kod dönüştürme profili",
 	"SETTINGS_USE_BETA": "Her zaman en son Beta'yı kullan",

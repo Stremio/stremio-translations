@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Masukkan URL server streaming",
 	"SETTINGS_SERVER_CACHE_SIZE": "Ukuran cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Profil torrent",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Endpoint streaming HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Gunakan versi beta terbaru",

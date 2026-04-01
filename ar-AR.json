@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "أدخل عنوان لخادم البث",
 	"SETTINGS_SERVER_CACHE_SIZE": "حجم التخزين المؤقت",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "ملف التورنت التعريفي",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "نقطة نهاية دفق HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "ملف الترميز",
 	"SETTINGS_USE_BETA": "استخدم دائمًا أحدث إصدار بيتا",

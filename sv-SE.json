@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Ange en webbadress till en strömningsserver",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cachestorlek",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent-profil",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPS-slutpunkt för strömning: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcoderingsprofil",
 	"SETTINGS_USE_BETA": "Använd alltid senaste betaversionen",

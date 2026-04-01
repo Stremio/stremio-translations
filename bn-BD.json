@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "একটি স্ট্রিমিং সার্ভারের URL প্রবেশ করান",
 	"SETTINGS_SERVER_CACHE_SIZE": "ক্যাশের আকার",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "টরেন্ট প্রোফাইল",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "স্ট্রিমিং HTTPS এন্ডপয়েন্ট:",
 	"SETTINGS_TRANSCODE_PROFILE": "ট্রান্সকোড প্রোফাইল",
 	"SETTINGS_USE_BETA": "সবসময় সর্বশেষ বিটা ব্যবহার করুন",

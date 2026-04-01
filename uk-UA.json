@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Введіть URL-адресу потокового сервера",
 	"SETTINGS_SERVER_CACHE_SIZE": "Розмір кешу",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профіль",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPS адреса потоку:",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Завжди використовуйте останню бета-версію",

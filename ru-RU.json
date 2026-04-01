@@ -571,6 +571,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Введите URL сервера стриминга",
 	"SETTINGS_SERVER_CACHE_SIZE": "Размер кэша",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Профиль торрента",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Конечная точка HTTPS-стриминга: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Профиль транскодирования",
 	"SETTINGS_USE_BETA": "Всегда использовать последнюю бета-версию",
