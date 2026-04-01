@@ -625,6 +625,7 @@
 	"SETTINGS_DISABLED": "Išjungta",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Pranešimas apie tinklo ryšį",
 	"SETTINGS_ANALYTICS": "Leisti analitiką",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "Nuotolinio valdymo URL nuoroda",
 	"SETTINGS_COPY_REMOTE_URL": "Kopijuoti nuotolinio URL nuorodą",
 	"SETTINGS_REMOTE_URL_COPIED": "Nuotolinė URL nuoroda nukopijuota į iškarpinę",

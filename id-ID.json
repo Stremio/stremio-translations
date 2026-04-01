@@ -625,6 +625,7 @@
 	"SETTINGS_DISABLED": "Dimatikan",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Pemberitahuan koneksi jaringan",
 	"SETTINGS_ANALYTICS": "Allow analytics",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "Remote URL",
 	"SETTINGS_COPY_REMOTE_URL": "Salin remote URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Remote URL has been copied to your clipboard",

@@ -625,6 +625,7 @@
 	"SETTINGS_DISABLED": "নিষ্ক্রিয়",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "নেটওয়ার্ক সংযোগ বিজ্ঞপ্তি",
 	"SETTINGS_ANALYTICS": "বিশ্লেষণের অনুমতি দিন",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "দূরবর্তী URL",
 	"SETTINGS_COPY_REMOTE_URL": "দূরবর্তী URL কপি করুন",
 	"SETTINGS_REMOTE_URL_COPIED": "দূরবর্তী URL আপনার ক্লিপবোর্ডে কপি করা হয়েছে",

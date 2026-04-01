@@ -625,6 +625,7 @@
 	"SETTINGS_DISABLED": "Оневозможено",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Известување за мрежна врска",
 	"SETTINGS_ANALYTICS": "Allow analytics",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL на далечина",
 	"SETTINGS_COPY_REMOTE_URL": "Копирај далечински URL",
 	"SETTINGS_REMOTE_URL_COPIED": "URL од далечина е копирана на вашата таблата со исечоци",

@@ -625,6 +625,7 @@
 	"SETTINGS_DISABLED": "Zakázané",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Upozornenie na sieťové pripojenie",
 	"SETTINGS_ANALYTICS": "Povoliť analytiku",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL pre diaľkové ovládanie",
 	"SETTINGS_COPY_REMOTE_URL": "Skopírovať URL",
 	"SETTINGS_REMOTE_URL_COPIED": "URL bola skopírovaná do schránky",
