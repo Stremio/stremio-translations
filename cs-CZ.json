@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Ovládání",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatické přehrávání",
 	"SETTINGS_SECTION_ADVANCED": "Pokročilé",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Zvuk",
 	"SUBSPICKER_SUBTITLES": "Doplňky Titulky",
 	"SUBSPICKER_BLACK_BACKGROUND": "Použít černé pozadí",

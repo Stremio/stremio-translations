@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Kontrol",
 	"SETTINGS_SECTION_AUTO_PLAY": "Putar otomatis",
 	"SETTINGS_SECTION_ADVANCED": "Lanjutan",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Addons Subtitles",
 	"SUBSPICKER_BLACK_BACKGROUND": "Gunakan latar belakang hitam",

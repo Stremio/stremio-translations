@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Bediening",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatisch afspelen",
 	"SETTINGS_SECTION_ADVANCED": "Geavanceerd",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Add-on ondertitels",
 	"SUBSPICKER_BLACK_BACKGROUND": "Gebruik een zwarte achtergrondkleur",

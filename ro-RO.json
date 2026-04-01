@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Comenzi",
 	"SETTINGS_SECTION_AUTO_PLAY": "Redare automată",
 	"SETTINGS_SECTION_ADVANCED": "Avansate",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Subtitrări extensii",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utilizați culoarea de fundal neagră",

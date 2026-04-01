@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Denetimler",
 	"SETTINGS_SECTION_AUTO_PLAY": "Otomatik Oynat",
 	"SETTINGS_SECTION_ADVANCED": "Gelişmiş",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Ses",
 	"SUBSPICKER_SUBTITLES": "Eklenti Altyazıları",
 	"SUBSPICKER_BLACK_BACKGROUND": "Siyah arka plan rengi kullan",

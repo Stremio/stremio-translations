@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Sterowanie",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatyczne odtwarzanie",
 	"SETTINGS_SECTION_ADVANCED": "Zaawansowane",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Napisy z dodatków",
 	"SUBSPICKER_BLACK_BACKGROUND": "Użyj czarnego tła",

@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "التحكم",
 	"SETTINGS_SECTION_AUTO_PLAY": "التشغيل التلقائي",
 	"SETTINGS_SECTION_ADVANCED": "إعدادات متقدمة",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "الصوت",
 	"SUBSPICKER_SUBTITLES": "ملحق الترجمة",
 	"SUBSPICKER_BLACK_BACKGROUND": "استخدم لون اسود للخلفية",

@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Χειρισμός",
 	"SETTINGS_SECTION_AUTO_PLAY": "Αυτόματη αναπαραγωγή",
 	"SETTINGS_SECTION_ADVANCED": "Για προχωρημένους",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Ήχος",
 	"SUBSPICKER_SUBTITLES": "Πρόσθετα Υποτίτλων",
 	"SUBSPICKER_BLACK_BACKGROUND": "Χρήση μαύρου φόντου",

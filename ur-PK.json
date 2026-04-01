@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "کنٹرولز",
 	"SETTINGS_SECTION_AUTO_PLAY": "خودکار چلائیں",
 	"SETTINGS_SECTION_ADVANCED": "ایڈوانسڈ",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "آڈیو",
 	"SUBSPICKER_SUBTITLES": "ایڈآنز سب ٹائٹل",
 	"SUBSPICKER_BLACK_BACKGROUND": "سیاہ بیک گراؤنڈ رنگ استعمال کریں",

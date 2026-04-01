@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "கட்டுப்பாடுகள்",
 	"SETTINGS_SECTION_AUTO_PLAY": "தானியங்கு-இயக்கு",
 	"SETTINGS_SECTION_ADVANCED": "மேம்பட்ட",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "ஆடியோ",
 	"SUBSPICKER_SUBTITLES": "துணை நிரல் வசனங்கள்",
 	"SUBSPICKER_BLACK_BACKGROUND": "கருப்பு பின்னணி வண்ணத்தைப் பயன்படுத்து",

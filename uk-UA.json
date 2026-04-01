@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Елементи керування",
 	"SETTINGS_SECTION_AUTO_PLAY": "Автоматичне відтворення",
 	"SETTINGS_SECTION_ADVANCED": "Просунутий",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Аудіо",
 	"SUBSPICKER_SUBTITLES": "Субтитри додатків",
 	"SUBSPICKER_BLACK_BACKGROUND": "Використовуйте чорний колір тла",

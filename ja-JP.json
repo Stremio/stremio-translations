@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "コントロール",
 	"SETTINGS_SECTION_AUTO_PLAY": "自動再生",
 	"SETTINGS_SECTION_ADVANCED": "高度",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "オーディオ",
 	"SUBSPICKER_SUBTITLES": "アドオン字幕",
 	"SUBSPICKER_BLACK_BACKGROUND": "黒の背景色を使用",

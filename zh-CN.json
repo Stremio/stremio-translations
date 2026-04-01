@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "控件",
 	"SETTINGS_SECTION_AUTO_PLAY": "自动播放",
 	"SETTINGS_SECTION_ADVANCED": "高级",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "音频",
 	"SUBSPICKER_SUBTITLES": "插件字幕",
 	"SUBSPICKER_BLACK_BACKGROUND": "使用黑色背景色",

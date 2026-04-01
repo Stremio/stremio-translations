@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Кіраванне",
 	"SETTINGS_SECTION_AUTO_PLAY": "Аўтапрайграванне",
 	"SETTINGS_SECTION_ADVANCED": "Дадаткова",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Аўдыя",
 	"SUBSPICKER_SUBTITLES": "Субтытры дапаўненняў",
 	"SUBSPICKER_BLACK_BACKGROUND": "Чорны фон для субтытраў",

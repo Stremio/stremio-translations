@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "নিয়ন্ত্রণ",
 	"SETTINGS_SECTION_AUTO_PLAY": "অটো-প্লে",
 	"SETTINGS_SECTION_ADVANCED": "উন্নত",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "অডিও",
 	"SUBSPICKER_SUBTITLES": "অ্যাডঅন সাবটাইটেল",
 	"SUBSPICKER_BLACK_BACKGROUND": "কালো ব্যাকগ্রাউন্ড ব্যবহার করুন",

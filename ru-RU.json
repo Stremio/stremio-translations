@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Управление",
 	"SETTINGS_SECTION_AUTO_PLAY": "Автовоспроизведение",
 	"SETTINGS_SECTION_ADVANCED": "Дополнительно",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Аудио",
 	"SUBSPICKER_SUBTITLES": "Субтитры дополнений",
 	"SUBSPICKER_BLACK_BACKGROUND": "Использовать чёрный цвет фона",

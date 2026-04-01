@@ -633,6 +633,8 @@
 	"SETTINGS_SECTION_CONTROLS": "בקרה",
 	"SETTINGS_SECTION_AUTO_PLAY": "ניגון אוטומטי",
 	"SETTINGS_SECTION_ADVANCED": "מתקדם",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "אודיו",
 	"SUBSPICKER_SUBTITLES": "תוסף כתוביות",
 	"SUBSPICKER_BLACK_BACKGROUND": "שימוש ברקע שחור",
