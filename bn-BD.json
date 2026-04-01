@@ -188,6 +188,7 @@
 	"PLAYER_SCALE_CROP": "Crop",
 	"PLAYER_SCALE_STRETCH": "Stretch",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "থেকে স্ট্রিমিং হচ্ছে",
 	"CASTING_TO": "কাস্ট করা হচ্ছে",
 	"NETWORK_STATUS": "নেটওয়ার্কের অবস্থা",

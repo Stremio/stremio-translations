@@ -188,6 +188,7 @@
 	"PLAYER_SCALE_CROP": "Crop",
 	"PLAYER_SCALE_STRETCH": "Stretch",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "transmissió des de",
 	"CASTING_TO": "S'està emetent a",
 	"NETWORK_STATUS": "Estat de la xarxa",
