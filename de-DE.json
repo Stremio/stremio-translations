@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Steuerung",
 	"SETTINGS_SECTION_AUTO_PLAY": "Auto-Play",
 	"SETTINGS_SECTION_ADVANCED": "Erweitert",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Addon-Untertitel",
 	"SUBSPICKER_BLACK_BACKGROUND": "Schwarze Hintergrundfarbe verwenden",

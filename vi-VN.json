@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Điều khiển",
 	"SETTINGS_SECTION_AUTO_PLAY": "Tự động phát",
 	"SETTINGS_SECTION_ADVANCED": "Nâng cao",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Âm thanh",
 	"SUBSPICKER_SUBTITLES": "Add-on phụ đề",
 	"SUBSPICKER_BLACK_BACKGROUND": "Sử dụng nền màu đen",

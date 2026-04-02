@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Контроли",
 	"SETTINGS_SECTION_AUTO_PLAY": "Автоматско-Пуштање",
 	"SETTINGS_SECTION_ADVANCED": "Напредно",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Аудио",
 	"SUBSPICKER_SUBTITLES": "Додатоци за Преводи",
 	"SUBSPICKER_BLACK_BACKGROUND": "Користете црна боја на позадина",

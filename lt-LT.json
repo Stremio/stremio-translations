@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Valdikliai",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automatinis paleidimas",
 	"SETTINGS_SECTION_ADVANCED": "Išplėstiniai",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Garsas",
 	"SUBSPICKER_SUBTITLES": "Priedų subtitrai",
 	"SUBSPICKER_BLACK_BACKGROUND": "Naudoti juodą fono spalvą",

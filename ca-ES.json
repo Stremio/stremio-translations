@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Controls",
 	"SETTINGS_SECTION_AUTO_PLAY": "Reproducció automàtica",
 	"SETTINGS_SECTION_ADVANCED": "Avançat",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Àudio",
 	"SUBSPICKER_SUBTITLES": "Subtítols dels complements",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utilitzar negre com color de fons",

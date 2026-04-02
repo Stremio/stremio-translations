@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Kontrolknapper",
 	"SETTINGS_SECTION_AUTO_PLAY": "Auto-Play",
 	"SETTINGS_SECTION_ADVANCED": "Avanceret",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Lyd",
 	"SUBSPICKER_SUBTITLES": "Addons Undertekster",
 	"SUBSPICKER_BLACK_BACKGROUND": "Brug sort baggrundsfarve",

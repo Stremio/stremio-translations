@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Contrôles",
 	"SETTINGS_SECTION_AUTO_PLAY": "Lecture automatique",
 	"SETTINGS_SECTION_ADVANCED": "Avancé",
+	"RESTART_REQUIRED": "Redémarrage requis",
+	"RESTART_REQUIRED_MESSAGE": "Stremio à besoin de redémarrer pour que ce paramètre prenne effet.",
 	"SUBSPICKER_AUDIO": "Audio",
 	"SUBSPICKER_SUBTITLES": "Sous-titres addons",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utiliser un fond de couleur noir",

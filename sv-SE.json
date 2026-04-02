@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Kontroller",
 	"SETTINGS_SECTION_AUTO_PLAY": "Autouppspelning",
 	"SETTINGS_SECTION_ADVANCED": "Avancerat",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Ljud",
 	"SUBSPICKER_SUBTITLES": "Tilläggsundertexter",
 	"SUBSPICKER_BLACK_BACKGROUND": "Använd svart bakgrundsfärg",

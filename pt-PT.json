@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Controlos",
 	"SETTINGS_SECTION_AUTO_PLAY": "Reprodução automática",
 	"SETTINGS_SECTION_ADVANCED": "Avançadas",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Áudio",
 	"SUBSPICKER_SUBTITLES": "Legendas de addons",
 	"SUBSPICKER_BLACK_BACKGROUND": "Utilizar cor de fundo preta",

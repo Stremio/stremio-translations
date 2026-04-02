@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "کنترل ها",
 	"SETTINGS_SECTION_AUTO_PLAY": "پخش خودکار",
 	"SETTINGS_SECTION_ADVANCED": "پیشرفته",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "صوت",
 	"SUBSPICKER_SUBTITLES": "افزونه های زیرنویس",
 	"SUBSPICKER_BLACK_BACKGROUND": "استفاده از رنگ پس‌زمینه سیاه",

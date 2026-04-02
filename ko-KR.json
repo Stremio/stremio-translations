@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Controls",
 	"SETTINGS_SECTION_AUTO_PLAY": "Auto-Play",
 	"SETTINGS_SECTION_ADVANCED": "Advanced",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "오디오",
 	"SUBSPICKER_SUBTITLES": "애드온 자막",
 	"SUBSPICKER_BLACK_BACKGROUND": "검정색 배경 사용",

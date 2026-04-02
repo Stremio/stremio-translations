@@ -636,6 +636,8 @@
 	"SETTINGS_SECTION_CONTROLS": "Juhtnupud",
 	"SETTINGS_SECTION_AUTO_PLAY": "Automaatne esitamine",
 	"SETTINGS_SECTION_ADVANCED": "Täpsemalt",
+	"RESTART_REQUIRED": "Restart required",
+	"RESTART_REQUIRED_MESSAGE": "Stremio needs to restart for this setting to take effect.",
 	"SUBSPICKER_AUDIO": "Heli",
 	"SUBSPICKER_SUBTITLES": "Lisa subtiitrid",
 	"SUBSPICKER_BLACK_BACKGROUND": "Kasuta musta taustavärvi",
