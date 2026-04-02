@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Inaktiverad",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notis om nätverksanslutning",
 	"SETTINGS_ANALYTICS": "Tillåt analys",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "Fjärr-URL",
 	"SETTINGS_COPY_REMOTE_URL": "Kopiera fjärr-URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Fjärr-URL har kopierats till ditt urklipp",

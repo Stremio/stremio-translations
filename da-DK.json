@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Deaktiveret",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Netværksforbindelsesnotifikation",
 	"SETTINGS_ANALYTICS": "Allow analytics",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "Remote URL",
 	"SETTINGS_COPY_REMOTE_URL": "Kopier remote URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Remote URL er blevet kopieret til din udklipsholder",

@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Deshabilitado",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notificación de conexión a red",
 	"SETTINGS_ANALYTICS": "Permitir análisis",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL remota",
 	"SETTINGS_COPY_REMOTE_URL": "Copiar URL remota",
 	"SETTINGS_REMOTE_URL_COPIED": "La URL remota fue copiada en su portapapeles",

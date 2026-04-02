@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Désactivé",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notification de connexion réseau",
 	"SETTINGS_ANALYTICS": "Autoriser la télémétrie",
+	"SETTINGS_APPEARENCE": "Apparence",
 	"SETTINGS_REMOTE_URL": "URL distante",
 	"SETTINGS_COPY_REMOTE_URL": "Copier l’URL distante",
 	"SETTINGS_REMOTE_URL_COPIED": "L’URL distante a été copiée dans votre presse-papiers",

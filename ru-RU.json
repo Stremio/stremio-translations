@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Отключено",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Уведомление о сетевом подключении",
 	"SETTINGS_ANALYTICS": "Разрешить аналитику",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL удаленного управления",
 	"SETTINGS_COPY_REMOTE_URL": "Копировать URL удаленного управления",
 	"SETTINGS_REMOTE_URL_COPIED": "URL удаленного управления скопирован",

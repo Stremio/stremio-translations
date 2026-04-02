@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Isključeno",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Obavijest o mrežnoj vezi",
 	"SETTINGS_ANALYTICS": "Dopusti analitiku",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL daljinskog upravljača",
 	"SETTINGS_COPY_REMOTE_URL": "Kopiraj URL daljinskog upravljača",
 	"SETTINGS_REMOTE_URL_COPIED": "URL daljinskog upravljača kopiran je u međuspremnik",

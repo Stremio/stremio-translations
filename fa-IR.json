@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "غیر فعال",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "اعلان اتصال به شبکه",
 	"SETTINGS_ANALYTICS": "اجازه تجزیه و تحلیل",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL از راه دور",
 	"SETTINGS_COPY_REMOTE_URL": "کپی کردن URL راه دور",
 	"SETTINGS_REMOTE_URL_COPIED": "URL راه دور در کلیپ بورد شما کپی شده است",

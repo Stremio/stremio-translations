@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "Vypnuto",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Oznámení o připojení k síti",
 	"SETTINGS_ANALYTICS": "Povolit shromažďování analytických dat",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "Vzdálená URL",
 	"SETTINGS_COPY_REMOTE_URL": "Kopírovat vzdálenou URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Vzdálená URL byla zkopírována do vaší schránky",

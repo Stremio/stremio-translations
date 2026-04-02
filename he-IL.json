@@ -630,6 +630,7 @@
 	"SETTINGS_DISABLED": "השבת",
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "הודעת חיבור לרשת",
 	"SETTINGS_ANALYTICS": "Allow analytics",
+	"SETTINGS_APPEARENCE": "Appearance",
 	"SETTINGS_REMOTE_URL": "URL חיצוני",
 	"SETTINGS_COPY_REMOTE_URL": "העתק URL חיצוני",
 	"SETTINGS_REMOTE_URL_COPIED": "URL חיצוני הועתק למקלדת",
