@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Introduz um URL de servidor de streaming",
 	"SETTINGS_SERVER_CACHE_SIZE": "Tamanho da cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Perfil do torrent",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Endpoint de streaming HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Perfil de transcodificação",
 	"SETTINGS_USE_BETA": "Utilizar sempre a última versão Beta",

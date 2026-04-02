@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Enter a streaming server url",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache size",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profile",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "스트리밍 HTTPS 엔드포인트: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "항상 최신 베타버전 사용",

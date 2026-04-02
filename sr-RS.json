@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Унесите URL сервера за стримовање ",
 	"SETTINGS_SERVER_CACHE_SIZE": "Величина кеша",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профил",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Стримовање HTTPS крајње тачке: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Транскод профила",
 	"SETTINGS_USE_BETA": "Увек користи најновију бета верзију",

@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Introdueix l'URL d'un servidor de transmissió",
 	"SETTINGS_SERVER_CACHE_SIZE": "Mida de la memòria cau",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Perfil de Torrent",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Endpoint de transmissió HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Perfil de transcodificació",
 	"SETTINGS_USE_BETA": "Utilitzeu sempre l'última versió Beta",

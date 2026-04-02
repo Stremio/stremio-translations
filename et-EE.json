@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Sisesta voogesituse serveri URL",
 	"SETTINGS_SERVER_CACHE_SIZE": "Vahemälu suurus",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrentiprofiil",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Voogesituse HTTPS lõpp-punkt:",
 	"SETTINGS_TRANSCODE_PROFILE": "Transkodeerimise profiil",
 	"SETTINGS_USE_BETA": "Kasuta alati uusimat Beta versiooni",

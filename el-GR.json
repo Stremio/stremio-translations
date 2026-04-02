@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Εισαγωγή ενός URL διακομιστή αναπαραγωγής",
 	"SETTINGS_SERVER_CACHE_SIZE": "Μέγεθος επιτρεπόμενης μνήμης cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Προφίλ torrent",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Ακροσημείο HTTPS ροής: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Διακωδικοποίηση προφίλ",
 	"SETTINGS_USE_BETA": "Πάντα χρήση της πιο πρόσφατης έκδοσης beta",

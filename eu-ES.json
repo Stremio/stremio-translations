@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Streaming zerbitzariaren URLa sartu",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cache tamaina",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profila",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS amaiera:",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profila",
 	"SETTINGS_USE_BETA": "Erabili beti azken bertsioa",

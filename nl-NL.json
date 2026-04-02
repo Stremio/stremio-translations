@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Voer een streaming server-URL in",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cachegrootte",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrentprofiel",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming HTTPS-eindpunt: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transcode profile",
 	"SETTINGS_USE_BETA": "Gebruik altijd de laatste Beta",

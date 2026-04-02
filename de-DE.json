@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Geben Sie eine Streaming-Server-URL ein",
 	"SETTINGS_SERVER_CACHE_SIZE": "Zwischenspeicher-Größe",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent-Profil",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "Streaming-HTTPS-Endpunkt: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Transkodierungsprofil",
 	"SETTINGS_USE_BETA": "Immer neueste Beta verwenden",

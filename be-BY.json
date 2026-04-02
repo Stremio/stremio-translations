@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Увядзіце URL сервера струменевай перадачы",
 	"SETTINGS_SERVER_CACHE_SIZE": "Памер кэшу",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торэнт-профіль",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPS-пункт струменевай перадачы: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Профіль перакадавання",
 	"SETTINGS_USE_BETA": "Заўсёды выкарыстоўваць апошнюю бэта-версію",

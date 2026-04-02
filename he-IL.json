@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "הזן כתובת אתר של שרת ההזרמה",
 	"SETTINGS_SERVER_CACHE_SIZE": "גודל המטמון",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "פרופיל הטורנט",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "כתובת הזרמה ב־HTTPS: ",
 	"SETTINGS_TRANSCODE_PROFILE": "פרופיל לקידוד",
 	"SETTINGS_USE_BETA": "תמיד להשתמש ב Beta האחרונה",

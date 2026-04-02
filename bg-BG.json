@@ -574,6 +574,7 @@
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Въведи URL на сървъра за поточно предаване",
 	"SETTINGS_SERVER_CACHE_SIZE": "Размер на кеша",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профил",
+	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
 	"SETTINGS_HTTPS_ENDPOINT": "HTTPS за поточно предаване на крайната точка: ",
 	"SETTINGS_TRANSCODE_PROFILE": "Профил за транскодиране",
 	"SETTINGS_USE_BETA": "Винаги използвай последната бета версия",
