@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer میں کھولیں",
 	"PLAYER_PLAY_IN": "{{device}} میں چلائیں",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "لائیو",
 	"PLAYER_NEXT_VIDEO_TITLE": "اگلا آ رہا ہے",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "اگلا",

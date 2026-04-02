@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Öppna i nPlayer",
 	"PLAYER_PLAY_IN": "Spela på {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "Live",
 	"PLAYER_NEXT_VIDEO_TITLE": "Kommande på",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Nästa",
