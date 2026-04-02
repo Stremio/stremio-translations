@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer-এ খুলুন",
 	"PLAYER_PLAY_IN": "{{device}}-এ চালান",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "লাইভ",
 	"PLAYER_NEXT_VIDEO_TITLE": "পরবর্তীতে আসছে",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "পরবর্তীতে",

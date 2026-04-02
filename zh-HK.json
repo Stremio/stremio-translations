@@ -168,6 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "在{{device}}上播放",
 	"PLAYER_SWITCH_TO": "Switch to %s",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
 	"PLAYER_LIVE": "直播",
 	"PLAYER_NEXT_VIDEO_TITLE": "下個視頻",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
