@@ -490,6 +490,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Terug zoeken",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Vooruit zoeken",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Volgende afspelen",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Ondertitel grootte vergroten",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Ondertitel grootte verkleinen",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Ondertitel vertraging vergroten",

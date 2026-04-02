@@ -490,6 +490,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Retroceder",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "Avançar",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Reproduzir próximo",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Aumentar o tamanho das legendas",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Diminuir o tamanho das legendas",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Aumentar o atraso das legendas",

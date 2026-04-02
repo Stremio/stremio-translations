@@ -490,6 +490,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "پیچھے سیک کریں",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "آگے سیک کریں",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "اگلا چلائیں",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "سب ٹائٹل سائز بڑھائیں",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "سب ٹائٹل سائز کم کریں",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "سب ٹائٹل تاخیر بڑھائیں",

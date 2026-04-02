@@ -490,6 +490,8 @@
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "பின்னோக்கி தேடு",
 	"SETTINGS_SHORTCUT_SEEK_FORWARD": "முன்னோக்கி தேடு",
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "அடுத்ததை இயக்கு",
+	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Increase Playback Speed",
+	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Decrease Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "வசனங்களின் அளவை அதிகரி",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "வசனங்களின் அளவைக் குறை",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "வசனங்களின் தாமதத்தை அதிகரி",
