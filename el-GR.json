@@ -189,6 +189,7 @@
 	"PLAYER_SCALE_CROP": "Περικοπή",
 	"PLAYER_SCALE_STRETCH": "Επέκταση",
 	"PLAYER_SCALE_ORIGINAL": "Πρωτότυπο",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "Ροή από",
 	"CASTING_TO": "Μετάδοση σε",
 	"NETWORK_STATUS": "Κατάσταση δικτύου",

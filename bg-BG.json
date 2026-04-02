@@ -189,6 +189,7 @@
 	"PLAYER_SCALE_CROP": "Изрязване",
 	"PLAYER_SCALE_STRETCH": "Разтягане",
 	"PLAYER_SCALE_ORIGINAL": "Оригинал",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "Поточно предаване от",
 	"CASTING_TO": "Предаване към",
 	"NETWORK_STATUS": "Състояние на мрежата",

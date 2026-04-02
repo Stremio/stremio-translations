@@ -189,6 +189,7 @@
 	"PLAYER_SCALE_CROP": "Cortado",
 	"PLAYER_SCALE_STRETCH": "Esticado",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "A transmitir de",
 	"CASTING_TO": "A transmitir para",
 	"NETWORK_STATUS": "Estado da rede",

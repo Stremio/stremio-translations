@@ -189,6 +189,7 @@
 	"PLAYER_SCALE_CROP": "Crop",
 	"PLAYER_SCALE_STRETCH": "Stretch",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "இருந்து ஸ்ட்ரீமிங்",
 	"CASTING_TO": "இதற்கு காஸ்டிங்",
 	"NETWORK_STATUS": "பிணைய நிலை",

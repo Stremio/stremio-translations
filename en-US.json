@@ -211,6 +211,8 @@
 	"PLAYER_SCALE_STRETCH": "Stretch",
 	"PLAYER_SCALE_ORIGINAL": "Original",
 
+	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
+
 	"STREAMING_FROM": "streaming from",
 	"CASTING_TO": "Casting to",
 	"NETWORK_STATUS": "Network status",

@@ -189,6 +189,7 @@
 	"PLAYER_SCALE_CROP": "Recadré",
 	"PLAYER_SCALE_STRETCH": "Étiré",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"PLAYER_EXTERNAL_MESSAGE": "Pour lire du contenu dans un lecteur externe sans interruption, le serveur doit s'exécuter en arrière-plan.",
 	"STREAMING_FROM": "Diffusé à partir de",
 	"CASTING_TO": "Transmis à",
 	"NETWORK_STATUS": "Statut du réseau",
