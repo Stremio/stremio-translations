@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer-ல் திற",
 	"PLAYER_PLAY_IN": "{{device}}-ல் இயக்கு",
 	"PLAYER_SWITCH_TO": "Switch to %s",
-	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "நேரலை",
 	"PLAYER_NEXT_VIDEO_TITLE": "அடுத்து வருகிறது",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "அடுத்து",

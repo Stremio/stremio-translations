@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Ava nPlayeris",
 	"PLAYER_PLAY_IN": "Esita seadmes {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
-	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "Otse",
 	"PLAYER_NEXT_VIDEO_TITLE": "Järgmine video",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Järgmine",

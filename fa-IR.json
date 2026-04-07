@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "باز کردن در nPlayer",
 	"PLAYER_PLAY_IN": "پخش در {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
-	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "زنده",
 	"PLAYER_NEXT_VIDEO_TITLE": "بعدی می‌آید در",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "بعدی در",
