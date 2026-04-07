@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Jouer sur {{device}}",
 	"PLAYER_SWITCH_TO": "Basculer sur %s",
-	"PLAYER_CLOCK_ENDS_AT": "Fini à %d",
+	"PLAYER_CLOCK_ENDS_AT": "Fini à %s",
 	"PLAYER_LIVE": "Direct",
 	"PLAYER_NEXT_VIDEO_TITLE": "À venir dans",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Prochain sur",

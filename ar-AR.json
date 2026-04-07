@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "فتح في nPlayer",
 	"PLAYER_PLAY_IN": "تشغيل في {{device}}",
 	"PLAYER_SWITCH_TO": "التبديل إلى %s",
-	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "مباشر",
 	"PLAYER_NEXT_VIDEO_TITLE": "القادم بعد قليل على",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "التالي على",

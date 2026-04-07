@@ -168,7 +168,7 @@
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Play in {{device}}",
 	"PLAYER_SWITCH_TO": "Switch to %s",
-	"PLAYER_CLOCK_ENDS_AT": "Ends at %d",
+	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "라이브",
 	"PLAYER_NEXT_VIDEO_TITLE": "다음 영상",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
