@@ -193,6 +193,7 @@
 	"PLAYER_SCALE_CROP": "Recortar",
 	"PLAYER_SCALE_STRETCH": "Estirar",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"VIDEO_SCALE": "Video scale:",
 	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "transmitiendo desde",
 	"CASTING_TO": "Transmitiendo a",

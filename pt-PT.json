@@ -193,6 +193,7 @@
 	"PLAYER_SCALE_CROP": "Cortado",
 	"PLAYER_SCALE_STRETCH": "Esticado",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"VIDEO_SCALE": "Video scale:",
 	"PLAYER_EXTERNAL_MESSAGE": "Para reproduzires conteúdo num leitor externo sem interrupções, o servidor tem de estar a correr em segundo plano.",
 	"STREAMING_FROM": "A transmitir de",
 	"CASTING_TO": "A transmitir para",

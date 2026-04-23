@@ -193,6 +193,7 @@
 	"PLAYER_SCALE_CROP": "Retalla",
 	"PLAYER_SCALE_STRETCH": "Estira",
 	"PLAYER_SCALE_ORIGINAL": "Original",
+	"VIDEO_SCALE": "Video scale:",
 	"PLAYER_EXTERNAL_MESSAGE": "Per reproduir contingut en un reproductor extern sense interrupcions, el servidor s'ha d'executar en segon pla.",
 	"STREAMING_FROM": "transmissió des de",
 	"CASTING_TO": "S'està emetent a",

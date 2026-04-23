@@ -193,6 +193,7 @@
 	"PLAYER_SCALE_CROP": "قص الشاشة",
 	"PLAYER_SCALE_STRETCH": "تمديد الفيديو",
 	"PLAYER_SCALE_ORIGINAL": "الحجم الأصلي",
+	"VIDEO_SCALE": "Video scale:",
 	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "يتم البث من",
 	"CASTING_TO": "ارسال البث ل",
