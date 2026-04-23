@@ -193,6 +193,7 @@
 	"PLAYER_SCALE_CROP": "Ritaglia",
 	"PLAYER_SCALE_STRETCH": "Allunga",
 	"PLAYER_SCALE_ORIGINAL": "Originale",
+	"VIDEO_SCALE": "Video scale:",
 	"PLAYER_EXTERNAL_MESSAGE": "To play content in an external player without interruption, the server must run in the background.",
 	"STREAMING_FROM": "In streaming da",
 	"CASTING_TO": "Trasmesso su",
