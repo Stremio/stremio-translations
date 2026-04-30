@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Οι υπότιτλοι από το {{origin}} φορτώθηκαν",
 	"PLAYER_PLAY": "Αναπαραγωγή",
 	"PLAYER_PAUSE": "Παύση",
+	"PLAYER_SKIP_INTRO": "Παράλειψη εισαγωγής",
 	"PLAYER_NEXT_VIDEO": "Επόμενο βίντεο",
 	"PLAYER_MUTE": "Σίγαση",
 	"PLAYER_UNMUTE": "Κατάργηση σίγασης",

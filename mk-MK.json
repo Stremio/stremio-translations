@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Преводите од {{origin}} се вчитани",
 	"PLAYER_PLAY": "Пушти",
 	"PLAYER_PAUSE": "Пауза",
+	"PLAYER_SKIP_INTRO": "Прескокни интро",
 	"PLAYER_NEXT_VIDEO": "Следно видео",
 	"PLAYER_MUTE": "Исклучи звук",
 	"PLAYER_UNMUTE": "Вклучи звук",

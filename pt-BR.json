@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Legendas de {{origin}} carregadas",
 	"PLAYER_PLAY": "Reproduzir",
 	"PLAYER_PAUSE": "Pausar",
+	"PLAYER_SKIP_INTRO": "Pular introdução",
 	"PLAYER_NEXT_VIDEO": "Próximo vídeo",
 	"PLAYER_MUTE": "Mudo",
 	"PLAYER_UNMUTE": "Som",

@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Titulky z {{origin}} načítané",
 	"PLAYER_PLAY": "Prehrať",
 	"PLAYER_PAUSE": "Pozastaviť",
+	"PLAYER_SKIP_INTRO": "Preskočiť úvod",
 	"PLAYER_NEXT_VIDEO": "Ďalšie video",
 	"PLAYER_MUTE": "Stlmiť",
 	"PLAYER_UNMUTE": "Zrušiť stlmenie",

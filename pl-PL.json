@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Napisy z {{origin}} załadowane",
 	"PLAYER_PLAY": "Odtwarzaj",
 	"PLAYER_PAUSE": "Zatrzymaj",
+	"PLAYER_SKIP_INTRO": "Pomiń intro",
 	"PLAYER_NEXT_VIDEO": "Następne Wideo",
 	"PLAYER_MUTE": "Wycisz",
 	"PLAYER_UNMUTE": "Wyłącz wyciszenie",

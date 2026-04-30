@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Takarir dari {{origin}} dimuat",
 	"PLAYER_PLAY": "Putar",
 	"PLAYER_PAUSE": "Jeda",
+	"PLAYER_SKIP_INTRO": "Lewati intro",
 	"PLAYER_NEXT_VIDEO": "Video Berikutnya",
 	"PLAYER_MUTE": "Bisukan",
 	"PLAYER_UNMUTE": "Bunyikan",

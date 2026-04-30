@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Субтитры от {{origin}} загружены",
 	"PLAYER_PLAY": "Запуск",
 	"PLAYER_PAUSE": "Пауза",
+	"PLAYER_SKIP_INTRO": "Пропустить заставку",
 	"PLAYER_NEXT_VIDEO": "Следующее видео",
 	"PLAYER_MUTE": "Выкл. звук",
 	"PLAYER_UNMUTE": "Вкл. звук",

@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Feliratok betöltve innen: {{origin}}",
 	"PLAYER_PLAY": "Lejátszás",
 	"PLAYER_PAUSE": "Szünet",
+	"PLAYER_SKIP_INTRO": "Intro átugrása",
 	"PLAYER_NEXT_VIDEO": "Következő Videó",
 	"PLAYER_MUTE": "Némítás",
 	"PLAYER_UNMUTE": "Némítás feloldása",

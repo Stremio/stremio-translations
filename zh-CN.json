@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "已加载{{origin}}字幕",
 	"PLAYER_PLAY": "播放",
 	"PLAYER_PAUSE": "暂停",
+	"PLAYER_SKIP_INTRO": "跳过片头",
 	"PLAYER_NEXT_VIDEO": "下一个视频",
 	"PLAYER_MUTE": "静音",
 	"PLAYER_UNMUTE": "取消静音",

@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Titlovi s {{origin}} su učitani",
 	"PLAYER_PLAY": "Reproduciraj",
 	"PLAYER_PAUSE": "Pauziraj",
+	"PLAYER_SKIP_INTRO": "Preskoči uvod",
 	"PLAYER_NEXT_VIDEO": "Sljedeći videozapis",
 	"PLAYER_MUTE": "Utišaj",
 	"PLAYER_UNMUTE": "Uključi zvuk",

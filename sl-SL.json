@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtitles from {{origin}} loaded",
 	"PLAYER_PLAY": "Play",
 	"PLAYER_PAUSE": "Pause",
+	"PLAYER_SKIP_INTRO": "Preskoči uvod",
 	"PLAYER_NEXT_VIDEO": "Next Video",
 	"PLAYER_MUTE": "Mute",
 	"PLAYER_UNMUTE": "Unmute",

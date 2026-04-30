@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Altyazılar, {{origin}} kaynağından yüklendi",
 	"PLAYER_PLAY": "Oynat",
 	"PLAYER_PAUSE": "Duraklat",
+	"PLAYER_SKIP_INTRO": "İntroyu atla",
 	"PLAYER_NEXT_VIDEO": "Sonraki Görüntü",
 	"PLAYER_MUTE": "Sesi Kapat",
 	"PLAYER_UNMUTE": "Sesi Aç",

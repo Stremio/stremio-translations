@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtiitrid allikast {{origin}} on laetud",
 	"PLAYER_PLAY": "Esita",
 	"PLAYER_PAUSE": "Peata",
+	"PLAYER_SKIP_INTRO": "Jäta intro vahele",
 	"PLAYER_NEXT_VIDEO": "Järgmine video",
 	"PLAYER_MUTE": "Vaigista",
 	"PLAYER_UNMUTE": "Tühista vaigistus",

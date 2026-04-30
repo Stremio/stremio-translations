@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Tekstitykset lähteestä {{origin}} ladattu",
 	"PLAYER_PLAY": "Toista",
 	"PLAYER_PAUSE": "Tauko",
+	"PLAYER_SKIP_INTRO": "Ohita intro",
 	"PLAYER_NEXT_VIDEO": "Seuraava video",
 	"PLAYER_MUTE": "Mykistä",
 	"PLAYER_UNMUTE": "Poista mykistys",

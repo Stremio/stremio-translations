@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "زیرنویس از {{origin}} بارگیری شد",
 	"PLAYER_PLAY": "پخش",
 	"PLAYER_PAUSE": "توقف",
+	"PLAYER_SKIP_INTRO": "رد کردن مقدمه",
 	"PLAYER_NEXT_VIDEO": "ویدیوی بعدی",
 	"PLAYER_MUTE": "بی صدا",
 	"PLAYER_UNMUTE": "باصدا کردن",

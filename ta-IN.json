@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}}-லிருந்து வசனங்கள் ஏற்றப்பட்டன",
 	"PLAYER_PLAY": "இயக்கு",
 	"PLAYER_PAUSE": "இடைநிறுத்து",
+	"PLAYER_SKIP_INTRO": "தொடக்கத்தைத் தவிர்",
 	"PLAYER_NEXT_VIDEO": "அடுத்த காணொலி",
 	"PLAYER_MUTE": "ஒலியை நிறுத்து",
 	"PLAYER_UNMUTE": "ஒலியை இயக்கு",

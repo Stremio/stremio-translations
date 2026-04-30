@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Ondertitelingen van {{origin}} geladen",
 	"PLAYER_PLAY": "Afspelen",
 	"PLAYER_PAUSE": "Pauzeren",
+	"PLAYER_SKIP_INTRO": "Intro overslaan",
 	"PLAYER_NEXT_VIDEO": "Volgende video",
 	"PLAYER_MUTE": "Dempen",
 	"PLAYER_UNMUTE": "Dempen uitschakelen",

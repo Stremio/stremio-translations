@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}}eko azpitituluak kargatuta",
 	"PLAYER_PLAY": "Play",
 	"PLAYER_PAUSE": "Pause",
+	"PLAYER_SKIP_INTRO": "Saltatu sarrera",
 	"PLAYER_NEXT_VIDEO": "Hurrengo bideoa",
 	"PLAYER_MUTE": "Mututu",
 	"PLAYER_UNMUTE": "Desmututu",

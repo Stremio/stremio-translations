@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtítulos de {{origin}} cargados",
 	"PLAYER_PLAY": "Reproducir",
 	"PLAYER_PAUSE": "Pausar",
+	"PLAYER_SKIP_INTRO": "Saltar intro",
 	"PLAYER_NEXT_VIDEO": "Siguiente Vídeo",
 	"PLAYER_MUTE": "Silenciar",
 	"PLAYER_UNMUTE": "Activar Sonido",

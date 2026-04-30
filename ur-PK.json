@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}} سے سب ٹائٹل لوڈ ہو گئے",
 	"PLAYER_PLAY": "چلائیں",
 	"PLAYER_PAUSE": "روکیں",
+	"PLAYER_SKIP_INTRO": "تعارف چھوڑیں",
 	"PLAYER_NEXT_VIDEO": "اگلا ویڈیو",
 	"PLAYER_MUTE": "آواز بند کریں",
 	"PLAYER_UNMUTE": "آواز چالو کریں",

@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Đã tải phụ đề từ {{origin}}",
 	"PLAYER_PLAY": "Phát",
 	"PLAYER_PAUSE": "Tạm ngừng",
+	"PLAYER_SKIP_INTRO": "Bỏ qua mở đầu",
 	"PLAYER_NEXT_VIDEO": "Video tiếp theo",
 	"PLAYER_MUTE": "Tắt tiếng",
 	"PLAYER_UNMUTE": "Bật tiếng",

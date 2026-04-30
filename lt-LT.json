@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtitrai iš {{origin}} įkelti",
 	"PLAYER_PLAY": "Leisti",
 	"PLAYER_PAUSE": "Sustabdyti",
+	"PLAYER_SKIP_INTRO": "Praleisti įžangą",
 	"PLAYER_NEXT_VIDEO": "Kitas Vaizdo Įrašas",
 	"PLAYER_MUTE": "Nutildyti",
 	"PLAYER_UNMUTE": "Įjungti garsą",

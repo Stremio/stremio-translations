@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}} থেকে সাবটাইটেল লোড হয়েছে",
 	"PLAYER_PLAY": "চালান",
 	"PLAYER_PAUSE": "বিরতি",
+	"PLAYER_SKIP_INTRO": "ইন্ট্রো এড়িয়ে যান",
 	"PLAYER_NEXT_VIDEO": "পরবর্তী ভিডিও",
 	"PLAYER_MUTE": "মিউট করুন",
 	"PLAYER_UNMUTE": "আনমিউট করুন",

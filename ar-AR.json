@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "الترجمة من {{origin}} مفعلة",
 	"PLAYER_PLAY": "تشغيل",
 	"PLAYER_PAUSE": "إيقاف",
+	"PLAYER_SKIP_INTRO": "تخطي المقدمة",
 	"PLAYER_NEXT_VIDEO": "الفيديو التالي",
 	"PLAYER_MUTE": "كتم الصوت",
 	"PLAYER_UNMUTE": "إلغاء الكتم",

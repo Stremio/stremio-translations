@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "כתוביות מ-{{origin}} נטענו",
 	"PLAYER_PLAY": "ניגון",
 	"PLAYER_PAUSE": "הפסקה",
+	"PLAYER_SKIP_INTRO": "דלג על הפתיח",
 	"PLAYER_NEXT_VIDEO": "הוידאו הבא",
 	"PLAYER_MUTE": "השתקה",
 	"PLAYER_UNMUTE": "ביטול השתקה",

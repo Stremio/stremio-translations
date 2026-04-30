@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Untertitel von {{origin}} geladen",
 	"PLAYER_PLAY": "Abspielen",
 	"PLAYER_PAUSE": "Pause",
+	"PLAYER_SKIP_INTRO": "Intro überspringen",
 	"PLAYER_NEXT_VIDEO": "Nächstes Video",
 	"PLAYER_MUTE": "Stummschalten",
 	"PLAYER_UNMUTE": "Ton einschalten",

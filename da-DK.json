@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Undertekster fra {{origin}} indlæst",
 	"PLAYER_PLAY": "Afspil",
 	"PLAYER_PAUSE": "Pause",
+	"PLAYER_SKIP_INTRO": "Spring intro over",
 	"PLAYER_NEXT_VIDEO": "Næste Video",
 	"PLAYER_MUTE": "Mute",
 	"PLAYER_UNMUTE": "Unmute",

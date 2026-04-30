@@ -161,6 +161,7 @@
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Undertexter från {{origin}} laddade",
 	"PLAYER_PLAY": "Spela",
 	"PLAYER_PAUSE": "Pausa",
+	"PLAYER_SKIP_INTRO": "Hoppa över intro",
 	"PLAYER_NEXT_VIDEO": "Nästa video",
 	"PLAYER_MUTE": "Slå av ljudet",
 	"PLAYER_UNMUTE": "Slå på ljudet",
