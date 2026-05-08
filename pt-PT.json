@@ -500,6 +500,7 @@
 	"SETTINGS_SHORTCUT_PLAY_NEXT": "Reproduzir seguinte",
 	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Aumentar a velocidade de reprodução",
 	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Diminuir a velocidade de reprodução",
+	"SETTINGS_SHORTCUT_PLAYBACK_SPEED": "Adjust Playback Speed",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Aumentar o tamanho das legendas",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Diminuir o tamanho das legendas",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Aumentar o atraso das legendas",
