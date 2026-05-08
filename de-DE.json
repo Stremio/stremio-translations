@@ -490,6 +490,7 @@
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "Wiedergabe / Pause",
 	"SETTINGS_SHORTCUT_VOLUME_UP": "Lautstärke erhöhen",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "Lautstärke verringern",
+	"SETTINGS_SHORTCUT_VOLUME": "Adjust Volume",
 	"SETTINGS_SHORTCUT_MUTE": "Stummschaltung umschalten",
 	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Untertitel umschalten",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Vorwärts springen",

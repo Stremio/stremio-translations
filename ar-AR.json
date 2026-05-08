@@ -490,6 +490,7 @@
 	"SETTINGS_SHORTCUT_PLAY_PAUSE": "تشغيل / إيقاف مؤقت",
 	"SETTINGS_SHORTCUT_VOLUME_UP": "رفع مستوى الصوت",
 	"SETTINGS_SHORTCUT_VOLUME_DOWN": "خفض مستوى الصوت",
+	"SETTINGS_SHORTCUT_VOLUME": "Adjust Volume",
 	"SETTINGS_SHORTCUT_MUTE": "كتم / إلغاء كتم الصوت",
 	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "إظهار / إخفاء الترجمة",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "تخطي للتالي",
