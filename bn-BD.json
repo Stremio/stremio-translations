@@ -476,6 +476,7 @@
 	"SETTINGS_SHORTCUT_CYCLE_TABS_FORWARD": "ট্যাবগুলি এগিয়ে ঘোরান",
 	"SETTINGS_SHORTCUT_CYCLE_TABS_BACKWARD": "ট্যাবগুলি পিছনে ঘোরান",
 	"SETTINGS_SHORTCUT_NAVIGATE_MENUS": "মেনুগুলির মধ্যে নেভিগেট করুন",
+	"SETTINGS_SHORTCUT_NAVIGATE_HISTORY": "Navigate History",
 	"SETTINGS_SHORTCUT_GO_TO_SEARCH": "সার্চে যান",
 	"SETTINGS_SHORTCUT_EXIT_BACK": "বের হন / পেছনে যান",
 	"SETTINGS_SHORTCUT_MENU_PLAYBACK_SPEED": "প্লেব্যাক স্পিড মেনু চালু/বন্ধ করুন",

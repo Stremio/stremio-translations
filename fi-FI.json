@@ -476,6 +476,7 @@
 	"SETTINGS_SHORTCUT_CYCLE_TABS_FORWARD": "Selaa välilehtiä eteenpäin",
 	"SETTINGS_SHORTCUT_CYCLE_TABS_BACKWARD": "Selaa välilehtiä taaksepäin",
 	"SETTINGS_SHORTCUT_NAVIGATE_MENUS": "Navigoi valikoiden välillä",
+	"SETTINGS_SHORTCUT_NAVIGATE_HISTORY": "Navigate History",
 	"SETTINGS_SHORTCUT_GO_TO_SEARCH": "Siirry hakuun",
 	"SETTINGS_SHORTCUT_EXIT_BACK": "Poistu / Palaa takaisin",
 	"SETTINGS_SHORTCUT_MENU_PLAYBACK_SPEED": "Vaihda toistonopeus-valikko",
