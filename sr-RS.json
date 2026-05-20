@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Увоз са Trakt-а",
 	"SETTINGS_PAUSE_MINIMIZED": "Паузирај репродукцију када је минимизирано",
 	"SETTINGS_HWDEC": "Хардверски убрзано декодирање",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

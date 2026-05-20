@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Nhập từ Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Tạm dừng phát lại khi thu nhỏ",
 	"SETTINGS_HWDEC": "Giải mã tăng tốc phần cứng",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

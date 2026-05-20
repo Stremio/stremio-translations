@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importuoti iš Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Sumažinus langą - pristabdyti atkūrimą",
 	"SETTINGS_HWDEC": "Hardware-accelerated dekodavimas",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "Vaizdo režimas",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Numatytasis",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Senasis",

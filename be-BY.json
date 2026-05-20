@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Імпарт з Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Ставіць прайграванне на паўзу пры згортванні",
 	"SETTINGS_HWDEC": "Апаратнае дэкадаванне",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "Відэарэжым",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Па змаўчанні",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Састарэлы (Legacy)",

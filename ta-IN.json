@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Trakt-லிருந்து இறக்குமதி செய்",
 	"SETTINGS_PAUSE_MINIMIZED": "சிறிதாக்கப்படும்போது பிளேபேக்கை இடைநிறுத்து",
 	"SETTINGS_HWDEC": "வன்பொருள்-விரைவுபடுத்தப்பட்ட குறியீடு நீக்கம்",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "காணொலி முறை",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "இயல்புநிலை",
 	"SETTINGS_VIDEO_MODE_LEGACY": "மரபு",

@@ -615,6 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Import ze služby Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pozastavení přehrávání při minimalizaci",
 	"SETTINGS_HWDEC": "Hardwarově akcelerované dekódování",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
 	"SETTINGS_VIDEO_MODE": "Režim videa",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Výchozí",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Zastaralý",
