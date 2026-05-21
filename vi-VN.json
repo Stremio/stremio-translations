@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Đã tải phụ đề độc quyền",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Local subtitles loaded",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Đã tải phụ đề từ {{origin}}",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Phát",
 	"PLAYER_PAUSE": "Tạm ngừng",
 	"PLAYER_NEXT_VIDEO": "Video tiếp theo",

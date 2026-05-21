@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Эксклюзивные субтитры загружены",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Локальные субтитры загружены",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Субтитры от {{origin}} загружены",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Запуск",
 	"PLAYER_PAUSE": "Пауза",
 	"PLAYER_NEXT_VIDEO": "Следующее видео",

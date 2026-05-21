@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Išskirtiniai subtitrai įkelti",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Vietiniai subtitrai įkelti",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtitrai iš {{origin}} įkelti",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Leisti",
 	"PLAYER_PAUSE": "Sustabdyti",
 	"PLAYER_NEXT_VIDEO": "Kitas Vaizdo Įrašas",

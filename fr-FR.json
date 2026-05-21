@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Sous-titres exclusifs chargés",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Sous-titres locaux chargés",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Sous-titres de {{origin}} chargés",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Lecture",
 	"PLAYER_PAUSE": "Pause",
 	"PLAYER_NEXT_VIDEO": "Vidéo suivante",

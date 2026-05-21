@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Eksklusive undertekster indlæst",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Lokale undertekster indlæst",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Undertekster fra {{origin}} indlæst",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Afspil",
 	"PLAYER_PAUSE": "Pause",
 	"PLAYER_NEXT_VIDEO": "Næste Video",

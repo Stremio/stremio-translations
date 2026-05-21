@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Subtitrări exclusive încărcate",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Local subtitles loaded",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Subtitrări de la {{origin}} încărcate",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Redare",
 	"PLAYER_PAUSE": "Pauză",
 	"PLAYER_NEXT_VIDEO": "Următorul videoclip",

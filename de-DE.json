@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Exklusive Untertitel geladen",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Lokale Untertitel wurden geladen",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Untertitel von {{origin}} geladen",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Abspielen",
 	"PLAYER_PAUSE": "Pause",
 	"PLAYER_NEXT_VIDEO": "Nächstes Video",

@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Özel altyazılar yüklendi",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Yerel altyazılar yüklendi",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Altyazılar, {{origin}} kaynağından yüklendi",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Oynat",
 	"PLAYER_PAUSE": "Duraklat",
 	"PLAYER_NEXT_VIDEO": "Sonraki Görüntü",

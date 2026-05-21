@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Вчитани се ексклузивни преводи",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Local subtitles loaded",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Преводите од {{origin}} се вчитани",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Пушти",
 	"PLAYER_PAUSE": "Пауза",
 	"PLAYER_NEXT_VIDEO": "Следно видео",
