@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "ஆதரவைத் தொடர்பு கொள்",
 	"SETTING_LANGUAGE": "மொழி",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "பார்க்காத அத்தியாயங்கள் படத்தைத் தெளிவற்றதாக்கு",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "மூடும்போது வெளியேறு",
 	"SETTINGS_TRAKT": "Trakt ஸ்க்ரோப்ளிங்",
 	"SETTINGS_TRAKT_RE_AUTH": "மீண்டும் அங்கீகரி",

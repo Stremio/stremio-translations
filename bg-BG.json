@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Поддръжка",
 	"SETTING_LANGUAGE": "Език",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Замъгляване на изображението на неизгледаните епизоди",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Изход при затваряне",
 	"SETTINGS_TRAKT": "Trakt: записване и препоръки",
 	"SETTINGS_TRAKT_RE_AUTH": "Удостоверяване отново",

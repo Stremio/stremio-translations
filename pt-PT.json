@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Contactar o suporte",
 	"SETTING_LANGUAGE": "Idioma",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Desfocar a imagem de episódios não vistos",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Sair ao fechar",
 	"SETTINGS_TRAKT": "Recomendações do Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "Re-autenticar",

@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "تواصل مع الدعم الفني",
 	"SETTING_LANGUAGE": "اللغة",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "طمس صورة الحلقات الغير مشاهدة",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "خروج عند الاغلاق",
 	"SETTINGS_TRAKT": "مزامنة المشاهدة مع Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "إعادة المصادقة",

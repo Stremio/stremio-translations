@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Dukungan",
 	"SETTING_LANGUAGE": "Bahasa",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Memburamkan gambar episode yang belum ditonton",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Keluar ketika ditutup",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",

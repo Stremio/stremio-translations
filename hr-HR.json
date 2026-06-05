@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Kontaktirajte podršku",
 	"SETTING_LANGUAGE": "Jezik",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Zamućivanje slika nepogledanih epizoda",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Zatvori aplikaciju pri izlasku",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_RE_AUTH": "Ponovna autentifikacija",

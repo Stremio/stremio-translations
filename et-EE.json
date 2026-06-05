@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Võta ühendust toega",
 	"SETTING_LANGUAGE": "Keel",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Trakt jälgimine",
 	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",

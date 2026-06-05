@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Kontaktovat podporu",
 	"SETTING_LANGUAGE": "Jazyk",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Rozmazat nezhlédnuté epizody",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Vypnout aplikaci při zavření okna",
 	"SETTINGS_TRAKT": "Trakt účet",
 	"SETTINGS_TRAKT_RE_AUTH": "Přihlásit se znovu",

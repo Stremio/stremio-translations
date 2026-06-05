@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Kapcsolat felvétele",
 	"SETTING_LANGUAGE": "Nyelv",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "Megtekintési szokások megosztása a Trakt-tal",
 	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",

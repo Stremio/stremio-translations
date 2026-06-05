@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Звязацца з падтрымкай",
 	"SETTING_LANGUAGE": "Мова",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Размываць выявы непрагледжаных эпізодаў",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Выходзіць пры закрыцці",
 	"SETTINGS_TRAKT": "Скраблінг Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "Паўторная аўтэнтыфікацыя",

@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "Contacter le support",
 	"SETTING_LANGUAGE": "Langue",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Flouter l'image des épisodes non regardés",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Quitter à la fermeture",
 	"SETTINGS_TRAKT": "Scrobbling Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "Se ré-authentifier",

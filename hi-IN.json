@@ -625,6 +625,7 @@
 	"SETTINGS_SUPPORT": "सहयोग टीम से संपर्क करें",
 	"SETTING_LANGUAGE": "भाषा",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Blur unwatched episodes image",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Quit on close",
 	"SETTINGS_TRAKT": "ट्रैक्ट स्क्रोबिंग",
 	"SETTINGS_TRAKT_RE_AUTH": "Re-authenticate",
