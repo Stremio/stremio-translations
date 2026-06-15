@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autentificiraj se",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Uvezi",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Pretplati se",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Aplikacija Kalendar je otvorena. Molimo ručno se pretplatite na kalendar.",

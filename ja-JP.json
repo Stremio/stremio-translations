@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "認証",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "インポート",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "購読する",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "カレンダーアプリが開かれました。手動でカレンダーを登録してください。",

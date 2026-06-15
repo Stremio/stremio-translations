@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Аутентификация",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Импорт",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Подписаться",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Приложение календаря открыто. Пожалуйста, подпишитесь на календарь вручную.",

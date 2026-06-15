@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "تأیید اعتبار",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "وارد کردن",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "اشتراک",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "برنامه تقویم باز شد. لطفاً به صورت دستی در تقویم مشترک شوید.",
