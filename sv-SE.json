@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autentisera",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Importera",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Prenumerera",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalenderapp öppnades. Prenumerera på kalendern manuellt.",

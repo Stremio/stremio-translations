@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Strg",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Authentifizieren",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Importieren",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Abonnieren",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalender-App wurde geöffnet. Bitte abonnieren Sie den Kalender manuell.",

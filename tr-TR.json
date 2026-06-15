@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Kimliği Doğrula",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "İçe Aktar",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Abone Ol",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Takvim uygulaması açıldı. Lütfen takvime el ile abone olun.",

@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Přihlásit se",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Importovat",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Přihlásit se k odběru",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Aplikace kalendáře byla otevřena. Přidejte kalendář manuáně.",

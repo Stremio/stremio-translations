@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "যাচাই করুন",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "আমদানি করুন",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "সাবস্ক্রাইব করুন",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "ক্যালেন্ডার অ্যাপ খোলা হয়েছে। অনুগ্রহ করে ক্যালেন্ডারটিতে ম্যানুয়ালি সাবস্ক্রাইব করুন।",

@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Backspace",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autendi",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Impordi",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Telli",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Kalendrirakendus avati. Tellige kalendriteavitused käsitsi.",

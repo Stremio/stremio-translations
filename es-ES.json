@@ -518,6 +518,7 @@
 	"SETTINGS_SHORTCUT_CTRL": "Ctrl",
 	"SETTINGS_SHORTCUT_BACKSPACE": "Retroceso",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Autenticar",
+	"SETTINGS_DISCORD": "Show watching activity on Discord",
 	"SETTINGS_FACEBOOK_IMPORT": "Importar",
 	"SETTINGS_CALENDAR_SUBSCRIBE": "Suscribir",
 	"SETTINGS_SUBSCRIBE_CALENDAR_IOS_TOAST": "Se abrió aplicación de Calendario. Por favor, suscríbase al calendario manualmente.",
