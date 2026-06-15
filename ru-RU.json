@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Импорт из Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Приостановить воспроизведение при сворачивании",
 	"SETTINGS_HWDEC": "Декодирование с аппаратным ускорением",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Режим видео",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "По умолчанию",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Устаревший (Legacy)",

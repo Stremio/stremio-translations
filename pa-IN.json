@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "ਟ੍ਰੈਕਟ ਤੋਂ ਦਰਾਮਦ",
 	"SETTINGS_PAUSE_MINIMIZED": "ਘੱਟੋ ਘੱਟ ਪਲੇਬੈਕ ਰੋਕੋ",
 	"SETTINGS_HWDEC": "ਹਾਰਡਵੇਅਰ-ਚਾਰਜਡ ਡੀਕੋਡਿੰਗ",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

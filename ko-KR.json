@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Trakt에서 Import",
 	"SETTINGS_PAUSE_MINIMIZED": "최소화 시 재생 일시정지",
 	"SETTINGS_HWDEC": "하드웨어 가속 디코딩",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

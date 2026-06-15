@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Trakt'tan içe aktar",
 	"SETTINGS_PAUSE_MINIMIZED": "Simge durumunda oynatmayı duraklat",
 	"SETTINGS_HWDEC": "Donanım hızlandırmalı kod çözme",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Görüntü modu",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Varsayılan",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Eski",

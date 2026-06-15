@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importar desde Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Pausar la reproducción cuando se minimiza",
 	"SETTINGS_HWDEC": "Decodificación acelerada por hardware",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Modo de vídeo",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Por defecto",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

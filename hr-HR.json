@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Uvezi s Trakta",
 	"SETTINGS_PAUSE_MINIMIZED": "Pauziraj reprodukciju kada je prozor minimiziran",
 	"SETTINGS_HWDEC": "Hardverski ubrzano dekodiranje",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "GPU Video Processing (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video način",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Zadano",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Zastarjelo",
