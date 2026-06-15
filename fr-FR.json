@@ -615,7 +615,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importer depuis Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Mettre en pause la lecture lorsque la fenêtre est réduite",
 	"SETTINGS_HWDEC": "Décodage accéléré par le matériel",
-	"SETTINGS_GPU_VIDEO_PROCESSING": "Traitement vidéo GPU (VSR/HDR)",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Traitement vidéo GPU Nvidia",
 	"SETTINGS_VIDEO_MODE": "Mode vidéo",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Par défaut",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Ancien",
