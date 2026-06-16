@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Trakt থেকে আমদানি করুন",
 	"SETTINGS_PAUSE_MINIMIZED": "মিনিমাইজ করা হলে প্লেব্যাক বিরতি দিন",
 	"SETTINGS_HWDEC": "হার্ডওয়্যার-অ্যাক্সিলারেটেড ডিকোডিং",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

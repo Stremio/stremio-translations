@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Tuo Traktista",
 	"SETTINGS_PAUSE_MINIMIZED": "Tauko toistossa, kun sovellus on pienennetty",
 	"SETTINGS_HWDEC": "Laitteistokiihdytetty dekoodaus",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Von Trakt importieren",
 	"SETTINGS_PAUSE_MINIMIZED": "Wiedergabe pausieren, wenn die Anwendung minimiert wird",
 	"SETTINGS_HWDEC": "Hardwarebeschleunigte Dekodierung",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Videomodus",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Standard",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

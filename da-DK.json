@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importer fra Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Stop afspilning ved minimering",
 	"SETTINGS_HWDEC": "Hardware-accelereret decoding",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video tilstand",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Standard",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

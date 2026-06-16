@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "واردا کردن از Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "توقف پخش هنگام کوچک کردن",
 	"SETTINGS_HWDEC": "رمزگشایی با شتاب سخت افزاری",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "حالت ویدئو",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "پیش‌فرض",
 	"SETTINGS_VIDEO_MODE_LEGACY": "سنتی",

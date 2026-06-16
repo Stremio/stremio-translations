@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Εισαγωγή από Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Παύση αναπαραγωγής κατά την ελαχιστοποίηση",
 	"SETTINGS_HWDEC": "Αποκωδικοποίηση με επιτάχυνση υλικού",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Λειτουργία βίντεο",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Προεπιλογή",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Παλαιά έκδοση",

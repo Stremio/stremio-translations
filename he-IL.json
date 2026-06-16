@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "ייבא מ-Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "השהיית ניגון כאשר החלון ממוזער",
 	"SETTINGS_HWDEC": "קידוד מואץ בחומרה",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Video mode",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Default",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Legacy",

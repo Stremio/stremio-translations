@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Importar de Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Aturar la reproducció quan es minimitzi",
 	"SETTINGS_HWDEC": "Descodificació accelerada per maquinari",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Mode de vídeo",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "Predeterminat",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Heretat",

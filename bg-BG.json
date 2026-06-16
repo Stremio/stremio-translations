@@ -616,6 +616,7 @@
 	"SETTINGS_IMPORT_TRAKT": "Импортиране от Trakt",
 	"SETTINGS_PAUSE_MINIMIZED": "Пауза на възпроизвеждането при минимизиране",
 	"SETTINGS_HWDEC": "Хардуерно ускорено декодиране",
+	"SETTINGS_GPU_VIDEO_PROCESSING": "Nvidia GPU Video Processing",
 	"SETTINGS_VIDEO_MODE": "Видео режим",
 	"SETTINGS_VIDEO_MODE_DEFAULT": "По подразбиране",
 	"SETTINGS_VIDEO_MODE_LEGACY": "Наследен",
