@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "独占的な字幕が読み込まれました",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Local subtitles loaded",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}}からの字幕が読み込まれました",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "再生",
 	"PLAYER_PAUSE": "一時停止",
 	"PLAYER_NEXT_VIDEO": "次の動画",

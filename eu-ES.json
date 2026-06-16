@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Azpitutulu esklusiboak kargatuta",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Azpitutuluen lokalak kargatuta",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "{{origin}}eko azpitituluak kargatuta",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Play",
 	"PLAYER_PAUSE": "Pause",
 	"PLAYER_NEXT_VIDEO": "Hurrengo bideoa",

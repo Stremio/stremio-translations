@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Exklusiva undertexter laddade",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Lokala undertexter laddade",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Undertexter från {{origin}} laddade",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Spela",
 	"PLAYER_PAUSE": "Pausa",
 	"PLAYER_NEXT_VIDEO": "Nästa video",

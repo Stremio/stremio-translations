@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Legendas exclusivas carregadas",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Legendas locais carregadas",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Legendas de {{origin}} carregadas",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Reproduzir",
 	"PLAYER_PAUSE": "Colocar em pausa",
 	"PLAYER_NEXT_VIDEO": "Próximo vídeo",

@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Takarir eksklusif dimuat",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Local subtitles loaded",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Takarir dari {{origin}} dimuat",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Putar",
 	"PLAYER_PAUSE": "Jeda",
 	"PLAYER_NEXT_VIDEO": "Video Berikutnya",

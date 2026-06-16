@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "تم تفعيل الترجمة الحصرية",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "تم تفعيل الترجمة المحلية",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "الترجمة من {{origin}} مفعلة",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "تشغيل",
 	"PLAYER_PAUSE": "إيقاف",
 	"PLAYER_NEXT_VIDEO": "الفيديو التالي",

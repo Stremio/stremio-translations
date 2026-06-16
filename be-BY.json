@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Эксклюзіўныя субтытры загружаны",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Лакальныя субтытры загружаны",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Субтытры з {{origin}} загружаны",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Прайграць",
 	"PLAYER_PAUSE": "Паўза",
 	"PLAYER_NEXT_VIDEO": "Наступнае відэа",

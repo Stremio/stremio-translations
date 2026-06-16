@@ -159,6 +159,7 @@
 	"PLAYER_SUBTITLES_LOADED_EXCLUSIVE": "Exkluzivní titulky načteny",
 	"PLAYER_SUBTITLES_LOADED_LOCAL": "Místní titulky načteny",
 	"PLAYER_SUBTITLES_LOADED_ORIGIN": "Titulky z {{origin}} načteny",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondary Subtitle",
 	"PLAYER_PLAY": "Přehrát",
 	"PLAYER_PAUSE": "Pozastavit",
 	"PLAYER_NEXT_VIDEO": "Další video",
