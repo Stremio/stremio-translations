@@ -365,7 +365,7 @@
 	"HAVE_ACC": "Already have an account?",
 	"PASSWORD": "Password",
 	"PASSWORD_CONFIRM": "Confirm password",
-	"EMAIL": "E-mail",
+	"EMAIL": "Email",
 	"FB_LOGIN": "Continue with Facebook",
 	"APPLE_LOGIN": "Continue with Apple",
 	"FB_NOTHINGSHARED": "Nothing is shared without your permission",
@@ -374,7 +374,7 @@
 	"I_ACCEPT": "I accept the",
 	"I_ACCEPT_BY_CLICKING": "By clicking the above button I testify that I accept the ",
 	"TOS": "Terms and Conditions",
-	"MUST_ACCEPT_TERMS": "You must accept terms",
+	"MUST_ACCEPT_TERMS": "You must accept Terms",
 	"MUST_ACCEPT_PRIVACY_POLICY": "You must accept the Privacy Policy",
 	"PASSWORDS_NOMATCH": "Passwords don't match",
 	"SIGN_UP": "Sign up",
@@ -1401,7 +1401,7 @@
 	"WEBSITE_CONTACT_US_ERR_INV_EMAIL": "Please enter a valid email!",
 	"WEBSITE_CONTACT_US_Q_RELATED_TO": "What is your question related to?",
 	"WEBSITE_CONTACT_US_Q_OS": "What is your Operating System?",
-	"WEBSITE_CONTACT_US_PH_EMAIL": "Your E-mail",
+	"WEBSITE_CONTACT_US_PH_EMAIL": "Your Email",
 	"WEBSITE_CONTACT_US_PH_MESSAGE": "Message",
 	"WEBSITE_CONTACT_US_PH_MESSAGE_BTN": "SEND",
 
@@ -1720,11 +1720,11 @@
 
 	"FAQ_02_H1": "How does Stremio compare to Kodi and Plex?",
 	"FAQ_02_P1": "We are inspired by those two pieces of software. But we have different goals - Stremio is specifically targeted towards entertainment video, and strives to become the mainstream solution for that by being very easy to use.",
-	"FAQ_02_P2": "Stremio will never be as customizable and feature-rich as Kodi and Plex, but it is significantly easier to use. Just ${1} get it and see ${2} :)",
+	"FAQ_02_P2": "Stremio will never be as customizable and feature-rich as Kodi and Plex, but it is significantly easier to use. Just ${1}get it and see${2} :)",
 
 	"FAQ_03_H1": "How does Stremio compare to Netflix?",
 	"FAQ_03_P1": "Again, Netflix is one of our inspirations. We strive to achieve the user experience of Netflix, plus a lot of added goodies. But most importantly, we're giving you the freedom to manage your own library and add new content sources with our addon system.",
-	"FAQ_03_P2": "That makes Stremio infinitely extendable, so when you use Stremio, you're never limited to the content Netflix decides to license. For example, through Stremio you can watch content from ${1} Filmon.tv ${2}, ${3} Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} and even ${9}Netflix${10} itself!",
+	"FAQ_03_P2": "That makes Stremio infinitely extendable, so when you use Stremio, you're never limited to the content Netflix decides to license. For example, through Stremio you can watch content from ${1}Filmon.tv ${2}, ${3}Twitch.tv${4}, ${5}YouTube${6}, ${7}Vodo${8} and even ${9}Netflix${10} itself!",
 
 	"FAQ_04_H1": "How does Stremio compare to Flipboard?",
 	"FAQ_04_P1": "We don’t get that question that often, except when talking to start-up people :)",
@@ -1734,7 +1734,7 @@
 	"FAQ_05_P1": "Stremio and Popcorn Time are similar in user interface, because there aren’t many ways to do video entertainment catalogues right :)",
 	"FAQ_05_P2": "But while Popcorn Time is focused on streaming torrents from specific sources, Stremio is unrestricted and is merely a content aggregator - it’s not locked into a specific content source.",
 	"FAQ_05_P3": "Furthermore, we do not provide any torrent addons by default, so Stremio does not cover the Popcorn Time use-case with official functionality.",
-	"FAQ_05_P4": "Another notable difference is that Popcorn Time is completely open source, while Stremio is ${1} partially open source${2}.",
+	"FAQ_05_P4": "Another notable difference is that Popcorn Time is completely open source, while Stremio is ${1}partially open source${2}.",
 
 	"FAQ_06_H1": "Will you add this movie/series?",
 	"FAQ_06_P1": "No, sorry :(",
