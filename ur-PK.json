@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "سپورٹ سے رابطہ کریں",
 	"SETTING_LANGUAGE": "زبان",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "نہ دیکھے گئے ایپیسوڈز کی تصویر دھندلی کریں",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "بند کرنے پر چھوڑ دیں",
 	"SETTINGS_TRAKT": "Trakt اسکروبلنگ",
 	"SETTINGS_TRAKT_RE_AUTH": "دوبارہ تصدیق کریں",

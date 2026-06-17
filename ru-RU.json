@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "Связаться с поддержкой",
 	"SETTING_LANGUAGE": "Язык",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Размывать превью непросмотренных эпизодов",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Выходить при закрытии окна",
 	"SETTINGS_TRAKT": "Скробблинг Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "Повторная авторизация",

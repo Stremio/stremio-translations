@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "Kundendienst kontaktieren",
 	"SETTING_LANGUAGE": "Sprache",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Bilder noch nicht angesehener Folgen verpixeln",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Beim Schließen beenden",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_RE_AUTH": "Erneut anmelden",

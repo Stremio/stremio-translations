@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "Kontaktovať podporu",
 	"SETTING_LANGUAGE": "Jazyk",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Rozmazať obrázok nepozretých epizód",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Ukončiť po zatvorení",
 	"SETTINGS_TRAKT": "Trakt Scrobbling",
 	"SETTINGS_TRAKT_RE_AUTH": "Znovu sa autentifikovať",
