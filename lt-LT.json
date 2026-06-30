@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "Susisiekti su pagalba",
 	"SETTING_LANGUAGE": "Kalba",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "Užlieti nežiūrėtų serijų viršelį",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "Išeiti uždarius",
 	"SETTINGS_TRAKT": "Trakt sekimas",
 	"SETTINGS_TRAKT_RE_AUTH": "Autentifikuotis iš naujo",

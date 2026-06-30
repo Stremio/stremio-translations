@@ -629,6 +629,7 @@
 	"SETTINGS_SUPPORT": "با پشتیبانی تماس بگیرید",
 	"SETTING_LANGUAGE": "زبان",
 	"SETTINGS_BLUR_UNWATCHED_IMAGE": "تار کردن تصویر قسمت‌های دیده نشده",
+	"SETTINGS_HIDE_EPISODE_SPOILERS": "Hide episode spoilers",
 	"SETTINGS_QUIT_ON_CLOSE": "خروج پس از بستن",
 	"SETTINGS_TRAKT": "ثبت و پیگیری Trakt",
 	"SETTINGS_TRAKT_RE_AUTH": "تأیید مجدد",
