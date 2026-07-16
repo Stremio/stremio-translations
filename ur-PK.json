@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "کوئی میٹاڈیٹا نہیں ملا!",
 	"ERR_NO_ADDONS_FOR_META": "اس میٹا کے لیے کوئی ایڈآنز کی درخواست نہیں کی گئی!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "سٹریمز کے لیے کوئی ایڈآنز کی درخواست نہیں کی گئی!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "اس میٹا کے لیے کوئی ویڈیوز نہیں ملے!",
 	"ERR_GETTING_META": "اس کے بارے میں معلومات حاصل کرنے میں خرابی۔",
 	"ERR_CANT_PARSE_MAGNET": "میگنیٹ پارس کرنے سے قاصر",

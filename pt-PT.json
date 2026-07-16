@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Não foram encontrados metadados!",
 	"ERR_NO_ADDONS_FOR_META": "Não foram pedidos addons para este metadado!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Não foram pedidos addons para streams!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Não foram encontrados vídeos para este metadado!",
 	"ERR_GETTING_META": "Erro ao obter informação sobre isto.",
 	"ERR_CANT_PARSE_MAGNET": "Não foi possível analisar o magnet link",

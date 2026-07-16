@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "لم يتم العثور على أي بيانات وصفية!",
 	"ERR_NO_ADDONS_FOR_META": "لم يتم طلب أي إضافات لهذه البيانات الوصفية!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "لم يتم طلب أي إضافات للبث!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "لم يتم العثور على أي فيديوهات لهذه البيانات الوصفية!",
 	"ERR_GETTING_META": "حدث خطا اثناء الحصول على معلومات خاصة بهذا",
 	"ERR_CANT_PARSE_MAGNET": "غير ممكن معالجة رابط التورنيت",

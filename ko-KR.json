@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "No metadata was found!",
 	"ERR_NO_ADDONS_FOR_META": "No addons were requested for this meta!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "No addons were requested for streams!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "No videos found for this meta!",
 	"ERR_GETTING_META": "이것에 대한 정보를 가져오는 중 오류가 발생했습니다.",
 	"ERR_CANT_PARSE_MAGNET": "마그넷을 해석할 수 없습니다.",

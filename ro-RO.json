@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Nu au fost găsite metadate!",
 	"ERR_NO_ADDONS_FOR_META": "Nici o extensie solicitată pentru metadate!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Nici o extensie solicitată pentru stream-uri!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Nu au fost găsite video-uri pentru metadate!",
 	"ERR_GETTING_META": "Eroare la preluarea informațiilor despre aceasta.",
 	"ERR_CANT_PARSE_MAGNET": "Imposibil de analizat magnetul",
