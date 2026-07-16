@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Метаданные не найдены!",
 	"ERR_NO_ADDONS_FOR_META": "Не запрошены дополнения для этих метаданных!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Не запрошены дополнения для стримов!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Видео для этих метаданных не найдено!",
 	"ERR_GETTING_META": "Ошибка при получении информации.",
 	"ERR_CANT_PARSE_MAGNET": "Не удалось обработать магнет-ссылку",

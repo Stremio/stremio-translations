@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Er is geen metadata gevonden!",
 	"ERR_NO_ADDONS_FOR_META": "Er zijn geen add-ons opgevraagd voor deze metadata!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Er zijn geen add-ons opgevraagd voor streams!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Er zijn geen video's gevonden voor deze metadata!",
 	"ERR_GETTING_META": "Fout tijdens het verkrijgen van informatie.",
 	"ERR_CANT_PARSE_MAGNET": "Kan magnet link niet verwerken",

@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "هیچ متاداده ای یافت نشد!",
 	"ERR_NO_ADDONS_FOR_META": "هیچ افزونه ای برای این meta درخواست نشده است!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "هیچ افزونه ای برای جریان ها درخواست نشده است!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "هیچ ویدیویی برای این meta یافت نشد!",
 	"ERR_GETTING_META": "در بازیابی اطلاعات این مورد خطا رخ داده است",
 	"ERR_CANT_PARSE_MAGNET": "قادر به تجزیه مگنت نیست",

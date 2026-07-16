@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "மெட்டாதேட்டா எதுவும் காணப்படவில்லை!",
 	"ERR_NO_ADDONS_FOR_META": "இந்த மெட்டாவுக்காக துணை நிரல்கள் எதுவும் கோரப்படவில்லை!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "ஸ்ட்ரீம்களுக்காக துணை நிரல்கள் எதுவும் கோரப்படவில்லை!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "இந்த மெட்டாவுக்கான காணொலிகள் எதுவும் காணப்படவில்லை!",
 	"ERR_GETTING_META": "இதைப் பற்றிய தகவலை மீட்டெடுப்பதில் பிழை.",
 	"ERR_CANT_PARSE_MAGNET": "மேக்னட்டைப் பகுப்பாய்வு செய்ய முடியவில்லை",

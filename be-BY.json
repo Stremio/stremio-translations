@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Метаданыя не знойдзены!",
 	"ERR_NO_ADDONS_FOR_META": "Няма запытаных дапаўненняў для гэтых метаданых!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Няма запытаных дапаўненняў для патокаў!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Відэа для гэтых метаданых не знойдзены!",
 	"ERR_GETTING_META": "Памылка пры атрыманні інфармацыі.",
 	"ERR_CANT_PARSE_MAGNET": "Немагчыма апрацаваць magnet-спасылку",

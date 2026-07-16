@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Nebyla nalezena žádná metadata!",
 	"ERR_NO_ADDONS_FOR_META": "Pro tuto metu nebyly požadovány žádné doplňky!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Pro tyto streamy nebyly požadovány žádné doplňky!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Pro tuto metu nebyla nalezena žádná videa!",
 	"ERR_GETTING_META": "Chyba při načítání informací o tomto.",
 	"ERR_CANT_PARSE_MAGNET": "Nelze analyzovat magnet",

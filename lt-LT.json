@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Metaduomenų nerasta!",
 	"ERR_NO_ADDONS_FOR_META": "Šiai metai nebuvo prašyta priedų!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Transliacijoms nebuvo prašyta priedų!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Šiai metai vaizdo įrašų nerasta!",
 	"ERR_GETTING_META": "Klaida gaunant informaciją apie tai.",
 	"ERR_CANT_PARSE_MAGNET": "Nepavyko interpretuoti magnet nuorodos",

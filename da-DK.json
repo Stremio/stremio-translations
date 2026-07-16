@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Ingen metadata blev fundet!",
 	"ERR_NO_ADDONS_FOR_META": "Ingen tilføjelser blev anmodet om til denne meta!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Ingen tilføjelser blev anmodet om til streams!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "Ingen videoer fundet til denne meta!",
 	"ERR_GETTING_META": "Fejl ved hentning af oplysninger om dette.",
 	"ERR_CANT_PARSE_MAGNET": "Kan ikke parse magnet",

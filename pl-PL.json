@@ -975,6 +975,7 @@
 	"ERR_NO_META_FOUND": "Nie znaleziono żadnych metadanych!",
 	"ERR_NO_ADDONS_FOR_META": "Nie zgłoszono żadnych dodatków do tej mety!",
 	"ERR_NO_ADDONS_FOR_STREAMS": "Nie zgłoszono żadnych dodatków do strumieni!",
+	"CONTENT_SETTINGS_NO_STREAMS_HINT": "Your Content settings may be hiding available stream sources. Review which sources are enabled or try again later.",
 	"ERR_NO_VIDEOS_FOR_META": "No videos found for this meta!",
 	"ERR_GETTING_META": "Błąd pobierania informacji na ten temat.",
 	"ERR_CANT_PARSE_MAGNET": "Nie można przeanalizować Magnetu",
