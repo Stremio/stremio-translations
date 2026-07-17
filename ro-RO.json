@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Deschide în player extern",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Redă în {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Schimbă la %s",
 	"PLAYER_CLOCK_ENDS_AT": "Se termină la %s",
 	"PLAYER_LIVE": "În direct",

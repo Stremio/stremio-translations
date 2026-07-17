@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Άνοιγμα σε εξωτερικό πρόγραμμα αναπαραγωγής",
 	"PLAYER_OPEN_IN_NPLAYER": "Άνοιγμα στον nPlayer",
 	"PLAYER_PLAY_IN": "Αναπαραγωγή στο {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Αλλαγή σε %s",
 	"PLAYER_CLOCK_ENDS_AT": "Τελειώνει σε %s",
 	"PLAYER_LIVE": "Ζωντανά",

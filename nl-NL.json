@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Openen in externe speler",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Afspelen op {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Schakelen naar %s",
 	"PLAYER_CLOCK_ENDS_AT": "Eindigt om %s",
 	"PLAYER_LIVE": "Live",

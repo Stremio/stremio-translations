@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Адкрыць у знешнім плэеры",
 	"PLAYER_OPEN_IN_NPLAYER": "Адкрыць у nPlayer",
 	"PLAYER_PLAY_IN": "Прайграць на {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "У эфіры",

@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "外部プレーヤーで開く",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayerで開く",
 	"PLAYER_PLAY_IN": "{{device}}で再生",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "ライブ",

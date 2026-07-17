@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Harici oynatıcıda aç",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer'da aç",
 	"PLAYER_PLAY_IN": "{{device}} içinde oynat",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "%s oynatıcısına değiştir",
 	"PLAYER_CLOCK_ENDS_AT": "Bitiş zamanı %s",
 	"PLAYER_LIVE": "Canlı",

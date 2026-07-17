@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "বাহ্যিক প্লেয়ারে খুলুন",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer-এ খুলুন",
 	"PLAYER_PLAY_IN": "{{device}}-এ চালান",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "লাইভ",

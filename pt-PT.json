@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Abrir num leitor externo",
 	"PLAYER_OPEN_IN_NPLAYER": "Abrir no nPlayer",
 	"PLAYER_PLAY_IN": "Reproduzir no {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Mudar para %s",
 	"PLAYER_CLOCK_ENDS_AT": "Termina às %s",
 	"PLAYER_LIVE": "Direto",

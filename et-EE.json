@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Ava välises esitajas",
 	"PLAYER_OPEN_IN_NPLAYER": "Ava nPlayeris",
 	"PLAYER_PLAY_IN": "Esita seadmes {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "Otse",
