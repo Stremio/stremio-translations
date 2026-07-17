@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Åbn i ekstern afspiller",
 	"PLAYER_OPEN_IN_NPLAYER": "Åbn i nPlayer",
 	"PLAYER_PLAY_IN": "Afspil i {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Skift til %s",
 	"PLAYER_CLOCK_ENDS_AT": "Skift til %s",
 	"PLAYER_LIVE": "Direkte",

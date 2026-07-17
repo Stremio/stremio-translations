@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "在外部播放器中打開",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "在{{device}}上播放",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "直播",

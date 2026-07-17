@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Otevřít v externím přehrávači",
 	"PLAYER_OPEN_IN_NPLAYER": "Otevřít v nPlayer",
 	"PLAYER_PLAY_IN": "Přehrát na {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Končí v %s",
 	"PLAYER_LIVE": "Živě",

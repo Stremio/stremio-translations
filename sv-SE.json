@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Öppna i extern spelare",
 	"PLAYER_OPEN_IN_NPLAYER": "Öppna i nPlayer",
 	"PLAYER_PLAY_IN": "Spela på {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "Live",

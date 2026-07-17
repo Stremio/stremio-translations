@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "Apri in un player esterno",
 	"PLAYER_OPEN_IN_NPLAYER": "Apri su nPlayer",
 	"PLAYER_PLAY_IN": "In riproduzione su {{device}}",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Passa a %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "Dal vivo",

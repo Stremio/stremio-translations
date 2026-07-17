@@ -170,6 +170,7 @@
 	"PLAYER_OPEN_IN_EXTERNAL": "بیرونی پلیئر میں کھولیں",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer میں کھولیں",
 	"PLAYER_PLAY_IN": "{{device}} میں چلائیں",
+	"PLAYER_NO_CAST_DEVICES_FOUND": "No cast devices found",
 	"PLAYER_SWITCH_TO": "Switch to %s",
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 	"PLAYER_LIVE": "لائیو",
