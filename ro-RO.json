@@ -1865,6 +1865,7 @@
 	"WEBSITE_ACCEPT": "Accept",
 	"WEBSITE_REFUSE": "Nu, refuz",
 	"WEBSITE_GET_DATA_EXPORT": "Obține Exportul Datelor",
+	"WEBSITE_DATA_EXPORT_DESCRIPTION": "Export a copy of the personal data associated with your Stremio account.",
 	"WEBSITE_FACEBOOK": "Facebook",
 	"WEBSITE_SUPPORTER_PLAN": "Planul de Susținător",
 	"WEBSITE_DELETE_ALL": "Șterge Tot",

@@ -1865,6 +1865,7 @@
 	"WEBSITE_ACCEPT": "Accept",
 	"WEBSITE_REFUSE": "No, I refuse",
 	"WEBSITE_GET_DATA_EXPORT": "Get Data Export",
+	"WEBSITE_DATA_EXPORT_DESCRIPTION": "Export a copy of the personal data associated with your Stremio account.",
 	"WEBSITE_FACEBOOK": "Facebook",
 	"WEBSITE_SUPPORTER_PLAN": "Supporter Plan",
 	"WEBSITE_DELETE_ALL": "Delete All",

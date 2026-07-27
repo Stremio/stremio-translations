@@ -1865,6 +1865,7 @@
 	"WEBSITE_ACCEPT": "Αποδοχή",
 	"WEBSITE_REFUSE": "Όχι, αρνούμαι",
 	"WEBSITE_GET_DATA_EXPORT": "Λήψη εξαγωγής δεδομένων",
+	"WEBSITE_DATA_EXPORT_DESCRIPTION": "Export a copy of the personal data associated with your Stremio account.",
 	"WEBSITE_FACEBOOK": "Facebook",
 	"WEBSITE_SUPPORTER_PLAN": "Πλάνο Supporter",
 	"WEBSITE_DELETE_ALL": "Διαγραφή όλων",
