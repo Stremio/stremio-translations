@@ -197,6 +197,8 @@
 	"PLAYER_COPY_SUBTITLE_URL_ERROR": "Αποτυχία αντιγραφής της διεύθυνσης URL των υπότιτλων",
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "Το αναγνωριστικό των υπότιτλων αντιγράφηκε στο πρόχειρό σας",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "Αποτυχία αντιγραφής του αναγνωριστικού των υπότιτλων",
+	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 	"PLAYER_SKIP_INTRO": "Skip Intro",
 	"PLAYER_SKIP_OUTRO": "Skip Outro",
 	"PLAYER_STATISTICS": "Στατιστικά",

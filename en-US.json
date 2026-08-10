@@ -198,6 +198,8 @@
 	"PLAYER_COPY_SUBTITLE_URL_ERROR": "Failed to copy subtitle URL",
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "Subtitle ID was copied to your clipboard",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "Failed to copy subtitle ID",
+	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 
 	"PLAYER_SKIP_INTRO": "Skip Intro",
 	"PLAYER_SKIP_OUTRO": "Skip Outro",

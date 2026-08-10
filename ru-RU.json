@@ -197,6 +197,8 @@
 	"PLAYER_COPY_SUBTITLE_URL_ERROR": "Не удалось скопировать URL-адрес субтитров",
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "ID субтитров скопирован в буфер обмена",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "Не удалось скопировать ID субтитров",
+	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 	"PLAYER_SKIP_INTRO": "Skip Intro",
 	"PLAYER_SKIP_OUTRO": "Skip Outro",
 	"PLAYER_STATISTICS": "Статистика",

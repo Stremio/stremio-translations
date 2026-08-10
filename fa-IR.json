@@ -197,6 +197,8 @@
 	"PLAYER_COPY_SUBTITLE_URL_ERROR": "کپی URL زیرنویس ناموفق بود",
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "ID زیرنویس در کلیپ بورد شما کپی شد",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "کپی ID زیرنویس ناموفق بود",
+	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 	"PLAYER_SKIP_INTRO": "Skip Intro",
 	"PLAYER_SKIP_OUTRO": "Skip Outro",
 	"PLAYER_STATISTICS": "آمار",
