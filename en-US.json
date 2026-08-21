@@ -38,6 +38,7 @@
 	"STORAGE_FULL_TEXT": "Stremio will not be able to save your settings, preferences or login information. Consider re-starting or re-installing Stremio.",
 	"STORAGE": "Storage",
 	"STORAGE_MANAGE": "Storage usage",
+	"MANAGE": "Manage",
 	"STORAGE_CALCULATING": "Calculating…",
 	"STORAGE_DOWNLOAD_CACHE": "Download cache",
 	"STORAGE_DOWNLOAD_CACHE_DESCRIPTION": "Partial background downloads",
