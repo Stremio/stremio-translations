@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "המשך לצפות",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "סרטים נבחרים במיוחד בשבילך.<br />הסרט הזה הוא דוגמא להמלצה.",
 	"BOARD_EXPLANATION_EPISODES": "פרקים חדשים של הסדרות האהובות עליך יופיעו כאן.<br />הוסף סדרות שאתה עוקב אחריהן לספריה שלך.",
 	"BOARD_EXPLANATION_VIDEOS": "פרקים חדשים של הערוצים האהובים עליך יופיעו כאן.<br />הוסף ערוצי YouTube שאתה עוקב אחריהן לספריה שלך.",

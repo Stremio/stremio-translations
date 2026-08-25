@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Продължи да гледаш",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Продължи да гледаш не е заредено!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Празно Продължи да гледаш",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Филми, подбрани според предпочитанията.<br />Този филм е примерна препоръка.",
 	"BOARD_EXPLANATION_EPISODES": "Тук се показват нови епизоди от следените сериали.<br />Добавете сериал към библиотеката.",
 	"BOARD_EXPLANATION_VIDEOS": "Тук се показват нови видеа от следените канали.<br />Добавете YouTube канал към библиотеката.",

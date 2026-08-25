@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "به تماشای ادامه دهید",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "ادامه تماشا بارگذاری نشد!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "ادامه تماشا خالی است",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "فیلم هایی که به طور خاص برای شما انتخاب شده اند.<br />این فیلم یک نمونه توصیه است.",
 	"BOARD_EXPLANATION_EPISODES": "قسمت‌های جدید سریال‌های مورد علاقه‌تان به اینجا می‌آیند.<br />سریالی را که دنبال می‌کنید به کتابخانه خود اضافه کنید.",
 	"BOARD_EXPLANATION_VIDEOS": "قسمت‌های جدید کانال‌های مورد علاقه‌تان اینجا می‌آیند.<br />کانال‌های YouTube را که دنبال می‌کنید به کتابخانه خود اضافه کنید.",

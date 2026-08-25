@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Fortsätt titta",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmer utvalda speciellt för dig.<br />Denna film är en exempelrekommendation.",
 	"BOARD_EXPLANATION_EPISODES": "Nya avsnitt av din favoritserie kommer här.<br />Lägg till serier du följer i ditt bibliotek.",
 	"BOARD_EXPLANATION_VIDEOS": "Nya avsnitt av dina favoritkanaler kommer här.<br />Lägg till YouTube-kanaler du följer i ditt bibliotek.",

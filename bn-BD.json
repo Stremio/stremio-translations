@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "দেখা চালিয়ে যান",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "দেখা অব্যাহত রাখা সম্ভব হচ্ছে না!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "দেখা অব্যাহত রাখুন খালি",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "বিশেষভাবে আপনার জন্য নির্বাচিত চলচ্চিত্র।<br />এই চলচ্চিত্রটি একটি নমুনা সুপারিশ।",
 	"BOARD_EXPLANATION_EPISODES": "আপনার প্রিয় সিরিজের নতুন পর্বগুলি এখানে আসে।<br />আপনি যে সিরিজগুলি অনুসরণ করেন সেগুলি আপনার লাইব্রেরিতে যোগ করুন।",
 	"BOARD_EXPLANATION_VIDEOS": "আপনার প্রিয় চ্যানেলগুলির নতুন ভিডিও এখানে আসে।<br />আপনি যে YouTube চ্যানেলগুলি অনুসরণ করেন সেগুলি আপনার লাইব্রেরিতে যোগ করুন।",

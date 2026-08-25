@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Tęsti žiūrėjimą",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Tęsti žiūrėjimą neįsikelia!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Tuščia Tęsti žiūrėjimą",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmai, parinkti specialiai jums.<br />Šis filmas - rekomendacijos pavyzdys.",
 	"BOARD_EXPLANATION_EPISODES": "Čia atsiranda naujos mėgstamų serialų serijos.<br />Pridėkite sekamus serialus į savo biblioteką.",
 	"BOARD_EXPLANATION_VIDEOS": "Čia atsiranda nauji mėgstamų kanalų vaizdo įrašai.<br />Pridėkite sekamus YouTube kanalus į biblioteką.",

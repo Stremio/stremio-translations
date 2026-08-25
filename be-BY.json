@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Працягнуць прагляд",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Раздзел 'Працягнуць прагляд' не загружаны!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Раздзел 'Працягнуць прагляд' пусты",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Фільмы, падабраныя спецыяльна для вас.<br />Гэты фільм — прыклад рэкамендацыі.",
 	"BOARD_EXPLANATION_EPISODES": "Тут з'яўляюцца новыя эпізоды вашых любімых серыялаў.<br />Дадайце серыялы, за якімі вы сочыце, у Бібліятэку.",
 	"BOARD_EXPLANATION_VIDEOS": "Тут з'яўляюцца новыя відэа вашых любімых каналаў.<br />Дадайце YouTube-каналы, за якімі вы сочыце, у Бібліятэку.",

@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "继续观看",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "专门为您挑选的电影。<br />这部电影是一个推荐样例。",
 	"BOARD_EXPLANATION_EPISODES": "这里是您最喜爱的剧集的新一集。<br />将您关注的剧集添加到库中。",
 	"BOARD_EXPLANATION_VIDEOS": "这里是您最喜爱的频道的新一集。<br />将您关注的YouTube频道添加到库中。",

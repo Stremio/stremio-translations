@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Megtekintés folytatása",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Kifejezetten az Ön számára kiválasztott filmek.<br />Ez a film egy mintaajánlás.",
 	"BOARD_EXPLANATION_EPISODES": "Ide érkeznek kedvenc sorozatod új epizódjai.<br />Add hozzá a követett sorozatokat a könyvtáradhoz.",
 	"BOARD_EXPLANATION_VIDEOS": "Ide érkeznek kedvenc csatornáid új epizódjai.<br />Add hozzá a követett YouTube-csatornákat a könyvtáradhoz.",

@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Jätka vaatamist",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmid, mis on valitud spetsiaalselt sinu jaoks.<br />See film on soovitusnäide.",
 	"BOARD_EXPLANATION_EPISODES": "Sinu lemmikseriaalide uued osad ilmuvad siia.<br />Lisa jälgitavad seriaalid oma raamatukokku.",
 	"BOARD_EXPLANATION_VIDEOS": "Sinu lemmikkanalite uued videod ilmuvad siia.<br />Lisa jälgitavad YouTube'i kanalid oma raamatukokku.",
