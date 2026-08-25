@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "İzlemeye devam edin",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "İzlemeye Devam Edin yüklenemedi!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "İzlemeye Devam Edin Boş",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmler sizin için özel olarak seçildi.<br />Bu film örnek bir öneridir.",
 	"BOARD_EXPLANATION_EPISODES": "En sevdiğiniz Dizilerin yeni bölümleri buraya gelir.<br />Takip ettiğiniz dizileri Kitaplığınıza ekleyin.",
 	"BOARD_EXPLANATION_VIDEOS": "En sevdiğiniz Kanalların yeni bölümleri buraya gelir.<br />Takip ettiğiniz YouTube kanallarını Kitaplığınıza ekleyin.",

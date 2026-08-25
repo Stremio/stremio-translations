@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "متابعة المشاهدة",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "قسم المتابعة لم يتم تحميله!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "قسم المتابعة فارغ",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "أفلام منتقاة خصيصًا لك. <br /> هذا الفيلم هو نموذج توصية.",
 	"BOARD_EXPLANATION_EPISODES": "تأتي هنا حلقات جديدة من مسلسلاتك المفضلة. <br /> أضف المسلسلات التي تتابعها إلى مكتبتك.",
 	"BOARD_EXPLANATION_VIDEOS": "تأتي هنا حلقات جديدة من قنواتك المفضلة. <br /> أضف قنوات YouTube التي تتابعها إلى مكتبتك.",

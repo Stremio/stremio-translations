@@ -182,7 +182,6 @@
 	"PLAYER_NO_CAST_DEVICES_FOUND": "Устройства для трансляции не найдены",
 	"PLAYER_SWITCH_TO": "Переключить на %s",
 	"PLAYER_CLOCK_ENDS_AT": "Закончить в %s",
-	
 	"PLAYER_LIVE": "Прямой эфир",
 	"PLAYER_NEXT_VIDEO_TITLE": "Смотрите далее",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Далее в",
@@ -199,7 +198,7 @@
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "ID субтитров скопирован в буфер обмена",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "Не удалось скопировать ID субтитров",
 	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
-	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",	
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 	"PLAYER_SKIP_INTRO": "Пропустить вступление",
 	"PLAYER_SKIP_OUTRO": "Пропустить концовку",
 	"PLAYER_STATISTICS": "Статистика",
@@ -212,9 +211,7 @@
 	"PLAYER_SCALE_STRETCH": "Растянуть",
 	"PLAYER_SCALE_ORIGINAL": "Оригинал",
 	"VIDEO_SCALE": "Масштаб видео:",
-	
 	"PLAYER_EXTERNAL_MESSAGE": "Чтобы воспроизведение в стороннем плеере не прерывалось, сервер должен работать в фоновом режиме.",
-	
 	"STREAMING_FROM": "Стрим от",
 	"CASTING_TO": "Стим для",
 	"NETWORK_STATUS": "Состояние сети",
@@ -706,7 +703,6 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Уведомление о сетевом подключении",
 	"SETTINGS_ANALYTICS": "Разрешить аналитику",
 	"SETTINGS_APPEARENCE": "Внешний вид",
-	
 	"SETTINGS_REMOTE_URL": "URL удаленного управления",
 	"SETTINGS_COPY_REMOTE_URL": "Копировать URL удаленного управления",
 	"SETTINGS_REMOTE_URL_COPIED": "URL удаленного управления скопирован",
@@ -734,10 +730,8 @@
 	"SETTINGS_STREAM_PRESETS_EMPTY": "Нет пресетов",
 	"SETTINGS_STREAM_PRESETS_CANCEL": "Отменить",
 	"SETTINGS_STREAM_PRESETS_DELETE": "Удалить пресет",
-	
 	"RESTART_REQUIRED": "Требуется перезагрузка",
 	"RESTART_REQUIRED_MESSAGE": "Stremio нужно перезагрузить, чтобы этот параметр вступил в силу.",
-	
 	"SUBSPICKER_AUDIO": "Аудио",
 	"SUBSPICKER_SUBTITLES": "Субтитры дополнений",
 	"SUBSPICKER_BLACK_BACKGROUND": "Использовать чёрный цвет фона",
@@ -1010,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Продолжить просмотр",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Раздел 'Продолжить просмотр' не загружен!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Раздел 'Продолжить просмотр' пуст",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Фильмы, подобранные специально для вас.<br />Этот фильм — пример рекомендации.",
 	"BOARD_EXPLANATION_EPISODES": "Здесь появляются новые эпизоды ваших любимых сериалов.<br />Добавьте сериалы, за которыми следите, в библиотеку.",
 	"BOARD_EXPLANATION_VIDEOS": "Здесь появляются новые видео ваших любимых каналов.<br />Добавьте YouTube-каналы, за которыми следите, в библиотеку.",
@@ -1842,7 +1837,6 @@
 	"DOWNLOADER_REMOVE": "Remove",
 	"STREAMING_SERVER_NOT_READY": "Streaming server is not ready",
 	"STREAMING_SERVER_NEEDED": "Streaming server is needed",
-	
 	"WEBSITE_PLAN_MONTHLY": "Monthly (${price}/month)",
 	"WEBSITE_PLAN_YEARLY": "Yearly (${price}/year)",
 	"WEBSITE_PLAN_LIFETIME": "Lifetime (${price} one-time)",
@@ -1851,7 +1845,6 @@
 	"WEBSITE_UPGRADE": "Upgrade",
 	"WEBSITE_LOGIN_TO_SWITCH": "Please log in to switch plans",
 	"WEBSITE_SWITCH_PLAN_FAILED": "Failed to switch plan",
-	
 	"WEBSITE_PAYMENT_SUCCESS_SUPPORTER": "Payment successful! Your supporter subscription is now active.",
 	"WEBSITE_PAYMENT_SUCCESS": "Payment successful! Your subscription is now active.",
 	"WEBSITE_PAYMENT_FAILED": "Payment failed",
@@ -1988,7 +1981,6 @@
 	"WEBSITE_ACCEPT_TERMS_CONDITIONS": "I accept the <link>Terms & Conditions</link>",
 	"WEBSITE_ACCEPT_PRIVACY_POLICY": "I accept the <link>Privacy Policy</link>",
 	"WEBSITE_ACCEPT_MARKETING_COMMUNICATIONS": "I accept to <link>receive marketing communications from Stremio</link>",
-	
 	"WELCOME_SUPPORTERS_TITLE": "Welcome to Supporters",
 	"WELCOME_SUPPORTERS_BODY": "Thanks for backing Stremio. You've unlocked a richer, more personal way to watch — let's get you set up.",
 	"WELCOME_APPEARANCE_TITLE": "Make it yours",

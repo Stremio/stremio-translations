@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "தொடர்ந்து பார்க்கவும்",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "தொடர்ந்து பார்க்க ஏற்றப்படவில்லை!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "வெற்று தொடர் பார்வை",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "உங்களுக்காக சிறப்பாகத் தேர்ந்தெடுக்கப்பட்ட திரைப்படங்கள்.<br />இந்த திரைப்படம் ஒரு மாதிரி பரிந்துரை.",
 	"BOARD_EXPLANATION_EPISODES": "உங்களுக்குப் பிடித்த தொடர்களின் புதிய அத்தியாயங்கள் இங்கே வரும்.<br />நீங்கள் பின்தொடரும் தொடர்களை உங்கள் நூலகத்தில் சேர்க்கவும்.",
 	"BOARD_EXPLANATION_VIDEOS": "உங்களுக்குப் பிடித்த சேனல்களின் புதிய அத்தியாயங்கள் இங்கே வரும்.<br />நீங்கள் பின்தொடரும் YouTube சேனல்களை உங்கள் நூலகத்தில் சேர்க்கவும்.",

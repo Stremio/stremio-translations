@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Nastavi gledati",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Popis 'Nastavi gledati' nije učitan!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Popis 'Nastavi gledati' je prazan",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Filmovi odabrani posebno za vas.<br />Ovaj film je primjer preporuke.",
 	"BOARD_EXPLANATION_EPISODES": "Ovdje dolaze nove epizode vaših omiljenih serija.<br />Dodajte serije koje pratite u svoju knjižnicu.",
 	"BOARD_EXPLANATION_VIDEOS": "Ovdje dolaze novi videozapisi vaših omiljenih kanala.<br />Dodajte YouTube kanale koje pratite u svoju knjižnicu.",

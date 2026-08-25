@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "이어 보기",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "특별히 선택한 영화입니다.<br /> 이 동영상은 권장 샘플입니다.",
 	"BOARD_EXPLANATION_EPISODES": "좋아하는 시리즈의 새로운 에피소드가 여기에 표시됩니다.<br /> 팔로우한 시리즈를 라이브러리에 추가합니다.",
 	"BOARD_EXPLANATION_VIDEOS": "좋아하는 채널의 새로운 에피소드가 여기에 표시됩니다.<br /> 라이브러리에 팔로우할 유튜브 채널을 추가합니다.",

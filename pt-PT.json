@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Continuar a ver",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Não foi possível carregar Continuar a ver!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Continuar a ver está vazio",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Os filmes escolhidos especialmente para ti.<br />Este filme é uma amostra de recomendação.",
 	"BOARD_EXPLANATION_EPISODES": "Os novos episódios das tuas séries favoritas aparecem aqui.<br />Adiciona as séries que segues à tua biblioteca.",
 	"BOARD_EXPLANATION_VIDEOS": "Os novos episódios dos teus canais favoritos aparecem aqui.<br />Adiciona os canais do YouTube que segues à tua biblioteca.",

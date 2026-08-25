@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "देखना जारी रखें",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "फिल्में आपके लिए विशेष रूप से चुने गए। <br /> यह फिल्म नमूना सिफारिश है।",
 	"BOARD_EXPLANATION_EPISODES": "आपकी पसंदीदा श्रृंखला के नए एपिसोड यहां आते हैं। <br /> श्रृंखला जोड़ें आप अपनी लाइब्रेरी में अनुसरण करते हैं।",
 	"BOARD_EXPLANATION_VIDEOS": "आपके पसंदीदा चैनलों के नए एपिसोड यहां आते हैं। <br /> YouTube चैनल जोड़ें जो आप अपनी लाइब्रेरी में अनुसरण करते हैं।",

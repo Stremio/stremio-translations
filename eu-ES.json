@@ -1004,6 +1004,7 @@
 	"BOARD_CONTINUE_WATCHING": "Jarraitu ikusten",
 	"BOARD_CONTINUE_WATCHING_NOT_LOADED": "Continue Watching not loaded!",
 	"BOARD_CONTINUE_WATCHING_EMPTY": "Empty Continue Watching",
+	"BOARD_CONTINUE_WATCHING_LIVE": "Live TV continue watching",
 	"BOARD_EXPLANATION_RECOMMENDATIONS": "Zuretzat bereziki aukeratutako filmak. <br /> Film hau gomendio lagin bat da.",
 	"BOARD_EXPLANATION_EPISODES": "Zure telesail gogokoen atal berriak datoz hona. <br /> Gehitu jarraitzen dituzun serieak liburutegian.",
 	"BOARD_EXPLANATION_VIDEOS": "Zure kanal gogokoen atal berriak etorriko dira. <br /> Gehitu jarraitzen dituzun YouTube kanalak Liburutegian.",
