@@ -214,6 +214,8 @@
 	"PLAYER_COPY_SUBTITLE_URL_ERROR": "Copierea URL-ului subtitrărilor a eșuat",
 	"PLAYER_COPY_SUBTITLE_ID_SUCCESS": "ID-ul subtitrărilor a fost copiat în clipboard",
 	"PLAYER_COPY_SUBTITLE_ID_ERROR": "Copierea ID-ul subtitrărilor a eșuat",
+	"PLAYER_COPY_INFO_HASH_SUCCESS": "Info hash was copied to your clipboard",
+	"PLAYER_COPY_INFO_HASH_ERROR": "Failed to copy info hash",
 	"PLAYER_SKIP_INTRO": "Skip Intro",
 	"PLAYER_SKIP_OUTRO": "Skip Outro",
 	"PLAYER_STATISTICS": "Statistici",
