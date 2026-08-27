@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Volgende video",
 	"PLAYER_MUTE": "Dempen",
 	"PLAYER_UNMUTE": "Dempen uitschakelen",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Openen in externe speler",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Afspelen op {{device}}",

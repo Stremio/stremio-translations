@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Järgmine video",
 	"PLAYER_MUTE": "Vaigista",
 	"PLAYER_UNMUTE": "Tühista vaigistus",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Ava välises esitajas",
 	"PLAYER_OPEN_IN_NPLAYER": "Ava nPlayeris",
 	"PLAYER_PLAY_IN": "Esita seadmes {{device}}",

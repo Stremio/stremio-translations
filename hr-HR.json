@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Sljedeći videozapis",
 	"PLAYER_MUTE": "Utišaj",
 	"PLAYER_UNMUTE": "Uključi zvuk",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Otvori u vanjskom playeru",
 	"PLAYER_OPEN_IN_NPLAYER": "Otvori u nPlayeru",
 	"PLAYER_PLAY_IN": "Reproduciraj na: {{device}}",

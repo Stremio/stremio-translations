@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Seuraava video",
 	"PLAYER_MUTE": "Mykistä",
 	"PLAYER_UNMUTE": "Poista mykistys",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Avaa ulkoisessa soittimessa",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Toista laitteessa {{device}}",

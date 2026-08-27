@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Video Berikutnya",
 	"PLAYER_MUTE": "Bisukan",
 	"PLAYER_UNMUTE": "Bunyikan",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Buka di pemutar eksternal",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Putar di {{device}}",

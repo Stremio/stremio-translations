@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Sonraki Görüntü",
 	"PLAYER_MUTE": "Sesi Kapat",
 	"PLAYER_UNMUTE": "Sesi Aç",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Harici oynatıcıda aç",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer'da aç",
 	"PLAYER_PLAY_IN": "{{device}} içinde oynat",

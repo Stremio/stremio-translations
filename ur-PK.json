@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "اگلا ویڈیو",
 	"PLAYER_MUTE": "آواز بند کریں",
 	"PLAYER_UNMUTE": "آواز چالو کریں",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "بیرونی پلیئر میں کھولیں",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer میں کھولیں",
 	"PLAYER_PLAY_IN": "{{device}} میں چلائیں",

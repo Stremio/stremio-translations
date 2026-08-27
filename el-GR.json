@@ -176,6 +176,8 @@
 	"PLAYER_NEXT_VIDEO": "Επόμενο βίντεο",
 	"PLAYER_MUTE": "Σίγαση",
 	"PLAYER_UNMUTE": "Κατάργηση σίγασης",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Άνοιγμα σε εξωτερικό πρόγραμμα αναπαραγωγής",
 	"PLAYER_OPEN_IN_NPLAYER": "Άνοιγμα στον nPlayer",
 	"PLAYER_PLAY_IN": "Αναπαραγωγή στο {{device}}",
