@@ -1812,6 +1812,8 @@
 	"USER_PROFILES_DELETE_CONFIRMATION": "Weet je zeker dat je dit profiel wilt verwijderen?",
 	"USER_PROFILES_PROFILE_NAME": "Profielnaam",
 	"USER_PROFILES_SELECT_AVATAR": "Selecteer profielavatar",
+	"USER_PROFILES_SELECT_GRAVATAR": "Select a Gravatar",
+	"USER_PROFILES_GRAVATAR_NOT_FOUND": "No Gravatar found for this email address",
 	"USER_PROFILES_NAME": "Naam",
 	"USER_PROFILES_AVATAR": "Avatar",
 	"USER_PROFILES_CLONE_ADDONS": "Add-ons klonen",
