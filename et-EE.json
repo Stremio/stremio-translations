@@ -1924,6 +1924,7 @@
 	"WEBSITE_CHOOSE_PLATFORM": "Vali platvorm",
 	"WEBSITE_CURRENT_VERSION": "Vali versioon",
 	"WEBSITE_CURRENT_BETA_VERSION": "Praegune beeta versioon",
+	"WEBSITE_NATIVE_VERSION": "Native version",
 	"WEBSITE_LIMITED_VERSION": "Piiratud versioon",
 	"WEBSITE_FOR_ARM_PROCESSORS": "ARM protsessorite jaoks",
 	"WEBSITE_FOR_ARM_INTEL_PROCESSORS": "For ARM & Intel processors",

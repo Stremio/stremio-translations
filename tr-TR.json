@@ -1924,6 +1924,7 @@
 	"WEBSITE_CHOOSE_PLATFORM": "Bir platform seçin",
 	"WEBSITE_CURRENT_VERSION": "Şu anki sürüm",
 	"WEBSITE_CURRENT_BETA_VERSION": "Şu anki beta sürümü",
+	"WEBSITE_NATIVE_VERSION": "Native version",
 	"WEBSITE_LIMITED_VERSION": "Sınırlı sürüm",
 	"WEBSITE_FOR_ARM_PROCESSORS": "ARM işlemciler için",
 	"WEBSITE_FOR_ARM_INTEL_PROCESSORS": "ARM ve Intel işlemciler için",
