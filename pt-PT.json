@@ -1812,6 +1812,8 @@
 	"USER_PROFILES_DELETE_CONFIRMATION": "Tens a certeza de que queres eliminar este perfil?",
 	"USER_PROFILES_PROFILE_NAME": "Nome do perfil",
 	"USER_PROFILES_SELECT_AVATAR": "Selecionar avatar do perfil",
+	"USER_PROFILES_SELECT_GRAVATAR": "Select a Gravatar",
+	"USER_PROFILES_GRAVATAR_NOT_FOUND": "No Gravatar found for this email address",
 	"USER_PROFILES_NAME": "Nome",
 	"USER_PROFILES_AVATAR": "Avatar",
 	"USER_PROFILES_CLONE_ADDONS": "Duplicar addons",

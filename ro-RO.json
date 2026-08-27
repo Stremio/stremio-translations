@@ -1812,6 +1812,8 @@
 	"USER_PROFILES_DELETE_CONFIRMATION": "Sunteți sigur că doriți să ștergeți acest profil?",
 	"USER_PROFILES_PROFILE_NAME": "Nume profil",
 	"USER_PROFILES_SELECT_AVATAR": "Alege avatarul profilului",
+	"USER_PROFILES_SELECT_GRAVATAR": "Select a Gravatar",
+	"USER_PROFILES_GRAVATAR_NOT_FOUND": "No Gravatar found for this email address",
 	"USER_PROFILES_NAME": "Nume",
 	"USER_PROFILES_AVATAR": "Avatar",
 	"USER_PROFILES_CLONE_ADDONS": "Duplicare extensii",
