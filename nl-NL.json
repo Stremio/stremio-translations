@@ -1924,6 +1924,7 @@
 	"WEBSITE_CHOOSE_PLATFORM": "Kies een platform",
 	"WEBSITE_CURRENT_VERSION": "Huidige versie",
 	"WEBSITE_CURRENT_BETA_VERSION": "Huidige bètaversie",
+	"WEBSITE_NATIVE_VERSION": "Native version",
 	"WEBSITE_LIMITED_VERSION": "Beperkte versie",
 	"WEBSITE_FOR_ARM_PROCESSORS": "Voor ARM-processors",
 	"WEBSITE_FOR_ARM_INTEL_PROCESSORS": "Voor ARM- en Intel-processors",
