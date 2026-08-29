@@ -77,11 +77,15 @@ function writeStrings() {
         const value = escape(dedup[key]);
         stringClass += `  override val ${key} = "${value}"\n`;
       });
-      stringClass += '  override val entries = mapOf(\n';
+
+      stringClass += '  override val entries get() = ENTRIES\n'
+      stringClass += '  companion object {\n';
+      stringClass += '    private val ENTRIES = mapOf(\n';
       Object.entries(filtered).forEach(([key, value]) => {
-        stringClass += `    Pair("${key}", "${escape(value)}"),\n`;
+        stringClass += `      Pair("${key}", "${escape(value)}"),\n`;
       });
-      stringClass += '  )\n';
+      stringClass += '    )\n';
+      stringClass += '  }\n';
       stringClass += '}\n\n';
       stringClass += `@LyricistStrings(languageTag = Locales.${toLocaleName(file)}, default = ${langClassName === 'EnUSStrings' ? 'true' : 'false'})\n`;
       stringClass += `val ${langClassName} = ${langClassName}Class()`;
