@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "Ondertiteltiming controleren…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "{{matchedCount}} bruikbare varianten voor automatisch synchroniseren gevonden. {{offsetCount}} bevatten een timingcorrectie.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Geen bruikbare varianten voor automatisch synchroniseren gevonden voor deze video.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "Automatisch synchroniseren is momenteel niet beschikbaar.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Beste automatische synchronisatie voor deze video.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "Automatisch synchroniseren past een timingcorrectie van {{offset}} toe wanneer geselecteerd.",

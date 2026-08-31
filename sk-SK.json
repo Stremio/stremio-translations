@@ -183,6 +183,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_WORKING": "Automatická synchronizácia…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "Kontroluje sa časovanie titulkov…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "Našlo sa {{matchedCount}} použiteľných variantov. {{offsetCount}} z nich obsahuje úpravu časovania.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Pre toto video sa nenašli žiadne použiteľné varianty.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "Automatická synchronizácia momentálne nie je dostupná.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Najlepšia zhoda automatickej synchronizácie pre toto video.",
