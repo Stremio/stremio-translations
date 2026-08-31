@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "সাবটাইটেলের সময় পরীক্ষা করা হচ্ছে…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "{{matchedCount}}টি ব্যবহারযোগ্য স্বয়ংক্রিয় সমন্বয়সাধন ভ্যারিয়েন্ট পাওয়া গেছে। {{offsetCount}}টিতে সময় সংশোধন রয়েছে।",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "এই ভিডিওর জন্য কোনো ব্যবহারযোগ্য স্বয়ংক্রিয় সমন্বয়সাধন ভ্যারিয়েন্ট পাওয়া যায়নি।",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "স্বয়ংক্রিয় সমন্বয়সাধন এই মুহূর্তে উপলব্ধ নয়।",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "এই ভিডিওর জন্য সেরা স্বয়ংক্রিয় সমন্বয়সাধন মিল।",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "নির্বাচন করলে স্বয়ংক্রিয় সমন্বয়সাধন {{offset}} সময় সংশোধন প্রয়োগ করবে।",
