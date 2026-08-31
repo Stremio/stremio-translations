@@ -731,7 +731,7 @@
 	"SETTINGS_SECTION_ADVANCED": "উন্নত",
 	"SETTINGS_SECTION_STREAM_PRESETS": "স্ট্রিম ফিল্টার প্রিসেট",
 	"SETTINGS_FILTER_STREAMS": "স্ট্রিম ফিল্টার করুন",
-	"SETTINGS_FILTER": "ফিল্টার"
+	"SETTINGS_FILTER": "ফিল্টার",
 	"SETTINGS_STREAM_PRESETS_DESCRIPTION": "আপনি আপনার স্ট্রিমের জন্য একাধিক ফিল্টার প্রিসেট যোগ করে এই ডিভাইসের জন্য একটি সক্রিয় করতে পারেন। প্রতিটি ডিভাইসের জন্য আলাদা প্রিসেট সক্রিয় করা যায়।",
 	"SETTINGS_STREAM_PRESETS_CREATE": "নতুন প্রিসেট তৈরি করুন",
 	"SETTINGS_STREAM_PRESETS_CREATE_SHORT": "তৈরি করুন",
