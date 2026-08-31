@@ -194,6 +194,8 @@
 	"PLAYER_NEXT_VIDEO": "Következő Videó",
 	"PLAYER_MUTE": "Némítás",
 	"PLAYER_UNMUTE": "Némítás feloldása",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Megnyitás külső lejátszóban",
 	"PLAYER_OPEN_IN_NPLAYER": "Open in nPlayer",
 	"PLAYER_PLAY_IN": "Lejátszás ezzel: {{device}}",
