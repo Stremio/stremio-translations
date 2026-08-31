@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "A verificar a sincronização das legendas…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "Foram encontradas {{matchedCount}} variantes compatíveis com a sincronização automática. {{offsetCount}} incluem um ajuste de sincronização.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Não foram encontradas variantes compatíveis com a sincronização automática para este vídeo.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "A sincronização automática não está disponível neste momento.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Melhor correspondência da sincronização automática para este vídeo.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "A sincronização automática aplica um ajuste de {{offset}} quando selecionada.",

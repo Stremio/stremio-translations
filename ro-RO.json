@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "Checking subtitle timing…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "{{matchedCount}} variante de sincronizare automată găsite. {{offsetCount}} includ o ajustare de timp.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Nicio variantă de sincronizare automată găsită pentru acest video.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "Sincronizarea automată nu este disponibilă acum.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Cea mai bună potrivire de sincronizare automată pentru acest video.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "Sincronizarea automată aplică o {{offset}} ajustare de timp când este selectată.",
