@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "Έλεγχος χρονισμού υποτίτλων…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "Βρέθηκαν {{matchedCount}} χρήσιμες παραλλαγές αυτόματου συγχρονισμού. {{offsetCount}} περιλαμβάνουν προσαρμογή χρονισμού.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Δεν βρέθηκαν χρήσιμες παραλλαγές αυτόματου συγχρονισμού για αυτό το βίντεο.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "Ο αυτόματος συγχρονισμός δεν είναι διαθέσιμος αυτή τη στιγμή.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Η καλύτερη αντιστοίχιση αυτόματου συγχρονισμού για αυτό το βίντεο.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "Ο αυτόματος συγχρονισμός εφαρμόζει προσαρμογή χρονισμού {{offset}} όταν επιλεγεί.",

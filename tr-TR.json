@@ -184,6 +184,7 @@
 	"PLAYER_SUBTITLES_AUTO_SYNC_ANALYZING": "Altyazı zamanlaması denetleniyor…",
 	"PLAYER_SUBTITLES_AUTO_SYNC_READY": "{{matchedCount}} kullanılabilir Otomatik Eşitleme çeşidi bulundu. {{offsetCount}} bir zamanlama ayarlaması içeriyor.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_INSUFFICIENT": "Bu görüntü için kullanılabilir Otomatik Eşitleme çeşidi bulunamadı.",
+	"PLAYER_SUBTITLES_AUTO_SYNC_OTHER_LANGUAGES": "No usable Auto Sync variants were found for {{language}}. Usable matches in other languages: {{matchedCount}}.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_ERROR": "Otomatik Eşitleme şu anda kullanılamıyor.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_WINNER_TOOLTIP": "Bu görüntü için en iyi Otomatik Eşitleme eşleşmesi.",
 	"PLAYER_SUBTITLES_AUTO_SYNC_OFFSET_TOOLTIP": "Seçildiğinde Otomatik Eşitleme bir {{offset}} zamanlama ayarı uygular.",
