@@ -722,6 +722,7 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Netzwerkverbindungsbenachrichtigung",
 	"SETTINGS_ANALYTICS": "Analyse erlauben",
 	"SETTINGS_APPEARENCE": "Erscheinungsbild",
+	"SETTINGS_CONTENT": "Content",
 	"SETTINGS_REMOTE_URL": "Remote-URL",
 	"SETTINGS_COPY_REMOTE_URL": "Remote-URL kopieren",
 	"SETTINGS_REMOTE_URL_COPIED": "Remote-URL wurde in die Zwischenablage kopiert",

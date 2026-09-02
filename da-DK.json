@@ -722,6 +722,7 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notifikation om netværksforbindelse",
 	"SETTINGS_ANALYTICS": "Tillad analyser",
 	"SETTINGS_APPEARENCE": "Udseende",
+	"SETTINGS_CONTENT": "Content",
 	"SETTINGS_REMOTE_URL": "Fjern URL",
 	"SETTINGS_COPY_REMOTE_URL": "Kopier fjern URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Fjern URL er blevet kopieret til dit udklipsholder",
