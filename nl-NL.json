@@ -722,6 +722,7 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Netwerkverbindingsmelding",
 	"SETTINGS_ANALYTICS": "Statistieken toestaan",
 	"SETTINGS_APPEARENCE": "Uiterlijk",
+	"SETTINGS_CONTENT": "Content",
 	"SETTINGS_REMOTE_URL": "Externe URL",
 	"SETTINGS_COPY_REMOTE_URL": "Kopieer externe URL",
 	"SETTINGS_REMOTE_URL_COPIED": "Externe URL is gekopieerd naar je klembord",

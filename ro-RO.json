@@ -722,6 +722,7 @@
 	"SETTINGS_NETWORK_CONNECTION_NOTIFICATION": "Notificare conexiune rețea",
 	"SETTINGS_ANALYTICS": "Permite analitice",
 	"SETTINGS_APPEARENCE": "Aparență",
+	"SETTINGS_CONTENT": "Content",
 	"SETTINGS_REMOTE_URL": "URL la distanță",
 	"SETTINGS_COPY_REMOTE_URL": "Copiază URL la distanță",
 	"SETTINGS_REMOTE_URL_COPIED": "URL la distanță a fost copiat în clipboard",
