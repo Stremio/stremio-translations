@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Προέκυψε σφάλμα",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Διαμορφώστε το URL του διακομιστή αναπαραγωγής",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Εισαγωγή ενός URL διακομιστή αναπαραγωγής",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Μέγεθος επιτρεπόμενης μνήμης cache",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Προφίλ torrent",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Εκτέλεση στο παρασκήνιο",

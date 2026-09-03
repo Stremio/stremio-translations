@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Fehler",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Streaming-Server-URL konfigurieren",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Geben Sie eine Streaming-Server-URL ein",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Zwischenspeicher-Größe",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent-Profil",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Im Hintergrund ausführen",

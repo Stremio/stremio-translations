@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Klaida",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Konfigūruoti transliavimo serverio URL nuorodą",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Įveskite transliavimo serverio URL nuorodą",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Talpyklos (Cache) dydis",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torentų profilis",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",

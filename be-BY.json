@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Памылка",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Наладзіць URL сервера струменевай перадачы",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Увядзіце URL сервера струменевай перадачы",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Памер кэшу",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торэнт-профіль",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",

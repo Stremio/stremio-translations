@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Fout",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Configureer streamingserver-URL",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Voer een streamingserver-URL in",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Cachegrootte",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrentprofiel",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Op de achtergrond uitvoeren",

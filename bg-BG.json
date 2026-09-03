@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Грешка",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Конфигурирай URL на сървъра за поточно предаване",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Въведи URL на сървъра за поточно предаване",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Размер на кеша",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Торент профил",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",

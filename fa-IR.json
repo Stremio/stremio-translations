@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "خطا",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "پیکربندی آدرس سرور استریم",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "وارد کردن URL سرور استریم",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "اندازه کش",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "پروفایل تورنت",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "اجرای در پس‌زمینه",

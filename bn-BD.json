@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "ত্রুটি",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "স্ট্রিমিং সার্ভারের URL কনফিগার করুন",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "একটি স্ট্রিমিং সার্ভারের URL প্রবেশ করান",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "ক্যাশের আকার",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "টরেন্ট প্রোফাইল",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",

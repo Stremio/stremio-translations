@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "Pogreška",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "Konfiguriraj URL streaming poslužitelja",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "Unesite URL streaming poslužitelja",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "Veličina predmemorije",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "Torrent profil",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",

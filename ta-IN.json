@@ -660,6 +660,7 @@
 	"SETTINGS_SERVER_STATUS_ERROR": "பிழை",
 	"SETTINGS_SERVER_CONFIGURE_TITLE": "ஸ்ட்ரீமிங் சேவையக URL-ஐ கட்டமை",
 	"SETTINGS_SERVER_CONFIGURE_INPUT": "ஒரு ஸ்ட்ரீமிங் சேவையக URL-ஐ உள்ளிடவும்",
+	"SETTINGS_SERVER_CONFIGURE_CONFIRM": "Do you want to use this streaming server? Only continue if you trust this address.",
 	"SETTINGS_SERVER_CACHE_SIZE": "தற்காலிக சேமிப்பு அளவு",
 	"SETTINGS_SERVER_TORRENT_PROFILE": "டொரண்ட் சுயவிவரம்",
 	"SETTINGS_SERVER_RUN_IN_BACKGROUND": "Run in the background",
