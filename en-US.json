@@ -202,16 +202,6 @@
 	"PLAYER_CLOCK_ENDS_AT": "Ends at %s",
 
 	"PLAYER_LIVE": "Live",
-	"LIVE_TV_WATCH_LIVE": "Watch live",
-	"LIVE_TV_VIEW_CHANNEL": "View channel",
-	"LIVE_TV_ON_NOW": "On now",
-	"LIVE_TV_SCHEDULE": "Programme guide",
-	"LIVE_TV_NO_PROGRAM": "No programme information right now",
-	"LIVE_TV_NO_SCHEDULE": "Programme information is unavailable for this channel.",
-	"LIVE_TV_NO_PROGRAMS_DATE": "No programmes are listed for this day.",
-	"LIVE_TV_TODAY": "Today",
-	"LIVE_TV_PLAYBACK_OPTIONS": "Playback options",
-	"LIVE_TV_UP_NEXT": "Up next",
 	"PLAYER_NEXT_VIDEO_TITLE": "Coming up next on",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Next on",
 	"PLAYER_NEXT_VIDEO_BUTTON_DISMISS": "Dismiss",
@@ -2048,5 +2038,15 @@
 	"WELCOME_ALL_SET_BODY": "Enjoy your Supporters perks. Discover more in Settings whenever you're ready.",
 	"WELCOME_CONTINUE": "Continue",
 	"WELCOME_BACK": "Back",
-	"WELCOME_GET_STARTED": "Get started"
+	"WELCOME_GET_STARTED": "Get started",
+	"LIVE_TV_WATCH_LIVE": "Watch live",
+	"LIVE_TV_VIEW_CHANNEL": "View channel",
+	"LIVE_TV_ON_NOW": "On now",
+	"LIVE_TV_SCHEDULE": "Programme guide",
+	"LIVE_TV_NO_PROGRAM": "No programme information right now",
+	"LIVE_TV_NO_SCHEDULE": "Programme information is unavailable for this channel.",
+	"LIVE_TV_NO_PROGRAMS_DATE": "No programmes are listed for this day.",
+	"LIVE_TV_TODAY": "Today",
+	"LIVE_TV_PLAYBACK_OPTIONS": "Playback options",
+	"LIVE_TV_UP_NEXT": "Up next"
 }
