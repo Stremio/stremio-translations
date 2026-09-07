@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Doe-het-zelf",
 	"INTRO_TASTE_TECH": "Technologie",
 	"INTRO_TASTE_CINEMA": "Bioscoop",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Geen add-ons zijn geïnstalleerd!",
 	"NO_ADDONS_FOR_TYPE": "Geen add-ons zijn geïnstalleerd voor dit type!",
 	"ADDON_NOT_SUPPORTED": "De geselecteerde add-on wordt niet ondersteund op dit platform.",

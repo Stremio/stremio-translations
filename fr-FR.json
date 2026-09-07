@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "DIY",
 	"INTRO_TASTE_TECH": "Tech",
 	"INTRO_TASTE_CINEMA": "Cinéma",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Aucun addon installé !",
 	"NO_ADDONS_FOR_TYPE": "Aucun addon installé pour ce type !",
 	"ADDON_NOT_SUPPORTED": "L’addon sélectionné n’est pas supporté sur cette plate-forme.",

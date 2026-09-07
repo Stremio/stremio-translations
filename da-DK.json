@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Sådan gør du det selv",
 	"INTRO_TASTE_TECH": "Teknologi",
 	"INTRO_TASTE_CINEMA": "Biograf",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Ingen tilføjelser blev installeret!",
 	"NO_ADDONS_FOR_TYPE": "Ingen tilføjelser blev installeret for denne type!",
 	"ADDON_NOT_SUPPORTED": "Det valgte tilføjelsesmodul understøttes ikke på denne platform.",

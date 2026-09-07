@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Направи сам",
 	"INTRO_TASTE_TECH": "Техника",
 	"INTRO_TASTE_CINEMA": "Кино",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Няма инсталирани добавки!",
 	"NO_ADDONS_FOR_TYPE": "Няма инсталирани добавки за този тип!",
 	"ADDON_NOT_SUPPORTED": "Избраната добавка не се поддържа на тази платформа.",
