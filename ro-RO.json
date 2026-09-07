@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Creează singur",
 	"INTRO_TASTE_TECH": "Tehnologie",
 	"INTRO_TASTE_CINEMA": "Cinematografie",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Nu sunt extensii instalate!",
 	"NO_ADDONS_FOR_TYPE": "Nu sunt extensii instalate pentru acest tip!",
 	"ADDON_NOT_SUPPORTED": "Extensia selectată nu este suportată pe această platformă.",

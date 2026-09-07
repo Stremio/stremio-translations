@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Hazlo tú mismo (DIY)",
 	"INTRO_TASTE_TECH": "Tecnología",
 	"INTRO_TASTE_CINEMA": "Cine",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "¡No se instalaron complementos!",
 	"NO_ADDONS_FOR_TYPE": "¡No se instalaron complementos para este tipo!",
 	"ADDON_NOT_SUPPORTED": "El complemento seleccionado no tiene soporte en esta plataforma.",

@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Nasıl Kendin Yaparsın",
 	"INTRO_TASTE_TECH": "Teknoloji",
 	"INTRO_TASTE_CINEMA": "Sinema",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Hiçbir eklenti yüklenmedi!",
 	"NO_ADDONS_FOR_TYPE": "Bu tür için hiçbir eklenti yüklenmedi!",
 	"ADDON_NOT_SUPPORTED": "Seçilen eklenti bu platformda desteklenmiyor.",
