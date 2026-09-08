@@ -54,6 +54,7 @@ Thank you!
 | sl-SL   | Slovenian            | [@NVTTeam-DragoKraner](https://github.com/NVTTeam)
 | ne-NP   | Nepali               | [@kooolarpan](https://github.com/kooolarpan)
 | tl-TM   | Tamil               | [@bigoninja](https://github.com/bigoninja)
-| be-BY   | Belarusian               | [@vadzimavich](https://github.com/vadzimavich)
+| be-BY   | Belarusian           | [@vadzimavich](https://github.com/vadzimavich)
+| vi-VN   | Vietnamese           | [@manfriendsss](https://github.com/manfriendsss)
 
 Feel free to add yourself!
