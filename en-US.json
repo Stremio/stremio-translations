@@ -2048,5 +2048,9 @@
 	"LIVE_TV_NO_PROGRAMS_DATE": "No programmes are listed for this day.",
 	"LIVE_TV_TODAY": "Today",
 	"LIVE_TV_PLAYBACK_OPTIONS": "Playback options",
-	"LIVE_TV_UP_NEXT": "Up next"
+	"LIVE_TV_UP_NEXT": "Up next",
+	"LIVE_TV_ZOOM_IN": "Zoom in",
+	"LIVE_TV_ZOOM_OUT": "Zoom out",
+	"LIVE_TV_ZOOM_AUTO": "Auto",
+	"PLAYER_GO_LIVE": "Go live"
 }
