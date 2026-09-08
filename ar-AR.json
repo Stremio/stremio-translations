@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "أعمال يدوية (DIY)",
 	"INTRO_TASTE_TECH": "التقنية",
 	"INTRO_TASTE_CINEMA": "السينما",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "لم يتم تثبيت أي إضافات!",
 	"NO_ADDONS_FOR_TYPE": "لا توجد إضافات مثبتة لهذا النوع!",
 	"ADDON_NOT_SUPPORTED": "هذه الإضافة غير مدعومة على هذا النظام.",

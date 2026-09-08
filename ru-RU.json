@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Сделать своими руками",
 	"INTRO_TASTE_TECH": "Технологии",
 	"INTRO_TASTE_CINEMA": "Кино",
+	"LOGIN_SCAN_QR_CODE": "Scan the QR code or go to",
 	"NO_ADDONS": "Дополнения не установлены!",
 	"NO_ADDONS_FOR_TYPE": "Дополнения для этого типа не установлены!",
 	"ADDON_NOT_SUPPORTED": "Выбранное дополнение не поддерживается на этой платформе.",

@@ -439,6 +439,7 @@
 	"INTRO_TASTE_DIY": "Cách tự làm",
 	"INTRO_TASTE_TECH": "Công nghệ",
 	"INTRO_TASTE_CINEMA": "Rạp chiếu phim",
+	"LOGIN_SCAN_QR_CODE": "Quét mã QR hoặc truy cập",
 	"NO_ADDONS": "Chưa có addon nào được cài đặt!",
 	"NO_ADDONS_FOR_TYPE": "Không có addon nào được cài đặt cho loại này!",
 	"ADDON_NOT_SUPPORTED": "Add-on đã chọn không được hỗ trợ trên nền tảng này.",
