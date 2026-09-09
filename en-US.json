@@ -2052,5 +2052,11 @@
 	"LIVE_TV_ZOOM_IN": "Zoom in",
 	"LIVE_TV_ZOOM_OUT": "Zoom out",
 	"LIVE_TV_ZOOM_AUTO": "Auto",
-	"PLAYER_GO_LIVE": "Go live"
+	"PLAYER_GO_LIVE": "Go live",
+	"LIVE_TV_AGENDA": "Agenda",
+	"LIVE_TV_TIMELINE": "Timeline",
+	"LIVE_TV_NOW": "Now",
+	"LIVE_TV_FIT_SELECTED": "Fit selected",
+	"LIVE_TV_PREVIOUS_PROGRAM": "Previous programme",
+	"LIVE_TV_NEXT_PROGRAM": "Next programme"
 }
