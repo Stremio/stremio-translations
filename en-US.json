@@ -2046,5 +2046,8 @@
 	"WELCOME_ALL_SET_BODY": "Enjoy your Supporters perks. Discover more in Settings whenever you're ready.",
 	"WELCOME_CONTINUE": "Continue",
 	"WELCOME_BACK": "Back",
-	"WELCOME_GET_STARTED": "Get started"
+	"WELCOME_GET_STARTED": "Get started",
+	"PLAYER_SUBTITLES_LANGUAGES_SHORT": "Languages",
+	"PLAYER_SUBTITLES_VARIANTS_SHORT": "Variants",
+	"PLAYER_SUBTITLES_STYLING_SHORT": "Styling"
 }
