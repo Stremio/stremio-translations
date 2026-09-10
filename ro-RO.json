@@ -2036,5 +2036,8 @@
 	"WELCOME_ALL_SET_BODY": "Bucură-te de avantajele tale de Susținător. Descoperă mai multe în Setări oricând ești gata.",
 	"WELCOME_CONTINUE": "Continuă",
 	"WELCOME_BACK": "Înapoi",
-	"WELCOME_GET_STARTED": "Începe acum"
+	"WELCOME_GET_STARTED": "Începe acum",
+	"PLAYER_SUBTITLES_LANGUAGES_SHORT": "Languages",
+	"PLAYER_SUBTITLES_VARIANTS_SHORT": "Variants",
+	"PLAYER_SUBTITLES_STYLING_SHORT": "Styling"
 }
