@@ -2036,5 +2036,8 @@
 	"WELCOME_ALL_SET_BODY": "Naudi oma toetajahüve. Kui soovid rohkem, leia rohkem seadetest.",
 	"WELCOME_CONTINUE": "Jätka",
 	"WELCOME_BACK": "Tagasi",
-	"WELCOME_GET_STARTED": "Alusta"
+	"WELCOME_GET_STARTED": "Alusta",
+	"PLAYER_SUBTITLES_LANGUAGES_SHORT": "Languages",
+	"PLAYER_SUBTITLES_VARIANTS_SHORT": "Variants",
+	"PLAYER_SUBTITLES_STYLING_SHORT": "Styling"
 }
