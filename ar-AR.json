@@ -194,6 +194,8 @@
 	"PLAYER_NEXT_VIDEO": "الفيديو التالي",
 	"PLAYER_MUTE": "كتم الصوت",
 	"PLAYER_UNMUTE": "إلغاء الكتم",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "الفتح في مشغل خارجي",
 	"PLAYER_OPEN_IN_NPLAYER": "فتح في nPlayer",
 	"PLAYER_PLAY_IN": "تشغيل في {{device}}",
