@@ -2059,5 +2059,8 @@
 	"LIVE_TV_NOW": "Agora",
 	"LIVE_TV_FIT_SELECTED": "Ajustar selecionado",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Programa anterior",
-	"LIVE_TV_NEXT_PROGRAM": "Programa seguinte"
+	"LIVE_TV_NEXT_PROGRAM": "Programa seguinte",
+	"CLEAR": "Clear",
+	"LOADING": "Loading…",
+	"DELETE": "Delete"
 }

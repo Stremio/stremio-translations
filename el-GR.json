@@ -2059,5 +2059,8 @@
 	"LIVE_TV_NOW": "Τώρα",
 	"LIVE_TV_FIT_SELECTED": "Προσαρμογή επιλεγμένου",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Προηγούμενο πρόγραμμα",
-	"LIVE_TV_NEXT_PROGRAM": "Επόμενο πρόγραμμα"
+	"LIVE_TV_NEXT_PROGRAM": "Επόμενο πρόγραμμα",
+	"CLEAR": "Clear",
+	"LOADING": "Loading…",
+	"DELETE": "Delete"
 }
