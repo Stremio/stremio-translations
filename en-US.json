@@ -2069,5 +2069,21 @@
 	"LIVE_TV_NOW": "Now",
 	"LIVE_TV_FIT_SELECTED": "Fit selected",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Previous programme",
-	"LIVE_TV_NEXT_PROGRAM": "Next programme"
+	"LIVE_TV_NEXT_PROGRAM": "Next programme",
+	"SOURCE_CHECK_ENABLE": "Check sources before opening movies",
+	"SOURCE_CHECK_PRIVACY": "Checks send the selected movie to your installed addons. No video is played.",
+	"SOURCE_CHECK_Unknown": "Check your addons before opening this movie.",
+	"SOURCE_CHECK_Checking": "Checking your addons…",
+	"SOURCE_CHECK_SourcesFound": "Your addons returned video sources. Playback still depends on the source and your device.",
+	"SOURCE_CHECK_ExternalOnly": "Your addons returned links to watch on an external service.",
+	"SOURCE_CHECK_NoSources": "Your addons returned no video sources for this movie.",
+	"SOURCE_CHECK_CheckFailed": "Some addons could not be checked. This does not mean the movie is unavailable.",
+	"SOURCE_CHECK_NoProvider": "No matching addon provided a video source for this movie.",
+	"SOURCE_CHECK_ChooseVideo": "Choose a video on the details page to check its sources.",
+	"SOURCE_CHECK_RETRY": "Check again",
+	"SOURCE_CHECK_OPEN": "View sources",
+	"SOURCE_CHECK_DETAILS": "View details anyway",
+	"SOURCE_CHECK_ADDONS": "Manage addons",
+	"SOURCE_CHECK_TIMEOUT": "The check is taking too long. You can close it or try again.",
+	"SOURCE_CHECK_UNSUPPORTED": "Source checks require an updated Stremio core. You can still view the movie details."
 }
