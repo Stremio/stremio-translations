@@ -557,6 +557,7 @@
 	"SETTINGS_SHORTCUT_INCREASE_PLAYBACK_SPEED": "Augmentar la Velocitat de Reproducció",
 	"SETTINGS_SHORTCUT_DECREASE_PLAYBACK_SPEED": "Disminuir la Velocitat de Reproducció",
 	"SETTINGS_SHORTCUT_PLAYBACK_SPEED": "Ajustar la velocitat de reproducció",
+	"SETTINGS_SHORTCUT_VIDEO_SCALE": "Canviar l'escala del vídeo",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_SIZE": "Augmentar Mida Subtítols",
 	"SETTINGS_SHORTCUT_DECREASE_SUB_SIZE": "Disminuir Mida Subtítols",
 	"SETTINGS_SHORTCUT_INCREASE_SUB_DELAY": "Augmentar Retard Subtítols",
