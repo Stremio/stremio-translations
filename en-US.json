@@ -2073,5 +2073,9 @@
 	"LIVE_TV_NEXT_PROGRAM": "Next programme",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
-	"DELETE": "Delete"
+	"DELETE": "Delete",
+	"PLAYER_PLAYBACK_POSITION": "Playback position",
+	"PLAYER_PLAYBACK_POSITION_VALUE": "%1$@ of %2$@",
+	"PASSWORD_SHOW": "Show password",
+	"PASSWORD_HIDE": "Hide password"
 }
