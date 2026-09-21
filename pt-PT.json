@@ -194,6 +194,8 @@
 	"PLAYER_NEXT_VIDEO": "Próximo vídeo",
 	"PLAYER_MUTE": "Silenciar",
 	"PLAYER_UNMUTE": "Ativar som",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Abrir num leitor externo",
 	"PLAYER_OPEN_IN_NPLAYER": "Abrir no nPlayer",
 	"PLAYER_PLAY_IN": "Reproduzir no {{device}}",
