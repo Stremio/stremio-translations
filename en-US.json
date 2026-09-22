@@ -2080,5 +2080,11 @@
 	"PASSWORD_HIDE": "Hide password",
 	"SETTINGS_GROUP_STREAMING_STORAGE": "Streaming & Storage",
 	"SETTINGS_GROUP_PRIVACY_ABOUT": "Privacy & About",
-	"SETTINGS_ENABLED": "Enabled"
+	"SETTINGS_ENABLED": "Enabled",
+	"DISCOVER_CATALOG_LOAD_ERROR": "The catalog could not be loaded.",
+	"DISCOVER_NO_CATALOGS": "No catalogs are available for Discover.",
+	"DISCOVER_NO_FILTER_RESULTS": "No items match the selected filters.",
+	"DISCOVER_LOAD_MORE_ERROR": "Could not load more results.",
+	"DISCOVER_RELOAD_CATALOG": "Reload catalog",
+	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Reloading starts again from the first page."
 }
