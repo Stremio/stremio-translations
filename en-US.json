@@ -2077,5 +2077,8 @@
 	"PLAYER_PLAYBACK_POSITION": "Playback position",
 	"PLAYER_PLAYBACK_POSITION_VALUE": "%1$@ of %2$@",
 	"PASSWORD_SHOW": "Show password",
-	"PASSWORD_HIDE": "Hide password"
+	"PASSWORD_HIDE": "Hide password",
+	"SETTINGS_GROUP_STREAMING_STORAGE": "Streaming & Storage",
+	"SETTINGS_GROUP_PRIVACY_ABOUT": "Privacy & About",
+	"SETTINGS_ENABLED": "Enabled"
 }
