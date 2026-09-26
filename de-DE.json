@@ -503,6 +503,7 @@
 	"THEME": "Design",
 	"THEME_DEFAULT": "Standard",
 	"THEME_ADAPTIVE": "Adaptiv",
+	"THEME_BLACK": "Black",
 	"CHOOSE_COLOR": "Farbe wählen:",
 	"SETTINGS_APP_VERSION": "App-Version",
 	"SETTINGS_BUILD_VERSION": "Build-Version",

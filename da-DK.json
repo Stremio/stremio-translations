@@ -503,6 +503,7 @@
 	"THEME": "Tema",
 	"THEME_DEFAULT": "Standard",
 	"THEME_ADAPTIVE": "Adaptiv",
+	"THEME_BLACK": "Black",
 	"CHOOSE_COLOR": "Vælg en farve:",
 	"SETTINGS_APP_VERSION": "App-version",
 	"SETTINGS_BUILD_VERSION": "Build-version",
