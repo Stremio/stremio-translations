@@ -509,6 +509,8 @@
 	"THEME_EMBER": "Ember",
 	"THEME_PLUM": "Plum",
 	"THEME_GRAPHITE": "Graphite",
+	"THEME_APPLY": "Apply Theme",
+	"THEME_CURRENT": "Current Theme",
 	"CHOOSE_COLOR": "Alege o culoare:",
 	"SETTINGS_APP_VERSION": "Versiune Aplicație",
 	"SETTINGS_BUILD_VERSION": "Versiune Build",

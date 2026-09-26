@@ -509,6 +509,8 @@
 	"THEME_EMBER": "Ember",
 	"THEME_PLUM": "Plum",
 	"THEME_GRAPHITE": "Graphite",
+	"THEME_APPLY": "Apply Theme",
+	"THEME_CURRENT": "Current Theme",
 	"CHOOSE_COLOR": "ஒரு வண்ணத்தைத் தேர்ந்தெடுங்கள்:",
 	"SETTINGS_APP_VERSION": "பயன்பாட்டுப் பதிப்பு",
 	"SETTINGS_BUILD_VERSION": "உருவாக்கப் பதிப்பு",

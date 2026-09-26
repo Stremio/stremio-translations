@@ -509,6 +509,8 @@
 	"THEME_EMBER": "Ember",
 	"THEME_PLUM": "Plum",
 	"THEME_GRAPHITE": "Graphite",
+	"THEME_APPLY": "Apply Theme",
+	"THEME_CURRENT": "Current Theme",
 	"CHOOSE_COLOR": "একটি রঙ নির্বাচন করুন:",
 	"SETTINGS_APP_VERSION": "অ্যাপ সংস্করণ",
 	"SETTINGS_BUILD_VERSION": "বিল্ড সংস্করণ",
