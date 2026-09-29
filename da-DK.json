@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Ingen tilføjelser blev installeret for denne type!",
 	"ADDON_NOT_SUPPORTED": "Det valgte tilføjelsesmodul understøttes ikke på denne platform.",
 	"ADDON_DISCLAIMER": "Brug af tredjepartsudvidelser vil altid være underlagt dit ansvar og den gældende lov i den jurisdiktion, du befinder dig i.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Vil du aktivere dette tilføjelsesmodul?",
 	"ADDON_REPO_ADD": "URL til samling af tilføjelser",
 	"ADDON_ADD": "Tilføj",

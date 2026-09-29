@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Δεν έχουν εγκατασταθεί πρόσθετα για αυτόν τον τύπο!",
 	"ADDON_NOT_SUPPORTED": "Το επιλεγμένο πρόσθετο δεν υποστηρίζεται σε αυτήν την πλατφόρμα.",
 	"ADDON_DISCLAIMER": "Η χρήση τρίτων προσθέτων θα υπόκειται πάντα στη δική σας ευθύνη και την ισχύουσα νομοθεσία της χώρας σας.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Ενεργοποίηση προσθέτου;",
 	"ADDON_REPO_ADD": "URL συλλογής προσθέτων",
 	"ADDON_ADD": "Προσθήκη",

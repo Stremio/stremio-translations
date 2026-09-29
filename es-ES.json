@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "¡No se instalaron complementos para este tipo!",
 	"ADDON_NOT_SUPPORTED": "El complemento seleccionado no tiene soporte en esta plataforma.",
 	"ADDON_DISCLAIMER": "El uso de complementos de terceros siempre estará sujeto a su responsabilidad y la ley de gobierno de la jurisdicción en que se encuentre.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "¿Activar este complemento?",
 	"ADDON_REPO_ADD": "URL de la colección de complementos",
 	"ADDON_ADD": "Agregar",
