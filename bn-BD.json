@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "এই ধরণের জন্য কোনো অ্যাড-অন ইনস্টল করা হয়নি!",
 	"ADDON_NOT_SUPPORTED": "নির্বাচিত অ্যাডঅনটি এই প্ল্যাটফর্মে সমর্থিত নয়।",
 	"ADDON_DISCLAIMER": "তৃতীয় পক্ষের অ্যাডঅন ব্যবহার সর্বদা আপনার দায়িত্ব এবং আপনি যে অধিক্ষেত্রে আছেন তার শাসনকানুনের অধীনে হবে।",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "এই অ্যাডঅনটি সক্রিয় করবেন?",
 	"ADDON_REPO_ADD": "অ্যাডঅন সংগ্রহের URL",
 	"ADDON_ADD": "যোগ করুন",

@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Không có addon nào được cài đặt cho loại này!",
 	"ADDON_NOT_SUPPORTED": "Add-on đã chọn không được hỗ trợ trên nền tảng này.",
 	"ADDON_DISCLAIMER": "Dùng add-on của bên thứ ba sẽ luôn phải tuân theo trách nhiệm của bạn và luật điều chỉnh của khu vực tài phán mà bạn sinh sống.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Kích hoạt add-on này?",
 	"ADDON_REPO_ADD": "URL bộ sưu tập add-on",
 	"ADDON_ADD": "Thêm",

@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "இந்த வகைக்கு துணை நிரல்கள் எதுவும் நிறுவப்படவில்லை!",
 	"ADDON_NOT_SUPPORTED": "தேர்ந்தெடுக்கப்பட்ட துணை நிரல் இந்த தளத்தில் ஆதரிக்கப்படவில்லை.",
 	"ADDON_DISCLAIMER": "மூன்றாம் தரப்பு துணை நிரல்களைப் பயன்படுத்துவது எப்போதும் உங்கள் பொறுப்பிற்கும், நீங்கள் இருக்கும் அதிகார வரம்பின் ஆளும் சட்டத்திற்கும் உட்பட்டது.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "இந்த துணை நிரலை இயக்கவா?",
 	"ADDON_REPO_ADD": "துணை நிரல் சேகரிப்பு URL",
 	"ADDON_ADD": "சேர்",

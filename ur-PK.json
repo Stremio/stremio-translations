@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "اس قسم کے لیے کوئی ایڈآنز انسٹال نہیں ہوئے!",
 	"ADDON_NOT_SUPPORTED": "منتخب کردہ ایڈآن اس پلیٹ فارم پر سپورٹ نہیں ہے۔",
 	"ADDON_DISCLAIMER": "تیسرے فریق کے ایڈآنز کا استعمال ہمیشہ آپ کی ذمہ داری اور آپ کے علاقے کے قانون کے تابع ہوگا۔",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "یہ ایڈآن فعال کریں؟",
 	"ADDON_REPO_ADD": "ایڈآن کلیکشن URL",
 	"ADDON_ADD": "شامل کریں",

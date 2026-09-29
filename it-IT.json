@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Nessun addon è stato installato per questo tipo!",
 	"ADDON_NOT_SUPPORTED": "L’addon selezionato non è supportato su questa piattaforma.",
 	"ADDON_DISCLAIMER": "Usare addon di terze parti sarà sempre soggetto alla tua responsabilità e alle leggi vigenti nella giurisdizione in cui ti trovi.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Attivare questo addon?",
 	"ADDON_REPO_ADD": "URL della collezione dell’addon",
 	"ADDON_ADD": "Aggiungi",
