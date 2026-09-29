@@ -2061,6 +2061,7 @@
 	"LIVE_TV_FIT_SELECTED": "Ajustar à seleção",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Programa anterior",
 	"LIVE_TV_NEXT_PROGRAM": "Próximo programa",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Limpar",
 	"LOADING": "Carregando…",
 	"DELETE": "Excluir"

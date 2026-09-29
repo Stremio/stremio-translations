@@ -2061,6 +2061,7 @@
 	"LIVE_TV_FIT_SELECTED": "Προσαρμογή επιλεγμένου",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Προηγούμενο πρόγραμμα",
 	"LIVE_TV_NEXT_PROGRAM": "Επόμενο πρόγραμμα",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
 	"DELETE": "Delete"

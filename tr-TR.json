@@ -2061,6 +2061,7 @@
 	"LIVE_TV_FIT_SELECTED": "Seçileni sığdır",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Önceki program",
 	"LIVE_TV_NEXT_PROGRAM": "Sonraki program",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
 	"DELETE": "Delete"
