@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Bu tür için hiçbir eklenti yüklenmedi!",
 	"ADDON_NOT_SUPPORTED": "Seçilen eklenti bu platformda desteklenmiyor.",
 	"ADDON_DISCLAIMER": "Üçüncü taraf eklentileri kullanmak her zaman sizin sorumluluğunuza ve bulunduğunuz yargı bölgesinin geçerli yasasına tabi olacaktır.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Bu eklenti etkinleştirilsin mi?",
 	"ADDON_REPO_ADD": "Eklenti koleksiyon URL'si",
 	"ADDON_ADD": "Ekle",
@@ -2061,6 +2063,7 @@
 	"LIVE_TV_FIT_SELECTED": "Seçileni sığdır",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Önceki program",
 	"LIVE_TV_NEXT_PROGRAM": "Sonraki program",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
 	"DELETE": "Delete"
