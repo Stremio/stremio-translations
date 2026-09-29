@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Não foram instalados addons deste tipo!",
 	"ADDON_NOT_SUPPORTED": "O addon selecionado não é suportado nesta plataforma.",
 	"ADDON_DISCLAIMER": "Ao utilizares um addon de terceiros, estarás a fazê-lo por tua conta e risco e sujeito às leis do país onde estás.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Ativar este addon?",
 	"ADDON_REPO_ADD": "URL do repositório do addon",
 	"ADDON_ADD": "Adicionar",
@@ -2061,6 +2063,7 @@
 	"LIVE_TV_FIT_SELECTED": "Ajustar selecionado",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Programa anterior",
 	"LIVE_TV_NEXT_PROGRAM": "Programa seguinte",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
 	"DELETE": "Delete"

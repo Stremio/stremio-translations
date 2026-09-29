@@ -444,6 +444,8 @@
 	"NO_ADDONS_FOR_TYPE": "Šiam tipui neįdiegta jokių priedų!",
 	"ADDON_NOT_SUPPORTED": "Pasirinktas priedas šioje platformoje nepalaikomas.",
 	"ADDON_DISCLAIMER": "Naudojantis trečiųjų šalių priedais, visada prisiimate atsakomybę ir privalote laikytis jūsų jurisdikcijos įstatymų.",
+	"ADDON_WATCH_ACTIVITY_WARNING": "This addon receives your watch activity: what you play, pause and stop, and what you add to, remove from or mark as watched in your library. Only install it if you trust it.",
+	"ADDON_WATCH_ACTIVITY_TRUST": "I trust this addon with my watch activity",
 	"ADDON_ACTIVATE": "Aktyvuoti šį priedą?",
 	"ADDON_REPO_ADD": "Priedų rinkinio URL nuoroda",
 	"ADDON_ADD": "Pridėti",
@@ -2061,6 +2063,7 @@
 	"LIVE_TV_FIT_SELECTED": "Fit selected",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Previous programme",
 	"LIVE_TV_NEXT_PROGRAM": "Next programme",
+	"LIVE_TV_NO_CHANNELS": "No channels were found",
 	"CLEAR": "Clear",
 	"LOADING": "Loading…",
 	"DELETE": "Delete"
