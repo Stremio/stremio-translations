@@ -194,6 +194,8 @@
 	"PLAYER_NEXT_VIDEO": "Prossimo video",
 	"PLAYER_MUTE": "Muto",
 	"PLAYER_UNMUTE": "Non muto",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "Apri in un player esterno",
 	"PLAYER_OPEN_IN_NPLAYER": "Apri su nPlayer",
 	"PLAYER_PLAY_IN": "In riproduzione su {{device}}",
