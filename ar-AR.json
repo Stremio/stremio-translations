@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "هذه الاضافه غير مثبته، هل تريد تثبيتها الآن؟",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "تلقي إشعارات عند صدور حلقات جديدة",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "تلقي إشعارات عند صدور فيديوهات جديدة",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "إظهار مصادر البث",
 	"RELAUNCH": "أعد التشغيل الآن!",
 	"UPGRADE": "إصدار جديد متاح! حدّث Stremio إلى أحدث نسخة",

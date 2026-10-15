@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Add-on này chưa được cài đặt. Cài đặt ngay?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Nhận thông báo về các tập mới",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Nhận thông báo về video mới",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Hiển thị nguồn phát",
 	"RELAUNCH": "Tái khởi chạy ngay bây giờ!",
 	"UPGRADE": "Đã có phiên bản mới! Nâng cấp lên phiên bản Stremio mới nhất",

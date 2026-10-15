@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Тази добавка не е инсталирана. Инсталиране?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Получаване на известия за нови епизоди",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Получаване на известия за нови видеа",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Показване на източниците",
 	"RELAUNCH": "Стартиране на новата версия!",
 	"UPGRADE": "Достъпна е нова версия",

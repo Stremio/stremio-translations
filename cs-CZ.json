@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Tento doplněk není nainstalován. Nainstalovat nyní?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Přijímání oznámení o nových epizodách",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Přijímání upozornění na nová videa",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Ukázat zdroje",
 	"RELAUNCH": "Restartovat nyní!",
 	"UPGRADE": "Nová verze je k dispozici! Upgrade na nejnovější verzi Stremio",

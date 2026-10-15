@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "このアドオンはインストールされていません。今すぐインストールしますか？",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "新エピソードの通知を受け取る",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "新ビデオの通知を受け取る",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "ストリームを表示",
 	"RELAUNCH": "今すぐ再起動！",
 	"UPGRADE": "新バージョンが利用可能です！最新のStremioバージョンにアップグレード",

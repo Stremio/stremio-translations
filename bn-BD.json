@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "এই অ্যাডঅনটি ইনস্টল করা নেই। এখনই ইনস্টল করবেন?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "নতুন এপিসোডের জন্য বিজ্ঞপ্তি পান",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "নতুন ভিডিওর জন্য বিজ্ঞপ্তি পান",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "স্ট্রিমগুলি দেখান",
 	"RELAUNCH": "এখনই পুনরায় চালু করুন!",
 	"UPGRADE": "নতুন সংস্করণ! সর্বশেষ Stremio সংস্করণে আপগ্রেড করুন",

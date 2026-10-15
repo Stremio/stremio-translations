@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Ovaj dodatak nije instaliran. Želite li ga instalirati sada?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primaj obavijesti o novim epizodama",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primaj obavijesti o novim videozapisima",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Prikaži izvore",
 	"RELAUNCH": "Ponovno pokreni!",
 	"UPGRADE": "Dostupna je nova verzija! Nadogradite na najnoviji Stremio",

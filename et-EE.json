@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "See laiendus pole paigaldatud. Paigalda nüüd?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Saa teavitusi uute osade kohta",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Saa teavitusi uute videote kohta",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Kuva edastusvood",
 	"RELAUNCH": "Käivita uuesti!",
 	"UPGRADE": "Uus versioon on saadaval! Uuenda Stremio viimase versioonini",

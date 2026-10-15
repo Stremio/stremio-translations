@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Cette extension n’est pas installée. L’installer maintenant ?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Recevoir des notifications pour les nouveaux épisodes",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Recevoir des notifications pour les nouvelles vidéos",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Afficher les flux",
 	"RELAUNCH": "Redémarrez maintenant !",
 	"UPGRADE": "Nouvelle version disponible ! Mise à jour vers la dernière version de Stremio",

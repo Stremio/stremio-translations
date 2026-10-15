@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Гэта дапаўненне не ўсталявана. Усталяваць зараз?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Атрымліваць апавяшчэнні пра новыя эпізоды",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Атрымліваць апавяшчэнні пра новыя відэа",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Паказаць патокі",
 	"RELAUNCH": "Перазапусціць!",
 	"UPGRADE": "Даступная новая версія! Абнавіце Stremio да апошняй версіі",

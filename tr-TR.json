@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Bu eklenti yüklü değil. Şimdi yüklensin mi?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Yeni bölümler için bildirim alın",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Yeni görüntüler için bildirim alın",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Akışları Göster",
 	"RELAUNCH": "Şimdi yeniden başlat!",
 	"UPGRADE": "Yeni sürüm mevcut! En son Stremio sürümüne yükseltin",

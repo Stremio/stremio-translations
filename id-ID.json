@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Tambahan ini tidak terpasang. Pasang sekarang?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Terima notifikasi untuk serial baru",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Terima notifikasi untuk video baru",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Tampilkan siaran",
 	"RELAUNCH": "Buka ulang sekarang!",
 	"UPGRADE": "Versi baru tersedia! Tingkatkan ke versi Stremio terbaru",

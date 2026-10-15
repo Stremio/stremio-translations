@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Este addon não está instalado. Instalar agora?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Receber notificações de novos episódios.",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Receber notificações de novos vídeos.",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Mostrar streams",
 	"RELAUNCH": "Reiniciar agora!",
 	"UPGRADE": "Está disponível uma nova versão! Atualiza para a versão mais recente do Stremio",

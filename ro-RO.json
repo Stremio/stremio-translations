@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Această extensie nu este instalată. O instalezi acum?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Primește notificări pentru episoade noi",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Primește notificări pentru videoclipuri noi",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Afișează fluxurile",
 	"RELAUNCH": "Reporniți acum!",
 	"UPGRADE": "Este disponibilă o nouă versiune! Actualizați la cea mai recentă versiune Stremio",

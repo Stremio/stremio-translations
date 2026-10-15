@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Šis priedas neįdiegtas. Įdiegti dabar?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Gauti pranešimus apie naujas serijas",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Gauti pranešimus apie naujus vaizdo įrašus",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Rodyti transliacijas",
 	"RELAUNCH": "Paleisti iš naujo dabar!",
 	"UPGRADE": "Yra nauja versija! Atnaujinkite į naujausią Stremio versiją",

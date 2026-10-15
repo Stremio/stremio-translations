@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Αυτό το πρόσθετο δεν έχει εγκατασταθεί. Να γίνει εγκατάσταση;",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Λήψη ειδοποιήσεων για νέα επεισόδια",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Λήψη ειδοποιήσεων για νέα βίντεο",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Εμφάνιση ροών",
 	"RELAUNCH": "Κάντε επανεκκίνηση τώρα!",
 	"UPGRADE": "Υπάρχει νέα διαθέσιμη έκδοση! Αναβαθμίστε στην πιο πρόσφατη έκδοση του Stremio",

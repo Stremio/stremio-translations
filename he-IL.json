@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "תוסף זה אינו מותקן. האם להתקין אותו כעת?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "קבלת התראות עבור פרקים חדשים",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "קבלת התראות עבור סרטים חדשים",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "הצגת זרימות",
 	"RELAUNCH": "הפעל מחדש כעת!",
 	"UPGRADE": "עדכן לגרסה האחרונה של סטרימיו",
