@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Ĉi tiu aldonaĵo ne estas instalita. Instali nun?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ricevi sciigoj de novaj epizodoj Receive notifications for new episodes",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ricevi sciigoj de novaj videoj",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Montri elsendojn",
 	"RELAUNCH": "Remalfermi nun!",
 	"UPGRADE": "Nova versio estas disponebla! Ĝisdatigu Stremio-n a la lasta versio!",

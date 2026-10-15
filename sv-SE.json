@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Detta tillägg är inte installerat. Installera nu?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Få aviseringar för nya avsnitt",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Få aviseringar för nya videor",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Visa strömmar",
 	"RELAUNCH": "Starta om nu!",
 	"UPGRADE": "Uppgradera till den senaste versionen av Stremio",

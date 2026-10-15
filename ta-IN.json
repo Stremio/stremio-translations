@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "இந்த துணை நிரல் நிறுவப்படவில்லை. இப்போது நிறுவவா?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "புதிய அத்தியாயங்களுக்கான அறிவிப்புகளைப் பெறவும்",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "புதிய காணொலிகளுக்கான அறிவிப்புகளைப் பெறவும்",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "ஸ்ட்ரீம்களைக் காட்டு",
 	"RELAUNCH": "இப்போது மீண்டும் துவக்கவும்!",
 	"UPGRADE": "புதிய பதிப்பு கிடைக்கிறது! சமீபத்திய Stremio பதிப்பிற்கு மேம்படுத்தவும்",

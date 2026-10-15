@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Denne tilføjelse er ikke installeret. Installer nu?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Modtag notifikationer om nye episoder",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Modtag notifikationer om nye videoer",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Vis streams",
 	"RELAUNCH": "Genindlæs nu!",
 	"UPGRADE": "Ny version er tilgængelig! Opgrader til den nyeste Stremio-version",

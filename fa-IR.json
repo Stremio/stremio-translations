@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "این افزونه نصب نشده است. اکنون نصب شود؟",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "دریافت اطلاعیه برای قسمت های جدید",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "دریافت اعلان برای ویدیوهای جدید",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "نمایش استریم‌ها",
 	"RELAUNCH": "اکنون دوباره راه اندازی کنید!",
 	"UPGRADE": "نسخه جدید موجود است! به آخرین نسخه Stremio ارتقا دهید",

@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Deze add-on is niet geïnstalleerd. Nu installeren?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Ontvang meldingen bij nieuwe afleveringen",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Ontvang meldingen bij nieuwe video's",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Toon Streams",
 	"RELAUNCH": "Herstart Stremio",
 	"UPGRADE": "Update naar de laatste Stremio versie",

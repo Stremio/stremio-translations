@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Tätä lisäosaa ei ole asennettu. Asennetaanko nyt?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Vastaanota ilmoituksia uusista jaksoista",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Vastaanota ilmoituksia uusista videoista",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Näytä streamit",
 	"RELAUNCH": "Käynnistä uudelleen nyt!",
 	"UPGRADE": "Uusi versio on saatavilla! Päivitä uusimpaan Stremio-versioon",

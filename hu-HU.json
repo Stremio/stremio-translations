@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Ez a bővítmény nincs telepítve. ",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Kapj értesítéseket új epizódokról",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Kapj értesítéseket új videókról",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Streamek megjelenítése",
 	"RELAUNCH": "Újraindítás most!",
 	"UPGRADE": "Új verzió érhető el! Frissíts a legújabb Stremio verzióra",

@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Gehigarri hau ez dago instalatuta. Orain instalatu nahi duzu?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Jaso atal berrien jakinarazpenak",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Jaso bideo berrien jakinarazpenak",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Erakutsi stream-ak",
 	"RELAUNCH": "Berrabiarazi orain!",
 	"UPGRADE": "Bertsio berria eskuragarri dago! Bertsio berritu Stremio azken bertsiora",

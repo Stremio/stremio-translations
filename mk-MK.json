@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Овој додаток не е инсталиран. Инсталирате сега?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Добивајте известувања за нови епизоди",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Добивајте известувања за нови видеа",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Прикажи стримови",
 	"RELAUNCH": "Лансирај ја новата верзија!",
 	"UPGRADE": "Достапна е нова верзија",

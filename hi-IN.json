@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "यह एडन स्थापित नहीं है। अब स्थापित करें?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "नए एपिसोड के लिए सूचनाएं प्राप्त करें",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "नए वीडियो के लिए सूचनाएं प्राप्त करें",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "स्ट्रीम दिखाएं",
 	"RELAUNCH": "अब पुनः प्रक्षेपण!",
 	"UPGRADE": "नया संस्करण उपलब्ध है! नवीनतम STREMIO संस्करण में अपग्रेड करें",

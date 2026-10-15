@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "未安裝此外掛，立即安裝？",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "接受新劇集的通知",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "接受新影片的通知",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "顯示流媒體",
 	"RELAUNCH": "立即重新啟動！",
 	"UPGRADE": "新版本可用！升級至Stremio的最新版本",

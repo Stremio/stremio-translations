@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "Овај додатак није инсталиран. Инсталирати сада?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "Примање обавештења о новим епизодама",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "Примање обавештења о новим видео снимцима",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "Прикажи стримове",
 	"RELAUNCH": "Поново покренути сада!",
 	"UPGRADE": "Нова верзија је доступна! Надоградите на најновију верзију апликације Stremio",

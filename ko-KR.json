@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "이 애드온은 설치되어 있지 않습니다. 지금 설치하시겠습니까?",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "새로운 에피소드에 대한 알림 수신",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "새로운 영상에 대한 알림 수신",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "스트림 표시",
 	"RELAUNCH": "지금 바로 재기동!",
 	"UPGRADE": "새로운 버전이 출시되었습니다! 최신 Stremio 버전으로 업그레이드",

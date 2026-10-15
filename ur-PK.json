@@ -342,6 +342,7 @@
 	"ERR_ADDON_NOT_INSTALLED": "یہ ایڈآن انسٹال نہیں ہے۔ اب انسٹال کریں؟",
 	"DETAIL_RECEIVE_NOTIF_SERIES": "نئے ایپیسوڈز کے لیے اطلاعات حاصل کریں",
 	"DETAIL_RECEIVE_NOTIF_VIDEOS": "نئے ویڈیوز کے لیے اطلاعات حاصل کریں",
+	"DETAILS_LAST_USED": "Last used",
 	"SIDEBAR_SHOW_STREAMS": "سٹریمز دکھائیں",
 	"RELAUNCH": "اب دوبارہ شروع کریں!",
 	"UPGRADE": "نیا ورژن دستیاب ہے! Stremio کے تازہ ترین ورژن میں اپگریڈ کریں",
