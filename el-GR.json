@@ -199,7 +199,7 @@
 	"PLAYER_PLAY_IN": "Αναπαραγωγή στο {{device}}",
 	"PLAYER_NO_CAST_DEVICES_FOUND": "Δεν βρέθηκαν συσκευές προβολής",
 	"PLAYER_SWITCH_TO": "Αλλαγή σε %s",
-	"PLAYER_CLOCK_ENDS_AT": "Τελειώνει σε %s",
+	"PLAYER_CLOCK_ENDS_AT": "Τελειώνει στις %s",
 	"PLAYER_LIVE": "Ζωντανά",
 	"PLAYER_NEXT_VIDEO_TITLE": "Επόμενο βίντεο",
 	"PLAYER_NEXT_VIDEO_TITLE_SHORT": "Ακολουθεί",
