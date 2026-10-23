@@ -194,6 +194,8 @@
 	"PLAYER_NEXT_VIDEO": "அடுத்த காணொலி",
 	"PLAYER_MUTE": "ஒலியை நிறுத்து",
 	"PLAYER_UNMUTE": "ஒலியை இயக்கு",
+	"PLAYER_PICTURE_IN_PICTURE": "Picture-in-picture",
+	"PLAYER_EXIT_PICTURE_IN_PICTURE": "Exit picture-in-picture",
 	"PLAYER_OPEN_IN_EXTERNAL": "வெளிப்புற பிளேயரில் திற",
 	"PLAYER_OPEN_IN_NPLAYER": "nPlayer-ல் திற",
 	"PLAYER_PLAY_IN": "{{device}}-ல் இயக்கு",
