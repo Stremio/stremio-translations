@@ -2099,5 +2099,7 @@
 	"DISCOVER_NO_FILTER_RESULTS": "Seçilen süzgeçlerle eşleşen öğeler yok.",
 	"DISCOVER_LOAD_MORE_ERROR": "Daha fazla sonuç yüklenemedi.",
 	"DISCOVER_RELOAD_CATALOG": "Kataloğu yeniden yükle",
-	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Yeniden yükleme ilk sayfadan tekrar başlar."
+	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Yeniden yükleme ilk sayfadan tekrar başlar.",
+	"SETTINGS_MPV_CONFIG": "mpv configuration file",
+	"SETTINGS_MPV_CONFIG_DEFAULT": "Default"
 }
