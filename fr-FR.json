@@ -1003,7 +1003,7 @@
 	"ADDON_UNINSTALL": "Désinstaller",
 	"ADDON_UNINSTALL_ALL_PROFILES": "Désinstaller pour tous les profils",
 	"ADDON_UPGRADE": "Mettre à jour",
-	"ADDON_INSTALLED": "Installées",
+	"ADDON_INSTALLED": "Installée",
 	"ADDON_INSTALLED_MSG": "Extension installée !",
 	"ADDON_UPGRADED_MSG": "Extension mise à jour !",
 	"ADDON_UNKNOWN": "Inconnue",
