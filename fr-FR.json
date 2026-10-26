@@ -2099,5 +2099,7 @@
 	"DISCOVER_NO_FILTER_RESULTS": "Aucun contenu ne correspond aux filtres sélectionnés.",
 	"DISCOVER_LOAD_MORE_ERROR": "Impossible de charger davantage de résultats.",
 	"DISCOVER_RELOAD_CATALOG": "Recharger le catalogue",
-	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Le rechargement reprend à la première page."
+	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Le rechargement reprend à la première page.",
+	"SETTINGS_MPV_CONFIG": "mpv configuration file",
+	"SETTINGS_MPV_CONFIG_DEFAULT": "Default"
 }
