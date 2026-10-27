@@ -2100,6 +2100,5 @@
 	"DISCOVER_LOAD_MORE_ERROR": "Δεν ήταν δυνατή η φόρτωση περισσότερων αποτελεσμάτων.",
 	"DISCOVER_RELOAD_CATALOG": "Επαναφόρτωση καταλόγου",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Η επαναφόρτωση ξεκινά ξανά από την πρώτη σελίδα.",
-	"SETTINGS_MPV_CONFIG": "Αρχείο ρυθμίσεων mpv",
-	"SETTINGS_MPV_CONFIG_DEFAULT": "Προεπιλογή"
+	"SETTINGS_MPV_CONFIG": "Custom mpv config"
 }
