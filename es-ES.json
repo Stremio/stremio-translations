@@ -2100,6 +2100,5 @@
 	"DISCOVER_LOAD_MORE_ERROR": "No se pudieron cargar más resulados.",
 	"DISCOVER_RELOAD_CATALOG": "Volver a cargar catálogo",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "La recarga comienza de nuevo desde la primera página.",
-	"SETTINGS_MPV_CONFIG": "fichero de configuración de mpv",
-	"SETTINGS_MPV_CONFIG_DEFAULT": "Por defecto"
+	"SETTINGS_MPV_CONFIG": "Custom mpv config"
 }
