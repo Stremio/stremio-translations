@@ -567,7 +567,7 @@
 	"SETTINGS_SHORTCUT_VOLUME": "Sesi Ayarla",
 	"SETTINGS_SHORTCUT_MUTE": "Sessize Almayı Aç/Kapat",
 	"SETTINGS_CINEMETA_CONFIG": "Cinemeta yapılandırması",
-	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Toggle Subtitles",
+	"SETTINGS_SHORTCUT_TOGGLE_SUBTITLES": "Altyazıyı Aç/Kapat",
 	"SETTINGS_SHORTCUT_SEEK_NEXT": "Sonrakine Atlat",
 	"SETTINGS_SHORTCUT_SEEK_PREV": "Öncekine Atlat",
 	"SETTINGS_SHORTCUT_SEEK_BACKWARD": "Geriye Doğru Atlat",
@@ -988,9 +988,9 @@
 	"SEND_A_LINK": "Veya web sitemize bir bağlantı gönderin",
 	"TIP_LOCALFILES": "İpucu: yerel görüntü dosyalarınızı Stremio'ya sürükleyip bırakabilirsiniz",
 	"ADDON_MY": "Eklentilerim",
-	"ADDON_CATALOG_COMMUNITY": "Community",
-	"ADDON_CATALOG_OFFICIAL": "Official",
-	"ADDON_CATALOG_INSTALLED": "Installed",
+	"ADDON_CATALOG_COMMUNITY": "Toluluk",
+	"ADDON_CATALOG_OFFICIAL": "Resmi",
+	"ADDON_CATALOG_INSTALLED": "Yüklenmiş",
 	"ADDON_COMMUNITY": "Topluluk Eklentileri",
 	"ADDON_SECONDARY": "İkincil Eklentiler",
 	"ADDON_OFFICIAL": "Resmi Eklentiler",
@@ -2100,5 +2100,5 @@
 	"DISCOVER_LOAD_MORE_ERROR": "Daha fazla sonuç yüklenemedi.",
 	"DISCOVER_RELOAD_CATALOG": "Kataloğu yeniden yükle",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Yeniden yükleme ilk sayfadan tekrar başlar.",
-	"SETTINGS_MPV_CONFIG": "Custom mpv config"
+	"SETTINGS_MPV_CONFIG": "Özel mpv yapılandırması"
 }
