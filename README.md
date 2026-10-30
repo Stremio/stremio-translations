@@ -30,7 +30,7 @@ Thank you!
 | hu-HU   | Hungarian            | [@pterdi](https://github.com/pterdi)
 | hr-HR   | Croatian             | [@boljsa](https://github.com/boljsa)
 | id-ID   | Indonesian           | [@danangtomo](https://github.com/danangtomo), [@harysetyopermadi](https://github.com/Harysetyopermadi), [@rioarjuna](https://github.com/Rarj), [@haikalrr](https://github.com/haikalrr) and [@emonnaja](https://github.com/emonnaja)
-| it-IT   | Italian              | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95), [@penguinFSS](https://github.com/penguinFSS), [@vitotassplayer](https://github.com/vitotassplayer) and [@zago84](https://github.com/zago84)
+| it-IT   | Italian              | [@pippo73](https://github.com/pippo73), [@zurdyo](https://github.com/zurdyo), [@archetipo95](https://github.com/archetipo95), [@penguinFSS](https://github.com/penguinFSS), [@vitotassplayer](https://github.com/vitotassplayer), [@zago84](https://github.com/zago84) and [@andrearoggeri22](https://github.com/andrearoggeri22)
 | ja-JP   | Japanese             | [@riolove1](https://github.com/riolove1)
 | ko-KR   | Korean               | [@kangjung](https://github.com/kangjung)
 | lt-LT   | Lithuanian           | [@DevMantelis](https://github.com/DevMantelis)
