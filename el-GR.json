@@ -1946,7 +1946,7 @@
 	"USER_PROFILES_REMOVE_PIN": "Αφαίρεση PIN",
 	"USER_PROFILES_DELETE_PROFILE_BUTTON": "Διαγραφή προφίλ",
 	"USER_PROFILES_ADMIN": "Διαχειριστής",
-	"USER_PROFILES_LABEL": "Supporters",
+	"USER_PROFILES_LABEL": "Υποστηρικτές",
 	"USER_PROFILES_SAVE_PROFILE_BUTTON": "Αποθήκευση προφίλ",
 	"USER_PROFILES_SAVE_PIN": "Αποθήκευση PIN",
 	"USER_PROFILES_CREATE_PROFILE_BUTTON": "Δημιουργία προφίλ",
@@ -2106,7 +2106,7 @@
 	"WEBSITE_HAPPY_STREAMING": "Καλή ροή!",
 	"WEBSITE_JOIN_OUR_COMMUNITY": "Γίνετε μέλος της κοινότητάς μας",
 	"WEBSITE_GOT_IT": "Το κατάλαβα!",
-	"WEBSITE_GOOGLE_PLAY_STORE": "Google Play Store",
+	"WEBSITE_GOOGLE_PLAY_STORE": "Κατάστημα Google Play",
 	"WEBSITE_CAREERS": "Καριέρες",
 	"WEBSITE_LOGGED_IN_AS": "Συνδεδεμένοι ως",
 	"WEBSITE_SIGN_OUT": "Αποσύνδεση",
@@ -2170,7 +2170,7 @@
 	"LIVE_TV_FIT_SELECTED": "Προσαρμογή επιλεγμένου",
 	"LIVE_TV_PREVIOUS_PROGRAM": "Προηγούμενο πρόγραμμα",
 	"LIVE_TV_NEXT_PROGRAM": "Επόμενο πρόγραμμα",
-	"LIVE_TV_NO_CHANNELS": "No channels were found",
+	"LIVE_TV_NO_CHANNELS": "Δεν βρέθηκαν κανάλια",
 	"CLEAR": "Απαλοιφή",
 	"LOADING": "Φόρτωση…",
 	"DELETE": "Διαγραφή",
@@ -2187,5 +2187,5 @@
 	"DISCOVER_LOAD_MORE_ERROR": "Δεν ήταν δυνατή η φόρτωση περισσότερων αποτελεσμάτων.",
 	"DISCOVER_RELOAD_CATALOG": "Επαναφόρτωση καταλόγου",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Η επαναφόρτωση ξεκινά ξανά από την πρώτη σελίδα.",
-	"SETTINGS_MPV_CONFIG": "Custom mpv config"
+	"SETTINGS_MPV_CONFIG": "Προσαρμοσμένες ρυθμίσεις mpv"
 }
