@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "Élő TV",
 	"STREMIO_TV_NAV_SETTINGS": "Beállítások",
 	"STREMIO_TV_NAV_ADDONS": "Bővítmények",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Fiók összekapcsolása",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Lejár ekkor: ",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Olvasd be a fenti QR-kódot, vagy nyisd meg a következő címet:",

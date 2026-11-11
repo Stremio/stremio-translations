@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "Canlı TV",
 	"STREMIO_TV_NAV_SETTINGS": "Ayarlar",
 	"STREMIO_TV_NAV_ADDONS": "Eklentiler",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Hesabı Bağla",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Sona erme tarihi",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Yukarıdaki QR Kodu tarayın veya",

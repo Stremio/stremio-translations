@@ -1753,6 +1753,7 @@
 	"STREMIO_TV_NAV_TV": "Live TV",
 	"STREMIO_TV_NAV_SETTINGS": "Settings",
 	"STREMIO_TV_NAV_ADDONS": "Addons",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Link Account",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Scan QR Code above or go to",

@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "بث مباشر",
 	"STREMIO_TV_NAV_SETTINGS": "الإعدادات",
 	"STREMIO_TV_NAV_ADDONS": "الإضافات",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "ربط الحساب",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "تنتهي الصلاحية خلال",
 	"STREMIO_TV_LOGIN_STEP_ONE": "امسح رمز QR أعلاه أو اذهب إلى",

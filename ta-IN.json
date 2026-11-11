@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "நேரலை டிவி",
 	"STREMIO_TV_NAV_SETTINGS": "அமைப்புகள்",
 	"STREMIO_TV_NAV_ADDONS": "துணை நிரல்கள்",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "கணக்கை இணை",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "இதில் காலாவதியாகிறது",
 	"STREMIO_TV_LOGIN_STEP_ONE": "மேலே உள்ள QR குறியீட்டை ஸ்கேன் செய்யவும் அல்லது செல்லவும்",

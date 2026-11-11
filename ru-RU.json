@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "ТВ",
 	"STREMIO_TV_NAV_SETTINGS": "Настройки",
 	"STREMIO_TV_NAV_ADDONS": "Дополнения",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Привязать аккаунт",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Истекает через",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Отсканируйте QR-код или перейдите на",

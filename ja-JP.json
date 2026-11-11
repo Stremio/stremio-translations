@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "生放送",
 	"STREMIO_TV_NAV_SETTINGS": "設定",
 	"STREMIO_TV_NAV_ADDONS": "アドオン",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "アカウントを連携",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "有効期限",
 	"STREMIO_TV_LOGIN_STEP_ONE": "上のQRコードをスキャンするか、次のURLにアクセス",

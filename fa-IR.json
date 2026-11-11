@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "تلویزیون زنده",
 	"STREMIO_TV_NAV_SETTINGS": "تنظیمات",
 	"STREMIO_TV_NAV_ADDONS": "افزونه ها",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "پیوند حساب",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "منقضی می شود در",
 	"STREMIO_TV_LOGIN_STEP_ONE": "کد QR بالا را اسکن کنید یا به آن بروید",

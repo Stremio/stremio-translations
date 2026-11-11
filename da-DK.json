@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "Live TV",
 	"STREMIO_TV_NAV_SETTINGS": "Indstillinger",
 	"STREMIO_TV_NAV_ADDONS": "Tilføjelser",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Link Konto",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Udløber om",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Scan QR-koden ovenfor eller gå til",

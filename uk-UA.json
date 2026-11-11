@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "ТБ наживо",
 	"STREMIO_TV_NAV_SETTINGS": "Налаштування",
 	"STREMIO_TV_NAV_ADDONS": "Доповнення",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Пов’язати обліковий запис",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Термін дії закінчується через",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Відскануйте QR-код вище або перейдіть до",

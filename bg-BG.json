@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "ТВ на живо",
 	"STREMIO_TV_NAV_SETTINGS": "Настройки",
 	"STREMIO_TV_NAV_ADDONS": "Добавки",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Свързване на акаунт",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Изтича на",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Сканирай QR кода по-горе или отиди на",

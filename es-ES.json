@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "TV en vivo",
 	"STREMIO_TV_NAV_SETTINGS": "Configuración",
 	"STREMIO_TV_NAV_ADDONS": "Complementos",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "Asociar Cuenta",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expira en",
 	"STREMIO_TV_LOGIN_STEP_ONE": "Escanea el Código QR de arriba o visita",

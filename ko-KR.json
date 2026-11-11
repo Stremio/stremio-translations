@@ -1746,6 +1746,7 @@
 	"STREMIO_TV_NAV_TV": "라이브 TV",
 	"STREMIO_TV_NAV_SETTINGS": "설정",
 	"STREMIO_TV_NAV_ADDONS": "애드온",
+	"STREMIO_TV_NAV_CALENDAR": "Calendar",
 	"STREMIO_TV_LOGIN_TITLE": "계정 링크",
 	"STREMIO_TV_LOGIN_EXPIRES_IN": "Expires in",
 	"STREMIO_TV_LOGIN_STEP_ONE": "위의 QR코드를 스캔하거나 다음으로 이동합니다.",
