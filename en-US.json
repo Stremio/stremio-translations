@@ -844,8 +844,6 @@
 	"SETTINGS_SUMMARY_CONTENT": "Catalogs, stream filters",
 	"SETTINGS_STREAM_PRESETS_SCOPE_IN_BROWSER": "Presets follow your account. The one you activate applies only in this browser.",
 	"SETTINGS_STREAM_PRESETS_SCOPE_ON_DEVICE": "Presets follow your account. The one you activate applies only on this device.",
-	"SETTINGS_GROUP_PROFILE_LOCK": "Profile lock",
-	"SETTINGS_NAV_PLAYBACK_AND_LOCK": "Playback and lock",
 	"SETTINGS_SCOPE_SAVED_FOR_IN_BROWSER": "Saved for {{name}} in this browser",
 	"SETTINGS_SCOPE_SAVED_FOR_ON_DEVICE": "Saved for {{name}} on this device",
 	"SETTINGS_SCOPE_SAVED_FOR": "Saved for {{name}}",
