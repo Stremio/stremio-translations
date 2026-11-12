@@ -831,6 +831,8 @@
 	"SETTINGS_DELETE_ACCOUNT": "Delete account",
 	"SETTINGS_STREAMING_HTTPS_ENDPOINT": "Streaming HTTPS endpoint",
 	"SETTINGS_ACCOUNT_GUEST_HINT": "Log in to sync your library and addons.",
+	"SETTINGS_ACCOUNT_GUEST": "Guest",
+	"SETTINGS_ACCOUNT_LOG_IN_SIGN_UP": "Log in or Sign up",
 	"SETTINGS_SEARCH_RESULTS_TITLE": "Search results",
 	"SETTINGS_SEARCH_RESULTS_one": "{{count}} setting for “{{query}}”",
 	"SETTINGS_SEARCH_RESULTS_other": "{{count}} settings for “{{query}}”",
