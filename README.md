@@ -23,6 +23,7 @@ Thank you!
 | el-GR   | Greek                | [@pentakalos](https://github.com/pentakalos), [@trlef19](https://github.com/trlef19) and [@CDrosos](https://github.com/CDrosos)
 | eo-EO   | Esperanto            | [@fightsthumbs](https://github.com/fightsthumbs)
 | es-ES   | Spanish              | [@Decc98](https://github.com/Decc98), [@FernandoUY](https://github.com/FernandoUY), [@cosmoscalibur](https://github.com/cosmoscalibur), [@robertlluberes](https://github.com/robertlluberes), [@fightsthumbs](https://github.com/fightsthumbs), [@bhabermann](https://github.com/bhabermann), [@Jaaq5](https://github.com/Jaaq5), Federico Erbetta, [@kresbok](https://github.com/Kresbok), [@Pigamer37](https://github.com/Pigamer37) and [@rodomissan](https://github.com/rodomissan)
+| et-EE   | Estonian             | [@kontomurr](https://github.com/kontomurr)
 | eu-ES   | Basque               | [@ionlizarazu](https://github.com/ionlizarazu) and [@iazkue](https://github.com/iazkue)
 | fa-IR   | Persian              | [@mcuteangel](https://github.com/mcuteangel)
 | fr-FR   | French               | [@Nath74k](https://github.com/Nath74k), [@greg0ire](https://github.com/greg0ire), [@tymmesyde](https://github.com/tymmesyde), [@samuel-rl](https://github.com/samuel-rl), [@ludob1t](https://github.com/Ludob1t) and [@moodiness](https://github.com/moodiness)
