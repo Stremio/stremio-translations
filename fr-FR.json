@@ -2230,5 +2230,8 @@
 	"DISCOVER_LOAD_MORE_ERROR": "Impossible de charger davantage de résultats.",
 	"DISCOVER_RELOAD_CATALOG": "Recharger le catalogue",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Le rechargement reprend à la première page.",
-	"SETTINGS_MPV_CONFIG": "Custom mpv config"
+	"SETTINGS_MPV_CONFIG": "Custom mpv config",
+	"PLAYER_SUBTITLES_PRIMARY": "Principal",
+	"PLAYER_SUBTITLES_SECONDARY": "Secondaire",
+	"PLAYER_SUBTITLES_SECONDARY_LOADING": "Chargement des sous-titres secondaires…"
 }
