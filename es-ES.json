@@ -2230,5 +2230,21 @@
 	"DISCOVER_LOAD_MORE_ERROR": "No se pudieron cargar más resulados.",
 	"DISCOVER_RELOAD_CATALOG": "Volver a cargar catálogo",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "La recarga comienza de nuevo desde la primera página.",
-	"SETTINGS_MPV_CONFIG": "Custom mpv config"
+	"SETTINGS_MPV_CONFIG": "Custom mpv config",
+	"PLAYER_VIDEO_ERROR_1": "Error desconocido",
+	"PLAYER_VIDEO_ERROR_2": "La fuente no es compatible",
+	"PLAYER_VIDEO_ERROR_3": "No se pudo cargar la fuente",
+	"PLAYER_VIDEO_ERROR_60": "Tu dispositivo no es compatible con esta fuente",
+	"PLAYER_VIDEO_ERROR_70": "No se pudieron cargar los subtítulos externos",
+	"PLAYER_VIDEO_ERROR_80": "Se interrumpió la descarga",
+	"PLAYER_VIDEO_ERROR_81": "Se produjo un error durante la descarga",
+	"PLAYER_VIDEO_ERROR_82": "Se produjo un error al decodificar el vídeo",
+	"PLAYER_VIDEO_ERROR_83": "El vídeo no es compatible",
+	"PLAYER_VIDEO_ERROR_90": "No se pudo cargar la API del reproductor integrado de YouTube",
+	"PLAYER_VIDEO_ERROR_91": "La solicitud contiene un valor de parámetro no válido",
+	"PLAYER_VIDEO_ERROR_92": "El contenido solicitado no se puede reproducir en un reproductor HTML5",
+	"PLAYER_VIDEO_ERROR_93": "No se encontró el vídeo solicitado",
+	"PLAYER_VIDEO_ERROR_94": "El propietario del vídeo solicitado no permite reproducirlo en reproductores integrados",
+	"PLAYER_VIDEO_ERROR_100": "Se recibió un mensaje no válido",
+	"PLAYER_VIDEO_ERROR_101": "No se pudo enviar el mensaje"
 }
