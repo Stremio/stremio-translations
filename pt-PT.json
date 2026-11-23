@@ -895,7 +895,7 @@
 	"SETTINGS_STREAM_PRESETS": "As tuas predefinições",
 	"SETTINGS_STREAM_PRESETS_EMPTY": "Sem predefinições",
 	"SETTINGS_STREAM_PRESETS_CANCEL": "Cancelar",
-	"SETTINGS_STREAM_PRESETS_DELETE": "Eliminar predefinição"
+	"SETTINGS_STREAM_PRESETS_DELETE": "Eliminar predefinição",
 	"RESTART_REQUIRED": "É necessário reiniciar",
 	"RESTART_REQUIRED_MESSAGE": "O Stremio precisa de reiniciar para que esta definição tenha efeito.",
 	"SUBSPICKER_AUDIO": "Áudio",
