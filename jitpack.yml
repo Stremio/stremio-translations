@@ -10,5 +10,4 @@ before_install:
   - export PATH=$PATH:`pwd`/node-v"$NODE_VERSION"-linux-x64/bin
   - npm i
   - npm run build:android
-  - npm run build:kmm
   - cp -r ./android/* .
