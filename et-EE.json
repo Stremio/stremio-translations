@@ -2242,5 +2242,21 @@
 	"DISCOVER_LOAD_MORE_ERROR": "Could not load more results.",
 	"DISCOVER_RELOAD_CATALOG": "Lae kataloog",
 	"DISCOVER_RELOAD_FROM_FIRST_PAGE": "Kataloogi laadimine algab esimeselt lehelt.",
-	"SETTINGS_MPV_CONFIG": "Kohandatud mpv-seadistus"
+	"SETTINGS_MPV_CONFIG": "Kohandatud mpv-seadistus",
+	"PLAYER_VIDEO_ERROR_1": "Unknown error",
+	"PLAYER_VIDEO_ERROR_2": "Stream is not supported",
+	"PLAYER_VIDEO_ERROR_3": "Stream failed to load",
+	"PLAYER_VIDEO_ERROR_60": "Your device does not support the stream",
+	"PLAYER_VIDEO_ERROR_70": "Failed to load external subtitles",
+	"PLAYER_VIDEO_ERROR_80": "Fetching process aborted",
+	"PLAYER_VIDEO_ERROR_81": "Error occurred when downloading",
+	"PLAYER_VIDEO_ERROR_82": "Error occurred when decoding",
+	"PLAYER_VIDEO_ERROR_83": "Video is not supported",
+	"PLAYER_VIDEO_ERROR_90": "YouTube player iframe API failed to load",
+	"PLAYER_VIDEO_ERROR_91": "The request contains an invalid parameter value",
+	"PLAYER_VIDEO_ERROR_92": "The requested content cannot be played in an HTML5 player",
+	"PLAYER_VIDEO_ERROR_93": "The video requested was not found",
+	"PLAYER_VIDEO_ERROR_94": "The owner of the requested video does not allow it to be played in embedded players",
+	"PLAYER_VIDEO_ERROR_100": "Invalid message received",
+	"PLAYER_VIDEO_ERROR_101": "Failed to send message"
 }
