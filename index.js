@@ -1,4 +1,4 @@
-// No automatic generation: we don't want to depend on fs, as we want to keep this universal
+﻿// No automatic generation: we don't want to depend on fs, as we want to keep this universal
 // ls *-*.json | while read line; do printf "\"`printf $line | cut -d '.' -f1`\",\n"; done
 
 var languages = [
@@ -13,6 +13,7 @@ var languages = [
 	"en-US",
 	"eo-EO",
 	"es-ES",
+	"es-MX",
 	"eu-ES",
 	"fa-IR",
 	"fi-FI",
@@ -68,6 +69,7 @@ module.exports = function () {
     "en-US": require("./en-US.json"),
     "eo-EO": require("./eo-EO.json"),
     "es-ES": require("./es-ES.json"),
+    "es-MX": require("./es-MX.json"),
     "eu-ES": require("./eu-ES.json"),
     "fa-IR": require("./fa-IR.json"),
     "fi-FI": require("./fi-FI.json"),
