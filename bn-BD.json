@@ -878,7 +878,7 @@
 	"SETTINGS_SUMMARY_PROFILES_one": "{{count}}টি প্রোফাইল",
 	"SETTINGS_SUMMARY_PROFILES_other": "{{count}}টি প্রোফাইল",
 	"SETTINGS_GROUP_PROFILE": "প্রোফাইল",
-	"SETTINGS_CURRENT_PROFILE": "বর্তমান প্রোফাইল: {{name}}"
+	"SETTINGS_CURRENT_PROFILE": "বর্তমান প্রোফাইল: {{name}}",
 	"SETTINGS_FILTER_STREAMS": "স্ট্রিম ফিল্টার করুন",
 	"SETTINGS_FILTER": "ফিল্টার",
 	"SETTINGS_STREAM_PRESETS_DESCRIPTION": "আপনি আপনার স্ট্রিমের জন্য একাধিক ফিল্টার প্রিসেট যোগ করে এই ডিভাইসের জন্য একটি সক্রিয় করতে পারেন। প্রতিটি ডিভাইসের জন্য আলাদা প্রিসেট সক্রিয় করা যায়।",
